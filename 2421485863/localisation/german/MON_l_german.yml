@@ -1,0 +1,30 @@
+﻿l_german:
+
+integration_mongolian_lands_category:0 "Integration der mongolischen Gebiete"
+integration_mongolian_lands_category_desc:0 "Die Kontrolle der von der mongolischen Bevölkerung bewohnten Gebiete bietet uns die Möglichkeit, unsere Verwaltung auf diese Regionen auszuweiten und sie in unseren Staat zu integrieren."
+MON_decision_integrate_tuva:0 "Tuwa integrieren"
+MON_decision_integrate_mongolia:0 "Integrieren Sie die Mongolei"
+MON_decision_integrate_south_chahar:0 "Integrieren Süd-Tschafar"
+MON_decision_integrate_north_chahar:0 "Integrieren Nord-Tschafar"
+MON_decision_integrate_suiyuan:0 "Integrieren Suiyuan"
+MON_decision_integrate_ordos:0 "Integrieren Ordos"
+MON_decision_integrate_jiuquan:0 "Integrieren Jioquan"
+MON_decision_integrate_buryatia:0 "Integrieren Burjatien"
+MON_decision_integrate_irkutsk:0 "Integrieren Irkutsk"
+
+MON_go_on_pilgrimage_to_the_burkhan_khaldun:0 "Pilgerreise zum Burkhan Khaldun"
+MON_go_on_pilgrimage_to_the_burkhan_khaldun_desc:0 "Der heiligste Berg der Mongolei, der Burkhan Khaldun, ist vielleicht auch die Ruhestätte von Dschingis Khan und seinen Nachfolgern. Ein Ort von großer Bedeutung für jeden Mongolen, der alles unter dem Himmel beherrschen will."
+
+mongol.7.t:0 "Tanzende Schatten"
+mongol.7.d:0 "Seit den massiven politischen Umbesetzungen, die in [SOV.GetNameDef] stattgefunden haben. Viele Beamte innerhalb der [SOV.GetName] befürchten, dass [Root.GetName] möglicherweise Feinde des Regimes von [SOV.GetLeader] schützt. Sie fordern, dass mögliche Feinde von [SOV.GetNameDef] ausgeliefert werden. Darüber hinaus hat [SOV.GetLeader] [Root.GetLeader] als jemanden ins Visier genommen, der Feinde von [SOV.GetNameDef] geschützt hat, und möchte, dass er schnell vor Gericht gestellt und hingerichtet wird."
+mongol.7.a:0 "Hier gibt es keine fünfte Kolonne. [Root.GetLeader] ist ein Patriot und ein loyaler Kommunist."
+mongol.7.b:0 "Der [SOV.GetName] hat Recht, antikommunistische Schatten sind überall."
+
+TAN_khertek_anchimaa_toka:0 "Khertek Anchimaa-Toka"
+TAN_kidispey_choodu:0 "Kidispey Choodu"
+TAN_lapshyn_oyun:0 "Lapshyn Oyun"
+TAN_seren_kuzhuget:0 "Seren Kuzhuget"
+
+
+GEN_tuva_annex_ussr:0 "Sowjetisch Was?"
+GEN_tuva_annex_ussr_desc:0 "Herzlichen Glückwunsch! Sie haben den geheimen Fokus gefunden, der von jemandem im rt56-Diskord vorgeschlagen wurde. Er dachte, dass sein Flehen ignoriert wurde, aber entgegen aller Wahrscheinlichkeit wurde sein Ruf erhört. Ein gnädiger Waffle erhörte sein Gebet und ließ sein Gelübde unter einem mondlosen Himmel Wirklichkeit werden. Viel Spaß beim Genießen Ihrer leichten tuwinischen Welteroberung."

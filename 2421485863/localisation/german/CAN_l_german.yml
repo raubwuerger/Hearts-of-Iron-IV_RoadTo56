@@ -1,0 +1,996 @@
+﻿l_german:
+  
+ CAN_support_a_synarchist_baja:0 " CAN_support_a_synarchist_baja:0 "Synarchistische Kommunen unterstützen""
+ CAN_reopen_the_toronto_shipyards:0 " CAN_reopen_the_toronto_shipyards:0 "Öffne die Toronto-Werften wieder""
+  
+ #Why is there not a localization for this in the game??? " #Warum gibt es dafür keine Lokalisierung im Spiel?"
+ radar_tech_research:0 " radar_tech_research:0 "Radar Technology Research
+
+ #Scarborough’s General Engineering Company: mines, ammunition factory event airports " #Scarborough's General Engineering Company: Minen, Munitionsfabrik Event Flughäfen"
+
+ CAN_rowell_sirois_commission_idea:0 " CAN_rowell_sirois_commission_idea:0 "Rowell Sirois Kommission""
+ CAN_canada_pacific_railway_idea:0 " CAN_canada_pacific_railway_idea:0 "Kanada-Pazifik-Eisenbahn""
+ CAN_maritime_colonial_railway_idea:0 " CAN_maritime_koloniale_eisenbahn_idea:0 "Maritime Koloniale Eisenbahn""
+ CAN_national_housing_act_idea:0 " CAN_national_housing_act_idea:0 "Nationales Wohnungsbaugesetz""
+ CAN_dollar_a_year_men_idea:0 " CAN_dollar_a_year_men_idea:0 "Dollar A Year Men""
+ CAN_henry_angus:0 " CAN_henry_angus:0 "Henry Angus""
+
+ CAN_canadian_pacific_railway:0 " CAN_canadian_pacific_railway:0 "Kanadische Pazifik-Eisenbahn""
+ CAN_montreal_locomotive_works:0 " CAN_montreal_locomotive_works:0 "Montrealer Lokomotivwerke""
+ CAN_dominion_foundries:0 " CAN_dominion_foundries:0 "Dominion Gießereien""
+ CAN_northern_electric:0 " CAN_northern_electric:0 "Northern Electric""
+ CAN_stelco:0 " CAN_stelco:0 "Stelco""
+ CAN_gm_of_canada:0 " CAN_gm_of_canada:0 "General Motors von Kanada""
+ CAN_ford:0 " CAN_ford:0 "Ford Motor Gesellschaft""
+ CAN_sorel_industries:0 " CAN_sorel_industries:0 "Sorel Industrien""
+ CAN_canadian_power_boat_company:0 " CAN_canadian_power_boat_company:0 "Kanadische Motorbootgesellschaft""
+ CAN_marine_industries:0 " CAN_marine_industries:0 "Marine-Industrie""
+ CAN_davie_shipbuilding:0 " CAN_davie_schiffbau:0 "Davie Schiffbau""
+ pratt_and_whitney:0 " pratt_und_whitney:0 "Pratt & Whitney""
+ CAN_boeing_of_canada:0 " CAN_boeing_of_canada:0 "Boeing aus Kanada""
+ CAN_victory_aircraft:0 " CAN_victory_aircraft:0 "Victory-Flugzeug""
+ CAN_canadair:0 " CAN_canadair:0 "Canadair""
+ CAN_imperial_oil_idea:0 " CAN_imperial_oil_idea:0 "Kaiserliches Öl""
+ CAN_sorel_steel_and_foundries:0 " CAN_sorel_steel_and_foundries:0 "Sorel Stahl und Gießereien""
+
+ CAN_ernest_james_renaud:0 " CAN_ernest_james_renaud:0 "Ernest James Renaud""
+ CAN_leonard_w_murray:0 " CAN_leonard_w_murray:0 "Leonard W. Murray""
+
+ QBC_generic_electronics_concern:0 " QBC_generic_electronics_concern:0 "Kanadische Marconi Ltd.""
+
+ r56_CAN_sorel_industries_naval_artillery:0 " r56_CAN_sorel_industries_naval_artillery:0 "Sorel Industries Naval Artillery""
+ r56_CAN_sorel_industries_naval_artillery_desc:0 " r56_CAN_sorel_industries_naval_artillery_desc:0 "Sorel Industries vereint eine Schiffswerft und eine Fabrik für Artilleriegeschütze. Es ist nur logisch, dass diese Geschütze auf Schiffen eingesetzt werden.
+  
+ #Ideas " #Ideen"
+  
+ r56_CAN_great_depression_01:0 " r56_CAN_great_depression_01:0 "Die große Depression""
+ r56_CAN_great_depression_02:0 " r56_CAN_great_depression_02:0 "Die große Depression""
+ r56_CAN_great_depression_03:0 " r56_CAN_große_Depression_03:0 "Die große Depression""
+ r56_CAN_great_depression_04:0 " r56_CAN_große_Depression_04:0 "Die Große Depression""
+ r56_CAN_great_depression_04:0 " r56_CAN_große_Depression_04:0 "Die Große Depression""
+  
+ r56_CAN_royal_twenty_centers:0 " r56_CAN_royal_twenty_centers:0 "[Root.GetTwentyCentersName]""
+ r56_CAN_royal_twenty_centers_desc:0 " r56_CAN_royal_twenty_centers_desc:0 "Aufgrund der §YThe Great Depression§! sanktionierte die Regierung ein umstrittenes landesweites System von Lagern, um alleinstehenden, arbeitslosen, obdachlosen kanadischen Männern Arbeit zu geben. Sie wurden wegen des erhaltenen Lohns von 20 Cents pro Tag "Royal Twenty Centers" genannt. Sie arbeiteten viele Stunden pro Woche für einen winzigen Betrag, und ihre Arbeitsmoral war nicht besonders gut. Diese Lager waren für mehrere Unruhen verantwortlich, und es könnten in Zukunft noch mehr werden, wenn wir diese nicht schließen... \n\n§Das kann in Zukunft zu Aufständen führen§!""
+ R56_CAN_TWENTY_CENTERS_ROYAL:0 " R56_CAN_TWENTY_CENTERS_ROYAL:0 "Königliche Zwanziger-Zentren""
+ R56_CAN_TWENTY_CENTERS:0 " R56_CAN_TWENTY_CENTERS:0 "Die Zwanzig Zentren""
+  
+ r56_CAN_royal_twenty_centers_angered:0 " r56_CAN_royal_twenty_centers_angered:0 "[Root.GetTwentyCentersAngeredName]""
+ r56_CAN_royal_twenty_centers_angered_desc:0 " r56_CAN_royal_twenty_centers_angered_desc:0 "Aufgrund der §YThe Great Depression§! sanktionierte die Regierung ein umstrittenes landesweites System von Lagern, um alleinstehenden, arbeitslosen, obdachlosen kanadischen Männern Arbeit zu geben. Sie wurden "Royal Twenty Centers" genannt, weil sie einen Lohn von 20 Cents pro Tag erhielten. Sie arbeiteten viele Stunden pro Woche für einen winzigen Betrag, und ihre Arbeitsmoral war nicht besonders gut. Diese Lager sind für mehrere Aufstände verantwortlich, und es könnte in Zukunft noch mehr davon geben, wenn wir sie nicht schließen... Aufgrund der Gewalt, die angewendet wurde, um ihren Aufstand zu beenden, sind die Zwanzig Zentren wütender als zuvor... §RMöglicherweise wird es in Zukunft zu schweren Unruhen kommen§!""
+ R56_CAN_TWENTY_CENTERS_ROYAL_ANGERED:0 " R56_CAN_TWENTY_CENTERS_ROYAL_ANGERED:0 "Königliche Zwanzig-Zentren""
+ R56_CAN_TWENTY_CENTERS_ANGERED:0 " R56_CAN_TWENTY_CENTERS_ANGERED:0 "Die Zwanzig Zentren""
+  
+ r56_CAN_royal_twenty_centers_compensated:0 " r56_CAN_KÖNIGLICHE_ZWANZIG-ZENTREN_KOMPENSIERT:0 "Die Aufständischen kompensiert""
+
+ r56_CAN_the_big_cut_01:0 " r56_CAN_der_große_schnitt_01:0 "Der große Schnitt""
+ r56_CAN_the_big_cut_01_desc:0 " r56_CAN_the_big_cut_01_desc:0 "Dem kanadischen Militär wurde in den letzten Jahren das Budget stark gekürzt. Das wirkt sich auf die Ausbildung unserer Truppen und die Rüstungsproduktion aus, bis wir es schaffen, unser Budget zu erhöhen.""
+ r56_CAN_the_big_cut_02:0 " r56_CAN_the_big_cut_02:0 "Die große Kürzung""
+ r56_CAN_the_big_cut_02_desc:0 " r56_CAN_the_big_cut_02_desc:0 "Dem kanadischen Militär wurde in den letzten Jahren das Budget stark gekürzt. Das wirkt sich auf die Ausbildung unserer Truppen und die Rüstungsproduktion aus, bis wir es schaffen, unser Budget zu erhöhen.""
+  
+ r56_CAN_nonindependent_airforce_01:0 " r56_CAN_nonindependent_airforce_01:0 "Nicht-unabhängige Luftwaffe""
+ r56_CAN_nonindependent_airforce_01_desc:0 " r56_CAN_nonindependent_airforce_01_desc:0 "Die kanadische Luftwaffe ist an die Armee gebunden und gilt nicht als eigene Organisation.""
+ r56_CAN_nonindependent_airforce_02:0 " r56_CAN_nonindependent_airforce_02:0 "Nicht unabhängige Luftwaffe""
+ r56_CAN_nonindependent_airforce_02_desc:0 " r56_CAN_nonindependent_airforce_02_desc:0 "Die kanadische Luftwaffe ist an das Heer gebunden und wird nicht als eigene Organisation betrachtet.""
+  
+ r56_CAN_dollar_a_year_men_idea:0 " r56_CAN_dollar_a_year_men_idea:0 "Dollar-A-Year-Männer""
+  
+ r56_CAN_cbc_idea:0 " r56_CAN_cbc_idea:0 "Die CBC""
+  
+ r56_CAN_national_housing_act_idea:0 " r56_CAN_national_housing_act_idea:0 "Nationales Wohnungsbaugesetz""
+  
+ r56_CAN_volunteers_01:0 " r56_CAN_volunteers_01:0 "Freiwillige""
+ r56_CAN_volunteers_02:0 " r56_CAN_Freiwillige_02:0 "Freiwillige""
+ r56_CAN_volunteers_03:0 " r56_CAN_volunteers_03:0 "Ehrenamtliche Mitarbeiter""
+   
+ r56_CAN_wartime_prices_and_trade_board_idea_01:0 " r56_CAN_wartime_prices_and_trade_board_idea_01:0 "Kriegspreise und Handelsamt""
+
+ r56_CAN_department_of_munitions_and_supply_01:0 " r56_CAN_Abteilung_für_Munition_und_Versorgung_01:0 "Abteilung für Munition und Versorgung""
+ r56_CAN_department_of_munitions_and_supply_02:0 " r56_CAN_department_of_munitions_and_supply_02:0 "Amt für Munition und Versorgung""
+  
+ r56_CAN_nrma_idea:0 " r56_CAN_nrma_idea:0 "Gesetz zur Mobilisierung nationaler Ressourcen""
+  
+ r56_CAN_docr_democratic:0 " r56_CAN_docr_democratic:0 "Verordnung über die Verteidigung Kanadas""
+ r56_CAN_docr_communism:0 " r56_CAN_docr_communism:0 "Verordnung über die Verteidigung Kanadas" ⧏33⧐ r56_CAN_docr_communism:0 "Verordnung über die Verteidigung Kanadas"
+ r56_CAN_docr_fascism:0 " r56_CAN_docr_fascism:0 "Verteidigung der Kanada-Bestimmungen""
+  
+ r56_CAN_camp_borden_idea:0 " r56_CAN_camp_borden_idea:0 "Lager Borden""
+  
+ r56_CAN_conscription_forced:0 " r56_CAN_einberufung_erzwungen:0 "Erzwungene Einberufung""
+
+ r56_CAN_fight_the_uboats_idea_01:0 " r56_CAN_fight_the_uboats_idea_01:0 "Kampf gegen die U-Boote""
+ r56_CAN_fight_the_uboats_idea_02:0 " r56_CAN_fight_the_uboats_idea_02:0 "Kampf gegen die U-Boote""
+  
+ r56_CAN_merchant_fleet_idea:0 " r56_CAN_Handelsflotte_idea:0 "Die Handelsflotte""
+  
+ r56_CAN_wrens_idea:0 " r56_CAN_wrens_idea:0 "[Root.GetWrensName]""
+  
+ r56_CAN_forge_our_own_future_idea:0 " r56_CAN_forge_our_own_future_idea:0 "Schmiede unsere eigene Zukunft""
+  
+ r56_CAN_cwatp:0 " r56_CAN_cwatp:0 "Der Plan""
+  
+ r56_CAN_blue_shirts:0 " r56_CAN_blue_shirts:0 "Die Blauhemden""
+  
+ r56_CAN_one_party_state:0 " r56_CAN_one_party_state:0 "Ein Einparteienstaat""
+  
+ r56_CAN_influenced_by_canada:0 " r56_CAN_influenced_by_canada:0 "Beeinflusst von Kanada""
+  
+ r56_CAN_if_day:0 " r56_CAN_if_day:0 "Wenn Tag""
+ r56_CAN_if_day_desc:0 " r56_CAN_if_day_desc:0 "Die simulierte Invasion Kanadas durch deutsche Truppen, organisiert von Greater Winnipeg Victory Loan, war als Spendensammelaktion für die Kriegsanstrengungen erfolgreich. Die Gelder sollten unsere Wirtschaft eine Zeit lang ankurbeln.""
+  
+ r56_CAN_interventionism:0 " r56_CAN_interventionism:0 "Interventionismus""
+  
+ r56_CAN_CAMP_X_idea:0 " r56_CAN_CAMP_X_idea:0 "Lager X""
+  
+ r56_CAN_grizzly_idea:0 " r56_CAN_grizzly_idea:0 "Der Grizzly""
+  
+ r56_CAN_restrict_immigration_idea:0 " r56_CAN_restrict_immigration_idea:0 "Eingeschränkte Einwanderung""
+  
+ r56_CAN_mosleys_ideas:0 " r56_CAN_mosleys_ideas:0 "Mosleys Ideen""
+
+ r56_CAN_restructured_government:0 " r56_CAN_restructured_government:0 "Restrukturierte Regierung
+  
+ r56_CAN_anti_communism:0 " r56_CAN_anti_communism:0 "Antikommunismus""
+  
+ r56_CAN_can_ship_purchases:0 " r56_CAN_can_ship_purchases:0 "Bezahlung für Schiffe""
+  
+ r56_CAN_reduced_tariffs:0 " r56_CAN_reduzierte_Zölle:0 "Reduzierte Zölle""
+  
+ r56_CAN_WCMC:0 " r56_CAN_WCMC:0 "Militärkommando Westküste""
+  
+ r56_CAN_free_access:0 " r56_CAN_free_access:0 "Offene Grenzen zu den USA""
+  
+ r56_CAN_fighter:0 " r56_CAN_fighter:0 "Kampfflugzeuge für das Empire bauen""
+  
+ r56_CAN_canada_united_idea:0 " r56_CAN_canada_united_idea:0 "Kanadier vereint""
+  
+ r56_CAN_quebec_conscription_idea:0 " r56_CAN_quebec_conscription_idea:0 "Quebecois Nationalismus""
+  
+ r56_CAN_frogmen_idea:0 " r56_CAN_frogmen_idea:0 "Froschmänner""
+  
+ r56_CAN_anti_war_policy_idea:0 " r56_CAN_anti_war_policy_idea:0 "Anti-Kriegs-Politik
+  
+ r56_CAN_war_policy_idea:0 " r56_CAN_war_policy_idea:0 "Unterstützung des Krieges""
+  
+ r56_CAN_mac_paps_idea:0 " r56_CAN_mac_paps_idea:0 "Die Mac-Paps"'"
+  
+ r56_CAN_red_guard:0 " r56_CAN_red_guard:0 "Kanadische Rote Garde""
+  
+ r56_CAN_workers_rights_idea:0 " r56_CAN_workers_rights_idea:0 "Verbesserung der Rechte der Arbeiter""
+  
+ r56_CAN_workers_rights_improved:0 " r56_CAN_workers_rights_improved:0 "Arbeiterrecht verbessert""
+  
+ r56_CAN_divided_communists:0 " r56_CAN_geteilte_Kommunisten:0 "Geteilte Kommunisten""
+ r56_CAN_divided_communists_desc:0 " r56_CAN_divided_communists_desc:0 "Die kommunistische Partei ist zwischen den prosowjetischen und trotzkistischen Kräften gespalten.""
+  
+ r56_CAN_YCLOC:0 " r56_CAN_YCLOC:0 "Junge Kommunistische Liga von Kanada""
+  
+ r56_CAN_public_ownership_idea:0 " r56_CAN_Öffentliche_Eigentümerschaft_idea:0 "Kollektivistische Industrie""
+  
+ r56_CAN_destroy_imperialism_idea:0 " r56_CAN_destroy_imperialism_idea:0 "Zerstört den Imperialismus""
+  
+ r56_CAN_new_deal_idea:0 " r56_CAN_new_deal_idea:0 "Übernimmt amerikanische Politik""
+
+ r56_CAN_intervene_ACW_idea:0 " r56_CAN_intervene_ACW_idea:0 "ACW Einmischung""
+  
+ r56_CAN_post_colonial_rule_idea:0 " r56_CAN_post_colonial_rule_idea:0 "Nach britischem Einfluss""
+  
+ r56_CAN_self_sufficiency_idea:0 " r56_CAN_self_sufficiency_idea:0 "Selbstversorgungsgrad""
+  
+ r56_CAN_arms_exports_idea:0 " r56_CAN_waffen_exporte_idea:0 "Waffenexporte""
+  
+ r56_CAN_canadian_interventionism_idea:0 " r56_CAN_kanadischer_Interventionismus_idea:0 "Kanadischer Interventionismus""
+  
+ r56_CAN_canadian_cadet_corps_idea:0 " r56_CAN_kanadisches_Kadettenkorps_idea:0 "Kanadisches Kadettenkorps""
+  
+ r56_CAN_the_defense_of_canada_idea:0 " r56_CAN_die_Verteidigung_von_Kanada_idea:0 "Die Verteidigung von Kanada""
+  
+ #Ministers " #Minister"
+  
+ r56_CAN_jack_bickell:0 " r56_CAN_jack_bickell:0 "Jack Bickell""
+ r56_CAN_william_daum_euler:0 " r56_CAN_william_daum_euler:0 "Wilhelm Daum Euler""
+ r56_CAN_thomas_crerar:0 " r56_CAN_thomas_crerar:0 "Thomas Crerar""
+ r56_CAN_Arthur_Cardin:0 " r56_CAN_Arthur_Cardin:0 "Arthur Cardin""
+ r56_CAN_adrien_arcand:0 " r56_CAN_adrien_arcand:0 "Adrien Arcand""
+ r56_CAN_joseph_menard:0 " r56_CAN_joseph_menard:0 "Joseph Menard""
+ r56_CAN_fred_rose:0 " r56_CAN_fred_rose:0 "Fred Rose""
+ r56_CAN_leslie_morris:0 " r56_CAN_leslie_morris:0 "Leslie Morris""
+ r56_CAN_sam_carr:0 " r56_CAN_sam_carr:0 "Sam Carr""
+ r56_CAN_dorise_nielsen:0 " r56_CAN_dorise_nielsen:0 "Dorise Nielsen""
+ r56_CAN_j_b_salsberg:0 " r56_CAN_j_b_salsberg:0 "J. B. Salsberg""
+ r56_CAN_john_ross_taylor:0 " r56_CAN_john_ross_taylor:0 "John Ross Taylor""
+ r56_CAN_leonard_w_murray:0 " r56_CAN_leonard_w_murray:0 "Leonard W. Murray""
+  
+ #Research And Production " #Forschung und Produktion"
+  
+ r56_CAN_robert_leckie:0 " r56_CAN_robert_leckie:0 "Robert Leckie""
+ r56_CAN_gm_croil:0 " r56_CAN_gm_croil:0 "George Croil""
+ r56_canadian_car_foundry:0 " r56_canadian_car_foundry:0 "Kanadische Auto- und Gießerei""
+ r56_fairchild_aircraft_ltd:0 " r56_fairchild_aircraft_ltd:0 "Fairchild Aircraft Ltd.""
+ r56_john_inglis_company:0 " r56_john_inglis_company:0 "John Inglis und Unternehmen""
+ r56_small_arms_limited:0 " r56_small_arms_limited:0 "Small Arms Ltd.""
+ r56_CAN_imperial_oil_idea:0 " r56_CAN_imperial_oil_idea:0 "Imperial Oil""
+ r56_CAN_polymer_corporation:0 " r56_CAN_polymer_corporation:0 "Polymer Gesellschaft""
+ r56_CAN_pjdnb_idea:0 " r56_CAN_pjdnb_idea:0 "Ständiger Gemeinsamer Ausschuss für Verteidigung""
+ r56_CAN_research_enterprises_ltd:0 " r56_CAN_research_enterprises_ltd:0 "Research Enterprises Ltd.""
+ r56_CAN_secure_the_economy_idea:0 " r56_CAN_secure_the_economy_idea:0 "Sicherung der Wirtschaft""
+  
+ #Military Staff " #Militärisches Personal"
+  
+ #Focuses " #Schwerpunkte"
+ r56_CAN_modernize_industry:0 " r56_CAN_modernize_industry:0 "Die Industrie modernisieren""
+ r56_CAN_modernize_industry_desc:0 " r56_CAN_modernize_industry_desc:0 "Unsere industrielle Kapazität und unsere industriellen Methoden sind zurückgefallen, wir müssen aufholen.""
+  
+ r56_CAN_wheat_board:0 " r56_CAN_weizen_brett:0 "Kanadisches Weizenbrett""
+ r56_CAN_wheat_board_desc:0 " r56_CAN_wheat_board_desc:0 "WIP""
+  
+ r56_CAN_depression_recovery:0 " r56_CAN_depression_recovery:0 "Fortsetzung der Depressionserholung""
+ r56_CAN_depression_recovery_desc:0 " r56_CAN_depression_recovery_desc:0 "Die Große Depression hat ihren Tribut gefordert, wir müssen weiterhin Maßnahmen ergreifen und modifizieren, um den Weg der Erholung fortzusetzen.""
+  
+ r56_CAN_national_housing_act:0 " r56_CAN_national_housing_act:0 "Nationales Wohnungsbaugesetz""
+ r56_CAN_national_housing_act_desc:0 " r56_CAN_nationaler_Wohnungsbau_gesetz_desc:0 "WIP""
+  
+ r56_CAN_shutdown_relief_camps:0 " r56_CAN_shutdown_relief_camps:0 "Schließt die Hilfslager""
+ r56_CAN_shutdown_relief_camps_desc:0 " r56_CAN_shutdown_relief_camps_desc:0 "Die Arbeitslosenhilfslager waren kein Erfolg, wir sollten sie schließen, bevor es zu weiteren Unruhen kommt.""
+  
+ r56_CAN_dollar_a_year_men:0 " r56_CAN_dollar_a_year_men:0 "Dollar-A-Year-Men""
+ r56_CAN_dollar_a_year_men_desc:0 " r56_CAN_dollar_a_year_men_desc:0 "WIP""
+  
+ r56_CAN_canadian_pacific_railways:0 " r56_CAN_kanadische_pazifische_Eisenbahnen:0 "Kanadische Pazifik-Eisenbahnen""
+ r56_CAN_canadian_pacific_railways_desc:0 " r56_CAN_kanadische_pazifische_Eisenbahnen_desc:0 "WIP""
+  
+ r56_CAN_national_steel_car:0 " r56_CAN_national_steel_car:0 "Nationaler Stahlwagen""
+ r56_CAN_national_steel_car_desc:0 " r56_CAN_nationaler_Stahlwagen_desc:0 "WIP""
+  
+ r56_CAN_cbc_focus:0 " r56_CAN_cbc_focus:0 "Die CBC""
+ r56_CAN_cbc_focus_desc:0 " r56_CAN_cbc_focus_desc:0 "WIP""
+  
+ r56_CAN_bank_of_canada:0 " r56_CAN_bank_of_canada:0 "Verstaatlichung der Bank von Kanada""
+ r56_CAN_bank_of_canada_desc:0 " r56_CAN_bank_of_canada_desc:0 "WIP""
+  
+ r56_CAN_john_inglis_company:0 " r56_CAN_john_inglis_company:0 "John Inglis und Unternehmen""
+ r56_CAN_john_inglis_company_desc:0 " r56_CAN_john_inglis_company_desc:0 "WIP""
+  
+ r56_CAN_national_railway:0 " r56_CAN_national_railway:0 "Ausbau der Eisenbahnen in Quebec""
+ r56_CAN_national_railway_desc:0 " r56_CAN_nationale_eisenbahn_desc:0 "WIP""
+  
+ r56_CAN_research_grants:0 " r56_CAN_Forschungsstipendien:0 "Forschungsstipendien""
+ r56_CAN_research_grants_desc:0 " r56_CAN_Forschungszuschüsse_desc:0 "WIP""
+  
+ r56_CAN_debt_adjustment_act:0 " r56_CAN_debt_adjustment_act:0 "Schuldenbereinigungsgesetz""
+ r56_CAN_debt_adjustment_act_desc:0 " r56_CAN_debt_adjustment_act_desc:0 "WIP""
+  
+ r56_CAN_alcan:0 " r56_CAN_alcan:0 "Aluminium Gesellschaft von Kanada""
+ r56_CAN_alcan_desc:0 " r56_CAN_alcan_desc:0 "WIP""
+  
+ r56_CAN_imperial_oil_focus:0 " r56_CAN_imperial_oil_focus:0 "Darthmouth Raffinerie Erweiterung""
+ r56_CAN_imperial_oil_focus_desc:0 " r56_CAN_imperial_oil_focus_desc:0 "WIP""
+  
+ r56_CAN_establish_the_polymer_corporation:0 " r56_CAN_establish_the_polymer_corporation:0 "Polymer Corporation gründen""
+ r56_CAN_establish_the_polymer_corporation_desc:0 " r56_CAN_Etablierung_der_Polymer_Korporation_desc:0 "WIP""
+  
+ r56_CAN_uranium_mining:0 " r56_CAN_Uranabbau:0 "Uranabbau""
+ r56_CAN_uranium_mining_desc:0 " r56_CAN_Uranabbau_desc:0 "WIP""
+  
+ r56_CAN_resources_for_war_effort:0 " r56_CAN_resources_for_war_effort:0 "Ressourcen für die Kriegsanstrengungen""
+ r56_CAN_resources_for_war_effort_desc:0 " r56_CAN_Ressourcen_für_die_Kriegsanstrengungen_desc:0 "WIP""
+  
+ r56_CAN_enlist_the_unemployed:0 " r56_CAN_enlist_the_unemployed:0 "Arbeitslose anwerben""
+ r56_CAN_enlist_the_unemployed_desc:0 " r56_CAN_enlist_the_unemployed_desc:0 "WIP""
+  
+ r56_CAN_war_economy:0 " r56_CAN_war_economy:0 "Auf Krieg ausgerichtete Wirtschaft""
+ r56_CAN_war_economy_desc:0 " r56_CAN_war_economy_desc:0 "WIP""
+  
+ r56_CAN_war_measures_act:0 " r56_CAN_war_measures_act:0 "Rücknahme des Kriegsmaßnahmengesetzes""
+ r56_CAN_war_measures_act_desc:0 " r56_CAN_war_measures_act_desc:0 "WIP""
+  
+ r56_CAN_wartime_prices_and_trade_board:0 " r56_CAN_wartime_prices_and_trade_board:0 "Amt für Kriegspreise und Handel""
+ r56_CAN_wartime_prices_and_trade_board_desc:0 " r56_CAN_wartime_prices_and_trade_board_desc:0 "WIP""
+  
+ r56_CAN_nrma:0 " r56_CAN_nrma:0 "Gesetz zur Mobilisierung nationaler Ressourcen""
+ r56_CAN_nrma_desc:0 " r56_CAN_nrma_desc:0 "WIP""
+  
+ r56_CAN_conscription_crisis:0 " r56_CAN_conscription_crisis:0 "Zwangseinberufung""
+ r56_CAN_conscription_crisis_desc:0 " r56_CAN_konscription_crisis_desc:0 "WIP""
+  
+ r56_CAN_replace_men_in_the_industry:0 " r56_CAN_replace_men_in_the_industry:0 "Männer in der Industrie durch Frauen ersetzen""
+ r56_CAN_replace_men_in_the_industry_desc:0 " r56_CAN_Ersetzen_Männer_in_der_Industrie_desc:0 "WIP""
+  
+ r56_CAN_department_of_munitions_and_supply:0 " r56_CAN_Abteilung_für_Munition_und_Versorgung:0 "Abteilung für Munition und Versorgung""
+ r56_CAN_department_of_munitions_and_supply_desc:0 " r56_CAN_Abteilung_für_Munition_und_Versorgung_desc:0 "WIP""
+  
+ r56_CAN_bits_and_pieces_program:0 " r56_CAN_bits_und_pieces_program:0 "Bits und Pieces Programm""
+ r56_CAN_bits_and_pieces_program_desc:0 " r56_CAN_bits_and_pieces_program_desc:0 "WIP""
+  
+ r56_CAN_nrc_expansion:0 " r56_CAN_nrc_expansion:0 "Erweiterung des Nationalen Forschungsrates""
+ r56_CAN_nrc_expansion_desc:0 " r56_CAN_nrc_expansion_desc:0 "WIP""
+  
+ r56_CAN_defence_of_canada_regulations:0 " r56_CAN_defence_of_canada_regulations:0 "Vorschriften zur Verteidigung von Kanada""
+ r56_CAN_defence_of_canada_regulations_desc:0 " r56_CAN_Verteidigung_von_Kanada_Vorschriften_desc:0 "WIP""
+  
+ r56_CAN_british_designs:0 " r56_CAN_british_designs:0 "[Root.GetBritishDesignsName]""
+ r56_CAN_british_designs_desc:0 " r56_CAN_british_designs_desc:0 "[Root.GetBritishDesignsDesc]""
+ R56_CAN_ENG_KEY:0 " R56_CAN_ENG_KEY:0 "Britische Designs""
+ R56_CAN_FREE_KEY:0 " R56_CAN_FREE_KEY:0 "Eigene Designs""
+ R56_CAN_SOV_KEY:0 " R56_CAN_SOV_KEY:0 "Sowjetische Muster""
+ R56_CAN_USA_KEY:0 " R56_CAN_USA_KEY:0 "Amerikanische Muster""
+ R56_CAN_GER_KEY:0 " R56_CAN_GER_KEY:0 "Deutsche Muster""
+ R56_CAN_ENG_DESC_KEY:0 " R56_CAN_ENG_DESC_KEY:0 "Wir sollten britische Designs für unsere Infanterie- und Artilleriewaffen importieren und verwenden.""
+ R56_CAN_FREE_DESC_KEY:0 " R56_CAN_FREE_DESC_KEY:0 "Wir sollten unsere eigenen Infanterie- und Artilleriewaffen entwerfen.""
+ R56_CAN_SOV_DESC_KEY:0 " R56_CAN_SOV_DESC_KEY:0 "Wir sollten sowjetische Designs für unsere Infanterie- und Artilleriewaffen importieren und verwenden.""
+ R56_CAN_USA_DESC_KEY:0 " R56_CAN_USA_DESC_KEY:0 "Wir sollten amerikanische Designs für unsere Infanterie- und Artilleriewaffen importieren und verwenden.""
+ R56_CAN_GER_DESC_KEY:0 " R56_CAN_GER_DESC_KEY:0 "Wir sollten deutsche Designs für unsere Infanterie- und Artilleriewaffen importieren und verwenden."
+
+ r56_CAN_army_modernisation:0 " r56_CAN_army_modernisation:0 "Heeresmodernisierung""
+ r56_CAN_army_modernisation_desc:0 " r56_CAN_Armee_Modernisierung_desc:0 "WIP""
+  
+ r56_CAN_increase_budget:0 " r56_CAN_increase_budget:0 "Erhöhung des Militärbudgets""
+ r56_CAN_increase_budget_desc:0 " r56_CAN_Budget_erhöhen_desc:0 "WIP""
+  
+ r56_CAN_increase_budget_more:0 " r56_CAN_increase_budget_more:0 "Militärbudget weiter aufstocken""
+ r56_CAN_increase_budget_more_desc:0 " r56_CAN_budget_erhöhen_mehr_desc:0 "WIP""
+  
+ r56_CAN_cmp_truck:0 " r56_CAN_cmp_truck:0 "CMP-LKW""
+ r56_CAN_cmp_truck_desc:0 " r56_CAN_cmp_truck_desc:0 "WIP""
+  
+ r56_CAN_valentine_tank:0 " r56_CAN_valentine_tank:0 "Der Valentine-Tank""
+ r56_CAN_valentine_tank_desc:0 " r56_CAN_valentine_tank_desc:0 "WIP""
+  
+ r56_CAN_retool_angus_shops:0 " r56_CAN_retool_angus_shops:0 "Umrüstung der CPR Angus Shops""
+ r56_CAN_retool_angus_shops_desc:0 " r56_CAN_retool_angus_shops_desc:0 "WIP""
+  
+ r56_CAN_canadian_armoured_corps:0 " r56_CAN_canadian_armoured_corps:0 "[Root.GetArmouredCorpsName]""
+ r56_CAN_canadian_armoured_corps_desc:0 " r56_CAN_canadian_armoured_corps_desc:0 "WIP""
+ R56_CAN_ARMOURED_CORPS:0 " R56_CAN_ARMOURED_CORPS:0 "Kanadisches Panzerkorps""
+ R56_CAN_ARMOURED_CORPS_ROYAL:0 " R56_CAN_ARMOURED_CORPS_ROYAL:0 "Königliches Kanadisches Panzerkorps""
+  
+ r56_CAN_kangaroo:0 " r56_CAN_kangaroo:0 "Das Känguru""
+ r56_CAN_kangaroo_desc:0 " r56_CAN_kangaroo_desc:0 "WIP""
+  
+ r56_CAN_the_ram:0 " r56_CAN_the_ram:0 "Der Widder""
+ r56_CAN_the_ram_desc:0 " r56_CAN_der_Widder_desc:0 "WIP""
+  
+ r56_CAN_royal_canadian_artillery:0 " r56_CAN_royal_canadian_artillery:0 "[Root.GetArtilleryCorpsName]""
+ r56_CAN_royal_canadian_artillery_desc:0 " r56_CAN_royal_canadian_artillery_desc:0 "WIP""
+ R56_CAN_ARTILLERY_CORPS:0 " R56_CAN_ARTILLERIE_CORPS:0 "Kanadische Artillerie""
+ R56_CAN_ARTILLERY_CORPS_ROYAL:0 " R56_CAN_ARTILLERIE_CORPS_ROYAL:0 "Königliche kanadische Artillerie""
+  
+ r56_CAN_royal_canadian_corps_of_signals:0 " r56_CAN_royal_canadian_corps_of_signals:0 "[Root.GetSignalCorpsName]""
+ r56_CAN_royal_canadian_corps_of_signals_desc:0 " r56_CAN_royal_canadian_corps_of_signals_desc:0 "[Root.GetSignalCorpsDesc]""
+ R56_CAN_SIGNAL_CORPS:0 " R56_CAN_SIGNAL_CORPS:0 "Kanadisches Signalkorps""
+ R56_CAN_SIGNAL_CORPS_ROYAL:0 " R56_CAN_SIGNAL_CORPS_ROYAL:0 "Königlich Kanadisches Signalkorps""
+ R56_CAN_SIGNAL_CORPS_DESC:0 " R56_CAN_SIGNAL_CORPS_DESC:0 "Das kanadische Signalkorps wurde 1903 gegründet und sollte nach der Erfindung des Walkie-Talkie noch mehr Nutzen bringen""
+ R56_CAN_SIGNAL_CORPS_ROYAL_DESC:0 " R56_CAN_SIGNAL_CORPS_ROYAL_DESC:0 "Das Royal Canadian Corps of Signals wurde 1903 gegründet und sollte nach der Erfindung des Walkie-Talkies noch mehr Nützliches bieten""
+  
+ r56_CAN_small_arms_limited:0 " r56_CAN_small_arms_limited:0 "Small Arms Ltd.""
+ r56_CAN_small_arms_limited:0 " r56_CAN_small_arms_limited:0 "WIP""
+  
+ r56_CAN_camp_borden:0 " r56_CAN_camp_borden:0 "Lager Borden""
+ r56_CAN_camp_borden_desc:0 " r56_CAN_camp_borden_desc:0 "WIP""
+  
+ r56_CAN_land_mattress:0 " r56_CAN_land_mattress:0 "Die Landmatratze""
+ r56_CAN_land_mattress_desc:0 " r56_CAN_land_mattress_desc:0 "WIP""
+  
+ r56_CAN_first_special_service_force:0 " r56_CAN_first_special_service_force:0 "Erste Sondereinsatztruppe""
+ r56_CAN_first_special_service_force_desc:0 " r56_CAN_erste_Spezialeinheit_desc:0 "WIP""
+  
+ r56_CAN_walkie_talkie:0 " r56_CAN_walkie_talkie:0 "Walkie-Talkie""
+ r56_CAN_walkie_talkie_desc:0 " r56_CAN_walkie_talkie_desc:0 "WIP""
+  
+ r56_CAN_start_the_expansion_of_the_rcaf:0 " r56_CAN_start_der_Erweiterung_des_rcaf:0 "[Root.GetRCAFArmamentName]""
+ r56_CAN_start_the_expansion_of_the_rcaf_desc:0 " r56_CAN_start_der_Erweiterung_der_rcaf_desc:0 "WIP""
+ R56_CAN_RCAF:0 " R56_CAN_RCAF:0 "Starten Sie den Ausbau der RCAF""
+ R56_CAN_CAF:0 " R56_CAN_CAF:0 "Start des Ausbaus der CAF""
+  
+ r56_CAN_western_air_command:0 " r56_CAN_western_air_command:0 "Westliches Luftkommando""
+ r56_CAN_western_air_command_desc:0 " r56_CAN_western_air_command_desc:0 "WIP""
+  
+ r56_CAN_hurricane:0 " r56_CAN_hurricane:0 "Der Wirbelsturm""
+ r56_CAN_hurricane_desc:0 " r56_CAN_hurricane_desc:0 "WIP""
+  
+ r56_CAN_canadian_car_and_foundry:0 " r56_CAN_canadian_car_and_foundry:0 "Kanadische Auto- und Gießerei""
+ r56_CAN_canadian_car_and_foundry_desc:0 " r56_CAN_kanadisches_Auto_und_Gießerei_desc:0 "WIP""
+  
+ r56_CAN_fairchild_aircraft_company:0 " r56_CAN_fairchild_aircraft_company:0 "Fairchild Aircraft Company""
+ r56_CAN_fairchild_aircraft_company_desc:0 " r56_CAN_fairchild_aircraft_company_desc:0 "WIP""
+  
+ r56_CAN_victory_aircraft_company:0 " r56_CAN_victory_aircraft_company:0 "Sieg-Flugzeug""
+ r56_CAN_victory_aircraft_company_desc:0 " r56_CAN_Sieg_Flugzeug_Unternehmen_desc:0 "WIP""
+  
+ r56_CAN_bomber_group_no_6:0 " r56_CAN_Bombergruppe_Nr_6:0 "Bombergruppe Nr.6""
+ r56_CAN_bomber_group_no_6_desc:0 " r56_CAN_bomber_group_no_6_desc:0 "WIP""
+  
+ r56_CAN_toronto_island_airport:0 " r56_CAN_toronto_island_airport:0 "Flughafen Toronto Island""
+ r56_CAN_toronto_island_airport_desc:0 " r56_CAN_toronto_island_airport_desc:0 "WIP""
+  
+ r56_CAN_toronto_air_command:0 " r56_CAN_toronto_air_command:0 "Toronto Luftschulungskommando""
+ r56_CAN_toronto_air_command_desc:0 " r56_CAN_toronto_air_command_desc:0 "WIP""
+  
+ r56_CAN_eastern_air_command:0 " r56_CAN_eastern_air_command:0 "Östliches Lufttransportkommando""
+ r56_CAN_eastern_air_command_desc:0 " r56_CAN_eastern_air_command_desc:0 "WIP""
+  
+ r56_CAN_rcaf_womens_division:0 " r56_CAN_rcaf_womens_division:0 "[Root.GetRCAFWomensDivisionName]""
+ r56_CAN_rcaf_womens_division_desc:0 " r56_CAN_rcaf_womens_division_desc:0 "WIP""
+ R56_CAN_RCAF_WOMEN:0 " R56_CAN_RCAF_WOMEN:0 "RCAF-Frauenabteilung""
+ R56_CAN_CAF_WOMEN:0 " R56_CAN_CAF_WOMEN:0 "CAF Frauen-Division""
+  
+ r56_CAN_rcaf_station_borden:0 " r56_CAN_rcaf_station_borden:0 "[Root.GetRCAFStationBordenName]""
+ r56_CAN_rcaf_station_borden_desc:0 " r56_CAN_rcaf_station_borden_desc:0 "WIP""
+ R56_CAN_RCAF_STATION_BORDEN:0 " R56_CAN_RCAF_STATION_BORDEN:0 "RCAF Station Borden""
+ R56_CAN_CAF_STATION_BORDEN:0 " R56_CAN_CAF_STATION_BORDEN:0 "CAF Station Borden""
+  
+ r56_CAN_appoint_air_chief:0 " r56_CAN_appoint_air_chief:0 "Ernennung eines Chefs des Luftwaffenstabs""
+ r56_CAN_appoint_air_chief_desc:0 " r56_CAN_appoint_air_chief_desc:0 "WIP""
+  
+ r56_CAN_complete_separation_from_army:0 " r56_CAN_complete_separation_from_army:0 "Komplette Trennung von der Armee""
+ r56_CAN_complete_separation_from_army_desc:0 " r56_CAN_vollständige_Abtrennung_aus_der_Armee_desc:0 "WIP""
+  
+ r56_CAN_rebuilding_the_royal_canadian_navy:0 " r56_CAN_rebuilding_the_royal_canadian_navy:0 "[Root.GetRebuildCanadianNavyName]""
+ r56_CAN_rebuilding_the_royal_canadian_navy_desc:0 " r56_CAN_rebuilding_the_royal_canadian_navy_desc:0 "WIP""
+ R56_CAN_REBUILD_RCN:0 " R56_CAN_REBUILD_RCN:0 "Wiederaufbau der Königlichen Kanadischen Marine""
+ R56_CAN_REBUILD_CN:0 " R56_CAN_REBUILD_CN:0 "Wiederaufbau der kanadischen Marine" ⧏33⧐ R56_CAN_REBUILD_CN:0 "Wiederaufbau der kanadischen Marine""
+  
+ r56_CAN_halifax_shipyards:0 " r56_CAN_halifax_shipyards:0 "Halifax-Werften""
+ r56_CAN_halifax_shipyards_desc:0 " r56_CAN_halifax_schiffswerften_desc:0 "WIP""
+  
+ r56_CAN_sorel_shipyards:0 " r56_CAN_sorel_shipyards:0 "Sorel-Werften""
+ r56_CAN_sorel_shipyards_desc:0 " r56_CAN_sorel_schiffswerften_desc:0 "WIP""
+  
+ r56_CAN_reopen_toronto_shipyards:0 " r56_CAN_reopen_toronto_shipyards:0 "Wiedereröffnung der Toronto-Werften""
+ r56_CAN_reopen_toronto_shipyards_desc:0 " r56_CAN_wiedereröffnen_toronto_werften_desc:0 "WIP""
+  
+ r56_CAN_focus_on_destroyers:0 " r56_CAN_focus_on_destroyers:0 "Fokus auf Zerstörer""
+ r56_CAN_focus_on_destroyers_desc:0 " r56_CAN_fokus_auf_Zerstörer_desc:0 "WIP""
+  
+ r56_CAN_protect_atlantic_shipping:0 " r56_CAN_protect_atlantic_shipping:0 "Schützt die Schifffahrt im Atlantik""
+ r56_CAN_protect_atlantic_shipping_desc:0 " r56_CAN_schutz_atlantische_schifffahrt_desc:0 "WIP""
+  
+ r56_CAN_merchant_fleet:0 " r56_CAN_merchant_fleet:0 "HandelsflotteHandelsflotte"
+ r56_CAN_merchant_fleet_desc:0 " r56_CAN_Handelsflotte_desc:0 "WIP""
+  
+ r56_CAN_fight_the_uboats:0 " r56_CAN_fight_the_uboats:0 "Kampf gegen die U-Boote""
+ r56_CAN_fight_the_uboats_desc:0 " r56_CAN_bekämpfen_die_U-Boote_desc:0 "WIP""
+  
+ r56_CAN_degaussing:0 " r56_CAN_degaussing:0 "Entmagnetisierung""
+ r56_CAN_degaussing_desc:0 " r56_CAN_degaussing_desc:0 "WIP""
+  
+ r56_CAN_expand_the_navy:0 " r56_CAN_expand_the_navy:0 "Die Marine ausbauen""
+ r56_CAN_expand_the_navy_desc:0 " r56_CAN_expand_the_navy_desc:0 "WIP""
+
+ r56_CAN_wrens:0 " r56_CAN_wrens:0 "[Root.GetWrensName]""
+ r56_CAN_wrens_desc:0 " r56_CAN_wrens_desc:0 "WIP""
+ R56_CAN_WRENS_NAME:0 " R56_CAN_WRENS_NAME:0 "Frauen des Königlichen Kanadischen Marinedienstes""
+ R56_CAN_WENS_NAME:0 " R56_CAN_WENS_NAME:0 "Kanadischer Frauennachrichtendienst der Marine""
+  
+ r56_CAN_the_pacific_ocean:0 " r56_CAN_der_pazifische_Ozean:0 "Der Pazifische Ozean""
+ r56_CAN_the_pacific_ocean_desc:0 " r56_CAN_der_pazifische_Ozean_desc:0 "WIP""
+  
+ r56_CAN_ships_for_the_pacific:0 " r56_CAN_Schiffe_für_den_Pazifik:0 "Schiffe für den Pazifik""
+ r56_CAN_ships_for_the_pacific_desc:0 " r56_CAN_Schiffe_für_den_Pazifik_desc:0 "WIP""
+  
+ r56_CAN_invasion_transports:0 " r56_CAN_invasion_transporte:0 "Invasionstransporte""
+ r56_CAN_invasion_transports_desc:0 " r56_CAN_invasion_transporte_desc:0 "WIP""
+  
+ r56_CAN_rural_class_carriers:0 " r56_CAN_Landklassen-Transporter:0 "Landklassen-Transporter""
+ r56_CAN_rural_class_carriers_desc:0 " r56_CAN_Landklasse_Träger_desc:0 "WIP""
+  
+ r56_CAN_trust_in_the_commonwealth:0 " r56_CAN_trust_in_the_commonwealth:0 "Vertrauen in das Commonwealth""
+ r56_CAN_trust_in_the_commonwealth_desc:0 " r56_CAN_Vertrauen_in_das_Gemeinwesen_desc:0 "WIP""
+  
+ r56_CAN_commonwealth_air_training_plan:0 " r56_CAN_commonwealth_air_training_plan:0 "Der Commonwealth Air Training Plan""
+ r56_CAN_commonwealth_air_training_plan_desc:0 " r56_CAN_commonwealth_air_training_plan_desc:0 "WIP""
+  
+ r56_CAN_build_fighters_for_the_empire:0 " r56_CAN_build_fighters_for_the_empire:0 "Kampfflugzeuge für das Empire bauen""
+ r56_CAN_build_fighters_for_the_empire_desc:0 " r56_CAN_build_fighters_for_the_empire_desc:0 "WIP""
+  
+ r56_CAN_CAMP_X:0 " r56_CAN_CAMP_X:0 "Lager X""
+ r56_CAN_CAMP_X_desc:0 " r56_CAN_CAMP_X_desc:0 "WIP""
+  
+ r56_CAN_hydra:0 " r56_CAN_hydra:0 "Hydra""
+ r56_CAN_hydra_desc:0 " r56_CAN_hydra_desc:0 "WIP""
+  
+ r56_CAN_permanent_joint_defence_board:0 " r56_CAN_permanent_joint_defence_board:0 "Ständiger gemeinsamer Ausschuss für Verteidigung""
+ r56_CAN_permanent_joint_defence_board_desc:0 " r56_CAN_permanentes_gemeinsames_Verteidigungsgremium_desc:0 "WIP""
+  
+ r56_CAN_british_ships:0 " r56_CAN_british_ships:0 "Kauf von britischen Schiffen""
+ r56_CAN_british_ships_desc:0 " r56_CAN_britische_Schiffe_desc:0 "WIP""
+  
+ r56_CAN_forge_our_own_future:0 " r56_CAN_forge_our_own_future:0 "Unsere eigene Zukunft schmieden""
+ r56_CAN_forge_our_own_future_desc:0 " r56_CAN_Schmiede_unsere_eigene_Zukunft_desc:0 "WIP""
+  
+ r56_CAN_shadow_factories:0 " r56_CAN_schatten_fabriken:0 "Schattenfabriken""
+ r56_CAN_shadow_factories_desc:0 " r56_CAN_schatten_fabriken_desc:0 "WIP
+  
+ r56_CAN_frogmen_of_burma:0 " r56_CAN_Froschmänner_von_burma:0 "Die Froschmänner""
+ r56_CAN_frogmen_of_burma_desc:0 " r56_CAN_Froschmänner_von_burma_desc:0 "WIP""
+  
+ r56_CAN_tizard_visit:0 " r56_CAN_Eidechse_Besuch:0 "Der Besuch der Eidechse""
+ r56_CAN_tizard_visit_desc:0 " r56_CAN_Eidechsen_Besuch_desc:0 "WIP""
+  
+ r56_CAN_montreal_laboratory:0 " r56_CAN_montreal_laboratorium:0 "Das Montrealer Laboratorium""
+ r56_CAN_montreal_laboratory_desc:0 " r56_CAN_montreal_laboratoriums_desc:0 "WIP""
+  
+ r56_CAN_construct_the_cape_spear_forts:0 " r56_CAN_construct_the_cape_spear_forts:0 "Die Kap-Speer-Forts errichten""
+ r56_CAN_construct_the_cape_spear_forts_desc:0 " r56_CAN_construct_the_cape_spear_forts_desc:0 "WIP""
+  
+ r56_CAN_fascism:0 " r56_CAN_fascism:0 "Ein großes Kanada""
+ r56_CAN_fascism_desc:0 " r56_CAN_faschismus_desc:0 "WIP""
+  
+ r56_CAN_national_social_christian_party:0 " r56_CAN_nationale_soziale_christliche_Partei:0 "Die Nationale Sozialchristliche Partei""
+ r56_CAN_national_social_christian_party_desc:0 " r56_CAN_nationale_soziale_christliche_Partei_desc:0 "WIP""
+  
+ r56_CAN_the_canadian_fuhrer:0 " r56_CAN_der_kanadische_Führer:0 "Der kanadische Führer""
+ r56_CAN_the_canadian_fuhrer_desc:0 " r56_CAN_der_kanadische_Führer_desc:0 "WIP""
+  
+ r56_CAN_restrict_immigration:0 " r56_CAN_restrict_immigration:0 "Einwanderung einschränken""
+ r56_CAN_restrict_immigration_desc:0 " r56_CAN_Einwanderung_beschränken_desc:0 "WIP""
+  
+ r56_CAN_quell_quebec_nationalism:0 " r56_CAN_quell_quebec_nationalism:0 "Nationalismus in Quebec unterdrücken""
+ r56_CAN_quell_quebec_nationalism_desc:0 " r56_CAN_quell_quebec_nationalism_desc:0 "WIP""
+  
+ r56_CAN_a_united_canada:0 " r56_CAN_a_united_canada:0 "Kanadier vereint""
+ r56_CAN_a_united_canada_desc:0 " r56_CAN_a_vereinigtes_kanada_desc:0 "WIP""
+  
+ r56_CAN_arrest_the_anti_fascists:0 " r56_CAN_arrest_the_anti_fascists:0 "Verhaftet die Antifaschisten""
+ r56_CAN_arrest_the_anti_fascists_desc:0 " r56_CAN_Verhaftung_der_Antifaschisten_desc:0 "WIP""
+  
+ r56_CAN_canadian_union_of_fascists:0 " r56_CAN_canadian_union_of_fascists:0 "Die kanadische Vereinigung der Faschisten""
+ r56_CAN_canadian_union_of_fascists_desc:0 " r56_CAN_kanadische_Vereinigung_von_Faschisten_desc:0 "WIP""
+  
+ r56_CAN_arcand_in_the_government:0 " r56_CAN_arcand_in_der_Regierung:0 "Arcand in der Regierung""
+ r56_CAN_arcand_in_the_government_desc:0 " r56_CAN_arcand_in_der_Regierung_desc:0 "WIP""
+  
+ r56_CAN_unite_the_fascist_parties:0 " r56_CAN_vereinigen_die_faschistischen_Parteien:0 "Vereinigen Sie die faschistischen Organisationen""
+ r56_CAN_unite_the_fascist_parties_desc:0 " r56_CAN_vereinigen_die_faschistischen_Parteien_desc:0 "WIP""
+  
+ r56_CAN_form_the_blue_shirts:0 " r56_CAN_form_the_blue_shirts:0 "Bilde die Blauhemden""
+ r56_CAN_form_the_blue_shirts_desc:0 " r56_CAN_bilden_die_blauen_hemden_desc:0 "WIP""
+  
+ r56_CAN_create_youth_wing:0 " r56_CAN_Jugendflügel_erstellen:0 "Jugendflügel erstellen""
+ r56_CAN_create_youth_wing_desc:0 " r56_KAN_Jugendflügel_erstellen_desc:0 "WIP""
+  
+ r56_CAN_a_one_party_state:0 " r56_CAN_ein_Parteienstaat:0 "Ein-Parteien-Staat""
+ r56_CAN_a_one_party_state_desc:0 " r56_CAN_a_one_party_state_desc:0 "WIP""
+  
+ r56_CAN_anti_democracy:0 " r56_CAN_anti_democracy:0 "Eine antidemokratische Nation""
+ r56_CAN_anti_democracy_desc:0 " r56_CAN_anti_democracy_desc:0 "WIP""
+  
+ r56_CAN_strength_through_conquest_idea:0 " r56_CAN_strength_through_conquest_idea:0 "Stärke durch Eroberung""
+  
+ r56_CAN_canadian_nationalism:0 " r56_CAN_kanadischer_Nationalismus:0 "Kanadischer Nationalismus""
+ r56_CAN_canadian_nationalism_desc:0 " r56_CAN_kanadischer_Nationalismus_desc:0 "WIP""
+  
+ r56_CAN_strenght_through_conquest:0 " r56_CAN_strenght_through_conquest:0 "Stärke durch Eroberung""
+ r56_CAN_strenght_through_conquest_desc:0 " r56_CAN_strenght_through_conquest_desc:0 "WIP""
+  
+ r56_CAN_seek_closer_ties_to_germany:0 " r56_CAN_seek_closer_ties_to_germany:0 "Engere Beziehungen zu Deutschland suchen""
+ r56_CAN_seek_closer_ties_to_germany_desc:0 " r56_CAN_seek_closer_ties_to_germany_desc:0 "WIP""
+  
+ r56_CAN_demand_newfoundland_and_labrador:0 " r56_CAN_demand_newfoundland_and_labrador:0 "Fordere Neufundland und Labrador""
+ r56_CAN_demand_newfoundland_and_labrador_desc:0 " r56_CAN_Nachfrage_Neufundland_und_Labrador_desc:0 "WIP""
+  
+ r56_CAN_form_our_own_alliance:0 " r56_CAN_form_our_own_alliance:0 "Eigene Allianz bilden""
+ r56_CAN_form_our_own_alliance_desc:0 " r56_CAN_unser_eigenes_Bündnis_bilden_desc:0 "WIP""
+  
+ r56_CAN_support_the_british_union_of_fascists:0 " r56_CAN_support_the_british_union_of_fascists:0 "Unterstütze die britische Union der Faschisten""
+ r56_CAN_support_the_british_union_of_fascists_desc:0 " r56_CAN_Unterstuetzung_der_britischen_Vereinigung_der_Faschisten_desc:0 "WIP""
+  
+ r56_CAN_strict_anti_communism:0 " r56_CAN_strict_anti_communism:0 "Antikommunismus""
+ r56_CAN_strict_anti_communism_desc:0 " r56_CAN_strenger_Antikommunismus_desc:0 "WIP""
+  
+ r56_CAN_follow_mosleys_ideas:0 " r56_CAN_follow_mosleys_ideas:0 "Mosleys Ideen folgen""
+ r56_CAN_follow_mosleys_ideas_desc:0 " r56_CAN_follow_mosleys_ideas_desc:0 "WIP""
+  
+ r56_CAN_restructure_the_government:0 " r56_CAN_restructure_the_government:0 "Die Regierung umstrukturieren""
+ r56_CAN_restructure_the_government_desc:0 " r56_CAN_Umstrukturierung_der_Regierung_desc:0 "WIP""
+  
+ r56_CAN_full_equality_for_women:0 " r56_CAN_full_equality_for_women:0 "Rechte für Frauen""
+ r56_CAN_full_equality_for_women_desc:0 " r56_CAN_volle_Gleichberechtigung_für_Frauen_desc:0 "WIP""
+  
+ r56_CAN_fascist_corporatism:0 " r56_CAN_faschistischer_Korporatismus:0 "Faschistischer Korporatismus""
+ r56_CAN_fascist_corporatism_desc:0 " r56_CAN_faschistischer_Korporatismus_desc:0 "WIP""
+  
+ r56_CAN_join_the_british:0 " r56_CAN_join_the_british:0 "Treten Sie dem Britischen Empire bei""
+ r56_CAN_join_the_british_desc:0 " r56_CAN_join_the_british_desc:0 "WIP""
+  
+ r56_CAN_secure_greenland_and_iceland:0 " r56_CAN_secure_greenland_and_iceland:0 "Grönland und Island sichern""
+ r56_CAN_secure_greenland_and_iceland_desc:0 " r56_CAN_sichern_Grönland_und_Irland_desc:0 "WIP""
+  
+ r56_CAN_ask_for_newfoundland_and_labrador:0 " r56_CAN_ask_for_newfoundland_and_labrador:0 "Fragen Sie nach Neufundland und Labrador""
+ r56_CAN_ask_for_newfoundland_and_labrador_desc:0 " r56_CAN_ask_for_newfoundland_and_labrador_desc:0 "WIP""
+  
+ r56_CAN_intervene_ACW:0 " r56_CAN_intervene_ACW:0 "Hilfe im Amerikanischen Bürgerkrieg""
+ r56_CAN_intervene_ACW_desc:0 " r56_CAN_intervene_ACW_desc:0 "WIP""
+  
+ r56_CAN_send_weapons:0 " r56_CAN_send_weapons:0 "Waffen nach Amerika senden""
+ r56_CAN_send_weapons_desc:0 " r56_CAN_send_weapons_desc:0 "WIP""
+  
+ r56_CAN_defence_scheme_no1:0 " r56_CAN_defence_scheme_no1:0 "Verteidigungsschema Nr.1""
+ r56_CAN_defence_scheme_no1_desc:0 " r56_CAN_defence_scheme_no1_desc:0 "WIP""
+  
+ r56_CAN_take_down_america:0 " r56_CAN_take_down_america:0 "Amerika angreifen""
+ r56_CAN_take_down_america_desc:0 " r56_CAN_Abschuss_Amerika_desc:0 "WIP""
+  
+ r56_CAN_join_the_axis:0 " r56_CAN_join_the_axis:0 "[Root.GetFascismAllianceName]""
+ r56_CAN_join_the_axis_desc:0 " r56_CAN_join_the_axis_desc:0 "[Root.GetFascismAllianceDesc]""
+ R56_CAN_JOIN_AXIS:0 " R56_CAN_JOIN_AXIS:0 "Der Achse beitreten""
+ R56_CAN_JOIN_FASCIST_ALLIANCE:0 " R56_CAN_JOIN_FASZIST_ALLIANCE:0 "Eine Allianz suchen""
+ R56_CAN_JOIN_AXIS_DESC:0 " R56_CAN_JOIN_AXIS_DESC:0 "Wir sollten versuchen, uns der [GER.GetName] und ihrer Allianz anzuschließen.""
+ R56_CAN_JOIN_FASCIST_ALLIANCE_DESC:0 " R56_CAN_JOIN_FASCIST_ALLIANCE_DESC:0 "Wir sollten versuchen, einer faschistischen Allianz von Nationen beizutreten, es würde uns mächtig machen und uns helfen, unsere Nation im Falle einer ausländischen Bedrohung zu schützen.""
+  
+ r56_CAN_the_grizzly:0 " r56_CAN_the_grizzly:0 "Der Grizzly""
+ r56_CAN_the_grizzly_desc:0 " r56_CAN_the_grizzly_desc:0 "WIP""
+  
+ r56_CAN_alliance_with_america:0 " r56_CAN_Allianz_mit_Amerika:0 "Allianz mit Amerika""
+ r56_CAN_alliance_with_america_desc:0 " r56_CAN_Allianz_mit_Amerika_desc:0 "WIP""
+  
+ r56_CAN_acquire_american_ships:0 " r56_CAN_acquire_american_ships:0 "Amerikanische Schiffe akquirieren""
+ r56_CAN_acquire_american_ships_desc:0 " r56_CAN_erwerben_amerikanische_Schiffe_desc:0 "WIP""
+  
+ r56_CAN_follow_american_neutrality:0 " r56_CAN_follow_american_neutrality:0 "Amerikanische Neutralität verfolgen""
+ r56_CAN_follow_american_neutrality_desc:0 " r56_CAN_follow_american_neutrality_desc:0 "WIP""
+  
+ r56_CAN_follow_american_interventionism:0 " r56_CAN_follow_american_interventionism:0 "Folge amerikanischem Interventionismus""
+ r56_CAN_follow_american_interventionism_desc:0 " r56_CAN_follow_amerikanischer_Interventionismus_desc:0 "WIP""
+  
+ r56_CAN_defence_scheme_no2:0 " r56_CAN_defence_scheme_no2:0 "Verteidigungsschema Nr.2""
+ r56_CAN_defence_scheme_no2_desc:0 " r56_CAN_defence_scheme_no2_desc:0 "WIP""
+  
+ r56_CAN_install_democracy_in_the_americas:0 " r56_CAN_install_democracy_in_the_americas:0 "Demokratie in den Amerikas sichern""
+ r56_CAN_install_democracy_in_the_americas_desc:0 " r56_CAN_install_democracy_in_the_americas_desc:0 "WIP""
+  
+ r56_CAN_protect_the_coast:0 " r56_CAN_protect_the_coast:0 "Schützen Sie die Atlantikküste""
+ r56_CAN_protect_the_coast_desc:0 " r56_CAN_protect_the_coast_desc:0 "WIP""
+  
+ r56_CAN_reduce_the_tariffs:0 " r56_CAN_reduce_the_tariffs:0 "Die Zölle reduzieren""
+ r56_CAN_reduce_the_tariffs_desc:0 " r56_CAN_reduce_the_tariffs_desc:0 "WIP""
+  
+ r56_CAN_build_navy_for_defence:0 " r56_CAN_build_navy_for_defence:0 "Verteidigungsmarine""
+ r56_CAN_build_navy_for_defence_desc:0 " r56_CAN_build_navy_for_defence_desc:0 "WIP""
+  
+ r56_CAN_get_ready_for_intervention:0 " r56_CAN_get_ready_for_intervention:0 "Aufrüsten für Intervention""
+ r56_CAN_get_ready_for_intervention_desc:0 " r56_CAN_get_ready_for_intervention_desc:0 "WIP""
+  
+ r56_CAN_allow_free_access:0 " r56_CAN_allow_free_access:0 "Offene Grenzen""
+ r56_CAN_allow_free_access_desc:0 " r56_CAN_allow_free_access_desc:0 "WIP""
+  
+ r56_CAN_west_coast_military_command:0 " r56_CAN_west_küste_militärisches_kommando:0 "Militärisches Kommando Westküste""
+ r56_CAN_west_coast_military_command_desc:0 " r56_CAN_west_küste_militärisches_kommando_desc:0 "WIP""
+  
+ r56_CAN_new_deal:0 " r56_CAN_neu_deal:0 "Amerikanische Richtlinien befolgen""
+ r56_CAN_new_deal_desc:0 " r56_AN_neu_abschliessen_desc:0 "WIP""
+  
+ r56_CAN_communism:0 " r56_KAN_Kommunismus:0 "Eine Volksfront""
+ r56_CAN_communism_desc:0 " r56_KAN_Kommunismus_desc:0 "WIP""
+  
+ r56_CAN_anti_war_policy:0 " r56_CAN_anti_war_policy:0 "Antikriegspolitik""
+ r56_CAN_anti_war_policy_desc:0 " r56_CAN_Antikriegspolitik_desc:0 "WIP""
+  
+ r56_CAN_organize_the_trade_unions:0 " r56_CAN_organize_the_trade_unions:0 "Vereinheitlichung der Gewerkschaften""
+ r56_CAN_organize_the_trade_unions_desc:0 " r56_CAN_organize_the_trade_unions_desc:0 "WIP""
+  
+ r56_CAN_workers_rights:0 " r56_CAN_Arbeiter_Rechte:0 "Arbeiterrechte""
+ r56_CAN_workers_rights_desc:0 " r56_CAN_Arbeiter_rechte_desc:0 "WIP""
+  
+ r56_CAN_public_ownership:0 " r56_CAN_Öffentliche_Eigentümerschaft:0 "Produktionsmittel""
+ r56_CAN_public_ownership_desc:0 " r56_CAN_Öffentliches_Eigentum_desc:0 "WIP""
+  
+ r56_CAN_unemployment_insurance_scheme:0 " r56_CAN_unemployment_insurance_scheme:0 "Arbeitslosenversicherungssystem""
+ r56_CAN_unemployment_insurance_scheme_desc:0 " r56_CAN_unemployment_insurance_scheme_desc:0 "WIP""
+  
+ r56_CAN_young_communist_league_of_canada:0 " r56_CAN_young_communist_league_of_canada:0 "Die junge kommunistische Liga von Kanada""
+ r56_CAN_young_communist_league_of_canada_desc:0 " r56_CAN_junge_kommunistische_Liga_von_Kanada_desc:0 "WIP""
+  
+ r56_CAN_the_canadian_youth_congress:0 " r56_CAN_der_kanadische_Jugendkongress:0 "Der kanadische Jugendkongress""
+ r56_CAN_the_canadian_youth_congress_desc:0 " r56_CAN_der_kanadische_Jugendkongress_desc:0 "WIP""
+
+ r56_CAN_repeal_the_padlock_law:0 " r56_CAN_repeal_the_padlock_law:0 "Aufhebung des Vorhängeschlossgesetzes""
+ r56_CAN_repeal_the_padlock_law_desc:0 " r56_CAN_Aufhebung_des_Vorhängeschlossgesetzes_desc:0 "WIP""
+
+ r56_CAN_imprison_the_trotskyists:0 " r56_CAN_imprison_the_trotskyists:0 "Verhaftet die Trotzkisten""
+ r56_CAN_imprison_the_trotskyists_desc:0 " r56_CAN_imprison_the_trotskyists_desc:0 "WIP""
+  
+ r56_CAN_strike_the_quebecois_anti_communists:0 " r56_CAN_strike_the_quebecois_anti_communists:0 "Streik der Quebecois-Antikommunisten""
+ r56_CAN_strike_the_quebecois_anti_communists_desc:0 " r56_CAN_strike_the_quebecois_anti_communists_desc:0 "WIP""
+  
+ r56_CAN_form_a_canadian_red_guard:0 " r56_CAN_form_a_canadian_red_guard:0 "Eine kanadische Rote Garde bilden""
+ r56_CAN_form_a_canadian_red_guard_desc:0 " r56_CAN_bilden_eine_kanadische_rot_wache_desc:0 "WIP""
+  
+ r56_CAN_the_mac_paps:0 " r56_CAN_the_mac_paps:0 "Die Mac-Paps""
+ r56_CAN_the_mac_paps_desc:0 " r56_CAN_the_mac_paps_desc:0 "WIP""
+  
+ r56_CAN_abandon_anti_war_policy:0 " r56_CAN_abandon_anti_war_policy:0 "Abandon the Anti-War Policy""
+ r56_CAN_abandon_anti_war_policy_desc:0 " r56_CAN_abandon_anti_war_policy_desc:0 "WIP""
+  
+ r56_CAN_plebiscite_committees:0 " r56_CAN_Volksabstimmung_Komitees:0 "Volksabstimmungs-Komitees""
+ r56_CAN_plebiscite_committees_desc:0 " r56_CAN_Volksabstimmung_Komitees_desc:0 "WIP""
+  
+ r56_CAN_support_the_soviets:0 " r56_CAN_Unterstützung_der_Sowjets:0 "Unterstützung der Sowjets""
+ r56_CAN_support_the_soviets_desc:0 " r56_CAN_Unterstützung_der_Sowjets_desc:0 "WIP""
+  
+ r56_CAN_join_the_communist_international:0 " r56_CAN_join_the_communist_international:0 "[Root.GetCommunistAlliance]""
+ R56_CAN_JOIN_COMMUNISM:0 " R56_CAN_JOIN_COMMUNISM:0 "Beitritt zur Kommunistischen Internationale""
+ R56_CAN_COMMUNISM_ALLIANCE:0 " R56_CAN_COMMUNISM_ALLIANCE:0 "Ein Bündnis""
+ r56_CAN_join_the_communist_international_desc:0 " r56_CAN_join_the_communist_international_desc:0 "WIP""
+  
+ r56_CAN_destroy_imperialism:0 " r56_CAN_destroy_imperialism:0 "Imperialismus zerstören""
+ r56_CAN_destroy_imperialism_desc:0 " r56_KAN_Zerstören_Imperialismus_desc:0 "WIP""
+  
+ r56_CAN_join_our_british_comrades:0 " r56_CAN_join_our_british_comrades:0 "Schließen Sie sich unseren britischen Kameraden an""
+ r56_CAN_join_our_british_comrades_desc:0 " r56_CAN_join_unserer_britischen_Kameraden_desc:0 "WIP""
+  
+ r56_CAN_strike_britain:0 " r56_CAN_strike_britain:0 "Großbritannien bestreiken""
+ r56_CAN_strike_britain_desc:0 " r56_CAN_strike_britain_desc:0 "WIP""
+  
+ r56_CAN_strike_mexico:0 " r56_CAN_strike_mexico:0 "Eine zweite Front sichern""
+ r56_CAN_strike_mexico_desc:0 " r56_CAN_strike_mexico_desc:0 "WIP""
+  
+ r56_CAN_strike_america:0 " r56_CAN_strike_america:0 "Amerika zermalmen""
+ r56_CAN_strike_america_desc:0 " r56_CAN_strike_america_desc:0 "WIP""
+  
+ r56_CAN_emergency_assembly:0 " r56_CAN_emergency_assembly:0 "Das Parlament versammeln""
+ r56_CAN_emergency_assembly_desc:0 " r56_CAN_Notfall_Versammlung_desc:0 "WIP""
+  
+ r56_CAN_a_new_constitution:0 " r56_CAN_eine_neue_Verfassung:0 "Eine neue Verfassung entwerfen""
+ r56_CAN_a_new_constitution_desc:0 " r56_CAN_eine_neue_Verfassung_desc:0 "WIP""
+  
+ r56_CAN_an_independent_democracy:0 " r56_CAN_an_independent_democracy:0 "Unabhängige Demokratie""
+ r56_CAN_an_independent_democracy_desc:0 " r56_CAN_eine_unabhängige_Demokratie_desc:0 "WIP""
+  
+ r56_CAN_post_colonial_rule:0 " r56_CAN_post_colonial_rule:0 "Nach britischem Einfluss""
+ r56_CAN_post_colonial_rule_desc:0 " r56_CAN_post_colonial_rule_desc:0 "WIP""
+  
+ r56_CAN_secure_the_economy:0 " r56_CAN_secure_the_economy:0 "Die Wirtschaft sichern""
+ r56_CAN_secure_the_economy_desc:0 " r56_KAN_die_Wirtschaft_sichern_desc:0 "WIP""
+  
+ r56_CAN_our_own_way:0 " r56_KAN_unser_eigener_Weg:0 "Ein anderer Weg""
+ r56_CAN_our_own_way_desc:0 " r56_CAN_our_own_way_desc:0 "WIP""
+  
+ r56_CAN_development_of_new_territories:0 " r56_CAN_Entwicklung_neuer_Territorien:0 "Entwicklung neuer Territorien""
+ r56_CAN_development_of_new_territories_desc:0 " r56_CAN_Entwicklung_neuer_Territorien_desc:0 "WIP""
+  
+ r56_CAN_modernise_the_nation:0 " r56_CAN_modernise_the_nation:0 "Die Nation modernisieren""
+ r56_CAN_modernise_the_nation_desc:0 " r56_CAN_modernise_the_nation_desc:0 "WIP""
+  
+ r56_CAN_independent_military:0 " r56_CAN_independent_military:0 "Unabhängiges Militär""
+ r56_CAN_independent_military_desc:0 " r56_CAN_unabhängig_militärisch_desc:0 "WIP""
+  
+ r56_CAN_independent_industry:0 " r56_CAN_independent_industry:0 "Unabhängige Industrie""
+ r56_CAN_independent_industry_desc:0 " r56_CAN_Unabhängige_Industrie_desc:0 "WIP""
+  
+ r56_CAN_self_sufficiency:0 " r56_CAN_self_sufficiency:0 "Selbstversorgungsgrad""
+ r56_CAN_self_sufficiency_desc:0 " r56_CAN_self_sufficiency_desc:0 "WIP""
+  
+ r56_CAN_assert_canadian_involvment:0 " r56_CAN_assert_canadian_involvment:0 "Kanadische Beteiligung geltend machen""
+ r56_CAN_assert_canadian_involvment_desc:0 " r56_CAN_assert_canadian_involvment_desc:0 "WIP""
+  
+ r56_CAN_secure_american_democracy:0 " r56_CAN_sichere_amerikanische_Demokratie:0 "Amerikanische Demokratie sichern""
+ r56_CAN_secure_american_democracy_desc:0 " r56_CAN_sichere_amerikanische_Demokratie_desc:0 "WIP""
+  
+ r56_CAN_reenforce_the_commonwealth:0 " r56_CAN_reenforce_the_commonwealth:0 "Das Commonwealth wieder stärken""
+ r56_CAN_reenforce_the_commonwealth_desc:0 " r56_CAN_reenforce_the_commonwealth_desc:0 "
+  
+ r56_CAN_our_best_friend:0 " r56_CAN_unser_bester_Freund:0 "Unser bester Freund""
+ r56_CAN_our_best_friend_desc:0 " r56_KAN_unser_bester_Freund_desc:0 "
+  
+ r56_CAN_unite_with_the_french:0 " r56_CAN_unite_with_the_french:0 "Vereint mit den Franzosen""
+ r56_CAN_unite_with_the_french_desc:0 " r56_CAN_unite_with_the_french_desc:0 "
+  
+ r56_CAN_liberate_the_british_isles:0 " r56_CAN_liberate_the_british_isles:0 "Befreit die britischen Inseln""
+ r56_CAN_liberate_the_british_isles_desc:0 " r56_CAN_liberate_the_british_isles_desc:0 "
+  
+ r56_CAN_fuel_the_arms_sector:0 " r56_CAN_fuel_the_arms_sector:0 "Den Waffensektor anheizen""
+ r56_CAN_fuel_the_arms_sector_desc:0 " r56_CAN_fuel_the_arms_sector_desc:0 "WIP""
+  
+ r56_CAN_arms_exports:0 " r56_CAN_arms_exports:0 "Waffenexporte""
+ r56_CAN_arms_exports_desc:0 " r56_CAN_waffen_exporte_desc:0 "WIP""
+  
+ r56_CAN_supress_the_separatists:0 " r56_CAN_Unterdrückung_der_Separatisten:0 "Unterdrückung der Separatisten""
+ r56_CAN_supress_the_separatists_desc:0 " r56_CAN_Unterdrückung_der_Separatisten_desc:0 "WIP""
+  
+ r56_CAN_governor_general_in_power:0 " r56_CAN_governor_general_in_power:0 "Generalgouverneur an der Macht""
+ r56_CAN_governor_general_in_power_desc:0 " r56_CAN_Generalgouverneur_in_der_Macht_desc:0 "WIP""
+  
+ r56_CAN_empower_the_military_faction:0 " r56_CAN_empower_the_military_faction:0 "Ermächtige die Militärfraktion""
+ r56_CAN_empower_the_military_faction_desc:0 " r56_CAN_ermächtigen_die_militärische_Fraktion_desc:0 "WIP""
+  
+ r56_CAN_strategic_nationalizations:0 " r56_CAN_strategische_Verstaatlichungen:0 "Strategische Verstaatlichungen""
+ r56_CAN_strategic_nationalizations_desc:0 " r56_CAN_integrate_the_canadian_cadet_corps:0 "Das kanadische Kadettenkorps integrieren""
+ r56_CAN_integrate_the_canadian_cadet_corps_desc:0 " r56_CAN_integriere_das_kanadische_Kadettenkorps_desc:0 "WIP""
+  
+ r56_CAN_root_out_traitors:0 " r56_CAN_root_out_traitors:0 "Verräter ausrotten""
+ r56_CAN_root_out_traitors_desc:0 " r56_CAN_Wurzel_aus_Verrätern_desc:0 "WIP""
+  
+ r56_CAN_claims_on_america:0 " r56_CAN_claims_on_america:0 "Ansprüche an Amerika""
+ r56_CAN_claims_on_america_desc:0 " r56_CAN_Forderungen_an_Amerika_desc:0 "WIP""
+  
+ r56_CAN_the_defense_of_canada:0 " r56_CAN_die_Verteidigung_von_Kanada:0 "Die Verteidigung von Kanada""
+ r56_CAN_the_defense_of_canada_desc:0 " r56_CAN_die_Verteidigung_von_Kanada_desc:0 "WIP""
+  
+ r56_CAN_national_defense_funding:0 " r56_CAN_national_defense_funding:0 "Nationale Verteidigungsfinanzierung""
+ r56_CAN_national_defense_funding_desc:0 " r56_CAN_nationale_verteidigungsfinanzierung_desc:0 "WIP""
+  
+ #Events " #Ereignisse"
+ r56_canada.1.t:0 " r56_canada.1.t:0 "Änderung der Gesetze""
+ r56_canada.1.d:0 " r56_canada.1.d:0 "Aufgrund des jüngsten Regierungswechsels wurden unsere Gesetze und Richtlinien aktualisiert, um unsere neue Regierung widerzuspiegeln.""
+ r56_canada.1.a:0 " r56_kanada.1.a:0 "Ok""
+  
+ r56_canada.4.t:0 " r56_canada.4.t:0 "Quebecer Wehrpflichtproblem""
+ r56_canada.4.d:0 " r56_canada.4.d:0 "Wir brauchen dringend Arbeitskräfte in unserer Armee, Marine und Luftwaffe, aber die Frankokanadier geben in dieser Frage nicht nach und stimmen der Zwangseinberufung nicht zu.""
+ r56_canada.4.a:0 " r56_canada.4.a:0 "Wir tun, was wir tun müssen. Erzwingen Sie die Einberufung.""
+ r56_canada.4.b:0 " r56_canada.4.b:0 "Vielleicht können wir zu einer Art Einigung kommen.""
+  
+ r56_canada.5.t:0 " r56_canada.5.t:0 "Jack Bickell kehrt aus Großbritannien zurück""
+ r56_canada.5.d:0 " r56_canada.5.d:0 "Jack Bickell ist aus [ENG.GetName] zurückgekehrt, nachdem er zwei Jahre unter dem British Airplane Supply Board gedient hat. Der Vorstandsvorsitzende von Victory Aircraft Ltd. will ihn anwerben.""
+ r56_canada.5.a:0 " r56_canada.5.a:0 "Na, dann wollen wir ihn mal einsetzen!""
+  
+ r56_canada.6.t:0 " r56_canada.6.t:0 "Die zwanzig Zentren randalieren!""
+ r56_canada.6.d:0 " r56_canada.6.d:0 "Die Leute, die in den Hilfslagern für Arbeitslose arbeiten, haben einen weiteren Aufstand angezettelt und fordern eine Erhöhung ihrer Löhne. Wie sollen wir mit ihnen umgehen?""
+ r56_canada.6.a:0 " r56_canada.6.a:0 "Wir sollten die Lager einfach schließen.""
+ r56_canada.6.b:0 " r56_canada.6.b:0 "Wenden Sie Gewalt an, um die Unruhen zu beenden.""
+ r56_canada.6.c:0 " r56_canada.6.c:0 "Lasst sie randalieren.""
+  
+ r56_canada.7.t:0 " r56_canada.7.t:0 "Die verärgerten Zwanzig Zentren randalieren!""
+ r56_canada.7.d:0 " r56_canada.7.d:0 "Nachdem die Lagerarbeiter das letzte Mal randaliert haben, haben wir die Unruhen mit Gewalt niedergeschlagen. Jetzt haben sie wieder einen Aufstand angezettelt und verlangen von uns, dass wir sie für die Zeiten entschädigen, in denen wir Gewalt gegen sie angewandt haben, und dass wir die Lager schließen.""
+ r56_canada.7.a:0 " r56_canada.7.a:0 "Wenden Sie Gewalt an, um den Aufstand zu beenden, und schließen Sie die Lager für immer.""
+ r56_canada.7.b:0 " r56_canada.7.b:0 "Geben Sie ihren Forderungen nach und entschädigen Sie sie.""
+  
+ r56_canada.8.t:0 " r56_canada.8.t:0 "Demonstranten randalieren weiter""
+ r56_canada.8.d:0 " r56_canada.8.d:0 "Die Lagerarbeiter haben wieder einmal einen Protest organisiert und dabei Eigentum beschädigt.""
+ r56_canada.8.a:0 " r56_canada.8.a:0 "Eine Schande""
+  
+ r56_canada.9.t:0 " r56_canada.9.t:0 "[CAN.GetName] fragt nach Neufundland und Labrador!""
+ r56_canada.9.d:0 " r56_canada.9.d:0 "Die Kanadier haben uns gebeten, unser Eigentum an Neufundland und Labrador an sie zu übertragen. Sie betrachten diese Gebiete als ihr rechtmäßiges Territorium.""
+ r56_canada.9.a:0 " r56_canada.9.a:0 "Sie können sie haben, wir brauchen die Truppen woanders.""
+ r56_canada.9.b:0 " r56_canada.9.b:0 "Nein, es ist unser rechtmäßiges Territorium.""
+  
+ r56_canada.10.t:0 " r56_canada.10.t:0 "[FROM.GetName] gibt uns Neufundland und Labrador!""
+ r56_canada.10.d:0 " r56_canada.10.d:0 "[FROM.GetName] hat uns den Besitz von Neufundland und Labrador übertragen, nachdem wir die Staaten freundlicherweise von ihnen angefordert haben.""
+ r56_canada.10.a:0 " r56_canada.10.a:0 "Gute Nachrichten!""
+  
+ r56_canada.11.t:0 " r56_canada.11.t:0 "[FROM.GetName] lehnt ab!""
+ r56_canada.11.d:0 " r56_canada.11.d:0 "[FROM.GetName] hat sich geweigert, uns Neufundland und Labrador zu geben!""
+ r56_canada.11.a:0 " r56_canada.11.a:0 "Eine Schande.""
+ r56_canada.11.B:0 " r56_canada.11.B:0 "Sie werden es bereuen.
+  
+ r56_canada.12.t:0 " r56_canada.12.t:0 "[CAN.GetName] schlägt ein Bündnis vor!""
+ r56_canada.12.d:0 " r56_canada.12.d:0 "[KANN.GetName] ist auf uns zugekommen und hat eine Allianz vorgeschlagen, zwischen uns und ihnen.""
+ r56_canada.12.a:0 " r56_canada.12.a:0 "Das ist eine gute Idee, gemeinsam sind wir stark.""
+ r56_canada.12.b:0 " r56_canada.12.b:0 "Nein, sie versuchen nur, sich von unserer militärischen Macht zu ernähren.""
+  
+ r56_canada.13.t:0 " r56_canada.13.t:0 "[USA.GetName] hat unserer Allianz zugestimmt!""
+ r56_canada.13.d:0 " r56_canada.13.d:0 "[USA.GetName] hat unserem Vorschlag eines nordamerikanischen Bündnisses zugestimmt!""
+ r56_canada.13.a:0 " r56_canada.13.a:0 "Gute Neuigkeiten!""
+  
+ r56_canada.14.t:0 " r56_canada.14.t:0 "[USA.GetName] lehnt ab!""
+ r56_canada.14.d:0 " r56_canada.14.d:0 "[USA.GetName] hat unseren Vorschlag, eine Allianz zu gründen, mit der Begründung abgelehnt, dass wir nur ihre militärische Macht ausnutzen wollen!""
+ r56_canada.14.a:0 " r56_canada.14.a:0 "Verdammte Amerikaner!""
+  
+ r56_canada.15:0 " r56_canada.15:0 "Rechte der Arbeiter""
+ r56_canada.15.d:0 " r56_canada.15.d:0 "Die Verbesserung der Rechte unserer Arbeiter hat sich in einer verbesserten Arbeitsmoral und Zufriedenheit der Arbeiter ausgewirkt.""
+ r56_canada.15.a:0 " r56_canada.15.a:0 "Gute Nachrichten""
+  
+ r56_canada.16:0 " r56_kanada.16:0 "Wirtschaftskrise""
+ r56_canada.16.d:0 " r56_kanada.16.d:0 """
+ r56_canada.16.a:0 " r56_kanada.16.a:0 """
+  
+ r56_canada.17:0 " r56_kanada.17:0 "Wirtschaftliche Stabilität""
+ r56_canada.17.d:0 " r56_kanada.17.d:0 """
+ r56_canada.17.a:0 " r56_kanada.17.a:0 """
+  
+ r56_canada_governor_general.1.t:0 " r56_kanada_generalgouverneur.1.t:0 "Generalgouverneur John Buchan stirbt""
+ r56_canada_governor_general.1.d:0 " r56_kanada_gouverneur_general.1.d:0 "WIP""
+ r56_canada_governor_general.1.a:0 " r56_canada_governor_general.1.a:0 "Sein Vermächtnis wird nicht vergessen werden.""
+  
+ #News events " #News Ereignisse"
+ r56_CAN_news_event.1.t:0 " r56_CAN_news_event.1.t:0 "1939 Königliche Tour durch Kanada""
+ r56_CAN_news_event.1.d:0 " r56_CAN_news_event.1.d:0 "Zum ersten Mal in der Geschichte Kanadas hat ein regierender Monarch Kanada besucht, denn König Georg VI. und Königin Elizabeth haben eine Tour durch Kanada unternommen. Ihre Tour soll alle kanadischen Provinzen, das Dominion Neufundland und einen Besuch in den [USA.GetName] umfassen.""
+ r56_CAN_news_event.1.a:0 " r56_CAN_news_event.1.a:0 "Wir fühlen uns durch einen solchen Besuch geehrt.""
+ r56_CAN_news_event.1.b:0 " r56_CAN_news_event.1.b:0 "Hoffentlich ist der Besuch angenehm!""
+ r56_CAN_news_event.1.c:0 " r56_CAN_news_event.1.c:0 "Ok""
+  
+ r56_CAN_news_event.2.t:0 " r56_CAN_news_event.2.t:0 "Wenn Tag""
+ r56_CAN_news_event.2.d:0 " r56_CAN_news_event.2.d:0 "Organisiert von der Greater Winnipeg Victory Loan Organisation, wurde heute eine simulierte Invasion der deutschen Streitkräfte in Kanada durchgeführt. Es war die bisher größte militärische Übung in Winnipeg und sie schafften es, an einem Tag 3 Millionen Dollar für die Kriegsanstrengungen zu sammeln. Die Veranstaltung beinhaltete mehrere Scheinbombardierungen, Feuergefechte, Verhaftungen von Leuten, die sich widersetzten, deutsche Paraden und eine Fülle von anderen Dingen. Der Tag endete mit der Freilassung der "Gefangenen", Paraden und Reden. Botschafter de Morgenstierne sprach über seine Erfahrungen mit der Nazi-Besatzung und sagte, die Simulation der Invasion und der Besatzung sei ein authentischer Einblick in die Nazi-Besetzung.""
+ r56_CAN_news.event.2.a:0 " r56_CAN_news.event.2.a:0 "Der Tag war ein Erfolg.""
+  
+ #Tooltips " #Tooltips"
+ r56_CAN_depression_tt:0 " r56_CAN_depression_tt:0 "Reduziert die Auswirkungen der #Großen Depression!""
+ r56_CAN_volunteers_tt:0 " r56_CAN_volunteers_tt:0 "Verändert unsere effektive Arbeitskraft\n\n""
+ r56_CAN_big_cut_tt:0 " r56_CAN_big_cut_tt:0 "Erhöht das Armeebudget und reduziert die Auswirkungen von §YThe Big Cut§!\n\n""
+ r56_CAN_nonindependent_airforce_tt:0 " r56_CAN_nonindependent_airforce_tt:0 "Macht einen Schritt zur Trennung von Heer und Luftwaffe\n\n""
+ r56_CAN_transfer_ships_tt:0 " r56_CAN_transfer_ships_tt:0 "[ENG.GetName] transferiert mehrere §YDestroyers§! zu uns""
+ defence_scheme_no2_tt:0 " defence_scheme_no2_tt:0 "Baut §YCoastal Forts§! der Stufe 2 an unserer Westküste.""
+ can_americas_tt:0 " can_americas_tt:0 "Schaltet £decision_icon_small §Gdecisions§! frei, um Ländern in §YSüdamerika§! den Krieg zu erklären, die nicht demokratisch sind.""
+ r56_CAN_conscription_crisis_tt:0 " r56_CAN_conscription_crisis_tt:0 "£Trigger_yes Kann Wehrpflichtgesetze ändern""
+ canadian_fuhrer_tt:0 " canadian_fuhrer_tt:0 "§YAdrien Arcand§! erhält die Eigenschaft:\n§YCanadian Führer§!\nPolitischer Machtzuwachs: §G+15%§!\nKriegsunterstützung: §G+5.00%§!""
+ r56_CAN_usa_ships_tt:0 " r56_CAN_usa_ships_tt:0 "§Y[USA.GetName]§! wird mehrere Schiffe an uns übergeben.""
+ r56_CAN_defence_scheme_no2_trigger_tt:0 " r56_CAN_defence_scheme_no2_trigger_tt:0 "§YYYou§! oder §Y[USA.GetName]§! rechtfertigt, oder hat ein Kriegsziel gegen §Y[JAP.GetName]§! oder §Y[JAP.GetName]§! rechtfertigt, oder hat ein Kriegsziel gegen §YYYou§! oder §Y[USA.GetName]§! oder hat den Fokus §YSecure the Philippines§! gestartet.""
+ newfoundland_labrador_tt:0 " neufundland_labrador_tt:0 "Der Besitzer von §Y[331.GetName]§! und §Y[332.GetName]§! befindet sich im Krieg.""
+ CAN_state_manpower_tt:0 " CAN_state_manpower_tt:0 "§Y[466.GetName]§! und §Y[468.GetName]§! §G+75%§!\n\n""
+ quebec_conscription_tt:0 " quebec_conscription_tt:0 "§YQuebec§! und §YSaint Lawrence§!:\nLokale Arbeitskräfte: §R-75%§!""
+ quebec_conscription_02_tt:0 " quebec_conscription_02_tt:0 "§YQuebec§! und §YSaint Lawrence§!:\nLokale Arbeitskräfte: §R-10%§!""
+ frogmen_of_burma_tt:0 " frogmen_of_burma_tt:0 "Gewinnen Sie eine §YElite§! Marineeinheit in §Y[466.GetName]§!""
+ r56_CAN_plebiscite_committees_tt:0 " r56_CAN_plebiscite_committees_tt:0 "§YMindert die Strafen für die Zwangseinberufung§!""
+ r56_CAN_workers_rights_tt:0 " r56_CAN_workers_rights_tt:0 "§YAfter a while, improving workers rights will improve the efficiency of our workers§!""
+ r56_CAN_strike_the_quebecois_anti_communists_tt:0 " r56_CAN_strike_the_quebecois_anti_communists_tt:0 "§YWill help in persuading the French-Canadians to conscript.§!""
+ r56_CAN_volunteers_trigger_tt:0 " r56_CAN_volunteers_trigger_tt:0 "£trigger_no §RCannot change conscription laws§!""
+ r56_CAN_conscription_crisis_trigger_tt:0 " r56_CAN_conscription_crisis_trigger_tt:0 "Hat kein Wehrpflichtgesetz §YFreiwillige§!""
+ r56_CAN_support_the_soviets_tt:0 " r56_CAN_support_the_soviets_tt:0 "Schicke §Y10000§! an §YInfanterieausrüstung§! und §Y1000§! an §YGeschwaderartillerie§! und §YSupportausrüstung§! zu §![SOV.GetName]§!.""
+ r56_CAN_independent_democracy_tt:0 " r56_CAN_independent_democracy_tt:0 "§RLocks ALL other political paths§!""
+ r56_CAN_our_own_way_tt:0 " r56_Kann_unser_eigener_Weg_tt:0 "§RLocks the§! §YIndependent Democracy§! §RBranchen§!""
+ r56_CAN_secure_the_economy_tt:0 " r56_CAN_secure_the_economy_tt:0 "§YSecuring the economy will take a while, but not securing it may cause§! §Gefährliche Auswirkungen§!""
+ quebec_conscription_modify_tt:0 " quebec_conscription_modify_tt:0 "Modifiziere §YQuebec Nationalismus§! durch:\n§YQuebec§! und §YSaint Lawrence§!:\nLokale Arbeitskräfte: §G+60%§!""
+ r56_CAN_ACW_equipment_tt:0 " r56_CAN_ACW_equipment_tt:0 "Die Menge der an die §YUSA§! gesendeten Ausrüstung hängt von der Menge der §YInfanterieausrüstung§! und §YArtillerieausrüstung§! in Ihrem Lager ab.""
+ r56_CAN_secure_american_democracy_tt:0 " r56_CAN_secure_american_democracy_tt:0 "Wir werden entweder §Rmilitärisch§! in den §YAmerikanischen Bürgerkrieg§! im Namen des §CDemokratischen Establishments§! eingreifen oder wir werden §Gcrush§! einen bereits etablierten §Runddemokratischen§! §YUnited States§!"."
+ r56_CAN_claims_on_america_tt:0 " r56_CAN_claims_on_america_tt:0 "Die §GIntegration§! dieser §YStaaten§! wird möglich sein, wenn wir jemals in ihren Besitz kommen.""
+  
+ #Traits " #Zeichen"
+ aircraft_production_expert:0 " aircraft_production_expert:0 "Experte für Flugzeugproduktion""
+ minister_of_mines_and_resources:0 " minister_of_mines_and_resources:0 "Minister für Bergbau und Ressourcen""
+ canadian_fuhrer:0 " canadian_fuhrer:0 "Kanadischer Führer""
+ hidden_communist:0 " hidden_communist:0 "Versteckter Kommunist""
+  
+ #Country Flags " #Länderflaggen"
+ r56_can_bickell_returned:0 " r56_can_bickell_returned:0 "Bickell ist zurückgekehrt"."
+ r56_can_riots_continued:0 " r56_can_riots_continued:0 "Lasst sie randalieren.""
+ r56_CAN_already_integrating:0 " r56_CAN_already_integrating:0 "Ein anderer Staat wird bereits integriert.""
+  
+ #Opinion Modifiers " #Meinungsmodifikatoren"
+ R56_CAN_trust_in_the_commonwealth_mofidier:0 " R56_CAN_trust_in_the_commonwealth_mofidier:0 "Vertrauen in das Commonwealth""
+ R56_CAN_distance_from_the_commonwealth_modifier:0 " R56_CAN_distance_from_the_commonwealth_modifier:0 "Entfernung zum Commonwealth""
+ R56_CAN_pjnbd_modifier:0 " R56_CAN_pjnbd_modifier:0 "Ständiger Gemeinsamer Ausschuss für Verteidigung""
+ R56_CAN_ACW_modifer:0 " R56_CAN_ACW_modifer:0 "Hilfe im Bürgerkrieg""
+ R56_CAN_ACW_small_amount_of_equipment_modifer:0 " R56_CAN_ACW_kleine_Ausrüstungsmenge_modifer:0 "Gesendete Ausrüstung
+ R56_CAN_ACW_medium_amount_of_equipment_modifer:0 " R56_CAN_ACW_medium_amount_of_equipment_modifer:0 "Gesendete Ausrüstung""
+ R56_CAN_ACW_large_amount_of_equipment_modifer:0 " R56_CAN_ACW_große_Anzahl_der_Ausrüstungen_modifer:0 "Gesendete Ausrüstung""
+  
+ #Research Groups " #Forschungsgruppen"
+ #r56_can_pmjdb_research_name:0 " #R56_can_pmjdb_research_name:0 "Ständiger Gemeinsamer Ausschuss für Verteidigung""
+ #r56_can_pmjdb_research_desc:0 " #r56_can_pmjdb_research_desc:0 "Der Ständige Gemeinsame Ausschuss für Verteidigung ist ein hochrangiges Beratungsgremium für die militärische Verteidigung Nordamerikas, zwischen [USA.GetName] und [CAN.GetName]""
+  
+ #Decisions " #Entscheidungen"
+ CAN_defence_scheme_no1:0 " CAN_defence_scheme_no1:0 "Verteidigungsschema Nr.1""
+ CAN_defence_scheme_no1_desc:0 " CAN_defence_scheme_no1_desc:0 "Unser Defence Scheme No.1 legt Pläne für den Fall eines Krieges mit den USA fest, die Anwendung dieser Pläne kann die USA überrumpeln und uns einen Vorteil verschaffen.""
+ CAN_democracy_decision:0 " CAN_democracy_decision:0 "Demokratie in [FROM.GetName] installieren""
+ CAN_democracy_decision_desc:0 " CAN_democracy_decision_desc:0 "Um den Frieden in Amerika zu schützen und zu erhalten, müssen wir möglicherweise extreme Maßnahmen ergreifen, um sicherzustellen, dass die Demokratie herrscht.""
+ CAN_seize_newfoundland_and_labrador:0 " CAN_seize_newfoundland_and_labrador:0 "Beschlagnahme von Neufundland und Labrador""
+ CAN_integrate_alaska:0 " CAN_integrate_alaska:0 "Alaska eingliedern""
+ CAN_integrate_washington:0 " CAN_integrieren_washington:0 "Washington integrieren""
+ CAN_integrate_oregon:0 " CAN_integrieren_oregon:0 "Oregon integrieren""
+ CAN_integrate_new_england:0 " CAN_integrate_new_england:0 "Neuengland integrieren""
+  
+ #Factions " #Fakten"
+ r56_can_american_alliance:0 " r56_can_american_alliance:0 "Die amerikanische Allianz""
+
+ ###Waffle modifications " ###Waffel-Modifikationen"
+ CAN_american_intervention:0 " CAN_amerikanische_Intervention:0 "Amerikanische Intervention""
+ CAN_observers_on_the_american_front:0 " CAN_beobachter_an_der_amerikanischen_Front:0 "Beobachter an der amerikanischen Front""
+ CAN_observers_on_the_american_front_desc:0 " CAN_observers_on_the_american_front_desc:0 "Der Bürgerkrieg, der in Amerika wütet, ist die perfekte Gelegenheit, um neue Taktiken zu studieren""
+ CAN_intervene_in_the_american_civil_war:0 " CAN_intervene_in_the_american_civil_war:0 "Intervenieren Sie in den amerikanischen Bürgerkrieg""
+ CAN_intervene_in_the_american_civil_war_desc:0 " CAN_intervene_in_the_american_civil_war_desc:0 "Wir müssen unseren ideologischen Verbündeten südlich der Grenze helfen und die Sache von [ROOT.GetRulingIdeology]""
+
+ CAN_sorel_steel_and_foundry:0 " CAN_sorel_steel_and_foundry:0 "Sorel Stahl und Gießerei""
+ CAN_sorel_steel_and_foundry_desc:0 " CAN_sorel_steel_and_foundry_desc:0 "Sorel wird das Herzstück unserer Stahlproduktion sein und mit der nahegelegenen Werft und der geplanten Waffenfabrik synergetisch zusammenarbeiten.""
+ CAN_sorel_industries_desc:0 " CAN_sorel_industries_desc:0 "Die günstige Lage am Sankt-Lorenz-Strom und die Nähe zu den Stahlwerken ist perfekt für die Produktion von schwerem militärischem Gerät wie Artilleriegeschützen.""
+
+ CAN_conscription_crisis_tt:0 " CAN_conscription_crisis_tt:0 "Lokale Arbeitskräfte §R-75%§! in §YQuebecer§! Kernen.""
+ CAN_conscription_crisis_mended_tt:0 " CAN_conscription_crisis_mended_tt:0 "Lokale Manpower §R-10%§! in §YQuebecer§! Kernen.""
+
+ CAN_howard_reid:0 " CAN_howard_reid:0 "Howard Reid""
+ CAN_james_prentice:0 " CAN_james_prentice:0 "James Prentice""
+ r56_can_american_alliance:0 ""
+
+ ###Waffle modifications "Observers on the American Front"
+ CAN_american_intervention:0 "The civil war ravaging America is the perfect opportunity to study new tactics"
+ CAN_observers_on_the_american_front:0 "Intervene in the American Civil War"
+ CAN_observers_on_the_american_front_desc:0 "We must help our ideological allies south of the border and let the cause of [ROOT.GetRulingIdeology]"
+ CAN_intervene_in_the_american_civil_war:0 ""
+ CAN_intervene_in_the_american_civil_war_desc:0 "Sorel Steel and Foundry"
+
+ CAN_sorel_steel_and_foundry:0 "The favorable location along the St Lawrence and the proximity with the steel mills is perfect for the production of heavy military equipment such as artillery pieces."
+ CAN_sorel_steel_and_foundry_desc:0 ""
+ CAN_sorel_industries_desc:0 "Local Manpower §R-75%§! in §YQuebecer§! cores."
+
+ CAN_conscription_crisis_tt:0 ""
+ CAN_conscription_crisis_mended_tt:0 "Howard Reid"
+
+ CAN_howard_reid:0 ""
+ CAN_james_prentice:0 ""

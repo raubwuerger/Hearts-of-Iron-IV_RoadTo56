@@ -1,0 +1,345 @@
+﻿l_german:
+ 
+###------> Events <><> <><> <><> <><> <><> 
+ 
+#Discover the Necrowombaticon 
+ r56w.event.30.t:0 "Ein seltsames Buch"
+ r56w.event.30.d:0 "Wir sind vor kurzem in den Besitz einiger sehr ungewöhnlicher Beutestücke gekommen, von denen das bemerkenswerteste ein uraltes Buch mit einer geheimnisvollen und bizarren Symbolik ist. Einige unserer Gelehrten glauben, dass es wert sein könnte, es zu studieren, während andere vermuten, dass es nur ein Scherz sein könnte."
+ r56w.event.30.a:0 "Einmischung in die dunklen Mächte? Melden Sie mich an!"
+ r56w.event.30.b:0 "Nein, danke."
+  
+#The Necrowombaticon can be studied 
+ r56w.event.31.t:0 "Unsere Gelehrten berichten"
+ r56w.event.31.d:0 "Nach einer gewissen Zeit des Studiums ist klar geworden, dass das Buch ein ausgeklügeltes Ritual zur Erlangung großer Mengen an Macht beschreibt. Es verlangt unter anderem große Mengen an Duftkerzen, eine schwarze Katze und eine große Menge an angereichertem Uran. \n\n Zusammen mit der Übersetzung für das Ritual kommt ein kryptischer Fluch: \Warnung! Wenn Sie damit weitermachen, wird das Ihr Spiel durcheinanderbringen und zu etwas sehr Dummen führen. Speichern Sie im Zweifelsfall jetzt.\" \n\n Sollen wir weitermachen oder diesen Weg ganz aufgeben?
+ r56w.event.31.a:0 "Ich esse Gefahr zum Frühstück."
+ r56w.event.31.b:0 "...aber die historische!"
+  
+#The Necrowombaticon's deadly power is revealed 
+ r56w.event.32.t:0 "Eine dimensionale Verzerrung"
+ r56w.event.32.d:0 "Unsere Gelehrten führten das Ritual genau nach Anweisung aus. Leider führte dies zu einem kleinen nuklearen Inferno, das die Struktur von Raum und Zeit zu zerreißen scheint. Eine Armee von Kreaturen strömte aus der Verzerrung und drängte unsere Truppen zurück. Wir haben das Territorium von Oregon verloren, und damit auch einen Teil unserer nationalen Würde."
+ r56w.event.32.a:0 "So ein Mist."
+  
+#News of the book's power reaches the world 
+ r56w.event.33.t:0 "Seltsame Vorkommnisse"
+ r56w.event.33.d:0 "Aus Nordamerika wurden Berichte über ungewöhnliche Aktivitäten gemeldet. Die Besatzungstruppen haben alle Andeutungen über Ungewöhnliches abgestritten, aber das wurde durch ihre unerwartete und ziemlich unorganisierte Aufgabe des Oregon-Territoriums etwas untergraben. Nur die Zeit wird den Wahrheitsgehalt der Sache zeigen."
+ r56w.event.33.a:0 "Ich frage mich, was es damit auf sich hat?"
+  
+#How do we react to these events? 
+ r56w.event.34.t:0 "Eine diplomatische Ouvertüre"
+ r56w.event.34.d:0 "Ein Vertreter der Monster ist bei uns eingetroffen und hat höflich gebeten, mit Ihnen zu sprechen. Obwohl ihre Sprache seltsam und kryptisch ist, waren wir in der Lage, eine einzige Frage zu erkennen: "Was hat er?"
+ r56w.event.34.a:0 "Das ist alles sehr albern. Sagen Sie nichts!"
+ r56w.event.34.b:0 "Can hat... Krieg!"
+ r56w.event.34.c:0 "Ja, klar. Wie auch immer."
+  
+#The Tender Loving Empire is Defeated 
+ r56w.event.35.t:0 "Der unmögliche Sieg"
+ r56w.event.35.d:0 "Die Monstertruppe, die aus dem Nichts in unsere Welt kam, wurde besiegt. Obwohl sie versuchten, Verwüstung anzurichten, waren ihre Bemühungen letztlich umsonst. Heute ist ein ruhigerer und gesünderer Tag."
+ r56w.event.35.a:0 "Sie waren sowieso super OP"
+  
+#To War or Not to War 
+ r56w.event.36.t:0 "Kriegsspiele"
+ r56w.event.36.d:0 "Unsere militärische Führung spielt ein Spiel, um zu sehen, welches Land wir als nächstes erobern sollten. Wenn wir wollen, sind die Ergebnisse verbindlich und treten sofort in Kraft."
+ r56w.event.36.a:0 "Scheint legitim zu sein."
+ r56w.event.36.b:0 "Vielleicht später..."
+ r56w.event.36.c:0 "Hören Sie auf zu fragen!"
+  
+#Invisibile DOW event 
+ r56w.event.37.t:0 "Was haben sie getan?"
+ r56w.event.37.d:0 "" 
+  
+#Hitler's Stach 
+ r56w.event.38.t:0 "Das Rasiermesser der Gerechtigkeit"
+ r56w.event.38.d:0 "Unsere Minister haben einen kühnen Plan gefasst, um einen unserer Feinde zu Fall zu bringen. Es ist an der Zeit, keinen Geringeren als Adolf Hitler anzugreifen und ihm den Wert einer guten Rasur beizubringen. \n\nUnsere Agenten sind in Bereitschaft. Sollen wir die Expedition wagen?"
+ r56w.event.38.a:0 "Das klingt nach einer schönen Idee!"
+ r56w.event.38.b:0 "Nicht im Moment."
+ r56w.event.38.c:0 "Es ist ein alberner Vorschlag."
+  
+#The World Learns of the Stache 
+ r56w.event.40.t:0 "Schnurrbart Fehlfunktion"
+ r56w.event.40.d:0 "Heute Morgen wachte der Führer des Deutschen Reiches auf und stellte fest, dass eine absolute Gräueltat an seiner Gesichtsbehaarung begangen worden war. Unnötig zu sagen, dass er wütend war - und erklärte, dass alle Schnurrbärte nun verboten sind, bis er seinen eigenen nachwachsen lassen kann. "
+ r56w.event.40.a:0 "Ein nationales Denkmal wurde geschändet"
+  
+#Proposal for Taking Europe 
+ r56w.event.41.t:0 "Ein einfacher Vorschlag"
+ r56w.event.41.d:0 "Ein Minister von uns hat einen kühnen Plan vorgeschlagen, einen Agenten inmitten der europäischen Streitkräfte einzuschleusen. Was sollen wir tun?"
+ r56w.event.41.a:0 "Es finanzieren!"
+ r56w.event.41.b:0 "Nein, danke. Ich bevorzuge Pfannkuchen."
+ 
+#Agent Werewaffle Reports 
+ r56w.event.42.t:0 "Unser Agent berichtet"
+ r56w.event.42.d:0 "Minster Thinking Waffle hat sich gemeldet. Er hat sich bereits den nötigen Veränderungen unterzogen, um sich in die belgische Gesellschaft einzufügen. Als Halb-Werwolf-Waffel kann er nun nachts zuschlagen, während er tagsüber köstlich ist."
+ r56w.event.42.a:0 "Genial!"
+ 
+#News of the Belgian Takeover 
+ r56w.event.44.t:0 "Köstliche Revolution"
+ r56w.event.44.d:0 "Das Land Belgien hat kürzlich einen unerwarteten Führungswechsel erlebt. Eine Pressekonferenz wurde von einer scheinbar empfindungsfähigen Waffel abgehalten, die sich dann in einen Wolf verwandelte und einen nahegelegenen Vizeminister zerfleischte. Experten sind sich noch nicht sicher, was die internationalen politischen Entscheidungen des neuen Führers beinhalten werden, aber es wird ganz sicher keinen Sirup beinhalten."
+ r56w.event.44.a:0 "Das Frühstück wird nie wieder dasselbe sein"
+ 
+#GE Adopts a Cat 
+ r56w.event.45.t:0 "Eine gute Tat"
+ r56w.event.45.d:0 "Als Greatexperiment eine lange Gasse in London entlangging, entdeckte es ein streunendes Kätzchen. Es miaute leise und fragte dann nach einer Zigarre. Ich nehme an, man könnte es adoptieren?"
+ r56w.event.45.a:0 "Ja! Bringt den Schabernack!"
+ r56w.event.45.b:0 "Nein, nein! Die unvorhergesehenen Konsequenzen! "
+ 
+#The Cat Runs Away 
+ r56w.event.46.t:0 "Nicht genug Katzenminze"
+ r56w.event.46.d:0 "Irgendwann in der Nacht verschwand die Zigarre rauchende Katze aus dem Präsidentenpalast. Offenbar wurde danach nur ein seltsamer Zettel gefunden, der auf die Notwendigkeit eines größeren Katzenklos hinwies."
+ r56w.event.46.a:0 "Ich wittere eine Wendung in der Geschichte."
+ 
+#News of the Cat Takeover 
+ r56w.event.48.t:0 "Der Aufstieg der fantastischen Furries"
+ r56w.event.48.d:0 "Tief im Herzen der Wüste von Saudi-Arabien ist eine gewaltige und leicht genervte Armee aus dem Nichts aufgetaucht. Nachdem sie sich selbst erklärt und ein Territorium eingenommen haben, fordern sie prompt Thunfisch und dass man sie streichelt, wenn man ihnen die Erlaubnis dazu gibt."
+ r56w.event.48.a:0 "Impawsibble!"
+  
+#Daniel Craig Appears 
+ r56w.event.49.t:0 "Lasst die Craigken frei!"
+ r56w.event.49.d:0 "Ein Mann ist aufgetaucht, der behauptet, ein Superspion aus der fernen Zukunft zu sein. Ohne Details oder Gründe zu nennen, behauptet er, dass es für die Zeitlinie lebenswichtig sei, dass er Tibet übernehmen dürfe. Das Schicksal der Welt hängt davon ab."
+ r56w.event.49.a:0 "Ja, klar. Wie auch immer."
+ r56w.event.49.b:0 "Verwandelt ihn in Klebstoff."
+  
+#Someone Found a Puppet 
+ r56w.event.51.t:0 "Da kommt etwas Flauschiges auf uns zu"
+ r56w.event.51.d:0 "Greatexperiment beschloss kürzlich, einen Urlaub in Großbritannien zu machen. Bei einem Spaziergang stieß er auf eine ziemlich seltsame und furchtbar verdächtige Puppe, die sich hinter einer Telefonzelle versteckte. \"Ich sollte diesem Ding wirklich Magie einflößen, damit es das Land übernimmt und absolutes Chaos anrichtet.", sagte Greatexperiment zu sich selbst."
+ r56w.event.51.a:0 "Ja, warum nicht?"
+ r56w.event.51.b:0 "Nee. Schmeiß es in den Fluss"
+  
+#News of the British Takeover 
+ r56w.event.53.t:0 "Eine Hand an der Macht"
+ r56w.event.53.d:0 "Aus völlig unverständlichen Gründen scheint die souveräne Regierung Großbritanniens beschlossen zu haben, alle Macht in die filzigen Hände einer empfindungsfähigen Marionette zu legen. Gott schütze uns alle."
+ r56w.event.53.a:0 "Das ist Politik für Sie"
+  
+#Hitler and Baldur's Gate 
+ r56w.event.100.t:0 "Eine seltsame Tür"
+ r56w.event.100.desc:0 "Heute hat Baldur von Schirach in der Reichskanzlei dem Führer seinen eigenen Entwurf für den Bau von Germania vorgeschlagen.\n\nImmer bereit, über Kulturfragen zu diskutieren, hat er im Geheimen eine neuartige Tür entworfen, die in Hitlers innerem Kreis für Uneinigkeit sorgt. Die Motive werden von Albert Speer als der Hauptstadt Europas unwürdig beurteilt, während das Gerücht kursiert, Himmler bewundere die nordisch-mythologischen Bezüge und halte es für authentisch deutsch".\n\nHeute wurde in der Reichskanzlei keine wichtige Arbeit geleistet, da die Naziführung zu sehr mit der Diskussion über Baldurs Tor beschäftigt war.
+ r56w.event.100.a:0 "Schicken Sie die Pläne an Arno Breker."
+ 
+#Comet Tank sighted 
+r56w.event.101.t:0 "Kometenpanzer gesichtet!"
+r56w.event.101.desc:0 "Eine experimentelle Variante unseres neuen Comet-Panzers wurde versehentlich von ein paar vorbeifahrenden Zivilisten gesichtet, als sie zu nah an der Grenze der Militärbasis Bovington fuhr. Wir müssen schnell handeln, um sicherzustellen, dass die Angelegenheit mit der nötigen Diskretion behandelt wird. Die MPs sind verständlicherweise irritiert und der Panzerfahrer wird sicherlich gemaßregelt werden.\n\nWenn lose Lippen Schiffe versenken, können sie auch Panzer durchbohren."
+r56w.event.101.a:0 "Machen wir ein paar Telefonate."
+ 
+###------> Tooltips <><> <><> <><> <><> <><> 
+ 
+#Generic 
+ r56w_tt_nothing:0 "Es passiert nichts."
+ r56w_tt_failure:0 "Miserabler Misserfolg"
+ r56w_tt_mission_go:0 "Erfolg!"
+ 
+###------> Countries <><> <><> <><> <><> <><> 
+ 
+#WHY 
+ WHY_neutrality:0 "Tender Loving Empire"
+ WHY_neutrality_DEF:0 "Das Tender Loving Imperium"
+ WHY_neutrality_ADJ:0 "Tenderites"
+  
+#Parties 
+ r56w_anarchism:0 "Organisierte Anarchie"
+ r56w_anarchism_desc:0 "Es macht Sinn, wenn man nicht darüber nachdenkt."
+  
+#Factions 
+ r56w_modderite:0 "Modderite"
+ r56w_modderite_desc:0 "Wortspiele!"
+  
+###------> Ideas <><> <><> <><> <><> <><> 
+ 
+#National Ideas 
+ r56w_idea_national_tabletop_games:0 "Tabletop-Spiele"
+ r56w_idea_national_tabletop_games_desc:0 "Die Bürger dieser Nation spielen gerne extrem nerdige Spiele"
+ r56w_idea_national_poor_as_f:0 "Armes AF"
+ r56w_idea_national_poor_as_f_desc:0 "Sogar Taco Bell sieht teuer aus"
+ r56w_idea_national_got_up_early_today:0 "Früh aufgestanden"
+ r56w_idea_national_got_up_early_today_desc:0 "...und niemand ist glücklich darüber."
+ r56w_idea_national_got_up_early_today_tooltip:0 "Kann einen Aufruf zum Krieg ablehnen, weil er viel zu müde ist."
+ r56w_idea_national_feeling_guilty:0 "Fühlt sich schuldig"
+ r56w_idea_national_feeling_guilty_desc:0 "Gut! Ich helfe! Bist du jetzt glücklich?"
+  
+#Advisors 
+ r56w_idea_minister_zukas:0 "Zukas"
+ r56w_idea_minister_zukas_desc:0 "" 
+ r56w_idea_minister_herman_lindqvist:0 "Herman Lindqvist "
+ r56w_idea_minister_herman_lindqvist_desc:0 " "
+ r56w_idea_minister_thinking_waffle:0 "Denkende Waffel"
+ r56w_idea_minister_thinking_waffle_desc:0 "" 
+ r56w_idea_minister_linda:0 "Linda SUI"
+ r56w_idea_minister_linda_desc:0 "" 
+ r56w_idea_minister_pompelmo:0 "Pompelmo"
+ r56w_idea_minister_pompelmo_desc:0 "" 
+ r56w_idea_minister_patchie:0 "Patchie"
+ r56w_idea_minister_patchie_desc:0 "" 
+ r56w_idea_minister_xuan_kamo:0 "Xuan Kamo"
+ r56w_idea_minister_xuan_kamo_desc:0 "" 
+ r56w_idea_minister_verenikin:0 "Macrov"
+ r56w_idea_minister_verenikin_desc:0 "" 
+ r56w_idea_minister_toasted_toaster:0 "Toasted Toaster"
+ r56w_idea_minister_toasted_toaster_desc:0 "" 
+ r56w_idea_minister_jamryl:0 "Jamryl IDS"
+ r56w_idea_minister_jamryl_desc:0 "" 
+ r56w_idea_minister_dvenom:0 "D. Venom"
+ r56w_idea_minister_dvenom_desc:0 "" 
+ r56w_idea_minister_tugas_eagle_eye:0 "Tugas Adlerauge"
+ r56w_idea_minister_tugas_eagle_eye_desc:0 "" 
+ r56w_idea_minister_black_falcon:0 "Schwarzer Falke"
+ r56w_idea_minister_black_falcon_desc:0 "" 
+ r56w_idea_minister_tai:0 "Tai"
+ r56w_idea_minister_tai_desc:0 "" 
+ r56w_idea_minister_sorensen:0 "Sorensen"
+ r56w_idea_minister_sorensen_desc:0 "" 
+ r56w_idea_minister_vfacure:0 "V. Facure"
+ r56w_idea_minister_vfacure_desc:0 "" 
+ r56w_idea_minister_sangriacus:0 "Sangriacus"
+ r56w_idea_minister_sangriacus_desc:0 "" 
+ r56w_idea_minister_master_splinter:0 "Meister Splitter"
+ r56w_idea_minister_master_splinter_desc:0 "" 
+ r56w_idea_minister_antonius_magnus:0 "Antonius Magnus"
+ r56w_idea_minister_antonius_magnus_desc:0 "" 
+ r56w_idea_minister_johan_schmidt:0 "Johan Schmidt"
+ r56w_idea_minister_johan_schmidt_desc:0 "" 
+ r56w_idea_minister_mr_tsubodai:0 "Herr Tsubodai"
+ r56w_idea_minister_mr_tsubodai_desc:0 "" 
+ r56w_idea_minister_kriplaik:0 "Kriplaik"
+ r56w_idea_minister_kriplaik_desc:0 "" 
+ r56w_idea_minister_toast:0 "Toast"
+ r56w_idea_minister_toast_desc:0 "" 
+ r56w_idea_minister_karsta:0 "Karsta"
+ r56w_idea_minister_karsta_desc:0 "" 
+ r56w_idea_minister_pinback:0 "Pinback"
+ r56w_idea_minister_pinback_desc:0 "" 
+ r56w_idea_minister_vydazy:0 "Vydazy"
+ r56w_idea_minister_vydazy_desc:0 "" 
+ r56w_idea_minister_buffalo444:0 "Büffel444"
+ r56w_idea_minister_buffalo444_desc:0 "" 
+ r56w_idea_minister_poor_tegga:0 "Armer Tegga"
+ r56w_idea_minister_poor_tegga_desc:0 "" 
+ r56w_idea_minister_h_h:0 "H.H."
+ r56w_idea_minister_h_h_desc:0 "" 
+ r56w_idea_minister_barry_white:0 "Barry Weiß"
+ r56w_idea_minister_barry_white_desc:0 "" 
+ r56w_idea_minister_perjh:0 "Perjh"
+ r56w_idea_minister_perjh_desc:0 "" 
+  
+#Designers 
+ r56w_idea_designer_massif_manufacturing:0 "Massiv Fertigung"
+ r56w_idea_designer_massif_manufacturing_desc:0 "" 
+ r56w_idea_designer_holst_planet_foundry:0 "Holst Planet Gießerei"
+ r56w_idea_designer_holst_planet_foundry_desc:0 "" 
+ r56w_idea_designer_la_societe_construction:0 "La Société Arms"
+ r56w_idea_designer_la_societe_construction_desc:0 "" 
+ r56w_idea_designer_efrafa_shipbuilding:0 "Efrafa Schiffbau"
+ r56w_idea_designer_efrafa_shipbuilding_desc:0 "" 
+ r56w_idea_designer_heyoka_air:0 "Heyoka Luft"
+ r56w_idea_designer_heyoka_air_desc:0 "" 
+  
+ 
+###------> Traits <><> <><> <><> <><> <><> 
+ 
+#Minister Traits 
+ r56w_trait_minister_zukas:0 "Kriegspirat"
+ r56w_trait_minister_herman_lindqvist:0 "Super Baumeister "
+ r56w_trait_minister_thinking_waffle:0 "Nicht eine Waffel"
+ r56w_trait_minister_linda:0 "Sehr kühl"
+ r56w_trait_minister_pompelmo:0 "Schmetterlingsfänger"
+ r56w_trait_minister_patchie:0 "Negative Ganzzahl"
+ r56w_trait_minister_xuan_kamo:0 "Geteilt durch Null"
+ r56w_trait_minister_verenikin:0 "Imaginäre Zahlen"
+ r56w_trait_minister_toasted_toaster:0 "So Toasty"
+ r56w_trait_minister_jamryl:0 "Nicht eine Band"
+ r56w_trait_minister_dvenom:0 "Gefrühstückt"
+ r56w_trait_minister_tugas_eagle_eye:0 "Hergestellt aus Augen"
+ r56w_trait_minister_black_falcon:0 "Tod von oben"
+ r56w_trait_minister_tai:0 "Nur Tai"
+ r56w_trait_minister_sorensen:0 "Eigentlich ein General"
+ r56w_trait_minister_vfacure:0 "Immer noch nicht sicher"
+ r56w_trait_minister_sangriacus:0 "Akribisch"
+ r56w_trait_minister_master_splinter:0 "Alternativer Zeitstrahl"
+ r56w_trait_minister_antonius_magnus:0 "Großmütig"
+ r56w_trait_minister_johan_schmidt:0 "Mag Blumen"
+ r56w_trait_minister_mr_tsubodai:0 "Herr für Sie"
+ r56w_trait_minister_kriplaik:0 "Kryptisch"
+  
+#Designer Traits 
+ r56w_trait_designer_massif_manufacturing:0 "So sehr Massiv"
+ r56w_trait_designer_holst_planet_foundry:0 "Referenziert"
+ r56w_trait_designer_la_societe_construction:0 "Kann kein Französisch lesen"
+ r56w_trait_designer_efrafa_shipbuilding:0 "Bücher sind toll"
+ r56w_trait_designer_heyoka_air:0 "Hallo Boden"
+  
+#Generic Traits 
+ r56w_trait_generic_is_breathing:0 "Ist lebendig"
+ r56w_trait_generic_is_breathing_desc:0 "Jepp. Es sei denn, sie sind ein heimlicher Zombie. Das ist immer möglich."
+ r56_trait_anti_fascist:0 "Antifaschistisch"
+ r56_trait_anti_democratic:0 "Anti-Demokrat"
+  
+#Field Marshal Traits 
+ r56w_trait_marshal_master_exploder:0 "Master Exploder"
+ r56w_trait_marshal_master_exploder_desc:0 "Der Film war aber wirklich schlecht"
+ 
+#Land Commander Traits 
+ r56w_trait_army_vibrates:0 "Vibriert"
+ r56w_trait_army_vibrates_desc:0 "Dieser General ist in der Lage, mit hoher Geschwindigkeit zu vibrieren."
+ r56w_trait_army_packed_lunch:0 "Gepacktes Mittagessen"
+ r56w_trait_army_packed_lunch_desc:0 "Dieser General denkt immer daran, ein gutes Mittagessen einzupacken, bevor er in die Schlacht zieht."
+ r56w_trait_army_saw_a_squirrel:0 "Saw A Squirrel"
+ r56w_trait_army_saw_a_squirrel_desc:0 "War das ein Eichhörnchen? Wo ist es hin?"
+ r56w_trait_army_knows_what_you_did:0 "Weiß, was Sie getan haben"
+ r56w_trait_army_knows_what_you_did_desc:0 "Sie wissen es."
+ r56w_trait_army_force_user:0 "Force User"
+ r56w_trait_army_force_user_desc:0 "Klar, warum nicht?"
+ r56w_trait_army_is_a_lemur:0 "Ist ein Lemur"
+ r56w_trait_army_is_a_lemur_desc:0 "Dieser General ist ein Lemur. Anscheinend."
+ r56w_trait_army_personal_space:0 "Persönlicher Freiraum"
+ r56w_trait_army_personal_space_desc:0 "Dieser General hat einen sehr guten Sinn für persönlichen Raum."
+ r56w_trait_army_free_coffee:0 "Qualitätskaffee"
+ r56w_trait_army_free_coffee_desc:0 "Nur das Beste, direkt vom Gipfel des Murder Mountain."
+ 
+#Naval Commander Traits 
+ r56w_trait_navy_ocean_haiku:0 "Haiku"
+ r56w_trait_navy_ocean_haiku_desc:0 "Ich mag Wasser \n Es ist so sehr dandyhaft \n Dies ist ein Haiku"
+ r56w_trait_navy_hates_water:0 "Hasst Wasser"
+ r56w_trait_navy_hates_water_desc:0 "Es ist eher eine gegenseitige Missachtung."
+ r56w_trait_navy_rubber_duck:0 "Gummi-Ente"
+ r56w_trait_navy_rubber_duck_desc:0 "Dieser General besitzt eine Gummi-Ente. Kommt aus der Zukunft."
+ r56w_trait_navy_can_swim:0 "Kann schwimmen"
+ r56w_trait_navy_can_swim_desc:0 "Wahrscheinlich."
+ 
+ 
+#Leader Traits 
+ r56w_trait_leader_unemployed:0 "Arbeitslos"
+ r56w_trait_leader_unemployed_desc:0 "Welteroberung ist ein Hobby"
+ r56w_trait_leader_punny:0 "Witzig"
+ r56w_trait_leader_punny_desc:0 "Erzählt wirklich furchtbare Altherrenwitze und viele Wortspiele"
+ r56w_trait_leader_sounds_like_batman:0 "Klingt wie Batman"
+ r56w_trait_leader_sounds_like_batman_desc:0 "Der Junge von nebenan hat es gesagt"
+ r56w_trait_leader_life_experience:0 "Lebenserfahrung"
+ r56w_trait_leader_life_experience_desc:0 "Hat schreckliche Ereignisse überlebt, die für die meisten Sterblichen unvorstellbar sind"
+ r56w_trait_leader_shaved:0 "rasiert!"
+ r56w_trait_leader_shaved_desc:0 "...und trotzdem hat niemand Mitleid."
+ r56w_trait_leader_lycofluarop:0 "Lycofluarop"
+ r56w_trait_leader_lycofluarop_desc:0 "Verflucht, bei Nacht ein Wolf zu sein, bei Tag eine Waffel"
+ r56w_trait_leader_historical:0 "Superhistorisch"
+ r56w_trait_leader_historical_desc:0 "Das Personal in der Bibliothek kennt ihn zu gut."
+ r56w_trait_leader_badass:0 "Knallhart"
+ r56w_trait_leader_badass_desc:0 "Der allerböseste aller Ärsche."
+ r56w_trait_leader_fluffy:0 "Sehr flauschig"
+ r56w_trait_leader_fluffy_desc:0 "Es ist fast tröstlich. Auf eine böse Art und Weise."
+  
+###------> Modifiers <><> <><> <><> <><> <><> 
+ 
+#Opinion Modifiers 
+ r56w_opinion_modifier_shaved_stache:0 "Rasierter Schnurrbart"
+ r56w_opinion_modifier_shaved_stache_desc:0 "" 
+ r56w_opinion_modifier_not_in_the_club:0 "Nicht im Club"
+ r56w_opinion_modifier_not_in_the_club_desc:0 "" 
+ r56w_opinion_modifier_totally_op:0 "OP-Nation"
+ r56w_opinion_modifier_totally_op_desc:0 "Öffentlich dafür verurteilt, OP zu sein, aber in Wirklichkeit ist jeder nur Gelee."
+ r56w_opinion_modifier_naval_invasion:0 "Invasion der Marine"
+ r56w_opinion_modifier_naval_invasion_desc:0 "" 
+ r56w_opinion_modifier_opened_portal:0 "Geöffnetes Portal"
+ r56w_opinion_modifier_opened_portal_desc:0 "Jeder ist ein bisschen verärgert, dass Sie ein Portal zu den Höllendimensionen geöffnet haben."
+  
+###------> Focuses <><> <><> <><> <><> <><> 
+ 
+#WHY 
+ r56w_focus_WHY_totally_op:0 "Es ist Super OP"
+ r56w_focus_WHY_totally_op_desc:0 "YES. WIR WISSEN."
+  
+#####---------------------------------------------------------------------> End 

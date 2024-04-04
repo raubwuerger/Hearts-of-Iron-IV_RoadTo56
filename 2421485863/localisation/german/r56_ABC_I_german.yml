@@ -1,0 +1,6 @@
+﻿l_german:
+  #Focues ""
+  ABC_establish_a_general_staff:0 "Der [ROOT.GetAdjective] Generalstab"
+  ABC_establish_a_general_staff_desc:0 ""
+  ABC_army_reform:0 "Heeresreform"
+  ABC_army_reform_desc:0 ""

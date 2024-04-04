@@ -1,0 +1,52 @@
+﻿l_german:
+ UKR_generic_naval_manufacturer:0 "Mykolajiw Werft"
+ #=  Leninska Kuznia ""
+ #Ship Building Research Project Center (if old enough) ""
+ #Berdichev machine-building plant ""
+ UKR_generic_industrial_concern:0 "Asowstal"
+ UKR_generic_medium_aircraft_manufacturer:0 "Kharkiv Luftfahrt Fabrik"
+ UKR_generic_light_aircraft_manufacturer:0 "Zivilluftfahrt-Werk 410"
+ #future antononv ""
+ UKR_generic_heavy_aircraft_manufacturer:0 "Staatliches Flugzeugwerk 12 "
+ #Kommunar for trucks, future ZAZ ""
+ UKR_generic_motorized_equipment_manufacturer:0 "Fabrik Nr. 183 "
+ UKR_generic_artillery_manufacturer:0 "Arsenal-Fabrik"
+ UKR_generic_infantry_equipment_manufacturer:0 "Schostka Pulverwerk"
+  
+ UKR_contact_west_ukrainians:0 "Kontakt Westukrainer"
+ UKR_multinational_army_command:0 "Multinationales Armeekommando"
+ UKR_join_integrated_army_command:0 "Beitritt zum Integrierten Armeekommando"
+ UKR_integrated_air_workshops:0 "Integrierte Luftfahrt-Werkstätten"
+
+ UKR_mykola_lebed:0 "Mykola Lebed "
+  
+
+ UKR_revolt:0 "Ukraine-Aufstand"
+
+ ukraine.1.t:0 "Die Ukraine erklärt die Unabhängigkeit"
+ ukraine.1.d:0 "Während die Rote Armee voll mobilisiert wurde, um den Aufstand von Wlassows weißen Truppen niederzuschlagen, wurde die Ukraine als wenig wichtig und unwahrscheinlich angesehen, dass sie aufgrund der vielen Befriedungen in der Region zu einem Aufstand fähig wäre. \n\n Es scheint, dass wir die Auswirkungen des Aufstandes auf die Region unterschätzt haben, da die sowjetischen Flaggen bereits abgenommen und durch die blau-gelbe Flagge ersetzt wurden und eine Notstandsregierung, die in Kiew tagt, einseitig die Wiederherstellung der Ukrainischen Volksrepublik erklärt hat.\n\n Es scheint nun offensichtlich, dass die Region nur mit Gewalt übernommen werden kann."
+ ukraine.1.a:0 "Diese Verräter werden zu Fall gebracht werden!"
+ ukraine.1.b:0 "Frieden zu schließen ist die beste Wahl."
+
+ ukraine.2.t:0 "Frieden mit der Ukraine"
+ ukraine.2.d:0 "Was ein einfacher Aufstand war, hat sich zu einem echten Unabhängigkeitskrieg für die Ukraine entwickelt. Unsere Soldaten waren nicht in der Lage, Kiew zu sichern, und die ukrainische Armee ist jetzt ausreichend organisiert, um in Gebiete einzudringen, die bis dahin unter unserer Kontrolle waren.\n\Wir können es uns nicht leisten, einen Krieg fortzusetzen, der uns schon so viel gekostet hat, deshalb haben wir den Außenminister der provisorischen ukrainischen Regierung eingeladen, einen Frieden zwischen unseren beiden Nationen auszuhandeln, der die Unabhängigkeit der Ukraine anerkennt und ihnen alle Gebiete überträgt, die sie als ukrainisch betrachten und die in ihrer Hand sind."
+ ukraine.2.a:0 "Wir werden Frieden haben"
+ ukraine.2.b:0 "Niemals! Die Ukraine soll sowjetisch bleiben!"
+
+ ukraine.3.t:0 "Ein ukrainischer Kompromiss?"
+ ukraine.3.desc:0 "Die [UKR.GetAdjective]-Regierung schlägt die Errichtung eines ukrainischen Kondominiums in Wolhynien-Ostgalizien vor. Es würde der ukrainischen Bevölkerung in der Westukraine Autonomie gewähren und die ethnischen Spannungen zwischen der ukrainischen und der polnischen Bevölkerung lösen. Neben der lokalen Autonomie fordern die Ukrainer auch einige wirtschaftliche Zugeständnisse."
+ ukraine.3.a:0 "Ein kleines Zugeständnis im großen Plan der Dinge."
+ ukraine.3.b:0 "Polen wird nicht geteilt werden."
+
+ ukraine.4.t:0 "Polen akzeptierte unseren Vorschlag."
+ ukraine.4.desc:0 "Unserer Bitte folgend, hat Polen eine autonome Region in der Westukraine eingerichtet. [DOU.GetNameDefCap] wurde eingerichtet. Während es technisch immer noch außerhalb der Ukraine liegt, wird es gleiche Rechte für alle sicherstellen und uns erlauben, in unserer Zusammenarbeit mit den Polen weiter zu gehen, während die nationalistischsten Elemente der OUN relativ ruhig bleiben."
+ ukraine.4.a:0 "Lang lebe die ukrainisch-polnische Freundschaft! "
+
+ ukraine.5.t:0 "Polen akzeptierte unseren Vorschlag."
+ ukraine.5.desc:0 "Unserer Bitte folgend, hat Polen eine autonome Region in der Westukraine eingerichtet. [DOU.GetNameDefCap] wurde eingerichtet. Obwohl sie technisch gesehen immer noch außerhalb der Ukraine liegt, wird sie gleiche Rechte für alle sicherstellen und uns erlauben, in unserer Zusammenarbeit mit den Polen weiter zu gehen, während die nationalistischsten Elemente der OUN relativ ruhig bleiben."
+ ukraine.5.a:0 "Lang lebe die Ukrainisch-Polnische Freundschaft! "
+
+ ukraine.6.t:0 "Dem Integrierten Kommando beitreten?"
+ ukraine.6.desc:0 "Das [UKR.GetAdjective]-Militär hat einen Plan entworfen, um die Effizienz unserer kombinierten Streitkräfte zu verbessern. Wenn die Mitglieder der [ROOT.GetFactionName] unter einem vereinten Kommando vereinigt werden könnten, würden sie ihre Ressourcen effizienter teilen."
+ ukraine.6.a:0 "Treten Sie dem vereinigten Kommando bei."
+ ukraine.6.b:0 "Höflich ablehnen. "

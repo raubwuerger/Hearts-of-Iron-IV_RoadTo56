@@ -1,0 +1,48 @@
+﻿l_german:
+
+ROM_generic_electronics_concern:0 "Atelier Flesch Arad"
+ROM_combinatul_siderurgic_hunedoara:0 "Combinatul Siderurgic Hunedoara"
+ROM_rafinaria_steaua_romana:0 "Rafinaria Steaua Română"
+ROM_philips_sar:0 "Philips S.A.R."
+DOD_romania.1000.t:0 "Der neue Stab"
+DOD_romania.1000.d:0 "Das neue kommunistische Regime versucht, die Armee zu reorganisieren und die rechtsgerichteten Offiziere durch linksgerichtete Offiziere zu ersetzen, wir haben einige vielversprechende Offiziere zusammengestellt und bereiten ihre Beförderung vor."
+DOD_romania.1000.a:0 "Ich bin sicher, dass sie ihren Job machen können"
+
+ ROM_invite_ukraine:0 "Laden Sie die Ukraine ein"
+ ROM_invite_ukraine_desc:0 "Die Ukrainer sind ein wichtiger Puffer gegen [SOV.GetAdjective] Ambitionen."
+
+ROM_oil_refining_infrastructure:0 "Infrastruktur zur Ölraffination"
+ROM_oil_refining_infrastructure_desc:0 "Um unser Öl effizient auszubeuten, muss die Raffinerie-Infrastruktur ausgebaut werden."
+
+ROM_ioan_arhip:0 "Ioan Arbore"
+ROM_ioan_arbore:0 "Ioan Arbore"
+ROM_ilie_steflea:0 "Ilie Steflea"
+ROM_stefan_ionescu:0 "Stefan Ionescu"
+ROM_alexandru_ioanitiu:0 "Alexandru Ioanitiu"
+ROM_florea_tenescu:0 "Florea Tenescu"
+
+ROM_eugeniu_rosca:0 "Eugeniu Rosca"
+ROM_petre_barbuneanu:0 "Petre Bărbuneanu"
+
+ROM_claim_debar:0 "Anspruch Debar"
+ROM_claim_mitrovica:0 "Anspruch Mitrovica"
+ROM_claim_west_sandzak:0 "Anspruch West Sandzak"
+ROM_claim_banja_luka:0 "Anspruch Banja Luka"
+ROM_claim_kvarner:0 "Anspruch Kvarner"
+ROM_claim_slavonia:0 "Anspruch Slawonien"
+ROM_claim_syrmia:0 "Anspruch Syrmia"
+ROM_claim_prekmurje:0 "Anspruch Prekmurje"
+ROM_claim_lower_styria:0 "Claim Untersteiermark"
+ROM_claim_herzegovina:0 "Anspruch Herzegowina"
+
+DOD_romania.800.t:0 "[BUL.getLeader] fordert Mazedonien"
+DOD_romania.800.desc:0 "Während das Land bei den Verhandlungen, die zur Auflösung Jugoslawiens führten, ein Zuschauer war, fordert die bulgarische Regierung die Kontrolle über Mazedonien mit dem Argument, dass die Bevölkerung ethnisch bulgarisch sei und dies ein Zeichen des guten Willens wäre."
+DOD_romania.800.a:0 "Sehr gut"
+DOD_romania.800.b:0 "Verlangen Sie die alleinige Kontrolle über die Minen."
+DOD_romania.800.c:0 "Wir behalten, was wir gerade gewonnen haben."
+
+
+DOD_romania.801.t:0 "[BUL.getLeader] fordert albanische Territorien"
+DOD_romania.801.desc:0 "Während das Land bei den Verhandlungen, die zur Auflösung Jugoslawiens führten, nur Zuschauer war, fordert die albanische Regierung die Kontrolle über Gebiete, die ihrer Meinung nach von ethnisch albanischer Bevölkerung bewohnt werden. Sie argumentieren, dass dies ein Zeichen des guten Willens wäre und es leichter machen würde, das Wohlwollen der Bevölkerung zu erhalten."
+DOD_romania.801.a:0 "Sehr gut"
+DOD_romania.801.b:0 "Wir behalten, was wir gerade gewonnen haben."
