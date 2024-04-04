@@ -1,0 +1,4 @@
+Rt56_SOV_l_german.yml				-> r56_SOV_I_english
+rt56_stand_alone_flavor_ideas_l_	-> r56_stand_alone_flavor_ideas_l_
+SAE_l_german						-> BRA_l_german
+									-> ARG_I_english
