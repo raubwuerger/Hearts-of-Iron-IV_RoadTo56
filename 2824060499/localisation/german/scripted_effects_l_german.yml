@@ -1,0 +1,6 @@
+﻿l_german:
+ unlock_naval_advisors_tooltip:0 "Schalte die §YMarine-Berater§ frei!.\n"
+ unlock_air_force_advisors_tooltip:0 "Schalte die §YLuftwaffenberater§! frei.\n"
+ trade_policy_open_up_tooltip:0 "Ändern Sie unsere §YGewerbegesetze§! in Richtung §BFreihandel§!.\n"
+ trade_policy_open_up_twice_tooltip:0 "Ändern Sie unsere §YGewerbegesetze§! gegenüber §BFreihandel§! zweimal.\n"
+ trade_policy_closing_tooltip:0 "Ändern Sie unsere §YGewerbegesetze§! in Richtung §Bgeschlossene Wirtschaft§!.\n"

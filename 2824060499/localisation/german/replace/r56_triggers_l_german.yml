@@ -1,0 +1,9 @@
+﻿l_german:
+ TRIGGER_OVERLORD:1 "§YOverlord§!"
+ TRIGGER_IS_PUPPET:1 "Ist ein Thema eines anderen Landes"
+ TRIGGER_IS_NOT_PUPPET:1 "Ist völlig unabhängig"
+ TRIGGER_IS_SUBJECT:1 "Ist ein Thema eines anderen Landes"
+ TRIGGER_IS_NOT_SUBJECT:1 "Ist völlig unabhängig"
+ ADD_UNIT_MEDAL_DIV_EFFECT:0 "Der Division wird eine §YMedal§ verliehen!"
+ STRATEGICREGION_275:0 "Karelische Seen"
+ STRATEGICREGION_276:0 "Ost-Nord-Zentralstaaten"

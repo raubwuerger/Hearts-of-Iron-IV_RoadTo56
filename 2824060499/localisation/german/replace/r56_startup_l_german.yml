@@ -1,0 +1,9 @@
+﻿l_german:
+ r56.startup.event.01.title:0 "Willkommen auf der Straße!"
+ r56.startup.event.01.description:56 "Hallo und Grüße vom 56-Team!\n\nDer Mod wechselt automatisch in den Mehrspielermodus, wenn mindestens zwei Länder vom Spieler kontrolliert werden. Dieser Modus deaktiviert ein paar unausgeglichene Dinge und hat einige KI-Leistungsoptimierungen.\n\n§R--- WICHTIG ---\n§!Dieser Mod wird offiziell jeden Monat um den 7./8. aktualisiert. Wir empfehlen Ihnen, Ihre Spiele und Kampagnen vor diesen Terminen abzuschließen, da unsere Updates gelegentlich dazu führen können, dass gespeicherte Spiele unterbrochen werden. Danke für dein Verständnis. Bedenken Sie außerdem, dass neue Erweiterungen/Updates unsere Updates normalerweise verzögern.\n\nWenn Sie auf Fehler oder Probleme stoßen, stellen Sie außerdem sicher, dass keine Mod-Konflikte vorliegen. Andernfalls melden Sie diese bitte ausführlich auf unserem Discord."
+ r56.startup.event.01.option_auto:0 "Weitermachen"
+ r56.startup.event.01.option_tt:0 "Vielen Dank, dass Sie unseren Mod gespielt haben, und ich wünsche Ihnen einen wundervollen Tag!"
+ r56.startup.event.02.title:0 "...Warte einen Moment!"
+ r56.startup.event.02.description:0 "Es sieht so aus, als ob Sie den kostenlosen DLC „Polen: United and Ready“ nicht aktiviert haben. Dies ist eine §RAnforderung§! damit der Mod wie vorgesehen funktioniert. Bitte starten Sie das Spiel mit aktiviertem DLC neu; Andernfalls treten einige grafische Fehler auf."
+ r56.startup.event.02.option:0 "Ich werde das Spiel beenden und tun, was du mir gesagt hast."
+ r56.startup.event.02.option_tt:0 "Du solltest besser..."

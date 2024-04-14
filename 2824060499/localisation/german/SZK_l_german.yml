@@ -1,0 +1,8 @@
+﻿l_german:
+ SZK_fascism_party:0 "EP"
+ SZK_fascism_party_long:0 "Erdélyi Part"
+ SZK_union_with_HUN:0 "Union mit [HUN.getnameDef]"
+ r56_szekelys.1.t:0 "[SZK.GetNameDef] fordert eine Vereinheitlichung an."
+ r56_szekelys.1.desc:0 "Vertreter von [SZK.GetNameDef] kontaktierten unsere Regierung und gaben bekannt, dass ihre Regierung einstimmig beschlossen habe, von unserem Land als historischer Teil Ungarns übernommen zu werden."
+ r56_szekelys.1.a:0 "Natürlich!"
+ r56_szekelys.1.b:0 "Es ist nicht in unserem Interesse."

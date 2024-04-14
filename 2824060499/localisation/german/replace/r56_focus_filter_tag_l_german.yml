@@ -1,0 +1,13 @@
+﻿l_german:
+ FOCUS_FILTER_ESPIONAGE:0 "Spionage"
+ FOCUS_FILTER_OIL:0 "Ressource: Ölförderung und Kraftstoffsynthese"
+ FOCUS_FILTER_STEEL:0 "Ressource: Stahl"
+ FOCUS_FILTER_CHROMIUM:0 "Ressource: Chrom"
+ FOCUS_FILTER_ALUMINIUM:0 "Ressource: Aluminium"
+ FOCUS_FILTER_TUNGSTEN:0 "Ressource: Wolfram"
+ FOCUS_FILTER_RUBBER:0 "Ressource: Gummi"
+ FOCUS_FILTER_MILITARY_EQUIPMENT:0 "Militärische Ausrüstung"
+ FOCUS_FILTER_MILITARY_IMPROVEMENT:0 "Militärische Verbesserung"
+ FOCUS_FILTER_ALLIANCE:0 "Allianz"
+ FOCUS_FILTER_INFLUENCE_INCREASE:0 "Einflusssteigerung"
+ FOCUS_FILTER_INFLUENCE_DECREASE:0 "Einflussabnahme"
