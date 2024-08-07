@@ -53,8 +53,7 @@
  autonomy_warlords:0 "Warlord"
 
  CKS_regime:0 "Kuomintang"
- the_peoples_tutelage:0 "People's Tutelage"
- the_peoples_tutelage_desc:0 "The §YPeople's Tutelage§! is a phase in the development of China laid down by §WSun Yat-sen§!. In this phase, the §BKuomintang§! rules China as a §Ysingle-party state§!, developing the country and preparing her people for democracy."
+ 
  KMT_CPWDP:0 "CPWDP"
  KMT_CPWDP_long:0 "Chinese Peasants' and Workers' Democratic Party"
  PRC_kang_ri_jiu_wang:0 "Kang Ri Jiu Wang Yun Dong"
@@ -73,6 +72,7 @@
  KMT_mauser:0 "Mauser"
  CHI_army_ordnance_department:0 "US Army Ordnance Department"
  CHI_hanyang_arsenal_tank:0 "Hanyang Arsenal"
+ CHI_hanyang_arsenal_tank_organization:0 "Hanyang Arsenal"
  taiyuan_artillery:0 "Taiyuan Artilleries"
  hanyang_rifles:0 "Hanyang Rifles"
 
@@ -365,7 +365,7 @@ GXC_generic_industrial_concern:0 "Guangxi Enterprise Corporation"
  KMT_parliament:0 "Rural Reconstruction Movement"
  KMT_parliament_desc:0 "The health standards and living conditions are gradually improving under the guidance of the current government."
 
- KMT_universal_sufferage_ns:0 "The Three Principles Of The People"
+ KMT_universal_sufferage_ns:0 "The Three Principles of the People"
  KMT_universal_sufferage_ns_desc:0 "Nationalism, democracy, and livelihood for the people!"
 
  KMT_people_knowledge:0 "Education Of Citizenship"
