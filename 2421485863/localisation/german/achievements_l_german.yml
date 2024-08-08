@@ -1,1 +1,192 @@
 ﻿l_german:
+
+rt56achievements_69420:0 "Der Weg zu mehr als 56 Errungenschaften"
+
+#the_road_to_56_NAME:0 "Der Weg zu 56"
+#the_road_to_56_DESC:0 "Und du dachtest"
+
+you_cnut_do_that_NAME:0 "Mach du das"
+you_cnut_do_that_DESC:0 "Stelle als Dänemark das Nordseeimperium wieder her."
+
+banana_america_NAME:0 "Bananen-Amerika"
+banana_america_DESC:0 "Werden Sie als Honduras zum Bananenimperium und machen Sie die USA zu Ihrem Untertan."
+banana_america_tt:0 "Die Vereinigten Staaten von Amerika sind ein Untertan des Bananenimperiums"
+
+german_revolution_NAME:0 "Bringe die Revolution nach Hause"
+german_revolution_DESC:0 "Gewinnen Sie den deutschen Bürgerkrieg als Kommunisten und verbünden Sie sich nicht mit der Sowjetunion."
+#alles_klar_tt:0 "Der deutsche Bürgerkrieg ist vorbei."
+GER_invalidate_civil_war_achievement:0 "Gelöschte Armee vor dem Bürgerkrieg"
+
+sweden_winter_war_NAME:0 "Finnlands Sak är Vår"
+sweden_winter_war_DESC:0 "Treten Sie als Schweden mit Finnland in den Winterkrieg ein und zwingen Sie die Sowjetunion zur Kapitulation."
+sweden_winter_war_tt:0 "Die Sowjetunion hat kapituliert."
+
+carolus_rex_NAME:0 "Carolus Rex"
+carolus_rex_DESC:0 "Schließen Sie Prinz Gustafs Coup ab und stellen Sie die Grenzen des kaiserlichen Schwedens wieder her. (Norwegen"
+carolus_rex_tt:0 "Prinz Gustaf ist der Anführer von Schweden und besitzt Norwegen"
+
+rescue_genden_NAME:0 "Ratet mal"
+rescue_genden_DESC:0 "Bringen Sie als Mongolei Genden wieder an die Macht"
+rescue_genden_tt:0 "Gib Genden die Macht zurück"
+
+hispano_america_NAME:0 "Hispanoamérica"
+hispano_america_DESC:0 "Vereinige die hispanischen Nationen Südamerikas."
+hispano_america_tt:0 "Schließe die Entscheidung zur Vereinigung von Hispanoamérica ab."
+
+hibernia_rules_NAME:0 "Hibernia beherrscht die Wogen"
+hibernia_rules_DESC:0 "Baue als Irland ein Schlachtschiff und sorge dafür"
+hibernia_rules_tt:0 "Beliebiges Land:[~\n~]Ursprüngliches Land ist [[~ENG.GetName~]][~\n~]Maximal [~§Y~]0 Capital Ship[~§!~] Schiffe."
+
+celtic_union_NAME:0 "Ceilteach go Brách"
+celtic_union_DESC:0 "Vereinigt als keltische Nation die keltische Welt."
+celtic_union_tt:0 "Hat den Beschluss gefasst"
+
+dalai_llama_NAME:0 "Der Dalai Llama"
+dalai_llama_DESC:0 "Erobert als Peru alle Staaten Tibets."
+dalai_llama_tt:0 "Anders als sein Verwandter"
+   ""
+
+#no_fame_no_game_NAME:0 "Kein Ruhm"
+#no_fame_no_game_DESC:0 "Setzen Sie als Mongolei die asiatische Selbstbestimmung durch und befreien Sie mindestens 4 asiatische Nationen durch die Entscheidung."
+#no_fame_no_game_tt:0 ""
+
+its_1527_all_over_again_NAME:0 "Es ist wieder wie 1527"
+its_1527_all_over_again_DESC:0 "Besetzen Sie als habsburgischer Monarch Rom"
+its_1527_all_over_again_tt:0 "Hat einen habsburgischen Monarchen als Anführer."
+
+burgundian_circle_NAME:0 "Jetzt wird's burgundisch-erdig"
+burgundian_circle_DESC:0 "Nehmt als Belgier eure burgundische Vergangenheit und Zukunft an."
+
+battlecruiser_operational_NAME:0 "Schlachtkreuzer einsatzbereit"
+battlecruiser_operational_DESC:0 "Baut einen Schlachtkreuzer als koreanische Nation."
+
+argentina_falklands_NAME:0 "Marsch auf die Malwinen"
+argentina_falklands_DESC:0 "Benennen Sie als Argentinien die Falklandinseln und Südgeorgien um."
+argentina_falklands_tt:0 "Hat die Entscheidung getroffen"
+
+snow_speaks_finnish_NAME:0 "Der Schnee spricht finnisch"
+snow_speaks_finnish_DESC:0 "Fügen Sie der Sowjetunion als Finnland eine Million Opfer zu."
+
+truly_international_NAME:0 "Eine wahrhaft internationale Stadt"
+truly_international_DESC:0 "Kontrolliere als Danzig einen Staat auf jedem Kontinent."
+truly_international_tt:0 "Kontrolliere mindestens einen Staat in Europa"
+
+someone_needs_freedom_NAME:0 "Möchte jemand etwas Freiheit?"
+someone_needs_freedom_DESC:0 "Kontrolliere als USA alle ölproduzierenden Staaten im Nahen Osten."
+
+democracy_nonnegotiable_NAME:0 "Demokratie ist nicht verhandelbar"
+democracy_nonnegotiable_DESC:0 "Sorgen Sie als USA dafür"
+democracy_nonnegotiable_tt:0 "England"
+
+unoreverse_sudentenland_NAME:0 "Gib ihm einen Zentimeter und er nimmt ...nichts?"
+unoreverse_sudentenland_DESC:0 "Wie die Tschechoslowakei das Sudentenland an Deutschland abtreten und es dann zurücknehmen."
+unoreverse_sudentenland_tt:0 "Deutschland muss das Sudentenland durch ein Ereignis eingenommen haben."
+
+are_you_going_suez_NAME:0 "Was werden Sie tun? Suez?"
+are_you_going_suez_DESC:0 "Als Ägypten den Suez-Kanal erobern"
+#are_you_going_suez_tt:0 "Lösen Sie einen Grenzkonflikt am Suezkanal aus."
+
+nachman_stutter_NAME:0 "Mein Name ist Nachman und ich stottere"
+nachman_stutter_DESC:0 "Als Israel"
+
+i_like_those_odds_NAME:0 "Ich mag diese Quoten"
+i_like_those_odds_DESC:0 "Besiegen Sie als Israel die Heilige Kriegsarmee erfolgreich im Bürgerkrieg und halten Sie die arabische Offensive auf."
+
+mamluk_success_NAME:0 "Der Weg zum Erfolg ist mit harter Arbeit gepflastert"
+mamluk_success_DESC:0 "Reformiere als Ägypten das Mamlukenreich."
+mamluk_success_tt:0 "Hat den Entschluss gefasst"
+
+reverse_anschluss_NAME:0 "Das ist nicht das"
+reverse_anschluss_DESC:0 "Als Österreich"
+reverse_anschluss_tt:0 "Anschluss verweigern und Deutschland kapitulieren"
+
+and_i_took_that_personally_NAME:0 "Und ich habe das persönlich genommen"
+and_i_took_that_personally_DESC:0 "Als Ma Hushan unter der Führung Tunganistans alle Kerne der Xinjiang-Clique besitzen und mit der Sowjetunion im Krieg sein"
+
+chile_of_the_orient_NAME:0 "Chile des Orients"
+chile_of_the_orient_DESC:0 "Besitze als Nepal"
+
+lets_start_again_NAME:0 "Nochmal von vorne anfangen"
+lets_start_again_DESC:0 "Beseitigen Sie als Ägypten den sudanesischen Separatismus und entkernen Sie den Sudan vollständig."
+lets_start_again_tt:0 "Alle sudanesischen Staaten haben den Separatismus beseitigt und sind ein Kern von Ägypten."
+
+we_are_of_kin_NAME:0 "Wir sind verwandt"
+we_are_of_kin_DESC:0 "Bilden Sie entweder als Ägypten oder als Albanien die Union Ägypten-Albanien."
+
+bromance_NAME:0 "Bromance"
+bromance_DESC:0 "Entweder die Schweiz oder Liechtenstein bürgen füreinander."
+
+take_that_seward_NAME:0 "Nimm das"
+take_that_seward_DESC:0 "Als Liechtenstein"
+
+the_casinos_paid_for_that_NAME:0 "Die Casinos haben dafür bezahlt"
+the_casinos_paid_for_that_DESC:0 "Als Monaco"
+
+true_winners_of_1278_NAME:0 "Die wahren Gewinner von 1278"
+true_winners_of_1278_DESC:0 "Wie Andorra"
+
+the_sovereign_republics_NAME:0 "Die souveränen Republiken"
+the_sovereign_republics_DESC:0 "Lösen Sie als Sowjetunion die UdSSR auf und sorgen Sie dafür"
+
+neither_king_nor_fuhrer_NAME:0 "Weder König noch Führer"
+neither_king_nor_fuhrer_DESC:0 "Setzen Sie als Dänemark den König ab und errichten Sie eine demokratische Republik"
+den_lost_core_state:0 "Dänemark hat die Kontrolle über einen Kernstaat verloren"
+
+baltics_closed_NAME:0 "Die Ostsee ist geschlossen"
+baltics_closed_DESC:0 "Wenn Dänemark die Kopenhagener Konvention aufhebt und nur Verbündeten Zugang zur Ostsee gewährt."
+
+bismarck_would_be_proud_NAME:0 "Bismarck wäre stolz"
+bismarck_would_be_proud_DESC:0 "Wie jedes deutsche Königreich"
+
+fragile_peace_NAME:0 "Zerbrechlicher Frieden"
+fragile_peace_DESC:0 "Treten Sie als Rumänien"
+
+kaiser_bei_uns_NAME:0 "Kaiser mit Uns"
+kaiser_bei_uns_DESC:0 "Stellen Sie als deutscher Kaiser die Grenzen des Deutschen Reiches wieder her und erlangen Sie die absolute Macht."
+
+another_brick_in_the_wall_pt1_NAME:0 "Ein weiterer Ziegelstein in der Mauer"
+another_brick_in_the_wall_pt1_DESC:0 "Als faschistisches Vereinigtes Königreich"
+
+idealogical_continuity_error_NAME:0 "Idealogischer Kontinuitätsfehler"
+idealogical_continuity_error_DESC:0 "Gehen Sie als Honduras oder Venezuela in der ideologischen Doktrin Jahrzehnte weiter und werden Sie Anarchokapitalist."
+
+another_brick_in_the_wall_pt2_NAME:0 "Ein weiterer Ziegelstein in der Mauer"
+another_brick_in_the_wall_pt2_DESC:0 "Besitzen Sie als kommunistisches Deutschland den Großraum London."
+
+scarecrow_NAME:0 "Vogelscheuche"
+scarecrow_DESC:0 "Als USA: Vollendung des "Fight Jim Crow"-Schwerpunkts und keine Jim Crow-Modifikatoren in den Kernstaaten."
+
+another_brick_in_the_wall_pt3_NAME:0 "Ein weiterer Ziegelstein in der Mauer"
+another_brick_in_the_wall_pt3_DESC:0 "Besitzen Sie als kommunistische oder faschistische USA sowohl den Großraum London als auch Berlin."
+
+game_over_NAME:0 "Spiel vorbei"
+game_over_DESC:0 "Kontrolliere als Afghanistan Moskau und London"
+achievement_AFG_has_been_puppeted:0 " War bereits ein Untertan"
+
+swedish_missouri_tiger_NAME:0 "Schwedischer Missouri-Tiger"
+swedish_missouri_tiger_DESC:0 "Kontrolliere als Schweden Missouri."
+
+gotta_catch_them_all_NAME:0 "Gotta Catch them All"
+gotta_catch_them_all_DESC:0 "Besitze als beliebige Nation jede Mikronation."
+
+guantanamo_NAME:0 "Guantánamo"
+guantanamo_DESC:0 "Kontrolliere als Kuba Guantánamo Bay."
+
+we_sing_yuve_yuve_yu_no_more_NAME:0 "Wir singen Yuve Yuve nicht mehr!"
+we_sing_yuve_yuve_yu_no_more_DESC:0 "Vereinige als beliebige mongolische Nation die Großmongolei."
+
+guamtemala_NAME:0 "Guamtemala"
+guamtemala_DESC:0 "Als Guatemala oder Guam"
+
+necrowombaticon_NAME:0 "Das Necrowombaticon"
+necrowombaticon_DESC:0 "Entdeckt als Sowjetunion oder Deutschland das Necrowombaticon und werdet zum Zärtlich Liebenden Reich."
+r56_cflg_patreon_ee:0 "Hat [~§Y~]Necrowombaticon-Aktivierung[~§!~] Entscheidung verwendet"
+
+razboiul_fulgerului_NAME:0 "Razboiul Fulgerului"
+razboiul_fulgerului_DESC:0 "Gewinne den rumänischen kommunistisch-demokratischen Bürgerkrieg"
+
+yeehaw_NAME:0 "Yeehaw!"
+yeehaw_DESC:0 "Nimm das wahre Schicksal von Texas an"
+
+prince_in_his_castle_NAME:0 "Der Prinz in seinem Schloss"
+prince_in_his_castle_DESC:0 "Als demokratisches oder autoritäres Liechtenstein"

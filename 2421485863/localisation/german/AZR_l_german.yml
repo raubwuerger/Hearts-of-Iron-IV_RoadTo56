@@ -1,1 +1,27 @@
 ﻿l_german:
+ # characters ""
+ AZR_mir_jafar_baghirov:0 "Mir Jafar Baghirov"
+ AZR_mammad_amin_rasulzade:0 "Mammad Amin Rasulzade"
+ AZR_gara_garabeyov:0 "Gara Garabejow"
+ AZR_mir_yaqub_mehdiyev:0 "Mir Yaqub Mehdiyev"
+ AZR_hazi_aslanov:0 "Hazi Aslanow"
+ AZR_beshir_imanov:0 "Beshir Imanow"
+ AZR_israfil_israfilov:0 "Israfil Israfilow"
+ AZR_mehmed_emin_resulzade:0 "Mehmed Emin Resulzade"
+ AZR_hilal_munsi:0 "Hilal Münşi"
+
+ The_destiny_of_azerbaijan_category:0 "Das Schicksal von Aserbaidschan"
+ The_destiny_of_azerbaijan_category_desc:0 "Aserbaidschan, das jahrhundertelang am Schnittpunkt der Welten lag, wurde durch das Öl von Baku zu einer noch strategischeren Region als zuvor. Nach dem Scheitern der Demokratischen Republik, die unter den Bolschewiken zusammenbrach, lebte in den Herzen einiger Menschen die Hoffnung auf die Wiederherstellung der Unabhängigkeit weiter. Mit unserer aktiven Unterstützung und einem entschlossenen Gegenangriff gegen [[~SOV.GetNameDef~]] kann die Hoffnung wieder aufleben und die Rückkehr der Souveränität von [[~AZR.GetAdjective~]] garantiert werden."
+ AZR_liberators:0 "Befreier von Aserbaidschan"
+
+ AZR_form_azerbaijani_national_council:0 "Bilden Sie einen aserbaidschanischen Nationalrat"
+ AZR_establish_azerbaijani_legion:0 "Rekrutieren Sie eine aserbaidschanische Legion"
+ AZR_establish_azerbaijani_legion_cost:0 "£army_experience [~§H~]10[~§!~] £pol_power [~§H~]25[~§!~] £command_power [~§H~]25[~§!~]"
+ AZR_establish_azerbaijani_legion_cost_blocked:0 "£army_experience [~§R~]10[~§!~] £pol_power [~§R~]25[~§!~] £command_power [~§R~]25[~§!~]"
+ AZR_establish_azerbaijani_legion_cost_tooltip:0 "Es kostet £army_experience 10, £pol_power 25 und £command_power 25 um dies zu wählen."
+ AZR_establish_national_azerbaijani_government:0 "Eine nationale aserbaidschanische Regierung gründen"
+
+ AZR_event.1.t:0 "Die Freiwilligen wollen nach Hause gehen!"
+ AZR_event.1.desc:0 "Die Freiwilligeneinheiten wurden gebildet, um gegen [[~SOV.GetNameDef~]] zu kämpfen und [[~AZR.GetNameDef~]] zu befreien. Nach der Niederlage des [[~SOV.GetAdjective~]]-Staates sind diese Freiwilligen der Meinung, dass ihre Mission erfüllt ist, und wollen nach Hause geschickt werden."
+ AZR_event.1.a:0 "Überzeugen Sie sie, noch ein wenig zu bleiben."
+ AZR_event.1.b:0 "Lösen Sie ihre Einheit auf."
