@@ -1,16 +1,1 @@
 ﻿l_german:
- The_destiny_of_azerbaijan_category:0 "Das Schicksal von Aserbaidschan"
- The_destiny_of_azerbaijan_category_desc:0 "Seit Jahrhunderten am Kreuzungspunkt der Welten gelegen, wurde Aserbaidschan durch das Öl von Baku zu einer strategisch wichtigeren Region als je zuvor. Nach dem Scheitern der ersten Republik, die unter den Bolschewiken zusammenbrach, lebte in den Herzen einiger die Hoffnung auf eine wiederhergestellte Unabhängigkeit. Mit unserer aktiven Unterstützung und einem entschiedenen Gegenangriff gegen das Rote Reich kann eine neue Hoffnung entfacht und die Rückkehr der aserbaidschanischen Souveränität garantiert werden. "
- AZR_liberators:0 "Befreier von Aserbaidschan"
-  
- AZR_form_azerbaijani_national_council:0 "Bilden Sie einen aserbaidschanischen Nationalrat"
- AZR_establish_azerbaijani_legion:0 "Rekrutieren Sie eine aserbaidschanische Legion"
- AZR_establish_azerbaijani_legion_cost:0 "£army_experience §H10§! £pol_power §H25§! £command_power §H25§!"
- AZR_establish_azerbaijani_legion_cost_blocked:0 "£Army_experience §R10§! £pol_power §R25§! £command_power §R25§!"
- AZR_establish_azerbaijani_legion_cost_tooltip:0 "Es kostet £army_experience 10, £pol_power 25 und £command_power 25, um dies auszuwählen."
- AZR_establish_national_azerbaijani_government:0 "Errichten Sie eine nationale aserbaidschanische Regierung"
-  
- AZR_event.1.t:0 "Die Freiwilligen wollen nach Hause gehen!"
- AZR_event.1.desc:0 "Die Freiwilligeneinheiten haben sich gebildet, um gegen [SOV.GetName] zu kämpfen und Aserbaidschan zu befreien. Mit der Niederlage des [SOV.GetAdjective]-Staates haben diese Freiwilligen das Gefühl, dass ihre Mission erfüllt ist und sie wollen nach Hause geschickt werden.  "
- AZR_event.1.a:0 "Überzeugen Sie sie, noch ein wenig zu bleiben "
- AZR_event.1.b:0 "Lösen Sie ihre Einheit auf.  "

@@ -1,19 +1,1 @@
 ﻿l_german:
-operation_targeted_attack_officers:0 "Feindliche Offiziere angreifen"
-operation_targeted_attack_officers_desc:0 "Durch Angriffe auf gegnerische Offiziere können wir die Befehlskette erheblich stören und die Führungsfähigkeiten eines gegnerischen Befehlshabers schwächen."
-targeted_attack_theater:0 "Militärisches Theater angreifen"
-targeted_attack_theater_desc:0 "Ein Ort, an dem sich viele Offiziere zur Entspannung versammeln, ist der ideale Ort, um sie zu überraschen und sowohl Feinde als auch Kollaborateure auszuschalten. Das Spektakel wird dieses Mal nicht auf der Bühne stattfinden..."
-targeted_attack_theater_outcome:0 "Die Bombe, die inmitten des Publikums platziert wurde, hatte eine verheerende Wirkung. Sie tötete und verletzte viele Offiziere des Generalstabs der Division, die in diesem Bereich stationiert war, und legte ihre militärische Effizienz lahm."
-targeted_bomb_officers_mess:0 "Angriff auf die Offiziersmesse"
-targeted_bomb_officers_mess_desc:0 "Wo findet man eine Menge Offiziere, wenn nicht in einer Messe? Daraus ein Chaos zu machen, würde sicherlich die örtlichen Einheiten desorganisieren."
-targeted_attack_theater_outcome:0 "Während die Suppe kochte, tickte die Bombe. Der Lärm in dem belebten Raum wurde bald von einer großen Explosion überdeckt... gefolgt von einer Sekunde der Stille und dem Geschrei der Kommandanten der lokalen [FROM.getAdjective]-Einheit."
-targeted_assassinate_division_commander:0 "Zielen Sie auf den General"
-targeted_assassinate_division_commander_desc:0 "Es gibt keinen besseren Weg, eine Division zu desorganisieren, als ihren Kopf zu enthaupten. Es wird die Truppen demoralisieren und die [FROM.getAdjective]-Armee dazu zwingen, einen weniger erfahrenen Ersatz einzusetzen."
-targeted_assassinate_divison_commander_outcome:0 "Durch Tarnung und Überraschung wurden Granaten in den Wagen des Kommandanten geworfen, gefolgt von weiteren Schüssen, um die Verfolger zu erledigen."
-targeted_attack_theater_outcome:0 "Es war schnell und kurz. Unsere Agenten warteten auf den Wagen des Kommandanten. Ein paar Granaten, ein paar Schüsse und es war erledigt."
-operation_outcome_officers_assassinated_tt:0 "Ein zufälliger [FROM.GetNameWithFlag] §YKommandant§! der Truppen anführt, erhält die Eigenschaft §YVerwundet§! für §Y90 Tage§!"
- 
-operation_targeted_plant_false_new_order_intel:0 "Gefälschte Aufmarschpläne unterjubeln"
-operation_targeted_plant_false_new_order_intel_desc:0 "Indem wir die Entdeckung einer gefälschten Karte erzwingen, die die deutschen Pläne für die westliche Hemisphäre darstellen soll, können wir [USA.GetLeader] irritieren und ihn zwingen, eine stärkere Haltung gegenüber [GER.getNameDef] einzunehmen."
- 
-operation_outcome_new_order_map_planted_tt:0 "§Y[FROM.GetNameWithFlag]§! wird §G+5%§ gewinnen! War Support und wird seine Meinung über §Y[GER.GetNameDef]§! verringern."

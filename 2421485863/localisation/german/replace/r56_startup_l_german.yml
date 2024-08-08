@@ -1,5 +1,1 @@
 ﻿l_german:
- r56.startup.event.01.title:0 "Willkommen auf der Straße!"
- r56.startup.event.01.description:56 "Hallo und Grüße vom 56-Team!\n\nBitte helfen Sie uns, Ihr Spielerlebnis so optimal wie möglich zu gestalten, indem Sie angeben, ob diese Sitzung für ein Multiplayer-Spiel gedacht ist oder nicht. Es hilft uns wirklich, alles auszugleichen und Leiden zu reduzieren.\n\nWichtiger Hinweis: Dieser Mod wird jeden Monat um den 7./8. Offiziell aktualisiert (mit gelegentlicher Verzögerung). Wir empfehlen, dass Sie die meisten Ihrer Spiele / Kampagnen vor diesen Daten beenden, da die meisten unserer Updates dazu neigen, gespeicherte Spiele zu beschädigen. Danke für dein Verständnis.\n\nDanke, dass du unseren Mod gespielt hast und wünsche dir einen wunderschönen Tag!"
- r56.startup.event.01.option_yes:0 "Multiplayer"
- r56.startup.event.01.option_no:0 "Einzelspieler"

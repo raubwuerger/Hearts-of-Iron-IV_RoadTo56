@@ -1,19 +1,1 @@
 ﻿l_german:
- fate_of_georgia_category:0 "Das Schicksal Georgiens"
- fate_of_georgia_category_desc:0 "Georgien, ein altes Königreich mit einer reichen Geschichte, die bis ins Mittelalter zurückreicht, hat sich nach dem Weltkrieg kurzzeitig vom russischen Joch befreit. Mit den Bolschewiken kam eine andere Art der russischen Herrschaft. Durch Freiwillige aus dem Inneren des Landes und im Exil lebende Mitglieder der alten Elite konnte die Freiheit des Landes Tamar wiederhergestellt werden."
- GEO_liberators:0 "Befreier Georgiens"
-  
- GEO_form_georgian_national_council:0 "Bilden Sie einen georgischen Nationalrat"
- GEO_establish_georgian_legion:0 "Rekrutieren Sie eine georgische Legion"
- GEO_establish_georgian_legion_cost:0 "£army_experience §H10§! £pol_power §H25§! £command_power §H25§!"
- GEO_establish_georgian_legion_cost_blocked:0 "£army_experience §R10§! £pol_power §R25§! £command_power §R25§!"
- GEO_establish_georgian_legion_cost_tooltip:0 "Es kostet £army_experience 10, £pol_power 25 und £command_power 25, um dies auszuwählen."
- GEO_establish_national_georgian_government:0 "Etablieren Sie eine nationale georgische Regierung"
-  
- GEO_event.1.t:0 "Die Freiwilligen wollen nach Hause gehen!"
- GEO_event.1.desc:0 "Die Freiwilligeneinheiten haben sich gebildet, um gegen [SOV.GetName] zu kämpfen und Georgien zu befreien. Mit der Niederlage des [SOV.GetAdjective]-Staates haben diese Freiwilligen das Gefühl, dass ihre Mission erfüllt ist und sie wollen nach Hause geschickt werden. "
- GEO_event.1.a:0 "Überzeugen Sie sie, noch ein wenig zu bleiben "
- GEO_event.1.b:0 "Lösen Sie ihre Einheit auf.  "
-
-
- GEO_generic_light_aircraft_manufacturer:0 "Tbilisi Aircraft State Association"

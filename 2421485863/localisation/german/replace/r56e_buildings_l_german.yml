@@ -1,18 +1,1 @@
 ﻿l_german:
-  aluminum_mill:0 "Aluminium-Mühle"
- aluminum_mill_plural:0 "Aluminium Mühlen"
- aluminum_mill_desc:0 "Dieses Gebäude versorgt den Staat mit neuen Ressourcen"
- aluminum_mill_amount:0 "$VALUE|Y0=$"
- aluminum_mill_resource:0 "£resources_strip|$FRAME$ "
- steel_mill:0 "Stahlwerk"
- steel_mill_plural:0 "Stahlwerke"
- steel_mill_desc:0 "Dieses Gebäude versorgt den Staat mit neuen Ressourcen"
- steel_mill_amount:0 "$VALUE|Y0=$"
- steel_mill_resource:0 "£resources_strip|$FRAME$ "
- rubber_refinery:0 "Kautschuk-Raffinerie"
- rubber_refinery_plural:0 "Kautschukraffinerien"
- rubber_refinery_desc:0 "Dieses Gebäude versorgt den Staat mit neuen Ressourcen"
- rubber_refinery_amount:0 "$VALUE|Y0=$"
- rubber_refinery_resource:0 "£resources_strip|$FRAME$ "
-  
-#####---------------------------------------------------------------------> End ""

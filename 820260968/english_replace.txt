@@ -1,6 +1,3 @@
-.
-..
-english.txt
 parties_l_english.yml
 r56_adjacency_rules_l_english.yml
 r56_bookmarks_l_english.yml
