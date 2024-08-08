@@ -503,8 +503,8 @@ SWE_warning_operation_radda_danmark_tt:0	"This will pull us into a §Rwar§! wit
 SWE_baltic_foothold_tt:0	"Gain a §YWar Goal§! against any §RCommunist§! Nation that holds land in the Baltic"
 SWE_fascism_embargo_tt:0	"Place an §YEmbargo§! on all §RFascist§! European Countries, denying them access to our §YResources§!."
 SWE_bicycle_infantry_tt:0	"§Y6 Bicycle Infantry Divisions§! will be recruited."
-r56_SWE_lynx_armored_car_tt: "Enables §YLynx Armored Car§! which yields: \n§YArmored Car§! and §Y$armored_car_recon$§!:\n Hard Attack: §G+10%§!\n Piercing: §G+10%§! \n Organization: §G+6§!\n\n§YArmored Car§!:\n§YForest:§!\n Movement Effective Change: §G+10%§!\n Attack Effective change: §G+10%§! \n§YDesert:§!\n  Movement Effective Change: §G+10%§!\n  Attack Effective Change: §G+10%§!\n§YSnow:§!\n Movement Effective Change: §G+10%§!\n Attack Effective change: §G+10%§!"
-r56_SWE_lynx_armored_car_recon_company_tt: "\n§Y$armored_car_recon$§!:\n§YForest:§!\n Movement Effective Change: §G+10%§!\n Attack Effective change: §G+10%§! \n§YDesert:§!\n  Movement Effective Change: §G+10%§!\n  Attack Effective Change: §G+10%§!\n§YSnow:§!\n Movement Effective Change: §G+10%§!\n Attack Effective change: §G+10%§!\n\n"
+r56_SWE_lynx_armored_car_tt:	"Enables §YLynx Armored Car§! which yields: \n§YArmored Car§! and §Y$armored_car_recon$§!:\n Hard Attack: §G+10%§!\n Piercing: §G+10%§! \n Organization: §G+6§!\n\n§YArmored Car§!:\n§YForest:§!\n Movement Effective Change: §G+10%§!\n Attack Effective change: §G+10%§! \n§YDesert:§!\n  Movement Effective Change: §G+10%§!\n  Attack Effective Change: §G+10%§!\n§YSnow:§!\n Movement Effective Change: §G+10%§!\n Attack Effective change: §G+10%§!"
+r56_SWE_lynx_armored_car_recon_company_tt:	"\n§Y$armored_car_recon$§!:\n§YForest:§!\n Movement Effective Change: §G+10%§!\n Attack Effective change: §G+10%§! \n§YDesert:§!\n  Movement Effective Change: §G+10%§!\n  Attack Effective Change: §G+10%§!\n§YSnow:§!\n Movement Effective Change: §G+10%§!\n Attack Effective change: §G+10%§!\n\n"
 SWE_foreign_aircraft_designs_tt:0	"For every §YMajor§! nation that we share ideology with and are currently not at War with, we will gain a "
 
 
@@ -745,7 +745,7 @@ SWE_scandinavian_volunteers_idea:0	"Scandinavian Volunteers"
 SWE_north_sea_protector:0	"North Sea Protector"
 
 #missing AAT loc
-SWE_military_matters: "Military Matters"
+SWE_military_matters:	"Military Matters"
 
 ### Tooltips
 SWE_divide_germany_france_tt:0	"Agree to divide §RGermany§!. §YFrance§! gets claims on the Rhineland and §YSweden§! gets claims on §RGermany's§! coastline."

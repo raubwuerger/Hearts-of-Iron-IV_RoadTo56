@@ -359,8 +359,8 @@
  TIB_infantry_equipment_1:0	"Rifle No.4 MkI"
  TIB_infantry_equipment_1_short:0	"Rifle No.4 MkI"
 
- TIB_professionalize_the_officers_effect_tooltip: "§GRemove§! the trait §YBad Staffer§! for all military leaders\n"
- TIB_revise_officers_fighting_techniques_effect_tooltip: "§GRemove§! the trait §YOld Guard§! for all military leaders\n"
+ TIB_professionalize_the_officers_effect_tooltip:	"§GRemove§! the trait §YBad Staffer§! for all military leaders\n"
+ TIB_revise_officers_fighting_techniques_effect_tooltip:	"§GRemove§! the trait §YOld Guard§! for all military leaders\n"
 
  apply_neames_guidelines_cost:0	"§H25§!£pol_power  §H25§!£command_power"
  apply_neames_guidelines_cost_blocked:0	"§H25§!£pol_power  §R25§!£command_power"

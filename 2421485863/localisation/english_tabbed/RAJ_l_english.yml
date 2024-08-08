@@ -276,7 +276,7 @@ r56_south_asia_religious_majority_buddhist:0	"Majoritarianism"
 
  raj_linlithgow_assemble_cabinet_tt:0	"We will start to assemble a §YCabinet§!."
  imperial_conference_attended:0	"Attended the Imperial Conference"
- conference_members_get_tt:0	"[ENG.GetNameDefCap] and all its dominions temporarily get: "
+ conference_members_get_tt:0	"[ENG.GetNameDefCap] and all its dominions temporarily get:	"
  finalize_the_vote:0	"Finalise the Vote"
 
  RAJ_Reinvigorated_Imperial_Shipping:0	"Reinvigorated Imperial Shipping"

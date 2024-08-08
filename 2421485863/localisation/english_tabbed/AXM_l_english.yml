@@ -185,7 +185,7 @@
  axis_minors_vichy_france.13.t:0	"Talented Officer Promoted"
  axis_minors_vichy_france.14.t:0	"Talented Officer Promoted"
  axis_minors_vichy_france.17.t:0	"Confirmation of the French Occupation Zone"
- axis_minors_vichy_france.17.desc:0	"According to Article II of the convention of the armistice between the French State and [GER.GetNameDef]: "To safeguard the interests of [GER.GetNameDef], French State territory north and west of the line drawn on the attached map will be occupied by [GER.GetAdjective] troops. As far as the parts to be occupied still are not in control of [GER.GetAdjective] troops, this occupation will be carried out immediately after the conclusion of this treaty."\n\nTherefore any territory that is unlawfully under the control of the French government must be put under the control of the Militärbefehlshaber in Frankreich."
+ axis_minors_vichy_france.17.desc:0	"According to Article II of the convention of the armistice between the French State and [GER.GetNameDef]:	"To safeguard the interests of [GER.GetNameDef], French State territory north and west of the line drawn on the attached map will be occupied by [GER.GetAdjective] troops. As far as the parts to be occupied still are not in control of [GER.GetAdjective] troops, this occupation will be carried out immediately after the conclusion of this treaty."\n\nTherefore any territory that is unlawfully under the control of the French government must be put under the control of the Militärbefehlshaber in Frankreich."
  axis_minors_vichy_france.17.a:0	"The armistice must be respected."
 
  axis_minors_vichy_france.18.t:0	"Hiding Military Equipment"

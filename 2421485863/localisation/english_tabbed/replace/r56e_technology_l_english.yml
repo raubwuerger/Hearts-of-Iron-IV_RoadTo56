@@ -250,7 +250,7 @@ l_english:
  aluminum_production_3_desc:0	"With our new milling techniques, we can increase our Aluminum production considerably."
  aluminum_production_4:0	"Aluminum Production IV"
  aluminum_production_4_desc:0	"With our new milling techniques, we can increase our Aluminum production to the levels which one couldn't have dreamt of a few years ago."
- aluminum_production_tt:0	"Modify §3Aluminium Mill§! resource output by: §G+2§!£resources_strip|2"
+ aluminum_production_tt:0	"Modify [~§3~]Aluminium Mill§! resource output by: §G+2§!£resources_strip|2"
 
  #-<><><>
  steel_production_1:0	"Steel Production"
@@ -261,7 +261,7 @@ l_english:
  steel_production_3_desc:0	"Our milling techniques are now considerable, and we can regularly produce a reasonably large amount of the metal if we so choose."
  steel_production_4:0	"Steel Production IV"
  steel_production_4_desc:0	"Our steel production is now so advanced that we can practically flood the market, much to the relief and frustration of other nations."
- steel_production_tt:0	"Modify §3Steel Mill§! resource output by: §G+2§!£resources_strip|5"
+ steel_production_tt:0	"Modify [~§3~]Steel Mill§! resource output by: §G+2§!£resources_strip|5"
  
 ###------> Nuclear  <><> <><> <><> <><> <><>
  nuke_naval:0	"Naval Power"
@@ -534,9 +534,9 @@ l_english:
  bed_spring_skirt_4:0	"Modern Armour Skirts"
  bed_spring_skirt_4_short:0	"Mod. Armour Skirts"
  bed_spring_skirt_4_desc:0	"We will improve armor by replacing the metal plates with even lighter materials, removing the extra weight from the previous upgrade."
- oscillating_turret_tech: "Oscillating Turret"
- oscillating_turret_tech_desc: "The oscillating turret allows the entire turret to be raised and lowered with the gun, allowing for the gun to be fitted higher as connected machinery will move along with it, creating the possibility to fit larger guns and to aim at a larger range of inclination."
- modern_light_tank_chassis: "1944 Light"
+ oscillating_turret_tech:	"Oscillating Turret"
+ oscillating_turret_tech_desc:	"The oscillating turret allows the entire turret to be raised and lowered with the gun, allowing for the gun to be fitted higher as connected machinery will move along with it, creating the possibility to fit larger guns and to aim at a larger range of inclination."
+ modern_light_tank_chassis:	"1944 Light"
  
  sniper_rifle:0	"Sniper Team"
  sniper_rifle_desc:0	"Adding a sniper unit in each platoon will effectively increase the unit's recon ability and attack."
@@ -620,7 +620,7 @@ icbm_missile_equipment_1_desc:0	"The pinnacle of nuclear science and rocketry, t
 nukes_3:0	"Miniaturized Nukes"
 nukes_3_desc:0	"Further developments in nuclear weapons design permit tiny, linear implosion-type weapons to fit within suitcases. Such terrifying weapons are made possible by deeper understanding in producing more effective fissile materials that also conversely improve the yields of our other conventional nukes."
 nuke_rocket_engines:0	"Nuclear ICBM"
-nuke_rocket_engines_desc: ""
+nuke_rocket_engines_desc:	""
 
 modern_AA_01:0	"Modern AA Systems"
 modern_AA_01_desc:0	""

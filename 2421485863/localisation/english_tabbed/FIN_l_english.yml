@@ -713,7 +713,7 @@
  fin_milindustry:0	"Military Industry Focus"
  fin_indocfocus:0	"Indoctrination"
  fin_propagandafocus:0	"Communist propaganda"
- fin_lotta_svard: "Lotta Svärd Mobilized"
+ fin_lotta_svard:	"Lotta Svärd Mobilized"
  fin_fascismban:0	"Fascism Banned"
  fin_revfocus:0	"Worldwide Revolution!"
  fin_balticrule:0	"Rule the Baltic Sea"
@@ -733,9 +733,9 @@
  FIN_Jukka_lehtosaari:0	"Jukka Lehtosaari"
 
  #AAT override
- FIN_personal_agenda_svinhufvud_r56_tt: "$losing_sovereignty_threatened_tt$"
- FIN_personal_agenda_von_hesse_r56_tt: "§GDream of Greater Finland§!: Occupying Finnish core states owned by an enemy will increase £GFX_power_balance_texticon §YPublic Trust§!. \n  - $losing_soverignty_threatened_tt$"
- FIN_personal_agenda_ryti_r56_tt: "§GDream of Greater Finland§!: Occupying Finnish core states owned by an enemy will increase £GFX_power_balance_texticon §YPublic Trust§!. \n  - $losing_soverignty_threatened_tt$"
- FIN_prince_wolfgang_von_hesse_r56: "Wolfgang I"
- FIN_crown_prince_of_finland_r56_tt: "King of Finland"
- AAT_finland_continuation_war.07.t: "[FIN.GetAdjective] Continuation War" #not localized in vanilla, instead they copy a different event, except that event is in scope FIN, and this event can originate from GER as well
+ FIN_personal_agenda_svinhufvud_r56_tt:	"$losing_sovereignty_threatened_tt$"
+ FIN_personal_agenda_von_hesse_r56_tt:	"§GDream of Greater Finland§!: Occupying Finnish core states owned by an enemy will increase £GFX_power_balance_texticon §YPublic Trust§!. \n  - $losing_soverignty_threatened_tt$"
+ FIN_personal_agenda_ryti_r56_tt:	"§GDream of Greater Finland§!: Occupying Finnish core states owned by an enemy will increase £GFX_power_balance_texticon §YPublic Trust§!. \n  - $losing_soverignty_threatened_tt$"
+ FIN_prince_wolfgang_von_hesse_r56:	"Wolfgang I"
+ FIN_crown_prince_of_finland_r56_tt:	"King of Finland"
+ AAT_finland_continuation_war.07.t:	"[FIN.GetAdjective] Continuation War" #not localized in vanilla, instead they copy a different event, except that event is in scope FIN, and this event can originate from GER as well

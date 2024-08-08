@@ -778,10 +778,10 @@
  PRC_establish_top_command_desc:0	"A head body of military has to be designated for more efficient commanding and coordination of troops."
 
  PRC_expand_navy_command_structure:0	"Expand Navy Command"
- PRC_expand_navy_command_structure_desc: "With the ever-growing size of our navy, a dedicated command structure is needed."
+ PRC_expand_navy_command_structure_desc:	"With the ever-growing size of our navy, a dedicated command structure is needed."
 
  PRC_expand_air_command_structure:0	"Expand Air Command"
- PRC_expand_air_command_structure_desc: "With the ever-growing size of our air force, a dedicated command structure is needed."
+ PRC_expand_air_command_structure_desc:	"With the ever-growing size of our air force, a dedicated command structure is needed."
 
  PRC_yellow_sea_navy:0	"Yellow Sea Navy"
  PRC_yellow_sea_navy_desc:0	"The Yellow Sea is where our navy's base of operation is located. We must strengthen our coastal navy to ensure its safety."

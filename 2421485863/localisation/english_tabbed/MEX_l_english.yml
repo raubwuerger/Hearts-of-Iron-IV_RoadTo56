@@ -298,7 +298,7 @@
 
  mexico_zoot_suit.7.t:0	"Intel: Los Angeles, California"
  mexico_zoot_suit.7.d:0	"We have devised a plan to use the Mexican immigrants immigrating to the United States to be informants for our intelligence services. Many left to escape the revolution, and some are even in the military! Its possible that we might find some Mexican patriots to pass along crucial information."
- mexico_zoot_suit.7.a: "See what you can do."
+ mexico_zoot_suit.7.a:	"See what you can do."
 
  mexico_communist.1.t:0	"Intelligence Report on Dioniso Encinia"
  mexico_communist.1.d:0	"The PCM was founded and heavily funded by Soviet Russia. Its leader, Dioniso Encinia is a known Soviet puppet with his presence being divisive as never before. In the 20s the PCM became splintered into many opposing communist parties entirely due to Dioniso's insecurity with latter purging members who might threaten his seat as the leader. After the failed Soviet-backed coup in 1929 the PCM was finally outlawed by Cales and his loyalists. \n\nConsidering that their current leader so heavily depends on Soviet guidance and the advice of his much more capable wife, a PCM-led Mexico would be nothing more but a literal puppet state of the USSR in Central America while remaining vastly unpopular internally due to the low support basis. \n\nSince it was decided to embrace the leftist policies, the communist takeover is the reality of the nearest future,, yet we still have a say over who will lead it. The attempted assassination..."
@@ -418,7 +418,7 @@
  Mendoza:0	"Productos Mendoza"
  Mendoza_desc:0	"Mendoza is the second legendary Mexican gun designer, behind Manuel Mondragon. They specialize in machine guns, ranging from HMGs to SMGs and full automatic rifles."
 
- Obregon: "Alejandro Obregón"
+ Obregon:	"Alejandro Obregón"
  Obregon_desc:0	"Obregón is best known for the Obregón .45 Pistol which innovated in simplifying the design of what looked like the 1911. Internally, it was vastly different and featured many simplified parts. This made the Obregón pistol more reliable and cheaper than the 1911. Obregón's are said to be hallmarks of craftsmanship."
 
  Grupo_Ramirez:0	"Grupo Ramirez"
@@ -535,7 +535,7 @@
  Maximino3_desc:0	"Maximino was described by Mexican historians as arrogant, wrathful, and vindictive. Maximino was said to go after those who crossed him with extreme prejudice."
 
  MEX_MARC:0	"El Compa Nacho"
- MEX_MARC_desc:0	"El Compa Nacho, real name being Ignacio Morales, was an agent tied to both the Cardenista and Aleman groups and was said to be assigned to special assignments by them. Morales was accused by supporters of Almazan to be tied to a failed assassination plot on Alamazan's life. Source: "Political Intelligence and the Creation of Modern Mexico, 1938-1954", page 46."
+ MEX_MARC_desc:0	"El Compa Nacho, real name being Ignacio Morales, was an agent tied to both the Cardenista and Aleman groups and was said to be assigned to special assignments by them. Morales was accused by supporters of Almazan to be tied to a failed assassination plot on Alamazan's life. Source:	"Political Intelligence and the Creation of Modern Mexico, 1938-1954", page 46."
 
  lopez:0	"Raúl López Sánchez"
 

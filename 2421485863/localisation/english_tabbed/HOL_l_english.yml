@@ -587,7 +587,7 @@
 ### HOL - NETHERLANDS ### #copy from pdx now, added Rapana class, pdx text should be removed once everything is fixed.
  HOL_submarine_1:0	"K-III Class"
  HOL_submarine_1_desc:0	"The K-III class consisted of two submarines built for and used by the Royal Dutch Navy as patrol subs. They were commissioned in the early 1920s and based on the U.S. Holland-class submarines. Each displaced over 580 tons and was armed with four 450mm torpedo tubes."
- #HOL_submarine_1b: "K-XIV Class"
+ #HOL_submarine_1b:	"K-XIV Class"
  HOL_submarine_2:0	"O16 Class"
  HOL_submarine_2_desc:0	"The O16 submarine was manufactured and commissioned in the Netherlands for the Royal Dutch Navy in 1936. She was a large submarine, displacing over 980 tons. She had a diving depth of 80m and was armed with eight 533mm torpedo tubes."
  HOL_submarine_3:0	"O21 Class"

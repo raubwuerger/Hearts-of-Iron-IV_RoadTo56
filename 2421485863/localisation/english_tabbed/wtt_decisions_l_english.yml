@@ -391,7 +391,7 @@
  USA_women_in_the_workforce:1	"Rosie the Riveter"
  USA_women_in_the_workforce_desc:0	"Can you use an electric mixer? If so, you can learn to operate a drill. Over six million [USA.GetAdjective] women took up in factories, construction, and other physical labor throughout the war. They forever proved that women could do the job just as well as men."
  CAN_women_in_the_workforce:0	"Ronnie the Bren Gun Girl"
- CAN_women_in_the_workforce_desc:0	"Ronnie says: "Keep 'em Coming!" With our men serving in the army, the burden of our military production comes to rest on the shoulders of the women of our nation. Over the course of the war, 800,000 [CAN.GetAdjective] women took up the jobs those who enlisted left behind, forever proving that women could do the job just as well as men."
+ CAN_women_in_the_workforce_desc:0	"Ronnie says:	"Keep 'em Coming!" With our men serving in the army, the burden of our military production comes to rest on the shoulders of the women of our nation. Over the course of the war, 800,000 [CAN.GetAdjective] women took up the jobs those who enlisted left behind, forever proving that women could do the job just as well as men."
  CHI_integrate_the_warlords:0	"Integrate the Warlords"
  CHI_integrate_the_army:1	"Integrate the [From.GetAdjective] Army"
  CHI_integrate_the_administration:1	"Integrate the [From.GetAdjective] Administration"

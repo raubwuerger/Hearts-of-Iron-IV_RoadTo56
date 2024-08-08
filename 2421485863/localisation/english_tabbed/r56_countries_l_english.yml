@@ -1251,7 +1251,7 @@
  MPL_communism_ADJ:0	"Levantine"
 
  #ZAN
- ZAN: "Zanzibar"
+ ZAN:	"Zanzibar"
  ZAN_ADJ:0	"Zanzibari"
  ZAN_democratic:0	"People's Republic of Zanzibar"
  ZAN_democratic_DEF:0	"the People's Republic of Zanzibar"

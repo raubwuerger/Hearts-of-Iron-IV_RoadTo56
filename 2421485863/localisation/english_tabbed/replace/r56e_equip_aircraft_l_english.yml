@@ -79,7 +79,7 @@ l_english:
  
 #-> Carrier-based dive bombers <><>
  cv_cas:1	"Carrier Close Air Support"
- cv_CAS_equipment: "CV Close Air Support"
+ cv_CAS_equipment:	"CV Close Air Support"
  cv_CAS_equipment_short:0	"CV Close Air Support"
  cv_CAS_equipment:0	"CV Close Air Support"
  cv_CAS_equipment:1	"Carrier Close Air Support"
@@ -1749,8 +1749,8 @@ l_english:
  CHI_strat_maritime_equipment_3_short:0	"XB-8S"
  
 #-> Maritime patrol <><>
- CHI_flying_boat_equipment_0: "CAMCO N-220"
- CHI_flying_boat_equipment_0_short: "N-220"
+ CHI_flying_boat_equipment_0:	"CAMCO N-220"
+ CHI_flying_boat_equipment_0_short:	"N-220"
  CHI_flying_boat_equipment_1:0	"CAMCO N-323"
  CHI_flying_boat_equipment_1_short:0	"N-323"
  CHI_flying_boat_equipment_2:0	"CAMCO N-650"
@@ -1889,8 +1889,8 @@ l_english:
  GXC_strat_maritime_equipment_3_short:0	"XB-8S"
  
 #-> Maritime patrol <><>
- GXC_flying_boat_equipment_0: "CAMCO N-220"
- GXC_flying_boat_equipment_0_short: "N-220"
+ GXC_flying_boat_equipment_0:	"CAMCO N-220"
+ GXC_flying_boat_equipment_0_short:	"N-220"
  GXC_flying_boat_equipment_1:0	"CAMCO N-323"
  GXC_flying_boat_equipment_1_short:0	"N-323"
  GXC_flying_boat_equipment_2:0	"CAMCO N-650"
@@ -2029,8 +2029,8 @@ l_english:
  SHX_strat_maritime_equipment_3_short:0	"XB-8S"
  
 #-> Maritime patrol <><>
- SHX_flying_boat_equipment_0: "CAMCO N-220"
- SHX_flying_boat_equipment_0_short: "N-220"
+ SHX_flying_boat_equipment_0:	"CAMCO N-220"
+ SHX_flying_boat_equipment_0_short:	"N-220"
  SHX_flying_boat_equipment_1:0	"CAMCO N-323"
  SHX_flying_boat_equipment_1_short:0	"N-323"
  SHX_flying_boat_equipment_2:0	"CAMCO N-650"
@@ -2169,8 +2169,8 @@ l_english:
  XSM_strat_maritime_equipment_3_short:0	"XB-8S"
  
 #-> Maritime patrol <><>
- XSM_flying_boat_equipment_0: "CAMCO N-220"
- XSM_flying_boat_equipment_0_short: "N-220"
+ XSM_flying_boat_equipment_0:	"CAMCO N-220"
+ XSM_flying_boat_equipment_0_short:	"N-220"
  XSM_flying_boat_equipment_1:0	"CAMCO N-323"
  XSM_flying_boat_equipment_1_short:0	"N-323"
  XSM_flying_boat_equipment_2:0	"CAMCO N-650"
@@ -2309,8 +2309,8 @@ l_english:
  YUN_strat_maritime_equipment_3_short:0	"XB-8S"
  
 #-> Maritime patrol <><>
- YUN_flying_boat_equipment_0: "CAMCO N-220"
- YUN_flying_boat_equipment_0_short: "N-220"
+ YUN_flying_boat_equipment_0:	"CAMCO N-220"
+ YUN_flying_boat_equipment_0_short:	"N-220"
  YUN_flying_boat_equipment_1:0	"CAMCO N-323"
  YUN_flying_boat_equipment_1_short:0	"N-323"
  YUN_flying_boat_equipment_2:0	"CAMCO N-650"
@@ -2449,8 +2449,8 @@ l_english:
  TNG_strat_maritime_equipment_3_short:0	"XB-8S"
  
 #-> Maritime patrol <><>
- TNG_flying_boat_equipment_0: "CAMCO N-220"
- TNG_flying_boat_equipment_0_short: "N-220"
+ TNG_flying_boat_equipment_0:	"CAMCO N-220"
+ TNG_flying_boat_equipment_0_short:	"N-220"
  TNG_flying_boat_equipment_1:0	"CAMCO N-323"
  TNG_flying_boat_equipment_1_short:0	"N-323"
  TNG_flying_boat_equipment_2:0	"CAMCO N-650"
@@ -8627,8 +8627,8 @@ JAP_jet_strat_bomber_equipment_1:0	"Kawanishi K-200"
  PRC_strat_maritime_equipment_3_short:0	"H-4H"
  
 #-> Maritime patrol <><>
- PRC_flying_boat_equipment_0: "Yang-1"
- PRC_flying_boat_equipment_0_short: "Y-1"
+ PRC_flying_boat_equipment_0:	"Yang-1"
+ PRC_flying_boat_equipment_0_short:	"Y-1"
  PRC_flying_boat_equipment_1:0	"Yang-2"
  PRC_flying_boat_equipment_1_short:0	"Y-2"
  PRC_flying_boat_equipment_2:0	"Yang-4"
@@ -8773,8 +8773,8 @@ JAP_jet_strat_bomber_equipment_1:0	"Kawanishi K-200"
  SIK_strat_maritime_equipment_3_short:0	"H-4H"
  
 #-> Maritime patrol <><>
- SIK_flying_boat_equipment_0: "Yang-1"
- SIK_flying_boat_equipment_0_short: "Y-1"
+ SIK_flying_boat_equipment_0:	"Yang-1"
+ SIK_flying_boat_equipment_0_short:	"Y-1"
  SIK_flying_boat_equipment_1:0	"Yang-2"
  SIK_flying_boat_equipment_1_short:0	"Y-2"
  SIK_flying_boat_equipment_2:0	"Yang-4"

@@ -1,0 +1,1 @@
+grep -v '^\s$' allFiles.yml | wc -l
