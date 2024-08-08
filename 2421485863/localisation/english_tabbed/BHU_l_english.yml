@@ -36,12 +36,12 @@
  BHU_fledgling_army:0	"Fledgling Army"
  #spicyalfredo edit
  BHU_treaty_with_britain:0	"Treaties with [[~ENG.GetNameDef~]]"
- BHU_treaty_with_britain_desc:0	"Treaties with [[~ENG.GetNameDef~]] have made us come under their protection and sphere of influence. Though we lose some independence in our affairs, we will benefit significantly from the 'Protection' of [[~ENG.GetNameDef~]].\n§W--------------\n§!§WTo gain§! §GIndependence§! §Wfrom [[~ENG.GetNameDef~]], we must have significant support for a party that doesn't back the Wangchuck Dynasty.§! §WThis will unlock a§! §YDecision§! §Wto end our £autonomy_texticon  §RSubjugation§!."
+ BHU_treaty_with_britain_desc:0	"Treaties with [[~ENG.GetNameDef~]] have made us come under their protection and sphere of influence. Though we lose some independence in our affairs, we will benefit significantly from the 'Protection' of [[~ENG.GetNameDef~]].[~\n~][~§W~]--------------[~\n~][~§!~][~§W~]To gain[~§!~] [~§G~]Independence[~§!~] [~§W~]from [[~ENG.GetNameDef~]], we must have significant support for a party that doesn't back the Wangchuck Dynasty.[~§!~] [~§W~]This will unlock a[~§!~] [~§Y~]Decision[~§!~] [~§W~]to end our £autonomy_texticon  [~§R~]Subjugation[~§!~]."
  BHU_first_inspection_idea:0	"Army Inspection"
  BHU_first_inspection_idea_desc:0	"Inspection in progress."
  BHU_1921_modernization_roadmap_idea:0	"Modernization Roadmap"
  BHU_1921_modernization_roadmap_idea_desc:0	"We now have the opportunity to carry out this plan."
- BHU_can_decline_effect:0	"§WSet the rule: £trigger_yes Can decline call to war§!"
+ BHU_can_decline_effect:0	"[~§W~]Set the rule: £trigger_yes Can decline call to war[~§!~]"
 
  idea_BHU_dragons_storm:0	"Dragon's Storm"
  idea_BHU_new_ideas:0	"Criticism of the Monarchy"
@@ -74,11 +74,11 @@
  BHU_bhutan_diplomacy:0	"[[~BHU.GetAdjective~]] Diplomacy"
  BHU_bhutan_diplomacy_desc:0	"We cannot rely on obsolete 30-year-old treaties with [[~ENG.GetNameDef~]] in this changing world. Their support is no longer needed; from now on, [[~BHU.GetNameDef~]] will seek the help of new allies who are more willing to assist in establishing our fighting force."
  BHU_improve_relations:0	"Improve Relations with [[~From.GetNameDef~]]"
- BHU_improve_relations_tt:0	"Unlocks Decision: §YImprove Relations with [[~THIS.GetNameDef~]]§!"
+ BHU_improve_relations_tt:0	"Unlocks Decision: [~§Y~]Improve Relations with [[~THIS.GetNameDef~]][~§!~]"
  BHU_establish_an_army_under_foreign_supervision:0	"Establish an army under [[~From.GetAdjective~]] supervision"
  #flags
  denounced_punakha_treaty:0	"Denounced Treaty of Punakha"
- bhutan_improved_military_standards:0	"§YMilitary Standards§! have been improved."
+ bhutan_improved_military_standards:0	"[~§Y~]Military Standards[~§!~] have been improved."
  army_establishment_decision:0	"Army Establishment in Progress"
 
 
@@ -161,7 +161,7 @@
  BHU_the_dragon_flies_desc:0	"We will rule the skies like dragons and breathe fire on our enemies."
 
  BHU_naval_effort:0	"Finance Shipbuilding"
- BHU_naval_effort_tt:0	"Not enough building slots for §YNaval Dockyards§!"
+ BHU_naval_effort_tt:0	"Not enough building slots for [~§Y~]Naval Dockyards[~§!~]"
  BHU_naval_effort_desc:0	"The expansion of our navy should be our priority. Assign all available resources to new Dockyards and research into light surface ships."
  BHU_flexible_navy:0	"Flexible Navy"
  BHU_flexible_navy_desc:0	"Reinventing naval warfare to account for the advances in submarine technology will allow us to strike efficiently against enemy convoys."
@@ -239,7 +239,7 @@
  BHU_forced_industrial_progress_desc:0	"Monarchists, democrats, and fascists failed to achieve the desired industrial prosperity and economic independence of our country. Only communism with its industrialization programs will lead the [[~BHU.GetAdjective~]] nation to the proletariat's emancipation."
 
  #Misc
- BHU_no_army_tt:0	"\n§RCannot raise conscription law or declare wars.\nCannot train units, disband units or edit unit templates.§!"
+ BHU_no_army_tt:0	"[~\n~][~§R~]Cannot raise conscription law or declare wars.[~\n~]Cannot train units, disband units or edit unit templates.[~§!~]"
 
  #events
  #spicyedits

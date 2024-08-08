@@ -35,7 +35,7 @@ hispano_america_tt:0	"Has completed the unification of Hispanoamérica decision.
 
 hibernia_rules_NAME:0	"Hibernia Rules the Waves"
 hibernia_rules_DESC:0	"As Ireland, build a battleship and ensure that the UK has no capital ships."
-hibernia_rules_tt:0	"Any country:\nOriginal country is [[~ENG.GetName~]]\nAt most §Y0 Capital Ship§! ships."
+hibernia_rules_tt:0	"Any country:[~\n~]Original country is [[~ENG.GetName~]][~\n~]At most [~§Y~]0 Capital Ship[~§!~] ships."
 
 celtic_union_NAME:0	"Ceilteach go Brách"
 celtic_union_DESC:0	"As a Celtic nation, unify the Celtic world."
@@ -69,7 +69,7 @@ snow_speaks_finnish_DESC:0	"Inflict a million casualties upon the Soviet Union a
 
 truly_international_NAME:0	"A Truly International City"
 truly_international_DESC:0	"As Danzig, control a state on every continent."
-truly_international_tt:0	"Control atleast one state in Europe, Africa, Asia, South America and North America. \nAustralia and the Middle East don't count."
+truly_international_tt:0	"Control atleast one state in Europe, Africa, Asia, South America and North America. [~\n~]Australia and the Middle East don't count."
 
 someone_needs_freedom_NAME:0	"Anyone Want Some Freedom?"
 someone_needs_freedom_DESC:0	"As the USA, control all oil producing states in the Middle East."
@@ -180,7 +180,7 @@ guamtemala_DESC:0	"As Guatemala or Guam, own the other."
 
 necrowombaticon_NAME:0	"The Necrowombaticon"
 necrowombaticon_DESC:0	"As the Soviet Union or Germany, discover the Necrowombaticon and become the Tender Loving Empire."
-r56_cflg_patreon_ee:0	"Has used §YNecrowombaticon Activation§! decision"
+r56_cflg_patreon_ee:0	"Has used [~§Y~]Necrowombaticon Activation[~§!~] decision"
 
 razboiul_fulgerului_NAME:0	"Razboiul Fulgerului"
 razboiul_fulgerului_DESC:0	"Win the Romanian communist-democratic Civil war before the Soviet Union intervenes."

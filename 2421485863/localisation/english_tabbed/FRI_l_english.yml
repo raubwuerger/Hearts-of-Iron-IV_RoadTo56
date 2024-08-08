@@ -4,8 +4,8 @@
  r56_FRI_nationist_uprising_2:0	"Vietnamese Uprising"
  r56_FRI_nationist_uprising_2_desc:0	"Since the Yen Bai Mutiny, Vietnamese independence movements have become more militant and combative. It seems a second uprising now is a matter of 'when' not 'if.'"
  r56_FRI_strikes:0	"Impending Labor Strikes"
- r56_FRI_strikes_happened:0	"§WThe§! §Y'1936 Strikes'§! §Whave occurred.§!"
- FRI_the_second_yen_bai_mutiny_2_tt:0	"§WRemove §Ythe remaining§!§W days from Mission§! §YVietnamese Uprising§!"
+ r56_FRI_strikes_happened:0	"[~§W~]The[~§!~] [~§Y~]'1936 Strikes'[~§!~] [~§W~]have occurred.[~§!~]"
+ FRI_the_second_yen_bai_mutiny_2_tt:0	"[~§W~]Remove [~§Y~]the remaining[~§!~][~§W~] days from Mission[~§!~] [~§Y~]Vietnamese Uprising[~§!~]"
 
 
  FRI_fascism_party:0	"Cuong De's Faction"
@@ -50,7 +50,7 @@
  FRI_tran_trong_kim:0	"Tran Trong Kim"
 
  FRI_colonial_army:0	"Colonial Army"
- FRI_growing_vietnamese_nationalism_tt:0	"§RThe fear of uprisings among colonial officials prevents us from disbanding our starting army.§!"
+ FRI_growing_vietnamese_nationalism_tt:0	"[~§R~]The fear of uprisings among colonial officials prevents us from disbanding our starting army.[~§!~]"
  FRI_colonial_army_desc:0	"Despite the conscription of some indigenous people, particularly within the Indochinese Skirmishers, [[~FRI.GetNameDef~]] remains largely dependent on [[~FRA.GetNameDef~]] for its defense. Local conscription is relatively low due to the colonial character of the administration as well as the low potential for mobilization as a large part of the population is made of farmers."
  FRI_illiteracy:0	"Illiteracy"
  FRI_illiteracy_desc:0	"Since the beginning of the French presence in Indochina, significant efforts have been made to improve access to education. In 1907 the University of Hanoi was founded, and from 1917 onwards, French was taught in all Franco-Indigenous schools. Despite all this, more than 80% of the population remains illiterate, especially in Laos and Cambodia, where efforts in favor of education were much lower, and no secondary schools exist."
@@ -82,31 +82,31 @@
 
  # DECISIONS ABOUT THE INDEPENDENCE WAR
  VIN_independence_war:0	"The Independence War"
- VIN_independence_war_desc:0	"The time has finally come for us to send away the [[~FRA.GetAdjective~]] colonizers who have never stopped exploiting our beautiful country. In such a decisive struggle, all the independence forces have agreed to cooperate in mobilizing the population.\nHowever, most soldiers do not see that the internal conflicts between the different factions continue to exist. If we cannot resolve it on the battlefield, it shall be resolved behind it.\n\nFour factions are fighting for the future control of independent Vietnam. The §YViet Minh§!, gathered under the leadership of Ho Chi Minh, sought to set up a system close to the Stalinist Soviet Union; §YLa Lutte§!, an association of Trotskyists aimed at putting into practice the political theory imagined by the Soviet defector; The §YVNQDD§!, seeking to establish a democratic form of socialism and is much more inclined towards a classical democratic system; and finally, the supporters of §YCuong De§!, a member of the royal family and who should have inherited the Vietnamese throne, the latter is also supported by the Caodaism cult.\n\nThe §YViet Minh§!'s influence is [[~Root.GetVietMinhInfluence~]]\n\n§YLa Lutte§!'s influence is [[~Root.GetLaLutteInfluence~]]\n\nThe §YVNQDD§!'s influence is [[~Root.GetVNQDDInfluence~]]\n\n§YCuong De§!'s influence is [[~Root.GetCuongDeInfluence~]]"
+ VIN_independence_war_desc:0	"The time has finally come for us to send away the [[~FRA.GetAdjective~]] colonizers who have never stopped exploiting our beautiful country. In such a decisive struggle, all the independence forces have agreed to cooperate in mobilizing the population.[~\n~]However, most soldiers do not see that the internal conflicts between the different factions continue to exist. If we cannot resolve it on the battlefield, it shall be resolved behind it.[~[~\n~][~\n~]~]Four factions are fighting for the future control of independent Vietnam. The [~§Y~]Viet Minh[~§!~], gathered under the leadership of Ho Chi Minh, sought to set up a system close to the Stalinist Soviet Union; [~§Y~]La Lutte[~§!~], an association of Trotskyists aimed at putting into practice the political theory imagined by the Soviet defector; The [~§Y~]VNQDD[~§!~], seeking to establish a democratic form of socialism and is much more inclined towards a classical democratic system; and finally, the supporters of [~§Y~]Cuong De[~§!~], a member of the royal family and who should have inherited the Vietnamese throne, the latter is also supported by the Caodaism cult.[~[~\n~][~\n~]~]The [~§Y~]Viet Minh[~§!~]'s influence is [[~Root.GetVietMinhInfluence~]][~[~\n~][~\n~]~][~§Y~]La Lutte[~§!~]'s influence is [[~Root.GetLaLutteInfluence~]][~[~\n~][~\n~]~]The [~§Y~]VNQDD[~§!~]'s influence is [[~Root.GetVNQDDInfluence~]][~[~\n~][~\n~]~][~§Y~]Cuong De[~§!~]'s influence is [[~Root.GetCuongDeInfluence~]]"
 
 
  # INFLUENCE KEYS
- INDOCHINA_NON_EXISTENT_KEY:0	"§gNon Existent§!"
- INDOCHINA_LOW_KEY:0	"§RLow§!"
- INDOCHINA_MODERATE_KEY:0	"§HModerate§!"
- INDOCHINA_HIGH_KEY:0	"§GHigh§!"
- INDOCHINA_VERY_HIGH_KEY:0	"§RVery High§!"
+ INDOCHINA_NON_EXISTENT_KEY:0	"[~§g~]Non Existent[~§!~]"
+ INDOCHINA_LOW_KEY:0	"[~§R~]Low[~§!~]"
+ INDOCHINA_MODERATE_KEY:0	"[~§H~]Moderate[~§!~]"
+ INDOCHINA_HIGH_KEY:0	"[~§G~]High[~§!~]"
+ INDOCHINA_VERY_HIGH_KEY:0	"[~§R~]Very High[~§!~]"
  INDOCHINA_ERROR_KEY:0	"ERROR"
 
 
 
- viet_minh_gain_influence_tt:0	"The §YViet Minh§!'s influence will §Gincrease§!\n"
- la_lutte_gain_influence_tt:0	"§YLa Lutte§!'s influence will §Gincrease§!\n"
- vnqdd_gain_influence_tt:0	"The §YVNQDD§!'s influence will §Gincrease§!\n"
- cuong_de_gain_influence_tt:0	"§YCuong De§!'s influence will §Gincrease§!\n"
+ viet_minh_gain_influence_tt:0	"The [~§Y~]Viet Minh[~§!~]'s influence will [~§G~]increase[~§!~][~\n~]"
+ la_lutte_gain_influence_tt:0	"[~§Y~]La Lutte[~§!~]'s influence will [~§G~]increase[~§!~][~\n~]"
+ vnqdd_gain_influence_tt:0	"The [~§Y~]VNQDD[~§!~]'s influence will [~§G~]increase[~§!~][~\n~]"
+ cuong_de_gain_influence_tt:0	"[~§Y~]Cuong De[~§!~]'s influence will [~§G~]increase[~§!~][~\n~]"
 
- viet_minh_decrease_influence_tt:0	"The §YViet Minh§!'s influence will §Rdecrease§!\n"
- la_lutte_decrease_influence_tt:0	"§YLa Lutte§!'s influence will §Rdecrease§!\n"
- vnqdd_decrease_influence_tt:0	"The §YVNQDD§!'s influence will §Rdecrease§!\n"
+ viet_minh_decrease_influence_tt:0	"The [~§Y~]Viet Minh[~§!~]'s influence will [~§R~]decrease[~§!~][~\n~]"
+ la_lutte_decrease_influence_tt:0	"[~§Y~]La Lutte[~§!~]'s influence will [~§R~]decrease[~§!~][~\n~]"
+ vnqdd_decrease_influence_tt:0	"The [~§Y~]VNQDD[~§!~]'s influence will [~§R~]decrease[~§!~][~\n~]"
 
 
- viet_minh_lose_influence_tt:0	"The §YViet Minh§!'s influence will §Rdecrease§!\n"
- la_lutte_lose_influence_tt:0	"§YLa Lutte§!'s influence will §Rdecrease§!\n"
+ viet_minh_lose_influence_tt:0	"The [~§Y~]Viet Minh[~§!~]'s influence will [~§R~]decrease[~§!~][~\n~]"
+ la_lutte_lose_influence_tt:0	"[~§Y~]La Lutte[~§!~]'s influence will [~§R~]decrease[~§!~][~\n~]"
 
  VIN_only_one_action_independence_war_tt:0	"You can only make one political action at a time during the independence war"
 
@@ -126,7 +126,7 @@
 
  arm_caodaists_militias:0	"Arm Caodaist Militias"
  arm_caodaists_militias_desc:0	"Caodaism is a religion born in Cochinchina in 1926, mixing Western and Asian beliefs and having several hundred thousand practitioners throughout Vietnam. It quickly focused on independence and the fight against [[~FRA.GetNameDef~]], causing the authorities to repress them. Mobilizing the most fanatical Caodaist battalions, we could fill our ranks with soldiers whose devotion to the independence cause is no longer in question."
- arm_caodaists_militias_tt:0	"§YTwo militias divisions will spawn near Saigon§!\n"
+ arm_caodaists_militias_tt:0	"[~§Y~]Two militias divisions will spawn near Saigon[~§!~][~\n~]"
 
  form_the_vnqdd_youth_league:0	"Form the VNQDD Youth League"
 
@@ -135,7 +135,7 @@
  black_ocean_society_support:0	"Black Ocean Society Support"
 
  promote_ngo_dinh_diem_as_general:0	"Promote Ngo Dinh Diem As General"
- ngo_dinh_diem_tooltip:0	"§YNgo Dinh Diem§! becomes a General."
+ ngo_dinh_diem_tooltip:0	"[~§Y~]Ngo Dinh Diem[~§!~] becomes a General."
 
  invite_phan_boi_chau_to_the_government:0	"Invite Phan Boi Chau To The Government"
 
@@ -156,33 +156,33 @@
 
  # EVENTS
  frenchindochina.1.t:0	"Jules Brevie Named Gouverneur General"
- frenchindochina.1.d:0	"Jules Brevie, former Governor of French West Africa, was appointed by the [[~FRA.GetRulingParty~]] government as Governor-General of Indochina, replacing Rene Robin.\nA humanist and a liberal, Brevie is very much focused on an approach to colonization that he calls "scientific", starting from a profound study of indigenous cultures and the improvement of their living conditions, as he had implemented many social reforms during the Great Depression in French Africa, subsidizing Senegalese workers and setting up programs to increase food production.\nThe victory of the Popular Front in the [[~FRA.GetAdjective~]] elections raised great hopes among the Vietnamese in particular, with the appointment of Marius Moutet, a former opponent of the repression that followed the Yen Bai mutiny as Minister of Colonies, as well as Leon Blum at the head of the government, who was also strongly opposed to colonial repression.\nBrevie has planned the implementation of social reforms similar to those he implemented in Africa and those implemented in Metropolitan France."
+ frenchindochina.1.d:0	"Jules Brevie, former Governor of French West Africa, was appointed by the [[~FRA.GetRulingParty~]] government as Governor-General of Indochina, replacing Rene Robin.[~\n~]A humanist and a liberal, Brevie is very much focused on an approach to colonization that he calls "scientific", starting from a profound study of indigenous cultures and the improvement of their living conditions, as he had implemented many social reforms during the Great Depression in French Africa, subsidizing Senegalese workers and setting up programs to increase food production.[~\n~]The victory of the Popular Front in the [[~FRA.GetAdjective~]] elections raised great hopes among the Vietnamese in particular, with the appointment of Marius Moutet, a former opponent of the repression that followed the Yen Bai mutiny as Minister of Colonies, as well as Leon Blum at the head of the government, who was also strongly opposed to colonial repression.[~\n~]Brevie has planned the implementation of social reforms similar to those he implemented in Africa and those implemented in Metropolitan France."
  frenchindochina.1.a:0	"Let's see what his scientific approach will bring."
- french_indochina_jules_brevie_governor_event_tt:0	"Unlocks the §YPolitical Tree§!."
+ french_indochina_jules_brevie_governor_event_tt:0	"Unlocks the [~§Y~]Political Tree[~§!~]."
 
  frenchindochina.2.t:0	"1936 Strikes"
  frenchindochina.2.d:0	"June saw the start of a significant strike movement in [[~FRI.GetNameDef~]], driven by a rise in prices added to the fall in wages that workers have been suffering for several years now. More than 300 of these movements have been recorded, involving hundreds of thousands of people up to the countryside where plantations are paralyzed with farmers mobilizing against taxes. The result is an economy that has stopped abruptly and separatist movements taking advantage of it to gain popularity and spread independence ideas among the population."
  frenchindochina.2.a:0	"A solution must be found, and quickly!"
 
  r56.news_event.15.t:0	"Vietnamese Uprising in [[~FRI.GetNameDef~]]"
- r56.news_event.15.d:0	"While strikes had already paralyzed the whole of [[~FRI.GetNameDef~]] for several months, the government's failure to react contributed to the sharp rise in independence sentiment. The breaking point was reached when soldiers of the Indigenous Guard mutinied at Yen Bai.\n\nIt only took a few hours for the mutiny to turn into a general insurgency, covering the entire Vietnam region.\nThe multiple pro-independence forces have consolidated their control in the country's north, while in the south, the colonial government is preparing to counterattack against the most significant anti-colonial rebellion that [[~FRI.GetNameDef~]] has ever known."
+ r56.news_event.15.d:0	"While strikes had already paralyzed the whole of [[~FRI.GetNameDef~]] for several months, the government's failure to react contributed to the sharp rise in independence sentiment. The breaking point was reached when soldiers of the Indigenous Guard mutinied at Yen Bai.[~[~\n~][~\n~]~]It only took a few hours for the mutiny to turn into a general insurgency, covering the entire Vietnam region.[~\n~]The multiple pro-independence forces have consolidated their control in the country's north, while in the south, the colonial government is preparing to counterattack against the most significant anti-colonial rebellion that [[~FRI.GetNameDef~]] has ever known."
  r56.news_event.15.a:0	"A fierce attack against colonialism."
  r56.news_event.15.b:0	"We'll restore order to [[~FRI.GetNameDef~]]."
  r56.news_event.15.c:0	"We'll remove the imperialists!"
 
  frenchindochina.4.t:0	"The [[~FRI.GetAdjective~]] Dilemma"
- frenchindochina.4.d:0	"While [[~GER.GetAdjective~]] troops were occupying Paris, a new government, led by Marshal Petain, had been put in place, claiming to be the legitimate French government and adopting a policy of collaboration with [[~GER.GetNameDef~]].\nHowever, from London, General de Gaulle called for resistance and continued the fight against [[~GER.GetNameDef~]], considering the government in Vichy as treasonous.\nWhile some colonies have already rallied under de Gaulle, [[~FRI.GetNameDef~]] remains nominally under the control of the government in Metropolitan France. However, given the latter's legitimacy, we could perfectly side with the troops of the general and prove to be decisive in terms of the supply of resources for the Free French troops."
+ frenchindochina.4.d:0	"While [[~GER.GetAdjective~]] troops were occupying Paris, a new government, led by Marshal Petain, had been put in place, claiming to be the legitimate French government and adopting a policy of collaboration with [[~GER.GetNameDef~]].[~\n~]However, from London, General de Gaulle called for resistance and continued the fight against [[~GER.GetNameDef~]], considering the government in Vichy as treasonous.[~\n~]While some colonies have already rallied under de Gaulle, [[~FRI.GetNameDef~]] remains nominally under the control of the government in Metropolitan France. However, given the latter's legitimacy, we could perfectly side with the troops of the general and prove to be decisive in terms of the supply of resources for the Free French troops."
  frenchindochina.4.a:0	"Side with Vichy and appoint Jean Decoux as Gouverneur."
  FRI_fascist_gouvernorat_general_party_long:0	"Gouvernorat General"
  frenchindochina.4.b:0	"Side with Free France and appoint Thierry d'Argenlieu as Gouverneur."
 
  frenchindochina.5.t:0	"[[~FRI.GetNameDefCap~]] Requests More Troops"
- frenchindochina.5.d:0	"Seeing how the war was evolving and fearing for the colony's security, the Governor-General of Indochina sent a message to the government, requesting additional troops and equipment to ensure the colony's safety.\nSuch a material investment is not made carelessly. However, we should not overlook that [[~FRI.GetNameDef~]] is one of the most valuable and resource-rich colonies of [[~FRA.GetNameDef~]]. Therefore we should consider whether reducing our manpower in Europe would be worth the cost."
+ frenchindochina.5.d:0	"Seeing how the war was evolving and fearing for the colony's security, the Governor-General of Indochina sent a message to the government, requesting additional troops and equipment to ensure the colony's safety.[~\n~]Such a material investment is not made carelessly. However, we should not overlook that [[~FRI.GetNameDef~]] is one of the most valuable and resource-rich colonies of [[~FRA.GetNameDef~]]. Therefore we should consider whether reducing our manpower in Europe would be worth the cost."
  frenchindochina.5.a:0	"We must strengthen [[~FRI.GetNameDef~]]'s protection!"
  frenchindochina.5.b:0	"We cannot afford to send them more troops."
 
  frenchindochina.6.t:0	"[[~FRA.GetNameDefCap~]] Sends Us Troops and Equipment"
- frenchindochina.6.d:0	"The [[~FRA.GetAdjective~]] government has agreed to send us troops and equipment to strengthen the defense of [[~FRI.GetNameDef~]].\nThey have just arrived through the ports of Hanoi and Saigon and are now under local command."
+ frenchindochina.6.d:0	"The [[~FRA.GetAdjective~]] government has agreed to send us troops and equipment to strengthen the defense of [[~FRI.GetNameDef~]].[~\n~]They have just arrived through the ports of Hanoi and Saigon and are now under local command."
  frenchindochina.6.a:0	"Excellent!"
 
  frenchindochina.7.t:0	"[[~FRA.GetNameDefCap~]] Refuses to Send Troops"
@@ -191,7 +191,7 @@
 
 
  frenchindochina.8.t:0	"Vietnamese Uprising"
- frenchindochina.8.d:0	"While strikes had already paralyzed the whole of [[~FRI.GetNameDef~]] for several months, the government's failure to react contributed to the sharp rise in independence sentiment. The breaking point was reached when soldiers of the Indigenous Guard mutinied at Yen Bai.\n\nIt only took a few hours for the mutiny to turn into a general insurgency, covering the entire Vietnam region.\nThe multiple pro-independence forces have consolidated their control in the country's north, while in the south, the colonial government is preparing to counterattack against the most significant anti-French rebellion that Indochina has ever known."
+ frenchindochina.8.d:0	"While strikes had already paralyzed the whole of [[~FRI.GetNameDef~]] for several months, the government's failure to react contributed to the sharp rise in independence sentiment. The breaking point was reached when soldiers of the Indigenous Guard mutinied at Yen Bai.[~[~\n~][~\n~]~]It only took a few hours for the mutiny to turn into a general insurgency, covering the entire Vietnam region.[~\n~]The multiple pro-independence forces have consolidated their control in the country's north, while in the south, the colonial government is preparing to counterattack against the most significant anti-French rebellion that Indochina has ever known."
  frenchindochina.8.a:0	"We will prevail!"
 
 
@@ -251,14 +251,14 @@
  FRI_trade_disturbtion_doctrine_desc:0	"The risk of the [[~JAP.GetAdjective~]] invasion is significant. However, their weakness is their need to import a large part of their resources. We shall starve their navy by focusing on the destruction of convoys and the global disruption of trade."
  FRI_invite_fcm_to_fort_bayard:0	"Invite FCM to Fort Bayard"
  FRI_invite_fcm_to_fort_bayard_desc:0	"Forges et chantiers de la Mediterranee is renowned for its shipyards in the Mediterranean. We could invite them to build new dockyards at Fort-Bayard, transforming the commercial city into an industrial center for our navy."
- FRI_invite_fcm_to_fort_bayard_tt:0	"Unlocks §YFCM§! as a Ship Designer"
+ FRI_invite_fcm_to_fort_bayard_tt:0	"Unlocks [~§Y~]FCM[~§!~] as a Ship Designer"
  FRI_submarines_effort:0	"Submarine Effort"
  FRI_submarines_effort_desc:0	"An excellent way to disrupt trade would be to use submarines, which are ideal for getting rid of convoys. In addition, we can also use their ability to remain discreet against large vessels, which are very present in the [[~JAP.GetADjective~]] fleet."
  FRI_expand_the_garde_indigene:0	"Expand the Garde Indigene"
  FRI_expand_the_garde_indigene_desc:0	"The "Garde Indigene" refers to the regiments of skirmishers recruited in [[~FRI.GetNameDef~]], supported by [[~FRA.GetAdjective~]] officers and non-commissioned officers. Their numbers have been steadily increasing since their creation in 1886. With the rise of nationalism in [[~FRI.GetNameDef~]], we should seek to increase their numbers to support the colonial government."
  FRI_adopt_the_mas_36:0	"Adopt the MAS36"
  FRI_adopt_the_mas_36_desc:0	"The MAS36 is gradually beginning to equip the [[~FRA.GetAdjective~]] army. We will ask for some of these rifles and their plans to be sent to [[~FRI.GetNameDef~]] to produce them ourselves eventually."
- FRI_adopt_the_mas_36_tt:0	"Add technology: §YMAS-36§!\nIf we already have it: §Y1x §!§G100%§! Research bonus for: §YInfantry Weapons§!\n"
+ FRI_adopt_the_mas_36_tt:0	"Add technology: [~§Y~]MAS-36[~§!~][~\n~]If we already have it: [~§Y~]1x [~§!~][~§G~]100%[~§!~] Research bonus for: [~§Y~]Infantry Weapons[~§!~][~\n~]"
  FRI_improve_communications:0	"Improve Communications"
  FRI_improve_communications_desc:0	"Due to the very hostile nature of the jungles of [[~FRI.GetNameDef~]], communication between troops can be very complex. The development of radio for our soldiers would partially alleviate this problem."
  FRI_establish_the_armee_d_indochine:0	"Establish the Indochinese Army"
@@ -275,12 +275,12 @@
  VIN_build_the_ligne_sarrault_desc:0	"The construction of a fortification line in the north of the country, on the Chinese border, would protect us from any attempt at land invasion by the Chinese or [[~JAP.GetNameDef~]]."
  FRI_create_coastal_fortifications:0	"Create Coastal Fortifications"
  FRI_create_coastal_fortifications_desc:0	"The construction of naval fortifications to protect our precious Vietnamese and Chinese ports would limit the possibilities of invasion by the sea."
- FRI_create_coastal_fortifications_tt:0	"Creates §YLevel 2 Forts§! in our ports."
+ FRI_create_coastal_fortifications_tt:0	"Creates [~§Y~]Level 2 Forts[~§!~] in our ports."
  FRI_expand_the_northern_air_bases:0	"Expand the Northern Air Bases"
  FRI_expand_the_northern_air_bases_desc:0	"Our capacity to accommodate [[~FRA.GetAdjective~]] aircraft is relatively low, with only small aerodromes. If we want to ensure that [[~FRA.GetNameDef~]] can protect our skies, we should expand our aviation facilities."
  FRI_gouverneur_jules_brevie:0	"Appoint Jules Brevie"
  FRI_gouverneur_jules_brevie_desc:0	"The victory of the [[~FRA.GetRulingParty~]] meant change for [[~FRI.GetNameDef~]], but above all, it meant a replacement of Rene Robin by Jules Brevie as Governor-General of Indochina. Brevie, a socialist, favors a scientific approach to colonization and hopes to implement many reforms aimed at improving the quality of life in [[~FRI.GetNameDef~]]."
- FRI_gouverneur_jules_brevie_tt:0	"§BJules Brevie will become Gouverneur General in September 1936§!\n"
+ FRI_gouverneur_jules_brevie_tt:0	"[~§B~]Jules Brevie will become Gouverneur General in September 1936[~§!~][~\n~]"
  FRI_concessions_to_the_strikers:0	"Concessions to Laborers"
  FRI_concessions_to_the_strikers_desc:0	"The economic recovery of 1936 caused prices to soar in Indochina, even though workers had already been suffering from a decline in wages for years. If we do not wish to see the colonial administration collapse, we will accelerate the reforms planned by [[~FRI.Getleader~]]."
  FRI_expansion_of_the_strikes:0	"Expansion of the Strikes"
@@ -298,7 +298,7 @@
  FRI_gain_support_from_the_soviet_union_desc:0	"The strategy of the popular fronts advocated by [[~SOV.GetNameDef~]] has led the Indochinese Communist Party to move closer to the other elements of the independence movement. Leaders like Nguyen Ai Quoc will significantly help because of the substantial increase in popularity for communist movements in Vietnam, especially in Cochinchina."
  FRI_the_second_yen_bai_mutiny:0	"The Second Yen Bai Mutiny"
  FRI_the_second_yen_bai_mutiny_desc:0	"A mutiny by the various [[~FRI.GetAdjective~]] rifle regiments will be the starting point of our war of independence. A similar mutiny took place in 1930 but did not receive the support it hoped for, but now, with the support of millions of strikers in all regions, we should have much less difficulty getting rid of the French presence."
- FRI_the_second_yen_bai_mutiny_tt:0	"You will switch to §YVietnam§! and §RDeclare War§! on §[[~FRI.GetNameDef~]]§!.\nIf you manage to take control of [[~FRI.GetNameDef~]] or hold on for more than a year by controlling the whole of your territory, a §GWhite Peace§! will take place, and you will be free.\nDuring the war of independence, a §RPower Struggle§! will occur between four §YFactions§!, which will determine §YVietnam§!'s ideology once the war of independence is over.\nIf you take control of §YLaos§! and §YCambodia§!, they will also be liberated once the war is over.\n"
+ FRI_the_second_yen_bai_mutiny_tt:0	"You will switch to [~§Y~]Vietnam[~§!~] and [~§R~]Declare War[~§!~] on §[[~FRI.GetNameDef~]][~§!~].[~\n~]If you manage to take control of [[~FRI.GetNameDef~]] or hold on for more than a year by controlling the whole of your territory, a [~§G~]White Peace[~§!~] will take place, and you will be free.[~\n~]During the war of independence, a [~§R~]Power Struggle[~§!~] will occur between four [~§Y~]Factions[~§!~], which will determine [~§Y~]Vietnam[~§!~]'s ideology once the war of independence is over.[~\n~]If you take control of [~§Y~]Laos[~§!~] and [~§Y~]Cambodia[~§!~], they will also be liberated once the war is over.[~\n~]"
  FRI_allow_political_parties:0	"Allow Political Parties"
  FRI_allow_political_parties_desc:0	"The formation of moderate political parties will be allowed. Two have emerged and are mainly intended to represent the [[~FRI.GetAdjective~]] bourgeoisie: the Constitutionalist Party and the Democratic Party. The latter only aspire to a certain autonomy for [[~FRI.GetNameDef~]], similar to the British dominions."
  FRI_bring_back_stability:0	"Bring Back Stability"
@@ -309,7 +309,7 @@
  FRI_crackdown_on_communists_organisations_desc:0	"Vietnamese communist movements, although banned, continue to gain popularity, especially among urban workers. A mass arrest of its leaders in [[~FRI.GetNameDef~]] should halt their progress."
  FRI_fuelling_the_metropole:0	"Fuelling the Metropole"
  FRI_fuelling_the_metropole_desc:0	"Our role is above all to support the Metropole economically. As the war has just broken out, we must dedicate all our resources to supporting the war effort in terms of resources such as rubber or agricultural resources such as rice or tea."
- FRI_fuelling_the_metropole_tt:0	"If we are not on §YWar Economy§! or §YTotal Mobilization§!, changes the economy law to §YWar Economy§!\n"
+ FRI_fuelling_the_metropole_tt:0	"If we are not on [~§Y~]War Economy[~§!~] or [~§Y~]Total Mobilization[~§!~], changes the economy law to [~§Y~]War Economy[~§!~][~\n~]"
  FRI_plan_mandel:0	"Plan Mandel"
  FRI_plan_mandel_desc:0	"The Mandel Plan, named after the colonial minister who replaced Moutet, consists of mobilizing more than 300,000 colonial workers, including 100,000 [[~FRI.GetAdjective~]], to be sent to Metropolitan France to run the [[~FRA.GetAdjective~]] war economy and, in particular, its factories."
  FRI_vientiane_phnom_penh_railroad:0	"Vientiane-Phnom Penh Railroad"
@@ -326,27 +326,27 @@
  FRI_politique_du_paysannat:0	"Politique du Paysannat"
  FRI_tirailleurs_indochinois:0	"Mobilize the Tirailleurs Indochinois"
  FRI_tirailleurs_indochinois_desc:0	"Recruited throughout Indochina, the Tirailleurs Indochinois was created in 1880 during the Tonkin expedition. They allowed [[~FRA.GetNameDef~]] to maintain its authority over the [[~FRI.GetAdjective~]] colony and crush all nationalist rebellions."
- FRI_tirailleurs_indochinois_tt:0	"Gain §Y2§! Infantry Divisions near Hanoi"
+ FRI_tirailleurs_indochinois_tt:0	"Gain [~§Y~]2[~§!~] Infantry Divisions near Hanoi"
  VIN_request_the_mortier_modele_27_31:0	"Request the Mortier Modele 27/31"
  VIN_request_the_mortier_modele_27_31_desc:0	"The Mortar model 27/31, designed and manufactured by Brandt Establishments, has already been in service in France for several years. Simple to use but formidable on the ground, equipping our colonial force with it would allow a much better defense of cities like Saigon or Hanoi in the event of a ground invasion, the latter being placed on relatively flat ground."
  FRI_the_mortier_modele_27_31:0	"The Mortier Modele 27/31"
  FRI_the_mortier_modele_27_31_desc:0	"The Mortar model 27/31, designed and manufactured by Brandt Establishments, has already been in service in France for several years. Simple to use but formidable on the ground, equipping our colonial force with it would allow a much better defense of cities like Saigon or Hanoi in the event of a ground invasion, the latter being placed on relatively flat ground."
  FRI_tame_the_forests:0	"Tame the Forests"
  FRI_tame_the_forests_desc:0	"Many forests are scattered throughout [[~FRI.GetNameDef~]], making fighting much more difficult, especially for an army that would not know the area. This can be used to our advantage, allowing us to better prepare our defenses through our extensive knowledge of the environment."
- FRI_tame_the_forests_tt:0	"Enables §HForest Training§!\n§HInfantry\n    Forest§!\n      Attack: §G+5%§!\n      Movement: §G+10%§!\n"
+ FRI_tame_the_forests_tt:0	"Enables [~§H~]Forest Training[~§!~][~\n~][~§H~]Infantry[~\n~]    Forest[~§!~][~\n~]      Attack: [~§G~]+5%[~§!~][~\n~]      Movement: [~§G~]+10%[~§!~][~\n~]"
  VIN_genie_indochinois:0	"Learn from the Genie"
  VIN_genie_indochinois_desc:0	"By the nature of [[~FRI.GetAdjective~]] terrain, adding engineering units to our divisions would maximize our defenses in terrain where trench combat is still viable."
  FRI_learn_from_the_genie_desc:0	"By the nature of [[~FRI.GetAdjective~]] terrain, adding engineering units to our divisions would maximize our defenses in terrain where trench combat is still viable."
  FRI_learn_from_the_genie:0	"Learn From the Genie"
  FRI_the_war_arrives_to_indochina:0	"The War Arrives to Indochina"
  FRI_the_war_arrives_to_indochina_desc:0	"The war has finally reached our peaceful colony. It is time for an emergency restructuring of the army to satisfy [[~FRA.GetnameDef~]]'s needs and those of the defense of [[~FRI.GetNameDef~]]."
- FRI_the_war_arrives_to_indochina_tt:0	"Gain §Y3§! Troupes Coloniales Divisions in Cochinchina\n"
+ FRI_the_war_arrives_to_indochina_tt:0	"Gain [~§Y~]3[~§!~] Troupes Coloniales Divisions in Cochinchina[~\n~]"
  FRI_fortify_the_chinese_border:0	"Fortify the Chinese Border"
  FRI_fortify_the_chinese_border_desc:0	"The construction of a fortification line in the north of the country, on the Chinese border, would protect us from any attempt at land invasion by the Chinese or [[~JAP.GetNameDef~]]."
- FRI_fortify_the_chinese_border_tt:0	"Gain §YLevel 2 Forts§! Along The Northern Border"
+ FRI_fortify_the_chinese_border_tt:0	"Gain [~§Y~]Level 2 Forts[~§!~] Along The Northern Border"
  FRI_parachutistes_coloniaux:0	"Parachutistes Coloniaux"
  FRI_parachutistes_coloniaux_desc:0	"Despite all the efforts we will make, the fight in the forest will always be more complicated, with the risk of ambushes. But if we attack with paratroopers, we'll be the ones with the surprise effect."
- FRI_parachutistes_coloniaux_tt:0	"Gain §Y2§! Paratroopers Divisions"
+ FRI_parachutistes_coloniaux_tt:0	"Gain [~§Y~]2[~§!~] Paratroopers Divisions"
  FRI_intensify_native_recruitment:0	"Intensify Native Recruitment"
  FRI_intensify_native_recruitment_desc:0	"[[~FRA.GetNameDefCap~]] needs as many soldiers as possible. During the Great War, the colonies proved to be the ideal place to recruit future soldiers."
  FRI_independent_command_structure:0	"Independent Command Structure"
@@ -388,4 +388,4 @@
  FRI_a_true_federation:0	"A True Federation"
  FRI_a_true_federation_desc:0	" "
 
- FRI_GATHERING_STORM_DESC:0	"A pearl of the French colonial empire, Indochina is the most profitable French colony. Intended mainly for economic exploitation through its many raw materials, the French presence is relatively weak. The administration primarily relies on support from the indigenous elites, supported by the famous Indochinese riflemen.\n\nThe French presence has constantly been challenged, the most recent uprising being the Yen Bai mutiny in 1930. The economic devastation caused by the Great Depression could very well lead to a new wave of protest."
+ FRI_GATHERING_STORM_DESC:0	"A pearl of the French colonial empire, Indochina is the most profitable French colony. Intended mainly for economic exploitation through its many raw materials, the French presence is relatively weak. The administration primarily relies on support from the indigenous elites, supported by the famous Indochinese riflemen.[~[~\n~][~\n~]~]The French presence has constantly been challenged, the most recent uprising being the Yen Bai mutiny in 1930. The economic devastation caused by the Great Depression could very well lead to a new wave of protest."

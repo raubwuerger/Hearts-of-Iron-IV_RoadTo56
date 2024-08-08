@@ -1,9 +1,9 @@
 ﻿l_english:
  
  #Generic
- is_controlled_by_ROOT_or_subject:0	"Is controlled by §Y[[~Root.GetName~]]§! or one of §Y[[~Root.GetName~]]§!'s subjects." # Oddly, this one is paradox, but they never localized it
- EYE_enough_production_tt:0	"Enough building slots for §YMilitary Factory§!."
- EYE_construction_effort_tt:0	"Enough building slots for §YCivilian Factory§!."
+ is_controlled_by_ROOT_or_subject:0	"Is controlled by [~§Y~][[~Root.GetName~]][~§!~] or one of [~§Y~][[~Root.GetName~]][~§!~]'s subjects." # Oddly, this one is paradox, but they never localized it
+ EYE_enough_production_tt:0	"Enough building slots for [~§Y~]Military Factory[~§!~]."
+ EYE_construction_effort_tt:0	"Enough building slots for [~§Y~]Civilian Factory[~§!~]."
  EYE_overlord_neutral_tt:0	"Overlord is non-aligned"
  EYE_overlord_democratic_tt:0	"Overlord is democratic"
  EYE_overlord_fascist_tt:0	"Overlord is fascist"
@@ -12,15 +12,15 @@
  #flags
  SWI_reliance_on_militia:0	" Relying On Militia System"
  
- SWI_choose_cons_tt:0	"Raises the number of men that can be raised through the militia system.\n"
- SWI_choose_cons_2_tt:0	"Raises the quality of raised militia units.\n"
- SWI_choose_cons_3_tt:0	"Our militia units will reach max power and efficiency.\n"
- henne_dead_tt:0	"Rolf Henne dies!\n"
+ SWI_choose_cons_tt:0	"Raises the number of men that can be raised through the militia system.[~\n~]"
+ SWI_choose_cons_2_tt:0	"Raises the quality of raised militia units.[~\n~]"
+ SWI_choose_cons_3_tt:0	"Our militia units will reach max power and efficiency.[~\n~]"
+ henne_dead_tt:0	"Rolf Henne dies![~\n~]"
  SWI_no_offensive_wars_tt:0	"Has never been in an offensive war."
- SWI_red_cross_tt:0	"Enables §HThe International Committee of the Red Cross§!.\n§HField Hospitals§!:\n    §HTrickleback§!: §G+10%§!\n    §HExp. Loss§!: §G-5%§!"
+ SWI_red_cross_tt:0	"Enables [~§H~]The International Committee of the Red Cross[~§!~].[~\n~][~§H~]Field Hospitals[~§!~]:[~\n~]    [~§H~]Trickleback[~§!~]: [~§G~]+10%[~§!~][~\n~]    [~§H~]Exp. Loss[~§!~]: [~§G~]-5%[~§!~]"
  
  
- ICE_no_six:0	"§RYou will not receive a sixth research slot if you have five already.§!\n" 
+ ICE_no_six:0	"[~§R~]You will not receive a sixth research slot if you have five already.[~§!~][~\n~]" 
  
  #FOCUS
  SWI_geistige:0	"Promote Geistige Landesverteidigung"
@@ -238,7 +238,7 @@
  SWI_prepare_border_war_liechtenstein:0	"Prepare to Intervene in [[~LIE.GetNonIdeologyName~]]"
  SWI_border_war_liechtenstein:0	"Imminent Intervention in [[~LIE.GetNonIdeologyName~]]"
 
- lie_popularities_tt:0	"More than §Y40%§! support for the UEK and VDBL combined."
+ lie_popularities_tt:0	"More than [~§Y~]40%[~§!~] support for the UEK and VDBL combined."
  
  SWI_red_cross_tech:0	"The International Committee of the Red Cross"
  SWI_red_cross_tech_desc:0	"The International Committee of the Red Cross (ICRC) is one of the world's largest and most prestigious organizations. This organization dedicates itself to treating the wounded of battle, and ensuring the humane treatment of those kept in POW camps. The ICRC is based in Switzerland, and even has a similar flag theme to its host nation. The government and military of Switzerland have benefited greatly from having such an organization on hand."
@@ -253,7 +253,7 @@
  neutral_influence:0	"Non-Aligned Influence"
  neutral_leanings:0	"Non-Aligned Leanings"
  SWI_a_land_of_mountains:0	"The Center of the Alps"
- SWI_a_land_of_mountains_desc:0	"-So, How was Helvetia?\n\n-Flat!"
+ SWI_a_land_of_mountains_desc:0	"-So, How was Helvetia?[~[~\n~][~\n~]~]-Flat!"
  SWI_mountain_artillery:0	"Mountain Artillery"
  SWI_mountain_artillery_desc:0	"Piou piou peak go boom."
  
@@ -290,13 +290,13 @@
  SWI_crypto:0	"AB Cryptoteknik"
  
  SWI_special_conscription:0	"Swiss Conscription"
- SWI_special_conscription_desc:0	"This country relies upon a militia system, where it can call upon its citizens in a time of need to serve the country. However, this precludes the country from having a large standing army.\n§W--------------- \nWe can complete the §YEnd Reliance on Milita System§! focus to §Rdecrease§! our reliance on our current conscription techniques and move towards a standing army. "
+ SWI_special_conscription_desc:0	"This country relies upon a militia system, where it can call upon its citizens in a time of need to serve the country. However, this precludes the country from having a large standing army.[~\n~][~§W~]--------------- [~\n~]We can complete the [~§Y~]End Reliance on Milita System[~§!~] focus to [~§R~]decrease[~§!~] our reliance on our current conscription techniques and move towards a standing army. "
  SWI_special_conscription_1:0	"Basic Conscription"
- SWI_special_conscription_1_desc:0	"This country relies on conscription techniques dating back to the Great War.\n§W--------------- \nComplete the §YAdvanced Conscription§! focus to improve the conscription techniques allowing us to §Gincrease§! the number of men that can be raised through the militia system. We can also §Rdecrease§! our need for the milita system by completing the §YEnd Reliance on Militia System§! focus."
+ SWI_special_conscription_1_desc:0	"This country relies on conscription techniques dating back to the Great War.[~\n~][~§W~]--------------- [~\n~]Complete the [~§Y~]Advanced Conscription[~§!~] focus to improve the conscription techniques allowing us to [~§G~]increase[~§!~] the number of men that can be raised through the militia system. We can also [~§R~]decrease[~§!~] our need for the milita system by completing the [~§Y~]End Reliance on Militia System[~§!~] focus."
  SWI_special_conscription_2:0	"Advanced Conscription"
- SWI_special_conscription_2_desc:0	"This country relies on new conscription techniques that ensure efficiency.\n§W--------------- \nComplete the §YImproved Militia Training§! focus to improve the conscription techniques allowing us to §Gincrease§! the general quality of raised militia units."
+ SWI_special_conscription_2_desc:0	"This country relies on new conscription techniques that ensure efficiency.[~\n~][~§W~]--------------- [~\n~]Complete the [~§Y~]Improved Militia Training[~§!~] focus to improve the conscription techniques allowing us to [~§G~]increase[~§!~] the general quality of raised militia units."
  SWI_special_conscription_3:0	"Excellent Conscription"
- SWI_special_conscription_3_desc:0	"This country not only uses modern conscription techniques, but also ensures that all of its conscripts have been well-trained in advance.\n§W--------------- \nComplete the §YSwitzerland, United and Ready§! focus to improve the conscription techniques §Gincreasing§! the quality of our raised militia units to max power and efficiency."
+ SWI_special_conscription_3_desc:0	"This country not only uses modern conscription techniques, but also ensures that all of its conscripts have been well-trained in advance.[~\n~][~§W~]--------------- [~\n~]Complete the [~§Y~]Switzerland, United and Ready[~§!~] focus to improve the conscription techniques [~§G~]increasing[~§!~] the quality of our raised militia units to max power and efficiency."
  SWI_special_conscription_4:0	"Exceptional Conscription"
  SWI_special_conscription_4_desc:0	"This country has perfected the arts of conscription and militia-usage."
  SWI_swiss_neutral:0	"Swiss Neutrality"
@@ -335,9 +335,9 @@
  SWI_heer_und_haus:0	"Heer Und Haus"
  SWI_heer_und_haus_desc:0	"Free from tormenting doubts and discouragement, this country's soldiers maintain equanimity and confidence."
  SWI_standing_army:0	"Move Towards a Standing Army"
- SWI_standing_army_desc:0	"This country has begun to move away from a militia system to a full-time standing army.\n§W--------------- \nComplete the §YInstitute a Draft§! focus to begin the first major drafts §Gincreasing§! manpower potential."
+ SWI_standing_army_desc:0	"This country has begun to move away from a militia system to a full-time standing army.[~\n~][~§W~]--------------- [~\n~]Complete the [~§Y~]Institute a Draft[~§!~] focus to begin the first major drafts [~§G~]increasing[~§!~] manpower potential."
  SWI_standing_army_2:0	"Move Towards a Standing Army"
- SWI_standing_army_2_desc:0	"This country has moved away from a militia system to a full-time standing army.\n§W--------------- \nComplete the §YA Standing Army§! focus to change our §YConscription Law§! to §YLimited Conscription§!. Establishes the final steps for Switzerland to have a fully proper army!"
+ SWI_standing_army_2_desc:0	"This country has moved away from a militia system to a full-time standing army.[~\n~][~§W~]--------------- [~\n~]Complete the [~§Y~]A Standing Army[~§!~] focus to change our [~§Y~]Conscription Law[~§!~] to [~§Y~]Limited Conscription[~§!~]. Establishes the final steps for Switzerland to have a fully proper army!"
  SWI_standing_army_3:0	"Standing Army"
  SWI_standing_army_3_desc:0	"This country has successfully created a standing army, implementing techniques from their militia-based days."
  SWI_stockpiles:0	"Stockpiles"
@@ -372,9 +372,9 @@
  resilient_nationalist:0	"Resilient Nationalist"
  rubber_manufacturer:0	"Rubber Manufacturer"
  
- EYE_swiss.1.tt:0	"Wilhelm Gustloff dies!\n"
- EYE_swiss.2.tt:0	"Fritz Platten dies!\n"
- EYE_swiss.12.tt:0	"This country can no longer complete the focus §RSwiss Banking§!."
+ EYE_swiss.1.tt:0	"Wilhelm Gustloff dies![~\n~]"
+ EYE_swiss.2.tt:0	"Fritz Platten dies![~\n~]"
+ EYE_swiss.12.tt:0	"This country can no longer complete the focus [~§R~]Swiss Banking[~§!~]."
 
  EYE_swiss.1:0	"ERROR"
  EYE_swiss.1.a:0	"PLEASE REPORT"
@@ -444,7 +444,7 @@
     EYE_swiss.10.t:0	"[[~From.GetName~]] Offers a Deal"
     EYE_swiss.10.desc:0	"[[~From.GetNameDef~]] has returned our ultimatum with an offer. Should we join the [[~From.GetFactionName~]], they would cede to us what we demand. They have made it clear to us in no uncertain terms that they do not plan on accepting our demands otherwise."
     EYE_swiss.10.a:0	"The deal shall be struck."
-    EYE_swiss.10.b:0	"Does [[~From.GetLeader~]] not know what an\n*ultimatum* is?"
+    EYE_swiss.10.b:0	"Does [[~From.GetLeader~]] not know what an[~\n~]*ultimatum* is?"
     EYE_swiss.11:0	"[[~From.GetName~]] Refuses Ultimatum"   
     EYE_swiss.11.t:0	"[[~From.GetName~]] Refuses Ultimatum"
     EYE_swiss.11.desc:0	"[[~From.GetNameDef~]] has refused our righteous demands! We are not surprised, only disappointed. It looks as though we can only get what we deserve in this world through show of force."
@@ -498,7 +498,7 @@
  EYE_swiss.20.desc:0	"Our population has made it clear that they do not approve our current mobilization. They say that a war does not appear to be on the obvious horizon, and as such we should not remove such a significant percentage of our population from their homes. Should we give the order to demobilize?"
  EYE_swiss.20.a:0	"We cannot sustain this."
  EYE_swiss.20.b:0	"Must we be Cassandra!?"
- EYE_swiss.20.tt:0	"Militia cannot be raised while you have §YPressured Demobilization§!."
+ EYE_swiss.20.tt:0	"Militia cannot be raised while you have [~§Y~]Pressured Demobilization[~§!~]."
     EYE_swiss.21:0	"Populace Angry With Mobilization"
     EYE_swiss.21.t:0	"Populace Angry With Mobilization"
     EYE_swiss.21.desc:0	"Much of our population had been willing to give us the benefit of the doubt when we last raised the troops, but now we have found that a majority of the population believes that we should call the troops home, and the troops themselves have proven restless with morale falling. Should we give the order to demobilize?"
@@ -678,8 +678,8 @@
  SWI_no_upgrade_tt:0	"Has not recently upgraded troops."
  SWI_upgraded_tier_3_tt:0	"Can upgrade troops."
  SWI_final_form_tt:0	"Does not have fully upgraded troops."
- SWI_load_conscription_tt:0	"Call the Militia to arms.\n"
- SWI_upgrade_conscription_tt:0	"Creates new, upgraded units. The old units will be disbanded §R14 Days§! from creation of the new units."
+ SWI_load_conscription_tt:0	"Call the Militia to arms.[~\n~]"
+ SWI_upgrade_conscription_tt:0	"Creates new, upgraded units. The old units will be disbanded [~§R~]14 Days[~§!~] from creation of the new units."
  SWI_demobilize_tt:0	"All units mobilized will return home, and the reserves will stand down."
  SWI_marcel_speech_tt:0	"A defeatist speech has been given."
  SWI_has_guisan_tt:0	"Henri Guisan is a General (Field Marshal)."
@@ -714,7 +714,7 @@
 
 #BBA fix
 
- SWI_spirit_of_saint_bernard_idea_tooltip:1	"Field Hospital Trickleback: §G+10%§!\nExp. Loss Factor: §G-10%§!"
+ SWI_spirit_of_saint_bernard_idea_tooltip:1	"Field Hospital Trickleback: [~§G~]+10%[~§!~][~\n~]Exp. Loss Factor: [~§G~]-10%[~§!~]"
 
  SWI_ortswehren:0	"Ortswehren"
  SWI_ortswehren_desc:0	"Total war means every [[~ROOT.GetAdjective~]] citizen must be ready to defend their region, but not everyone is able to join our militias. We can establish local guards to serve as a backbone the militias can rely on to support them in their efforts to defend [[~ROOT.GetNameDef~]]."

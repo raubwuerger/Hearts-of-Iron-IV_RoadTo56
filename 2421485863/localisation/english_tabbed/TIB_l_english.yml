@@ -3,8 +3,8 @@
 
  TIB_generic_infantry_equipment_organization:0	"Trabshi Lekhung Arsenal Section"
 
- TIB_monasteries_up_tt:0	"§GIncrease§! the opinion of the monasteries.\n"
- TIB_monasteries_down_tt:0	"§RDecrease§! the opinion of the monasteries.\n"
+ TIB_monasteries_up_tt:0	"[~§G~]Increase[~§!~] the opinion of the monasteries.[~\n~]"
+ TIB_monasteries_down_tt:0	"[~§R~]Decrease[~§!~] the opinion of the monasteries.[~\n~]"
 
  TIB_democratic_party:0	"Kyicho Küntün"
  TIB_democratic_party_long:0	"Kyicho Küntün Party"
@@ -58,8 +58,8 @@
 
  TIB_mountainous_people:0	"Mountainous People"
  TIB_mountainous_people_desc:0	"The [[~ROOT.getAdjective~]] people tend to live at high altitude and therefore are used to travel in such harsh conditions."
- TIB_montainous_people_effect:0	"Infantry: §G+10%§! §YSpeed§! and §G+2%§! §YAttack§! on §CMountains§!"
- TIB_montainous_people_effect:0	"§HInfantry§!:\n    §HMountain§!:\n        Defense: §G+2%§!\n        Movement: §G+5%§!\n§HMountaineers§!:\n    §HMountain§!:\n        Attack: §G+5%§!\n        Movement: §G+10%§!"
+ TIB_montainous_people_effect:0	"Infantry: [~§G~]+10%[~§!~] [~§Y~]Speed[~§!~] and [~§G~]+2%[~§!~] [~§Y~]Attack[~§!~] on [~§C~]Mountains[~§!~]"
+ TIB_montainous_people_effect:0	"[~§H~]Infantry[~§!~]:[~\n~]    [~§H~]Mountain[~§!~]:[~\n~]        Defense: [~§G~]+2%[~§!~][~\n~]        Movement: [~§G~]+5%[~§!~][~\n~][~§H~]Mountaineers[~§!~]:[~\n~]    [~§H~]Mountain[~§!~]:[~\n~]        Attack: [~§G~]+5%[~§!~][~\n~]        Movement: [~§G~]+10%[~§!~]"
  TIB_poorly_organized_army:0	"Poorly Organized Army"
  TIB_poorly_organized_army_desc:0	"Due to the pressure of the aristocracy to avoid a strong central power, the Tibetan army is completely ill equipped and ill prepared. Some rifles have not been fired for years and only the guard of the Dalai Lama is more or less properly organized."
  TIB_army_reform_in_progress:0	"Army Reform in Progress"
@@ -222,7 +222,7 @@
  TIB_invest_into_the_air_force:0	"Invest Into the Air Force"
 
  TIB_naval_effort:0	"Finance Shipbuilding"
- TIB_naval_effort_tt:0	"Not enough building slots for §YNaval Dockyards§!"
+ TIB_naval_effort_tt:0	"Not enough building slots for [~§Y~]Naval Dockyards[~§!~]"
  TIB_naval_effort_desc:0	"The expansion of our navy should be our priority. Assign all available resources to new Dockyards and research into light surface ships."
  TIB_flexible_navy:0	"Flexible Navy"
  TIB_flexible_navy_desc:0	"Reinventing naval warfare to account for the advances in submarine technology will allow us to strike efficiently against enemy convoys."
@@ -295,10 +295,10 @@
  himalaya_tibet.6.desc:0	"The British government has denied our request to allow officers of the military mission in Lhasa to be directly involved in the planning of our operations."
  himalaya_tibet.6.a:0	"Disappointment must not lead to anger."
  himalaya_tibet.7.t:0	"The Great Tibetan Army Review"
- himalaya_tibet.7.desc:0	"For the first time in years, a sizable portion of the army has been assembled in order to practice. It's also the first time since the beginning of the century that a western advisor is present in order to analyze the state of the army and issue guidelines.\n\nTo the surprise of the western expert, some rifles have not been fired in years and it's clear to him that a total reorganization will be necessary. This long process may reinforce the defensive capabilities of Tibet, but the religious elite may oppose any modernization plan as the officer corps could use a professional army in order to threaten the traditional theocratic institutions."
+ himalaya_tibet.7.desc:0	"For the first time in years, a sizable portion of the army has been assembled in order to practice. It's also the first time since the beginning of the century that a western advisor is present in order to analyze the state of the army and issue guidelines.[~[~\n~][~\n~]~]To the surprise of the western expert, some rifles have not been fired in years and it's clear to him that a total reorganization will be necessary. This long process may reinforce the defensive capabilities of Tibet, but the religious elite may oppose any modernization plan as the officer corps could use a professional army in order to threaten the traditional theocratic institutions."
  himalaya_tibet.7.a:0	"This process will take time..."
  himalaya_tibet.9.t:0	"The Search for the Dalai Lama"
- himalaya_tibet.9.desc:0	"Just mere years ago, back in the winter of 1933, the previous Dalai Lama passed away. After each death, the Dalai Lama is reincarnated somewhere in the vast lands of Tibet. Therefore the search for the Dalai Lama is the most important task of the regency government in order to ensure the continuity of the theocratic system. The regent has just convened the Tsongdu to determine where to search for the reincarnation of the Dalai Lama. In this process two elements were essential: signs and omens would give the government general information on where to look for. Then the visions of the Regent would give more precise information on the location of the next Dalai Lama. He explained that last year, while he was at lake Lhamolatso, he saw the letters "a", "ka" and "ma", a monastery with a three-tiered turquoise roof, a gilded pagoda-like top and a twisting trail leading east of this monastery to a bare hill opposite a small one story house with a blue roof. The pictures in his mind reminded him of a distant and far-away region of Tibet, Amdo. What reinforces this belief is the fact that the head of the previous Dalai Lama turned east after his death. In addition, on the east side of a wooden pillar located in the northeast side of the throneroom, a great star-shaped fungus appeared overnight. It also appears that on several different occasions the state oracles Nechung, Gadong, and Samye had flung ceremonial scarves toward the east while in trance. \n\nA part of the assembly is convinced that searching parties must be sent to Amdo, this could prove to be very dangerous however, both for the search parties as well as the Dalai Lama himself, if he is indeed found. Nonetheless, one thing is clear, the Dalai Lama must be found!"
+ himalaya_tibet.9.desc:0	"Just mere years ago, back in the winter of 1933, the previous Dalai Lama passed away. After each death, the Dalai Lama is reincarnated somewhere in the vast lands of Tibet. Therefore the search for the Dalai Lama is the most important task of the regency government in order to ensure the continuity of the theocratic system. The regent has just convened the Tsongdu to determine where to search for the reincarnation of the Dalai Lama. In this process two elements were essential: signs and omens would give the government general information on where to look for. Then the visions of the Regent would give more precise information on the location of the next Dalai Lama. He explained that last year, while he was at lake Lhamolatso, he saw the letters "a", "ka" and "ma", a monastery with a three-tiered turquoise roof, a gilded pagoda-like top and a twisting trail leading east of this monastery to a bare hill opposite a small one story house with a blue roof. The pictures in his mind reminded him of a distant and far-away region of Tibet, Amdo. What reinforces this belief is the fact that the head of the previous Dalai Lama turned east after his death. In addition, on the east side of a wooden pillar located in the northeast side of the throneroom, a great star-shaped fungus appeared overnight. It also appears that on several different occasions the state oracles Nechung, Gadong, and Samye had flung ceremonial scarves toward the east while in trance. [~[~\n~][~\n~]~]A part of the assembly is convinced that searching parties must be sent to Amdo, this could prove to be very dangerous however, both for the search parties as well as the Dalai Lama himself, if he is indeed found. Nonetheless, one thing is clear, the Dalai Lama must be found!"
  himalaya_tibet.9.a:0	"Send out the search parties as quick as possible."
  himalaya_tibet.9.b:0	"Contact the region's administrators, we must seek their approval first."
  himalaya_tibet.10.t:0	"Tibetan envoys are Looking for the Dalai Lama in our Territory"
@@ -306,7 +306,7 @@
  himalaya_tibet.10.a:0	"I Have More Pressing Matters"
  himalaya_tibet.10.b:0	"We can't allow foreign agents in our territory."
  himalaya_tibet.11.t:0	"The Dalai Lama has been found!"
- himalaya_tibet.11.desc:0	"In the small and isolated village of Taktser, on a hill surrounded by few fields and a sea of steppic wilderness where nomadic herders wander. It was one of only 17 houses, a rectangular, ground-level building, with its various parts arranged around a wide central courtyard and a rectangular flat roof. There were no openings on the outside walls, except for the doorway. On the roof, there were three chimneys stacks and two air-holes. Around the roof were small gutters with spouts giving out into the courtyard. Over the entrance, there was a socket fixed in the roof to take a 10-foot-high flagpole. \n\nThe search party came there because of the letter "a" seen by the Reting Rinpoche in his vision was referring to the province of Amdo, the letter "ka" certainly meant the monastery of Kumbum. That building was three stories high and roofed by blue tiles, as described by the Regent. The last part of the vision indicated a house with a peculiar tree. Here, finally, they saw a house with a gnarling juniper bush on the flat roof...\n\nIn order to investigate, Kewtsang Rinpoche who was leading the party, disguised himself as a servant while they asked to stay for the night. In it live a couple of peasants and their children, the first one was living at the Kumbum monastery as he had been recognized as the reincarnation of the Taktser Rinpoche. One of those children suddenly recognized him and called him "Sera Lama" multiple times, as if he knew his monastery. A few days later they came back with some of the objects brought from Lhasa and he recognized those belonging to the previous Dalai Lama. The party then left for Kumbum, bringing with them the latest incarnation of Avalokiteśvara."
+ himalaya_tibet.11.desc:0	"In the small and isolated village of Taktser, on a hill surrounded by few fields and a sea of steppic wilderness where nomadic herders wander. It was one of only 17 houses, a rectangular, ground-level building, with its various parts arranged around a wide central courtyard and a rectangular flat roof. There were no openings on the outside walls, except for the doorway. On the roof, there were three chimneys stacks and two air-holes. Around the roof were small gutters with spouts giving out into the courtyard. Over the entrance, there was a socket fixed in the roof to take a 10-foot-high flagpole. [~[~\n~][~\n~]~]The search party came there because of the letter "a" seen by the Reting Rinpoche in his vision was referring to the province of Amdo, the letter "ka" certainly meant the monastery of Kumbum. That building was three stories high and roofed by blue tiles, as described by the Regent. The last part of the vision indicated a house with a peculiar tree. Here, finally, they saw a house with a gnarling juniper bush on the flat roof...[~[~\n~][~\n~]~]In order to investigate, Kewtsang Rinpoche who was leading the party, disguised himself as a servant while they asked to stay for the night. In it live a couple of peasants and their children, the first one was living at the Kumbum monastery as he had been recognized as the reincarnation of the Taktser Rinpoche. One of those children suddenly recognized him and called him "Sera Lama" multiple times, as if he knew his monastery. A few days later they came back with some of the objects brought from Lhasa and he recognized those belonging to the previous Dalai Lama. The party then left for Kumbum, bringing with them the latest incarnation of Avalokiteśvara."
  himalaya_tibet.11.a:0	"They must return as soon as possible"
  himalaya_tibet.12.t:0	"The Tibetans seem to have found the child"
  himalaya_tibet.12.desc:0	"One of the Tibetan search parties may have found the Dalai Lama in the small village of Taktser. The child with brought to the monastery of Kumbum and it seem that they are preparing to depart to Lhasa."
@@ -359,19 +359,19 @@
  TIB_infantry_equipment_1:0	"Rifle No.4 MkI"
  TIB_infantry_equipment_1_short:0	"Rifle No.4 MkI"
 
- TIB_professionalize_the_officers_effect_tooltip:	"§GRemove§! the trait §YBad Staffer§! for all military leaders\n"
- TIB_revise_officers_fighting_techniques_effect_tooltip:	"§GRemove§! the trait §YOld Guard§! for all military leaders\n"
+ TIB_professionalize_the_officers_effect_tooltip:	"[~§G~]Remove[~§!~] the trait [~§Y~]Bad Staffer[~§!~] for all military leaders[~\n~]"
+ TIB_revise_officers_fighting_techniques_effect_tooltip:	"[~§G~]Remove[~§!~] the trait [~§Y~]Old Guard[~§!~] for all military leaders[~\n~]"
 
- apply_neames_guidelines_cost:0	"§H25§!£pol_power  §H25§!£command_power"
- apply_neames_guidelines_cost_blocked:0	"§H25§!£pol_power  §R25§!£command_power"
- apply_neames_guidelines_cost_tooltip:0	"It costs §H25§! £pol_power and §H25§! £command_power to select this."
+ apply_neames_guidelines_cost:0	"[~§H~]25[~§!~]£pol_power  [~§H~]25[~§!~]£command_power"
+ apply_neames_guidelines_cost_blocked:0	"[~§H~]25[~§!~]£pol_power  [~§R~]25[~§!~]£command_power"
+ apply_neames_guidelines_cost_tooltip:0	"It costs [~§H~]25[~§!~] £pol_power and [~§H~]25[~§!~] £command_power to select this."
 
- professionalize_the_officers_cost:0	"§H50§!£pol_power  §H80§!£command_power"
- professionalize_the_officers_cost_blocked:0	"§R50§!£pol_power  §R80§!£command_power"
+ professionalize_the_officers_cost:0	"[~§H~]50[~§!~]£pol_power  [~§H~]80[~§!~]£command_power"
+ professionalize_the_officers_cost_blocked:0	"[~§R~]50[~§!~]£pol_power  [~§R~]80[~§!~]£command_power"
  professionalize_the_officers_cost_tooltip:0	"It costs 50£pol_power  and 80£command_power to select this."
 
- revise_officers_fighting_techniques_cost:0	"§H50§!£pol_power  §H80§!£command_power"
- revise_officers_fighting_techniques_cost_blocked:0	"§R50§!£pol_power  §R80§!£command_power"
+ revise_officers_fighting_techniques_cost:0	"[~§H~]50[~§!~]£pol_power  [~§H~]80[~§!~]£command_power"
+ revise_officers_fighting_techniques_cost_blocked:0	"[~§R~]50[~§!~]£pol_power  [~§R~]80[~§!~]£command_power"
  revise_officers_fighting_techniques_cost_tooltip:0	"It costs 50£pol_power  and 80£command_power to select this."
 
 
@@ -664,21 +664,21 @@
 
  #Tooltips
 
- TIB_foreign_economic_aid_tt:0	"One §YCivilian Factory§! and one §YInfrastructure§! will be added for each of the following countries that has an §Yopinion§! of §YTibet§! greater than §G80§!: \n§Y[[~ENG.GetNameDef~]]§! and §Y[[~CHI.GetNameDef~]]§!."
- TIB_infiltrate_army_tt:0	"We will gain §Y2 Dmag-Sgar§! divisions in §Y[[~THIS.GetName~]]§! upon civil war start."
- TIB_create_dob_dob_unit:0	"Create a §YDob Dob Brigade§! division in §Y[[~THIS.GetName~]]§!."
- TIB_begin_dalai_lama_search:0	"We will be able to begin the §Ysearch§! for the §YDalai Lama§!."
- TIB_tawang_border_war:0	"§RA border war will start for [[~434.GetName~]].§!"
- TIB_dalai_lama_discovery:0	"§RNot informing the local administration of our search for the Dalai Lama might prove disastrous.§!"
- TIB_getting_permission:0	"We will be able to §Ysearch§! for the §YDalai Lama§! without being bothered or distrubed by the §Y[[~754.Controller.GetAdjective~]]§! military."
- TIB_create_independent_unit:0	"Create a §YIndependent Tibetan Division§! unit in §Y[[~THIS.GetName~]]§! upon the start of the §Ycivil war§!."
- TIB_create_workers_unit:0	"Create §Y2 Tibetan Worker's Unit§! unit in §Y[[~THIS.GetName~]]§! upon the start of the §Ycivil war§!."
- TIB_communist_civil_war:0	"The §YTibetan Revolution§! will commence."
- TIB_the_tsongdu_compromises:0	"The §YTsongdu§! has reached a §Ycompromise§!."
- TIB_the_tsongdu_disbands:0	"The §YTsongdu§! has been §Ydisbanded§!."
- TIB_controls_all_tibet:0	"Controls all §YTibetan§! core states."
- TIB_trimon_has_resigned:0	"§YTrimön Shappe§! has resigned."
- TIB_regent_has_resigned:0	"§YJamphel Yeshe Gyaltsen§! has resigned."
+ TIB_foreign_economic_aid_tt:0	"One [~§Y~]Civilian Factory[~§!~] and one [~§Y~]Infrastructure[~§!~] will be added for each of the following countries that has an [~§Y~]opinion[~§!~] of [~§Y~]Tibet[~§!~] greater than [~§G~]80[~§!~]: [~\n~][~§Y~][[~ENG.GetNameDef~]][~§!~] and [~§Y~][[~CHI.GetNameDef~]][~§!~]."
+ TIB_infiltrate_army_tt:0	"We will gain [~§Y~]2 Dmag-Sgar[~§!~] divisions in [~§Y~][[~THIS.GetName~]][~§!~] upon civil war start."
+ TIB_create_dob_dob_unit:0	"Create a [~§Y~]Dob Dob Brigade[~§!~] division in [~§Y~][[~THIS.GetName~]][~§!~]."
+ TIB_begin_dalai_lama_search:0	"We will be able to begin the [~§Y~]search[~§!~] for the [~§Y~]Dalai Lama[~§!~]."
+ TIB_tawang_border_war:0	"[~§R~]A border war will start for [[~434.GetName~]].[~§!~]"
+ TIB_dalai_lama_discovery:0	"[~§R~]Not informing the local administration of our search for the Dalai Lama might prove disastrous.[~§!~]"
+ TIB_getting_permission:0	"We will be able to [~§Y~]search[~§!~] for the [~§Y~]Dalai Lama[~§!~] without being bothered or distrubed by the [~§Y~][[~754.Controller.GetAdjective~]][~§!~] military."
+ TIB_create_independent_unit:0	"Create a [~§Y~]Independent Tibetan Division[~§!~] unit in [~§Y~][[~THIS.GetName~]][~§!~] upon the start of the [~§Y~]civil war[~§!~]."
+ TIB_create_workers_unit:0	"Create [~§Y~]2 Tibetan Worker's Unit[~§!~] unit in [~§Y~][[~THIS.GetName~]][~§!~] upon the start of the [~§Y~]civil war[~§!~]."
+ TIB_communist_civil_war:0	"The [~§Y~]Tibetan Revolution[~§!~] will commence."
+ TIB_the_tsongdu_compromises:0	"The [~§Y~]Tsongdu[~§!~] has reached a [~§Y~]compromise[~§!~]."
+ TIB_the_tsongdu_disbands:0	"The [~§Y~]Tsongdu[~§!~] has been [~§Y~]disbanded[~§!~]."
+ TIB_controls_all_tibet:0	"Controls all [~§Y~]Tibetan[~§!~] core states."
+ TIB_trimon_has_resigned:0	"[~§Y~]Trimön Shappe[~§!~] has resigned."
+ TIB_regent_has_resigned:0	"[~§Y~]Jamphel Yeshe Gyaltsen[~§!~] has resigned."
 
  #Thupten Kunphel-la advisor dalai lama (fav dalai lama) potential fascist
  #Jigmé Taring 1932 commander Tibetan army. also later fuctionnary and in 1950 foreign minister

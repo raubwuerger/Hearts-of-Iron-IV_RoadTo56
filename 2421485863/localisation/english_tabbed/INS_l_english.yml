@@ -195,8 +195,8 @@ INS_join_allies:0	"Join the Allies"
 INS_join_allies_desc:0	"Formalizing our defense arrangements with our neighbors means abandoning our neutrality in the region, but it is a small price to pay for protection."
 INS_modernize_the_military:0	"Modernize the Military"
 
-INS_spawn_landstorm_division:0	"Create a §YOost-Indie Landstorm§! division in §Y[[~THIS.GetName~]]§!."
-INS_spawn_irregular_division:0	"Create §Y2 Irreguliere Divisie§! divisions in §Y[[~THIS.GetName~]]§!."
+INS_spawn_landstorm_division:0	"Create a [~§Y~]Oost-Indie Landstorm[~§!~] division in [~§Y~][[~THIS.GetName~]][~§!~]."
+INS_spawn_irregular_division:0	"Create [~§Y~]2 Irreguliere Divisie[~§!~] divisions in [~§Y~][[~THIS.GetName~]][~§!~]."
 
 netherlands_research_name:0	"Royal Netherlands Research"
 netherlands_research_desc:0	"International cooperation between the Netherlands and her colonies allows for greater technological accomplishments."
@@ -417,7 +417,7 @@ INS_GATHERING_STORM_DESC:0	"Indonesia may seem to be a stable colony for the ina
 #descripts
 INS_reforming_the_army:0	"Army Reorganization"
 INS_reforming_the_army_desc:0	""
-INS_naval_autonomy_ships:0	"§Y[[~HOL.GetName~]]§! will transfer several and light cruiers to [[~INS.GetNameDef~]]."
+INS_naval_autonomy_ships:0	"[~§Y~][[~HOL.GetName~]][~§!~] will transfer several and light cruiers to [[~INS.GetNameDef~]]."
 INS_naval_autonomy_ships_desc:0	""
 INS_increase_convoy_production:0	"Increase Convoy Production"
 INS_increase_convoy_production_desc:0	""

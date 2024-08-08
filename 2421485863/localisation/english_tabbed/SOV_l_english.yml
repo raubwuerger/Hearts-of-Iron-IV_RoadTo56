@@ -84,7 +84,7 @@
  SOV_sing_katyusha_sing:0	"Sing Katyusha Sing!"
  SOV_sing_katyusha_sing_focus:0	"Sing Katyusha Sing!"
  SOV_sing_katyusha_sing_focus_desc:0	"The enemies of [[~ROOT.GetNameDef~]] will soon hear a song they will never forget."
- manufacturer_applies_bonus_instantly_tooltip:0	"§CThis Manufacturer is applying its effect even if you already unlocked the boosted unit(s).§!"
+ manufacturer_applies_bonus_instantly_tooltip:0	"[~§C~]This Manufacturer is applying its effect even if you already unlocked the boosted unit(s).[~§!~]"
  SOV_mass_firearms_production:0	"Mass Firearms Production"
  SOV_mass_firearms_production_desc:0	"The war demands a rifle in the hand of every soldiers. Our industry must be mobilized to achieve this goal"
  SOV_shocktroops:0	"Shocktroops"
@@ -274,7 +274,7 @@
  SOV_iron_curtain_idea:0	"Iron Curtain"
  SOV_iron_curtain_idea_desc:0	"We are currently solidifying and entrenching our reign over associated client states."
  SOV_defense_of_the_motherland:0	"Defense of the Motherland"
- SOV_defense_of_the_motherland_desc:0	"The great country of ours shall never fall or surrender, it is our duty to protect the Motherland no matter the cost! \n\n§RThis National Spirit will expire once the war is over.§!"
+ SOV_defense_of_the_motherland_desc:0	"The great country of ours shall never fall or surrender, it is our duty to protect the Motherland no matter the cost! [~[~\n~][~\n~]~][~§R~]This National Spirit will expire once the war is over.[~§!~]"
  SOV_comecon_support:0	"Comecon Support"
  SOV_comecon_support_desc:0	"Soviet civilian and military specialists support our country through ideological education and economic assistance."
  SOV_comecon_idea:0	"Comecon"
@@ -291,19 +291,19 @@
  SOV_siberian_forest_soldiers_focus:0	"Through the Tundras and Forests.."
  SOV_siberian_forest_soldiers_focus_desc:0	"Between us and the heart of the decrepit Soviet regime lies an immense swath of cold forests and tundra wasteland. Our brave heroes must be ready to meet the challenge that survival in these lands between demands."
  SOV_siberian_forest_soldiers_idea:0	"Siberian Forest Soldiers"
- SOV_okhrana_focus_tt:0	"Create the Intelligence Agency: §YOkhrana§!.\n\n"
+ SOV_okhrana_focus_tt:0	"Create the Intelligence Agency: [~§Y~]Okhrana[~§!~].[~[~\n~][~\n~]~]"
  SOV_russia_okhrana_idea:0	"Okhrana Reinstated"
- SOV_consolidate_power_tt_2:0	"Remove ideas §Y$SOV_the_true_tsars_idea$§!, §Y$SOV_fascist_womens_movement_idea$§!, §Y$SOV_siberian_forest_soldiers_idea$§!"
+ SOV_consolidate_power_tt_2:0	"Remove ideas [~§Y~]$SOV_the_true_tsars_idea$[~§!~], [~§Y~]$SOV_fascist_womens_movement_idea$[~§!~], [~§Y~]$SOV_siberian_forest_soldiers_idea$[~§!~]"
 
  SOV_reinforce_caspian_naval_bases:0	"Reinforce Caspian Naval Bases"
  SOV_reinforce_caspian_naval_bases_desc:0	"Though not as important as our other naval strategic regions, it is important that we maintain a strong presence in the area to ensure that advances made by the [[~PER.GetAdjective~]] or other foreign nations are kept in check to protect our interests there."
 
  VOLGA_DON_CANAL:0	"Volga-Don Canal"
- Volga_don_blocked_tt:0	"§RVolga-Don Canal is not built or is blocked§!"
+ Volga_don_blocked_tt:0	"[~§R~]Volga-Don Canal is not built or is blocked[~§!~]"
 
  build_volga_don_canal:0	"Build the Volga-Don Canal"
  build_volga_don_canal_desc:0	"Our limited naval forces within the Caspian Sea have long been isolated from our main branch, by building a canal to connect it with the Black Sea we can finally move our naval forces to and from the sea at will."
- VOLGA_DON_BUILT_tt:0	"§YThe Volga-Don Canal will allow ships to cross§!."
+ VOLGA_DON_BUILT_tt:0	"[~§Y~]The Volga-Don Canal will allow ships to cross[~§!~]."
  VOLGA_DON_NOT_BUILT:0	"The Volga-Don Canal has not been built"
 
  ###
@@ -358,24 +358,24 @@
  SOV_relocate_industry_from_kharkov:0	"Relocate the industry from Kharkov"
  SOV_industry_relocation_desc:0	"The war is upon us and our enemies are threatening our industrial basins in the West. Let's move them far away in the Urals outside of the reach of their largest bombers. That way we will be able to protect our industry, build more military equipment and launch decisive counter attacks in the name of [[~SOV.getleader~]] and his vision of [[~SOV.GetRulingIdeologyNoun~]]."
 
- has_cosmetic_tag_smersh_tt:0	"Is §YScandinavia§!, the §YNordic Union§! or §YAustria-Hungary§!"
- SOV_comecon_tt:0	"§CThis Focus effect will expand with the more puppets you have!§!"
- sov_balkan_fed_tt:0	"§YWe will allow Tito's Yugoslavia to form a federation from our Balkan satellites!§!"
+ has_cosmetic_tag_smersh_tt:0	"Is [~§Y~]Scandinavia[~§!~], the [~§Y~]Nordic Union[~§!~] or [~§Y~]Austria-Hungary[~§!~]"
+ SOV_comecon_tt:0	"[~§C~]This Focus effect will expand with the more puppets you have![~§!~]"
+ sov_balkan_fed_tt:0	"[~§Y~]We will allow Tito's Yugoslavia to form a federation from our Balkan satellites![~§!~]"
  iron_curtain_tt:0	"Is in faction with or overlord of at least 3 [[~ROOT.GetRulingIdeology~]] eastern or central European nations (excluding the Baltics) which control at least 30 factories."
- SOV_support_yen_bai_mutiny_tt:0	"§YVietnam will rise against occupiers and begin a fight for its independence!§!"
- sov_hot_war_tt:0	"§RThis course of action will be disastrous!§!"
- SOV_anti_air_buildings:0	"Adds §Y2 Anti-Air Buildings§!"
- SOV_defense_divisions:0	"Raises §Y8 Auxiliary Defense Divisions§!"
- SOV_defense_divisions_12:0	"Raises §Y12 Auxiliary Defense Divisions§!.\n"
- SOV_defense_divisions_4:0	"Raises §Y4 Auxiliary Defense Divisions§! to defend the new capital!"
- SOV_defense_of_leningrad_forts:0	"Add §Y28 Land Forts§! in and around Leningrad"
- SOV_defense_of_stalingrad_forts:0	"Add §Y28 Land Forts§! in and around Leningrad"
+ SOV_support_yen_bai_mutiny_tt:0	"[~§Y~]Vietnam will rise against occupiers and begin a fight for its independence![~§!~]"
+ sov_hot_war_tt:0	"[~§R~]This course of action will be disastrous![~§!~]"
+ SOV_anti_air_buildings:0	"Adds [~§Y~]2 Anti-Air Buildings[~§!~]"
+ SOV_defense_divisions:0	"Raises [~§Y~]8 Auxiliary Defense Divisions[~§!~]"
+ SOV_defense_divisions_12:0	"Raises [~§Y~]12 Auxiliary Defense Divisions[~§!~].[~\n~]"
+ SOV_defense_divisions_4:0	"Raises [~§Y~]4 Auxiliary Defense Divisions[~§!~] to defend the new capital!"
+ SOV_defense_of_leningrad_forts:0	"Add [~§Y~]28 Land Forts[~§!~] in and around Leningrad"
+ SOV_defense_of_stalingrad_forts:0	"Add [~§Y~]28 Land Forts[~§!~] in and around Leningrad"
  SOV_restore_the_union:0	"Restore the Union"
 
- SOV_claims_in_baltics_tt:0	"[[~SOV.getNameDefCap~]] gains claims on all initial §YBaltic states cores§!"
+ SOV_claims_in_baltics_tt:0	"[[~SOV.getNameDefCap~]] gains claims on all initial [~§Y~]Baltic states cores[~§!~]"
 
 
- SOV_the_new_russian_army_tooltip:0	"Raises §Y5§! veteran §YRespublikanskiy Spetsnaz§! across the nation."
+ SOV_the_new_russian_army_tooltip:0	"Raises [~§Y~]5[~§!~] veteran [~§Y~]Respublikanskiy Spetsnaz[~§!~] across the nation."
 
  soviet.104.t:0	"Juan Modesto Requests Asylum"
  soviet.104.d:0	"After the defeat of our allies in Spain, Juan Modesto, Spanish commander and a graduate of the Frunze Military Academy, has requested asylum and offered to serve in our army"
@@ -394,7 +394,7 @@
  SOV_grieve_stalin_desc:0	"The Politburo has announced the death of Iosif Vissarionivitch Stalin. While the country grieves the dead of the our beloved leaders, his shameful drowning in his vomit has been kept secret. Without an assured leadership, various members of the Politburo are ready to do anything to eliminate their competitors."
 
  SOV_comecon_give_puppet_idea:0	"Integrate [[~FROM.GetNameDef~]] into the [[~GetComeconName~]]"
- SOV_factionalism_removed_tt:0	"Removes §YFactionalism§!"
+ SOV_factionalism_removed_tt:0	"Removes [~§Y~]Factionalism[~§!~]"
 
  # ALLIED WEAPON PURCHASES
 
@@ -409,4 +409,4 @@
 
  SOV_counter_attack_through_manchuria:0	"Counter-attack Through Manchuria"
 
- r56_operation_countenance_tooltip:0	"§Y[[~PER.GetName~]]§!: Has capitulated"
+ r56_operation_countenance_tooltip:0	"[~§Y~][[~PER.GetName~]][~§!~]: Has capitulated"

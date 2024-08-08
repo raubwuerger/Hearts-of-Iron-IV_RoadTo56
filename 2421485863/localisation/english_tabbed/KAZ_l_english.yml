@@ -50,7 +50,7 @@
  KAZ_war_cry:	"The [[~ROOT.GetAdjective~]] War Cry"
 
  #tooltip
- KAZ_wargoals_formable:	"§YThis focus gives wargoals on the holders of every non-Allied Turkestan state.§!"
+ KAZ_wargoals_formable:	"[~§Y~]This focus gives wargoals on the holders of every non-Allied Turkestan state.[~§!~]"
  SOV_KAZ_weapon_cooperation:	"[[~SOV.GetAdjective~]]s Approved Weapon Cooperation" #flag
 
  #ideas

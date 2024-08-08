@@ -82,7 +82,7 @@
  bra_art:0	"CBC"
  BRA_art:0	"Heavy Artillery"
  bra_art_desc:0	"Enjoying more resources than his opponent, the Union imported artillery from abroad. Accurate, the cannons obliterated an entire Paulista squad in a hit. We can help our military-industrial enterprises expand their industrial centers to a never-known level."
- bra_aviso_tooltip:0	"§RSwitching ideologies through any means except through letting the political elites participate in the change by mustering enough support for a coup, being puppeted by another country or any switching governments will be seen by these elites as an attack on their interests. They will resent their lack of participation and refuse to participate in all projects.§!"
+ bra_aviso_tooltip:0	"[~§R~]Switching ideologies through any means except through letting the political elites participate in the change by mustering enough support for a coup, being puppeted by another country or any switching governments will be seen by these elites as an attack on their interests. They will resent their lack of participation and refuse to participate in all projects.[~§!~]"
  bra_a_voz_do_brasil:0	"The Voice of Brazil"
  BRA_a_voz_do_brasil:0	"Transmit 'A Voz do Brasil'"
  BRA_a_voz_do_brasil_desc:0	"'The Voice of Brazil' is a mandatory diffusion state radio newscast which airs daily in all public radio stations in Brazil, at 19 pm (GMT), with duration of one hour.' It was created by the Brazilian Government as a means of dissemination of the achievements of the State"
@@ -324,7 +324,7 @@ BRA_estado_novo_desc:0	"Ever since 1889, Brazil has shown itself fragile to subv
  BRA_populism_focus:0	"Populism"
  BRA_populism_focus_desc:0	"The great Brazilian leaders canvass support of large masses through radical ideological discourses that move the collective opinion."
  bra_populism_focus_desc:0	"The Great Leaders of the Republic shall muster support from the great masses through radical highly-ideological speeches that shift nationwide public opinion."
- BRA_preemptive_strike_tt:0	"§CThis focus will grant war goals against some neighboring countries if they're Communist.§!"
+ BRA_preemptive_strike_tt:0	"[~§C~]This focus will grant war goals against some neighboring countries if they're Communist.[~§!~]"
  BRA_prospect:0	"Prospect for resources"
  BRA_prospect_desc:0	"Our country is full of natural riches, we just have to search for them."
  BRA_prospect_oil:0	"Prospect for oil"
@@ -348,7 +348,7 @@ BRA_estado_novo_desc:0	"Ever since 1889, Brazil has shown itself fragile to subv
  bra_secret_research:0	"Ministry of Sciences and Technology"
  BRA_secret_research:0	"Secret Research Department"
  bra_secret_research_desc:0	"The creation of technology centers solely dedicated to essential projects of the Armed Forces will prove crucial for the maintenance of national security."
- BRA_selva_tech_effect:0	"Creates the §YJungle Warfare Instruction Center - CIGS§! focused on training our army to defend our most precious national treasury. §YRegular Infantry§! units will move and battle through the Rainforest as if they were in their backyards. All other §YSpecial Forces§! gain a slight bonus for movement on the Jungle. §YMechanized§! and §YMotorized§! Battalions have a 0.25x §HCombat Penalty§!.\n."
+ BRA_selva_tech_effect:0	"Creates the [~§Y~]Jungle Warfare Instruction Center - CIGS[~§!~] focused on training our army to defend our most precious national treasury. [~§Y~]Regular Infantry[~§!~] units will move and battle through the Rainforest as if they were in their backyards. All other [~§Y~]Special Forces[~§!~] gain a slight bonus for movement on the Jungle. [~§Y~]Mechanized[~§!~] and [~§Y~]Motorized[~§!~] Battalions have a 0.25x [~§H~]Combat Penalty[~§!~].[~\n~]."
  bra_sem_eixo:0	"Pact of Rio"
  bra_sem_eixo_desc:0	"We, united [[~BRA.GetAdjective~]]s of all Provinces, propose to create a culture, a civilization, a way of life genuinely [[~BRA.GetAdjective~]]. We want to make our public right according to our realities and aspirations. This government guarantees the unity of all the provinces, the harmony of all classes, the initiatives of all individuals, the supervision of the State, the national construction."
  bra_sem_urss:0	"Our Revolution!"
@@ -378,7 +378,7 @@ BRA_estado_novo_desc:0	"Ever since 1889, Brazil has shown itself fragile to subv
  bra_tiro_de_guerra:0	"Tiro de Guerra"
  bra_tiro_de_guerra_desc:0	"The "Tiro de Guerra" was instituted as an Army policy in 1916, consisting in the basic training of unconquered reserves of the country in the case of the declaration of the State of Siege. The Expansion of this program ensures that the columns of the army are filled by men better trained and closer to becoming fit for combat."
  bra_transatlantico:0	"The Transatlantic Pact"
- bra_tropas_1932_tooltip:0	"§YSummon to our army the veterans of the Paulista war.§!"
+ bra_tropas_1932_tooltip:0	"[~§Y~]Summon to our army the veterans of the Paulista war.[~§!~]"
  bra_uiracu_tooltip:0	"Unlocks the Platine basin annexation decisions."
  bra_vale:0	"Vale do Rio Doce"
  bra_vale_desc:0	"Vale do Rio Doce will be the state company extracting the most various ores, such as Bauxite and Iron, and reprocessing into Aluminum and Steel."
@@ -463,7 +463,7 @@ BRA_estado_novo_desc:0	"Ever since 1889, Brazil has shown itself fragile to subv
  bra_naval_logistics_desc:0	"The sea is calling us, the time has come for a radical transformation to occur."
  bra_shared_naval_experience:0	"Shared Naval Experience"
  bra_shared_naval_experience_desc:0	"To dominate the Atlantic, we will have to share our experience with our allies."
- bra_shared_naval_experience_tt:0	"§Y[[~ROOT.GetNameDefCap~]]§! and its §Yallies with a fleet§! will gain:"
+ bra_shared_naval_experience_tt:0	"[~§Y~][[~ROOT.GetNameDefCap~]][~§!~] and its [~§Y~]allies with a fleet[~§!~] will gain:"
 
 
  bra_african_initiative:0	"African Diplomatic Initiative"
@@ -836,13 +836,13 @@ BRA_estado_novo_desc:0	"Ever since 1889, Brazil has shown itself fragile to subv
  vfb_trait_aranha:0	"Father of the UN"
  vfb_trait_afranio:0	"Continental Diplomat"
 
- BRA_invasion_cost:0	"§H50§!£pol_power §H30§!£command_power"
- BRA_invasion_cost_blocked:0	"§H50§!£pol_power  §R30§!£command_power"
- BRA_invasion_cost_tooltip:0	"It costs  §H50§!£pol_power and  30£command_power to select this."
- BRA_champions_of_democracy_tooltip:0	"§HGains war goal on any fascist nation in South America.§!"
+ BRA_invasion_cost:0	"[~§H~]50[~§!~]£pol_power [~§H~]30[~§!~]£command_power"
+ BRA_invasion_cost_blocked:0	"[~§H~]50[~§!~]£pol_power  [~§R~]30[~§!~]£command_power"
+ BRA_invasion_cost_tooltip:0	"It costs  [~§H~]50[~§!~]£pol_power and  30£command_power to select this."
+ BRA_champions_of_democracy_tooltip:0	"[~§H~]Gains war goal on any fascist nation in South America.[~§!~]"
 
 #threats
 bra_monarquia_focus_t:0	"Brazil seeks imperialist policy."
 
 #Politicians#
-POLITICS_DUTRA_DESC:0	"Eurico Gaspar Dutra was born in small town of Cuiaba of a province Mato Grosso. His interest in the army and immense will to serve led him to falsify documents to be recruited at the age of 19 and enter the Military Academy of "Praia Vermelha" in Rio de Janeiro, which he successfully ended at the age of 23.\n\nThe man's military career is known for its specification on the artillery, military engineering, and army tactics and his loyalty to the Brazilian Republic and its leadership by suppressing various revolts and uprisings in the countryside of the nation.\n\nHis rise in military up to colonel and later to the army's commander has led to him occupying the seat of Minister of War since 1936."
+POLITICS_DUTRA_DESC:0	"Eurico Gaspar Dutra was born in small town of Cuiaba of a province Mato Grosso. His interest in the army and immense will to serve led him to falsify documents to be recruited at the age of 19 and enter the Military Academy of "Praia Vermelha" in Rio de Janeiro, which he successfully ended at the age of 23.[~[~\n~][~\n~]~]The man's military career is known for its specification on the artillery, military engineering, and army tactics and his loyalty to the Brazilian Republic and its leadership by suppressing various revolts and uprisings in the countryside of the nation.[~[~\n~][~\n~]~]His rise in military up to colonel and later to the army's commander has led to him occupying the seat of Minister of War since 1936."

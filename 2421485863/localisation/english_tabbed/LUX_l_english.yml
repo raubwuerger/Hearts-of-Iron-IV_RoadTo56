@@ -3,7 +3,7 @@
 #Focues and related custom TT's
  LUX_foster_an_european_community:0	"Foster A European Community "
  LUX_foster_an_european_community_desc:0	"European Nations have a lot more in common with each other that they think. We have to use every inch of political muscle we have to foster a sense of community and collaboration to help Europe face the political challenges that lay ahead."
- #LUX_foster_an_european_community_TT:0	"(§YEvery Democratic European Nation§!) Gains §YIncrease in opinion§! (Opinion of §Y[[~LUX.GetFlag~]][[~LUX.GetName~]]§! §G+5§!.)"
+ #LUX_foster_an_european_community_TT:0	"([~§Y~]Every Democratic European Nation[~§!~]) Gains [~§Y~]Increase in opinion[~§!~] (Opinion of [~§Y~][[~LUX.GetFlag~]][[~LUX.GetName~]][~§!~] [~§G~]+5[~§!~].)"
  LUX_adjust_our_forign_policy:0	"Adjust our Foreign Policy"
  LUX_adjust_our_forign_policy_desc:0	"The political situation of our country has changed ten-fold since The London Conference. We cannot stand back and let our neighbors be the master of our fate. We need to be more proactive in global politics when it involves us."
  LUX_stand_agaisnt_authoritarianism:0	"Stand Against Authoritarianism"
@@ -54,7 +54,7 @@
  LUX_embrace_autarky_desc:0	"If we want to support our military to the best of our ability. Then our domestic industry needs to serve the state."
  LUX_german_alignment:0	"German Alignment"
  LUX_german_alignment_desc:0	"Germany is our true brother. We must align with them in a union for a bright future!"
- LUX_german_alignment_tt:0	"[[~LUX.GetLeader~]] will seek a §Ypersonal union with§! the [[~GER.Getname~]] that will involve our §Rsubjection§! to them."
+ LUX_german_alignment_tt:0	"[[~LUX.GetLeader~]] will seek a [~§Y~]personal union with[~§!~] the [[~GER.Getname~]] that will involve our [~§R~]subjection[~§!~] to them."
  LUX_our_own_destiny:0	"Our Own Destiny"
  LUX_our_own_destiny_desc:0	"We cannot not rely on others to forge our path. We must work on our own to make our future bright!"
  LUX_creative_military_solutions:0	"Creative Military Solutions"
@@ -67,7 +67,7 @@
  LUX_formalize_our_resistance_desc:0	"Our resistance groups may have differences, but we can unify them on one thing. Resisting our occupiers."
  LUX_evacuate_the_treasury:0	"Evacuate the Treasury"
  LUX_evacuate_the_treasury_desc:0	"Moving our treasury underground and out of the country will help us fund resistance efforts."
- LUX_politcal_safe_heaven_tt:0	"For each §YNeighboring Country§! that is not Communist gain: Political Power: §G+10§!. and Change in popularity of Communism: §G1.00%§!."
+ LUX_politcal_safe_heaven_tt:0	"For each [~§Y~]Neighboring Country[~§!~] that is not Communist gain: Political Power: [~§G~]+10[~§!~]. and Change in popularity of Communism: [~§G~]1.00%[~§!~]."
  LUX_assert_ourselves:0	"Assert Ourselves"
  LUX_assert_ourselves_desc:0	"We are no longer a small power, but a strong nation! With the military might to prove it!"
 
@@ -185,7 +185,7 @@
  luxembourg.110.d:0	"[[~GER.Getname~]] has rejected our offer of a personal union with our government.  [[~LUX.Getleader~]]'s have returned from Berlin this morning with the terrible news. With this deal shatter who knows how we should continue relations with the [[~GER.Getname~]]"
  luxembourg.110.a:0	"Damn them"
  luxembourg.111.t:0	"[[~LUX.Getname~]] enters personal union with [[~GER.Getname~]]."
- luxembourg.111.d:0	"\nThis morning representatives from [[~LUX.Getleader~]]'s government made their way to [[~GER.Capital.Getname~]] on what was expected to be an uneventfully diplomatic submit. Though this visit was met with surprise with many countries around Europe when [[~LUX.Getleader~]]'s representative proposed a personal union agreement with the [[~GER.Getname~]]. \n\nAfter a few hours of going through the details of what the final agreement would look like both sides signed the treaty. This agreement effectively puts Luxemburg under German subjection."
+ luxembourg.111.d:0	"[~\n~]This morning representatives from [[~LUX.Getleader~]]'s government made their way to [[~GER.Capital.Getname~]] on what was expected to be an uneventfully diplomatic submit. Though this visit was met with surprise with many countries around Europe when [[~LUX.Getleader~]]'s representative proposed a personal union agreement with the [[~GER.Getname~]]. [~[~\n~][~\n~]~]After a few hours of going through the details of what the final agreement would look like both sides signed the treaty. This agreement effectively puts Luxemburg under German subjection."
  luxembourg.111.a:0	"This spell trouble"
 
 
@@ -290,7 +290,7 @@
  LUX_radioluxembourg:0	"Radio Luxembourg"
  LUX_radioluxembourg_desc:0	"Radio Luxembourg, based in our great city, allows broadcasters to reach audiences all across Europe, and break the monopoly of the British Broadcasting Company, bringing commercial radio back to the UK and Ireland."
  LUX_feierwon:0	"Feierwon"
- LUX_feierwon_desc:0	"'Come here from France, Belgium, Prussia,\nwe want to show you our fatherland\nask in all directions,\nWe want to remain what we are.'"
+ LUX_feierwon_desc:0	"'Come here from France, Belgium, Prussia,[~\n~]we want to show you our fatherland[~\n~]ask in all directions,[~\n~]We want to remain what we are.'"
  LUX_realism:0	"Realism"
  LUX_realism_desc:0	"While her spirit is strong, Luxembourg cannot afford to take an aggressive stance in war. We shall advance with great consideration for our people and our neutrality."
  LUX_idealism:0	"Idealism"

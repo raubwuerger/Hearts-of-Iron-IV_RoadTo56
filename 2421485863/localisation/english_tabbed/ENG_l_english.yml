@@ -207,16 +207,16 @@
   englandmod.99.a:0	"Understood."
 
   britain.25.t:0	"The [[~ENG.GetName~]] proposes an alliance"
-  britain.25.d:0	"With growing tensions around the globe and the world becoming a more dangerous place, the [[~ENG.GetAdjective~]] and the [[~FRA.GetAdjective~]] are the few remaining bastions of democracy in Europe, now [[~ENG.GetNameDef~]] has proposed an alliance between our two nations.\n\nHow should we reply?"
+  britain.25.d:0	"With growing tensions around the globe and the world becoming a more dangerous place, the [[~ENG.GetAdjective~]] and the [[~FRA.GetAdjective~]] are the few remaining bastions of democracy in Europe, now [[~ENG.GetNameDef~]] has proposed an alliance between our two nations.[~[~\n~][~\n~]~]How should we reply?"
   britain.25.a:0	"United we stand."
   britain.25.b:0	"We don't need the [[~ENG.GetAdjective~]]."
 
   britain.26.t:0	"The [[~FRA.GetName~]] accepts our alliance"
-  britain.26.d:0	"'History has shown how much can be accomplished when our great nations stand side by side. In the spirit of the Entente Cordiale, we are proud to welcome you not only as friends, but as Allies. Together we will be a shining beacon of liberty in a world encroached by the darkness of oppression!'\n\nOur request to join the [[~FRA.GetAdjective~]] has been accepted. We can count their full support in the turbulent times ahead."
+  britain.26.d:0	"'History has shown how much can be accomplished when our great nations stand side by side. In the spirit of the Entente Cordiale, we are proud to welcome you not only as friends, but as Allies. Together we will be a shining beacon of liberty in a world encroached by the darkness of oppression!'[~[~\n~][~\n~]~]Our request to join the [[~FRA.GetAdjective~]] has been accepted. We can count their full support in the turbulent times ahead."
   britain.26.a:0	"Together we will hold the line!"
 
   britain.27.t:0	"The [[~FRA.GetName~]] refuses our alliance."
-  britain.27.d:0	"'While we have enjoyed good relations in the past, we cannot risk an escalation between us and the Germans on our border, should we find ourselves thrown into another conflict it will ensue another devastating war we can ill-afford. Peace must always be the goal of any democratic nation.'\n\nOur request to join the [[~FRA.GetAdjective~]] has been denied. The [[~FRA.GetAdjective~]] government is unwilling to to antagonize [[~GER.GetNonIdeologyName~]] further, and will not jeopardize the current peace."
+  britain.27.d:0	"'While we have enjoyed good relations in the past, we cannot risk an escalation between us and the Germans on our border, should we find ourselves thrown into another conflict it will ensue another devastating war we can ill-afford. Peace must always be the goal of any democratic nation.'[~[~\n~][~\n~]~]Our request to join the [[~FRA.GetAdjective~]] has been denied. The [[~FRA.GetAdjective~]] government is unwilling to to antagonize [[~GER.GetNonIdeologyName~]] further, and will not jeopardize the current peace."
   britain.27.a:0	"Their 'peace' is just another word for 'surrender'."
 
   britain.28.t:0	"[[~ENG.GetNameDefCap~]] seeks diplomatic reconciliation"
@@ -243,8 +243,8 @@
   ENG_order_fighters_in_USA:0	"Order Fighters"
   ENG_order_bombers_in_USA:0	"Order Bombers"
 
-  var_ENG_count_blackshirt_marches:0	"Number of organized §YBlackshirt Marches§!"
- ENG_harold_harmsworth_tt:0	"Number of organized §YBlackshirt Marches§! > §Y4§!"
+  var_ENG_count_blackshirt_marches:0	"Number of organized [~§Y~]Blackshirt Marches[~§!~]"
+ ENG_harold_harmsworth_tt:0	"Number of organized [~§Y~]Blackshirt Marches[~§!~] > [~§Y~]4[~§!~]"
 
  ENG_embrace_royal_german_heritage:0	"Embrace Royal [[~GER.GetAdjective~]] Heritage"
  ENG_embrace_royal_german_heritage_desc:0	"For too long have we rejected our royal roots to [[~GER.GetNameDef~]], it is now time we drop the mask and return to the original and only real name of our royal house."
@@ -275,8 +275,8 @@
 
   #Misc
   british_alternate_focus:0	"British Empire Focus Tree"
-  british_alternate_focus_tt:0	"§RAnother focus tree will load after this focus is completed containing all the Road to 56 fascist focuses. There's no going back! Choose wisely.§!"
-  ENG_anti_communist_commanders_exile_tt:0	"§RAristocratic Commanders will disappear or go in exile.§!"
+  british_alternate_focus_tt:0	"[~§R~]Another focus tree will load after this focus is completed containing all the Road to 56 fascist focuses. There's no going back! Choose wisely.[~§!~]"
+  ENG_anti_communist_commanders_exile_tt:0	"[~§R~]Aristocratic Commanders will disappear or go in exile.[~§!~]"
   revolutionary_scientific_congress_name:0	"Revolutionary Scientific Congress"
 
 
@@ -382,7 +382,7 @@
   r56_eng.6.b:0	"Restore the [[~NFL.getAdjective~]] Dominion"
 
   r56_eng.10.t:0	"Gilbert Stephenson"
-  r56_eng.10.d:0	"When Gilbert Stephenson was retired (as a Rear Admiral) from the Royal Navy in 1929, he was one of their foremost experts in anti-submarine warfare. When war broke out again, he was called back to service. Despite his years (he was born in 1878), he remained fit, healthy and energetic, and had the capacity to apply his incisive mind to whatever the Admiralty saw fit to assign him to.\n\nHistorically, his key contribution was running the escort working-up facility at Tobermory (Tobermory Bay is pictured below with Stephenson), where he and his team put 911 ships through 1,132 training courses. He also played a role coordinating the evacuation of Dunkirk in 1940, as well as performed as a Commodore on a number of convoys very early in the war.\n\nTobermory under Stephenson's guidance played an important part in the Battle of the Atlantic, getting escorts out to sea quickly and with effective training. Stephenson's innovative but challenging techniques influenced the Royal Navy's post-war working-up procedures, while also earning him the nickname 'The Terror of Tobermory'."
+  r56_eng.10.d:0	"When Gilbert Stephenson was retired (as a Rear Admiral) from the Royal Navy in 1929, he was one of their foremost experts in anti-submarine warfare. When war broke out again, he was called back to service. Despite his years (he was born in 1878), he remained fit, healthy and energetic, and had the capacity to apply his incisive mind to whatever the Admiralty saw fit to assign him to.[~[~\n~][~\n~]~]Historically, his key contribution was running the escort working-up facility at Tobermory (Tobermory Bay is pictured below with Stephenson), where he and his team put 911 ships through 1,132 training courses. He also played a role coordinating the evacuation of Dunkirk in 1940, as well as performed as a Commodore on a number of convoys very early in the war.[~[~\n~][~\n~]~]Tobermory under Stephenson's guidance played an important part in the Battle of the Atlantic, getting escorts out to sea quickly and with effective training. Stephenson's innovative but challenging techniques influenced the Royal Navy's post-war working-up procedures, while also earning him the nickname 'The Terror of Tobermory'."
   r56_eng.10.a:0	"Get Stephenson to set up Tobermory"
   r56_eng.10.b:0	"Give Stephenson a command at sea"
 

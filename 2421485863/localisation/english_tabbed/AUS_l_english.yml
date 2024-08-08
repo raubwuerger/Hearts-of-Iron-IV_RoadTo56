@@ -31,24 +31,24 @@
  AST_prince_henry:0	"Prince Henry, Duke of Gloucester"
 
  #POLITICS
- AUS_fascism_ideology_desc:0	"§YAustrofascism§! is the authoritarian system installed in Austria with the May Constitution of 1934. It is based on a ruling party, the §YFatherland Front§! (Vaterländische Front) and the §YHeimwehr§! (Home Guard) paramilitary militia, and espouses §Hstate Catholicism§!, §gcorporatism§!, and §BAustrian nationalism§!."
+ AUS_fascism_ideology_desc:0	"[~§Y~]Austrofascism[~§!~] is the authoritarian system installed in Austria with the May Constitution of 1934. It is based on a ruling party, the [~§Y~]Fatherland Front[~§!~] (Vaterländische Front) and the [~§Y~]Heimwehr[~§!~] (Home Guard) paramilitary militia, and espouses [~§H~]state Catholicism[~§!~], [~§g~]corporatism[~§!~], and [~§B~]Austrian nationalism[~§!~]."
 
  #FOCUS
  AUS_subsidize_STRABAG_construction:0	"Subsidize STRABAG Construction"
  AUS_subsidize_STRABAG_construction_desc:0	"No matter how many resources we apply, [[~AUS.GetNameDef~]] can only produce new military installations so quickly. We must secure more industrial assets, such as STRABAG SE's. Their assistance will be invaluable in keeping us ahead in industrial matters."
- AUS_subsidize_STRABAG_construction_tt:0	"Unlocks STRABAG Construction Industrial Concern\n"
+ AUS_subsidize_STRABAG_construction_tt:0	"Unlocks STRABAG Construction Industrial Concern[~\n~]"
 
  AUS_fortify_the_austrian_alps:0	"Fortify the Austrian Alps"
  AUS_fortify_the_austrian_alps_desc:0	"The Austrian Alps represent an indispensable natural barrier. We can render our territories practically impregnable if we put effort into ensuring that they are adequately fortified."
- AUS_fortify_the_austrian_alps_tt:0	"Add §Y14 Land Forts§! along the Austrian Central Alps."
+ AUS_fortify_the_austrian_alps_tt:0	"Add [~§Y~]14 Land Forts[~§!~] along the Austrian Central Alps."
 
  AUS_fortify_the_danube_and_drava_rivers:0	"Fortify the Danube and Drava Rivers"
  AUS_fortify_the_danube_and_drava_rivers_desc:0	"The Danube and the Drava have long been economic boons to Austria, but our interest is not only financial. They are tough to cross - more so if we fortify them against enemy incursion."
- AUS_fortify_the_danube_and_drava_rivers_tt:0	"Add §Y18 Land Forts§! along the Austrian Danube and Drava rivers."
+ AUS_fortify_the_danube_and_drava_rivers_tt:0	"Add [~§Y~]18 Land Forts[~§!~] along the Austrian Danube and Drava rivers."
 
  AUS_defend_our_new_borders:0	"Defend Our New Borders"
  AUS_defend_our_new_borders_desc:0	"Now that we have occupied the mountainous [[~SWI.GetAdjective~]] terrain, their borders are our borders. We should ensure that none of the larger nations will come through here."
- AUS_defend_our_new_borders_tt:0	"Add §Y28 Land Forts§! along the [[~FRA.GetAdjective~]], [[~GER.GetAdjective~]], and [[~ITA.GetAdjective~]] border with Switzerland."
+ AUS_defend_our_new_borders_tt:0	"Add [~§Y~]28 Land Forts[~§!~] along the [[~FRA.GetAdjective~]], [[~GER.GetAdjective~]], and [[~ITA.GetAdjective~]] border with Switzerland."
 
  AUS_open_the_mittersill_mine:0	"Open the Mittersill Tungsten Mine"
  AUS_open_the_mittersill_mine_desc:0	"There is precious little tungsten to be had in the world - and we are sitting directly atop a massive reserve of it. Our industrial consultants have surveyed samples from Mittersill and advised us to begin excavations there."
@@ -61,38 +61,38 @@
 
  AUS_extend_the_grossglockner_highway:0	"Extend the Grossglockner Highway"
  AUS_extend_the_grossglockner_highway_desc:0	"The Grossglockner Highway is a scenic route through the Austrian mountains, from Salzburg in the north to Carinthia in the south. It is an excellent feat of engineering, but we can improve on it by extending its route throughout Austria."
- AUS_extend_the_grossglockner_highway_tt:0	"Add §YMaximum Infrastructure§! in §YTyrol§!, §YUpper Austria§! and §YLower Austria§!."
+ AUS_extend_the_grossglockner_highway_tt:0	"Add [~§Y~]Maximum Infrastructure[~§!~] in [~§Y~]Tyrol[~§!~], [~§Y~]Upper Austria[~§!~] and [~§Y~]Lower Austria[~§!~]."
 
  AUS_hungarian_railways_and_roads_project:0	"Hungarian Railways and Roads Project"
  AUS_hungarian_railways_and_roads_project_desc:0	"The Hungarian transport system used to be the responsibility of the Austrian government before the separation of our states. Now that we are rejoined, it is up to us to bring their infrastructure up to snuff."
- AUS_hungarian_railways_and_roads_project_tt:0	"Add §YMaximum Infrastructure§! in §YTransdanubia§!, §YNorthern Hungary§! and §YAlföld§!."
+ AUS_hungarian_railways_and_roads_project_tt:0	"Add [~§Y~]Maximum Infrastructure[~§!~] in [~§Y~]Transdanubia[~§!~], [~§Y~]Northern Hungary[~§!~] and [~§Y~]Alföld[~§!~]."
 
  AUS_construct_papa_air_base:0	"Construct Pápa Air Base"
  AUS_construct_papa_air_base_desc:0	"The Pápa Air Base has been under production since 1936, and with [[~AUS.GetAdjective~]] intervention, it can be at last completed. More air capacity would be invaluable for our war efforts."
 
 AUS_industrialise_the_great_hungarian_plains:0	"Industrialize the Great Hungarian Plains"
 AUS_industrialise_the_great_hungarian_plains_desc:0	"Hungary has great swathes of land that is entirely usable for industrial purposes and is unneeded for any other purpose. The fact that this has not been exploited yet is a travesty in itself. We will develop this land to contribute to our efforts."
-AUS_industrialise_the_great_hungarian_plains_tt:0	"Controlling §YVojvodina§!, §YWest Banat§!, §YBanat§!, §YCrisana§!, §YTransylvania§!, and/or §YNorth Transylvania§! will extend the industrialization to those states as well."
+AUS_industrialise_the_great_hungarian_plains_tt:0	"Controlling [~§Y~]Vojvodina[~§!~], [~§Y~]West Banat[~§!~], [~§Y~]Banat[~§!~], [~§Y~]Crisana[~§!~], [~§Y~]Transylvania[~§!~], and/or [~§Y~]North Transylvania[~§!~] will extend the industrialization to those states as well."
 
 AUS_fortify_the_hungarian_danube:0	"Fortify the Hungarian Danube"
 AUS_fortify_the_hungarian_danube_desc:0	"The Danube is a vital part of Hungary's defensive potential as well. We will continue our fortification efforts here."
-AUS_fortify_the_hungarian_danube_tt:0	"Add §Y20 Land Forts§! along the Transdanubian Border"
+AUS_fortify_the_hungarian_danube_tt:0	"Add [~§Y~]20 Land Forts[~§!~] along the Transdanubian Border"
 
 AUS_secure_the_two_cities:0	"Secure the Two Cities"
 AUS_secure_the_two_cities_desc:0	"The twin imperial cities of Budapest and Vienna have a shared history that predates many of the great cities of the modern day. Now that we have secured both of them, it is intended that neither of them falls out of [[~AUS.GetAdjective~]] hands again."
-AUS_secure_the_two_cities_tt:0	"Add §Y3 Land Forts§! in Vienna and Budapest."
+AUS_secure_the_two_cities_tt:0	"Add [~§Y~]3 Land Forts[~§!~] in Vienna and Budapest."
 
 AUS_transylvanian_highways_project:0	"Transylvanian Highways Project"
 AUS_transylvanian_highways_project_desc:0	"Transylvania has always been Austro-Hungarian, and the rule of [[~ROM.GetNameDef~]] in recent years has left it sadly underdeveloped, to the point of being undeserving of our association. Nonetheless, it is our land, and we will take care of it."
-AUS_transylvanian_highways_project_tt:0	"Add §Y3 Infrastructure§! in the Transylvanian Region."
+AUS_transylvanian_highways_project_tt:0	"Add [~§Y~]3 Infrastructure[~§!~] in the Transylvanian Region."
 
 AUS_road_to_the_black_sea:0	"Road to the Black Sea"
 AUS_road_to_the_black_sea_desc:0	"The Black Sea has always been a historically significant body of water, not least because it represents [[~SOV.GetAdjective~]] access to the Mediterranean. We must secure our place in its waters - but first, we must ensure that we can reach those waters quickly."
-AUS_road_to_the_black_sea_tt:0	"Add §Y3 Infrastructure§! in the Romanian Region."
+AUS_road_to_the_black_sea_tt:0	"Add [~§Y~]3 Infrastructure[~§!~] in the Romanian Region."
 
 AUS_the_carpathian_line:0	"The Carpathian Line"
 AUS_the_carpathian_line_desc:0	"Carpathian Ruthenia is a land integral to Hungarian history, and our brothers in imperial union hold it as dear to their hearts as we do. We will defend it to the last drop of [[~AUS.GetAdjective~]] blood - but it doesn't need to come to that if we fortify it."
-AUS_the_carpathian_line_tt:0	"Extends the fortification line to §YCarpathian Ruthenia§! and §YOltenia§! if you control them."
+AUS_the_carpathian_line_tt:0	"Extends the fortification line to [~§Y~]Carpathian Ruthenia[~§!~] and [~§Y~]Oltenia[~§!~] if you control them."
 
 AUS_expand_the_constanta_shipyards:0	"Expand the Constanta Shipyards"
 AUS_expand_the_constanta_shipyards_desc:0	"The Constanta Shipyard is the largest in Romania. Her industrial capacity is unrivaled throughout our territory; the opportunity she presents now that we control her is too valuable to pass up. We can develop her even further if we wish."
@@ -102,18 +102,18 @@ AUS_cacova_ierii_iron_mine_desc:0	"The iron reserves of Romania are not as signi
 
 AUS_the_prut_line:0	"The Prut Line"
 AUS_the_prut_line_desc:0	"The River Prut is our natural line of defense against [[~SOV.GetNameDef~]]. It is sensible and utterly necessary to fortify and secure it against foreign incursion."
-AUS_the_prut_line_tt:0	"Add §Y2 Land Forts§! per owned province of the Prut River."
+AUS_the_prut_line_tt:0	"Add [~§Y~]2 Land Forts[~§!~] per owned province of the Prut River."
 
 AUS_black_sea_wall:0	"Black Sea Wall"
 AUS_black_sea_wall_desc:0	"In the case of war with any of the Black Sea or Mediterranean powers, we would do well to prevent landings on our territory as comprehensively as possible. A few fortifications and a light garrison should see off most threats."
-AUS_black_sea_wall_tt:0	"Will add §Y2 Coastal Forts§! on the coast in §YOdessa§!, §YDobrudja§! or §YBurgas§! if you own them."
+AUS_black_sea_wall_tt:0	"Will add [~§Y~]2 Coastal Forts[~§!~] on the coast in [~§Y~]Odessa[~§!~], [~§Y~]Dobrudja[~§!~] or [~§Y~]Burgas[~§!~] if you own them."
 
 AUS_dubova_chromium_mine:0	"Dubova Chromium Mine"
 AUS_dubova_chromium_mine_desc:0	"The earth of Dubova has been surveyed and found to contain viable amounts of Chromium. We would be fools to pass this up, especially considering the road to the Black Sea that Romania itself represents."
 
 AUS_balkan_highways_project:0	"Balkan Highways Project"
 AUS_balkan_highways_project_desc:0	"[[~YUG.GetNameDefCap~]] has done a poor job of providing for itself. As we now own their land, let us try to repair some of the mistakes they've made."
-AUS_balkan_highways_project_tt:0	"Add §Y1 Infrastructure§! in §YSlovenia§!, §YCroatia§! and §YBosnia§!, owning §YDalmatia§!, §YVojvodina§!, §YSerbia§!, §YMontenegro§!, §YMorava§! or §YMacedonia§! will extend construction."
+AUS_balkan_highways_project_tt:0	"Add [~§Y~]1 Infrastructure[~§!~] in [~§Y~]Slovenia[~§!~], [~§Y~]Croatia[~§!~] and [~§Y~]Bosnia[~§!~], owning [~§Y~]Dalmatia[~§!~], [~§Y~]Vojvodina[~§!~], [~§Y~]Serbia[~§!~], [~§Y~]Montenegro[~§!~], [~§Y~]Morava[~§!~] or [~§Y~]Macedonia[~§!~] will extend construction."
 
 AUS_exploit_the_romanian_oil_fields:0	"Exploit the Romanian Oil Fields"
 AUS_exploit_the_romanian_oil_fields_desc:0	"Romania has vast quantities of oil relative to the regions surrounding it. The reserves may be significant, but the extraction process is thus far inefficient. There are measures we can take to increase yield."
@@ -126,40 +126,40 @@ AUS_the_sarajevo_plan_desc:0	"The land of former Bosnia could have been develope
 
 AUS_the_south_dinaric_line:0	"The South Dinaric Line"
 AUS_the_south_dinaric_line_desc:0	"Our enemies to the south are hardly threatening, but we are surrounded by enemies in many other directions who will require a significant number of our resources to handle. The more we fortify our southern border, the less we need to defend it."
-AUS_the_south_dinaric_line_tt:0	"Add §Y18 Land Forts§! along the [[~ALB.GetAdjective~]] and [[~GRE.GetAdjective~]] border."
+AUS_the_south_dinaric_line_tt:0	"Add [~§Y~]18 Land Forts[~§!~] along the [[~ALB.GetAdjective~]] and [[~GRE.GetAdjective~]] border."
 
 AUS_the_adriatic_wall:0	"The Adriatic Sea Wall"
 AUS_the_adriatic_wall_desc:0	"Across the Adriatic lies perhaps our greatest potential threat in the south - [[~ITA.GetNameDef~]]. [[~ITA.GetLeader~]] claims to want to rebuild the Roman Empire, but we cannot let them threaten ours in the process."
-AUS_the_adriatic_wall_tt:0	"Add §Y14 Coastal Forts§! in §YDalmatia§!, owning §YMontenegro§!, §YIstria§! or §YZara§! will extend the fortifications."
+AUS_the_adriatic_wall_tt:0	"Add [~§Y~]14 Coastal Forts[~§!~] in [~§Y~]Dalmatia[~§!~], owning [~§Y~]Montenegro[~§!~], [~§Y~]Istria[~§!~] or [~§Y~]Zara[~§!~] will extend the fortifications."
 
 AUS_the_belgrade_plan:0	"The Belgrade Plan"
 AUS_the_belgrade_plan_desc:0	"Serbia no longer has control of their lands since the events of the Great War handed control of their industry to the management of [[~YUG.GetNameDef~]]. Now that this is no longer the case, we should develop their industry as we would have it developed."
 
 AUS_extend_the_lines:0	"Extend the Lines"
 AUS_extend_the_lines_desc:0	"As our territory expands, we must defend what we have taken. Our control over the Dinaric range and the Adriatic coast has extended, so we must raise our fortification lines."
-AUS_extend_the_lines_tt:0	"Add §Y10 Coastal Forts§! and §Y6 Land Forts§! in §YAlbania§!, owning §YSofia§! will extend the fortifications."
+AUS_extend_the_lines_tt:0	"Add [~§Y~]10 Coastal Forts[~§!~] and [~§Y~]6 Land Forts[~§!~] in [~§Y~]Albania[~§!~], owning [~§Y~]Sofia[~§!~] will extend the fortifications."
 
 AUS_slovakian_roads_and_railways:0	"Slovakian Roads and Railways"
 AUS_slovakian_roads_and_railways_desc:0	"The Slovakian region has an underdeveloped transport system; any troops in that area cannot afford to be bogged down in transit. We must repair and renovate their infrastructure."
-AUS_slovakian_roads_and_railways_tt:0	"Add §Y1 Infrastructure§! to Slovakian Regions and Carpatho-Ukraine."
+AUS_slovakian_roads_and_railways_tt:0	"Add [~§Y~]1 Infrastructure[~§!~] to Slovakian Regions and Carpatho-Ukraine."
 
 AUS_expand_czech_industry:0	"Expand Czech Industry"
 AUS_expand_czech_industry_desc:0	"The [[~CZE.GetAdjective~]] government has neglected their population, refusing to create factories and, therefore, employment where it is entirely possible. We can and must take action to correct this."
 
 AUS_the_slovakian_line:0	"The Slovakian Line"
 AUS_the_slovakian_line_desc:0	"[[~POL.GetNameDefCap~]] has displayed interest in the Slovakian region before occupying the land to the immediate north. Fortifications are a must to secure this border from potentially dangerous incursion."
-AUS_the_slovakian_line_tt:0	"Add §Y20 Land Forts§! along the Slovak/[[~POL.GetAdjective~]] border."
+AUS_the_slovakian_line_tt:0	"Add [~§Y~]20 Land Forts[~§!~] along the Slovak/[[~POL.GetAdjective~]] border."
 
 AUS_industrialise_northern_slovakia:0	"Industrialize Slovakia"
 AUS_industrialise_northern_slovakia_desc:0	"Slovakia is ripe with industrial potential that has as of yet remained untapped. We will take steps to modernize and industrialize the land."
 
 AUS_fortify_the_sudeten_land:0	"Fortify the Sudetenland"
 AUS_fortify_the_sudeten_land_desc:0	"The Sudetenland is the border with [[~GER.GetNameDef~]] and, therefore, potentially dangerous ground. There are gaps in the fortifications already constructed there that we can take steps to fill."
-AUS_fortify_the_sudeten_land_tt:0	"Add §Y22 Land Forts§! in §YSudetenland§!."
+AUS_fortify_the_sudeten_land_tt:0	"Add [~§Y~]22 Land Forts[~§!~] in [~§Y~]Sudetenland[~§!~]."
 
 AUS_subsidize_kapsch:0	"Subsidize Kapsch"
 AUS_subsidize_kapsch_desc:0	"Kapsch has a distinguished history of profitable electronics and fine engineering contracts with the Austrian government. We should reward the patriotism and loyalty of such a company by being sure to renew their contracts."
-AUS_subsidize_kapsch_tt:0	"Unlocks Kapsch Industrial Concern\n"
+AUS_subsidize_kapsch_tt:0	"Unlocks Kapsch Industrial Concern[~\n~]"
 
 AUS_fund_the_vienna_college_of_technology:0	"Fund the Vienna College of Technology"
 AUS_fund_the_vienna_college_of_technology_desc:0	"The Vienna College of Technology has been instrumental in keeping us abreast of other nations' technological progress for over a hundred years, helping our finest minds make the best of themselves. In these dark times, their assistance will be vital."
@@ -189,15 +189,15 @@ AUS_soviet_aeronautic_cooperation_desc:0	"[[~SOV.GetNameDefCap~]] is always look
 
 AUS_innsbruck_airbase_project:0	"Innsbruck Airbase Project"
 AUS_innsbruck_airbase_project_desc:0	"Innsbruck Airport is placed in a large valley, ideal for launching warplanes and civilian aircraft. Converting it to a military aerodrome will make it more suitable for our needs."
-AUS_innsbruck_airbase_project_tt:0	"Add §Y2 Land Forts§! on Innsbruck."
+AUS_innsbruck_airbase_project_tt:0	"Add [~§Y~]2 Land Forts[~§!~] on Innsbruck."
 
 AUS_protect_our_skies:0	"Protect Our Skies"
 AUS_protect_our_skies_desc:0	"Flight used to be a novelty, but planes have changed, and so too has aeronautical warfare. We cannot ignore threats from the skies - and we must make preparations accordingly."
-AUS_protect_our_skies_tt:0	"Add §Y2 Anti-Air§! to all controlled territories of Austria-Hungary proper."
+AUS_protect_our_skies_tt:0	"Add [~§Y~]2 Anti-Air[~§!~] to all controlled territories of Austria-Hungary proper."
 
 AUS_fortify_our_airfields:0	"Fortify Our Airfields"
 AUS_fortify_our_airfields_desc:0	"None of our airbases lie very far inside our borders, and we cannot rule out the possibility of a targeted strike capturing one or the other. Fortifying them both will lessen the risk of this."
-AUS_fortify_our_airfields_tt:0	"Add §Y2 Land Forts§! on Austrian airfields."
+AUS_fortify_our_airfields_tt:0	"Add [~§Y~]2 Land Forts[~§!~] on Austrian airfields."
 
 AUS_investigate_jet_technology:0	"Investigate Jet Technology"
 AUS_investigate_jet_technology_desc:0	"There has been word from our engineering department of a new, theoretical jet-turbine engine that can produce planes flying faster, higher, and further than ever before. If anything we can look into can create a tactical edge, we will take it."
@@ -224,7 +224,7 @@ AUS_rijeka_naval_academy_desc:0	"Rijeka is one of the largest port cities in the
 
 AUS_trieste_shipyards:0	"Trieste Shipyards"
 AUS_trieste_shipyards_desc:0	"Trieste is a town with an existing shipyard industry that we should subsidize and exploit. This will ensure our dominance in the Mediterranean."
-AUS_trieste_shipyards_tt:0	"Allows for the hiring of Trieste Shipyards Ship Designer.\n"
+AUS_trieste_shipyards_tt:0	"Allows for the hiring of Trieste Shipyards Ship Designer.[~\n~]"
 
 AUS_expand_cattaro_harbour:0	"Expand Cattaro Harbour"
 AUS_expand_cattaro_harbour_desc:0	"Cattaro is an inland bay, a sheltered place where a naval group might be safely housed. It's a natural security asset, and we should treat it as such. Our next expansion will be here."
@@ -298,7 +298,7 @@ AUS_defence_of_the_homeland_desc:0	"As a nation, we have no interest in allowing
 
 AUS_the_austrian_compromise:0	"The [[~AUS.GetAdjective~]] Compromise"
 AUS_the_austrian_compromise_desc:0	"[[~GER.GetLeader~]] has been making efforts for his people and been espousing the concept of an 'Anschluss' between [[~AUS.GetNameDef~]] and [[~GER.GetNameDef~]]. We have no interest in losing autonomy, but perhaps a promise of support in the next war will suffice."
-AUS_the_austrian_compromise_tt:0	"If [[~GER.GetNameDef~]] accepts, the §YAnschluss of Austria§! will be bypassed, but [[~AUS.GetNameDef~]] will enter the §YAxis§!.\n"
+AUS_the_austrian_compromise_tt:0	"If [[~GER.GetNameDef~]] accepts, the [~§Y~]Anschluss of Austria[~§!~] will be bypassed, but [[~AUS.GetNameDef~]] will enter the [~§Y~]Axis[~§!~].[~\n~]"
 
 AUS_past_glories:0	"Past Glories"
 AUS_past_glories_desc:0	"The Austro-Hungarian union was once one of the most tremendous forces in the European sphere of influence. However, we were cruelly cut down by the Treaty of Saint-Germain in our prime. We must find the strength as a nation to reclaim what has been taken."
@@ -314,18 +314,18 @@ AUS_the_old_empire_desc:0	"The Austro-Hungarian Union was the most tremendous po
 
 AUS_pressure_for_transylvania:0	"Pressure for Transylvania"
 AUS_pressure_for_transylvania_desc:0	"[[~ROM.GetNameDefCap~]] has long possessed states that simply do not belong to them. The Transylvanian region has been part of Austria-Hungary for longer than remembrance, and we will take it from [[~ROM.GetNameDef~]] if we must, no matter the price."
-AUS_pressure_for_transylvania_tt:0	"§RMay lead to war with [[~ROM.GetNameDef~]].§!\n"
+AUS_pressure_for_transylvania_tt:0	"[~§R~]May lead to war with [[~ROM.GetNameDef~]].[~§!~][~\n~]"
 
 AUS_the_romanian_obstacle:0	"The [[~ROM.GetAdjective~]] Obstacle"
 AUS_the_romanian_obstacle_desc:0	"We have lands that once were ours, but the continued existence of [[~ROM.GetNameDef~]] is an insult to our people. We will annex them by force and forge a path to the Black Sea."
 
 AUS_pressure_for_slovenia:0	"Pressure for Slovenia"
 AUS_pressure_for_slovenia_desc:0	"Since the dissolving of Venice as a state, Slovenia has been ours, and the Slovenes have always wanted to be part of the Germanic people. They are separated from us by time, but we shall prove to the world that any difference can be reconciled."
-AUS_pressure_for_slovenia_tt:0	"§RMay lead to war with [[~YUG.GetNameDef~]].§!\n"
+AUS_pressure_for_slovenia_tt:0	"[~§R~]May lead to war with [[~YUG.GetNameDef~]].[~§!~][~\n~]"
 
 AUS_the_balkan_territories:0	"The Balkan Territories"
 AUS_the_balkan_territories_desc:0	"[[~YUG.GetNameDefCap~]] is a false and weak state that we should divide amongst its rightful owners. Serbia has wrongfully annexed a significant part of our holdings, and we shall undo that by force if we must."
-AUS_the_balkan_territories_tt:0	"§RMay lead to war with [[~YUG.GetNameDef~]].§!\n"
+AUS_the_balkan_territories_tt:0	"[~§R~]May lead to war with [[~YUG.GetNameDef~]].[~§!~][~\n~]"
 
 AUS_restore_the_liechtenstein_potectorate:0	"Restore the [[~LIE.GetNonIdeologyName~]] Puppet"
 AUS_restore_the_liechtenstein_potectorate_desc:0	"[[~LIE.GetNameDefCap~]] has historically always been within our sphere of influence, but this was ripped from us after the Great War. It is now time to restore our former infuelnce and prestige over the micronation."
@@ -356,7 +356,7 @@ AUS_traitors_of_the_great_war_desc:0	"[[~ITA.GetNameDefCap~]] purports to rebuil
 
 AUS_our_fate_is_our_own:0	"Our Fate is Our Own"
 AUS_our_fate_is_our_own_desc:0	"[[~GER.GetLeader~]]'s [[~GER.GetName~]] is very keen to grow its power and is making unveiled overtures at peacefully annexing our lands into their own. We have no interest in allowing them so easy a time. We will preserve our nation to the last drop of fighting blood!"
-AUS_our_fate_is_our_own_tt:0	"§RMay lead to war with [[~GER.GetNameDef~]]§!.\n"
+AUS_our_fate_is_our_own_tt:0	"[~§R~]May lead to war with [[~GER.GetNameDef~]][~§!~].[~\n~]"
 
 AUS_our_old_allies:0	"Our Old Allies"
 AUS_our_old_allies_desc:0	"Bulgaria fought alongside us in the Great War and proved a competent and valuable ally. They will have the opportunity to peacefully join our new union, but we have no intention of playing favorites in our return to power."
@@ -372,11 +372,11 @@ AUS_the_ottoman_menace_desc:0	"The Turks might have lost much after the Great Wa
 
 AUS_friends_beneath_the_bear:0	"Friends Beneath the Bear"
 AUS_friends_beneath_the_bear_desc:0	"The [[~SOV.GetAdjective~]]s were thorough in their purging of imperialist and fascist elements, yet they still exist. We can contact dissidents in [[~SOV.GetNameDef~]] and start Russia on the path to reformation. Old enemies can quickly become new friends."
-AUS_friends_beneath_the_bear_tt:0	"Prepares the Ukrainians for war.\n"
+AUS_friends_beneath_the_bear_tt:0	"Prepares the Ukrainians for war.[~\n~]"
 
 AUS_start_the_uprising:0	"Start the Uprising"
 AUS_start_the_uprising_desc:0	"The bear has failed to notice that sleeping under it is the dagger-armed Ukraine. In arming their people, we can create prime conditions to take a chunk out of [[~SOV.getNameDef~]] and add their power to our own."
-AUS_start_the_uprising_tt:0	"§RWill start a war with [[~SOV.GetNameDef~]]!§!\n"
+AUS_start_the_uprising_tt:0	"[~§R~]Will start a war with [[~SOV.GetNameDef~]]![~§!~][~\n~]"
 
 AUS_war_for_the_black_sea:0	"War for the Black Sea"
 AUS_war_for_the_black_sea_desc:0	"[[~SOV.GetAdjective~]] control of the Black Sea is our greatest threat, alongside [[~ITA.GetAdjective~]] control. We can solve this by taking from [[~SOV.GetNameDef~]] the lands that border the Black Sea, blocking their ability to maintain and project naval power in the Mediterranean."
@@ -386,7 +386,7 @@ AUS_germanic_brotherhood_desc:0	"Anschluss as an idea is simply too extreme. How
 
 AUS_imperial_administration:0	"Imperial Administration"
 AUS_imperial_administration_desc:0	"Acquisition of land has led to the need for reforms in our system of government. A review of the freedoms of our colony states will be in order and should lead to smoother domestic affairs."
-AUS_imperial_administration_tt:0	"Controlling §YVienna§!, §YBudapest§!, §YBucharest§!, §YSarajevo§! and §YKrakow§! will add §Y100 Political Power§!.\n"
+AUS_imperial_administration_tt:0	"Controlling [~§Y~]Vienna[~§!~], [~§Y~]Budapest[~§!~], [~§Y~]Bucharest[~§!~], [~§Y~]Sarajevo[~§!~] and [~§Y~]Krakow[~§!~] will add [~§Y~]100 Political Power[~§!~].[~\n~]"
 
 AUS_strengthen_ties_with_ukraine:0	"Strengthen Ties with [[~UKR.GetNameDef~]]"
 AUS_strengthen_ties_with_ukraine_desc:0	"There is no reason we shouldn't seek to become closer to our newfound allies in [[~UKR.GetNameDef~]]. If we offer them some of our resources, we are sure to find ways to benefit."
@@ -405,11 +405,11 @@ AUS_seek_british_support_desc:0	"[[~ENG.GetNameDefCap~]] is not an old friend of
 
 AUS_break_the_compromise:0	"Break the Compromise"
 AUS_break_the_compromise_desc:0	"We bowed and scraped to the [[~GER.GetAdjective~]]s because they were on top of us, with a far superior military. Now that we have reformed and affirmed our new government, we may stand a chance of facing the Nazis."
-AUS_break_the_compromise_tt:0	"May lead to war with [[~GER.GetNameDef~]].\n"
+AUS_break_the_compromise_tt:0	"May lead to war with [[~GER.GetNameDef~]].[~\n~]"
 
 AUS_free_the_balkans:0	"Free the Balkans"
 AUS_free_the_balkans_desc:0	"Certain states in the Balkans have fallen under fascist leadership since Hitler began to exert influence over Europe. We must act to undo this damage, even if it means making war to free the people."
-AUS_free_the_balkans_tt:0	"Gives puppet wargoal on all non-democratic Balkan nations.\n"
+AUS_free_the_balkans_tt:0	"Gives puppet wargoal on all non-democratic Balkan nations.[~\n~]"
 
 AUS_free_the_ukrainians:0	"Free the Ukrainians"
 AUS_free_the_ukrainians_desc:0	"The Ukrainians have been trapped under the [[~SOV.GetAdjective~]] boot for too long. We have set our sights on their release, and there is no better time than now to do so."
@@ -491,8 +491,8 @@ AUS_repeal_the_abolition_of_nobility_desc:0	"In the aftermath of the Great War, 
 
 AUS_propose_the_alps_defence_pact:0	"Propose the Alps Defence Pact"
 AUS_propose_the_alps_defence_pact_desc:0	"[[~ITA.GetNameDefCap~]] has taken some of our most critical strategic locations from us and displaced thousands of our citizens by absorbing Istria and South Tyrol in the wake of the Great War. Now, however, Europe simmers again with tension, and their position relative to us cannot be ignored - or their potential use as an ally."
-AUS_propose_the_alps_defence_pact_tt:0	"If [[~ITA.GetNameDef~]] accepts, will bypass the Anschluss.\nWe will also receive §Y300 Light Tanks§!.\n"
-AUS_propose_the_alps_defence_pact_advisor_tt:0	"Has completed focus §YPropose the Alps Defence Pact§!"
+AUS_propose_the_alps_defence_pact_tt:0	"If [[~ITA.GetNameDef~]] accepts, will bypass the Anschluss.[~\n~]We will also receive [~§Y~]300 Light Tanks[~§!~].[~\n~]"
+AUS_propose_the_alps_defence_pact_advisor_tt:0	"Has completed focus [~§Y~]Propose the Alps Defence Pact[~§!~]"
 
 AUS_bolster_nations_defences:0	"Bolster National Defences"
 AUS_bolster_nations_defences_desc:0	"We have no time at our disposal to wait for any sort of protection by foreign powers. Our people shall defend themselves by any means necessary!"
@@ -571,10 +571,10 @@ AUS_continue_secret_armament_desc:0	"We have been supplying the resistance in Cz
 
 AUS_initiate_the_bohmen_plan:0	"Initiate the Böhmen Plan"
 AUS_initiate_the_bohmen_plan_desc:0	"Czechoslovakia has been all but freed from [[~GER.GetAdjective~]] rule, and the time has come to directly challenge their control and restore our people to our union. War, if unpleasant, is at times necessary."
-AUS_initiate_the_bohmen_plan_tt:0	"§YCzechoslovakia§! will become our puppet, but we will declare war on §R[[~GER.GetNameDef~]].§!\n"
+AUS_initiate_the_bohmen_plan_tt:0	"[~§Y~]Czechoslovakia[~§!~] will become our puppet, but we will declare war on [~§R~][[~GER.GetNameDef~]].[~§!~][~\n~]"
 
 
-AUS_deactivate_YUG_collaboration_tt:0	"§RThis option will disable the opportunity to create a [[~YUG.GetAdjective~]] collaboration government.§!\n"
+AUS_deactivate_YUG_collaboration_tt:0	"[~§R~]This option will disable the opportunity to create a [[~YUG.GetAdjective~]] collaboration government.[~§!~][~\n~]"
 AUS_full_czech_citizenship:0	"Full [[~CZE.GetAdjective~]] Citizenship"
 AUS_full_czech_citizenship_desc:0	"Czechoslovakia was once Austro-Hungarian, and the people within it were considered Austro-Hungarian. It is only fair and proper that we restore this status so that our people may live free under our rule."
 
@@ -1073,7 +1073,7 @@ AUS_security_measures_desc:0	"It is essential to protect [[~AUS.GetNameDef~]] ag
  austria.5023.a:0	"A province of the Empire once more!"
 
  austria.5034.t:0	"The Assassination of Kurt Schuschnigg"
- austria.5034.d:0	"According to an official statement by the government of [[~AUS.GetNameDefCap~]], Chancellor Kurt Schuschnigg was assassinated earlier this morning.\n\nIt is still unclear how the murder transpired, but sources indicate that a communist sympathizer managed to sneak into his private residence and ambush him with an ice axe. As of now, no connection between him and any organized political groups could be established, but the fact that he committed suicide via hidden cyanide pills upon capture hints towards outside assistance.\n\nQuite a few influential communist leaders openly celebrated the death of Schushnigg. Celebratory marches followed by violent riots broke out in Vienna, and it has become apparent that political violence isn't off-limits anymore. Foreign observers fear a rapid escalation leading to something far worse, as [[~AUS.GetNameDefCap~]] is now left without a steadfast anti-communist figure in the highest office."
+ austria.5034.d:0	"According to an official statement by the government of [[~AUS.GetNameDefCap~]], Chancellor Kurt Schuschnigg was assassinated earlier this morning.[~[~\n~][~\n~]~]It is still unclear how the murder transpired, but sources indicate that a communist sympathizer managed to sneak into his private residence and ambush him with an ice axe. As of now, no connection between him and any organized political groups could be established, but the fact that he committed suicide via hidden cyanide pills upon capture hints towards outside assistance.[~[~\n~][~\n~]~]Quite a few influential communist leaders openly celebrated the death of Schushnigg. Celebratory marches followed by violent riots broke out in Vienna, and it has become apparent that political violence isn't off-limits anymore. Foreign observers fear a rapid escalation leading to something far worse, as [[~AUS.GetNameDefCap~]] is now left without a steadfast anti-communist figure in the highest office."
  austria.5034.a:0	"Death to all oppressors!"
 
  austria.5035.t:0	"Bundesheer Deserters"
@@ -1144,15 +1144,15 @@ AUS_security_measures_desc:0	"It is essential to protect [[~AUS.GetNameDef~]] ag
  ##misc
 
  anti_moscow_comm:0	"Disobeyed the Soviet International Line"
- AUS_sov_relations:0	"§RThis will significantly improve relations with Moscow and guarantee their support in our bid to overthrow the government, however, such assistance doesn't come free!§!\n"
- AUS_desertion:0	"§RWith soldiers deserting the Bundesheer, our member count willing to fight for their freedom has grown.§!\n"
- AUS_desertion2:0	"§YUpon the outbreak of the civil war, we will gain§! §G3§! §Yextra units!§!\n"
- AUS_purged_minister:0	"§RMinister Purged§!\n"
- AUS_purged_ministers_tt:0	"§RWe will hunt down and arrest any right wing agitators of the previous government.§!\n"
+ AUS_sov_relations:0	"[~§R~]This will significantly improve relations with Moscow and guarantee their support in our bid to overthrow the government, however, such assistance doesn't come free![~§!~][~\n~]"
+ AUS_desertion:0	"[~§R~]With soldiers deserting the Bundesheer, our member count willing to fight for their freedom has grown.[~§!~][~\n~]"
+ AUS_desertion2:0	"[~§Y~]Upon the outbreak of the civil war, we will gain[~§!~] [~§G~]3[~§!~] [~§Y~]extra units![~§!~][~\n~]"
+ AUS_purged_minister:0	"[~§R~]Minister Purged[~§!~][~\n~]"
+ AUS_purged_ministers_tt:0	"[~§R~]We will hunt down and arrest any right wing agitators of the previous government.[~§!~][~\n~]"
 
  AUS_bunkers_1:0	"Border Preparations"
 
- POLITICS_ERNST_RUDIGER_STARHEMBERG_DESC:0	"Member of the Bundesrat and a prominent politician in Austria since the 1920s, this man is also known for his accommodations and ties with fascists from [[~GER.getNameDef~]].\n\nHis support of the Beer Hall Putsch in 1923 and establishment of "Vaterländische Front" in 1933 clearly shows his interests and accommodations with authoritarian structures and paramilitary organizations."
+ POLITICS_ERNST_RUDIGER_STARHEMBERG_DESC:0	"Member of the Bundesrat and a prominent politician in Austria since the 1920s, this man is also known for his accommodations and ties with fascists from [[~GER.getNameDef~]].[~[~\n~][~\n~]~]His support of the Beer Hall Putsch in 1923 and establishment of "Vaterländische Front" in 1933 clearly shows his interests and accommodations with authoritarian structures and paramilitary organizations."
 
  austrian_focus:0	"Austrian National Focus"
 

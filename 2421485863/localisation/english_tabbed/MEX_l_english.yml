@@ -187,16 +187,16 @@
  ###EVENTS
 
  mexico_calles.1.t:0	"Rebels Attack on Civilian Train!"
- mexico_calles.1.d:0	"A Mexico City-Veracruz train was ambushed yesterday by dissidents, killing multiple Mexican politicians from the PRM party. \n\nThe train was ambushed at a bridge, that was rigged with explosives, ruling out a bandit robbery as the motive for the attack. The wreckage discovered by officials was completely destroyed by fire, leaving little behind for investigators. [[~ROOT.getNameDefCap~]] has been facing increasing political polarization in the recent years, and now it seems political extremists are now resorting to violence."
+ mexico_calles.1.d:0	"A Mexico City-Veracruz train was ambushed yesterday by dissidents, killing multiple Mexican politicians from the PRM party. [~[~\n~][~\n~]~]The train was ambushed at a bridge, that was rigged with explosives, ruling out a bandit robbery as the motive for the attack. The wreckage discovered by officials was completely destroyed by fire, leaving little behind for investigators. [[~ROOT.getNameDefCap~]] has been facing increasing political polarization in the recent years, and now it seems political extremists are now resorting to violence."
  mexico_calles.1.a:0	"Tragic, but who could be behind it?"
 
  mexico_calles.2.t:0	"Calles Captured and Exiled!"
- mexico_calles.2.d:0	"Former President Plutarco Elias Calles, and 3 of his right hand men, have been arrested by orders of President [[~MEX.GetLeader~]]. \n\nMexico's leftists have accused Calles of trying to ferment dissent among the right wing against President Cardenas, whom he calls a communist, and possibly force the country into a civil war. \n\nWhen the Mexican authorities stormed the rancho, they arrested Calles laying in his bed, reading a Spanish Translation of Hitler's book "Mein Kampf." Calles was then forced onto a plane in the dead of night, heading for Houston, Texas where he expected to arrive in the morning to leave for San Diego where he will live with his sister.\n\nA cache of weapons, presumably for supplying rebels, were also recovered."
+ mexico_calles.2.d:0	"Former President Plutarco Elias Calles, and 3 of his right hand men, have been arrested by orders of President [[~MEX.GetLeader~]]. [~[~\n~][~\n~]~]Mexico's leftists have accused Calles of trying to ferment dissent among the right wing against President Cardenas, whom he calls a communist, and possibly force the country into a civil war. [~[~\n~][~\n~]~]When the Mexican authorities stormed the rancho, they arrested Calles laying in his bed, reading a Spanish Translation of Hitler's book "Mein Kampf." Calles was then forced onto a plane in the dead of night, heading for Houston, Texas where he expected to arrive in the morning to leave for San Diego where he will live with his sister.[~[~\n~][~\n~]~]A cache of weapons, presumably for supplying rebels, were also recovered."
  mexico_calles.2.a:0	"Calles got the same treatment he gave to so many others."
 
 
  mexico_calles.3.t:0	"Calles Rebellion!"
- mexico_calles.3.d:0	"Callista supporters have begun a revolt in Mexico in response to what they call the "sovietification" of Mexico. \n\nWhipped into a frenzy by Plutarco's rhetoric, his supporters have plunged Mexico into yet another civil war. \n\nIt remains to be seen if this rebellion reaches the brutality of the Mexican revolution, which tore Mexico apart for 10 years."
+ mexico_calles.3.d:0	"Callista supporters have begun a revolt in Mexico in response to what they call the "sovietification" of Mexico. [~[~\n~][~\n~]~]Whipped into a frenzy by Plutarco's rhetoric, his supporters have plunged Mexico into yet another civil war. [~[~\n~][~\n~]~]It remains to be seen if this rebellion reaches the brutality of the Mexican revolution, which tore Mexico apart for 10 years."
  mexico_calles.3.a:0	"Time to end this farce!"
 
  mexico_pemex.1.t:0	"Oil Worker Strikes"
@@ -245,7 +245,7 @@
  mexico_pemex.9.b:0	"Pay them compensation, and end this."
 
  mexico_minor.2.t:0	"Escobar returns to Mexico!"
- mexico_minor.2.d:0	"José Gonzalo Escobar, the leader of the failed Escobar rebellion, has come out of his exile and is returning to his homeland of Mexico. \n\nIn the speech this morning he stated the needs to be with his country in its time of need. Escobar was the leader of a failed coup during Mexico's Maximato, where he initially had success in the ground battles and was soundly defeated by Mexico's air force."
+ mexico_minor.2.d:0	"José Gonzalo Escobar, the leader of the failed Escobar rebellion, has come out of his exile and is returning to his homeland of Mexico. [~[~\n~][~\n~]~]In the speech this morning he stated the needs to be with his country in its time of need. Escobar was the leader of a failed coup during Mexico's Maximato, where he initially had success in the ground battles and was soundly defeated by Mexico's air force."
  mexico_minor.2.a:0	"Vive Mexico!"
  mexico_minor.2.b:0	"Who? What?"
 
@@ -267,7 +267,7 @@
  mexico_article_30.2.c:0	"Expel all lawbreakers"
 
  mexico_article_30.3.t:0	"Intelligence Report: William Jenkins "
- mexico_article_30.3.d:0	"UK diplomats are outraged and call for us to arrest William Jenkins for violating Article 30 of the constitution! They accuse him of tampering with Mexican politics by using his media monopoly to turn Mexicans against  [[~ENG.getNameDef~]]. \n\nHowever recent report of the DFS says that Jenkins is linked to Maximino Camacho, and latter is protecting Jenkins politically in exchange for providing business opportunities. Maximino is a known Axis sympathizer, and is said to have a photo of Mussolini hanging over his bed at his mansion in Pueblo. It is obvious that Maximino is using his leverage over Jenkins to stop non-fascist influence from gaining a foothold in Mexico. \n\nPro-UK movies, however, are extremely unpopular within the Mexican audiences and prompted Mexican cinemas to stop showing them in some instances. The decision to allow pro-UK movies would please [[~ENG.getNameDef~]], but not the Mexican movie audiences. \n\nThis situation could also be used to expel more than just Jenkins or the [[~ENG.getAdjective~]], we would have an excuse to expel all of the lawbreakers in the nation to save face as we would not be laying blame on any one party. What should we do?"
+ mexico_article_30.3.d:0	"UK diplomats are outraged and call for us to arrest William Jenkins for violating Article 30 of the constitution! They accuse him of tampering with Mexican politics by using his media monopoly to turn Mexicans against  [[~ENG.getNameDef~]]. [~[~\n~][~\n~]~]However recent report of the DFS says that Jenkins is linked to Maximino Camacho, and latter is protecting Jenkins politically in exchange for providing business opportunities. Maximino is a known Axis sympathizer, and is said to have a photo of Mussolini hanging over his bed at his mansion in Pueblo. It is obvious that Maximino is using his leverage over Jenkins to stop non-fascist influence from gaining a foothold in Mexico. [~[~\n~][~\n~]~]Pro-UK movies, however, are extremely unpopular within the Mexican audiences and prompted Mexican cinemas to stop showing them in some instances. The decision to allow pro-UK movies would please [[~ENG.getNameDef~]], but not the Mexican movie audiences. [~[~\n~][~\n~]~]This situation could also be used to expel more than just Jenkins or the [[~ENG.getAdjective~]], we would have an excuse to expel all of the lawbreakers in the nation to save face as we would not be laying blame on any one party. What should we do?"
  mexico_article_30.3.a:0	"Expel William Jenkins"
  mexico_article_30.3.b:0	"Expel the [[~ENG.getAdjective~]]"
  mexico_article_30.3.c:0	"Expel all lawbreakers"
@@ -301,7 +301,7 @@
  mexico_zoot_suit.7.a:	"See what you can do."
 
  mexico_communist.1.t:0	"Intelligence Report on Dioniso Encinia"
- mexico_communist.1.d:0	"The PCM was founded and heavily funded by Soviet Russia. Its leader, Dioniso Encinia is a known Soviet puppet with his presence being divisive as never before. In the 20s the PCM became splintered into many opposing communist parties entirely due to Dioniso's insecurity with latter purging members who might threaten his seat as the leader. After the failed Soviet-backed coup in 1929 the PCM was finally outlawed by Cales and his loyalists. \n\nConsidering that their current leader so heavily depends on Soviet guidance and the advice of his much more capable wife, a PCM-led Mexico would be nothing more but a literal puppet state of the USSR in Central America while remaining vastly unpopular internally due to the low support basis. \n\nSince it was decided to embrace the leftist policies, the communist takeover is the reality of the nearest future,, yet we still have a say over who will lead it. The attempted assassination..."
+ mexico_communist.1.d:0	"The PCM was founded and heavily funded by Soviet Russia. Its leader, Dioniso Encinia is a known Soviet puppet with his presence being divisive as never before. In the 20s the PCM became splintered into many opposing communist parties entirely due to Dioniso's insecurity with latter purging members who might threaten his seat as the leader. After the failed Soviet-backed coup in 1929 the PCM was finally outlawed by Cales and his loyalists. [~[~\n~][~\n~]~]Considering that their current leader so heavily depends on Soviet guidance and the advice of his much more capable wife, a PCM-led Mexico would be nothing more but a literal puppet state of the USSR in Central America while remaining vastly unpopular internally due to the low support basis. [~[~\n~][~\n~]~]Since it was decided to embrace the leftist policies, the communist takeover is the reality of the nearest future,, yet we still have a say over who will lead it. The attempted assassination..."
  mexico_communist.1.a:0	"...succeeds in killing Dioniso"
  mexico_communist.1.b:0	"...is a fewer dream of power-hungry bureaucrats!"
 
@@ -512,10 +512,10 @@
  #decisions
  MEX_foreign_affairs:0	"Foreign Affairs"
  MEX_invite_FROM_to_the_treaty:0	"Invite [[~FROM.getNameDef~]] to the Treaty"
- MEX_invite_FROM_to_the_treaty_tt:0	"Unlocks £decision_icon_small to §Yinvite§! independent Latin countries into our alliance!"
+ MEX_invite_FROM_to_the_treaty_tt:0	"Unlocks £decision_icon_small to [~§Y~]invite[~§!~] independent Latin countries into our alliance!"
 
  #tooltips
- MEX_pan_american_highway_tt:0	"This National Spirit will be removed upon Mexican completion of the focus '§YThe Pan-American Highway§!'"
+ MEX_pan_american_highway_tt:0	"This National Spirit will be removed upon Mexican completion of the focus '[~§Y~]The Pan-American Highway[~§!~]'"
 
  fierro:0	"Roberto Fierro"
 
@@ -581,13 +581,13 @@
  MEX_expelled_diplomats:0	"Expelled Diplomats"
 
  #tooltips
- MEX_oil_concessions_tt:0	"§YOur oil extraction facilities are in hands of the foreign corporations!§!"
+ MEX_oil_concessions_tt:0	"[~§Y~]Our oil extraction facilities are in hands of the foreign corporations![~§!~]"
 
- MEX_strength_of_the_civil_War_depends_on_low_stability_tt:0	"§GLow stability§! ensures that §Yrebels§! receive §Gless§! forces!"
+ MEX_strength_of_the_civil_War_depends_on_low_stability_tt:0	"[~§G~]Low stability[~§!~] ensures that [~§Y~]rebels[~§!~] receive [~§G~]less[~§!~] forces!"
 
  MEX_diplomatic_opportunity_tt:0	"Might start a war with both the US and UK if tension is too low, might be possible to play the US and UK against each other if the timing is right."
 
- tt_mexpromotion:0	"The president of Mexico is considered a 5 star general due to the ranking system. Due to this, this military candidate will be promoted to level 5 and receive bonuses based on their history.\n"
+ tt_mexpromotion:0	"The president of Mexico is considered a 5 star general due to the ranking system. Due to this, this military candidate will be promoted to level 5 and receive bonuses based on their history.[~\n~]"
 
  tt_MEX_racial_tensions:0	"Won't go unnoticed, will cause racial tensions in America to heighten."
 
@@ -598,8 +598,8 @@
  election_1940:0	"1940 election season"
  riot:0	"Zoot Suit riot happened"
 
- MEX_GATHERING_STORM_DESC:0	"\n\nMexico stands at the closing days of the Maximato, the period when former president Plutarco Elias Calles held the true power in Mexico using right wing loyalists in both politics and the military. Since 1934, Lázaro Cárdenas del Río has waged a political war to end Plutarco's control over the country and enact his own left wing reforms. Mexico stands at a crossroads while the world prepares for war, as the left wing and right wing battle over control of the country's future and where it stands in the coming new world order." #[[~RECENTLY UPDATED~]]
- MEX_BLITZKRIEG_DESC:0	"\n\nThe Maximato has ended and Calles is gone, but the battle between the left and right wings is still raging on. Emboldened by the economic hardship caused by the PEMEX embargoes, the right wing have become polarized and now exist in a state of political civil war over who will become the right wing candidate for the presidency next year. The dominant PRI however now rests at a choice between compromising their ideals with the moderate candidate Camacho or double down on the left wing candidate Mugica." #[[~RECENTLY UPDATED~]]
+ MEX_GATHERING_STORM_DESC:0	"[~[~\n~][~\n~]~]Mexico stands at the closing days of the Maximato, the period when former president Plutarco Elias Calles held the true power in Mexico using right wing loyalists in both politics and the military. Since 1934, Lázaro Cárdenas del Río has waged a political war to end Plutarco's control over the country and enact his own left wing reforms. Mexico stands at a crossroads while the world prepares for war, as the left wing and right wing battle over control of the country's future and where it stands in the coming new world order." #[[~RECENTLY UPDATED~]]
+ MEX_BLITZKRIEG_DESC:0	"[~[~\n~][~\n~]~]The Maximato has ended and Calles is gone, but the battle between the left and right wings is still raging on. Emboldened by the economic hardship caused by the PEMEX embargoes, the right wing have become polarized and now exist in a state of political civil war over who will become the right wing candidate for the presidency next year. The dominant PRI however now rests at a choice between compromising their ideals with the moderate candidate Camacho or double down on the left wing candidate Mugica." #[[~RECENTLY UPDATED~]]
 
  POLITICS_DIONISIO_ENCINA_DESC:0	"Dionisio was described as a polarizing figure, and historians were often found to have very little positive things to say about his leadership. Dionisio was responsible for the fracturing of the largest Mexican communist party, the PCM. He was backed by Soviet agents in charge of spreading communism in Mexico and never acted unless ordered to, and feared that his Soviet handlers would find a more suitable leader for the PCM. This fear caused him to purge anyone who had better leadership skills or charisma from the PCM out of fear that he would be replaced by them, leaving the PCM with a severe lack of good leadership and proactive thinking."
 

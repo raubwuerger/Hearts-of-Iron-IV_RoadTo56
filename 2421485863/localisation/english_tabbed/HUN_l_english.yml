@@ -1,6 +1,6 @@
 ﻿l_english:
 
- is_AH_tt:0	"Is §YAustria-Hungary§!"
+ is_AH_tt:0	"Is [~§Y~]Austria-Hungary[~§!~]"
 
  HUN_moderate_restoration:0	"Moderate Restoration"
  HUN_moderate_restoration_desc:0	"Seeing the cruelty and suffering caused by both radical nationalism and communism, the King and Emperor Otto has decided not to claim foreign territories to preserve Europe from another catastrophe."
@@ -126,7 +126,7 @@
  HUN_hungarian_minorities_recruitment_agreement:0	"Hungarian Minorities Recruitment Agreement"
  HUN_hungarian_minorities_recruitment_agreement_desc:0	"Lobby our allies to allow their ethnic Hungarian citizens to serve in the [[~HUN.GetAdjective~]] army."
 
- HUN_rearmament_refused:0	"§YLittle Entente members denied rearmament§!"
+ HUN_rearmament_refused:0	"[~§Y~]Little Entente members denied rearmament[~§!~]"
 
  HUN_bernadotte_dynastic_ties_decision_category:0	"Beradotte Dynastic Ties"
  HUN_bernadotte_dynastic_ties_decision_category_desc:0	"The new king of our nation has been born and raised in Sweden and maintains strong ties with the country of his youth."

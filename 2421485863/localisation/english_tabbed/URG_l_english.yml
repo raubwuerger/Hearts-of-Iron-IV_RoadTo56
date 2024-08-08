@@ -12,21 +12,21 @@
  URG_partido_nacional_party_long:0	"Partido Nacional"
 
  uruguay.1.t:0	"1938 Elections"
- uruguay.1.d:0	"Following the 1933 coup d'etat, Gabriel Terra scheduled for elections to take place this year. \n\nThe main candidates are general and chief of police Alfredo Baldomir, well known politician Luis Alberto de Herrera and socialist poet Emilio Frugoni.\n\nHowever, some more radical parties have taken their chance in the uneasy times to spread their influence. The most well known being the Partido Comunista, though some nationalist and fascist parties have also taken their chance, the main one being the Acción Revisionista del Uruguay.\n\nAs the votes are counted, it becomes obvious that the..."
+ uruguay.1.d:0	"Following the 1933 coup d'etat, Gabriel Terra scheduled for elections to take place this year. [~[~\n~][~\n~]~]The main candidates are general and chief of police Alfredo Baldomir, well known politician Luis Alberto de Herrera and socialist poet Emilio Frugoni.[~[~\n~][~\n~]~]However, some more radical parties have taken their chance in the uneasy times to spread their influence. The most well known being the Partido Comunista, though some nationalist and fascist parties have also taken their chance, the main one being the Acción Revisionista del Uruguay.[~[~\n~][~\n~]~]As the votes are counted, it becomes obvious that the..."
  uruguay.1.a:0	"Partido Colorado Wins!"
  uruguay.1.b:0	"Partido Nacional Wins!"
  uruguay.1.c:0	"Partido Socialista Wins!"
  uruguay.1.e:0	"A deadlock occurs!"
  uruguay.2.t:0	"Fate of the Council"
- uruguay.2.d:0	"Established in 1917 by President Baltasar Brum, the Consejo Nacional de Administración, in an attempt to create an executive body similar to the Swiss Federal Council. This allowed both the Colorado and Nacional parties to share power and brought stability to Uruguay. \n\nHowever, the nature of the council meant it was slow to act, as any action by the council had to be approved by all members. This inaction caused the Great Depression to worsen, which was only solved by the dissolution of it by President Gabriel Terra in 1933. \n\nBut now that the depression has been dealt with, many politicians have begun to propose the restoration of the council, in order to bring much needed stability to Uruguay."
+ uruguay.2.d:0	"Established in 1917 by President Baltasar Brum, the Consejo Nacional de Administración, in an attempt to create an executive body similar to the Swiss Federal Council. This allowed both the Colorado and Nacional parties to share power and brought stability to Uruguay. [~[~\n~][~\n~]~]However, the nature of the council meant it was slow to act, as any action by the council had to be approved by all members. This inaction caused the Great Depression to worsen, which was only solved by the dissolution of it by President Gabriel Terra in 1933. [~[~\n~][~\n~]~]But now that the depression has been dealt with, many politicians have begun to propose the restoration of the council, in order to bring much needed stability to Uruguay."
  uruguay.2.a:0	"We must restore the council."
  uruguay.2.b:0	"We must keep the presidential system."
  uruguay.3.t:0	"Chaos in the Streets!"
- uruguay.3.d:0	"The recent electoral deadlock, first in our history, has taken its toll on the country. Montevideo is in chaos, with protests headed by Batllists such as Luis Batlle Berres, and whispers of revolt from the Partido Nacional, just like in 1904. Seizing this opportunity, the PCU, headed by Eugenio Gomez, has attempted to march to the Palacio Legislativo, before being stopped by members of the Acción Revisionista.\n\nWith the army and the police being divided and spread thin by the protests and riots, the response becomes lackluster. By night, it becomes clear that..."
+ uruguay.3.d:0	"The recent electoral deadlock, first in our history, has taken its toll on the country. Montevideo is in chaos, with protests headed by Batllists such as Luis Batlle Berres, and whispers of revolt from the Partido Nacional, just like in 1904. Seizing this opportunity, the PCU, headed by Eugenio Gomez, has attempted to march to the Palacio Legislativo, before being stopped by members of the Acción Revisionista.[~[~\n~][~\n~]~]With the army and the police being divided and spread thin by the protests and riots, the response becomes lackluster. By night, it becomes clear that..."
  uruguay.3.a:0	"The ARU defeat the communists and takes over the nation."
  uruguay.3.b:0	"The communists defeat the ARU and storm the Palacio Legislativo."
 
- URG_GATHERING_STORM_DESC:0	"While Uruguay was one of the most stable countries in South America, Gabriel Terra's coup d'état was a shock to the small nation. The persecutions brought about by the regime forced many politicians and intellectuals to flee, particularly towards Argentina.\n\nHowever, the dictatorship is far from being entrenched, with a first revolutionary coup attempt in 1935, which may well not be the last."
+ URG_GATHERING_STORM_DESC:0	"While Uruguay was one of the most stable countries in South America, Gabriel Terra's coup d'état was a shock to the small nation. The persecutions brought about by the regime forced many politicians and intellectuals to flee, particularly towards Argentina.[~[~\n~][~\n~]~]However, the dictatorship is far from being entrenched, with a first revolutionary coup attempt in 1935, which may well not be the last."
 
  URG_review_the_military_budget:0	"Review the Military Budget"
  URG_expand_the_escuela_militar:0	"Expand the Escuela Militar"
@@ -238,4 +238,4 @@
  URG_montevideo_treaty:0	"Treaty of Montevideo"
  URG_communist_faction:0	"Tupamaro Liberation Front"
 
- URG_election_tt:	"§YElection of 1938 has happened.§!"
+ URG_election_tt:	"[~§Y~]Election of 1938 has happened.[~§!~]"

@@ -1,6 +1,6 @@
 ﻿l_english:
  r56_SIK_bring_kashgar_back_into_the_fold:0	"Bring Kashgar back into the fold"
- r56_SIK_bring_kashgar_back_into_the_fold_desc:0	"We've had enough with [[~TNG.getleader~]] charade. We've allowed him to have to much control over the Kashgar military district, and it's about time we've addressed this issue once and for all.\n\n§RSending [[~TNG.getleader~]] an ultimatum before [[~SOV.getnamedef~]] commit to supporting [[~SIK.getleader~]] will result in [[~SOV.getnamedef~]] not aiding us in war with [[~TNG.getname~]].§!"
+ r56_SIK_bring_kashgar_back_into_the_fold_desc:0	"We've had enough with [[~TNG.getleader~]] charade. We've allowed him to have to much control over the Kashgar military district, and it's about time we've addressed this issue once and for all.[~[~\n~][~\n~]~][~§R~]Sending [[~TNG.getleader~]] an ultimatum before [[~SOV.getnamedef~]] commit to supporting [[~SIK.getleader~]] will result in [[~SOV.getnamedef~]] not aiding us in war with [[~TNG.getname~]].[~§!~]"
 
  #SIK
  

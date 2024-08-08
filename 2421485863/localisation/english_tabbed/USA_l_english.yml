@@ -5,9 +5,9 @@
  USA_william_c_lee:0	"William C. Lee"
  USA_elwood_richard_quesada:0	"Elwood R. Quesada"
  rt56_j_edgar_hoover:0	"J. Edgar Hoover"
- rt56_j_edgar_hoover_desc:0	"§L"We are a fact-gathering organization only. We don't clear anybody. We don't condemn anybody."§!"
+ rt56_j_edgar_hoover_desc:0	"[~§L~]"We are a fact-gathering organization only. We don't clear anybody. We don't condemn anybody."[~§!~]"
  rt56_j_edgar_hoover_mil:0	"J. Edgar Hoover"
- rt56_j_edgar_hoover_mil_desc:0	"§L"Justice is incidental to law and order"§!"
+ rt56_j_edgar_hoover_mil_desc:0	"[~§L~]"Justice is incidental to law and order"[~§!~]"
  rt56_john_j_pershing:0	"John J. Pershing"
  rt56_USA_cash_and_carry_away:0	"Cash and Carry"
  rt56_USA_cash_and_carry_away_desc:0	"The 'Cash and Carry' amendment to the Neutrality Act allows us to purchase Non-War material from [[~USA.getnameDEF~]] if we pay upfront. Even though we have no money to spare, the [[~USA.GETNAMEDEF~]] is letting us 'borrow' money from their treasury that we can turn around and use to pay for the goods."
@@ -23,10 +23,10 @@
  USA_office_of_strategic_services_desc:0	"Forming a dedicated department of our intelligence agency to assist foreign resistance organisations and infiltrate enemy institutions will greatly help us gain the upper hand and also in our future operations."
 
  general_motor_electrco_motive_loco_works:0	"General Motor Electro Motive Diesel"
- USA_the_worlds_loco_works_effect_tt:0	"§WEnables production of§! §YUSATC S100 Class§!"
+ USA_the_worlds_loco_works_effect_tt:0	"[~§W~]Enables production of[~§!~] [~§Y~]USATC S100 Class[~§!~]"
 
- rt56_arnold_unlock_tt:0	"The Air Force has been granted autonomy through the institution of the §YAir War Plans Division§!."
- USA_NATO_overwatch_tt:0	"§RYou will only keep the last selected idea of the ones obtainable through §!§YOverwatch the Pacific§!§R and §!§YReturn to Europe§!."
+ rt56_arnold_unlock_tt:0	"The Air Force has been granted autonomy through the institution of the [~§Y~]Air War Plans Division[~§!~]."
+ USA_NATO_overwatch_tt:0	"[~§R~]You will only keep the last selected idea of the ones obtainable through [~§!~][~§Y~]Overwatch the Pacific[~§!~][~§R~] and [~§!~][~§Y~]Return to Europe[~§!~]."
 
 
  rt56_USA_cash_and_carry_home:0	"The Cash and Carry Scheme"
@@ -75,7 +75,7 @@
  USA_over_there_desc:0	" "
  USA_tuskegee_airmen:0	"The Tuskegee Airmen"
  USA_tuskegee_airmen_desc:0	" "
- USA_tuskegee_airmen_tt:0	"The §H332nd Fighter Group§! and the §H477th Bombardment Group (Medium)§! become active in Alabama."
+ USA_tuskegee_airmen_tt:0	"The [~§H~]332nd Fighter Group[~§!~] and the [~§H~]477th Bombardment Group (Medium)[~§!~] become active in Alabama."
  USA_gi_bill:0	"G.I. Bill"
  USA_gi_bill_desc:0	" "
  USA_american_christian_identity:0	"American Christian Identity"
@@ -92,24 +92,24 @@
  USA_the_worlds_loco_works_desc:0	"While the rest of the world is worried about producing war goods. We must leverage our many domestic locomotive works to help keep the world supplied with locomotives."
  USA_bangalore_torpedo:0	"Bangalore Torpedo"
  USA_bangalore_torpedo_desc:0	""
- USA_bangalore_torpedo_tt:0	"Enables §HBangalore Torpedo§!\n§HEngineers\n    Hard Attack: §G+15%§!\n    Breakthrough: §G+15%§!§!\n"
+ USA_bangalore_torpedo_tt:0	"Enables [~§H~]Bangalore Torpedo[~§!~][~\n~][~§H~]Engineers[~\n~]    Hard Attack: [~§G~]+15%[~§!~][~\n~]    Breakthrough: [~§G~]+15%[~§!~][~§!~][~\n~]"
  USA_army_rangers:0	"Army Rangers"
  USA_army_rangers_desc:0	""
- USA_army_rangers_tt:0	"Enables §HArmy Rangers§!\n§HInfantry\n    Hard Attack: §G+25%§!\n    Breakthrough: §G+25%§!§!\n§HMotorized\n    Hard Attack: §G+25%§!\n    Breakthrough: §G+25%§!§!\n§HMechanized\n    Hard Attack: §G+25%§!\n    Breakthrough: §G+25%§!§!"
+ USA_army_rangers_tt:0	"Enables [~§H~]Army Rangers[~§!~][~\n~][~§H~]Infantry[~\n~]    Hard Attack: [~§G~]+25%[~§!~][~\n~]    Breakthrough: [~§G~]+25%[~§!~][~§!~][~\n~][~§H~]Motorized[~\n~]    Hard Attack: [~§G~]+25%[~§!~][~\n~]    Breakthrough: [~§G~]+25%[~§!~][~§!~][~\n~][~§H~]Mechanized[~\n~]    Hard Attack: [~§G~]+25%[~§!~][~\n~]    Breakthrough: [~§G~]+25%[~§!~][~§!~]"
  USA_coordinate_branch_logistics:0	"Coordinate Branch Logistics"
  USA_coordinate_branch_logistics_desc:0	"""
- r56_USA_coordinate_branch_logistics_tt:0	"§RThis only has effect while at war!§!\n"
+ r56_USA_coordinate_branch_logistics_tt:0	"[~§R~]This only has effect while at war![~§!~][~\n~]"
  USA_walkie_talkies:0	"Walkie-Talkies"
  USA_walkie_talkies_desc:0	""
- USA_walkie_talkies_tt:0	"Enables §HWalkie-Talkies§!\nGround Support: §G+5%§!\nReinforce Rate: §G+5%§!\nCoordination: §G+5%§!"
- #USA_tank_experiments_tt:0	"If we also have §HImproved Medium Tank Chassis§! researched:\n"
- USA_armored_infantry_chaffee_tt:0	"Having an §HAdvanced Light Tank Chassis§! researched will grant us the §HM24 Chaffee§! Light Tank Design.\n"
+ USA_walkie_talkies_tt:0	"Enables [~§H~]Walkie-Talkies[~§!~][~\n~]Ground Support: [~§G~]+5%[~§!~][~\n~]Reinforce Rate: [~§G~]+5%[~§!~][~\n~]Coordination: [~§G~]+5%[~§!~]"
+ #USA_tank_experiments_tt:0	"If we also have [~§H~]Improved Medium Tank Chassis[~§!~] researched:[~\n~]"
+ USA_armored_infantry_chaffee_tt:0	"Having an [~§H~]Advanced Light Tank Chassis[~§!~] researched will grant us the [~§H~]M24 Chaffee[~§!~] Light Tank Design.[~\n~]"
  USA_90_division_gamble:0	"90-Division Gamble"
  USA_90_division_gamble_desc:0	""
- r56_USA_90_division_gamble_tt:0	"This National Spirit will only have effect if we have at maximum §H160 HOI4§! Divisions.\n"
+ r56_USA_90_division_gamble_tt:0	"This National Spirit will only have effect if we have at maximum [~§H~]160 HOI4[~§!~] Divisions.[~\n~]"
  USA_victory_program:0	"The Victory Program"
  USA_victory_program_desc:0	""
- USA_victory_program_focus_tt:0	"We are still at peace, this program will be very unpopular among the populace!\n"
+ USA_victory_program_focus_tt:0	"We are still at peace, this program will be very unpopular among the populace![~\n~]"
  USA_flying_fortress:0	"Flying Fortresses"
  USA_flying_fortress_desc:0	" "
  USA_enter_the_jet_age:0	"Enter the Jet Age"
@@ -118,8 +118,8 @@
  USA_expand_shipyard_facilities_desc:0	""
  USA_naval_air_coordination:0	"Naval Air Coordination"
  USA_naval_air_coordination_desc:0	""
- USA_expand_the_USMC_satan_tt:0	"Having an §HImproved Light Tank Chassis§! and §HFlamethrower§! researched will grant us the §HM3A1 Satan§! Light Flamethrower Tank Design.\n"
- USA_expand_the_USMC_zippo_tt:0	"Having an §HImproved Medium Tank Chassis§! and §HFlamethrower§! researched will grant us the §HM4 Zippo§! Medium Flamethrower Tank Design.\n"
+ USA_expand_the_USMC_satan_tt:0	"Having an [~§H~]Improved Light Tank Chassis[~§!~] and [~§H~]Flamethrower[~§!~] researched will grant us the [~§H~]M3A1 Satan[~§!~] Light Flamethrower Tank Design.[~\n~]"
+ USA_expand_the_USMC_zippo_tt:0	"Having an [~§H~]Improved Medium Tank Chassis[~§!~] and [~§H~]Flamethrower[~§!~] researched will grant us the [~§H~]M4 Zippo[~§!~] Medium Flamethrower Tank Design.[~\n~]"
 
  USA_homeland_security:0	"Homeland Security"
  USA_homeland_security_desc:0	"With an invasion of the mainland USA no longer a fantasy. We must prepare for the worst."
@@ -195,13 +195,13 @@
  rt56_far_left_suppression_desc:0	"The Red Scare of the 1920's has left a lasting impression on law enforcement officials and the [[~ROOT.GetAdjective~]] public alike. This impression has led to prosecution and harassment of far leftist movements throughout [[~ROOT.GetNameDef~]]. In recent years suppression efforts against far left groups are spearheaded by J. Edgar Hoover's Federal Bureau of Investigation."
 
  rt56_USA_mobilize_the_national_guard:0	"Reserves Mobilizing"
- r56_USA_louisiana_maneuvers_oob_tt:0	"§WUnlocks three free§! §YDivision Templates§!"
+ r56_USA_louisiana_maneuvers_oob_tt:0	"[~§W~]Unlocks three free[~§!~] [~§Y~]Division Templates[~§!~]"
 
  USA_carrier_1:0	"Langley Class"
  USA_carrier_1_desc:0	"The Langley Class carrier was born from the converted hull of a Jupiter Class Collier. This allowed her to conform to the limitations imposed by the Washington Naval Treaty. The class was the first operational carrier class in the US Navy and spent over a decade improving carrier operations."
 
  r56_j_edgar_hoover_given_army_command:0	"Is currently a General"
- USA_three_dimensional_assault_force_tt:0	"§YHolland Smith§! is currently a General."
+ USA_three_dimensional_assault_force_tt:0	"[~§Y~]Holland Smith[~§!~] is currently a General."
 
  r56_USA_join_the_mexican_revolutionaries:0	"Join the Mexican Revolutionaries"
  r56_USA_join_the_mexican_revolutionaries_desc:0	"The Mexicans are showing us that the revolution can succeed elsewhere in the Americas."
@@ -215,7 +215,7 @@
 
  USA_collaboration_with_the_mafia:0	"Collaboration With the Mafia"
  USA_collaboration_with_the_mafia_desc:0	"While we stand against the institutions that the mafia live and fight for, we undoubtedly share a common enemy. It is ideal we form an unlikely alliance and cooperate with each other, for now."
- USA_collaboration_with_the_mafia_tt:0	"Raises §Y5 Mafia Divisions§! in every Mafia-central state we control upon the civil war's outbreak."
+ USA_collaboration_with_the_mafia_tt:0	"Raises [~§Y~]5 Mafia Divisions[~§!~] in every Mafia-central state we control upon the civil war's outbreak."
 
  USA_cult_of_washington:0	"The Cult of Washington"
  USA_cult_of_washington_desc:0	"The founder of our country must be an example for us all. As a strong military man destined to greatness, he clearly was the first fascist, building a republic for all the true Americans through his skill and his sheer will."
@@ -226,15 +226,15 @@
  USA_raise_washington_to_general_of_the_armies:0	"Raise Washington to the rank of General of the Armies"
 
  USA_combating_jim_crow:0	"Southern African-American Marginalization "
- USA_combating_jim_crow_desc:0	"The Southern defeat in the American Civil War and the self-perceived humiliation that was piled on in the Reconstruction Era was too much for the Southern planter class. They channeled their frustration with recent political disempowerment and used it to conspire against the newly freed African-American population. Southern political scheming culminated in the Compromise of 1877. The Compromise saw the formal end to Reconstruction in the South and saw protections for the African-American communities and politicians in the south lifted. The compromise was functionally a betrayal and abandonment of Southern African-Americans.\n \nSince then hostile Southern state legislators, prompted by an even more hostile population, have passed laws that marginalize African Americans. Laws that separate African-Americans from the rest of the Southern populace on the basis of race in public places and suppressing their right to vote. At the same time, the populace in these states practice their own extra-judicial campaigns to terrorize and torment African-Americans. These practices have been called 'Jim Crow.'\n\nWhile we currently have more pressing issues, we cannot ignore the fact that the practice of 'Jim Crow' continues to strain our country. A country that promises 'liberty and justice for all.'"
+ USA_combating_jim_crow_desc:0	"The Southern defeat in the American Civil War and the self-perceived humiliation that was piled on in the Reconstruction Era was too much for the Southern planter class. They channeled their frustration with recent political disempowerment and used it to conspire against the newly freed African-American population. Southern political scheming culminated in the Compromise of 1877. The Compromise saw the formal end to Reconstruction in the South and saw protections for the African-American communities and politicians in the south lifted. The compromise was functionally a betrayal and abandonment of Southern African-Americans.[~\n~] [~\n~]Since then hostile Southern state legislators, prompted by an even more hostile population, have passed laws that marginalize African Americans. Laws that separate African-Americans from the rest of the Southern populace on the basis of race in public places and suppressing their right to vote. At the same time, the populace in these states practice their own extra-judicial campaigns to terrorize and torment African-Americans. These practices have been called 'Jim Crow.'[~[~\n~][~\n~]~]While we currently have more pressing issues, we cannot ignore the fact that the practice of 'Jim Crow' continues to strain our country. A country that promises 'liberty and justice for all.'"
  USA_combating_jim_crow_map:0	"These states currently have 'Jim Crow' laws"
  USA_pass_a_new_civil_rights_bill:0	"Pass a new Civil Rights Bill"
- USA_pass_a_new_civil_rights_bill_tt:0	"One of our owned states have §R'Jim Crow'§! laws"
- USA_pass_a_new_civil_rights_bill_effect_tt:0	"Unlocks Decisions to fight §R'Jim Crow'§! in states."
- r56_jim_crow_removed_tt:0	"§Gremoves§! Jim Crow in the State"
- r56_jim_crow_lowered_tt:0	"§Glowers§! the Jim Crow intensity in the State"
- r56_jim_crow_state:0	"currently has §R'Jim Crow'§! laws."
- USA_pass_a_new_civil_rights_bill_flag:0	"We've §Gpassed§! a new Civil Rights Bill"
+ USA_pass_a_new_civil_rights_bill_tt:0	"One of our owned states have [~§R~]'Jim Crow'[~§!~] laws"
+ USA_pass_a_new_civil_rights_bill_effect_tt:0	"Unlocks Decisions to fight [~§R~]'Jim Crow'[~§!~] in states."
+ r56_jim_crow_removed_tt:0	"[~§G~]removes[~§!~] Jim Crow in the State"
+ r56_jim_crow_lowered_tt:0	"[~§G~]lowers[~§!~] the Jim Crow intensity in the State"
+ r56_jim_crow_state:0	"currently has [~§R~]'Jim Crow'[~§!~] laws."
+ USA_pass_a_new_civil_rights_bill_flag:0	"We've [~§G~]passed[~§!~] a new Civil Rights Bill"
  USA_pass_a_new_civil_rights_bill_flag_desc:0	"A new civil rights bill is a good first step in fighting Jim Crow throughout the South."
  USA_fight_jim_crow_in_from:0	"Fight Jim Crow in [[~FROM.GetName~]]"
 
@@ -245,7 +245,7 @@
  USA_war_plan_blue_cat:0	"War Plan Blue"
  r56_USA_unite_congress:0	"Unite Congress"
  r56_USA_desperate_measures:0	"Desperate Measures"
- r56_USA_desperate_measures_tt:0	"§WUnlocks more§! §YWar Plan Blue§! §WDecisions§!"
+ r56_USA_desperate_measures_tt:0	"[~§W~]Unlocks more[~§!~] [~§Y~]War Plan Blue[~§!~] [~§W~]Decisions[~§!~]"
  r56_USA_sieze_cilivian_firearms:0	"Seize Cilivian Fire Arms"
  r56_USA_sieze_cilivian_trucks:0	"Seize Cilivian Trucks"
  USA_staggered_retreat:0	"Staggerd Retreat"
@@ -259,8 +259,8 @@
  r56_usa.5.desc:0	"A sign of the changing times could be seen on the roads of the American South. As many sharecroppers and farm workers have sold their homes and pack all their things in their car and headed North. These sudden migrations have been spurred by worsening living conditions in the rural south, with many families not being able to meet ends meet. The goal of many of these migrates is to get jobs in the industrial centers of the North."
  r56_usa.5.a:0	"You can have things in Detroit!"
 
- USA_shifting_sands_tt:0	"§YRandom Southern State§! §WManpower:§!§R-10000§!§W.§!"
- USA_shifting_sands_2_tt:0	"§YRandom Northern State§! §WManpower:§!§G+10000§!§W.§!"
+ USA_shifting_sands_tt:0	"[~§Y~]Random Southern State[~§!~] [~§W~]Manpower:[~§!~][~§R~]-10000[~§!~][~§W~].[~§!~]"
+ USA_shifting_sands_2_tt:0	"[~§Y~]Random Northern State[~§!~] [~§W~]Manpower:[~§!~][~§G~]+10000[~§!~][~§W~].[~§!~]"
 
  #CHARACTERS
  USA_malin_craig:0	"Malin Craig"
@@ -277,7 +277,7 @@
 
  ##### NATO ##### by Fantom
  USA_nato_faction:0	"NATO"
- USA_dissolve_allies_found_nato_tt:0	"§YAllies§! will be reorganized to §YNATO§! after completing this focus!"
+ USA_dissolve_allies_found_nato_tt:0	"[~§Y~]Allies[~§!~] will be reorganized to [~§Y~]NATO[~§!~] after completing this focus!"
  r56_USA_invest_in_our_weaker_allies_tt:0	"We will build 3 military factories and 3 dockyards in each of our allies providing they have less factories than us."
  #ideas#
  rt56_USA_founder_of_nato_idea:0	"Founder of NATO"
@@ -287,10 +287,10 @@
  r56_financing_marshall_plan:0	"Financing Marshall Plan"
 
  #tooltip
- r56_USA_Korea_controls_peninsula:0	"§Y[[~KOR.getNameDefCap~]]§! controls all states of the Korean Peninsula."
+ r56_USA_Korea_controls_peninsula:0	"[~§Y~][[~KOR.getNameDefCap~]][~§!~] controls all states of the Korean Peninsula."
  r56_USA_legislation_drafted_days_tt:0	"Current days are: [[~?USA_new_legislation_drafed_flag:days|Y0~]]"
  USA_new_legislation_drafed_flag:0	"Latest governmental act was drafted"
- r56_zippo_satan:0	"Create §YM3A1§! Light Flame Tank variant on researching §YFlamethrower§!, §YEngineer Company II§! and §YImproved Light Tank Chassis§! \n\nCreate §YM4 Zippo§! Medium Flame Tank variant on researching §YFlamethrower§!, §YEngineer Company II§! and §YImproved Medium Tank Chassis§!\n\n"
+ r56_zippo_satan:0	"Create [~§Y~]M3A1[~§!~] Light Flame Tank variant on researching [~§Y~]Flamethrower[~§!~], [~§Y~]Engineer Company II[~§!~] and [~§Y~]Improved Light Tank Chassis[~§!~] [~[~\n~][~\n~]~]Create [~§Y~]M4 Zippo[~§!~] Medium Flame Tank variant on researching [~§Y~]Flamethrower[~§!~], [~§Y~]Engineer Company II[~§!~] and [~§Y~]Improved Medium Tank Chassis[~§!~][~[~\n~][~\n~]~]"
 
  #focuses#
  r56_USA_form_united_nations:0	"United Nations Charter"
@@ -369,7 +369,7 @@
 
  #events#
  r56_usa.6.t:0	"Fate of Hawaii"
- r56_usa.6.desc:0	"Outlook of the state officials has reached most populous part of our possessions in the Pacific region: Hawaii. \n\nThe former Kingdom of Hawaii fell under the influence of [[~USA.getNameDef~]] in 1850s as our diplomats and merchants established several friendship- and mutual protection-treaties with local government. Said territories were incorporated into our nation as a part of a treaty of annexation with a promise to Hawai'i politicians of them gaining proper representation in Congress. \n\nSo far we were unable to fulfill the promises to their people, meaning that our political credo "Liberty and Justice for All" is nothing but an empty word to the local populace. \n\nThe time has come to change it once and for all, from now on Hawaii shall... "
+ r56_usa.6.desc:0	"Outlook of the state officials has reached most populous part of our possessions in the Pacific region: Hawaii. [~[~\n~][~\n~]~]The former Kingdom of Hawaii fell under the influence of [[~USA.getNameDef~]] in 1850s as our diplomats and merchants established several friendship- and mutual protection-treaties with local government. Said territories were incorporated into our nation as a part of a treaty of annexation with a promise to Hawai'i politicians of them gaining proper representation in Congress. [~[~\n~][~\n~]~]So far we were unable to fulfill the promises to their people, meaning that our political credo "Liberty and Justice for All" is nothing but an empty word to the local populace. [~[~\n~][~\n~]~]The time has come to change it once and for all, from now on Hawaii shall... "
  r56_usa.6.a:0	"... enjoy their desired freedom."
  r56_usa.6.b:0	"... be given local autonomy."
  r56_usa.6.c:0	"... integrated as a new state."

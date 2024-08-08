@@ -313,7 +313,7 @@ POR_elastic_defense:0	"Elastic Defense"
  news.709.o:0	"Maybe it was for the best."
  ### befriend with spain
  news.710.t:0	"Portuguese Foreign Office in [[~SPR.GetName~]]"
- news.710.d:0	"Rather than confronting [[~SPR.GetName~]] over Italian populations on the Dalmatian coast, [[~From.GetName~]] has announced the establishment of a permanent diplomatic mission to [[~YUG.GetName~]]. According to a statement from the [[~From.GetAdjective~]] foreign ministry, the two countries have so much shared history and so many common interests that mutual understanding is far more important than a petty border dispute.\n\nWith tensions rising across Europe, one can only hope more countries take this approach."
+ news.710.d:0	"Rather than confronting [[~SPR.GetName~]] over Italian populations on the Dalmatian coast, [[~From.GetName~]] has announced the establishment of a permanent diplomatic mission to [[~YUG.GetName~]]. According to a statement from the [[~From.GetAdjective~]] foreign ministry, the two countries have so much shared history and so many common interests that mutual understanding is far more important than a petty border dispute.[~[~\n~][~\n~]~]With tensions rising across Europe, one can only hope more countries take this approach."
  news.710.a:0	"Our nations stand together as friends."
  news.710.b:0	"There will be peace in Iberia."
  news.710.c:0	"It will be interesting to see where this ends."

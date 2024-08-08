@@ -48,7 +48,7 @@
 
  CSA_rebuild_industry:0	"Rebuilding the CSA"
 
- CSA_confederate_army:0	"Raises up to §Y16 Infantry Divisions§! across the confederated states."
+ CSA_confederate_army:0	"Raises up to [~§Y~]16 Infantry Divisions[~§!~] across the confederated states."
 
 
  CSA_kitty_obrien_joyner:0	"Kitty O'Brien Joyner"

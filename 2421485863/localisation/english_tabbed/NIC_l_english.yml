@@ -1,7 +1,7 @@
 ﻿l_english:
 nicaraguan_focus:0	"Nicaraguan National Focus"
 #Country Stuff
-NIC_GATHERING_STORM_DESC:0	"The scars of Augusto Caesar Sandino's rebellion against the government and the American occupation troops are still visible on Nicaraguan society and politics, even more so since the collapse of the economy, mainly based on coffee exports, following the Great Depression.\n\nJuan Bautista Sacasa, who became president in 1933, saw and is partly responsible for the rise to power of the head of the national guard, Anastasio Somoza García, who had taken charge of Sandino's murder in 1934.\n\nIt seems that the fall of Sacasa is near...."
+NIC_GATHERING_STORM_DESC:0	"The scars of Augusto Caesar Sandino's rebellion against the government and the American occupation troops are still visible on Nicaraguan society and politics, even more so since the collapse of the economy, mainly based on coffee exports, following the Great Depression.[~[~\n~][~\n~]~]Juan Bautista Sacasa, who became president in 1933, saw and is partly responsible for the rise to power of the head of the national guard, Anastasio Somoza García, who had taken charge of Sandino's murder in 1934.[~[~\n~][~\n~]~]It seems that the fall of Sacasa is near...."
 
 #Focus
 NIC_president_Somoza_Garcia:0	"Somoza's Consolidation"
@@ -59,12 +59,12 @@ NIC_nicaraguan_diplomacy:0	"Nicaraguan Diplomatic Security"
 NIC_marine_national_guard_cooperation:0	"Marine-Guardia Nacional Cooperation"
 
 #Custom Tooltips
-NIC_dock_access:0	"§YWe will give the USA docking rights§! \n"
-NIC_remove_ideatt:0	"§YIf the National Spirit is Present:§! \n"
+NIC_dock_access:0	"[~§Y~]We will give the USA docking rights[~§!~] [~\n~]"
+NIC_remove_ideatt:0	"[~§Y~]If the National Spirit is Present:[~§!~] [~\n~]"
 #Flags
-NIC_somoza_in_power:0	"§YSomoza García is in Power§!"
-NIC_no_somoza:0	"§YSomoza García was Stopped§!"
-#NIC_Somoza_is_running:0	"§YSomoza has Announced his Intent to Run as President§!" #(not being used)
+NIC_somoza_in_power:0	"[~§Y~]Somoza García is in Power[~§!~]"
+NIC_no_somoza:0	"[~§Y~]Somoza García was Stopped[~§!~]"
+#NIC_Somoza_is_running:0	"[~§Y~]Somoza has Announced his Intent to Run as President[~§!~]" #(not being used)
 #Ideas
 NIC_guardia_nacional_assassinations:0	"Guardia Nacional Assassinations"
 NIC_the_cleanup:0	"Opposition Crackdown"
@@ -83,7 +83,7 @@ NIC_ssgn:0	"SSGN"
 #Events
 
 nicaragua.1.t:0	"Somoza seizes power"
-nicaragua.1.d:0	"It came to no ones surprise when earlier this morning that Anastasio Somoza Garcia has asked [[~ROOT.getleader~]] to step down as president of Nicaragua. Somoza and the Guardia Nacional under his control have waged a campaign of assassinations and terrorism against Somoza's political opponents since the 1933 power-sharing agreement. The country has been in a Presidential crisis since the middle of 1935, a crisis that many thought would plunge the country into chaos. [[~ROOT.getleader~]] has decided to avoid a possible civil war and step down, rather than try to maintain his grip on power. The [[~USA.getname~]] who brokered the 1933 deal have washed their hands of the situation and don't care about what to many pundits is essentially the fall of democracy in Nicaragua.\n \n Anastasio Somoza Garcia has appointed a temporary president that is a mere puppet for him. New elections will be organized, though many suspect that there will election fraud that will be naturally in favor of Anastasio Somoza Garcia."
+nicaragua.1.d:0	"It came to no ones surprise when earlier this morning that Anastasio Somoza Garcia has asked [[~ROOT.getleader~]] to step down as president of Nicaragua. Somoza and the Guardia Nacional under his control have waged a campaign of assassinations and terrorism against Somoza's political opponents since the 1933 power-sharing agreement. The country has been in a Presidential crisis since the middle of 1935, a crisis that many thought would plunge the country into chaos. [[~ROOT.getleader~]] has decided to avoid a possible civil war and step down, rather than try to maintain his grip on power. The [[~USA.getname~]] who brokered the 1933 deal have washed their hands of the situation and don't care about what to many pundits is essentially the fall of democracy in Nicaragua.[~\n~] [~\n~] Anastasio Somoza Garcia has appointed a temporary president that is a mere puppet for him. New elections will be organized, though many suspect that there will election fraud that will be naturally in favor of Anastasio Somoza Garcia."
 nicaragua.1.a:0	"Power is held in a loaded Rifle Sacasa"
 
 nicaragua.2.t:0	"Nicaragua Requests to join the Comintern"

@@ -44,8 +44,8 @@
 
  #focuses
 
- ALG_national_guard:0	"Creates five §HNational Guard§! divisions in rural areas."
- ALG_national_guard2:0	"Raises an additional three §HNational Guard§! divisions in the capital region."
+ ALG_national_guard:0	"Creates five [~§H~]National Guard[~§!~] divisions in rural areas."
+ ALG_national_guard2:0	"Raises an additional three [~§H~]National Guard[~§!~] divisions in the capital region."
  ALG_armed_forces:0	"[[~ALG.GetAdjective~]] Armed Forces"
  ALG_armed_forces_desc:0	"Protection of our country relies on three military branches: land army, naval regiments, and airforce. Establishing a separate and independent command structure might be a tedious yet essential task to preserve our autonomy."
  ALG_APNAF:0	"Rise the APNAF"
@@ -230,17 +230,17 @@
  #events
 
  algeria.1.t:0	"The First General Election"
- algeria.1.d:0	"The provincial government has served the nation well, but as [[~ALG.getNameDef~]] has gained its complete independence, it is time for the people to be heard in electing their leader for the new government. \n\nWhom shall the people choose?"
+ algeria.1.d:0	"The provincial government has served the nation well, but as [[~ALG.getNameDef~]] has gained its complete independence, it is time for the people to be heard in electing their leader for the new government. [~[~\n~][~\n~]~]Whom shall the people choose?"
  algeria.1.a:0	"Ferhat Abbas - A strong authoritarian."
  algeria.1.b:0	"Messali Hadj - The father of Algerian nationalism."
- algeriacivilwar.1:0	"§RThis will lead to a civil war!§!"
+ algeriacivilwar.1:0	"[~§R~]This will lead to a civil war![~§!~]"
  algeria.2.t:0	"The Great Peasant Strike"
- algeria.2.d:0	"Since [[~ALG.getNameDef~]] has gained its independence, the situation in the nation has not been entirely stable. With the lack of effective leadership, the provincial government's promises seem nothing but broken.\n\nWith many peasants feeling dissatisfied with the provincial government, many communist groups have organized in Algiers to stage strikes across the city. However, recently these groups have armed themselves and clashed with the local police. The situation is very quickly growing out of control.\n\nThe only thing now is how we should handle the situation. There is a significant risk of the conflict turning into a full-blown civil war should it be handled harshly."
+ algeria.2.d:0	"Since [[~ALG.getNameDef~]] has gained its independence, the situation in the nation has not been entirely stable. With the lack of effective leadership, the provincial government's promises seem nothing but broken.[~[~\n~][~\n~]~]With many peasants feeling dissatisfied with the provincial government, many communist groups have organized in Algiers to stage strikes across the city. However, recently these groups have armed themselves and clashed with the local police. The situation is very quickly growing out of control.[~[~\n~][~\n~]~]The only thing now is how we should handle the situation. There is a significant risk of the conflict turning into a full-blown civil war should it be handled harshly."
  algeria.2.a:0	"Send the national guard to deal with this!"
  algeria.2.b:0	"Let the people be heard."
  algeria.3.t:0	"A Bloody Takeover"
- algeria.3.d:0	"The national guard has put up a stiff fight in Algiers and has dealt with most of the armed rioters. However, the rioters strongly resisted, inflicting many casualties upon the national guard.\n\nThere are reports that the remaining groups have banded together under the PCA and are organizing a rebellion in the nation's east."
+ algeria.3.d:0	"The national guard has put up a stiff fight in Algiers and has dealt with most of the armed rioters. However, the rioters strongly resisted, inflicting many casualties upon the national guard.[~[~\n~][~\n~]~]There are reports that the remaining groups have banded together under the PCA and are organizing a rebellion in the nation's east."
  algeria.3.a:0	"The provincial government has failed. The military needs complete control over this."
  algeria.4.t:0	"Nation-Wide Riots"
- algeria.4.d:0	"The rioters in Algiers have managed to organize further and have now almost completely taken control of the city. The national guard has been forced to retreat from the city and the surrounding area. Along with this, other organizations have risen in many other cities across the nation under the banner of the PCA.\n\nThe national guard is now wholly disorganized, but recent reports suggest that the remaining soldiers are retreating to the nation's east to fight on."
+ algeria.4.d:0	"The rioters in Algiers have managed to organize further and have now almost completely taken control of the city. The national guard has been forced to retreat from the city and the surrounding area. Along with this, other organizations have risen in many other cities across the nation under the banner of the PCA.[~[~\n~][~\n~]~]The national guard is now wholly disorganized, but recent reports suggest that the remaining soldiers are retreating to the nation's east to fight on."
  algeria.4.a:0	"At last, the [[~ALG.GetAdjective~]] workers are free."

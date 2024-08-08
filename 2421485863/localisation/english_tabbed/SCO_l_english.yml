@@ -4,7 +4,7 @@
  # Arthur Donaldson Scottish national party member willing a separate peace with Nazi Germany
  # Douglas Young, opposed to Scottish involvement in WWII
 
- disable_panceltism_tt:0	"§RThis will locks Panceltism.§!"
+ disable_panceltism_tt:0	"[~§R~]This will locks Panceltism.[~§!~]"
 
  #Cardonald filling factory
  SCO_fascism_party:0	"SDFP"
@@ -290,7 +290,7 @@
  r56_scotland.6.desc:0	"After the audacious actions of our agents, the Stone of Destiny is finally back in Scotland. It has immediately served to confirm the rightful coronation of our monarch. While ideally should put it back in Scone where it should belong, the tension with [[~ENG.GetNameDef~]] would make it too dangerous. We now have a rightful monarch, the first king of Scots to be rightfully crowned in our land in many centuries."
  r56_scotland.6.a:0	"Long Live the King!"
 
- SCO_unlocks_cunning_plan_tt:0	"Unlocks the §YCunning Plans§! focus allowing you to get the stone back and take back control of the coronation ceremonial through cunning means."
+ SCO_unlocks_cunning_plan_tt:0	"Unlocks the [~§Y~]Cunning Plans[~§!~] focus allowing you to get the stone back and take back control of the coronation ceremonial through cunning means."
 
  operation_steal_the_stone_of_scone:0	"Recuperate the Stone of Scone"
  operation_steal_the_stone_of_scone_desc:0	"Stealing the Stone of Destiny and bringing it back to Scone would allow us to restore the legitimacy of our monarchy while avoiding needless victims."

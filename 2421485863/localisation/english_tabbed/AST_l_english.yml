@@ -35,24 +35,24 @@
  r56_australia.australia_first_win:0	"Australia First wins the vote."
 
  r56_australia.1.t:0	"Appointment of the New Governor-General"
- r56_australia.1.d:0	"Isaac Isaacs' term as Governor-General is over. He will be remembered as the first Australian Governor-General and for his outstanding frugality.\n\nOf the candidates recommended to replace him, the Prime Minister has decided to return to a British Governor-General and offered Alexander Hore-Ruthven.\n\nHe was previously the Governor of New South Wales and South Australia before that where he used his influence to help the state during the start of the Great Depression."
+ r56_australia.1.d:0	"Isaac Isaacs' term as Governor-General is over. He will be remembered as the first Australian Governor-General and for his outstanding frugality.[~[~\n~][~\n~]~]Of the candidates recommended to replace him, the Prime Minister has decided to return to a British Governor-General and offered Alexander Hore-Ruthven.[~[~\n~][~\n~]~]He was previously the Governor of New South Wales and South Australia before that where he used his influence to help the state during the start of the Great Depression."
  r56_australia.1.a:0	"Lord Gowrie will make a good Governor-General."
 
- r56_australia.2.d:0	"Alexander Hore-Ruthven's term as Governor-General is over. The King has granted him the title of Earl of Gowrie in recognition of his service with the new job of Deputy Constable and Lieutenant-Governor of Windsor Castle. His influence during the past nine years is sure to be remembered.\n\nPrince Henry, Duke of Gloucester, the third son of King George V, has been selected from the candidates presented for his replacement."
+ r56_australia.2.d:0	"Alexander Hore-Ruthven's term as Governor-General is over. The King has granted him the title of Earl of Gowrie in recognition of his service with the new job of Deputy Constable and Lieutenant-Governor of Windsor Castle. His influence during the past nine years is sure to be remembered.[~[~\n~][~\n~]~]Prince Henry, Duke of Gloucester, the third son of King George V, has been selected from the candidates presented for his replacement."
  r56_australia.2.a:0	"HRH The Duke of Gloucester will make a good Governor-General."
 
  r56_australia.4.t:0	"The Death of Joseph Lyons"
- r56_australia.4.uap:0	"Prime Minister Joseph Lyons has suffered a heart attack while being driven from Melbourne to Sydney. He was collecting his son from college at the time. As the first Prime Minister to die in office, there is no constitutional precedent for who should be appointed as his successor. The lack of a deputy leader for the UAP has complicated matters, and it will be some time before a new leader of the UAP can be chosen. Earle Page, leader of the Country Party and deputy Prime Minister, has been selected to serve as interim Prime Minister until the UAP can vote on their new leader.\n\nAt the age of 59, Lyons contemplated his retirement and wished to spend more time with his young children. However, the lack of a successor led the party to pressure him to stay. Lyons will be remembered for keeping the country together as it struggled from the Great Depression."
- r56_australia.4.labor:0	"Former Prime Minister Joseph Lyons has suffered a heart attack while collecting his son from college. Since his defeat in the 1937 elections, he was reportedly enjoying his retirement and was spending a lot of time with his young children and renovating his home in Devonport.\n\nLyons will be remembered for keeping the country together as it struggled from the Great Depression."
+ r56_australia.4.uap:0	"Prime Minister Joseph Lyons has suffered a heart attack while being driven from Melbourne to Sydney. He was collecting his son from college at the time. As the first Prime Minister to die in office, there is no constitutional precedent for who should be appointed as his successor. The lack of a deputy leader for the UAP has complicated matters, and it will be some time before a new leader of the UAP can be chosen. Earle Page, leader of the Country Party and deputy Prime Minister, has been selected to serve as interim Prime Minister until the UAP can vote on their new leader.[~[~\n~][~\n~]~]At the age of 59, Lyons contemplated his retirement and wished to spend more time with his young children. However, the lack of a successor led the party to pressure him to stay. Lyons will be remembered for keeping the country together as it struggled from the Great Depression."
+ r56_australia.4.labor:0	"Former Prime Minister Joseph Lyons has suffered a heart attack while collecting his son from college. Since his defeat in the 1937 elections, he was reportedly enjoying his retirement and was spending a lot of time with his young children and renovating his home in Devonport.[~[~\n~][~\n~]~]Lyons will be remembered for keeping the country together as it struggled from the Great Depression."
  r56_australia.4.a:0	"He served his country well."
 
  r56_australia.5.t:0	"Robert Menzies Elected Prime Minister"
- r56_australia.5.d:0	"The UAP elected former deputy leader Robert Menzies as its new leader, and he has been sworn in as the new Prime Minister of Australia. In an act that has shocked Parliament, Interim Prime Minister Earle Page has refused to serve under Menzies and in the House made an extraordinary attack upon Menzies, accusing him of incompetence and cowardice for failing to enlist during the Great War. The Country Party was quick to respond and ousted Page as its leader.\n\nHowever you look at it, it is a lousy way to begin your premiership."
+ r56_australia.5.d:0	"The UAP elected former deputy leader Robert Menzies as its new leader, and he has been sworn in as the new Prime Minister of Australia. In an act that has shocked Parliament, Interim Prime Minister Earle Page has refused to serve under Menzies and in the House made an extraordinary attack upon Menzies, accusing him of incompetence and cowardice for failing to enlist during the Great War. The Country Party was quick to respond and ousted Page as its leader.[~[~\n~][~\n~]~]However you look at it, it is a lousy way to begin your premiership."
  r56_australia.5.a:0	"Let's hope he'll unite the country."
 
  r56_australia.7.t:0	"The Death of John Curtin"
  r56_australia.7.uap:0	"Labor Party leader John Curtin has died today at the age of 60. His health deteriorated over the last few months, and he had a heart attack the previous year. The long-serving leader of the Labor Party had been battling with the UPA for years, and his socialist policies were often divisive. He will be remembered as a great leader and a man who did his best to serve Australia and its people."
- r56_australia.7.labor:0	"Prime Minister John Curtin has died today at the age of 60. His health deteriorated over the last few months, and he had a heart attack the previous year. The long-serving leader of the Labor Party has proven popular and united the country to make great strides in reducing unemployment and dragging Australia out of the Great Depression.\n\nHe will undoubtedly be remembered as a great leader."
+ r56_australia.7.labor:0	"Prime Minister John Curtin has died today at the age of 60. His health deteriorated over the last few months, and he had a heart attack the previous year. The long-serving leader of the Labor Party has proven popular and united the country to make great strides in reducing unemployment and dragging Australia out of the Great Depression.[~[~\n~][~\n~]~]He will undoubtedly be remembered as a great leader."
  r56_australia.7.a:0	"He served his country well."
 
  r56_australia.8.t:0	"1937 Federal Election"
@@ -82,7 +82,7 @@
  r56_australia.12.b:0	"Labor wins."
 
  r56_australia.13.t:0	"Robert Menzies Resigns"
- r56_australia.13.d:0	"Under mounting opposition and deadlock in parliament, Prime Minister Menzies has announced his intention to resign. In a last-ditch effort by the UAP to keep him in power, the cabinet urged a national unity government to be formed with Labor. However, Labor refused such an agreement. Having lost all support from parliament, he has stepped down.\n\nDespite Menzies advising the Governor-General to make John Curtin Prime Minister, a joint UAP-Country Party conference chose Country Party leader Arthur Fadden as the new Coalition leader and Prime Minister. Bitter and dejected, Robert Menzies almost quit politics but was persuaded to become Minister for Defence Co-ordination in Arthur Fadden's new cabinet."
+ r56_australia.13.d:0	"Under mounting opposition and deadlock in parliament, Prime Minister Menzies has announced his intention to resign. In a last-ditch effort by the UAP to keep him in power, the cabinet urged a national unity government to be formed with Labor. However, Labor refused such an agreement. Having lost all support from parliament, he has stepped down.[~[~\n~][~\n~]~]Despite Menzies advising the Governor-General to make John Curtin Prime Minister, a joint UAP-Country Party conference chose Country Party leader Arthur Fadden as the new Coalition leader and Prime Minister. Bitter and dejected, Robert Menzies almost quit politics but was persuaded to become Minister for Defence Co-ordination in Arthur Fadden's new cabinet."
  r56_australia.13.a:0	"Let's hope Fadden can keep [[~AST.GetNameDef~]] together."
 
  r56_australia.14.t:0	"Vote of No Confidence"
@@ -500,7 +500,7 @@
  AST_R56_great_depression:0	"Great Depression"
  AST_R56_great_depression_desc:0	""
  AST_R56_memories_of_gallipoli:0	"Memories of Gallipoli"
- AST_R56_memories_of_gallipoli_desc:0	"§RYou cannot increase conscription laws until relevant focuses have been taken. Check the conscription law for more details.§!\n\nThe [[~AST.GetAdjective~]] people have not forgotten how Australian blood was shed on the battlefields of the Great War. As such, there is significant opposition to any idea of conscripting [[~AST.GetAdjective~]]s to fight overseas should another war break out."
+ AST_R56_memories_of_gallipoli_desc:0	"[~§R~]You cannot increase conscription laws until relevant focuses have been taken. Check the conscription law for more details.[~§!~][~[~\n~][~\n~]~]The [[~AST.GetAdjective~]] people have not forgotten how Australian blood was shed on the battlefields of the Great War. As such, there is significant opposition to any idea of conscripting [[~AST.GetAdjective~]]s to fight overseas should another war break out."
  AST_R56_department_of_defence_coordination_idea:0	"Department of Defence Coordination"
  AST_R56_department_of_defence_coordination_idea_desc:0	""
  AST_R56_south_west_pacific_area_command_idea:0	"South West Pacific Area Command"
@@ -587,12 +587,12 @@
  AST_support_the_policy_of_appeasement:0	"Support the Policy of Appeasement"
 
  ### Tool Tips ###
- AST_R56_naval_auxiliary_patrol_tt:0	"Gain §YBunkers§! and §YNaval Bunkers§! on all naval bases on core land."
- AST_R56_z_special_unit_tt:0	"Gain an §YElite Special Forces Unit§! in Sydney."
- AST_R56_unlock_mobilisation_tt:0	"Unlocks new §Yconscription laws§!.\n"
- AST_R56_down_with_the_communists_tt:0	"§RThe more support the Communists have, the worse the effects of cracking down on them.§!"
- AST_lower_depression_tt:0	"Will reduce the §YGreat Depression§!.\n"
- AST_support_uprisings_tt:0	"Your ideology will determine which ideology you will support in this nation.\n"
+ AST_R56_naval_auxiliary_patrol_tt:0	"Gain [~§Y~]Bunkers[~§!~] and [~§Y~]Naval Bunkers[~§!~] on all naval bases on core land."
+ AST_R56_z_special_unit_tt:0	"Gain an [~§Y~]Elite Special Forces Unit[~§!~] in Sydney."
+ AST_R56_unlock_mobilisation_tt:0	"Unlocks new [~§Y~]conscription laws[~§!~].[~\n~]"
+ AST_R56_down_with_the_communists_tt:0	"[~§R~]The more support the Communists have, the worse the effects of cracking down on them.[~§!~]"
+ AST_lower_depression_tt:0	"Will reduce the [~§Y~]Great Depression[~§!~].[~\n~]"
+ AST_support_uprisings_tt:0	"Your ideology will determine which ideology you will support in this nation.[~\n~]"
 
  ### Factions ###
  AST_anzus_faction:0	"ANZUS"

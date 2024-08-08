@@ -5,7 +5,7 @@ r56_paraguay.1.a:0	"Long live Colonel Franco!"
 r56_paraguay.2.a:0	"We must resist! Form a coalition with the PCP and fight!"
 r56_PAR_franco_coup:0	"Upcoming Military Coup"
 r56_PAR_franco_coup_desc:0	"The military unhappy with the weak regime of [[~PAR.getleader~]] has formed a conspiracy to overthrow the current government. The conspiracy is being led by the exiled Colonel Franco. If we are to prevent it we must move fast."
-r56_PAR_coup_called_off:0	"Colonel Franco was §YAssassinated§!"
+r56_PAR_coup_called_off:0	"Colonel Franco was [~§Y~]Assassinated[~§!~]"
 r56_PAR_franco_coup_mission:0	"Colonel Franco's Return"
 r56_PAR_franco_coup_mission_desc:0	"Are sources say Colonel Franco's return will mark the start of the Military coup."
 r56_PAR_military_concessions:0	"Concessions to Morinigo's faction"
@@ -15,8 +15,8 @@ r56_PAR_assassinate_franco_desc:0	"Taking Franco out of the picture is the only 
 
 
 #tt's
-r56_PAR_civil_war_choice_tt:0	"Unlocks the §Yoption§! to resist the military coup with a §RCivil War.§!"
-r56_PAR_coup_called_off_tt:0	"The Military Coup will be §Yprevented§!"
+r56_PAR_civil_war_choice_tt:0	"Unlocks the [~§Y~]option[~§!~] to resist the military coup with a [~§R~]Civil War.[~§!~]"
+r56_PAR_coup_called_off_tt:0	"The Military Coup will be [~§Y~]prevented[~§!~]"
 
 
 PAR_fascism_party:0	"ANR - Colorado"

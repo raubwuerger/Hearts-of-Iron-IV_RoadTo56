@@ -11,7 +11,7 @@
  
  r56_TUR_turkish_revanchism:0	"Turkish Revanchism"
  r56_TUR_turkish_revanchism_desc:0	"Against all odds, the will of the Grand National Assembly led Turkey to triumph against the regions powers, securing our permanent right to nationhood. Despite the work of Atatürk, other nations control sums of our rightful land. Free and secure, we alone must decide the future of our territorial grievances."
- TUR_unlocks_integration_decisions_tt:0	"Unlocks §YIntegration decisions§! once fully owned and controlled."
+ TUR_unlocks_integration_decisions_tt:0	"Unlocks [~§Y~]Integration decisions[~§!~] once fully owned and controlled."
  pan_turkic_propaganda:0	"Pan-Turkic Propaganda"
  
  r56_TUR_press_the_hatay_issue:0	"Press the Hatay Issue"
@@ -23,22 +23,22 @@
  r56_TUR_connect_mosul_desc:0	"Newly gained Mosul, while rich in oil, is heavily under-developed. Investments in local infrastructure would go a long way in turning Mosul into a model province of our young nation."
  r56_TUR_mosul_turkish_language_schooling:0	"Turkish Language Schooling (Mosul)"
  r56_kurdish_agitation:0	"Kurdish Separatism"
- TUR_mosul_integratable_tt:0	"Unlocks Decision: §YIntegrate Mosul§!."
+ TUR_mosul_integratable_tt:0	"Unlocks Decision: [~§Y~]Integrate Mosul[~§!~]."
  r56_TUR_integrate_mosul:0	"Integrate Mosul"
  
  r56_TUR_claim_azerbaijan:0	"Claim Azerbaijan"
  r56_TUR_claim_azerbaijan_desc:0	"The people of Azerbaijan have suffered under Moscow's boot long enough. As the Bismark of the Turkic peoples, we shall free our national brethren from their oppressors at once!"
  r56_TUR_baku_pan_turk_propaganda:0	"Pan-Turkic Propaganda (Azerbaijan)"
  r56_TUR_connect_baku:0	"Connect Baku"
- TUR_azerbaijan_integratable_tt:0	"Unlocks Decision: §YIntegrate Azerbaijan§!."
+ TUR_azerbaijan_integratable_tt:0	"Unlocks Decision: [~§Y~]Integrate Azerbaijan[~§!~]."
  r56_TUR_integrate_azerbaijan:0	"Integrate Azerbaijan"
  
  r56_TUR_unshackle_tabriz:0	"Unshackle Tabriz"
  r56_TUR_unshackle_tabriz_desc:0	"The Azeri diaspora of Tabriz, and its surrounding area, has fallen victim to centralization efforts from Tehran for long enough. The great city of Tabriz, and its honorable people shall be unshackled from their long oppressors!"
  r56_TUR_tabriz_pan_turk_propaganda:0	"Pan-Turkic Propaganda (Tabriz)"
  r56_TUR_connect_tabriz:0	"Connect Tabriz"
- TUR_tabriz_integratable_tt:0	"Unlocks Decision: §YIntegrate Tabriz§!."
- has_completed_decision_connect_tabriz_tt:0	"Has completed decision §YConnect Tabriz§!"
+ TUR_tabriz_integratable_tt:0	"Unlocks Decision: [~§Y~]Integrate Tabriz[~§!~]."
+ has_completed_decision_connect_tabriz_tt:0	"Has completed decision [~§Y~]Connect Tabriz[~§!~]"
  r56_TUR_integrate_tabriz:0	"Integrate Tabriz"
  
  r56_TUR_claim_crimea:0	"Free the Crimean Tatars!"
@@ -60,15 +60,15 @@
  
  r56_TUR_connect_van:0	"Connect Van"
  
- unlocks_bolstering_our_armed_forces_decisions_tt:0	"Unlocks §YBolstering our Armed Forces§! decisions"
- unlocks_fortification_decisions_tt:0	"Unlocks decisions to §YConstruct Fortifications§! along the Greek and Soviet borders."
- TUR_logistical_advancements_tt:0	"If §YMotorized Infantry§! is researched, another award will be given"
- TUR_strengthen_troop_coordination_tt:0	"If §YRadios§! are researched, another award will be given"
- fortifies_all_provinces_against_SOV_tt:0	"Adds two §YForts§!, and a level of §YAnti-Air§! in every province bordering the §YSoviet Union§!"
- fortifies_all_provinces_edirne_tt:0	"Adds two §YForts§!, and a level of §YAnti-Air§! in every §YEdirne§! province bordering §YGreece§! and §YBulgaria§!"
- has_researched_delay_tt:0	"Has researched §YDelay§!"
+ unlocks_bolstering_our_armed_forces_decisions_tt:0	"Unlocks [~§Y~]Bolstering our Armed Forces[~§!~] decisions"
+ unlocks_fortification_decisions_tt:0	"Unlocks decisions to [~§Y~]Construct Fortifications[~§!~] along the Greek and Soviet borders."
+ TUR_logistical_advancements_tt:0	"If [~§Y~]Motorized Infantry[~§!~] is researched, another award will be given"
+ TUR_strengthen_troop_coordination_tt:0	"If [~§Y~]Radios[~§!~] are researched, another award will be given"
+ fortifies_all_provinces_against_SOV_tt:0	"Adds two [~§Y~]Forts[~§!~], and a level of [~§Y~]Anti-Air[~§!~] in every province bordering the [~§Y~]Soviet Union[~§!~]"
+ fortifies_all_provinces_edirne_tt:0	"Adds two [~§Y~]Forts[~§!~], and a level of [~§Y~]Anti-Air[~§!~] in every [~§Y~]Edirne[~§!~] province bordering [~§Y~]Greece[~§!~] and [~§Y~]Bulgaria[~§!~]"
+ has_researched_delay_tt:0	"Has researched [~§Y~]Delay[~§!~]"
  
- unlocks_drill_decisions_tt:0	"Unlocks §YProspecting for Oil§! decisions"
+ unlocks_drill_decisions_tt:0	"Unlocks [~§Y~]Prospecting for Oil[~§!~] decisions"
  r56_TUR_drill_diyakbir:0	"Drill Diyakbir"
  r56_TUR_drill_hakkari:0	"Drill Hakari"
  
@@ -103,7 +103,7 @@
   
  TUR_village_institutes_program:0	"Village Institutes Program"
  TUR_village_institutes_program_desc:0	"Our eastern provinces have been a constant barrier towards centralization of the nation. Government funded institutions, sought to guide social and economic developments within rural communities, may go far in bridging the regional gap throughout Turkey."
- TUR_village_institutes_focus_days_tt:0	"Has been 400 or more days since focus §YVillage Institutes Program§! has been completed"
+ TUR_village_institutes_focus_days_tt:0	"Has been 400 or more days since focus [~§Y~]Village Institutes Program[~§!~] has been completed"
  TUR_village_institutes_focus_current_days_tt:0	"Current days are: [[~?TUR_village_institutes_flag:days|Y0~]]"
  
  TUR_eradicate_rural_illiteracy:0	"Eradicate Rural Illiteracy"
@@ -182,8 +182,8 @@
  
  TUR_neutrality_through_deterrence:0	"Neutrality Through Deterrence"
  TUR_neutrality_through_deterrence_desc:0	"Conflict across Europe is a reality once more on the horizon. For the good of the nation, we must guide ourselves away from the horrors that never fail to follow conflict."
- TUR_unlocks_hatay_decision_tt:0	"Unlocks decision: §YPress the Hatay Issue§!."
- TUR_unlocks_saadabad_decision_tt:0	"Unlocks decision: §YThe Saadabad Pact§!."
+ TUR_unlocks_hatay_decision_tt:0	"Unlocks decision: [~§Y~]Press the Hatay Issue[~§!~]."
+ TUR_unlocks_saadabad_decision_tt:0	"Unlocks decision: [~§Y~]The Saadabad Pact[~§!~]."
 
  TUR_anglo_turkish_friendship_agreement:0	"Anglo-Turkish Friendship Agreement"
  TUR_anglo_turkish_friendship_agreement_desc:0	"The British share many interests with our nation, most of all a care for Europe's ever-so fragile balance of power. We should see closer ties on that basis."
@@ -196,7 +196,7 @@
  
  TUR_amend_the_montreux_convention:0	"Amend the Montreux Convention"
  TUR_amend_the_montreux_convention_desc:0	"The Soviets have made their interest in the Black Sea straits clear. Perhaps in exchange for industrial aid and closer ties, we can grant further concessions to the Soviet Union."
- TUR_renew_the_soviet_non_aggression_pact_focus_days_tt:0	"Has been 105 or more days since focus §YRenew the Soviet Non-Aggression Pact§! has been completed"
+ TUR_renew_the_soviet_non_aggression_pact_focus_days_tt:0	"Has been 105 or more days since focus [~§Y~]Renew the Soviet Non-Aggression Pact[~§!~] has been completed"
  TUR_renew_the_soviet_non_aggression_pact_current_days_tt:0	"Current days are: [[~?TUR_renew_the_soviet_non_aggression_pact_flag:days|Y0~]]"
  turkey.117.t:0	"Amending the Montreux Convention?"
  turkey.117.a:0	"This initiative pleases us, we agree!"
@@ -241,13 +241,13 @@
  
  TUR_cooperation_against_moscow:0	"Cooperation Against Moscow"
  TUR_cooperation_against_moscow_desc:0	"The Russian Empire, and more recently, the Soviet Union are oppressors of Turkic peoples who have laid outlandish ambitions upon our straits, and even more for the independent nations of eastern Europe. We must oppose these dangers wherever they arise, and rally those who share our grievances."
- TUR_cooperation_against_moscow1_tt:0	"Unlocks decision: §YJoin the Anti-Comintern Pact§!."
+ TUR_cooperation_against_moscow1_tt:0	"Unlocks decision: [~§Y~]Join the Anti-Comintern Pact[~§!~]."
  r56_TUR_join_the_anti_comintern_pact:0	"Join the Anti-Comintern Pact"
  
  TUR_cooperation_against_berlin:0	"Cooperation Against Berlin"
  TUR_cooperation_against_berlin_desc:0	"Germany has already violated several of the restrictions assigned to them at Versailles, and this is just the start. We must make clear our opposition to their outrageous claims across Europe, and find friends who share this understanding."
  r56_TUR_renew_the_soviet_non_aggression_pact_decision:0	"Renew the Soviet Non-Aggression Pact"
- TUR_cooperation_against_berlin1_tt:0	"Unlocks decision: §YRenew the Soviet Non-Aggression Pact§!."
+ TUR_cooperation_against_berlin1_tt:0	"Unlocks decision: [~§Y~]Renew the Soviet Non-Aggression Pact[~§!~]."
  
  TUR_anti_colonial_action:0	"Anti-Colonial Action"
  TUR_anti_colonial_action_desc:0	"The British and French are a cancer upon the Middle-East. As a newly socialist nation, our way forward is liberating our region's brethren against the filth of colonialism!"
@@ -275,8 +275,8 @@
  
  TUR_join_the_international_community:0	"Join the International Community"
  TUR_join_the_international_community_desc:0	"Our cause is hopeless if we go at it alone. We must appeal to the great powers of the world, and drive them to our righteous cause."
- TUR_unlocks_join_allies_decision_tt:0	"Unlocks decision: §YJoin the Allies§!."
- TUR_unlocks_join_axis_decision_tt:0	"Unlocks decision: §YJoin the Axis§!."
+ TUR_unlocks_join_allies_decision_tt:0	"Unlocks decision: [~§Y~]Join the Allies[~§!~]."
+ TUR_unlocks_join_axis_decision_tt:0	"Unlocks decision: [~§Y~]Join the Axis[~§!~]."
  r56_TUR_join_the_allies:0	"Join the Allies"
  r56_TUR_join_the_axis:0	"Join the Axis"
  r56_TUR_deal_for_the_oniki_islands:0	"Deal for the Oniki Islands"
@@ -289,7 +289,7 @@
  
  TUR_ally_the_balkan_states:0	"Ally the Balkan States"
  TUR_ally_the_balkan_states_desc:0	"The nations of the Balkans are at a crossroad. We shall guide them to a more certain future."
- solidify_the_balkan_pact_tt:0	"Unlocks §YAlly the Balkan Nations decisions§!."
+ solidify_the_balkan_pact_tt:0	"Unlocks [~§Y~]Ally the Balkan Nations decisions[~§!~]."
  r56_TUR_alliance_with_greece:0	"Alliance with Greece"
  r56_TUR_alliance_with_bulgaria:0	"Alliance with Bulgaria"
  r56_TUR_alliance_with_romania:0	"Alliance with Romania"
@@ -335,7 +335,7 @@
  
  TUR_limited_mutual_assistance:0	"Limited Mutual Assistance"
  TUR_limited_mutual_assistance_desc:0	"Although we are not in a position to fight their enemies, it is clear that the straits we administer are of vital importance to Britain. In exchange for a guarantee of security over these important waterways, we could perhaps extract concessions from the British to aid in our industrialization."
- TUR_anglo_turkish_friendship_agreement_focus_days_tt:0	"Has been 105 or more days since focus §YAnglo-Turkish Friendship Agreement§! has been completed"
+ TUR_anglo_turkish_friendship_agreement_focus_days_tt:0	"Has been 105 or more days since focus [~§Y~]Anglo-Turkish Friendship Agreement[~§!~] has been completed"
  TUR_anglo_turkish_friendship_agreement_current_days_tt:0	"Current days are: [[~?TUR_anglo_turkish_friendship_agreement_flag:days|Y0~]]"
  
  TUR_standardization_idea:0	"Standardization"
@@ -475,7 +475,7 @@
  TUR_the_montreux_convention_r56:0	"The Montreux Convention"
  TUR_the_montreux_convention_r56_desc:0	"Straits area has been demilitarized since The Great War, but it cannot stay that way. We must look for international support to impose our full sovereignty."
 
- TUR_invite_to_faction_tooltip:0	"is invited to [[~Root.GetFlag~]]§Y[[~Root.GetName~]]§!'s faction.\n"
+ TUR_invite_to_faction_tooltip:0	"is invited to [[~Root.GetFlag~]][~§Y~][[~Root.GetName~]][~§!~]'s faction.[~\n~]"
  
  ### TUR - TURKEY ###
  TUR_submarine_1:0	"Birinci İnönü Class"
@@ -535,7 +535,7 @@
  TUR_annex_korea_KOR_tt:0	"Is a neighbour of [[~KOR.GetNameDef~]] or the owner of Korea."
  TUR_annex_korea_MAN_tt:0	"Is a neighbour of [[~MAN.GetNameDef~]] or the owner of Manchuria."
 
- TUR_kemalist_officers_loyalty_increase_by_half_tt:0	"Improves national spirit §YKemalist Officers§! after taking this decision §Y2§! times.\n"
+ TUR_kemalist_officers_loyalty_increase_by_half_tt:0	"Improves national spirit [~§Y~]Kemalist Officers[~§!~] after taking this decision [~§Y~]2[~§!~] times.[~\n~]"
  # Focuses
 
 
@@ -550,14 +550,14 @@
 
  TUR_instate_constitutional_secularism:0	"Instate Constitutional Secularism"
  TUR_instate_constitutional_secularism_desc:0	"Secularism is a fundamental principle of our nation. Embedding this eminent arrow of Kemalist policy into our republic will show that fact to the world!"
- TUR_instate_constitutional_secularism_tt:0	"Unlocks decision: §YPublic Schooling Initiative§!."
+ TUR_instate_constitutional_secularism_tt:0	"Unlocks decision: [~§Y~]Public Schooling Initiative[~§!~]."
 
  TUR_nationalist_policies:0	"Nationalist Policies"
  TUR_nationalist_policies_desc:0	"It is the Turkish government's job, before anything else, to serve the interests of the nation. We must continue the CHP's unwavering dedication to Turkey!"
  r56tree_kurdish_separatism:0	"Kurdish Separatism"
  r56tree_limited_kurdish_separatism:0	"Limited Kurdish Separatism"
- TUR_nationalist_policies_tt:0	"Unlocks decision: §YPacification Efforts in Tunceli§!."
- TUR_nationalist_policies2_tt:0	"Unlocks decision: §YPacification Efforts in Van§!."
+ TUR_nationalist_policies_tt:0	"Unlocks decision: [~§Y~]Pacification Efforts in Tunceli[~§!~]."
+ TUR_nationalist_policies2_tt:0	"Unlocks decision: [~§Y~]Pacification Efforts in Van[~§!~]."
  TUR_pacification_efforts_in_tunceli:0	"Pacification Efforts in Tunceli"
  TUR_pacification_efforts_in_van:0	"Pacification Efforts in Van" 
 
@@ -570,7 +570,7 @@
 
  TUR_continue_ataturks_reforms:0	"Continue Atatürk's Reforms"
  TUR_continue_ataturks_reforms_desc:0	"Under İsmet İnönü's leadership, Turkey is in the hands she deserves for the good of her progress. No man seize the mantle of our Atatürk, but our trust is strong that our nation is for its best in İnönü's hands."
- TUR_ataturk_has_died_tt:0	"§YMustafa Kemal Atatürk§! has died"
+ TUR_ataturk_has_died_tt:0	"[~§Y~]Mustafa Kemal Atatürk[~§!~] has died"
 
  TUR_cult_of_the_marshal:0	"Cult of the Marshal"
  TUR_cult_of_the_marshal_desc:0	"It is nothing short of an honor to witness the nation's grand marshal, Fevzi Çakmak, once more enter politics. His devotion to the Turkish people is unmatched by all except our Atatürk himself. But, above all, his rule brings one certainty: the Republic of Turkey is in strong hands!"
@@ -579,7 +579,7 @@
 
  TUR_war_bonds:0	"War Bonds"
  TUR_war_bonds_desc:0	"Conflict is once more on its way. Even a blind man can see the danger in remaining unpreared. Collection efforts through volunteer-based war bonds would be an excellent way to kickstart our military's expansion!"
- TUR_war_bonds_tt:0	"Unlocks decisions to renew §YNational Struggle Funds§! upon expiration."
+ TUR_war_bonds_tt:0	"Unlocks decisions to renew [~§Y~]National Struggle Funds[~§!~] upon expiration."
  r56_TUR_renew_the_national_struggle_funds:0	"Renew the National Struggle Funds"
 
  TUR_turkish_grain_board:0	"Turkish Grain Board"
@@ -595,7 +595,7 @@
 
  TUR_renew_the_democratic_reforms:0	"Renew the Democratic Reforms"
  TUR_renew_the_democratic_reforms_desc:0	"The time is finally here that we continue the transition to democracy. This great feat has been postponed for far too long, but there's no better time than now to accomplish it!"
- TUR_renew_the_democratic_reforms_tt:0	"Unlocks decision: §YState the Need for Opposition."
+ TUR_renew_the_democratic_reforms_tt:0	"Unlocks decision: [~§Y~]State the Need for Opposition."
  r56_TUR_emphasize_the_need_for_opposition:0	"Emphasize the Need for Opposition"
  r56_TUR_emphasize_the_need_for_opposition_desc:0	"We cannot call ourselves a democratic nation without allowing the establishment of a meaningful opposition party. We must accept reality, and permit the forming of a meaningful non-Kemalist democratic movement."
  r56_TUR_end_the_cult_of_personality:0	"End the Cult of Personality"
@@ -619,11 +619,11 @@
 
  TUR_expand_the_village_institute_program:0	"Expand the Village Institutes Program"
  TUR_expand_the_village_institute_program_desc:0	"The Village Institutes Program has seen success. We should put further funds into expanding our ambitions for it."
- TUR_expand_the_village_institutes_program_tt:0	"Unlocks §YTurkish Language Schooling§! decisions"
+ TUR_expand_the_village_institutes_program_tt:0	"Unlocks [~§Y~]Turkish Language Schooling[~§!~] decisions"
  TUR_turkish_language_schooling_tunceli:0	"Turkish Language Schooling (Tunceli)"
- turkish_language_schooling_tunceli_tt:0	"Has completed decision: §YPacification Efforts in Tunceli§!"
+ turkish_language_schooling_tunceli_tt:0	"Has completed decision: [~§Y~]Pacification Efforts in Tunceli[~§!~]"
  TUR_turkish_language_schooling_van:0	"Turkish Language Schooling (Van)"
- turkish_language_schooling_van_tt:0	"Has completed decision: §YPacification Efforts in Van§!"
+ turkish_language_schooling_van_tt:0	"Has completed decision: [~§Y~]Pacification Efforts in Van[~§!~]"
  TUR_turkish_language_schooling_diyakbir:0	"Turkish Language Schooling (Diyakbir)"
  TUR_turkish_language_schooling_hakkari:0	"Turkish Language Schooling (Hakkari)"
 
@@ -667,7 +667,7 @@
 
  TUR_our_final_battle:0	"Our Final Battle"
  TUR_our_final_battle_desc:0	"Never again shall we tolerate our brethren under foreign rule, just as we'll never tolerate their displacement by the whims of 'compromise'. No longer will Turkey lie a secondary power in a world full of stronger nations. We shall descend upon central Asia, and free who are ours!"
- TUR_our_final_battle_tt:0	"Unlocks §YIntegration of Central Asia§! decisions"
+ TUR_our_final_battle_tt:0	"Unlocks [~§Y~]Integration of Central Asia[~§!~] decisions"
  r56_TUR_integrate_turkmenistan:0	"Integrate Turkmenistan"
  r56_TUR_integrate_uzbekistan:0	"Integrate Uzbekistan"
  r56_TUR_integrate_kazakhstan:0	"Integrate Kazakhstan"
@@ -759,7 +759,7 @@
 
  TUR_pragmatic_expansionism:0	"Pragmatic Expansionism"
  TUR_pragmatic_expansionism_desc:0	"Our empire has lost a significant number of its territories over the centuries. Warmongering for these lands would simply bear instability, followed shortly by total destruction from the bear. Our path to greatness will return slowly, and through adherence to the global order."
- TUR_pragmatic_expansionism_tt:0	"Unlocks §YPragmatic Expansionism§! decisions"
+ TUR_pragmatic_expansionism_tt:0	"Unlocks [~§Y~]Pragmatic Expansionism[~§!~] decisions"
  r56_TUR_syria_for_alliance:0	"Syria for Alliance"
  turkey.141.t:0	"Friendship with the Ottomans?"
  turkey.141.d:0	"The Ottoman Foreign Ambassador has approached our exiled Foreign Minister in London, requesting a formal admission to the allies, a feat that would go far towards the liberation of our mainland. However, their membership is contingent on one thing: the end of our claim over historic French Syria, likely to seize it for themselves. What should our answer to this surprising request be?"
@@ -798,7 +798,7 @@
 
  TUR_one_persian_ottoman_war_to_end_them_all:0	"One Persian-Ottoman War to End Them All"
  TUR_one_persian_ottoman_war_to_end_them_all_desc:0	"The Persians were a long-time rival of the Ottoman Empire. With the chance at hand, now is finally the chance to subjugate their lands, finalizing our dominance over the Muslim world!"
- TUR_one_persian_ottoman_war_to_end_them_all_requirement_tt:0	"If §YRestore the Imperial Borders§! has not been completed:"
+ TUR_one_persian_ottoman_war_to_end_them_all_requirement_tt:0	"If [~§Y~]Restore the Imperial Borders[~§!~] has not been completed:"
 
  TUR_arbiter_of_the_muslim_world:0	"Arbiter of the Muslim World"
  TUR_arbiter_of_the_muslim_world_desc:0	"The 19th century traumatized the Muslim world, as the nations around us fell to the whims of western powers. As the worlds *truly* free Muslim power, we must use our role as regional leader to safeguard the children of allah from the decadence and exploitation of western imperialism."
@@ -806,37 +806,37 @@
 
  TUR_batum_and_the_muslim_caucasian_states:0	"Batum and the Muslim Caucasian States"
  TUR_batum_and_the_muslim_caucasian_states_desc:0	"The Russians have been a great, long-time rival of the Ottoman Empire. But their own decadence has over-stretched them far too greatly. We shall succeed where we've failed so many times, and take back what is rightfully ours!"
- TUR_batum_and_the_muslim_caucasian_states_tt:0	"Gains claim on §YArmenia§!, §YGeorgia§!, §YAbkhazia§!, §YDagestan§!, §YChechyna-Ingushetia§!, §YNorth Ossetia§!, and §YKabardino-Balkaria§!"
- TUR_batum_and_the_muslim_caucasian_states2_tt:0	"Unlocks §YIntegrating the Muslim Caucasus States§! decisions"
+ TUR_batum_and_the_muslim_caucasian_states_tt:0	"Gains claim on [~§Y~]Armenia[~§!~], [~§Y~]Georgia[~§!~], [~§Y~]Abkhazia[~§!~], [~§Y~]Dagestan[~§!~], [~§Y~]Chechyna-Ingushetia[~§!~], [~§Y~]North Ossetia[~§!~], and [~§Y~]Kabardino-Balkaria[~§!~]"
+ TUR_batum_and_the_muslim_caucasian_states2_tt:0	"Unlocks [~§Y~]Integrating the Muslim Caucasus States[~§!~] decisions"
  TUR_r56integrate_dagestan:0	"Integrate Dagestan"
  TUR_r56integrate_chechnya:0	"Integrate Chechnya"
  TUR_r56integrate_kabardinobalkaria:0	"Integrate Kabardino-Balkaria"
 
  TUR_claim_greater_syria:0	"Claim Greater Syria"
  TUR_claim_greater_syria_desc:0	"The 1914 borders over Greater Syria are a critical feat to our restoration, and these lands just so happen to lie within the decadent, declining western powers. We shall march south at once!"
- TUR_claim_greater_syria_reward_tt:0	"Unlocks §YReintegrate Greater Syria§! decisions"
+ TUR_claim_greater_syria_reward_tt:0	"Unlocks [~§Y~]Reintegrate Greater Syria[~§!~] decisions"
  TUR_reintegrate_syria:0	"Reintegrate Syria"
  TUR_reintegrate_lebanon:0	"Reintegrate Lebanon"
  TUR_reintegrate_jordan_and_palestine:0	"Reintegrate Jordan and Palestine"
- TUR_reintegrate_palestine_tt:0	"Gains cores on all §YPalestinian§! States"
- TUR_reintegrate_jordan_tt:0	"Gains cores on all §YJordanese§! States"
+ TUR_reintegrate_palestine_tt:0	"Gains cores on all [~§Y~]Palestinian[~§!~] States"
+ TUR_reintegrate_jordan_tt:0	"Gains cores on all [~§Y~]Jordanese[~§!~] States"
  TUR_reintegrate_arabian_iraq:0	"Reintegrate Arabian Iraq"
- TUR_reintegrate_iraq_tt:0	"Gains cores on all §YIraqi§! states, except §YMosul§!, and §YErbil§!"
+ TUR_reintegrate_iraq_tt:0	"Gains cores on all [~§Y~]Iraqi[~§!~] states, except [~§Y~]Mosul[~§!~], and [~§Y~]Erbil[~§!~]"
 
  TUR_cross_the_suez:0	"Cross the Suez"
  TUR_cross_the_suez_desc:0	"The Suez canal is our key to great power status, and has long been held by the divided, over-extended British Empire. We shall succeed where we once failed, reclaim this critical land, and free the Arabs of North-Africa!"
 
  TUR_dominate_the_arabian_peninsula:0	"Dominate the Arabian Peninsula"
  TUR_dominate_the_arabian_peninsula_desc:0	"The Arabian Peninsula is ruled by weak puppets of the 'great powers' of the west. We shall bring true freedom to the peninsula!"
- TUR_dominate_the_arabian_peninsula_tt:0	"Unlocks §YIntegrating the Peninsula§! decisions"
+ TUR_dominate_the_arabian_peninsula_tt:0	"Unlocks [~§Y~]Integrating the Peninsula[~§!~] decisions"
  TUR_reintegrate_the_west_arabian_coast:0	"Reintegrate the West Arabian Coast"
  TUR_consolidating_the_peninsula:0	"Consolidating the Peninsula"
 
  TUR_reincorporate_the_egyptian_lands:0	"Reincorporate the Egyptian Lands"
  TUR_reincorporate_the_egyptian_lands_desc:0	"Egypt was quite possibly the greatest loss our empire has ever endured. With their lands in our control, our people shall once more join as one!"
- TUR_reintegrate_egypt_tt:0	"Gains cores on all §YEgyptian§!, §YNon-Sudanese§! states"
- TUR_reintegrate_egypt2_tt:0	"Unlocks decision: §YIncorporate Arab Sudan§!."
- TUR_reintegrate_egypt3_tt:0	"Unlocks decision: §YReintegrate Cyrenica and Tripoli§!."
+ TUR_reintegrate_egypt_tt:0	"Gains cores on all [~§Y~]Egyptian[~§!~], [~§Y~]Non-Sudanese[~§!~] states"
+ TUR_reintegrate_egypt2_tt:0	"Unlocks decision: [~§Y~]Incorporate Arab Sudan[~§!~]."
+ TUR_reintegrate_egypt3_tt:0	"Unlocks decision: [~§Y~]Reintegrate Cyrenica and Tripoli[~§!~]."
  TUR_reintegrate_arabian_sudan:0	"Incorporate Arab Sudan"
  TUR_reintegrate_cyrenica_and_tripoli:0	"Reintegrate Cyrenica and Tripoli"
 
@@ -848,7 +848,7 @@
 
  TUR_claim_greater_bulgaria:0	"Claim Greater Bulgaria"
  TUR_claim_greater_bulgaria_desc:0	"The Bulgarians were one of the last European nations to gain independence from our empire, and still hosts a large Turkish minority today. Our path to great power status is contingent on the reclamation of these borders!"
- TUR_claim_greater_bulgaria_tt:0	"Gains claim on all §YBulgarian§! and §YMacedonian§! states, and §YSouthern Dobruja§!"
+ TUR_claim_greater_bulgaria_tt:0	"Gains claim on all [~§Y~]Bulgarian[~§!~] and [~§Y~]Macedonian[~§!~] states, and [~§Y~]Southern Dobruja[~§!~]"
 
  TUR_befriend_the_bulgarians:0	"Befriend the Bulgarians"
  TUR_befriend_the_bulgarians_desc:0	"The Bulgarians were one of the last nations to gain independence from our empire. We must come to terms with the reality that concrete hold over the balkans is an impossibility. The Ottoman and Bulgarian cause are the same, we shall work together to avenge our territorial losses!"
@@ -878,21 +878,21 @@
 
  TUR_restore_dominion_over_albania:0	"Restore Dominion Over Albania"
  TUR_restore_dominion_over_albania_desc:0	"The Albanians were one of the last states in Europe to gain independence from our empire, and happen to be only one of a couple to see in our way of Islam. We are their brothers, and their liberation is near!"
- TUR_restore_dominion_over_albania_tt:0	"Gains claim on all §YAlbanian§! states, as well as §YDebar§!, §YKosovo§!, and §YMitrovica§!"
+ TUR_restore_dominion_over_albania_tt:0	"Gains claim on all [~§Y~]Albanian[~§!~] states, as well as [~§Y~]Debar[~§!~], [~§Y~]Kosovo[~§!~], and [~§Y~]Mitrovica[~§!~]"
  TUR_r56integrate_albania:0	"Reintegrate the Albanian Lands"
- TUR_restore_dominion_over_albania2_tt:0	"Unlocks decision: §YReintegrate the Albanian Lands§!."
+ TUR_restore_dominion_over_albania2_tt:0	"Unlocks decision: [~§Y~]Reintegrate the Albanian Lands[~§!~]."
 
  TUR_avenge_the_1878_berlin_treaty:0	"Avenge the 1878 Berlin Treaty"
  TUR_avenge_the_1878_berlin_treaty_desc:0	"The 1878 Treaty of Berlin was the beginning of the end to our hold over the Balkan peninsula. We are finally in position to seize what is rightfully ours, and it shall be done."
- TUR_avenge_the_1878_berlin_treaty_tt:0	"Gains claim on all §YBosnian§! states"
- claims_montenegrin_states_tt:0	"Gains claim on §YMontenegro§! and §YWest Sandzak§!"
- TUR_avenge_the_1878_berlin_treaty2_tt:0	"Unlocks decision: §YReintegrate the Bosnian Lands§!."
+ TUR_avenge_the_1878_berlin_treaty_tt:0	"Gains claim on all [~§Y~]Bosnian[~§!~] states"
+ claims_montenegrin_states_tt:0	"Gains claim on [~§Y~]Montenegro[~§!~] and [~§Y~]West Sandzak[~§!~]"
+ TUR_avenge_the_1878_berlin_treaty2_tt:0	"Unlocks decision: [~§Y~]Reintegrate the Bosnian Lands[~§!~]."
  TUR_r56integrate_the_bosnian_lands:0	"Reintegrate the Bosnian Lands"
 
 
  #Socialism
  TUR_revolution_not_reform:0	"Revolution, not Reform"
- TUR_revolution_not_reform_tt:0	"Unlocks §YThe Transition to Socialism§! decisions"
+ TUR_revolution_not_reform_tt:0	"Unlocks [~§Y~]The Transition to Socialism[~§!~] decisions"
  TUR_revolution_not_reform_desc:0	"For all the good he has done for the Turkish nation, Atatürk has blocked the establishment of socialism under the guise of reform, and through repression of our movements. We shall carry the torch of freedom until all of Turkey's proletariat is free!" 
  r56_TUR_the_transition_to_socialism:0	"The Transition to Socialism"
  r56_TUR_the_transition_to_socialism_desc:0	"Over a decade of assertive, near-absolute control by Atatürk has passed, which has just made clear that his strain of liberalism doesn't go far enough. The way forward is clear: the path to progress will only come through the lifting of the proletariat, and the establishment of socialism."
@@ -913,12 +913,12 @@
 
  TUR_lead_the_underground_komunist_partisi:0	"Lead the Underground TKP"
  TUR_lead_the_underground_komunist_partisi_desc:0	"Turkey has a socialist movement of its own, and it's lied underground for over a decade! A man by the name of Sefik Hüsnü has led the TKP since 1932, and he is ready to bring true freedom to our nation!"
- TUR_lead_the_underground_komunist_partisi_tt:0	"Unlocks decision: §!Demand Legalization of the TKP§!."
+ TUR_lead_the_underground_komunist_partisi_tt:0	"Unlocks decision: [~§!~]Demand Legalization of the TKP[~§!~]."
 
  TUR_ally_kurdish_nationalist_groups:0	"Ally Kurdish Nationalist Groups"
  TUR_ally_kurdish_nationalist_groups_desc:0	"Kurdish people live predominately in the southeast corner of Anatolia, and have been resisting efforts at assimilation by the central government for years. By offering concessions in the form of autonomy for the Kurdish people, perhaps we may rally them to our side as we fight to liberate all of Turkey."
- TUR_ally_kurdish_nationalist_groups1_tt:0	"Upon completion of §YForging a Brighter Tomorrow§!:"
- TUR_ally_kurdish_nationalist_groups2_tt:0	"All §YKurdish§! cores will join our side in the event of a civil war"
+ TUR_ally_kurdish_nationalist_groups1_tt:0	"Upon completion of [~§Y~]Forging a Brighter Tomorrow[~§!~]:"
+ TUR_ally_kurdish_nationalist_groups2_tt:0	"All [~§Y~]Kurdish[~§!~] cores will join our side in the event of a civil war"
 
  TUR_request_soviet_support:0	"Request Soviet Support"
  TUR_request_soviet_support_desc:0	"The USSR is our neighbour, and leads the Communist world. We should plea our cause to them in the hopes that they grant us the support our workers need in their time of struggle!"
@@ -926,15 +926,15 @@
 
  TUR_kemalisms_next_step_forward:0	"Kemalism's Next Step Forward!"
  TUR_kemalisms_next_step_forward_desc:0	"There are many within the CHP who think Atatürk and his reforms don't go far enough. We should join ranks with these leftist allies, and fight together for a brighter tomorrow."
- TUR_kemalisms_next_step_forward_tt:0	"Unlocks decision: §YLift the TKP's Ban§!."
+ TUR_kemalisms_next_step_forward_tt:0	"Unlocks decision: [~§Y~]Lift the TKP's Ban[~§!~]."
 
  TUR_expand_the_village_institutes_program_socialist:0	"Expand the Village Institutes Program"
  TUR_expand_the_village_institutes_program_socialist_desc:0	"The Village Institutes Program has so far seen significant success. Their extension would surely go a long way in fostering further unity throughout our nation."
 
  TUR_further_the_reforms:0	"Further the Reforms"
  TUR_further_the_reforms_desc:0	"The governments of Atatürk and İnönü alike have failed to truly protect the Turkish worker. We must go further in bringing true change to our country!"
- TUR_further_the_reforms1_tt:0	"Unlocks decision: §YExpand Union Protections§!."
- TUR_further_the_reforms2_tt:0	"Unlocks decision: §YPublic-Schooling Initiative§!."
+ TUR_further_the_reforms1_tt:0	"Unlocks decision: [~§Y~]Expand Union Protections[~§!~]."
+ TUR_further_the_reforms2_tt:0	"Unlocks decision: [~§Y~]Public-Schooling Initiative[~§!~]."
 
  TUR_reconciliation_with_liberal_kemalists:0	"Reconciliation with Liberal Kemalists"
  TUR_reconciliation_with_liberal_kemalists_desc:0	"The CHP is a party of many faces. Maintaining amicable ties with liberal Kemalists is important to our path to party leadership."
@@ -954,15 +954,15 @@
 
  TUR_continue_the_democratic_transition:0	"Continue the Democratic Transition"
  TUR_continue_the_democratic_transition_desc:0	"Despite years of political repression under Atatürk, the CHP has moved Turkey close to becoming a true democracy. We shall continue where the others have left off, and unite our party objective as bringer of political and social freedom!"
- TUR_continue_the_democratic_transition_tt:0	"Unlocks §YTransition to Democracy§! decisions"
+ TUR_continue_the_democratic_transition_tt:0	"Unlocks [~§Y~]Transition to Democracy[~§!~] decisions"
  TUR_the_transition_to_democracy_initial_idea:0	"The Transition to Democracy?"
  TUR_the_transition_to_democracy_initial_idea_desc:0	"We have made open support for free elections, but have not made much in the way of progressing towards such a system. Suffice it to say, work is to be done in this area if democracy is truly the end-goal for our system."
  TUR_the_transition_to_democracy_idea:0	"The Transition to Democracy"
  r56_TUR_lift_the_ban_on_opposition_parties:0	"Lift the Ban on Opposition Parties"
  r56_TUR_end_censorship_policies:0	"End Censorship Policies"
- TUR_free_elections_available_tt:0	"Unlocks decision: §YHold Free Elections§!."
+ TUR_free_elections_available_tt:0	"Unlocks decision: [~§Y~]Hold Free Elections[~§!~]."
  r56_TUR_hold_free_elections:0	"Hold Free Elections"
- TUR_free_elections_available_days_tt:0	"Has been 200 or more days since both §YTransition to Democracy§! decisions have been completed"
+ TUR_free_elections_available_days_tt:0	"Has been 200 or more days since both [~§Y~]Transition to Democracy[~§!~] decisions have been completed"
  TUR_the_transition_to_democracy_fulfilled_idea:0	"Champions of Democracy!"
 
  TUR_call_for_general_strike:0	"Call for General Strike"
@@ -971,7 +971,7 @@
 
  TUR_storm_the_grand_national_assembly:0	"Storm the Grand National Assembly"
  TUR_storm_the_grand_national_assembly_desc:0	"Workers of Anatolia, unite for a better tomorrow!"
- TUR_storm_the_grand_national_assembly_tt:0	"Has completed decision: §YEnd Hüsnü's Exile§!"
+ TUR_storm_the_grand_national_assembly_tt:0	"Has completed decision: [~§Y~]End Hüsnü's Exile[~§!~]"
 
  TUR_voice_of_the_people:0	"Voice of the People"
  TUR_voice_of_the_people_desc:0	"Restoration of the Kadro has seen great success. It is clear that this is just the tool our government needs to secure our mandate over the nation."
@@ -979,7 +979,7 @@
 
  TUR_the_question_of_nationalization:0	"The Question of Nationalization"
  TUR_the_question_of_nationalization_desc:0	"The situation in the Turkish economy is complex, the governance that has led up to it is even more so. While our bloc is united on what the end goal of our society should be, the path to getting there is less so. As we move forward, we must answer to the people just what role existing market systems will have."
- TUR_the_question_of_nationalization_tt:0	"Unlocks §YNationalization§! decisions"
+ TUR_the_question_of_nationalization_tt:0	"Unlocks [~§Y~]Nationalization[~§!~] decisions"
  TUR_nationalization_no_position_declared:0	"Nationalization - No Position Declared"
  TUR_nationalization_no_position_declared_desc:0	"For whatever reason, we have not made our exact economic policy very clear. Future policy, as well as statements by the government should try to clear up this. "
  TUR_mixed_economy_idea:0	"Mixed Economy"
@@ -1016,12 +1016,12 @@
  bftb_turkey.23.desc:0	"[[~FROM.GetLeader~]] has approached [[~ROOT.GetLeader~]] with the suggestion of signing a mutual non-aggression pact, leaving open the prospect of further cooperation in the future. The [[~FROM.GetAdjective~]] diplomats worked hard on their pitch, going into detail about the mutual histories and interests of our two nations followed by an earnest appeal to peace between brotherly nations. The back-and-forth negotiations have been pleasant, but the choice of whether we sign or not ultimately falls to us."
  
  turkey_hatay.1.t:0	"The Hatay Issue"
- turkey_hatay.1.d:0	"Following the great war, France occupied the Sanjak of Alexandretta, handing it to the Mandate of Syria. The province, now known as Hatay, has a significant Turkish population, although faint of outright majority. The debate on Hatay's status has heated up and recently, with [[~TUR.GetLeader~]] calling for Hatay's complete return to Turkey. However, large counter-protests from the province's Armenian and Alawi population have rallied against annexation by Ankara.\n\nIt is clear that Turkey takes this situation seriously, and any rejection of their demands might lead to war."
+ turkey_hatay.1.d:0	"Following the great war, France occupied the Sanjak of Alexandretta, handing it to the Mandate of Syria. The province, now known as Hatay, has a significant Turkish population, although faint of outright majority. The debate on Hatay's status has heated up and recently, with [[~TUR.GetLeader~]] calling for Hatay's complete return to Turkey. However, large counter-protests from the province's Armenian and Alawi population have rallied against annexation by Ankara.[~[~\n~][~\n~]~]It is clear that Turkey takes this situation seriously, and any rejection of their demands might lead to war."
  turkey_hatay.1.a:0	"Hatay is not worth animosity with Turkey."
  turkey_hatay.1.b:0	"We will not be bullied, Hatay is rightfully part of Syria."
 
  turkey_hatay.2.t:0	"The Return of Hatay"
- turkey_hatay.2.d:0	"After negotiations, [[~From.GetNameDef~]] has announced that they will withdraw from the province of Hatay. Turkish troops and government officials are now in the clear to enter the province and begin its annexation.\n\nThe transfer is largely peaceful, however large numbers of the Armenian population have fled the region in recent days."
+ turkey_hatay.2.d:0	"After negotiations, [[~From.GetNameDef~]] has announced that they will withdraw from the province of Hatay. Turkish troops and government officials are now in the clear to enter the province and begin its annexation.[~[~\n~][~\n~]~]The transfer is largely peaceful, however large numbers of the Armenian population have fled the region in recent days."
  turkey_hatay.2.a:0	"Reason previls on this day."
 
  turkey_hatay.3.t:0	"[[~From.GetNameDef~]] Refuses to give us Hatay"
@@ -1126,7 +1126,7 @@
  turkey.14.a:0	"To the new Turkey!"
 
  turkey.15.t:0	"Turkish Communists Request Aid"
- turkey.15.d:0	"Members of the Turkish Communist Party have come to Moscow requesting aid in a planned uprising against the government. While they believe their plan to be full proof, they are requesting guarantees of arms and military support to help the Turkish workers tear down their oppressive government.\n\nRegardless of their plans, having a loyal communist state on our southern border will be useful for our national defence."
+ turkey.15.d:0	"Members of the Turkish Communist Party have come to Moscow requesting aid in a planned uprising against the government. While they believe their plan to be full proof, they are requesting guarantees of arms and military support to help the Turkish workers tear down their oppressive government.[~[~\n~][~\n~]~]Regardless of their plans, having a loyal communist state on our southern border will be useful for our national defence."
  turkey.15.a:0	"We shall support our Turkish Friends."
  turkey.15.b:0	"Those Turks are on their own."
 
@@ -1139,7 +1139,7 @@
  turkey.17.a:0	"But why?"
 
  turkey.20.t:0	"Turkey Demands Decolonisation"
- turkey.20.d:0	"Representatives of the Turkish government have come to us with an ultimatum. Either we withdraw from all territories in the Middle East, or we will face a war of liberation.\n\nAt first they were laughed out, but it appears that Turkey is quite serious and seeks to free the Middle East from foreign rule."
+ turkey.20.d:0	"Representatives of the Turkish government have come to us with an ultimatum. Either we withdraw from all territories in the Middle East, or we will face a war of liberation.[~[~\n~][~\n~]~]At first they were laughed out, but it appears that Turkey is quite serious and seeks to free the Middle East from foreign rule."
  turkey.20.a:0	"It is in our best interests to let the people be free."
  turkey.20.b:0	"We will not give up the middle east to the Turks."
 
@@ -1152,7 +1152,7 @@
  turkey.22.a:0	"Then we shall free them by force."
  turkey.22.b:0	"Perhaps now isn't the time for violence."
 
- TUR_solidify_the_saadabad_pact_tt:0	"Any nation that has joined the Saadabad Pact will be invited to our faction.\n"
+ TUR_solidify_the_saadabad_pact_tt:0	"Any nation that has joined the Saadabad Pact will be invited to our faction.[~\n~]"
  TUR_saadabad_pact:0	"Saadabad Pact"
  TUR_saadabad_pact_member:0	"Signed the Saadabad Pact"
  TUR_balkan_pact:0	"Balkan Pact"
@@ -1198,8 +1198,8 @@ TUR_fuat_agrali:0	"Fuat Ağralı" # Minister of Finance
  TUR_revanchism_focus:0	"Revanchism"
 
 ### TO REMOVE WHEN 1.10.2 is out of beta
- TUR_decision_cost_kurd_rebels:	"£command_power  §Y15§!"
- TUR_decision_cost_kurd_rebels_blocked:	"£command_power  §R15§!"
+ TUR_decision_cost_kurd_rebels:	"£command_power  [~§Y~]15[~§!~]"
+ TUR_decision_cost_kurd_rebels_blocked:	"£command_power  [~§R~]15[~§!~]"
 
  TUR_reinstate_the_darulfununu_sahane:	"Reinstate the Darülfünûn-u Şahâne"
  TUR_reinstate_the_darulfununu_sahane_desc:	"We do not hesitate to say that many of our institutions are... not exactly modern. Yet, we live in the age of modern warfare. It is a good thing that our nation is as industrialized and modern as it is - all thanks to the hard work of the Ottoman Bureaucracy! To that end, we shall establish a school in Istanbul University that encourages technical and scientific cooperation between ourselves and likeminded nations."
@@ -1216,13 +1216,13 @@ TUR_fuat_agrali:0	"Fuat Ağralı" # Minister of Finance
 
  ### Armed forces dynamic modifier
  TUR_disorganized_armed_forces_dynamic_modifier:0	"Disorganized Armed Forces"
- TUR_modernize_our_tactics_effect_tt:0	"Modify §Y$TUR_disorganized_armed_forces_dynamic_modifier$§! by:\n$MODIFIER_ARMY_ORG_FACTOR$: §G+10.0%§!\n\n"
- TUR_use_modern_infrastructure_effect_tt:0	"Modify §Y$TUR_disorganized_armed_forces_dynamic_modifier$§!  by:\n$MODIFIER_ARMY_SPEED_FACTOR$: §G+10.00%§!\n\n"
- TUR_overhaul_training_methods_effect_tt:0	"Modify §Y$TUR_disorganized_armed_forces_dynamic_modifier$§!  by:\n$MODIFIER_TRAINING_TIME_FACTOR$: §G-25.00%§!\n$MODIFIER_MINIMUM_TRAINING_LEVEL$: §R+10%§!\n\n"
- TUR_streamline_communication_methods_effect_tt:0	"Modify §Y$TUR_disorganized_armed_forces_dynamic_modifier$§!  by:\n$MODIFIER_NAVAL_COORDINATION$: §G+15%§!\n\n"
- TUR_air_safety_regulations_effect_tt:0	"Modify §Y$TUR_disorganized_armed_forces_dynamic_modifier$§!  by:\n$MODIFIER_AIR_ACCIDENTS_FACTOR$: §G-15.0%§!\n\n"
+ TUR_modernize_our_tactics_effect_tt:0	"Modify [~§Y~]$TUR_disorganized_armed_forces_dynamic_modifier$[~§!~] by:[~\n~]$MODIFIER_ARMY_ORG_FACTOR$: [~§G~]+10.0%[~§!~][~[~\n~][~\n~]~]"
+ TUR_use_modern_infrastructure_effect_tt:0	"Modify [~§Y~]$TUR_disorganized_armed_forces_dynamic_modifier$[~§!~]  by:[~\n~]$MODIFIER_ARMY_SPEED_FACTOR$: [~§G~]+10.00%[~§!~][~[~\n~][~\n~]~]"
+ TUR_overhaul_training_methods_effect_tt:0	"Modify [~§Y~]$TUR_disorganized_armed_forces_dynamic_modifier$[~§!~]  by:[~\n~]$MODIFIER_TRAINING_TIME_FACTOR$: [~§G~]-25.00%[~§!~][~\n~]$MODIFIER_MINIMUM_TRAINING_LEVEL$: [~§R~]+10%[~§!~][~[~\n~][~\n~]~]"
+ TUR_streamline_communication_methods_effect_tt:0	"Modify [~§Y~]$TUR_disorganized_armed_forces_dynamic_modifier$[~§!~]  by:[~\n~]$MODIFIER_NAVAL_COORDINATION$: [~§G~]+15%[~§!~][~[~\n~][~\n~]~]"
+ TUR_air_safety_regulations_effect_tt:0	"Modify [~§Y~]$TUR_disorganized_armed_forces_dynamic_modifier$[~§!~]  by:[~\n~]$MODIFIER_AIR_ACCIDENTS_FACTOR$: [~§G~]-15.0%[~§!~][~[~\n~][~\n~]~]"
 
- r56_tur_invest_reward_tt:0	"§YOur investments in [[~TUR.GetnameDEF~]] will grant us: §!§WA timed National Spirit that will contain either§! §Gbenefits§! §Wor§! §Rmalices§! §Wdepending on how well the investment went.§!"
+ r56_tur_invest_reward_tt:0	"[~§Y~]Our investments in [[~TUR.GetnameDEF~]] will grant us: [~§!~][~§W~]A timed National Spirit that will contain either[~§!~] [~§G~]benefits[~§!~] [~§W~]or[~§!~] [~§R~]malices[~§!~] [~§W~]depending on how well the investment went.[~§!~]"
  TUR_investment_pursued:0	"Investments Currently Being Pursued"
  TUR_the_italo_turkish_friendship_treaty:0	"The Italo-Turkish Friendship Treaty"
  TUR_the_italo_turkish_friendship_treaty_desc:0	"The Italians may be competing in our sphere, even owning some of our rightful lands, however cooperation with them is unavoidable to strengthen the Turkish nation and especially its navy."
@@ -1237,10 +1237,10 @@ TUR_fuat_agrali:0	"Fuat Ağralı" # Minister of Finance
  bftb_turkey.146.t:0	"[[~From.GetNameDefCap~]] Refuses to Guarantee Our Freedom"
  bftb_turkey.146.d:0	"[[~From.GetNameDefCap~]] has decided not to guarantee us, seeing it as too risky in the current world situation."
  bftb_turkey.146.a:0	"They will regret this."
- ottoman_info:0	"\n§CThe §!§YDemokrat Parti§!§C must have §Ymore then 40% support§! and has be chosen to revive Ottoman sentiment§!\n"
+ ottoman_info:0	"[~\n~][~§C~]The [~§!~][~§Y~]Demokrat Parti[~§!~][~§C~] must have [~§Y~]more then 40% support[~§!~] and has be chosen to revive Ottoman sentiment[~§!~][~\n~]"
 
  bftb_turkey.148.t:0	"Dealing with [[~GRE.GetNameDef~]]"
- bftb_turkey.148.d:0	"Historically we had a very long and complicated relationship with [[~GRE.GetNameDef~]] and their rulers. Centuries of bilateral subjugation have torn many of our people apart. Ideas of Greater Greece and Greater Turkey are still envisioned among various revisionist people of our proud and strong nations. Yet the question of power remains. \n\nSeeing how Mustafa Kemal seeked to cooperate with the new Greek state, our new government can take his wise approach and ally their regime by any means possible. Alternatively, we can always rely on our Italian benefactors to assist us in dividing spheres of influence in the region. \n\nWhat will the superior decision of [[~ROOT.getLeader~]] be?"
+ bftb_turkey.148.d:0	"Historically we had a very long and complicated relationship with [[~GRE.GetNameDef~]] and their rulers. Centuries of bilateral subjugation have torn many of our people apart. Ideas of Greater Greece and Greater Turkey are still envisioned among various revisionist people of our proud and strong nations. Yet the question of power remains. [~[~\n~][~\n~]~]Seeing how Mustafa Kemal seeked to cooperate with the new Greek state, our new government can take his wise approach and ally their regime by any means possible. Alternatively, we can always rely on our Italian benefactors to assist us in dividing spheres of influence in the region. [~[~\n~][~\n~]~]What will the superior decision of [[~ROOT.getLeader~]] be?"
  bftb_turkey.148.a:0	"They deserve nothing in the new world order."
  bftb_turkey.148.b:0	"It is a token of a long friendship!"
 

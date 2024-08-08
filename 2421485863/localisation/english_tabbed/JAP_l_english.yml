@@ -31,7 +31,7 @@
  JAP_national_socialst_showa_statist:0	"National Socialist Showa Statist"
 
 
- JAP_fascism_ideology_desc:0	"Prime Minister Fumimaro Konoe created the §YImperial Rule Assistance Association§! (Taisei Yokusankai) to promote the goals of his §BShintaisei§! ('New Order') movement. It evolved into a §Ystatist§! ruling political party that aimed to remove the sectionalism in the politics and economics in the Empire of Japan to create a §Htotalitarian one-party state§! to maximize the efficiency of Japan's §RTotal War§! effort."
+ JAP_fascism_ideology_desc:0	"Prime Minister Fumimaro Konoe created the [~§Y~]Imperial Rule Assistance Association[~§!~] (Taisei Yokusankai) to promote the goals of his [~§B~]Shintaisei[~§!~] ('New Order') movement. It evolved into a [~§Y~]statist[~§!~] ruling political party that aimed to remove the sectionalism in the politics and economics in the Empire of Japan to create a [~§H~]totalitarian one-party state[~§!~] to maximize the efficiency of Japan's [~§R~]Total War[~§!~] effort."
 
  JAP_germano_japanese_technological_exchange:0	"Germano-Japanese Technological Exchange"
  JAP_army_expansion_idea:0	"Army Expansion"
@@ -51,7 +51,7 @@
  JAP_defense_in_depth_desc:0	"Some of our brave soldiers might conduct seemingly suicidal operations in the enemy rear and before they can safely return to the headquarters, those fearless men and women have to cross the dangerous frontline area. Establishing supply lines and training our troops to endure harsh conditions shall strengthen these tactical maneuvers and improve outcomes of such operations."
  JAP_lunge_mines:0	"Lunge Mines"
  JAP_lunge_mines_desc:0	"Our military experts have developed a highly efficient anti-tank weapon capable of penetrating 6 inches or 150 mm of the sloped armor if landed properly. The soldier life is sacrificed at the cost of destroyed enemy armored vehicle and the crew inside. A worthy effort for a resource-poor nation with devoted to the cause population."
- JAP_lunge_mines_tt:0	"Enables §HLunge Mines§!\n§HAll Infantry\n    Hard Attack: §G+25%§!\n    Piercing: §G+50%§!\n    Experienced soldier losses: §R+15%§!§!"
+ JAP_lunge_mines_tt:0	"Enables [~§H~]Lunge Mines[~§!~][~\n~][~§H~]All Infantry[~\n~]    Hard Attack: [~§G~]+25%[~§!~][~\n~]    Piercing: [~§G~]+50%[~§!~][~\n~]    Experienced soldier losses: [~§R~]+15%[~§!~][~§!~]"
  JAP_raise_the_boeitai:0	"Raise the Boeitai"
  JAP_raise_the_boeitai_desc:0	"If we are to preserve our homeland from the vicious invaders, it is of an upper importance to establish Defense Corps capable of striking enemy at the doorsteps of every house! The conscription of these men and women was unquestionable before, but harsh times require everything and everyone for the survival of the nation!"
  JAP_rethink_armor_design:0	"Rethink Armor Design"
@@ -182,7 +182,7 @@
 
  JAP_diversified_tank_roles:0	"Diversified Tank Roles"
  JAP_diversified_tank_roles_desc:0	"Fitted with different kinds of guns and with varying traction systems, armored vehicles can then fulfill more varied missions on the battlefield."
- JAP_diversified_tank_roles_ho_ni_3_tt:0	"Having an §YImproved Medium Chassis§! will also grant a Template for an §YImproved Medium Tank Destroyer§!.\n"
+ JAP_diversified_tank_roles_ho_ni_3_tt:0	"Having an [~§Y~]Improved Medium Chassis[~§!~] will also grant a Template for an [~§Y~]Improved Medium Tank Destroyer[~§!~].[~\n~]"
  JAP_red_pacific_fleet:0	"Red Pacific Fleet"
  JAP_red_pacific_fleet_desc:0	"We must rebuild our fleet along our ideological criteria."
  JAP_corporate_developments:0	"Corporate Developments"
@@ -231,7 +231,7 @@
  JAP_strike_the_old_oppressors:0	"Strike the Old Oppressors"
  JAP_strike_the_old_oppressors_desc:0	"The United States held us down for too long with their capitalist and imperialist tyranny; we can not allow this to happen again. We must end this once and for this all!"
 
- JAP_taiwan_fob_prepare_tt:0	"§YTaiwan§! will be prepared as a staging ground to allow for a strike on the §YPhilippines§! as well."
+ JAP_taiwan_fob_prepare_tt:0	"[~§Y~]Taiwan[~§!~] will be prepared as a staging ground to allow for a strike on the [~§Y~]Philippines[~§!~] as well."
  ##Fixed
 
  JAP_develop_mengjiang:0	"Develop [[~MEN.GetNonIdeologyName~]]"
@@ -273,12 +273,12 @@
  r56_japan.2.a:0	"Excellent."
 
  r56_japan.10.t:0	"Host Elections"
- r56_japan.10.desc:0	"For multiple decades militarists held a large sway over the country's political sphere and diplomatic alignment. Learning from mistakes of the past, the new provisional government after solidifying control over the country has announced nationwide elections to be held this month. \n\nWith a clear prevalence of liberal notions among the highest officials of the state, it is more than clear that a democratic coalition will receive a majority of support. We are still capable of launching a few support campaigns to ensure the desired block will win the elections."
+ r56_japan.10.desc:0	"For multiple decades militarists held a large sway over the country's political sphere and diplomatic alignment. Learning from mistakes of the past, the new provisional government after solidifying control over the country has announced nationwide elections to be held this month. [~[~\n~][~\n~]~]With a clear prevalence of liberal notions among the highest officials of the state, it is more than clear that a democratic coalition will receive a majority of support. We are still capable of launching a few support campaigns to ensure the desired block will win the elections."
  r56_japan.10.a:0	"Rikken Minseito, Constitutional Democracy Party!"
  r56_japan.10.b:0	"Rikken Seiyukai, Association of Friends of Constitutional Government!"
 
  r56_japan.11.t:0	"[[~JAP.getAdjective~]] Specialists Suggest Technological Cooperation"
- r56_japan.11.desc:0	"Diplomats from [[~JAP.getNameDef~]] has approached our governmental officials with an offer to conclude a facilities inspection which could allow [[~JAP.getAdjective~]] engineers to learn from our production methods and improve the product quality of their own. \n\nTheir representatives have already assured us of confidentiality and discreetness of this agreement, providing written promises of security of any of our various technological innovations discussed in-situ. \nThe decision is pending and the delegation expects a response in the overseen future. What should the answer be?"
+ r56_japan.11.desc:0	"Diplomats from [[~JAP.getNameDef~]] has approached our governmental officials with an offer to conclude a facilities inspection which could allow [[~JAP.getAdjective~]] engineers to learn from our production methods and improve the product quality of their own. [~[~\n~][~\n~]~]Their representatives have already assured us of confidentiality and discreetness of this agreement, providing written promises of security of any of our various technological innovations discussed in-situ. [~\n~]The decision is pending and the delegation expects a response in the overseen future. What should the answer be?"
  r56_japan.11.a:0	"Let them full access to our tank manufacturing plants."
  r56_japan.11.b:0	"Small arms can be inspected to ensure their quality prevails."
  r56_japan.11.c:0	"Aircraft factories could benefit from foreign expertise."
@@ -398,12 +398,12 @@
  sfl.18.b:0	"Such nonsense!"
 
  sfl.19.t:0	"Japan Seeks Peace"
- sfl.19.d:0	"Japan's failing war has caused them to forfeit their Continental Policy, which means they will relinquish Chinese lands to concentrate their strength on their ongoing civil war.\n\nHow should we respond?"
+ sfl.19.d:0	"Japan's failing war has caused them to forfeit their Continental Policy, which means they will relinquish Chinese lands to concentrate their strength on their ongoing civil war.[~[~\n~][~\n~]~]How should we respond?"
  sfl.19.a:0	"They're done no matter what; no need to waste time on them."
  sfl.19.b:0	"A temporary truce."
  sfl.19.c:0	"No respite for imperialist dogs!"
- sfl_jap_forfeit_land:0	"[[~Root.GetNameDefCap~]] takes over Chinese lands owned by Japan\n"
- sfl_later_war_with_jap:0	"You can decide to go to war with Japan after a month, §Rregardless of their ideology.§!"
+ sfl_jap_forfeit_land:0	"[[~Root.GetNameDefCap~]] takes over Chinese lands owned by Japan[~\n~]"
+ sfl_later_war_with_jap:0	"You can decide to go to war with Japan after a month, [~§R~]regardless of their ideology.[~§!~]"
 
  sfl.20.t:0	"Peace with [[~CHI.GetNameDef~]]"
  sfl.20.d:0	"[[~CHI.GetNameDefCap~]] has agreed on peace between us."
@@ -421,7 +421,7 @@
  sfl.24.t:0	"[[~CHI.GetNameDefCap~]] Declare War on Us!"
  sfl.24.d:0	"The Chinese has revoked their truce and declared war on us!"
  sfl.24.a:0	"Backstabbing scum!"
- sfl_cant_peace_with_axis_later:0	"§RYou will not be able to make separate peace with Axis in the future.§!\n"
+ sfl_cant_peace_with_axis_later:0	"[~§R~]You will not be able to make separate peace with Axis in the future.[~§!~][~\n~]"
 
  sfl.25.t:0	"Ownership of Indochina"
  sfl.25.d:0	"How should we act on the Indochina issue?"
@@ -533,4 +533,4 @@
  JAP_joint_industrial_planning_desc:0	"As our nations have come closer economically, we may begin shared industrial plans to make Asia more economically sound."
  JAP_civilian_investment:0	"Civilian Investment"
 
- JAP_island_colonization_tt:0	"Unlocks §HDecisions§! to improve our island possessions in the Pacific."
+ JAP_island_colonization_tt:0	"Unlocks [~§H~]Decisions[~§!~] to improve our island possessions in the Pacific."

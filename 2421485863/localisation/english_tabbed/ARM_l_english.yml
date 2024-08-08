@@ -61,8 +61,8 @@
  Armenian_question_category_desc:0	"The fate of the Armenian people was already at the heart of the discussions surrounding the treaty of Versailles. Still, the aspirations of the Armenian nationalists were swept away by the Treaty of Kars and the Soviet oppression. Many Armenians live in exile and hope that a free Armenia will once again appear on the maps one day."
  ARM_form_armenian_national_council:0	"Form an Armenian National Council"
  ARM_establish_armenian_legion:0	"Recruit an Armenian Legion"
- ARM_establish_armenian_legion_cost:0	"£army_experience §H10§! £pol_power §H25§! £command_power §H25§!"
- ARM_establish_armenian_legion_cost_blocked:0	"£army_experience §R10§! £pol_power §R25§! £command_power §R25§!"
+ ARM_establish_armenian_legion_cost:0	"£army_experience [~§H~]10[~§!~] £pol_power [~§H~]25[~§!~] £command_power [~§H~]25[~§!~]"
+ ARM_establish_armenian_legion_cost_blocked:0	"£army_experience [~§R~]10[~§!~] £pol_power [~§R~]25[~§!~] £command_power [~§R~]25[~§!~]"
  ARM_establish_armenian_legion_cost_tooltip:0	"It costs £army_experience 10, £pol_power 25 and  £command_power 25 to select this."
  ARM_establish_national_armenian_government:0	"Establish a National Armenian Government"
  armenian_army_category:0	"Organize the Army"
@@ -79,7 +79,7 @@
  ARM_communist_generals:0	"Rally Communist Officers"
  armenian_national_liberation_category:0	"National Liberation"
  armenian_national_liberation_category_desc:0	"The Great War almost saw the doom of our people. But we have survived. It is now time to take our revenge on history and realize the promises of President Woodrow Wilson."
- armenia_liberator:0	"§YHas freed Armenia by establishing a government in exile.§!"
+ armenia_liberator:0	"[~§Y~]Has freed Armenia by establishing a government in exile.[~§!~]"
  ARM_celebrate_a_mass_in_ani:0	"Celebrate Mass in Ani"
  ARM_expulsion_from_354:0	"Expel Turks from [[~354.getName~]]"
  ARM_return_to_354:0	"Return Lands to [[~354.getName~]]-Armenians"
@@ -98,7 +98,7 @@
  ARM_yerevan_automobile_plant:0	"Yerevan Automobile Plant"
  ARM_mikoyan_aircrafts:0	"Mikoyan Aircrafts"
 
- ARM_catholicos_khoren_has_died:0	"§RCatholicos Khoren has died.§!"
+ ARM_catholicos_khoren_has_died:0	"[~§R~]Catholicos Khoren has died.[~§!~]"
  open_kajaran_mine_developed:0	"The Kajaran Mine has been Opened"
 
  ARM_gold_extraction_idea:0	"Gold Extraction"
@@ -278,8 +278,8 @@
  ARM_socialist_armenian_university:0	"Soviet Yerevan State University"
  ARM_socialist_armenian_university_desc:0	"The future lies in the minds of the people. Together at the mother university, they can learn from each other and push the revolution forward."
 
- ARM_volunteers:0	"§YVolunteer Division Forms§!"
- ARM_royal_guards_tt:0	"§YRoyal Guard Division Forms\n§!"
+ ARM_volunteers:0	"[~§Y~]Volunteer Division Forms[~§!~]"
+ ARM_royal_guards_tt:0	"[~§Y~]Royal Guard Division Forms[~\n~][~§!~]"
 
  ARM_event.1.t:0	"The Death of the Catholicos Khoren I"
  ARM_event.1.desc:0	"While the God-fearing Armenians mourn their religious leader, the Catholicos, communists respecting the party line refuse to join those reactionaries who refused to see the light of progress."

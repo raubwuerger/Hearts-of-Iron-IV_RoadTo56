@@ -12,7 +12,7 @@ l_english:
 
 #The Necrowombaticon can be studied
  r56w.event.31.t:0	"Our Scholars Report"
- r56w.event.31.d:0	"After a period of study, it has become clear that the book describes an elaborate ritual for gaining vast amounts of power. It calls for large quantities of scented candles, a black cat, and a great deal of enriched uranium.\n\n Along with the translation for the ritual comes a cryptic curse, \"Warning! Going forward with this will really mess with your game and result in something very silly. Save now, if in doubt.\" \n\nShould we move forward or abandon this path entirely?"
+ r56w.event.31.d:0	"After a period of study, it has become clear that the book describes an elaborate ritual for gaining vast amounts of power. It calls for large quantities of scented candles, a black cat, and a great deal of enriched uranium.[~[~\n~][~\n~]~] Along with the translation for the ritual comes a cryptic curse, \"Warning! Going forward with this will really mess with your game and result in something very silly. Save now, if in doubt.\" [~[~\n~][~\n~]~]Should we move forward or abandon this path entirely?"
  r56w.event.31.a:0	"I eat danger for breakfast."
  r56w.event.31.b:0	"...but the historical!"
 
@@ -28,7 +28,7 @@ l_english:
 
 #How do we react to these events?
  r56w.event.34.t:0	"A Diplomatic Overture"
- r56w.event.34.d:0	"A representative of the monsters has arrived at our doorstep and politely requested to speak with you. Though their language is strange and cryptic, we were able to discern a single question:\n\n\"Can has?\""
+ r56w.event.34.d:0	"A representative of the monsters has arrived at our doorstep and politely requested to speak with you. Though their language is strange and cryptic, we were able to discern a single question:[~[~\n~][~\n~]~]\"Can has?\""
  r56w.event.34.a:0	"This is all very silly. Say nothing!"
  r56w.event.34.b:0	"Can has... War!"
  r56w.event.34.c:0	"Yeah, sure. Whatever."
@@ -52,7 +52,7 @@ l_english:
 
 #Hitler's Stach
  r56w.event.38.t:0	"The Razor of Justice"
- r56w.event.38.d:0	"Our Ministers have proposed a bold plan to bring one of our enemies down a peg. It's time to strike at none other than Adolf Hitler and teach him the value of a good shave. \n\nOur agents are standing by. Shall we attempt the expedition?"
+ r56w.event.38.d:0	"Our Ministers have proposed a bold plan to bring one of our enemies down a peg. It's time to strike at none other than Adolf Hitler and teach him the value of a good shave. [~[~\n~][~\n~]~]Our agents are standing by. Shall we attempt the expedition?"
  r56w.event.38.a:0	"That sounds like a lovely idea!"
  r56w.event.38.b:0	"Not at the moment."
  r56w.event.38.c:0	"It is a silly suggestion."
@@ -102,7 +102,7 @@ l_english:
 
 #Someone Found a Puppet
  r56w.event.51.t:0	"Something Fluffy This Way Comes"
- r56w.event.51.d:0	"Greatexperiment recently decided to go on a holiday to Britain. While on a stroll, he came across a rather strange and suspicious puppet hiding behind a phone booth. \n\n\"I really should infuse this thing with magic so that it will take over the country and cause absolute havoc.\", Greatexperiment said to himself."
+ r56w.event.51.d:0	"Greatexperiment recently decided to go on a holiday to Britain. While on a stroll, he came across a rather strange and suspicious puppet hiding behind a phone booth. [~[~\n~][~\n~]~]\"I really should infuse this thing with magic so that it will take over the country and cause absolute havoc.\", Greatexperiment said to himself."
  r56w.event.51.a:0	"Yeah, why not?"
  r56w.event.51.b:0	"Nah. Throw it in the river."
 
@@ -113,12 +113,12 @@ l_english:
 
 #Hitler and Baldur's Gate
  r56w.event.100.t:0	"A Curious Door"
- r56w.event.100.desc:0	"Today at the Reich Chancellery, Baldur von Schirach suggested to the Führer his own design for the construction of Germania.\n\nAlways ready to discuss cultural matters, he designed in secret a new type of door that is causing some division among Hitler's inner circle. The motives are judged to be unworthy of the capital of Europe by Albert Speer. At the same time, the rumor circulates that Himmler admires the Nordic mythological references and judges it "authentically German".\n\nToday, the Reich Chancellery did not perform any critical work as the Nazi leadership was too busy discussing Baldur's Gate."
+ r56w.event.100.desc:0	"Today at the Reich Chancellery, Baldur von Schirach suggested to the Führer his own design for the construction of Germania.[~[~\n~][~\n~]~]Always ready to discuss cultural matters, he designed in secret a new type of door that is causing some division among Hitler's inner circle. The motives are judged to be unworthy of the capital of Europe by Albert Speer. At the same time, the rumor circulates that Himmler admires the Nordic mythological references and judges it "authentically German".[~[~\n~][~\n~]~]Today, the Reich Chancellery did not perform any critical work as the Nazi leadership was too busy discussing Baldur's Gate."
  r56w.event.100.a:0	"Send the plans to Arno Breker."
 
 #Comet Tank sighted
 r56w.event.101.t:0	"Comet Tank Sighted!"
-r56w.event.101.desc:0	"While it was driving too close from the limit of the Bovington military base, an experimental variant of our new Comet tank was inadvertently sighted by a few civilians passing by. We must act quickly to ensure that the matter will be dealt with with the necessary discretion. The MPs are understandably irritated, and the tank driver will undoubtedly be reprimanded.\n\nIf loose lips sink ships, they can also pierce armor."
+r56w.event.101.desc:0	"While it was driving too close from the limit of the Bovington military base, an experimental variant of our new Comet tank was inadvertently sighted by a few civilians passing by. We must act quickly to ensure that the matter will be dealt with with the necessary discretion. The MPs are understandably irritated, and the tank driver will undoubtedly be reprimanded.[~[~\n~][~\n~]~]If loose lips sink ships, they can also pierce armor."
 r56w.event.101.a:0	"Let's make a few phone calls."
 
 ###------> Tooltips <><> <><> <><> <><> <><>
@@ -296,7 +296,7 @@ r56w.event.101.a:0	"Let's make a few phone calls."
 
 #Naval Commander Traits
  r56w_trait_navy_ocean_haiku:0	"Haiku"
- r56w_trait_navy_ocean_haiku_desc:0	"I do like water \n It is so very dandy \n This is a Haiku"
+ r56w_trait_navy_ocean_haiku_desc:0	"I do like water [~\n~] It is so very dandy [~\n~] This is a Haiku"
  r56w_trait_navy_hates_water:0	"Hates Water"
  r56w_trait_navy_hates_water_desc:0	"It's more of a mutual disrespect."
  r56w_trait_navy_rubber_duck:0	"Rubber Duck"

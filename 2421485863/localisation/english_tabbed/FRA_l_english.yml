@@ -8,7 +8,7 @@
 
  FRA_mio_trait_modular_turret:0	"Modular Turret"
 
- FRA_liberalism_desc:0	"§YRadicalism§! §Wis, in France, a political position that claims the legacy of 1789, marked in particular by§! §BAnticlericalism§! §Wand the defense of §!§HUniversal Suffrage§!§W.§!"
+ FRA_liberalism_desc:0	"[~§Y~]Radicalism[~§!~] [~§W~]is, in France, a political position that claims the legacy of 1789, marked in particular by[~§!~] [~§B~]Anticlericalism[~§!~] [~§W~]and the defense of [~§!~][~§H~]Universal Suffrage[~§!~][~§W~].[~§!~]"
 
  FRA_communism_party:0	"PCF"
  FRA_communism_party_long:0	"Parti Communiste Français"
@@ -37,25 +37,25 @@
  #tooltips#
  FRA_is_on_iberian_peninsula_tt:0	"Is on the Iberian Peninsula"
  FRA_is_on_british_isles_peninsula_tt:0	"Is on the British Isles"
- ROOT_is_not_controlled_by_root_or_ally_tt:0	"Is not controlled by §Y[[~ROOT.getNameDef~]]§! or one of their allies."
+ ROOT_is_not_controlled_by_root_or_ally_tt:0	"Is not controlled by [~§Y~][[~ROOT.getNameDef~]][~§!~] or one of their allies."
  FRA_is_a_part_of_french_north_america_or_haiti_tt:0	"Is a part of former [[~FRA.getAdjective~]] America or Haiti."
 
- france.150.d:0	"Following a far-reaching call for a strike by the CGT, whose influence in recent months had reached a point where the government was forced to take increasingly drastic compromises, hundreds of thousands of workers mobilized in Paris towards the Bourbon palace, which for many reminded the riots of February 6, 1934. The latter then forced entry into parliament while in the rest of the city, defections by the army and intense violence could not be contained by the police.\n\nLed by Léon Jouhaux, the latter declared the end of the Third Republic and the transition to an anti-capitalist and trade unionist regime."
+ france.150.d:0	"Following a far-reaching call for a strike by the CGT, whose influence in recent months had reached a point where the government was forced to take increasingly drastic compromises, hundreds of thousands of workers mobilized in Paris towards the Bourbon palace, which for many reminded the riots of February 6, 1934. The latter then forced entry into parliament while in the rest of the city, defections by the army and intense violence could not be contained by the police.[~[~\n~][~\n~]~]Led by Léon Jouhaux, the latter declared the end of the Third Republic and the transition to an anti-capitalist and trade unionist regime."
  france.150.a:0	"The workers are now in control."
 
  france.151.t:0	"Death of Franchet D'Espèrey"
- france.151.d:0	"Louis Félix Marie François Franchet d'Espèrey, Marshal and [[~FRA.GetAdjective~]] Head of State, passed away in the night. He was buried and given military honors before being transferred to the Invalides.\n\nThe Marshal's death was sudden for many [[~FRA.GetAdjective~]] people and the government since it had put no succession procedure in place for the time being. Thus, it urgently convened the various ministers to decide whom to appoint as a successor.\n\nFor many, the favorite choice is Henri Giraud, Minister of War and who was very close to Franchet d'Esperey throughout his military career.\n\nHowever, another candidate can stand up to Giraud. This is François Mitterand, Minister of the Interior, who, although still a simple journalist a few years ago, was able to rise through the ranks of the government at full speed, which allowed him to acquire an excellent reputation that could well work in his favor."
+ france.151.d:0	"Louis Félix Marie François Franchet d'Espèrey, Marshal and [[~FRA.GetAdjective~]] Head of State, passed away in the night. He was buried and given military honors before being transferred to the Invalides.[~[~\n~][~\n~]~]The Marshal's death was sudden for many [[~FRA.GetAdjective~]] people and the government since it had put no succession procedure in place for the time being. Thus, it urgently convened the various ministers to decide whom to appoint as a successor.[~[~\n~][~\n~]~]For many, the favorite choice is Henri Giraud, Minister of War and who was very close to Franchet d'Esperey throughout his military career.[~[~\n~][~\n~]~]However, another candidate can stand up to Giraud. This is François Mitterand, Minister of the Interior, who, although still a simple journalist a few years ago, was able to rise through the ranks of the government at full speed, which allowed him to acquire an excellent reputation that could well work in his favor."
  france.151.a:0	"Giraud is the obvious choice."
  france.151.b:0	"Mitterand looks promising."
 
  france.152.t:0	"Popular Front Victory in [[~FRA.GetNameDef~]]"
- france.152.d:0	"The Front Populaire, a political alliance made up of a large part of the [[~FRA.GetAdjective~]] left-wing movements, including the SFIO, the Radical Party, and the Communist Party, won the [[~FRA.GetAdjective~]] legislative elections with 57% of the votes. Many strikes have been organized in support of the front. Léon Blum, the leader of the SFIO, was appointed Prime Minister.\n\nTheir program is built around the defense of democracy, mainly through their opposition to the far-right leagues, their pacifism, and the implementation of many social reforms such as paid holidays and a desire to revive the economy by developing consumption."
+ france.152.d:0	"The Front Populaire, a political alliance made up of a large part of the [[~FRA.GetAdjective~]] left-wing movements, including the SFIO, the Radical Party, and the Communist Party, won the [[~FRA.GetAdjective~]] legislative elections with 57% of the votes. Many strikes have been organized in support of the front. Léon Blum, the leader of the SFIO, was appointed Prime Minister.[~[~\n~][~\n~]~]Their program is built around the defense of democracy, mainly through their opposition to the far-right leagues, their pacifism, and the implementation of many social reforms such as paid holidays and a desire to revive the economy by developing consumption."
  france.152.a:0	"Everything is possible!"
  france.152.b:0	"Good luck to them."
  france.152.c:0	"They are nothing more than disgusting Bolsheviks."
 
  france.153.t:0	"Right-Wing Victory in [[~FRA.GetNameDef~]]"
- france.153.d:0	"The [[~FRA.GetAdjective~]] legislative elections saw the various right-wing parties, nominally the Republican Federation and the Democratic Republican Alliance, obtain a majority of the votes and thus defeat the Popular Front's attempt. Mainly united in their anti-socialism and anti-communism, their victory could also be linked to the rise of an even more extremist movement in [[~FRA.GetNameDef~]].\n\nPierre-Étienne Flandin, leader of the Democratic Republican Alliance and seen as a unifying figure for the right, was appointed Prime Minister and formed a government that included members of the main coalition parties."
+ france.153.d:0	"The [[~FRA.GetAdjective~]] legislative elections saw the various right-wing parties, nominally the Republican Federation and the Democratic Republican Alliance, obtain a majority of the votes and thus defeat the Popular Front's attempt. Mainly united in their anti-socialism and anti-communism, their victory could also be linked to the rise of an even more extremist movement in [[~FRA.GetNameDef~]].[~[~\n~][~\n~]~]Pierre-Étienne Flandin, leader of the Democratic Republican Alliance and seen as a unifying figure for the right, was appointed Prime Minister and formed a government that included members of the main coalition parties."
  france.153.a:0	"We shall make [[~FRA.GetNameDef~]] stronger."
  france.153.b:0	"Perhaps they can bring back stability to [[~FRA.GetNameDef~]]."
  france.153.c:0	"Elections can only bring capitalists into power."
@@ -79,7 +79,7 @@
 
  	#### NATIONALISATION ####
  FRA_nationalisation:0	"Nationalization Actions"
- FRA_nationalisation_desc:0	"With the budget of the Defense National Funds, we can force the nationalization of manufacturers to gain production efficiency. However, it will degrade our relations with the industrials, and §Rwe will not be able to do this when at war§!."
+ FRA_nationalisation_desc:0	"With the budget of the Defense National Funds, we can force the nationalization of manufacturers to gain production efficiency. However, it will degrade our relations with the industrials, and [~§R~]we will not be able to do this when at war[~§!~]."
  FRA_nationalize_industy:0	"Industrial Concern Integration"
  FRA_nationalize_industy_desc:0	"We can nationalize industrial concerns to increase our civilian factories, but they will not be usable in our government in the future."
  FRA_nationalize_industy_1:0	""
@@ -177,7 +177,7 @@
 
 	# TEST
 
- new_advisors_tt:0	"§YUnlocks§! new §YPolitical Advisors§!\n"
+ new_advisors_tt:0	"[~§Y~]Unlocks[~§!~] new [~§Y~]Political Advisors[~§!~][~\n~]"
 
  FRA_deflation1:0	"Deflation"
  FRA_deflation2:0	"Deflation"
@@ -365,7 +365,7 @@
  FRA_the_popular_front_desc:0	"A shaky coalition of left-wing movements, including the communist French Section of the Communist International, the socialist French Section of the Workers' International (SFIO), and the progressive Radical-Socialist Republican Party, aimed to implement leftists reforms. However, internal struggles hinder this "alliance of convenience"."
 
   ####TOOLTIPS ####
- FRA_has_no_deflation_tt:0	"Does not have national spirit §YDeflation§!"
+ FRA_has_no_deflation_tt:0	"Does not have national spirit [~§Y~]Deflation[~§!~]"
 
 
 
@@ -390,7 +390,7 @@
  FRA_research_grants_desc:0	"To galvanize our national research production, we could give our best scientist teams more grants. Advances in technology can provide us with the edge where we most need it."
  FRA_sncf:0	"French National Railway Company"
  FRA_sncf_desc:0	"The nationalization of [[~FRA.GetNameDef~]]'s leading railway companies will ensure our control of the means of transport all across [[~FRA.GetNameDef~]]. The new French National Railway Company will develop the current transport infrastructure."
- FRA_sncf_tooltip:0	"Add maximum §YInfrastructure§! in §YIle de France§!, §YPas de Calais§!, §YChampagne§! and §YAlsace§!"
+ FRA_sncf_tooltip:0	"Add maximum [~§Y~]Infrastructure[~§!~] in [~§Y~]Ile de France[~§!~], [~§Y~]Pas de Calais[~§!~], [~§Y~]Champagne[~§!~] and [~§Y~]Alsace[~§!~]"
 
 	#### COLONIAL FOCUS ####
 
@@ -409,7 +409,7 @@
  FRA_develop_indochine_desc:0	"If we are to use our Indochinese colony as a staging base for operations in the Pacific area, we must develop the infrastructure needed for the deployment of our troops and to increase the capacity of our ports."
  FRA_technology_sharing:0	"Technology Sharing"
  FRA_technology_sharing_desc:0	"To stay in the technological course, a good solution could be to share our research with our colonies and our allies."
- FRA_technology_sharing_tooltip:0	"All the [[~FRA.GetADjective~]] colonies gain §G5%§! technology sharing bonus from §Y[[~FRA.GetADjective~]] Research§!."
+ FRA_technology_sharing_tooltip:0	"All the [[~FRA.GetADjective~]] colonies gain [~§G~]5%[~§!~] technology sharing bonus from [~§Y~][[~FRA.GetADjective~]] Research[~§!~]."
  FRA_sahara_oil:0	"Sahara Oil"
  FRA_sahara_oil_desc:0	"Oil is the only resource [[~FRA.GetNameDef~]] doesn't have. We could begin prospecting the Sahara desert to find this black gold. Also, our oil production is still minimal, so we should develop synthetic oil production technology as [[~GER.GetNameDef~]] has."
  FRA_tungsten_mines:0	"Tungsten Mines"
@@ -418,10 +418,10 @@
  FRA_vienot_agreement_desc:0	"The [[~FRA.GetAdjective~]] mandate of Syria and Lebanon could not last forever, but the Senate has been reluctant to give the independence. However, as nationalism in the Middle East grows, our relations with them have become more difficult. We should release them and nurture a more effective working relationship with them."
  FRA_rewrite_protectorate_treaties:0	"Renegotiate the Protectorate Treaties"
  FRA_rewrite_protectorate_treaties_desc:0	"The treaties that France imposed on Morocco and Tunisia were unbalanced, unfair, and inconsistent with the creed of the Republic. It's time to put the end of the old [[~FRA.GetAdjective~]] imperialistic era."
- FRA_rewrite_protectorate_treaties_tooltip:0	"§YMorocco§! and §YTunisia§! will become §YAssociated States§!. They can also take political focus without conditions and lock them to pro-[[~FRA.GetAdjective~]] diplomacy."
+ FRA_rewrite_protectorate_treaties_tooltip:0	"[~§Y~]Morocco[~§!~] and [~§Y~]Tunisia[~§!~] will become [~§Y~]Associated States[~§!~]. They can also take political focus without conditions and lock them to pro-[[~FRA.GetAdjective~]] diplomacy."
  FRA_autonomy_indochina:0	"Autonomy for Indochina"
  FRA_autonomy_indochina_desc:0	"The countries of the Indochina region are the pearl of the [[~FRA.GetAdjective~]] colonial empire, but we could do nothing on the political level since the colonization. We must remedy this sad state of affairs."
- FRA_autonomy_indochina_tooltip:0	"§YVietnam§!, §YCambodia§! and §YLaos§! will become §YAssociated States§!. They can also take political focus without conditions and lock them to pro-[[~FRA.GetAdjective~]] diplomacy."
+ FRA_autonomy_indochina_tooltip:0	"[~§Y~]Vietnam[~§!~], [~§Y~]Cambodia[~§!~] and [~§Y~]Laos[~§!~] will become [~§Y~]Associated States[~§!~]. They can also take political focus without conditions and lock them to pro-[[~FRA.GetAdjective~]] diplomacy."
  FRA_self_government_for_the_colonies:0	"Self Government for the Colonies"
  FRA_self_government_for_the_colonies_desc:0	"We should accord more autonomy to the overseas provinces that aren't heavily tied to [[~FRA.GetNameDef~]]. A local government is more effective in managing an administration far from [[~FRA.GetNameDef~]]."
  FRA_consolidate_african_federations:0	"Consolidate the African Federations"
@@ -442,7 +442,7 @@
  FRA_military_complex_nationalisation_desc:0	"Our fabrication facilities and production capacity are still limited. We can force the nationalization of some crucial manufacturers to reach some real production efficiency."
  FRA_defense_national_funds:0	"Defense National Funds"
  FRA_defense_national_funds_desc:0	"We couldn't afford an extensive rearmament program with our current budget. To reach our production goals, we need to increase the budget allotted to rearmament efforts and take some loads to finance some projects."
- FRA_defense_national_funds_tooltip:0	"§YIndustrial Support§! §Rwill stop when at war§!."
+ FRA_defense_national_funds_tooltip:0	"[~§Y~]Industrial Support[~§!~] [~§R~]will stop when at war[~§!~]."
  FRA_war_material_licence:0	"War Material Production Licence"
  FRA_war_material_licence_desc:0	"To stimulate the development of the military industries and secure infantry equipment supplies, we can accord some licenses to control the production."
  FRA_aircraft_manufacturer_nationalisation:0	"Aircraft Manufacturer Nationalization"
@@ -474,7 +474,7 @@
  FRA_support_blum_desc:0	"Blum's reforms aren't as effective as the [[~FRA.GetAdjective~]] thought, but he is in the right direction. We should give him more power to reform society."
  FRA_intervention:0	"[[~FRA.GetAdjective~]] Intervention"
  FRA_intervention_desc:0	"The democracies of the world need our help. We cannot allow another fascist or communist regime to gain ground. Anyone willing to fight for the cause should be allowed to."
- FRA_intervention_tooltip:0	"§R[[~ENG.GetNameDefCap~]] might refuse an alliance.\n§!"
+ FRA_intervention_tooltip:0	"[~§R~][[~ENG.GetNameDefCap~]] might refuse an alliance.[~\n~][~§!~]"
  FRA_support_daladier:0	"Support Daladier"
  FRA_support_daladier_desc:0	"Blum has shown us that he can't lead a country during a crisis. He must resign and cede the office to Edouard Daladier, the leader of the Parti Radical and the number two of the Popular Front."
  FRA_status_quo:0	"Form the Popular Front"
@@ -604,10 +604,10 @@
  FRA_action_francaise_desc:0	"Action Française supports the restoration of the monarchy and, after the 1905 law on the separation of Church and State, the restoration of Roman Catholicism as the state religion. It's also a rallying point in distinction to the Third Republic of France, which was considered corrupt and unworkable by many of its opponents, whom they hoped to come to their banner."
  FRA_camelots_roi:0	"Camelots du Roi"
  FRA_camelots_roi_desc:0	"The Camelots du Roi is a far-right youth organization of the movement Action Française. The paramilitary group can strengthen our position in [[~FRA.GetAdjective~]] society."
- FRA_camelots_roi_tooltip:0	"§YJean d'Orleans will be choose as King.\n§!"
+ FRA_camelots_roi_tooltip:0	"[~§Y~]Jean d'Orleans will be choose as King.[~\n~][~§!~]"
  FRA_brumaire_movement:0	"Side With the Bonapartists"
  FRA_brumaire_movement_desc:0	"Under the aegis of Napoleon, France experienced its greatest glory, its greatest victories, its greatest extension. No one can deny that the Empire was when France was the most respected and influential nation. Restoring the Bonaparte dynasty will allow us to regain this ancient glory."
- FRA_brumaire_movement_tooltip:0	"§YNapoleon VI will be chosen as Emperor.\n§!"
+ FRA_brumaire_movement_tooltip:0	"[~§Y~]Napoleon VI will be chosen as Emperor.[~\n~][~§!~]"
  FRA_papal_rehabilitation:0	"Papal Rehabilitation"
  FRA_papal_rehabilitation_desc:0	"In 1926, Pope Pius XI condemned Action Française due to the influence of Maurras, an agnostic. With the revival of anti-communism in the Catholic Church, we can end the condemnation."
  FRA_union_latins:0	"Latin Union"
@@ -767,7 +767,7 @@
 	#### NAVAL SECTION ####
 
  FRA_naval_construction_program:0	"Naval Construction Program"
- FRA_naval_construction_program_tt:0	"Not enough building slots for §YNaval Base§!"
+ FRA_naval_construction_program_tt:0	"Not enough building slots for [~§Y~]Naval Base[~§!~]"
  FRA_naval_construction_program_desc:0	"If we plan to expand our navy, the first step is improving and developing our naval bases. Our unique ships require constant attention to stay combat-ready at all times."
  FRA_atlantic_domination:0	"Atlantic Domination"
  FRA_atlantic_domination_desc:0	"Improving the design of our Battleships would lead to significant tactical advantages into the Atlantic. With their range and power uncontested, no one will be able to outrun their guns."
@@ -802,7 +802,7 @@
 	#### AIR SECTION ####
 
  FRA_air_bases:0	"Expand Our New Air Bases"
- FRA_air_bases_bypass_tt:0	"Not enough building slots for §YAir Base§!"
+ FRA_air_bases_bypass_tt:0	"Not enough building slots for [~§Y~]Air Base[~§!~]"
  FRA_air_bases_desc:0	"The time has come to expand on our Airforce! Plans have already been made to start construction of new Air Bases to support a significant increase in both personnel and aircraft."
  FRA_modernisation_program:0	"Modernization Program"
  FRA_modernisation_program_desc:0	"We can apply some revolutionary civilian engineering to our Fighters to improve their speed, range, and max altitude. We need to focus on this if we want to keep up with the advancements made by others."
@@ -830,7 +830,7 @@
  FRA_faire_face_desc:0	"With our improved Air Force, we may begin to test current developments and overcome old ideas with new theories on executing air operations and using planes in formations."
  FRA_finalize_the_potez_630:0	"Finalize the Potez 630"
  FRA_finalize_the_potez_630_desc:0	"WIP"
- FRA_finalize_the_potez_630_tt:0	"Enables production of the §HPotez 630§! if not already researched.\nThe §HPotez 630§! is §Gcheaper§! to produce than regular Fighters.\n"
+ FRA_finalize_the_potez_630_tt:0	"Enables production of the [~§H~]Potez 630[~§!~] if not already researched.[~\n~]The [~§H~]Potez 630[~§!~] is [~§G~]cheaper[~§!~] to produce than regular Fighters.[~\n~]"
  FRA_develop_the_ms_406:0	"Develop the M.S. 406"
  FRA_develop_the_ms_406_desc:0	"WIP"
  FRA_enact_plan_v:0	"Enact Plan V"
@@ -902,7 +902,7 @@
 	#### FLAGS ####
  front_explosed:0	"Popular Front disbanded"
  matignon_agreements:0	"Matignon Agreements"
- is_vichy_france:0	"Has §YVichy France§! focus tree"
+ is_vichy_france:0	"Has [~§Y~]Vichy France[~§!~] focus tree"
  free_france_advisor_check:0	"This Officer will not take part in a Collaborationist Regime."
 
 
@@ -914,7 +914,7 @@
  france.100.d:0	"The Popular Front is the winner of the legislative election and gets the majority of the Parlement. The alliance of left-wing movements, including the French Communist Party (PCF), the French Section of the Workers' International (SFIO), and the Radical and Socialist Party, announces the formation of a government headed by SFIO leader Léon Blum. The [[~FRA.GetAdjective~]] hope that Blum's government will implement social reforms to end the current political crisis."
  france.100.a:0	"With the Front, everything is possible!"
  france.154.t:0	"The Right Wins the Election"
- france.154.d:0	"The various right-wing parties, mainly the Republican Federation and the Democratic Republican Alliance, won the parliamentary elections and appointed Pierre-Étienne Flandin as prime minister.\n\nTheir plan to block a new left-wing government has been successful, and they now hope to get [[~FRA.GetNameDef~]] back on its feet, mainly by putting an end to inflation."
+ france.154.d:0	"The various right-wing parties, mainly the Republican Federation and the Democratic Republican Alliance, won the parliamentary elections and appointed Pierre-Étienne Flandin as prime minister.[~[~\n~][~\n~]~]Their plan to block a new left-wing government has been successful, and they now hope to get [[~FRA.GetNameDef~]] back on its feet, mainly by putting an end to inflation."
  france.154.a:0	"[[~FRA.GetNameDefCap~]] shall be strong again."
  france.101.t:0	"The Hoare-Laval Pact"
  france.101.d:0	"The press has unveiled the Hoare-Laval Pact to the public eye, conducted behind their backs. France and Britain, eager to stay in good grace with Italy, have negotiated a deal with Mussolini for a quick conclusion to the Second Italo-Abyssinian War with Ethiopian concessions. This is in hopes of maintaining the nation's independence, but it has been done without their knowledge. It has caused an uproar from both the right and the left, denouncing it as appeasement to Mussolini that would leave Ethiopia as little more than a puppet state. Albert Sarraut will lead until the elections."
@@ -923,9 +923,9 @@
  france.102.d:0	"With inflation rising 46%, the imposition of the 40-hour week proved highly inefficient, as the industry had a difficult time adjusting to it. The economic confusion hindered the rearmament effort, and the rapid growth of [[~GER.GetAdjective~]] armaments forced Blum to abandon the social reform programs of the Popular Front that had counted heavily on. Léon Blum resigns, the Parlement refusing to give him the means to solve the economic crisis."
  france.102.a:0	"Edouard Daladier and the radicals will form a new government."
  france.103.t:0	"Deflation!"
- france.103.d:0	"In 1936, France recovered slowly from the economic crisis that hurt the country in 1931. The unstable political situation, the stagnation of wages, and the public deficit are already challenging for the government.\n\nUnfortunately, our reliance on the gold standard is letting deflation hamper the growth of our exports and is making it more difficult for us to fulfill our debt obligations. The current economic crisis has already caused two-thirds of our exports to collapse. With widespread capital evasion, the situation is alarming, and the disillusionment of the working class for politics is compounding our problems."
+ france.103.d:0	"In 1936, France recovered slowly from the economic crisis that hurt the country in 1931. The unstable political situation, the stagnation of wages, and the public deficit are already challenging for the government.[~[~\n~][~\n~]~]Unfortunately, our reliance on the gold standard is letting deflation hamper the growth of our exports and is making it more difficult for us to fulfill our debt obligations. The current economic crisis has already caused two-thirds of our exports to collapse. With widespread capital evasion, the situation is alarming, and the disillusionment of the working class for politics is compounding our problems."
  france.103.a:0	"We must reform the economy quickly."
- FRA_deflation_tooltip:0	"§YUnlock decisions to reform the economy.\n§!"
+ FRA_deflation_tooltip:0	"[~§Y~]Unlock decisions to reform the economy.[~\n~][~§!~]"
  france.104.t:0	"Matignon Agreement"
  france.104.d:0	"After the election of the Popular Front, a massive general strike of the working class broke out. Initiated in Le Havre, accompanied by factory occupations to prevent lockouts, it quickly spread through [[~FRA.GetNameDef~]]. More than a million workers went on strike. The social movement immediately followed the electoral victory of the Popular Front to reach this position of power. The new left-wing government, headed by Léon Blum, successfully negotiated social agreements, signed at the Hôtel Matignon. All workers benefit from these agreements, which are the legal right to strike, paid vacations, 40-hour workweek, and the removal of all obstacles to union organization."
  france.104.a:0	"Let's make social reforms."
@@ -1000,7 +1000,7 @@
  france.127.d:0	"With the annexation of Wallonia, there was a lack of defense at the border of [[~GER.GetNameDef~]]. To protect us against the [[~GER.GetNameDef~]], we must persuade the Benelux to follow our politics."
  france.127.a:0	"The northeast will be secure."
  france.128.t:0	"Communist Coup"
- france.128.d:0	"Today, just as the [[~Root.GetRulingParty~]] leadership and army were bracing for a revolt on a national scale, several officials in the [[~Root.GetAdjective~]] government swiftly placed [[~Root.GetLeader~]] under house arrest and entered negotiations with the communists.\n\nWhile retaining a pretense of safeguarding order, the negotiations effectively aimed to secure positions within the new socialist state for those who chose to cooperate. The coup was finished before anyone could move to stop it, and those who would have are now imprisoned, exiled, or executed by the new regime."
+ france.128.d:0	"Today, just as the [[~Root.GetRulingParty~]] leadership and army were bracing for a revolt on a national scale, several officials in the [[~Root.GetAdjective~]] government swiftly placed [[~Root.GetLeader~]] under house arrest and entered negotiations with the communists.[~[~\n~][~\n~]~]While retaining a pretense of safeguarding order, the negotiations effectively aimed to secure positions within the new socialist state for those who chose to cooperate. The coup was finished before anyone could move to stop it, and those who would have are now imprisoned, exiled, or executed by the new regime."
  france.128.a:0	"A true communism is needed to survive."
  france.128.b:0	"CGT will take the lead of the country."
  france.128.c:0	"[[~FRA.GetNameDefCap~]] will not be a puppet of the [[~SOV.GetAdjective~]]s!"
@@ -1083,7 +1083,7 @@
  france.158.a:0	"Yes, it is not just our conquest"
  france.158.b:0	"It is all ours."
  france.159.t:0	"The French Empire Approaches Poland and Romania"
- france.159.desc:0	"In an attempt to solidify French influence and probably preempt German or [[~SOV.GetAdjective~]] expansion, [[~FRA.GetLeader~]] has announced the reestablishment of a continental system that would defend French interests across Europe.\n\nFrench diplomats have recently been seen in [[~POL.Capital.GetCapitalVictoryPointName~]] and in [[~ROM.Capital.GetCapitalVictoryPointName~]]. This new alliance, could force Germany in to a difficult two front war and will secure French access to the precious Romanian oil exports."
+ france.159.desc:0	"In an attempt to solidify French influence and probably preempt German or [[~SOV.GetAdjective~]] expansion, [[~FRA.GetLeader~]] has announced the reestablishment of a continental system that would defend French interests across Europe.[~[~\n~][~\n~]~]French diplomats have recently been seen in [[~POL.Capital.GetCapitalVictoryPointName~]] and in [[~ROM.Capital.GetCapitalVictoryPointName~]]. This new alliance, could force Germany in to a difficult two front war and will secure French access to the precious Romanian oil exports."
  france.159.a:0	"The Empire Will be the Dominant Power in Europe."
  france.159.b:0	"It is Reassuring to Have Such a Strong Ally."
  france.159.c:0	"Is This a New Napoleonic Era?"

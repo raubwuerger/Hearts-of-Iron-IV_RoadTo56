@@ -196,16 +196,16 @@ MAN_operation_kantokuen:0	"Operation Kantokuen"
 MAN_operation_kantokuen_desc:0	"The time has come to defeat the ultimate enemy of our New Order in Asia, the Russians have for centuries occupied Asian territories, claiming it to be theirs. Their arrogance will be crushed once again by a united alliance of Asian nations! We must prepare our armed forces for a long march into Siberia to banish European forces once and for all."
 
 MAN_greater_manchuria:0	"Greater Manchuria"
-MAN_greater_manchuria_desc:0	"The [[~MAN.GetName~]] must aim to reclaim the territories of Outer Manchuria stolen by the Russians in 1858 and 1860. §RClaiming lands that have not been under our control for such a long time will destabilize our nation, but the liberation of Asia will be worth every drop of blood!§"
+MAN_greater_manchuria_desc:0	"The [[~MAN.GetName~]] must aim to reclaim the territories of Outer Manchuria stolen by the Russians in 1858 and 1860. [~§R~]Claiming lands that have not been under our control for such a long time will destabilize our nation, but the liberation of Asia will be worth every drop of blood!§"
 
 MAN_beyond_baikal:0	"Beyond Baikal"
-MAN_beyond_baikal_desc:0	"To truly show the world our paradise of Pan-Asian peoples, our claims shall extend beyond Lake Baikal to incorporate all Mongols, Buryats and more! §RClaiming such vast territories will heavily destabilize our nation, but we must remain true to our cause of Pan-Asianism!§"
+MAN_beyond_baikal_desc:0	"To truly show the world our paradise of Pan-Asian peoples, our claims shall extend beyond Lake Baikal to incorporate all Mongols, Buryats and more! [~§R~]Claiming such vast territories will heavily destabilize our nation, but we must remain true to our cause of Pan-Asianism!§"
 
 MAN_revise_imperial_treaties:0	"Revise Imperial Treaties"
-MAN_revise_imperial_treaties_desc:0	"Our preparations are complete and the time has come! The treaties of Aigun and Beijing will be revised, and our territories reclaimed! The European colonizers will be banished across the urals! §RDeclaring war on a nation of superior strength will incite defeatism in the Army.§"
+MAN_revise_imperial_treaties_desc:0	"Our preparations are complete and the time has come! The treaties of Aigun and Beijing will be revised, and our territories reclaimed! The European colonizers will be banished across the urals! [~§R~]Declaring war on a nation of superior strength will incite defeatism in the Army.§"
 
 MAN_liberation_is_nigh:0	"Liberation is Nigh!"
-MAN_liberation_is_nigh_desc:0	"We have succeeded in liberating the territories claimed by the government, §GWhile helping to root out defeatism§, we still have a long way to go for the Russians to surrender!"
+MAN_liberation_is_nigh_desc:0	"We have succeeded in liberating the territories claimed by the government, [~§G~]While helping to root out defeatism§, we still have a long way to go for the Russians to surrender!"
 
 MAN_propagate_nanshinron:0	"Propagate Nanshin-ron"
 MAN_propagate_nanshinron_desc:0	"The Nanshrin-ron doctrine embraced by the Japanese government must be propagated within the government to allow for mobilization against the enemies of the New Order in Asia, military construction shall take place in order to prepare for war with hostile nations."
@@ -242,7 +242,7 @@ manchukuo_events.4.d:0	"What had been clear to most attendees before arriving to
 manchukuo_events.5.d:0	"The Manchurian delegation has requested for the transfer of all continental Chinese territory held by us, in exchange they have assured us, that the [[~MAN.GetName~]] will not seek to claim all of China."
 
  r56_manchuria.28.t:0	"[[~From.GetNameDEF~]] Offers Vassalisation"
- r56_manchuria.28.d:0	"By The Mandate Of Heaven, The Emperor Decree Hereby,\n\nThy kingdom is now invited to become a vassal under the glorious Great Qing Empire. Obey. Otherwise, perish under the might of the Celestial Empire.\n\nRespect this. "
+ r56_manchuria.28.d:0	"By The Mandate Of Heaven, The Emperor Decree Hereby,[~[~\n~][~\n~]~]Thy kingdom is now invited to become a vassal under the glorious Great Qing Empire. Obey. Otherwise, perish under the might of the Celestial Empire.[~[~\n~][~\n~]~]Respect this. "
  r56_manchuria.28.a:0	"The Edict is received."
  r56_manchuria.28.b:0	"Bullshit!"
  r56_manchuria.29.t:0	"[[~From.GetName~]] Becomes Our Vassal"
@@ -328,7 +328,7 @@ MAN_extreme_defeatism:0	"Extreme Defeatism"
 MAN_extrene_defeatism_desc:0	"Declaring war on the [[~SOV.GetName~]] has incited widespread defeatism across the Armed Forces and the civilian population."
 
 MAN_false_government:0	"Illegitimate Government of China"
-MAN_false_government_desc:0	"Our forces have nominally managed to unite all Chinese territories under our government, yet communist and republican resistance will persist due to the illegitimate claim of our government over China. The Chinese populace will never fully accept a Japanese Puppet state as the rightful government. §RThis national spirit is unremoveable§"
+MAN_false_government_desc:0	"Our forces have nominally managed to unite all Chinese territories under our government, yet communist and republican resistance will persist due to the illegitimate claim of our government over China. The Chinese populace will never fully accept a Japanese Puppet state as the rightful government. [~§R~]This national spirit is unremoveable§"
 
 MAN_specialized_units:0	"Manchurian Special Forces"
 MAN_manchurian_army:0	"Japanese Advised Army"
@@ -346,11 +346,11 @@ MAN_resource_manchu_idea:0	"Japanese Exploitation"
  joan_of_arc_of_manchukuo:0	"Joan of Arc of Manchukuo"
 
 #Flags:
- asian_liberation:0	"§GHas embraced Asian Liberation§ §W "
+ asian_liberation:0	"[~§G~]Has embraced Asian Liberation§ [~§W~] "
 
 #Tooltip text:
- asian_war:0	"§GWar will be declared on all nations owning previously cored territories!§!"
- MAN_vassal_tt:0	"Owns all states in the following region :\n       §YManchuria (except Chosen Peninsula)§!\n       §YNorthern China§!\n       §YEastern China§!\n       §YWestern China§!\n       §YSouthern China (except Guangzhouwan, Macau and Hong Kong)§!"
+ asian_war:0	"[~§G~]War will be declared on all nations owning previously cored territories![~§!~]"
+ MAN_vassal_tt:0	"Owns all states in the following region :[~\n~]       [~§Y~]Manchuria (except Chosen Peninsula)[~§!~][~\n~]       [~§Y~]Northern China[~§!~][~\n~]       [~§Y~]Eastern China[~§!~][~\n~]       [~§Y~]Western China[~§!~][~\n~]       [~§Y~]Southern China (except Guangzhouwan, Macau and Hong Kong)[~§!~]"
 
 ### opinions ###
  helped_to_arrest_konstantin:0	"Helped to arrest Konstantin"

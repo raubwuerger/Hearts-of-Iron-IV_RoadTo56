@@ -102,7 +102,7 @@
  RUT_form_mechanics_desc:0	"At the end of the day what's the difference between a plane downed by enemy bullets, by a sudden fire of the engine or an aircraft incapable to fly due to mechanical failures if we can't repair them?  In order to reduce the risks of mechanical failures, the only solution is to have dedicated and well-trained mechanics who know the interior of those planes more than a surgeon knows anatomy."
  
  RUT_aviation_effort:0	"Found the Air School"
- RUT_aviation_effort_tt:0	"Not enough building slots for §YAir Base§!"
+ RUT_aviation_effort_tt:0	"Not enough building slots for [~§Y~]Air Base[~§!~]"
  RUT_aviation_effort_desc:0	"Nowhere are technological advances more rapid than in aerial warfare. Aviation is a field any modern nation must master."
  RUT_fighter_focus:0	"Fighter Focus"
  RUT_fighter_focus_desc:0	"We have not seen the last of aerial dogfights in the Great War. Keeping ahead in the development of fighter planes will give us an edge in the future."
@@ -117,7 +117,7 @@
  RUT_NAV_effort:0	"Naval Bombers"
  RUT_NAV_effort_desc:0	"Just as the new naval warfare takes place beneath the water's surface, part of it takes place in the air above the waters."
  RUT_foreign_port:0	"Start Shipbuilding in Occupied Territories"
- RUT_naval_effort_tt:0	"Not enough building slots for §YNaval Dockyards§!"
+ RUT_naval_effort_tt:0	"Not enough building slots for [~§Y~]Naval Dockyards[~§!~]"
  RUT_foreign_port_desc:0	"The expansion of our navy should be our priority. Assign all available resources to new Dockyards and research into light surface ships."
  RUT_ukrainian_shipbuilding:0	"Build Ships in Ukraine"
  RUT_flexible_navy:0	"Flexible Navy"

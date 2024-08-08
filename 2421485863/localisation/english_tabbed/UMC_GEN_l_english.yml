@@ -1,5 +1,5 @@
 ﻿l_english:
- ########################## Basics ##########################       \n      §H§!
+ ########################## Basics ##########################       [~\n~]      [~§H~][~§!~]
 
  GEN_personal_affair:0	"Personal Affair"
  GEN_personal_affair_desc:0	"The current war [[~ROOT.GetName~]] is in is more personal than political. Thus other nations don't want to get involved, nor should they."
@@ -70,10 +70,10 @@
  GEN_soviet_heavy_industry:0	"[[~SOV.getAdjective~]] Heavy Industry"
  GEN_soviet_heavy_industry_desc:0	"Our [[~SOV.getAdjective~]] friends are suggesting a coordinated expansion of our heavy industry."
  GEN_automobile_industry:0	"Automobile Industry"
- GEN_Automobile_tt:0	"Gain small amount of §HMotorized Equipment§! from invited companies."
+ GEN_Automobile_tt:0	"Gain small amount of [~§H~]Motorized Equipment[~§!~] from invited companies."
  GEN_automobile_industry_desc:0	"Local car manufacturers are currently being encouraged to coordinate with their colleagues from abroad."
  GEN_purchase_foreign_licenses:0	"Purchase Foreign Licences"
- GEN_Licences_EXPL:0	"Unlock §HPurchase Foreign Armor§! decisions."
+ GEN_Licences_EXPL:0	"Unlock [~§H~]Purchase Foreign Armor[~§!~] decisions."
  GEN_purchase_foreign_licenses_desc:0	"As we are now capable of producing modern equipment we can purchase the most modern designs from other nations. Even though a certain price must be paid it will surely be worth it."
 
  GEN_industrial_boom:0	"Industrial Boom"
@@ -106,7 +106,7 @@
  GEN_Units_Good_Two:0	"Focus on Quality"
  GEN_Units_Good_Two_desc:0	""
  GEN_Mechanized:0	"Expand Mechanized Truck Models"
- GEN_Mechanized_tt:0	"Gain a Division template with 2 §HLight Tank§! and 3 §HMotorized§! battalions."
+ GEN_Mechanized_tt:0	"Gain a Division template with 2 [~§H~]Light Tank[~§!~] and 3 [~§H~]Motorized[~§!~] battalions."
  GEN_Mechanized_desc:0	""
  GEN_Armor_Sov:0	"Mission for the Soviet Armor"
  GEN_Armor_Sov_desc:0	""
@@ -137,7 +137,7 @@
  GEN_aircraft_german_desc:0	"Being innovative in every state, our German colleagues did not disappoint us here as well: new dive bombers are masterpieces we took structural drawings of."
  GEN_Fighter_Competition:0	"Fighter Competition"
  GEN_Fighter_Competition_desc:0	"We shall host an airshow to determine the fastest and most mobile fighter plane model. "
- GEN_Fighter_Competition_EXPL:0	"Gain some §HAircrafts§! from nations where you made an aircraft mission.\n"
+ GEN_Fighter_Competition_EXPL:0	"Gain some [~§H~]Aircrafts[~§!~] from nations where you made an aircraft mission.[~\n~]"
  GEN_Close_Air_Support:0	"Close Air Support Modifications"
  GEN_Close_Air_Support_desc:0	"Now that we own foreign fighter licences we can easily modify them to be able provide close air support for our army."
  GEN_Bomber_Competition:0	"Bomber Competition"
@@ -193,9 +193,9 @@
  GEN_Naval_Doctrine_desc:0	"New ships will be useless without proper tactics, we should improve our doctrine immediately!"
 
  GEN_Generals:0	"Expand General Staff"
- GEN_Generals_EXPL:0	"We will §Hexpand the general staff§! and gain trained §HGenerals§! and §HAdmirals§!.\nNumber and quality of generals depends on §Hcompleted§! focuses."
- GEN_Generals_Other_tt:0	"\nBy completing this focus you will gain an addition commander when doing the §HExpand General Staff§! focus."
- GEN_Generals_Other_nav_tt:0	"\nBy completing this focus you will gain an addition admiral when doing the §HExpand General Staff§! focus."
+ GEN_Generals_EXPL:0	"We will [~§H~]expand the general staff[~§!~] and gain trained [~§H~]Generals[~§!~] and [~§H~]Admirals[~§!~].[~\n~]Number and quality of generals depends on [~§H~]completed[~§!~] focuses."
+ GEN_Generals_Other_tt:0	"[~\n~]By completing this focus you will gain an addition commander when doing the [~§H~]Expand General Staff[~§!~] focus."
+ GEN_Generals_Other_nav_tt:0	"[~\n~]By completing this focus you will gain an addition admiral when doing the [~§H~]Expand General Staff[~§!~] focus."
  GEN_Generals_desc:0	"Our country's military is lacking proper organisation. A formation of a national general staff will improve performance of standing armies."
 
  GEN_State_Matter:0	"Focus on Internal Matters"
@@ -280,7 +280,7 @@
  ########################## Decisions ##########################
 
  UMC_GEN_tank_purchase_cat:0	"Foreign Armor Purchase"
- UMC_GEN_tank_purchase_cat_desc:0	"With the successful expansion of our economy, we can now afford to arm our armies in a modern style. And whenever in future wars the battle is fought, armored troops will play the decisive role.\nTherefore we must use our resources to developing our tanks or better - purchase them."
+ UMC_GEN_tank_purchase_cat_desc:0	"With the successful expansion of our economy, we can now afford to arm our armies in a modern style. And whenever in future wars the battle is fought, armored troops will play the decisive role.[~\n~]Therefore we must use our resources to developing our tanks or better - purchase them."
 
  GEN_light_tank_ger:0	"Purchase German Light Tanks"
  GEN_medium_tank_ger:0	"Purchase German Medium Tanks"

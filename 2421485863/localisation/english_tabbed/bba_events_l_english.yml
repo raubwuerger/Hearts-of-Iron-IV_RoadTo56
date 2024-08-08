@@ -1,21 +1,21 @@
 ﻿l_english:
  # News events
  bba_news.0.t:0	"The End of the League of Nations"
- bba_news.0.desc:0	"With the declaration of war on [[~?global.LoN_defender_country.GetNameDef~]] by [[~?global.LoN_attacker_country.GetNameDef~]], the League of Nations has failed in its attempts to preserve peace. [[~?global.LoN_attacker_country.GetLeader~]] openly mocked the League's inability to do anything, and with that took [[~?global.LoN_attacker_country.GetHerHis~]] country out of the League. With other world leaders also questioning the point of the League of Nations if it can't prevent conflicts, the days of the League are de facto over. \nWhile the council continues to meet, no-one expects it to actually accomplish anything anymore. Whatever authority the council once had is long lost now."
+ bba_news.0.desc:0	"With the declaration of war on [[~?global.LoN_defender_country.GetNameDef~]] by [[~?global.LoN_attacker_country.GetNameDef~]], the League of Nations has failed in its attempts to preserve peace. [[~?global.LoN_attacker_country.GetLeader~]] openly mocked the League's inability to do anything, and with that took [[~?global.LoN_attacker_country.GetHerHis~]] country out of the League. With other world leaders also questioning the point of the League of Nations if it can't prevent conflicts, the days of the League are de facto over. [~\n~]While the council continues to meet, no-one expects it to actually accomplish anything anymore. Whatever authority the council once had is long lost now."
  bba_news.0.a:0	"Not totally unexpected"
 
  # Italo-Ethiopian War events
  BBA_italo_ethiopian_war_events.01.t:0	"End the Christmas Offensive"
- BBA_italo_ethiopian_war_events.01.desc:0	"Our troops have stalled in the war against Abyssinia, and have even been pushed back in certain places. This “Christmas Offensive” has Mussolini privately berating the military high command for their incompetencies. The Duce wants results. Now. \n\n He has therefore authorized any means necessary to repel the Abyssinians and to end this war swiftly - whatever it takes."
+ BBA_italo_ethiopian_war_events.01.desc:0	"Our troops have stalled in the war against Abyssinia, and have even been pushed back in certain places. This “Christmas Offensive” has Mussolini privately berating the military high command for their incompetencies. The Duce wants results. Now. [~[~\n~][~\n~]~] He has therefore authorized any means necessary to repel the Abyssinians and to end this war swiftly - whatever it takes."
  BBA_italo_ethiopian_war_events.01.a:0	"By any means necessary"
  BBA_italo_ethiopian_war_events.01.b:0	"We need to be methodical and deliberate"
 
  BBA_italo_ethiopian_war_events.02.t:0	"Major Italian Offensive"
- BBA_italo_ethiopian_war_events.02.desc:1	"The Italians are trying to regain the initiative in the war. They are launching a major offensive, in an attempt to smash our lines and crush the [[~ROOT.GetAdjective~]] Empire in one blow.\nOur forces must hold. It is vital that our forces hold long enough against intense bombing and assaults with tanks and artillery, so that we have time to convince the international community to act on our behalf."
+ BBA_italo_ethiopian_war_events.02.desc:1	"The Italians are trying to regain the initiative in the war. They are launching a major offensive, in an attempt to smash our lines and crush the [[~ROOT.GetAdjective~]] Empire in one blow.[~\n~]Our forces must hold. It is vital that our forces hold long enough against intense bombing and assaults with tanks and artillery, so that we have time to convince the international community to act on our behalf."
  BBA_italo_ethiopian_war_events.02.a:0	"Destroy the invaders!"
 
  BBA_italo_ethiopian_war_events.03.t:0	"Italian Buildup"
- BBA_italo_ethiopian_war_events.03.desc:0	"Our offensive has pushed the Italians back, but it failed to achieve it's goal. Our troops have run out of momentum, and the Italians are recovering from the shock of our assault.\nintelligence reports indicate that they are preparing a new push, better prepared than last time. Our forces must hold. They longer we can keep them away from our country, the more they have to commit, and the easier it will be to convince the League of Nations that this is no minor "colonial skirmish" but rather a brutal aggression by one member country against another."
+ BBA_italo_ethiopian_war_events.03.desc:0	"Our offensive has pushed the Italians back, but it failed to achieve it's goal. Our troops have run out of momentum, and the Italians are recovering from the shock of our assault.[~\n~]intelligence reports indicate that they are preparing a new push, better prepared than last time. Our forces must hold. They longer we can keep them away from our country, the more they have to commit, and the easier it will be to convince the League of Nations that this is no minor "colonial skirmish" but rather a brutal aggression by one member country against another."
  BBA_italo_ethiopian_war_events.03.a:0	"The stakes are increasing."
 
  BBA_italo_ethiopian_war_events.10.t:0	"League of Nations' Embargo Resolution"
@@ -23,12 +23,12 @@
  BBA_italo_ethiopian_war_events.10.a:0	"It is the right thing to do"
  BBA_italo_ethiopian_war_events.10.b:0	"We can't risk our economy"
  BBA_italo_ethiopian_war_events.10.c:0	"No, [[~ITA.GetName~]] is our friend"
- leave_the_league_of_nations_tt:0	"§Y[[~ROOT.GetName~]]§! leaves the League of Nations"
+ leave_the_league_of_nations_tt:0	"[~§Y~][[~ROOT.GetName~]][~§!~] leaves the League of Nations"
  BBA_italo_ethiopian_war_events.11.t:0	"The League of Nations demands closure of Suez"
  BBA_italo_ethiopian_war_events.11.desc:0	"The delegates from [[~ETH.GetName~]] in the League of Nations requested that the Suez Canal be closed for [[~ITA.GetName~]] as an increase in the sanctions against [[~ITA.GetNameDef~]]. After a long debate in the council, the council decided to comply with the request. Thus [[~ROOT.GetNameDef~]] has been charged with the task of blocking any [[~ITA.GetAdjective~]] traffic through the canal."
  BBA_italo_ethiopian_war_events.11.a:0	"This should hurt their war effort"
  BBA_italo_ethiopian_war_events.11.b:0	"We're not going to do it"
- suez_blocked_sanctions_tt:0	"§Y[[~ITA.GetName~]]§! will be blocked from using the Suez Canal."
+ suez_blocked_sanctions_tt:0	"[~§Y~][[~ITA.GetName~]][~§!~] will be blocked from using the Suez Canal."
  BBA_italo_ethiopian_war_events.12.t:0	"[[~FROM.GetName~]] Refuses to Close the Suez"
  BBA_italo_ethiopian_war_events.12.desc:0	"[[~FROM.GetLeader~]] has informed the League of Nations Council that [[~FROM.GetNameDef~]] will not close the Suez Canal for [[~ITA.GetName~]]. This is a clearly breach of international agreements, and when urged to comply, [[~FROM.GetName~]] simply announced that they are leaving the League of Nations."
  BBA_italo_ethiopian_war_events.12.a:0	"You can't really trust anyone, can you?"
@@ -67,7 +67,7 @@
  BBA_italo_ethiopian_war_events.101.t:0	"[[~FROM.GetNameDefCap~]] Accepts Request to Host Government"
  BBA_italo_ethiopian_war_events.101.desc:0	"The [[~FROM.GetAdjective~]] government has responded favorably to the request to act as host nation for [[~ROOT.GetLeader~]] should that be necessary."
  BBA_italo_ethiopian_war_events.101.a:0	"One issue less to worry about"
- change_focus_to_from_tt:0	"Adds new focuses for §Y[[~ROOT.GetNameDef~]]§! that can be used while exiled in §Y[[~FROM.GetNameDef~]]§!."
+ change_focus_to_from_tt:0	"Adds new focuses for [~§Y~][[~ROOT.GetNameDef~]][~§!~] that can be used while exiled in [~§Y~][[~FROM.GetNameDef~]][~§!~]."
  BBA_italo_ethiopian_war_events.102.t:0	"[[~FROM.GetNameDefCap~]] Refuses the [[~ROOT.GetAdjective~]] Request"
  BBA_italo_ethiopian_war_events.102.desc:0	"Unfortunately, the [[~FROM.GetAdjective~]] government does not dare to upset [[~ITA.GetLeader~]]. They have refused our request to set up a temporary Government there should [[~ETH.GetName~]] fall."
  BBA_italo_ethiopian_war_events.102.a:0	"We should try elsewhere then"
@@ -90,7 +90,7 @@
  BBA_italo_ethiopian_war_events.120.t:0	"The Debacle in [[~FROM.GetName~]]"
  BBA_italo_ethiopian_war_events.120.desc:0	"The war in [[~FROM.GetName~]] has not gone according to expectation. Our proud nation is quickly becoming the laughing stock of Europe, and the crowds in [[~ROOT.GetCapitalVictoryPointName~]] are becoming restless. Revolution may be around the corner. Now [[~FROM.GetLeader~]] approaches us with a peace offer."
  BBA_italo_ethiopian_war_events.120.a:0	"We should focus on something easier"
- ETH_peace_treaty_tt:1	"\n§YPeace treaty terms§!: \n"
+ ETH_peace_treaty_tt:1	"[~\n~][~§Y~]Peace treaty terms[~§!~]: [~\n~]"
  ETH_peace_treaty_part_2_tt:0	"[[~ETH.GetFlag~]][[~ETH.GetName~]]:"
  BBA_italo_ethiopian_war_events.120.b:0	"We can still win this!"
  BBA_italo_ethiopian_war_events.121.t:0	"Victory!"
@@ -108,7 +108,7 @@
  BBA_italo_ethiopian_war_events.201.t:0	"Army Morale Boost"
  BBA_italo_ethiopian_war_events.201.desc:0	"By holding out this long, against these odds, morale among the common soldiers is beginning to pick back up again. When the initial enthusiasm had died, many started taking eventual defeat for granted, but now there is some talk of a possible victory once more. There are also clear signs of units adapting to the new style of fighting."
  BBA_italo_ethiopian_war_events.201.a:0	"We must build on this to push the enemy out of [[~ROOT.GetName~]]"
- ETH_morale_boost_tt:0	"Modify §Y[[~GetEthiopianArmySpiritName~]]§! by:\n$MODIFIERS_ARMY_DEFENCE_FACTOR$: §G+10%§! \n$MODIFIER_ARMY_ORG_FACTOR$: §G+5%§!"
+ ETH_morale_boost_tt:0	"Modify [~§Y~][[~GetEthiopianArmySpiritName~]][~§!~] by:[~\n~]$MODIFIERS_ARMY_DEFENCE_FACTOR$: [~§G~]+10%[~§!~] [~\n~]$MODIFIER_ARMY_ORG_FACTOR$: [~§G~]+5%[~§!~]"
 
  BBA_italo_ethiopian_war_events.202.t:0	"Enemy Desertions"
  BBA_italo_ethiopian_war_events.202.desc:0	"It started as a trickle at first, some of the irregular units of our enemy started losing faith, and some of those came over to fight for us. Now Soldiers are deserting en masse, and not just the irregulars. Some of the deserters even bring heavy equipment with them."
@@ -134,7 +134,7 @@
  BBA_italo_ethiopian_war_events.302.t:0	"Unrest in the Colonies"
  BBA_italo_ethiopian_war_events.302.desc:1	"Our struggles in [[~ETH.GetName~]] have started to have a ripple effect elsewhere; we are receiving reports from the colonies that our subjects have started to disobey the local authorities in matters small and big. They apparently view our lack of progress in the war as a weakness and are testing our strength."
  BBA_italo_ethiopian_war_events.302.a:1	"Disturbing news!"
- ITA_colonial_unrest_tt:0	"Colonial Unrest: §R+15%§!"
+ ITA_colonial_unrest_tt:0	"Colonial Unrest: [~§R~]+15%[~§!~]"
 
  BBA_italo_ethiopian_war_events.303.t:0	"Italian Public Questions War Effort"
  BBA_italo_ethiopian_war_events.303.desc:1	"The [[~ETH.GetAdjevtive~]] debacle has turned the [[~ITA.GetAdjective~]]s against the war. More and more people are openly criticizing our government and its leadership, and even whispers of other alternatives are not uncommon."
@@ -148,7 +148,7 @@
  BBA_italo_ethiopian_war_events.305.t:0	"Uproar in the Colonies"
  BBA_italo_ethiopian_war_events.305.desc:1	"What started as civil disobedience in the colonies has almost escalated to outright rebellion! Our failure to address the continued struggles in [[~ETH.GetName~]] have convinced our subjects that we are weak and that they would be better off without our governance."
  BBA_italo_ethiopian_war_events.305.a:1	"Such insolence!"
- ITA_colonial_uproar_tt:0	"Major Colonial Unrest: §R+80%§!"
+ ITA_colonial_uproar_tt:0	"Major Colonial Unrest: [~§R~]+80%[~§!~]"
 
  BBA_italo_ethiopian_war_events.400.t:0	"Time to deal with [[~AFA.GetNameDef~]]"
  BBA_italo_ethiopian_war_events.400.desc:0	"[[~AFA.GetLeader~]], the sultan of [[~AFA.GetNameDef~]], has for a long time been under strong [[~ROOT.GetAdjective~]] influence. Just like during the last war he has remained neutral, despite formally being part of the [[~ETH.GetAdjective~]] empire. In fact, the only reason that the sultan still has power is due to [[~ROOT.GetAdjective~]] goodwill. The country may have sold it's coastline to [[~ROOT.GetName~]], but it still an obstacle to our conquest. The capture of [[~?ITA.ITA_capture_state.GetName~]] might be enough to convince the Sultan to surrender the rest of his land."
@@ -205,8 +205,8 @@
  BBA_ethiopia_balance_of_power_events.10.desc:1	"The gradual decentralization of [[~THIS.GetNameDef~]] has unsurprisingly caused the central government to lose much of its authority. Now the various regions are going so far as to declare their independence from [[~THIS.GetNameDef~]]. We need to act quickly if we wish to regain control of these regions."
  BBA_ethiopia_balance_of_power_events.10.a:0	"Nothing to do about it, I suppose"
  BBA_ethiopia_balance_of_power_events.10.b:0	"Destroy them"
- ETH_breakup_tt:0	"§RBecome independent from [[~ROOT.GetName~]]§!"
- ETH_breakup_fight_tt:0	"§RBecome independent from [[~ROOT.GetName~]] and [[~ROOT.GetName~]] declares war against them.§!"
+ ETH_breakup_tt:0	"[~§R~]Become independent from [[~ROOT.GetName~]][~§!~]"
+ ETH_breakup_fight_tt:0	"[~§R~]Become independent from [[~ROOT.GetName~]] and [[~ROOT.GetName~]] declares war against them.[~§!~]"
 
 #BBA_ethiopia_balance_of_power_events.20.t:	"Education Reforms"
 #BBA_ethiopia_balance_of_power_events.20.desc:	"As we begin to reform [[~ETH.GetNameDefCap~]], the issue of the education system has come to the forefront. Making sure the next generation are able to join the workforce is of course our priority. However, we have an opportunity to nudge that generation in a more acceptable moral direction."
@@ -261,9 +261,9 @@
  BBA_ethiopia_balance_of_power_events.54.t:0	"Shortage of Supplies in [[~?ROOT.ETH_bop_state.GetName~]]"
  BBA_ethiopia_balance_of_power_events.54.desc:0	"The people of [[~?ROOT.ETH_bop_state.GetName~]] look to the central government for help. Recent events have created a shortage of supplies and the region could really use some investments to counter the situation."
  BBA_ethiopia_balance_of_power_events.54.a:0	"We need to do something"
- ETH_investments_in_state_tt:0	"\nModify §Y$ETH_state_development_dynamic_modifier$§! by: \n$MODIFIER_STATE_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §G+5%§!\n$MODIFIER_LOCAL_BUILDING_SLOTS$: §G+5%§!"
+ ETH_investments_in_state_tt:0	"[~\n~]Modify [~§Y~]$ETH_state_development_dynamic_modifier$[~§!~] by: [~\n~]$MODIFIER_STATE_PRODUCTION_SPEED_BUILDINGS_FACTOR$: [~§G~]+5%[~§!~][~\n~]$MODIFIER_LOCAL_BUILDING_SLOTS$: [~§G~]+5%[~§!~]"
  BBA_ethiopia_balance_of_power_events.54.b:0	"There's unfortunately not much we can do at the moment"
- ETH_decline_in_state_tt:0	"\nModify §Y$ETH_state_development_dynamic_modifier$§! by: \n$MODIFIER_STATE_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §R-5%§!\n$MODIFIER_LOCAL_BUILDING_SLOTS$: §R-5%§!"
+ ETH_decline_in_state_tt:0	"[~\n~]Modify [~§Y~]$ETH_state_development_dynamic_modifier$[~§!~] by: [~\n~]$MODIFIER_STATE_PRODUCTION_SPEED_BUILDINGS_FACTOR$: [~§R~]-5%[~§!~][~\n~]$MODIFIER_LOCAL_BUILDING_SLOTS$: [~§R~]-5%[~§!~]"
  BBA_ethiopia_balance_of_power_events.54.c:0	"The local authorities in [[~?ROOT.ETH_bop_state.GetName~]] will have to deal with the problems"
 
  BBA_ethiopia_balance_of_power_events.55.t:0	"Locals Complain about Mistreatment"
@@ -281,7 +281,7 @@
  BBA_ethiopia_exile_events.01.t:0	"[[~FROM.GetLeader~]] ready to retake [[~FROM.GetName~]]"
  BBA_ethiopia_exile_events.01.desc:0	"The [[~FROM.GetAdjective~]] leader in exile,[[~FROM.GetLeader~]], is more than ready to launch a major campaign to retake [[~FROM.GetLeader.GetHerHis~]] country. The support among the populace for an attempt to do so is strong, so this could well be the time."
  BBA_ethiopia_exile_events.01.a:0	"[[~FROM.GetName~]]'s cause is ours"
- ETH_can_call_allies_tt:0	"§Y[[~ETH.GetNameWithFlag~]]§! can call allies to war."
+ ETH_can_call_allies_tt:0	"[~§Y~][[~ETH.GetNameWithFlag~]][~§!~] can call allies to war."
  BBA_ethiopia_exile_events.02.t:0	"Increased Resistance Activity in Northern [[~ETH.GetName~]]"
  BBA_ethiopia_exile_events.02.desc:0	"[[~ETH.GetLeader~]] has fled the country, but still encourages his supporters to attack the victorious [[~ROOT.GetAdjective~]] armies. These speeches have led to an increased resistance activity in the Northern and Central parts of [[~ETH.GetName~]]."
  BBA_ethiopia_exile_events.02.a:0	"We must be on the guard"
@@ -376,13 +376,13 @@
  BBA_ethiopia_exile_events.22.e:0	"They can have one of the [[~ENG.GetAdjective~]] islands"
 
  BBA_ethiopia_exile_events.23.t:0	"An Ethiopian Island"
- BBA_ethiopia_exile_events.23.desc:0	"In an offer of goodwill, and in recognition of [[~ROOT.GetLeader~]] as the rightful ruler of [[~ROOT.GetNameDef~]], [[~FROM.GetLeader~]] has given [[~ROOT.GetLeader~]] the island of [[~?ETH.japanese_island.GetName~]] as a staging area for reclaiming [[~ROOT.GetName~]].\n\n [[~FROM.GetNameDef~]] will assist [[~ROOT.GetName~]] in the reconquest of the lost territory. In return for these favors, [[~ROOT.GetLeader~]] has sworn fealty to [[~FROM.GetLeader~]], tying the two countries closer together in their struggle against European imperialism."
+ BBA_ethiopia_exile_events.23.desc:0	"In an offer of goodwill, and in recognition of [[~ROOT.GetLeader~]] as the rightful ruler of [[~ROOT.GetNameDef~]], [[~FROM.GetLeader~]] has given [[~ROOT.GetLeader~]] the island of [[~?ETH.japanese_island.GetName~]] as a staging area for reclaiming [[~ROOT.GetName~]].[~[~\n~][~\n~]~] [[~FROM.GetNameDef~]] will assist [[~ROOT.GetName~]] in the reconquest of the lost territory. In return for these favors, [[~ROOT.GetLeader~]] has sworn fealty to [[~FROM.GetLeader~]], tying the two countries closer together in their struggle against European imperialism."
  BBA_ethiopia_exile_events.23.a:0	"[[~?ETH.japanese_island.GetName~]] is ours"
 
  BBA_ethiopia_exile_events.24.t:0	"A Base of Operations for Ethiopia"
  BBA_ethiopia_exile_events.24.desc:0	"In a secret agreement made by the heads of states of [[~ROOT.GetNameDef~]] and [[~FROM.GetNameDef~]], a number of states on the Arabian peninsula has been promised to [[~FROM.GetNameDef~]] should they fall into the hands of the [[~ROOT.GetAdjective~]] government. The territory will be handed over when the time is right, but of course needs to be secured first."
  BBA_ethiopia_exile_events.24.a:0	"This will make them a stronger ally"
- ETH_transfer_states_tt:0	"Will be transferred to §Y[[~ETH.GetNameWithFlag~]]§! when owned by §Y[[~ROOT.GetNameWithFlag~]]§!"
+ ETH_transfer_states_tt:0	"Will be transferred to [~§Y~][[~ETH.GetNameWithFlag~]][~§!~] when owned by [~§Y~][[~ROOT.GetNameWithFlag~]][~§!~]"
 
  BBA_ethiopia_exile_events.30.t:0	"Mutual Faction Application"
  BBA_ethiopia_exile_events.30.desc:0	"[[~FROM.GetNameDefCap~]] suggests that we hand in a joint membership application to a faction opposed to [[~ITA.GetNameDef~]]. This would go against our historical policies, but then again, allowing the [[~FROM.GetAdjective~]] leader to stay in [[~ROOT.GetName~]] already violated that in a way."
@@ -433,7 +433,7 @@
  BBA_ethiopia_exile_events.44.a:0	"It's not like they will declare war or anything..."
 
  BBA_ethiopia_exile_events.45.t:0	"Mediation Successful"
- BBA_ethiopia_exile_events.45.desc_white_peace:0	"The [[~FROM.GetAdjective~]] mediation has proven successful. [[~FROM.FROM.GetLeader~]] was ordered by [[~FROM.GetLeader~]] to withdraw [[~FROM.FROM.GetLeader.GetHerHis~]] armies from [[~ROOT.GetAdjective~]] territory. \nThe treaty does not offer any compensation to [[~ROOT.GetName~]] but hopefully we can use our new allies to bring the country into the modern era. The [[~FROM.GetAdjective~]] [[~GetGermanCountryLeaderTitle~]], [[~FROM.GetLeader~]], has made vague promises about restoring the glory of the [[~ROOT.GetAdjective~]] empire."
+ BBA_ethiopia_exile_events.45.desc_white_peace:0	"The [[~FROM.GetAdjective~]] mediation has proven successful. [[~FROM.FROM.GetLeader~]] was ordered by [[~FROM.GetLeader~]] to withdraw [[~FROM.FROM.GetLeader.GetHerHis~]] armies from [[~ROOT.GetAdjective~]] territory. [~\n~]The treaty does not offer any compensation to [[~ROOT.GetName~]] but hopefully we can use our new allies to bring the country into the modern era. The [[~FROM.GetAdjective~]] [[~GetGermanCountryLeaderTitle~]], [[~FROM.GetLeader~]], has made vague promises about restoring the glory of the [[~ROOT.GetAdjective~]] empire."
  BBA_ethiopia_exile_events.45.desc_redraw_map:0	"[[~FROM.GetLeader~]] has brokered peace with [[~FROM.FROM.GetNameDef~]]. [[~ROOT.GetNameDefCap~]] must cede the entire south to [[~FROM.FROM.GetName~]]. In compensation [[~550.GetName~]] is to be given to [[~ROOT.GetName~]], to ensure that [[~ROOT.GetName~]] has access to the sea. This also, according to [[~FROM.GetLeader~]] divides the area into single unities which will, according to [[~FROM.GetLeader~]], reduce the risk of future conflicts between the two nations."
  BBA_ethiopia_exile_events.45.desc_cede_territory:0	"[[~FROM.GetLeader~]] has brokered peace with [[~FROM.FROM.GetNameDef~]]. Unfortunately, the two leaders have decided above our heads that [[~FROM.FROM.GetName~]] is to get parts of [[~ROOT.GetName~]]. There's not really anything we can do about it."
  BBA_ethiopia_exile_events.45.a:0	"Some kind of peace at least"
@@ -555,19 +555,19 @@
  BBA_ethiopia_imperial_events.21.t:0	"Resistance in [[~ETH.GetName~]]"
  BBA_ethiopia_imperial_events.21.desc:0	"Our troops continue to tear through the [[~ETH.GetAdjective~]] forces, making way for our superior rule. However, we are seeing an increase in resistance activity across our new dominion. It seems word of the former ruler, $ETH_haile_selassie$, speaking to the League of Nations has stirred many of our new subjects into a frenzy. It seems that so long as their emperor lives, resistance will be a thorn in the side of our colonial administration."
  BBA_ethiopia_imperial_events.21.a:0	"They will submit to our rule, one way or another."
- ETH_imperial_event_21_tt:0	"All controlled §Y[[~ETH.GetFlag~]][[~ETH.GetAdjective~]]§! states gain:\nCompliance: §R-10%§!"
+ ETH_imperial_event_21_tt:0	"All controlled [~§Y~][[~ETH.GetFlag~]][[~ETH.GetAdjective~]][~§!~] states gain:[~\n~]Compliance: [~§R~]-10%[~§!~]"
 
 # Military and technology events
  BBA_ethiopia_military_and_tech_events.1.t:0	"First class of the [[~GetEthiopianMilitaryAcademyName~]]"
- BBA_ethiopia_military_and_tech_events.1_war.desc:0	"The first ever class to finish the [[~GetEthiopianMilitaryAcademyName~]] will have to go straight from the school to the war. Having managed to build this school, and complete the education of a first class of cadets, while at the same time fighting a war, is truly a major feat. \nThis is the start of a new era for the [[~ROOT.GetAdjective~]] military!"
+ BBA_ethiopia_military_and_tech_events.1_war.desc:0	"The first ever class to finish the [[~GetEthiopianMilitaryAcademyName~]] will have to go straight from the school to the war. Having managed to build this school, and complete the education of a first class of cadets, while at the same time fighting a war, is truly a major feat. [~\n~]This is the start of a new era for the [[~ROOT.GetAdjective~]] military!"
  BBA_ethiopia_military_and_tech_events.1_peace.desc:0	"With the war behind us, we have now the chance to finish the creation of our military academy. The first class of cadets can help or nation win future wars, and ensure we make the best possible use of our experience from fighting the Italians."
 
  BBA_ethiopia_military_and_tech_events.1.a:0	"The school will preserve our focus on attack"
- ETH_ecole_attack_tt:0	"Modify §Y[[~GetEthiopianArmySpiritName~]]§! by:\n$modifier_army_sub_unit_infantry_attack_factor$: §G+10%§!\n$modifier_army_sub_unit_irregular_infantry_attack_factor$: §G+10%§! "
+ ETH_ecole_attack_tt:0	"Modify [~§Y~][[~GetEthiopianArmySpiritName~]][~§!~] by:[~\n~]$modifier_army_sub_unit_infantry_attack_factor$: [~§G~]+10%[~§!~][~\n~]$modifier_army_sub_unit_irregular_infantry_attack_factor$: [~§G~]+10%[~§!~] "
  BBA_ethiopia_military_and_tech_events.1.b:0	"The school will help us convert to a more defensive mindset"
- ETH_ecole_defense_tt:0	"Modify §Y[[~GetEthiopianArmySpiritName~]]§! by:\n$MODIFIERS_ARMY_DEFENCE_FACTOR$: §G+5%§!"
+ ETH_ecole_defense_tt:0	"Modify [~§Y~][[~GetEthiopianArmySpiritName~]][~§!~] by:[~\n~]$MODIFIERS_ARMY_DEFENCE_FACTOR$: [~§G~]+5%[~§!~]"
  BBA_ethiopia_military_and_tech_events.1.c:0	"The school will ensure we are never unprepared for war"
- ETH_ecole_learn_tt:0	"Modify §Y[[~GetEthiopianArmySpiritName~]]§! by:\n$MODIFIER_XP_GAIN_ARMY$: §G+5%§!"
+ ETH_ecole_learn_tt:0	"Modify [~§Y~][[~GetEthiopianArmySpiritName~]][~§!~] by:[~\n~]$MODIFIER_XP_GAIN_ARMY$: [~§G~]+5%[~§!~]"
 
 # Anti colonialism
  BBA_ethiopia_anti_colonialism_events.2.t:0	"[[~?global.african_supporting_country.GetNameDef~]] Requests Recognition of [[~?global.african_revolt_country.GetNameDef~]]"
@@ -589,12 +589,12 @@
  BBA_ethiopia_anti_colonialism_events.5.a:0	"The forces of [[~ROOT.GetName~]] and [[~?global.african_supporting_country.GetName~]] stand united!"
 
  BBA_ethiopia_anti_colonialism_events.6.t:0	"Freedom for [[~FROM.GetNameDef~]]"
- BBA_ethiopia_anti_colonialism_events.6.desc:1	"After heavy diplomatic pressure from [[~ROOT.GetName~]], including direct meetings between [[~ROOT.GetLeader~]] and [[~?global.african_colonial_country.GetLeader~]], the [[~?global.african_colonial_country.GetAdjective~]] government decided to back down, and recognize [[~?global.african_revolt_country.GetAdjective~]] independence. \nThanks to direct [[~ROOT.GetAdjective~]] intervention, the war for [[~?global.african_revolt_country.GetAdjective~]] independence is finally over. [[~?global.african_revolt_country.GetNameDefCap~]] is a free country, and [[~ROOT.GetLeader~]] will surely for ever be a hero in [[~?global.african_revolt_country.GetNameDef~]]."
+ BBA_ethiopia_anti_colonialism_events.6.desc:1	"After heavy diplomatic pressure from [[~ROOT.GetName~]], including direct meetings between [[~ROOT.GetLeader~]] and [[~?global.african_colonial_country.GetLeader~]], the [[~?global.african_colonial_country.GetAdjective~]] government decided to back down, and recognize [[~?global.african_revolt_country.GetAdjective~]] independence. [~\n~]Thanks to direct [[~ROOT.GetAdjective~]] intervention, the war for [[~?global.african_revolt_country.GetAdjective~]] independence is finally over. [[~?global.african_revolt_country.GetNameDefCap~]] is a free country, and [[~ROOT.GetLeader~]] will surely for ever be a hero in [[~?global.african_revolt_country.GetNameDef~]]."
  BBA_ethiopia_anti_colonialism_events.6.a:0	"Another country liberated from the imperialists"
 
 # Industrial and Financial Events
  BBA_ethiopia_industrial_financial_events.2.t:0	"[[~FROM.GetNameDefCap~]] Demands Integration"
- BBA_ethiopia_industrial_financial_events.2.desc:0	"Citing the fact that the economies of [[~ROOT.GetName~]] and [[~FROM.GetName~]] are so intertwined, and that much of the industry in [[~ROOT.GetName~]] is already controlled by [[~FROM.GetName~]], [[~FROM.GetLeader~]] demands that border stations between the two countries be removed. The control of all foreign policy is to be placed under the control of [[~FROM.Getname~]] to ensure maximum protection, coordination, and effficiency. In effect this would mean the end of [[~ROOT.GetAdjective~]] independence.\n All this will be done with the the best interest of both countries in mind, [[~FROM.GetLeader~]] ensures."
+ BBA_ethiopia_industrial_financial_events.2.desc:0	"Citing the fact that the economies of [[~ROOT.GetName~]] and [[~FROM.GetName~]] are so intertwined, and that much of the industry in [[~ROOT.GetName~]] is already controlled by [[~FROM.GetName~]], [[~FROM.GetLeader~]] demands that border stations between the two countries be removed. The control of all foreign policy is to be placed under the control of [[~FROM.Getname~]] to ensure maximum protection, coordination, and effficiency. In effect this would mean the end of [[~ROOT.GetAdjective~]] independence.[~\n~] All this will be done with the the best interest of both countries in mind, [[~FROM.GetLeader~]] ensures."
  BBA_ethiopia_industrial_financial_events.2.a:0	"They have no right to do this!"
  BBA_ethiopia_industrial_financial_events.2.b:0	"As long as we can retain some kind autonomy"
  BBA_ethiopia_industrial_financial_events.2.c:0	"It really is for the best of both our countries "
@@ -608,27 +608,27 @@
  BBA_ethiopia_industrial_financial_events.4.a:0	"This can surely be accomodated"
 
  BBA_ethiopia_industrial_financial_events.5.t:0	"[[~FROM.GetLeader~]] Agrees"
- BBA_ethiopia_industrial_financial_events.5.desc:0	"[[~FROM.GetLeader~]] has signed the document that unites [[~ROOT.GetName~]] and [[~FROM.GetName~]]. The economic policies will be aligned, the foreign offices are to combined into one. The judicial systems will be merged to make full cooperation easier.\n[[~FROM.GetNameDefCap~]] will from this day be an integral part of [[~ROOT.GetName~]]."
+ BBA_ethiopia_industrial_financial_events.5.desc:0	"[[~FROM.GetLeader~]] has signed the document that unites [[~ROOT.GetName~]] and [[~FROM.GetName~]]. The economic policies will be aligned, the foreign offices are to combined into one. The judicial systems will be merged to make full cooperation easier.[~\n~][[~FROM.GetNameDefCap~]] will from this day be an integral part of [[~ROOT.GetName~]]."
  BBA_ethiopia_industrial_financial_events.5.a:0	"This is for the benefit of everyone"
 
 #Fascist Ethiopia
  BBA_ethiopia_fascist_events.01.t:0	"An Opportunity for Change"
- BBA_ethiopia_fascist_events.01.desc:0	"$ETH_haile_selassie$'s confrontational approach to the Italians, combined with his trust in the League of Nations has led nowhere. It is obvious to everyone that this will be the doom of [[~ROOT.GetName~]].\n\n The war is an opportunity for change, it makes change of course a necessity even. The first course of action must be to send an ambassador to the Italians to negotiate a peace deal that they can accept."
+ BBA_ethiopia_fascist_events.01.desc:0	"$ETH_haile_selassie$'s confrontational approach to the Italians, combined with his trust in the League of Nations has led nowhere. It is obvious to everyone that this will be the doom of [[~ROOT.GetName~]].[~[~\n~][~\n~]~] The war is an opportunity for change, it makes change of course a necessity even. The first course of action must be to send an ambassador to the Italians to negotiate a peace deal that they can accept."
  BBA_ethiopia_fascist_events.01.a:0	"$ETH_haile_selassie_gugsa$ is the obvious choice"
- ETH_start_civil_war:0	"§Y$ETH_haile_selassie_gugsa$§! will start a §Ycivil war§! against §Y$ETH_haile_selassie$§! when the §Y$ETH_declare_for_italy$§! focus is completed."
- ETH_cede_states_tt:0	"\nWhen the war is over, §Y[[~ITA.GetNameWithFlag~]]§! will receive the following states:"
- ETH_cede_south_tt:0	"§Y [[~835.GetName~]]\n [[~836.GetName~]]\n [[~837.GetName~]]§!"
- ETH_ethiopia_italian_puppet_tt:0	"\n§Y[[~ETH.GetNameDef~]]§! will become a subject of §Y[[~ITA.GetNameDef~]]§!"
- ETH_italy_refuse_cooperation:0	"The focus §Y$ETH_reach_out_to_the_italians$§! will be cancelled, the focus §Y$ETH_rally_around_the_emperor$§! will be auto-completed. "
+ ETH_start_civil_war:0	"[~§Y~]$ETH_haile_selassie_gugsa$[~§!~] will start a [~§Y~]civil war[~§!~] against [~§Y~]$ETH_haile_selassie$[~§!~] when the [~§Y~]$ETH_declare_for_italy$[~§!~] focus is completed."
+ ETH_cede_states_tt:0	"[~\n~]When the war is over, [~§Y~][[~ITA.GetNameWithFlag~]][~§!~] will receive the following states:"
+ ETH_cede_south_tt:0	"[~§Y~] [[~835.GetName~]][~\n~] [[~836.GetName~]][~\n~] [[~837.GetName~]][~§!~]"
+ ETH_ethiopia_italian_puppet_tt:0	"[~\n~][~§Y~][[~ETH.GetNameDef~]][~§!~] will become a subject of [~§Y~][[~ITA.GetNameDef~]][~§!~]"
+ ETH_italy_refuse_cooperation:0	"The focus [~§Y~]$ETH_reach_out_to_the_italians$[~§!~] will be cancelled, the focus [~§Y~]$ETH_rally_around_the_emperor$[~§!~] will be auto-completed. "
 
  BBA_ethiopia_fascist_events.01.b:0	"Send $ETH_hailu_tekle_haymanot$ of $gojjam$"
- ETH_start_civil_war_gojjam:0	"§Y$ETH_hailu_tekle_haymanot$§! of $gojjam$ will start a §Ycivil war§! against §Y$ETH_haile_selassie$§! when the §Y$ETH_declare_for_italy$§! focus is completed."
- ETH_gojjam_italian_puppet_tt:0	"\n§Y$gojjam$§! will become a subject of §Y[[~ITA.GetNameWithFlag~]]§!"
- ETH_cede_south_west_tt:0	"§Y [[~838.GetName~]]\n [[~836.GetName~]]\n [[~837.GetName~]]§!"
+ ETH_start_civil_war_gojjam:0	"[~§Y~]$ETH_hailu_tekle_haymanot$[~§!~] of $gojjam$ will start a [~§Y~]civil war[~§!~] against [~§Y~]$ETH_haile_selassie$[~§!~] when the [~§Y~]$ETH_declare_for_italy$[~§!~] focus is completed."
+ ETH_gojjam_italian_puppet_tt:0	"[~\n~][~§Y~]$gojjam$[~§!~] will become a subject of [~§Y~][[~ITA.GetNameWithFlag~]][~§!~]"
+ ETH_cede_south_west_tt:0	"[~§Y~] [[~838.GetName~]][~\n~] [[~836.GetName~]][~\n~] [[~837.GetName~]][~§!~]"
  BBA_ethiopia_fascist_events.01.c:0	"Maybe $ETH_abba_jofir$ has the best chance to succeed"
- ETH_start_civil_war_jimma:0	"§Y$ETH_abba_jofir$§! of $jimma$ will start a §Ycivil war§! against §Y$ETH_haile_selassie$§! when the §Y$ETH_declare_for_italy$§! focus is completed."
- ETH_cede_north_tt:0	"§Y [[~841.GetName~]]\n [[~842.GetName~]]\n [[~843.GetName~]]§!"
- ETH_jimma_italian_puppet_tt:0	"\n§Y$jimma$§! will become a subject of §Y[[~ITA.GetNameWithFlag~]]§!"
+ ETH_start_civil_war_jimma:0	"[~§Y~]$ETH_abba_jofir$[~§!~] of $jimma$ will start a [~§Y~]civil war[~§!~] against [~§Y~]$ETH_haile_selassie$[~§!~] when the [~§Y~]$ETH_declare_for_italy$[~§!~] focus is completed."
+ ETH_cede_north_tt:0	"[~§Y~] [[~841.GetName~]][~\n~] [[~842.GetName~]][~\n~] [[~843.GetName~]][~§!~]"
+ ETH_jimma_italian_puppet_tt:0	"[~\n~][~§Y~]$jimma$[~§!~] will become a subject of [~§Y~][[~ITA.GetNameWithFlag~]][~§!~]"
 
  BBA_ethiopia_fascist_events.02.t:0	"Pretender Seeks Peace"
  BBA_ethiopia_fascist_events.02.desc:0	"One of the [[~ETH.GetAdjective~]] nobles, $ETH_haile_selassie_gugsa$, who also has a claim to the throne, has approached the [[~ROOT.GetAdjective~]] high command in [[~ETH.GetName~]]. The noble offers help against [[~ETH.GetLeader~]] in return for control of parts of the country after the war. $ETH_haile_selassie_gugsa$ will of course swear fealty to $ITA_vittorio_emanuele_iii$, ruling in his place in [[~ETH.GetName~]]."
@@ -766,7 +766,7 @@
  BBA_ethiopia_fascist_events.69.desc:0	"[[~ETH.GetName~]]’s leadership has acknowledged the weakness of their military and have therefore requested our support. They are curious whether we would allow some of our officers to join their general staff and advise them on how best to utilize the tools of modern war."
  BBA_ethiopia_fascist_events.69.a:0	"A stronger [[~FROM.GetName~]] would allow us to focus on regions closer to home."
  BBA_ethiopia_fascist_events.69.b:0	"Our officers are needed elsewhere."
- ETH_send_ita_generals_tt:0	"\n§Y$ITA_giuseppe_tellera$§!, §Y$ITA_mario_berti$§! and §Y$ITA_alessandro_pirzio_biroli$§! will be transferred to Ethiopia."
+ ETH_send_ita_generals_tt:0	"[~\n~][~§Y~]$ITA_giuseppe_tellera$[~§!~], [~§Y~]$ITA_mario_berti$[~§!~] and [~§Y~]$ITA_alessandro_pirzio_biroli$[~§!~] will be transferred to Ethiopia."
 
  BBA_ethiopia_fascist_events.70.t:0	"[[~FROM.GetName~]] Agree to Send Officers"
  BBA_ethiopia_fascist_events.70.desc:0	"[[~FROM.GetName~]] has agreed to allow some of their military officers to join our general staff for the foreseeable future. Hopefully we will learn how best to utilize our new equipment on the modern battlefield."
@@ -793,12 +793,12 @@
  BBA_ethiopia_communist_events.04.desc:0	"The [[~SOV.GetName~]] has agreed to send us material aid in the coming months as well as allowing 'volunteers' from the [[~SOV.GetAdjective~]] military to fight alongside us in our struggle against [[~ITA.GetName~]]. This will surely tip the balance in our favor, however, it is unclear how the [[~ITA.GetAdjective~]]s will react to [[~SOV.GetAdjective~]] troops fighting against them."
  BBA_ethiopia_communist_events.04.a:0	"Together, we will defeat fascism in Africa."
  BBA_ethiopia_communist_events.05.t:0	"Coup Against [[~ROOT.GetLeader~]]"
- BBA_ethiopia_communist_events.05.desc:0	"Today, members of the military and the anti-fascist organization known as the Black Lions orchestrated a coup against the government of [[~ROOT.GetLeader~]]. The emperor was due to inspect the troops when a group of disgruntled soldiers turned on him and their officers, placing them under arrest. \n\nMeanwhile in [[~ROOT.Capital.GetCapitalVictoryPointName~]], the Black Lions captured the key infrastructure of the city, including the emperor's residence. Many loyalists from the military and police have been killed in minor skirmishes, but what remains of [[~ETH.GetName~]] is now under the control of a provisional government. The majority of the people, exhausted by the war with [[~ITA.GetName~]], have simply accepted the authority of their new government. Now, the first decision of the new administration is to decide the fate of [[~ROOT.GetLeader~]]."
+ BBA_ethiopia_communist_events.05.desc:0	"Today, members of the military and the anti-fascist organization known as the Black Lions orchestrated a coup against the government of [[~ROOT.GetLeader~]]. The emperor was due to inspect the troops when a group of disgruntled soldiers turned on him and their officers, placing them under arrest. [~[~\n~][~\n~]~]Meanwhile in [[~ROOT.Capital.GetCapitalVictoryPointName~]], the Black Lions captured the key infrastructure of the city, including the emperor's residence. Many loyalists from the military and police have been killed in minor skirmishes, but what remains of [[~ETH.GetName~]] is now under the control of a provisional government. The majority of the people, exhausted by the war with [[~ITA.GetName~]], have simply accepted the authority of their new government. Now, the first decision of the new administration is to decide the fate of [[~ROOT.GetLeader~]]."
  BBA_ethiopia_communist_events.05.a:0	"We can not risk losing the people's support. Exile him."
  BBA_ethiopia_communist_events.05.b:0	"All enemies of the people must answer for their crimes. Lock him up."
  BBA_ethiopia_communist_events.06.t:0	"The Provisional Government is Dissolved"
- BBA_ethiopia_communist_events.06.desc:0	"Military officers backed by the [[~SOV.GetName~]] have dissolved the provisional [[~ETH.GetAdjective~]] government. The officers claim they were provided evidence by the [[~SOV.GetAdjective~]] intelligence service that proved the government, lead by [[~ROOT.GetLeader~]], had betrayed the people. According to the evidence, members of the government were in discussions to allow [[~ITA.GetAdjective~]] troops to fully occupy the country in exchange for vast amounts of personal wealth. Following shootouts with the Black Lions, the former members of the provisional government are believed to be dead or under arrest. \n\nThe military has now taken over leadership of the country to restore order and root out [[~ROOT.GetLeader~]]’s co-conspirators. It remains unclear how permanent the newly formed military administrative council will be."
- BBA_ethiopia_communist_events.06.indy_desc:0	"Military officers have dissolved the provisional [[~ETH.GetAdjective~]] government. The officers claim they were provided evidence by the intelligence services that proved the government, lead by [[~ROOT.GetLeader~]], had betrayed the people. According to the evidence, members of the government were in discussions to allow [[~ITA.GetAdjective~]] troops to fully occupy the country in exchange for vast amounts of personal wealth. Following shootouts with the Black Lions, the former members of the provisional government are believed to be dead or under arrest. \n\nThe military has now taken over leadership of the country to restore order and root out [[~ROOT.GetLeader~]]’s co-conspirators."
+ BBA_ethiopia_communist_events.06.desc:0	"Military officers backed by the [[~SOV.GetName~]] have dissolved the provisional [[~ETH.GetAdjective~]] government. The officers claim they were provided evidence by the [[~SOV.GetAdjective~]] intelligence service that proved the government, lead by [[~ROOT.GetLeader~]], had betrayed the people. According to the evidence, members of the government were in discussions to allow [[~ITA.GetAdjective~]] troops to fully occupy the country in exchange for vast amounts of personal wealth. Following shootouts with the Black Lions, the former members of the provisional government are believed to be dead or under arrest. [~[~\n~][~\n~]~]The military has now taken over leadership of the country to restore order and root out [[~ROOT.GetLeader~]]’s co-conspirators. It remains unclear how permanent the newly formed military administrative council will be."
+ BBA_ethiopia_communist_events.06.indy_desc:0	"Military officers have dissolved the provisional [[~ETH.GetAdjective~]] government. The officers claim they were provided evidence by the intelligence services that proved the government, lead by [[~ROOT.GetLeader~]], had betrayed the people. According to the evidence, members of the government were in discussions to allow [[~ITA.GetAdjective~]] troops to fully occupy the country in exchange for vast amounts of personal wealth. Following shootouts with the Black Lions, the former members of the provisional government are believed to be dead or under arrest. [~[~\n~][~\n~]~]The military has now taken over leadership of the country to restore order and root out [[~ROOT.GetLeader~]]’s co-conspirators."
  BBA_ethiopia_communist_events.06.a:0	"The traitors got what they deserved."
  BBA_ethiopia_communist_events.07.t:0	"[[~SOV.GetNameDefCap~]] Demands an End to War with [[~ETH.GetName~]]"
  BBA_ethiopia_communist_events.07.desc:0	"[[~SOV.GetNameDefCap~]] have demanded an end to hostilities between us and the [[~ETH.GetAdjective~]]s. The [[~SOV.GetAdjective~]]s have been heavily involved in supporting the communist regime in [[~ETH.Capital.GetCapitalVictoryPointName~]] and now see it as part of their sphere of influence. The Soviets are threatening to go so far as to get involved in the conflict militarily.  We risk humiliation at home if we agree to the Soviet demands. However, we risk a much wider conflict if we refuse them."
@@ -828,7 +828,7 @@
  BBA_ethiopia_communist_events.15.t:0	"[[~SOV.GetNameDefCap~]] Sends Military Advisors"
  BBA_ethiopia_communist_events.15.desc:0	"Generals from [[~SOV.GetNameDef~]] arrived in [[~ROOT.Capital.GetCapitalVictoryPointName~]] today. The advisors are being given an overview of the current strucutre of our armed forces and the current state of the war with [[~ITA.GetName~]]. Hopefully they will be able to help modernize our forces."
  BBA_ethiopia_communist_events.15.a:0	"This was long overdue."
- BBA_ethiopia_communist_events_15_tt:1	"§Y$SOV_semyon_budyonny$§! and §Y$SOV_vasily_kuznetsov$§! will become available generals."
+ BBA_ethiopia_communist_events_15_tt:1	"[~§Y~]$SOV_semyon_budyonny$[~§!~] and [~§Y~]$SOV_vasily_kuznetsov$[~§!~] will become available generals."
  BBA_ethiopia_communist_events.16.t:0	"[[~SOV.GetNameDefCap~]] Refuse to Send Military Advisors"
  BBA_ethiopia_communist_events.16.desc:0	"Our supposed friends in [[~SOV.Capital.GetCapitalVictoryPointName~]] have refused to send military advisors to aid us in our military modernization effort. Despite this set back, we will overcome the fascists and continue our modernization alone."
  BBA_ethiopia_communist_events.16.a:0	"The [[~SOV.GetAdjective~]] can not be relied upon."
@@ -876,16 +876,16 @@
  BBA_ethiopia_communist_events.29.desc:0	"The diplomatic confrontation between [[~ITA.GetName~]] and [[~SOV.GetNameDef~]] has now subsided with the [[~ITA.GetAdjective~]]s agreeing to end their war against us. This is a huge victory against fascism, but it is unlikely to be the end of the struggle. Hopefully we can continue to cooperate with out friends in [[~SOV.Capital.GetCapitalVictoryPointName~]]."
  BBA_ethiopia_communist_events.29.a:0	"We are eternally grateful."
  bba_news.1.t:0	"[[~SOV.GetName~]] Demands End to Italo-Ethiopian War"
- bba_news.1.desc:0	"\nThe threat of a major war erupting has startled leaders across the globe today. Soviet leader [[~SOV.GetLeader~]] has demanded that [[~ITA.GetLeader~]] end [[~ITA.GetName~]]’s illegal war against [[~ETH.GetNameDef~]]. [[~SOV.GetLeader~]] has made it clear that if [[~ITA.GetName~]] does not comply with this demand, [[~SOV.GetLeader.GetSheHe~]] will be willing to use force to make them do so. In recent months, the [[~SOV.GetAdjective~]]s have been keen to aid [[~ETH.GetNameDef~]] with equipment and advice. It is becoming increasingly clear that they now consider the country to be part of their own sphere of influence."
+ bba_news.1.desc:0	"[~\n~]The threat of a major war erupting has startled leaders across the globe today. Soviet leader [[~SOV.GetLeader~]] has demanded that [[~ITA.GetLeader~]] end [[~ITA.GetName~]]’s illegal war against [[~ETH.GetNameDef~]]. [[~SOV.GetLeader~]] has made it clear that if [[~ITA.GetName~]] does not comply with this demand, [[~SOV.GetLeader.GetSheHe~]] will be willing to use force to make them do so. In recent months, the [[~SOV.GetAdjective~]]s have been keen to aid [[~ETH.GetNameDef~]] with equipment and advice. It is becoming increasingly clear that they now consider the country to be part of their own sphere of influence."
  bba_news.1.a:0	"Surely they're bluffing?"
  bba_news.2.t:0	"[[~ITA.GetName~]] Agrees to Peace Deal with [[~ETH.GetNameDefCap~]]"
- bba_news.2.desc:0	"\nIn a remarkable turn of events, [[~ITA.GetName~]] has agreed to a ceasefire with [[~ETH.GetName~]]. [[~ITA.GetAdjective~]] troops have also begun withdrawing to their original borders with [[~ETH.GetNameDef~]], surrendering any territorial gains they had achieved. [[~SOV.GetNameDefCap~]]’s apparent willingness to go to war for Ethiopia doubtless played a part in [[~ITA.GetLeader~]]’s decision to withdraw. It remains to be seen how the [[~ITA.GetAdjective~]] public will react to this humiliation."
+ bba_news.2.desc:0	"[~\n~]In a remarkable turn of events, [[~ITA.GetName~]] has agreed to a ceasefire with [[~ETH.GetName~]]. [[~ITA.GetAdjective~]] troops have also begun withdrawing to their original borders with [[~ETH.GetNameDef~]], surrendering any territorial gains they had achieved. [[~SOV.GetNameDefCap~]]’s apparent willingness to go to war for Ethiopia doubtless played a part in [[~ITA.GetLeader~]]’s decision to withdraw. It remains to be seen how the [[~ITA.GetAdjective~]] public will react to this humiliation."
  bba_news.2.a:0	"Will [[~ITA.GetLeader~]] survive this?"
  bba_news.3.t:0	"Italo-[[~ETH.GetAdjective~]] Ceasefire Agreement"
  bba_news.3.desc:0	"With the war in [[~ETH.GetName~]] descending into a war of attrition, the [[~ITA.GetAdjective~]]s have been forced into ceasefire negotiations. Most expected the [[~ETH.GetAdjective~]] military to simply dissolve following the recent communist uprising in the country, however [[~ETH.GetLeader~]] has managed to turn the war around, saving much of the nation from [[~ITA.GetAdjective~]] occupation. However, with much of East-Africa still under [[~ITA.GetAdjective~]] rule, it is unclear if the uneasy peace will last. "
  bba_news.3.a:0	"This will never last. "
  bba_news.4.t:0	"Communist Coup in Ethiopia"
- bba_news.4.desc:0	"Members of the military and the anti-fascist organization known as the Black Lions have orchestrated a coup against the imperial government of $ETH_haile_selassie$. The emperor was due to inspect the troops when he was ambushed by them and placed under arrest.\n\nMeanwhile in [[~ROOT.Capital.GetCapitalVictoryPointName~]], the Black Lions captured the key infrastructure of the city, including the emperor's residence. Many loyalists from the military and police have been killed in minor skirmishes, but what remains of the nation is now under the control of a communist leaning provisional government. \n\nThe majority of the people, exhausted by the war with [[~ITA.GetName~]], have simply accepted the authority of their new government. "
+ bba_news.4.desc:0	"Members of the military and the anti-fascist organization known as the Black Lions have orchestrated a coup against the imperial government of $ETH_haile_selassie$. The emperor was due to inspect the troops when he was ambushed by them and placed under arrest.[~[~\n~][~\n~]~]Meanwhile in [[~ROOT.Capital.GetCapitalVictoryPointName~]], the Black Lions captured the key infrastructure of the city, including the emperor's residence. Many loyalists from the military and police have been killed in minor skirmishes, but what remains of the nation is now under the control of a communist leaning provisional government. [~[~\n~][~\n~]~]The majority of the people, exhausted by the war with [[~ITA.GetName~]], have simply accepted the authority of their new government. "
  bba_news.4.a:0	"The revolution is spreading!"
  bba_news.4.b:0	"The communist menace is on the march."
  bba_news.5.t:0	"The Empire of Solomon Established"
@@ -898,12 +898,12 @@
  bba_news.6.a:0	"Glory to Jah!"
  bba_news.6.b:0	"This is madness."
  bba_news.7.t:0	"[[~ITA.GetName~]] Moves to Annex [[~AFA.GetNameDef~]]"
- bba_news.7.desc:0	"\nRumors are swirling that the annexation of [[~AFA.GetNameDef~]] by [[~ITA.GetAdjective~]] forces may be imminent. [[~ITA.GetAdjective~]] troops have been seen amassing on the border of the isolated nation and sources indicate that pressure is being exerted diplomatically in [[~AFA.Capital.GetCapitalVictoryPointName~]] to force a capitulation without bloodshed. It remains to be seen whether [[~AFA.GetLeader~]] can resist the [[~ITA.GetAdjective~]] pressure, but the situation does not look promising. "
+ bba_news.7.desc:0	"[~\n~]Rumors are swirling that the annexation of [[~AFA.GetNameDef~]] by [[~ITA.GetAdjective~]] forces may be imminent. [[~ITA.GetAdjective~]] troops have been seen amassing on the border of the isolated nation and sources indicate that pressure is being exerted diplomatically in [[~AFA.Capital.GetCapitalVictoryPointName~]] to force a capitulation without bloodshed. It remains to be seen whether [[~AFA.GetLeader~]] can resist the [[~ITA.GetAdjective~]] pressure, but the situation does not look promising. "
  bba_news.7.a:0	"How dreadful."
  bba_news.7.b:0	"We should prepare for the inevitable."
  bba_news.7.c:0	"This was inevitable."
  bba_news.8.t:0	"[[~AFA.GetName~]] Submits to [[~ITA.GetAdjective~]] Demands"
- bba_news.8.desc:0	"Perhaps unsurprisingly to many, [[~AFA.GetNameDef~]] has accepted [[~ITA.GetAdjective~]] demands for subjugation. While the [[~AFA.GetAdjective~]] government held out hope of avoiding occupation, it became increasingly clear that the colonial powers of the region would not be coming to their aid, nor would neighboring [[~ETH.GetName~]] be able to spare military personel to support them. With the situation so bleak, the government bowed to [[~ITA.GetAdjective~]] pressure to spare the people becoming the victims of unnecessary bloodshed. \n\n[[~ITA.GetAdjective~]] forces are now moving into the small nation to take up new positions on the border with [[~ETH.GetNameDef~]]. It is unclear whether the occupation will be permanent, or how it will impact the wider [[~ITA.GetAdjective~]] conflict with [[~ETH.GetName~]]. "
+ bba_news.8.desc:0	"Perhaps unsurprisingly to many, [[~AFA.GetNameDef~]] has accepted [[~ITA.GetAdjective~]] demands for subjugation. While the [[~AFA.GetAdjective~]] government held out hope of avoiding occupation, it became increasingly clear that the colonial powers of the region would not be coming to their aid, nor would neighboring [[~ETH.GetName~]] be able to spare military personel to support them. With the situation so bleak, the government bowed to [[~ITA.GetAdjective~]] pressure to spare the people becoming the victims of unnecessary bloodshed. [~[~\n~][~\n~]~][[~ITA.GetAdjective~]] forces are now moving into the small nation to take up new positions on the border with [[~ETH.GetNameDef~]]. It is unclear whether the occupation will be permanent, or how it will impact the wider [[~ITA.GetAdjective~]] conflict with [[~ETH.GetName~]]. "
  bba_news.8.a:0	"Unsurprising, unfortunately."
  bba_news.8.b:0	"This will stretch our forces even more."
  bba_news.8.c:0	"They chose wisely."
@@ -1138,13 +1138,13 @@
  BBA_italy_missiolinis.05_south.desc:0	"Overjoyed by the recent gains in Southern Abyssinia, Mussolini applauds the bravery of the Italian troops and their dedication to putting an end to this conflict. He never had any misgivings and fully trusted our armies to best the enemies on the battlefield - once they got the proper support from their Duce."
  BBA_italy_missiolinis.05_south.a:0	"We have pushed back the enemy!"
  BBA_italy_missiolinis.11.t:0	"End the War"
- BBA_italy_missiolinis.11.desc:0	"The Duce now wants a swift end to the war in Abyssinia, so that Italy can turn elsewhere for further glories. Conquering the ancient lands of Axum would solidify Italy’s place as one of the major empires of the world. \n\nWhatever Abyssinian strongholds that are left need to be dealt with and all of the Abyssinian lands need to be in Italian hands."
+ BBA_italy_missiolinis.11.desc:0	"The Duce now wants a swift end to the war in Abyssinia, so that Italy can turn elsewhere for further glories. Conquering the ancient lands of Axum would solidify Italy’s place as one of the major empires of the world. [~[~\n~][~\n~]~]Whatever Abyssinian strongholds that are left need to be dealt with and all of the Abyssinian lands need to be in Italian hands."
  BBA_italy_missiolinis.11.a:0	"The enemy will be defeated!"
  BBA_italy_missiolinis.12.t:0	"The War Continues"
  BBA_italy_missiolinis.12.desc:0	"The fact that Abyssinia is still free and resisting occupation has had the Duce raging for hours on end, calling it an embarrassment; not only for him personally but for Italy and its people too. If only he could have overseen the last phases of the war himself it would have been done by now, he complains to everyone in his vicinity."
  BBA_italy_missiolinis.12.a:0	"The Abyssinians are putting up a hard fight"
  BBA_italy_missiolinis.13.t:1	"The Conquest of Ethiopia"
- BBA_italy_missiolinis.13.desc:0	"Mussolini is ecstatic and brags far and wide to anyone willing to listen or otherwise about our recent victory. He never had any doubt that Italy would prevail and triumph in Abyssinia, despite the various setbacks we encountered. We have finally avenged the failure of the first Italo-Abyssinian war! \n\nThe Duce has hailed the conquest as a victory for the fascist system and his government, calling the Italian people stronger and more unified than ever before."
+ BBA_italy_missiolinis.13.desc:0	"Mussolini is ecstatic and brags far and wide to anyone willing to listen or otherwise about our recent victory. He never had any doubt that Italy would prevail and triumph in Abyssinia, despite the various setbacks we encountered. We have finally avenged the failure of the first Italo-Abyssinian war! [~[~\n~][~\n~]~]The Duce has hailed the conquest as a victory for the fascist system and his government, calling the Italian people stronger and more unified than ever before."
  BBA_italy_missiolinis.13.a:0	"Blood alone moves the wheels of history"
  BBA_italy_missiolinis.21.t:1	"Pacify Ethiopia"
  BBA_italy_missiolinis.21.desc:0	"The Duce has publicly declared how the Abyssinians are crushed and on the run, their will broken after their defeat. Privately though, he curses the Abyssinians for their resilience and defiance toward Italian rule. The Duce has given the order to crack down on local opposition with brute force and to institute laws to keep the population in check. He wants the entire country pacified and brought into the Italian fold as soon as possible."
@@ -1300,7 +1300,7 @@
  BBA_italy_local_rulers.4.c:0	"$ETH_seyoum_mengesha$ and his followers must be subdued."
  BBA_italy_local_rulers.4.d:0	"There will be no negotiation with any local rulers."
 
- ITA_ends_event_chain_tt:0	"§REnds event chain§!."
+ ITA_ends_event_chain_tt:0	"[~§R~]Ends event chain[~§!~]."
 
  BBA_italy_air_accident.01.t:1	"The Tragic Death of $ITA_italo_balbo$"
  BBA_italy_air_accident.01.desc:1	"Field Marshal Italo Balbo has been shot down by friendly fire over the skies of Libya. A misidentification led to anti-air batteries opening fire and shooting down his airplane from the heavens. General Giuseppe Tellera, who traveled in a different airplane, survived the accident but has been rattled by the experience."
@@ -1317,7 +1317,7 @@
  BBA_italy_air_accident.12.t:0	"Air Crash"
  BBA_italy_air_accident.12.desc:1	"While flying to the French border, Chief of Air Force Aldo Pellegrini’s and General Pietro Pintor’s airplane encountered engine problems and started to rapidly lose altitude. Faced with certain death, Pellegrini took the controls and managed to crash land the airplane thanks to his familiarity with Savoia-Marchetti aircrafts. Everyone onboard survived, albeit bruised up. "
  BBA_italy_air_accident.12.a:0	"Fortune is with them!"
- ITA_pellegrini_promotion_tt:0	"\n$air_chief$ trait improved from §YSpecialist§! to §YExpert§!."
+ ITA_pellegrini_promotion_tt:0	"[~\n~]$air_chief$ trait improved from [~§Y~]Specialist[~§!~] to [~§Y~]Expert[~§!~]."
 
  BBA_italy_naval_cooperation_programs.01.t:0	"Italian Naval Cooperation Program"
  BBA_italy_naval_cooperation_programs.01.desc:1	"We have received an offer from [[~From.GetName~]] to join a Naval Cooperation Program with them. Such a program could be quite useful for us, but it would be equally useful for the [[~FROM.GetAdjective~]] navy."
@@ -1342,7 +1342,7 @@
  BBA_italy_naval_cooperation_programs.07.t:0	"[[~ROOT.GetAdjective~]]-[[~FROM.GetAdjective~]] Maneuvers"
  BBA_italy_naval_cooperation_programs.07.desc:1	"Our admirals are happy to report that our recent naval exercise has been a great success! We have gained a lot of new insights and are better equipped for future operations on the high seas."
  BBA_italy_naval_cooperation_programs.07.a:0	"Time to put our learnings into practice!"
- ITA_joint_maneuvers_with_country_remove_effect_tt:0	"Effects after completion of the joint maneuvers program, in §Y[[~?ITA.ITA_joint_maneuvers_with_country_days~]]§! days:"
+ ITA_joint_maneuvers_with_country_remove_effect_tt:0	"Effects after completion of the joint maneuvers program, in [~§Y~][[~?ITA.ITA_joint_maneuvers_with_country_days~]][~§!~] days:"
  BBA_italy_naval_cooperation_programs.08.t:1	"[[~FROM.GetAdjective~]] Offer to Purchase Escort Ships"
  BBA_italy_naval_cooperation_programs.08.desc:1	"The [[~FROM.GetAdjective~]]s have approached us with an offer to sell some of their escort ships to us. Some of these vessels are rather old and obsolete, but perhaps we could still find a use for them in our navy."
  BBA_italy_naval_cooperation_programs.08.a:0	"This will strengthen the [[~ROOT.GetAdjective~]] fleet!"
@@ -1353,9 +1353,9 @@
  BBA_italy_naval_cooperation_programs.10.t:0	"[[~FROM.GetNameDefCap~]] Rejects our Escort Ships"
  BBA_italy_naval_cooperation_programs.10.desc:1	"[[~FROM.GetName~]] was not so easily convinced to purchase our old and obsolete escort ships as we had hoped. We have to turn elsewhere to rid ourselves of these outdated vessels."
  BBA_italy_naval_cooperation_programs.10.a:0	"We'll find other buyers."
- ITA_cooperation_programs_deal_others_tt:0	"([[~ROOT.GetEscortShipsSender~]]): Transfers §Y2 Curtatone-Class Destroyers§! and §Y2 Maestrale-Class Destroyers§! to [[~ROOT.GetEscortShipsReceiver~]]."
- ITA_cooperation_programs_deal_root_tt:0	"[[~ROOT.GetFlag~]]§Y[[~ROOT.GetName~]]§!"
- ITA_cooperation_programs_deal_from_tt:0	"[[~FROM.GetFlag~]]§Y[[~FROM.GetName~]]§!"
+ ITA_cooperation_programs_deal_others_tt:0	"([[~ROOT.GetEscortShipsSender~]]): Transfers [~§Y~]2 Curtatone-Class Destroyers[~§!~] and [~§Y~]2 Maestrale-Class Destroyers[~§!~] to [[~ROOT.GetEscortShipsReceiver~]]."
+ ITA_cooperation_programs_deal_root_tt:0	"[[~ROOT.GetFlag~]][~§Y~][[~ROOT.GetName~]][~§!~]"
+ ITA_cooperation_programs_deal_from_tt:0	"[[~FROM.GetFlag~]][~§Y~][[~FROM.GetName~]][~§!~]"
  BBA_italy_naval_cooperation_programs.11.t:0	"[[~ITA.GetNameDefCap~]] Offers Destroyers"
  BBA_italy_naval_cooperation_programs.11.desc:1	"The [[~FROM.GetAdjective~]]s have offered two of their older Destroyers to us. For free. While these vessels might be somewhat outdated, they could still serve our navy well. This is a generous gesture indeed. "
  BBA_italy_naval_cooperation_programs.11.a:0	"We appreciate the gesture!"
@@ -1364,7 +1364,7 @@
  BBA_italy_naval_cooperation_programs.12.a:0	"Arriverderci!"
  BBA_italy_naval_cooperation_programs.13.t:0	"[[~FROM.GetNameDefCap~]] Rejects our Destroyers"
  BBA_italy_naval_cooperation_programs.13.desc:1	"The [[~FROM.GetAdjective~]] has somewhat arrogantly rejected our gift of two Destroyers. For free. Mighty indeed must their fleet be to refuse such an offer!"
- ITA_cede_aquila_class_destroyers_tt:0	"([[~ROOT.GetEscortShipsSender~]]): Transfers §Y2 Aquila-Class Destroyers§! to [[~ROOT.GetEscortShipsReceiver~]]."
+ ITA_cede_aquila_class_destroyers_tt:0	"([[~ROOT.GetEscortShipsSender~]]): Transfers [~§Y~]2 Aquila-Class Destroyers[~§!~] to [[~ROOT.GetEscortShipsReceiver~]]."
  BBA_italy_naval_cooperation_programs.14.t:0	"[[~ITA.GetName~]] Exports Midget Submarines"
  BBA_italy_naval_cooperation_programs.14.desc:1	"The [[~FROM.GetAdjective~]]s have inquired about our interest to purchase five midget submarines. They have limited usability but could serve our needs and expand our naval capabilities."
  BBA_italy_naval_cooperation_programs.14.a:0	"They can prove useful for our navy."
@@ -1388,7 +1388,7 @@
  BBA_italy_colonial_management.1.desc:1	"Our colonial possessions have grown considerably ever since the formation of our nation, less than a century ago. This growth has started to strain our manpower, however. There are ways to alleviate these limitations though, by using local police forces such as Meharisti, Savari, Spahi, and others. Recruiting these groups would be less taxing on our own forces and they have the benefit of being native to their lands, with all of what that entails."
  BBA_italy_colonial_management.1.a:1	"Recruit them!"
  BBA_italy_colonial_management.1.b:0	"We have other plans"
- BBA_italy_colonial_management.1_do_not_apply_tt:1	"Occupation law §Y$colonial_police$§! will be available in controlled [[~GetAfricanStates~]][[~GetAndOrNothing~]][[~GetAlbanianStates~]]."
+ BBA_italy_colonial_management.1_do_not_apply_tt:1	"Occupation law [~§Y~]$colonial_police$[~§!~] will be available in controlled [[~GetAfricanStates~]][[~GetAndOrNothing~]][[~GetAlbanianStates~]]."
  BBA_italy_colonial_management_african_states:0	"African states"
  BBA_italy_colonial_management_albanian_states:0	"Albanian states"
  BBA_italy_colonial_management_and:0	" and "
@@ -1396,15 +1396,15 @@
  BBA_italy_bop.1.t:1	"The fall of [[~?ITA.ITA_lost_core.GetName~]]"
  BBA_italy_bop.1.desc:1	"We have lost [[~?ITA.ITA_lost_core.GetName~]] to the enemy! This has naturally shaken the Italian people’s faith in our war effort and even raised voices for peace talks. These turn of events have upset many, to put it mildly, and people are looking for someone, anyone, to blame. We must re-take the initiative and push the hostile forces out of Italy!"
  BBA_italy_bop.1.a:1	"This is a catastrophe!"
- ITA_losing_cores_tt:0	"Effects will be applied everytime [[~ROOT.GetName~]] loses control of a §Ycore state§! to an enemy."
+ ITA_losing_cores_tt:0	"Effects will be applied everytime [[~ROOT.GetName~]] loses control of a [~§Y~]core state[~§!~] to an enemy."
  BBA_italy_bop.2.t:1	"The fall of [[~?ITA.ITA_lost_colony.GetName~]]"
  BBA_italy_bop.2.desc:1	"Enemy forces have seized control over [[~?ITA.ITA_lost_colony.GetName~]], shocking Italians everywhere! The people were under the impression that the tide of war was in our favor, or at the very least soon would be. While this definitely is a setback, with good planning and fortitude we will surely reclaim [[~?ITA.ITA_lost_colony.GetName~]]!"
  BBA_italy_bop.2.a:1	"We will rise again!"
- ITA_losing_colonies_tt:0	"Effects will be applied everytime [[~ROOT.GetName~]] loses control of a §Ynon-core state§! to an enemy."
+ ITA_losing_colonies_tt:0	"Effects will be applied everytime [[~ROOT.GetName~]] loses control of a [~§Y~]non-core state[~§!~] to an enemy."
  BBA_italy_bop.3.t:0	"We have Recaptured [[~?ITA.ITA_reclaimed_core.GetName~]]"
  BBA_italy_bop.3.desc:0	"Our victorious forces have reclaimed [[~?ITA.ITA_reclaimed_core.GetName~]], boosting the spirit of Italians everywhere! This could be the moment when we turn the tides of war and push the enemies back out of our beloved [[~ITA.GetNameDef~]]."
  BBA_italy_bop.3.a:0	"The tides are turning in our favor!"
- ITA_reclaiming_cores_tt:0	"Effects will be applied everytime [[~ROOT.GetName~]] reclaims a §Ycore state§! from an enemy."
+ ITA_reclaiming_cores_tt:0	"Effects will be applied everytime [[~ROOT.GetName~]] reclaims a [~§Y~]core state[~§!~] from an enemy."
 
  BBA_italy_council_deposes_duce.1.t:0	"Deposing [[~?ITA.ITA_var_deposed_leader.GetName~]]"
  BBA_italy_council_deposes_duce.1.desc:0	"To save Italy from ruin, and to preserve the fascist system, we must do the unthinkable; remove [[~?ITA.ITA_var_deposed_leader.GetName~]] from power! His incompetency and inadequacy have long weighed down our country and its progress. It is our duty to safeguard the [[~FROM.GetAdjective~]] people and their future!"
@@ -1436,14 +1436,14 @@
  BBA_italy_civil_war.7.desc:1	"Our tyrannical [[~FROM.Adjective~]] overlords have refused our honest request for independence! While they were useful in winning our civil war, they have no right to govern our fate or meddle in our politics anymore. When the time is right it is our duty to remove them from our lands and seize our freedom for ourselves!"
  BBA_italy_civil_war.7.a:1	"They will regret this!"
  BBA_italy_civil_war.7.b:0	"We shall content..."
- ITA_we_will_transfer_the_following_states_tt:0	"The following states will be transferred to §Y[[~RDS.GetFlag~]][[~RDS.GetNameDef~]]§!:"
+ ITA_we_will_transfer_the_following_states_tt:0	"The following states will be transferred to [~§Y~][[~RDS.GetFlag~]][[~RDS.GetNameDef~]][~§!~]:"
  ITA_we_keep_our_occupied_states_tt:0	"We will keep control over our current occupied states."
- BBA_italy_civil_war_fascist_tt:0	"We will keep control over §Y[[~ROOT.GetFlag~]][[~ROOT.GetNameDefCap~]]§!. §Y[[~ROOT.GetFlag~]][[~ROOT.GetNameDefCap~]]§! becomes §Y$RSI_DEF$§!. [[~GetRsiOverlord~]]"
- BBA_italy_civil_war_monarchist_tt:1	"We will become §Y$RDS_DEF$§!, the revolter side in the civil war with §Y$neutrality$§! ideology. [[~GetRdsOverlord~]]"
- BBA_italy_civil_war_communist_tt:1	"We will become §Y$RDS_DEF$§!, the revolter side in the civil war with §Y$communism$§! ideology. [[~GetRdsOverlord~]]"
- BBA_italy_civil_war_democratic_tt:1	"We will become §Y$RDS_DEF$§!, the revolter side in the civil war with §Y$democratic$§! ideology. [[~GetRdsOverlord~]]"
- ITA_rsi_overlord_tt:0	"We will become a subject of §Y[[~?ITA_rsi_overlord.GetFlag~]][[~?ITA_rsi_overlord.GetNameDef~]]§!."
- ITA_rds_overlord_tt:0	"We will become a subject of §Y[[~?ITA_rds_overlord.GetFlag~]][[~?ITA_rds_overlord.GetNameDef~]]§!."
+ BBA_italy_civil_war_fascist_tt:0	"We will keep control over [~§Y~][[~ROOT.GetFlag~]][[~ROOT.GetNameDefCap~]][~§!~]. [~§Y~][[~ROOT.GetFlag~]][[~ROOT.GetNameDefCap~]][~§!~] becomes [~§Y~]$RSI_DEF$[~§!~]. [[~GetRsiOverlord~]]"
+ BBA_italy_civil_war_monarchist_tt:1	"We will become [~§Y~]$RDS_DEF$[~§!~], the revolter side in the civil war with [~§Y~]$neutrality$[~§!~] ideology. [[~GetRdsOverlord~]]"
+ BBA_italy_civil_war_communist_tt:1	"We will become [~§Y~]$RDS_DEF$[~§!~], the revolter side in the civil war with [~§Y~]$communism$[~§!~] ideology. [[~GetRdsOverlord~]]"
+ BBA_italy_civil_war_democratic_tt:1	"We will become [~§Y~]$RDS_DEF$[~§!~], the revolter side in the civil war with [~§Y~]$democratic$[~§!~] ideology. [[~GetRdsOverlord~]]"
+ ITA_rsi_overlord_tt:0	"We will become a subject of [~§Y~][[~?ITA_rsi_overlord.GetFlag~]][[~?ITA_rsi_overlord.GetNameDef~]][~§!~]."
+ ITA_rds_overlord_tt:0	"We will become a subject of [~§Y~][[~?ITA_rds_overlord.GetFlag~]][[~?ITA_rds_overlord.GetNameDef~]][~§!~]."
  BBA_italy_civil_war.100.t:0	"Occupied Italian Territory"
  BBA_italy_civil_war.100.desc:0	"We find ourselves in control of Italian territory, fighting alongside an Italian ally. We could free up more of our forces and direct them elsewhere by handing over these territories to [[~RDS.GetName~]]."
  BBA_italy_civil_war.100.a:0	"Transfer the territory"
@@ -1581,7 +1581,7 @@
  BBA_italy_interaction_events.27.b:1	"If they make peace with [[~ETH.GetNameDef~]]"
  BBA_italy_interaction_events.27.c:0	"Blimey no, why should we care about the continent?"
 
- ITA_if_Italy_accepts_tt:0	"If §Y[[~ITA.GetName~]]§! accepts:"
+ ITA_if_Italy_accepts_tt:0	"If [~§Y~][[~ITA.GetName~]][~§!~] accepts:"
 
  BBA_italy_interaction_events_news.2.t:1	"The UK Guarantees Austrian Independence"
  BBA_italy_interaction_events_news.2.desc:0	"The British government has today announced that they will support Austrian independence and stand with Italy against any threats to the nation's sovereignty."
@@ -1713,7 +1713,7 @@
  BBA_italy_purge_the_party.1.b:0	"Purge the Generals"
  BBA_italy_purge_the_party.1.c:0	"Spare them all"
  BBA_italy_purge_the_party.1.d:0	"Purge everyone"
- ITA_characters_will_be_spared_tt:0	"§YThe following characters will be spared from the purge:§!"
+ ITA_characters_will_be_spared_tt:0	"[~§Y~]The following characters will be spared from the purge:[~§!~]"
 
  BBA_italy_decide_the_fate_of_mussolini.1.t:0	"The Fate of Mussolini"
  BBA_italy_decide_the_fate_of_mussolini.1.desc:0	"Having dealt with the internal power struggle and solidifying our hold on Partito Nazionale Fascista, we can finally turn our attention to the old Duce - Mussolini. His ever-looming presence is undermining our position and needs to be handled."
@@ -1778,9 +1778,9 @@
  BBA_italy_communist_events.04.t:0	"No International Support Received"
  BBA_italy_communist_events.04.desc:0	"No one has answered the call for aid! It would seem that communists around the world have forsaken us and are not too eager to help their own comrades. We can only rely on ourselves in this harsh world - but our revolution will prevail!"
  BBA_italy_communist_events.04.a:0	"[[~ROOT.GetNameDefCap~]] shall prevail no matter what!"
- ITA_country_supports_new_italian_government_tt:0	"[[~FROM.GetNameDefCap~]] will receive some support from us in the form of §Yequipment§! and a small temporary §Yconsumer goods§! bonus."
+ ITA_country_supports_new_italian_government_tt:0	"[[~FROM.GetNameDefCap~]] will receive some support from us in the form of [~§Y~]equipment[~§!~] and a small temporary [~§Y~]consumer goods[~§!~] bonus."
  ITA_international_support_arrives_tt:0	"We will receive the following benefits from our comrades abroad:	"
- ITA_international_support_consumer_goods_tt:0	"Gains '§Y$ITA_international_aid$§!' which grants ($MODIFIER_CONSUMER_GOODS_FACTOR$: §Y[[~?ITA_consumer_goods_from_leftist_aid|%~]]§!) for §Y730§! days."
+ ITA_international_support_consumer_goods_tt:0	"Gains '[~§Y~]$ITA_international_aid$[~§!~]' which grants ($MODIFIER_CONSUMER_GOODS_FACTOR$: [~§Y~][[~?ITA_consumer_goods_from_leftist_aid|%~]][~§!~]) for [~§Y~]730[~§!~] days."
  BBA_italy_communist_events.05.t:0	"Military Cooperation with the [[~FROM.GetAdjective~]] Army"
  BBA_italy_communist_events.05.desc:0	"We have recently completed a joint exercise with the [[~FROM.GetAdjective~]] military. Our generals and admirals are happy to report that it was a great success and that our military performed very well. This will strengthen our ties with [[~FROM.GetName~]] and our own capabilities."
  BBA_italy_communist_events.05.a:0	"This strengthens the [[~ROOT.GetFactionName~]]!"
@@ -1810,7 +1810,7 @@
  BBA_italy_democratic_events.05.t:0	"Italian Mafia on the Rise"
  BBA_italy_democratic_events.05.desc:0	"The plague that is the Mafia is spreading! The recent chaos in [[~FROM.GetName~]] has been a breeding ground for criminals and their likes and, in the absence of strong, local rule, these unwanted individuals are growing in numbers. They have taken advantage of the power vacuum left by the Civil War and are once again asserting their authority all over [[~FROM.GetName~]]."
  BBA_italy_democratic_events.05.a:0	"Scum is what they are!"
- generic_states_affected_tt:0	"\nStates affected:\n"
+ generic_states_affected_tt:0	"[~\n~]States affected:[~\n~]"
 
  BBA_italy_anti_colonialism_events.01.t:0	"$ITA_the_ethiopian_question$"
  BBA_italy_anti_colonialism_events.01.desc:0	"With our internal affairs sorted out, we can once again look outwards. We have inherited a great many issues from the fascists, issues that we now must resolve. One of the foremost questions is that of Ethiopia. It was an unjust and brutal war, started by the ever prestige-craving Mussolini, and now that he is gone it is up to us to decide Ethiopia's fate."
@@ -1931,9 +1931,9 @@
  bba_news.107.desc:1	"Pope Pio XI has passed away after leading the Catholic Church for almost 20 years. During his turn as the Pontifex Maximus Pio XI ended the long breach between the Papacy and the Italian government and was crucial in establishing the Vatican as an independent state once again."
  bba_news.107.a:0	"A new Pope shall be made"
  bba_news.107.b:0	"God works in mysterious ways"
- ITA_pope_dies_tt:0	"§Y$ITA_papa_pio_xii$§! becomes the new Pope."
+ ITA_pope_dies_tt:0	"[~§Y~]$ITA_papa_pio_xii$[~§!~] becomes the new Pope."
 
- bba_news.108.d:0	"Diplomats from the newly established government in Italy have been sent to negotiate with Albanian ruler, King Zog, seeking to strengthen the relationship between the two countries and attempting to pressure Zog into applying more socialist policies in Albania. \n\nMaybe feeling that the days of the Albanian Monarchy are coming to an end, or maybe just out of pure despite for socialism, King Zog has refused to talk to the Italian officials, urging the Albanian people to resist pressure from [[~ITA.GetNameDef~]]. \n\nNevertheless, foreign military experts agree that [[~ALB.GetNameDef~]] has little chance of resisting an invasion should the Italian government take action."
+ bba_news.108.d:0	"Diplomats from the newly established government in Italy have been sent to negotiate with Albanian ruler, King Zog, seeking to strengthen the relationship between the two countries and attempting to pressure Zog into applying more socialist policies in Albania. [~[~\n~][~\n~]~]Maybe feeling that the days of the Albanian Monarchy are coming to an end, or maybe just out of pure despite for socialism, King Zog has refused to talk to the Italian officials, urging the Albanian people to resist pressure from [[~ITA.GetNameDef~]]. [~[~\n~][~\n~]~]Nevertheless, foreign military experts agree that [[~ALB.GetNameDef~]] has little chance of resisting an invasion should the Italian government take action."
  bba_news.108.b:0	"Monarchy is obsolete!"
 
  bba_news.109.t:0	"[[~?ITA.ITA_var_deposed_leader.GetName~]] is Deposed"
@@ -1942,7 +1942,7 @@
  bba_news.109.b:0	"Splendid!"
 
  bba_news.110.t:0	"[[~FROM.GetName~]] Fractures into Civil War!"
- bba_news.110.desc:0	"The newly appointed leader of [[~FROM.GetName~]], [[~FROM.GetLeader~]], has been unable to address the rising tensions that have divided the [[~FROM.GetAdjective~]]s recently. This has caused a Civil War to erupt, tearing the country apart from within. Different groups, ranging from communists to royalists to democrats, are all vying for power and creating shifting alliances while the fascists are determined to maintain their rule. \n\nWhile the outcome of the Civil War is still uncertain, outside help will surely play a major part in the future victory. "
+ bba_news.110.desc:0	"The newly appointed leader of [[~FROM.GetName~]], [[~FROM.GetLeader~]], has been unable to address the rising tensions that have divided the [[~FROM.GetAdjective~]]s recently. This has caused a Civil War to erupt, tearing the country apart from within. Different groups, ranging from communists to royalists to democrats, are all vying for power and creating shifting alliances while the fascists are determined to maintain their rule. [~[~\n~][~\n~]~]While the outcome of the Civil War is still uncertain, outside help will surely play a major part in the future victory. "
  bba_news.110.a:0	"Troublesome news indeed."
  bba_news.110.b:0	"We must stabilize the situation!"
  bba_news.110.c:0	"This presents opportunities for us!"
@@ -2000,8 +2000,8 @@
  bba_news.106.t_king:0	"The King of Italy Dies"
  bba_news.106.t_emperor:0	"The Emperor of Italy Dies"
  bba_news.106.desc:0	"[[~GetVittorioDiesEventDesc~]]"
- bba_news.106.desc_king:0	"The old king of [[~FROM.GetName~]], Vittorio Emanuele III, has died. Guiding Italy during two World Wars he has served as a symbol of stability and a rallying point for the [[~FROM.GetAdjective~]]s during these hardships. Grieving people have taken to the streets to show their appreciation and support for the dead king. \n\n The nation is hoping that the old king’s only heir and successor, Prince Umberto, will be a similarly steadfast fixture for the [[~FROM.GetAdjective~]] people. The prince will soon be crowned King Umberto II - long may he reign!"
- bba_news.106.desc_emperor:0	"The old emperor of [[~FROM.GetName~]], Vittorio Emanuele III, has died. Guiding Italy during two World Wars he has served as a symbol of stability and a rallying point for the [[~FROM.GetAdjective~]]s during these hardships. Grieving people have taken to the streets to show their appreciation and support for the dead emperor. \n\n The nation is hoping that the old emperor's only heir and successor, Prince Umberto, will be a similarly steadfast fixture for the [[~FROM.GetAdjective~]] people. The prince will soon be crowned Emperor Umberto I of [[~FROM.GetName~]] - long may he reign!"
+ bba_news.106.desc_king:0	"The old king of [[~FROM.GetName~]], Vittorio Emanuele III, has died. Guiding Italy during two World Wars he has served as a symbol of stability and a rallying point for the [[~FROM.GetAdjective~]]s during these hardships. Grieving people have taken to the streets to show their appreciation and support for the dead king. [~[~\n~][~\n~]~] The nation is hoping that the old king’s only heir and successor, Prince Umberto, will be a similarly steadfast fixture for the [[~FROM.GetAdjective~]] people. The prince will soon be crowned King Umberto II - long may he reign!"
+ bba_news.106.desc_emperor:0	"The old emperor of [[~FROM.GetName~]], Vittorio Emanuele III, has died. Guiding Italy during two World Wars he has served as a symbol of stability and a rallying point for the [[~FROM.GetAdjective~]]s during these hardships. Grieving people have taken to the streets to show their appreciation and support for the dead emperor. [~[~\n~][~\n~]~] The nation is hoping that the old emperor's only heir and successor, Prince Umberto, will be a similarly steadfast fixture for the [[~FROM.GetAdjective~]] people. The prince will soon be crowned Emperor Umberto I of [[~FROM.GetName~]] - long may he reign!"
  bba_news.106.a:0	"End of an era"
 
  bba_italian_formables_news.1.t:0	"Italia Irredenta has been achieved"
@@ -2017,7 +2017,7 @@
 
  #Triggered by focus "Swiss Guiding Principles"
  BBA_switzerland.1.t:0	"[[~ROOT.GetAdjective~]] Guiding Principles"
- BBA_switzerland.1.desc:0	"The political situation inside and around [[~ROOT.GetNameDefCap~]] is deteriorating quickly. There is a growing movement advocating for guiding principles to steer the ship in the right direction during the impending storm, but the question is, which one?. \n\n We do not know what our neighbors will do, but we must decide now what course of action will allow [[~ROOT.GetName~]] to survive."
+ BBA_switzerland.1.desc:0	"The political situation inside and around [[~ROOT.GetNameDefCap~]] is deteriorating quickly. There is a growing movement advocating for guiding principles to steer the ship in the right direction during the impending storm, but the question is, which one?. [~[~\n~][~\n~]~] We do not know what our neighbors will do, but we must decide now what course of action will allow [[~ROOT.GetName~]] to survive."
  BBA_switzerland.1.a:0	"We must protect our democratic and neutral values"
  BBA_switzerland.1.b:0	"Perhaps we should be more active about protecting our democracy"
  BBA_switzerland.1.c:0	"Neutrality is untenable under these circumstances"
@@ -2027,68 +2027,68 @@
 
 #Assassination
  BBA_switzerland.2.t:0	"Nazi Party representative in Switzerland assassinated"
- BBA_switzerland.2.desc:0	"David Frankfurter, a Jewish Croat living in Bern, turned himself in to the Graubünden Police and confessed to the assassination of Wilhelm Gustloff, the leader of the Nazi Party's Foreign Organization in Switzerland. \n\nHe cited the Nazi Party's harmful beliefs towards the Jewish people and Gustloff's role in spreading them in [[~SWI.GetName~]] as the reason for the shooting. \n\nHow we choose to proceed in this potentially lengthy issue will be used by [[~GER.GetNameDef~]] and the rest of the world as a way to measure our dedication to neutrality and the rule of law."
+ BBA_switzerland.2.desc:0	"David Frankfurter, a Jewish Croat living in Bern, turned himself in to the Graubünden Police and confessed to the assassination of Wilhelm Gustloff, the leader of the Nazi Party's Foreign Organization in Switzerland. [~[~\n~][~\n~]~]He cited the Nazi Party's harmful beliefs towards the Jewish people and Gustloff's role in spreading them in [[~SWI.GetName~]] as the reason for the shooting. [~[~\n~][~\n~]~]How we choose to proceed in this potentially lengthy issue will be used by [[~GER.GetNameDef~]] and the rest of the world as a way to measure our dedication to neutrality and the rule of law."
  BBA_switzerland.2.a:0	"He will have a fair trial."
  BBA_switzerland.2.b:0	"Cover it all up, recruit him as an operative!"
  BBA_switzerland.2.c:0	"He confessed, so he should get the maximum sentence straight away."
 
 #Trial Approaches
  BBA_switzerland.3.t:0	"David Frankfurter's trial approaches"
- BBA_switzerland.3.desc:0	"The trial of David Frankfurter, who back in February assassinated a Nazi Party representative in Davos, is near. We have promised for him to have a fair and neutral trial, but there are certainly other options. \n\nWe could secretly free him and recruit him for intelligence operations, or instead, we could try to appease [[~GER.GetNameDef~]] by cancelling the trial and sentencing him right away instead. \n\nWhatever we do, pleasing every side might be beyond our means."
+ BBA_switzerland.3.desc:0	"The trial of David Frankfurter, who back in February assassinated a Nazi Party representative in Davos, is near. We have promised for him to have a fair and neutral trial, but there are certainly other options. [~[~\n~][~\n~]~]We could secretly free him and recruit him for intelligence operations, or instead, we could try to appease [[~GER.GetNameDef~]] by cancelling the trial and sentencing him right away instead. [~[~\n~][~\n~]~]Whatever we do, pleasing every side might be beyond our means."
  BBA_switzerland.3.a:0	"The trial will continue as planned"
  BBA_switzerland.3.b:0	"He will be an asset for our intelligence efforts"
  BBA_switzerland.3.c:0	"On second thought, he is clearly guilty"
 
 #Germany thanks Switzerland for swift action
  BBA_switzerland.4.t:0	"[[~GER.GetLeader~]] pleased with [[~SWI.GetName~]]'s decision"
- BBA_switzerland.4.desc:0	"The leader of [[~GER.GetNameDef~]], [[~GER.Getleader~]] has expressed [[~GER.Getleader.GetHerHis~]] gratitude towards [[~SWI.GetNameDef~]] for swiftly dealing with Wilhelm Gustloff's killer, so there is no doubt where [[~SWI.GetName~]] stands on matters like these. This omission of human rights and democratic values will certainly improve [[~GER.GetName~]]'s attitude towards us. \n\nDespite [[~GER.Getleader.GetHerHis~]] positive remarks, it was made clear that the ideal outcome for the Nazi Party would've been extradition to [[~GER.GetNameDef~]], even if, for now, that is out of the question for [[~SWI.GetNameDef~]]."
+ BBA_switzerland.4.desc:0	"The leader of [[~GER.GetNameDef~]], [[~GER.Getleader~]] has expressed [[~GER.Getleader.GetHerHis~]] gratitude towards [[~SWI.GetNameDef~]] for swiftly dealing with Wilhelm Gustloff's killer, so there is no doubt where [[~SWI.GetName~]] stands on matters like these. This omission of human rights and democratic values will certainly improve [[~GER.GetName~]]'s attitude towards us. [~[~\n~][~\n~]~]Despite [[~GER.Getleader.GetHerHis~]] positive remarks, it was made clear that the ideal outcome for the Nazi Party would've been extradition to [[~GER.GetNameDef~]], even if, for now, that is out of the question for [[~SWI.GetNameDef~]]."
  BBA_switzerland.4.a:0	"It is done now"
 
  #Germany is notified Switzerland decides to continue with the trial.
  BBA_switzerland.5.t:0	"[[~SWI.GetName~]] decides to continue with the trial of Gustloff's killer"
- BBA_switzerland.5.desc:0	"Authorities in [[~SWI.GetName~]] have announced that David Frankfurter, who confessed to the killing of the Nazi Party Foreign Organization in Davos, will have a fair and balanced trial under Graubünden laws like any other murder case.\n\nConsidering Gustloff was an officer of the Nazi Party, and our influence on our defenseless neighbor, we could send a lawyer to represent Gustloff's widow and push for our ideal outcome. This way, we can ensure his punishment is befitting his crime. \n\nSpeaking more pragmatically, this could also force [[~SWI.GetNameDef~]] to take a side, finally breaking that flimsy facade of neutrality they always like to boast about."
+ BBA_switzerland.5.desc:0	"Authorities in [[~SWI.GetName~]] have announced that David Frankfurter, who confessed to the killing of the Nazi Party Foreign Organization in Davos, will have a fair and balanced trial under Graubünden laws like any other murder case.[~[~\n~][~\n~]~]Considering Gustloff was an officer of the Nazi Party, and our influence on our defenseless neighbor, we could send a lawyer to represent Gustloff's widow and push for our ideal outcome. This way, we can ensure his punishment is befitting his crime. [~[~\n~][~\n~]~]Speaking more pragmatically, this could also force [[~SWI.GetNameDef~]] to take a side, finally breaking that flimsy facade of neutrality they always like to boast about."
  BBA_switzerland.5.a:0	"She deserves justice for this heinous crime!"
  BBA_switzerland.5.b:0	"No need to intervene in [[~SWI.GetAdjective~]] affairs"
 
  #Germany INSISTS on harsher trial
  BBA_switzerland.6.t:0	"[[~GER.GetAdjective~]] push for a harsh sentence for David Frankfurter"
- BBA_switzerland.6.desc:0	"The legal representative of Gustloff's widow, no doubt sent by [[~GER.GetNameDef~]], is trying to push for the Federal Council to tilt the court towards a harsh sentence for David Frankfurter. This is a very unusual request, which is unquestionably an attempt by [[~GER.GetNameDef~]] to project power over us. \n\nAccepting this might have repercussions for our international reputation, but we should make sure if we can afford to refuse them if that's what we decide to do."
+ BBA_switzerland.6.desc:0	"The legal representative of Gustloff's widow, no doubt sent by [[~GER.GetNameDef~]], is trying to push for the Federal Council to tilt the court towards a harsh sentence for David Frankfurter. This is a very unusual request, which is unquestionably an attempt by [[~GER.GetNameDef~]] to project power over us. [~[~\n~][~\n~]~]Accepting this might have repercussions for our international reputation, but we should make sure if we can afford to refuse them if that's what we decide to do."
  BBA_switzerland.6.a:0	"This is a matter for the courts"
  BBA_switzerland.6.b:0	"We will consider it"
 
 #Frankfurter "dies" under mysterious circumstances
  BBA_switzerland.7.t:0	"Frankfurter Mysteriously Killed in jail"
- BBA_switzerland.7.desc:0	"Authorities in Graubünden report that David Frankfurter, who was in detention after confessing to the murder of Nazi Party representative Wilhelm Gustloff, was found dead in his cell this morning. Whether this was self inflicted, or caused by an enraged Nazi sympathizer inside the jail is unknown for the moment, but the Federal Police promises to find answers.\n\nWe don't have any proof of wrongdoing but the circumstances of this are very mysterious, and some are very suspicious of the [[~SWI.GetAdjective~]] government for not letting [[~GER.GetAdjective~]] representatives inspect the body or the scene of the crime."
+ BBA_switzerland.7.desc:0	"Authorities in Graubünden report that David Frankfurter, who was in detention after confessing to the murder of Nazi Party representative Wilhelm Gustloff, was found dead in his cell this morning. Whether this was self inflicted, or caused by an enraged Nazi sympathizer inside the jail is unknown for the moment, but the Federal Police promises to find answers.[~[~\n~][~\n~]~]We don't have any proof of wrongdoing but the circumstances of this are very mysterious, and some are very suspicious of the [[~SWI.GetAdjective~]] government for not letting [[~GER.GetAdjective~]] representatives inspect the body or the scene of the crime."
  BBA_switzerland.7.a:0	"Oh well"
 
 #Frankfurter Trial
  BBA_switzerland.8.t:0	"The trial of David Frankfurter"
- BBA_switzerland.8.desc:0	"The whole of [[~SWI.GetName~]] and its neighbors have eyes in the trial of David Frankfurter. The result of this trial will not only reveal the fate of the self declared guilty party, but of [[~SWI.GetNameDef~]] as a whole, and to what lengths it is willing to compromise in its institutions and traditions. \n\nAll signs from the court are pointing towards a fair prison sentence, but influence from the council could change the outcome of the trial, and perhaps the very essence of the country."
+ BBA_switzerland.8.desc:0	"The whole of [[~SWI.GetName~]] and its neighbors have eyes in the trial of David Frankfurter. The result of this trial will not only reveal the fate of the self declared guilty party, but of [[~SWI.GetNameDef~]] as a whole, and to what lengths it is willing to compromise in its institutions and traditions. [~[~\n~][~\n~]~]All signs from the court are pointing towards a fair prison sentence, but influence from the council could change the outcome of the trial, and perhaps the very essence of the country."
  BBA_switzerland.8.a:0	"Let the courts make their decision"
  BBA_switzerland.8.b:0	"He's done a service to Democracy. He should be pardoned!"
  BBA_switzerland.8.c:0	"We can't risk alienating [[~GER.GetNameDef~]]. He shall get the maximum sentence"
 
 #To SWI: Germany is angry
  BBA_switzerland.9.t:0	"[[~SWI.GetName~]] is provoking our wrath!"
- BBA_switzerland.9.desc_default:0	"[[~SWI.GetNameDefCap~]], despite our calls for justice, and their pretension of neutrality and rule of law, have pardoned David Frankfurter, who not only killed a member of the Nazi Party, but willingly admitted it!\n\nThis proves that they have picked a side, and will be fair game in a potential war to come. We cannot let this insult to [[~GER.GetNameDef~]] stand."
- BBA_switzerland.9.desc_alt:0	"Our agents in [[~SWI.GetName~]] report that, despite their pretension of neutrality and rule of law, [[~SWI.GetNameDef~]] surreptitiously broke David Frankfurter, the self proclaimed killer of Wilhem Gustloff, out of jail by faking his death and have recruited him as an intelligence agent.\n\nThis proves they cannot be trusted and must be eliminated when we get an opportunity. We cannot let this blatant insult to [[~GER.GetNameDef~]] stand."
+ BBA_switzerland.9.desc_default:0	"[[~SWI.GetNameDefCap~]], despite our calls for justice, and their pretension of neutrality and rule of law, have pardoned David Frankfurter, who not only killed a member of the Nazi Party, but willingly admitted it![~[~\n~][~\n~]~]This proves that they have picked a side, and will be fair game in a potential war to come. We cannot let this insult to [[~GER.GetNameDef~]] stand."
+ BBA_switzerland.9.desc_alt:0	"Our agents in [[~SWI.GetName~]] report that, despite their pretension of neutrality and rule of law, [[~SWI.GetNameDef~]] surreptitiously broke David Frankfurter, the self proclaimed killer of Wilhem Gustloff, out of jail by faking his death and have recruited him as an intelligence agent.[~[~\n~][~\n~]~]This proves they cannot be trusted and must be eliminated when we get an opportunity. We cannot let this blatant insult to [[~GER.GetNameDef~]] stand."
  BBA_switzerland.9.a:0	"They will pay!"
 
 #To SWI: Germany is pleased
  BBA_switzerland.10.t:0	"[[~GER.GetNameDefCap~]] is content with [[~SWI.GetNameDef~]]'s decision"
- BBA_switzerland.10.desc:0	"Representatives from [[~GER.GetNameDef~]] and Gustloff's widow have expressed their gratitude towards [[~SWI.GetNameDef~]] for their resolute sentence for Frankfurter, so there is no doubt where [[~SWI.GetNameDef~]] stands on matters like these. This will certainly improve [[~GER.GetName~]]'s attitude towards [[~SWI.GetName~]]. \n\nDespite [[~GER.Getleader.GetHerHis~]] positive remarks, it was made clear that the ideal outcome for the Nazi Party would've been extradition to [[~GER.GetNameDef~]]."
+ BBA_switzerland.10.desc:0	"Representatives from [[~GER.GetNameDef~]] and Gustloff's widow have expressed their gratitude towards [[~SWI.GetNameDef~]] for their resolute sentence for Frankfurter, so there is no doubt where [[~SWI.GetNameDef~]] stands on matters like these. This will certainly improve [[~GER.GetName~]]'s attitude towards [[~SWI.GetName~]]. [~[~\n~][~\n~]~]Despite [[~GER.Getleader.GetHerHis~]] positive remarks, it was made clear that the ideal outcome for the Nazi Party would've been extradition to [[~GER.GetNameDef~]]."
  BBA_switzerland.10.a:0	"Perhaps this will guarantee our safety"
 
 #Trial Verdict
  BBA_switzerland.11.t:0	"David Frankfurter sentenced to prison"
- BBA_switzerland.11.desc_SWI:0	"As the council decided to stay away from the case and leave it to the courts and Grisons law, David Frankurter, who willfully assassinated Wilhelm Gustloff, was sentenced to 18 years of prison. \n\nWe know [[~GER.GetNameDef~]] would've wanted a much more punitive sentence, so our diplomats will have their work cut out for them in order to appease them, but we couldn't risk seeming to take sides in times like these. Our neutrality is what might keep the [[~SWI.GetAdjective~]] people safe during the storm that might come."
- BBA_switzerland.11.desc_GER:0	"[[~SWI.GetNameDefCap~]] had the gall to give a paltry 18 year sentence to Gustloff's killer! It's unfortunate, but we couldn't have pushed much harder for more punitive sentence, at the risk of inflaming the calls for a boycott of the Olympics. \n\nFor now, we can at least make Gustloff a martyr of [[~GER.GetNameDef~]] and use the murder for propaganda. Maybe in a future invasion we could get a hold of Frankfurter and we can have our justice."
+ BBA_switzerland.11.desc_SWI:0	"As the council decided to stay away from the case and leave it to the courts and Grisons law, David Frankurter, who willfully assassinated Wilhelm Gustloff, was sentenced to 18 years of prison. [~[~\n~][~\n~]~]We know [[~GER.GetNameDef~]] would've wanted a much more punitive sentence, so our diplomats will have their work cut out for them in order to appease them, but we couldn't risk seeming to take sides in times like these. Our neutrality is what might keep the [[~SWI.GetAdjective~]] people safe during the storm that might come."
+ BBA_switzerland.11.desc_GER:0	"[[~SWI.GetNameDefCap~]] had the gall to give a paltry 18 year sentence to Gustloff's killer! It's unfortunate, but we couldn't have pushed much harder for more punitive sentence, at the risk of inflaming the calls for a boycott of the Olympics. [~[~\n~][~\n~]~]For now, we can at least make Gustloff a martyr of [[~GER.GetNameDef~]] and use the murder for propaganda. Maybe in a future invasion we could get a hold of Frankfurter and we can have our justice."
  BBA_switzerland.11.a:0	"It is the best we can do right now"
  BBA_switzerland.11.b:0	"We will not forget this!" #THE GALLLLL!!!!
 
 #After the war
  BBA_switzerland.12.t:0	"David Frankfurter asks for pardon"
- BBA_switzerland.12.desc:0	"Now that the war is over and $GER_fascism_DEF$ no longer exists, David Frankfurter, with help from his legal counsel, George Brunschvig, has requested a pardon for the killing of Wilhelm Gustloff back in 1936.\n\nSince we are no longer surrounded by fascist regimes, and Frankfurter's crime has been re-contextualized thanks to Nazi atrocities discovered throughout the war, there would be almost no risk in offering him clemency, and we could even forbid him from re-entering [[~ROOT.GetName~]], just in case."
+ BBA_switzerland.12.desc:0	"Now that the war is over and $GER_fascism_DEF$ no longer exists, David Frankfurter, with help from his legal counsel, George Brunschvig, has requested a pardon for the killing of Wilhelm Gustloff back in 1936.[~[~\n~][~\n~]~]Since we are no longer surrounded by fascist regimes, and Frankfurter's crime has been re-contextualized thanks to Nazi atrocities discovered throughout the war, there would be almost no risk in offering him clemency, and we could even forbid him from re-entering [[~ROOT.GetName~]], just in case."
  BBA_switzerland.12.a:0	"He will be pardoned"
  BBA_switzerland.12.b:0	"He will complete his sentence"
 
@@ -2096,9 +2096,9 @@
  BBA_switzerland.13.desc:0	"The representative we sent to advice Gustloff's widow has returned with fantastic news. The verdict from the judges in [[~SWI.GetName~]] gave a very harsh sentence to David Frankfurter, close enough to what we requested."
  BBA_switzerland.13.a:0	"Maybe we won't need to invade after all"
 
- SWI_frankfurter_trial_will_continue_TT:0	"§YDavid Frankfurter§! will go on trial and events will unfold over time."
- SWI_frankfurter_immediate_harsh_sentence_TT:0	"§YDavid Frankfurter§! will be given the maximum sentence without trial."
- SWI_frankfurter_german_expectations_TT:0	"§Y[[~GER.GetNameDefCap~]]§! will expect a harsher sentence for §YDavid Frankfurter§!"
+ SWI_frankfurter_trial_will_continue_TT:0	"[~§Y~]David Frankfurter[~§!~] will go on trial and events will unfold over time."
+ SWI_frankfurter_immediate_harsh_sentence_TT:0	"[~§Y~]David Frankfurter[~§!~] will be given the maximum sentence without trial."
+ SWI_frankfurter_german_expectations_TT:0	"[~§Y~][[~GER.GetNameDefCap~]][~§!~] will expect a harsher sentence for [~§Y~]David Frankfurter[~§!~]"
 
  #### Other Events ####
 
@@ -2110,16 +2110,16 @@
 
  #Espionage stuff
  BBA_switzerland.15.t:0	"[[~FROM.GetName~]] is offering to lend us an operative"
- BBA_switzerland.15.desc:0	"Despite their neutral position, [[~FROM.GetNameDef~]] is secretly offering the opportunity to employ one of their operatives for our intelligence missions. \n\nThis is especially beneficial to us, as [[~SWI.GetNonIdeologyName~]]'s population shares language with [[~GER.GetNonIdeologyName~]], [[~FRA.GetNonIdeologyName~]] and [[~ITA.GetNonIdeologyName~]], so they have an advantage infiltrating those countries."
+ BBA_switzerland.15.desc:0	"Despite their neutral position, [[~FROM.GetNameDef~]] is secretly offering the opportunity to employ one of their operatives for our intelligence missions. [~[~\n~][~\n~]~]This is especially beneficial to us, as [[~SWI.GetNonIdeologyName~]]'s population shares language with [[~GER.GetNonIdeologyName~]], [[~FRA.GetNonIdeologyName~]] and [[~ITA.GetNonIdeologyName~]], so they have an advantage infiltrating those countries."
  BBA_switzerland.15.a:0	"We could use a [[~GER.GetAdjective~]] agent"
  BBA_switzerland.15.b:0	"An [[~ITA.GetAdjective~]] operative would be useful"
  BBA_switzerland.15.c:0	"Perhaps a [[~FRA.GetAdjective~]] agent"
- BBA_switzerland_fra.15.tt:0	"Will gain a local operative of §Y[[~FRA.GetAdjectiveCap~]]§! and §Y[[~SWI.GetAdjectiveCap~]]§! nationality"
- BBA_switzerland_ita.15.tt:0	"Will gain a local operative of §Y[[~ITA.GetAdjectiveCap~]]§! and §Y[[~SWI.GetAdjectiveCap~]]§! nationality"
- BBA_switzerland_ger.15.tt:0	"Will gain a local operative of §Y[[~GER.GetAdjectiveCap~]]§! and §Y[[~SWI.GetAdjectiveCap~]]§! nationality"
+ BBA_switzerland_fra.15.tt:0	"Will gain a local operative of [~§Y~][[~FRA.GetAdjectiveCap~]][~§!~] and [~§Y~][[~SWI.GetAdjectiveCap~]][~§!~] nationality"
+ BBA_switzerland_ita.15.tt:0	"Will gain a local operative of [~§Y~][[~ITA.GetAdjectiveCap~]][~§!~] and [~§Y~][[~SWI.GetAdjectiveCap~]][~§!~] nationality"
+ BBA_switzerland_ger.15.tt:0	"Will gain a local operative of [~§Y~][[~GER.GetAdjectiveCap~]][~§!~] and [~§Y~][[~SWI.GetAdjectiveCap~]][~§!~] nationality"
 
  BBA_switzerland.16.t:0	"[[~FROM.GetNameDefCap~]] seeks secret pact"
- BBA_switzerland.16.desc:1	"One of our covert agents stationed in [[~FROM.GetCapitalVictoryPointName~]] has been approached with proposition from the [[~FROM.GetAdjective~]] government; A secret pact between our faction and [[~FROM.GetNameDef~]], which will mean they'll help us undermine our enemies in Europe, while keeping up their appearance of neutrality, and even abandoning it in our favor when the time comes.\n\nIt will also mean that we'll go in their defense if they were at risk of being invaded."
+ BBA_switzerland.16.desc:1	"One of our covert agents stationed in [[~FROM.GetCapitalVictoryPointName~]] has been approached with proposition from the [[~FROM.GetAdjective~]] government; A secret pact between our faction and [[~FROM.GetNameDef~]], which will mean they'll help us undermine our enemies in Europe, while keeping up their appearance of neutrality, and even abandoning it in our favor when the time comes.[~[~\n~][~\n~]~]It will also mean that we'll go in their defense if they were at risk of being invaded."
  BBA_switzerland.16.a:0	"They'll be a great asset"
  BBA_switzerland.16.b:0	"We don't need their help"
 
@@ -2167,18 +2167,18 @@
  ### [[~REDACTED~]] Events ###
 
  BBA_switzerland.97.t:0	"Austrian Navy Veteran Offers His Services"
- BBA_switzerland.97.desc:0	"Under the guise of a European tour with his musically talented family, a veteran Submarine Captain has crossed our borders from Austria and is offering his services to [[~ROOT.GetNameDef~]] in exchange for asylum.\n\nGeorg Von Trapp had an impressive record with the Austro-Hungarian Navy, but since the end of The Great War, the dissolution of the empire and the loss of his fortune, he's performed with his family of singers and musicians. Since [[~GER.GetNameDef~]]'s annexation of Austria, he is being pressed into service for them, thus he escaped.\n\nCertainly his family's musical flair will be as appreciated as his naval experience, specially since we find ourselves with a coast and no staff to defend it."
+ BBA_switzerland.97.desc:0	"Under the guise of a European tour with his musically talented family, a veteran Submarine Captain has crossed our borders from Austria and is offering his services to [[~ROOT.GetNameDef~]] in exchange for asylum.[~[~\n~][~\n~]~]Georg Von Trapp had an impressive record with the Austro-Hungarian Navy, but since the end of The Great War, the dissolution of the empire and the loss of his fortune, he's performed with his family of singers and musicians. Since [[~GER.GetNameDef~]]'s annexation of Austria, he is being pressed into service for them, thus he escaped.[~[~\n~][~\n~]~]Certainly his family's musical flair will be as appreciated as his naval experience, specially since we find ourselves with a coast and no staff to defend it."
  BBA_switzerland.97.a:0	"The waves will be alive with the sound of our torpedoes"
  BBA_switzerland.97.b:0	"He and his family can stay in Switzerland and perform regardless"
 
  #### Election Stuff ###
 
  BBA_SWI_annual_election.1.t:0	"Elections for the President of the Swiss Confederation"
- BBA_SWI_annual_election.1.desc:1	"Every year, the Swiss Federal Assembly chooses one of the councilors to be President of the Swiss Confederation, first among equals, [[~?ROOT.SWI_confederation_president.GetSheHe~]] will use [[~?ROOT.SWI_confederation_president.GetHerHis~]] limited powers to represent the council and break any ties in the council to gently steer the council towards safety or glory.\n\n[[~SWI_get_extra_election_paragraph~]]Who should the Assembly elect to be the face of the Swiss Confederation this year?"
+ BBA_SWI_annual_election.1.desc:1	"Every year, the Swiss Federal Assembly chooses one of the councilors to be President of the Swiss Confederation, first among equals, [[~?ROOT.SWI_confederation_president.GetSheHe~]] will use [[~?ROOT.SWI_confederation_president.GetHerHis~]] limited powers to represent the council and break any ties in the council to gently steer the council towards safety or glory.[~[~\n~][~\n~]~][[~SWI_get_extra_election_paragraph~]]Who should the Assembly elect to be the face of the Swiss Confederation this year?"
  BBA_SWI_annual_election.1.a:0	"Elect [[~SWI_GetCouncilor1name~]]"
  BBA_SWI_annual_election.1.b:0	"Elect [[~SWI_GetCouncilor2name~]]"
  BBA_SWI_annual_election.1.c:0	"Elect [[~SWI_GetCouncilor3name~]]"
- SWI_first_election_text:0	"Once a councilor becomes president of the confederation they will not be able to be assigned as a Political Advisor again, but they will have a powerful Decision at their disposal. When a Political Advisor slot is vacant for too long you will suffer penalties, so make sure to fill the position quickly.\n\n"
+ SWI_first_election_text:0	"Once a councilor becomes president of the confederation they will not be able to be assigned as a Political Advisor again, but they will have a powerful Decision at their disposal. When a Political Advisor slot is vacant for too long you will suffer penalties, so make sure to fill the position quickly.[~[~\n~][~\n~]~]"
 
  BBA_SWI_annual_election.2.t:0	"Emergency vote for Confederation President!"
  BBA_SWI_annual_election.2.desc:0	"After the unprecedented ousting of [[~?SWI_ousted_president.GetName~]], and a period of political instability in the Federal Council, it is time to elect a new President of the Confederation. Let us hope they can rectify the course of [[~SWI.GetNameDef~]] and that they're not the last to hold the position."
@@ -2189,39 +2189,39 @@
  ######## TRADE #######
 
  BBA_switzerland_trade.1.t:0	"[[~FROM.GetNameDefCap~]] seeks trade agreements with [[~ROOT.GetName~]]"
- BBA_switzerland_trade.1.desc:0	"Despite their historical neutrality, [[~FROM.GetNameDefCap~]] is seeking to establish a trade agreement with our nation. Either they seek to align themselves with us, or they are more desperate than we thought. \n\nRegardless, we stand to benefit from tapping into their industrial capacity and convenient location without having to go through the ordeal of invading their heavily fortified country. On the other hand, this could mean strengthening their position in the event of an future invasion by [[~ROOT.GetNameDef~]]"
+ BBA_switzerland_trade.1.desc:0	"Despite their historical neutrality, [[~FROM.GetNameDefCap~]] is seeking to establish a trade agreement with our nation. Either they seek to align themselves with us, or they are more desperate than we thought. [~[~\n~][~\n~]~]Regardless, we stand to benefit from tapping into their industrial capacity and convenient location without having to go through the ordeal of invading their heavily fortified country. On the other hand, this could mean strengthening their position in the event of an future invasion by [[~ROOT.GetNameDef~]]"
  BBA_switzerland_trade.1.a:0	"Their factories will fuel our war machine"
  BBA_switzerland_trade.1.b:0	"Our civilian economies will help each other"
  BBA_switzerland_trade.1.c:0	"We do not need help from a spineless neutral country"
  BBA_switzerland_trade.1.d:0	"We cannot trust [[~FROM.GetName~]]"
 
  BBA_switzerland_trade.2.t:0	"[[~FROM.GetName~]] breaks trade agreement with us prematurely"
- BBA_switzerland_trade.2.desc:1	"It seems that [[~FROM.GetName~]] is refusing to continue the trade agreement we entered with them, despite ample benefits for both parties. \n\nThere is not much we can do about it now, but this lack of commitment will certainly be remembered by [[~ROOT.GetNameDef~]]."
+ BBA_switzerland_trade.2.desc:1	"It seems that [[~FROM.GetName~]] is refusing to continue the trade agreement we entered with them, despite ample benefits for both parties. [~[~\n~][~\n~]~]There is not much we can do about it now, but this lack of commitment will certainly be remembered by [[~ROOT.GetNameDef~]]."
  BBA_switzerland_trade.2.a:0	"Too bad"
  BBA_switzerland_trade.2.b:0	"We will not let them fool us again"
 
  BBA_switzerland_trade.3.t:0	"Our ongoing trade agreement with [[~FROM.GetName~]]"
- BBA_switzerland_trade.3.desc:0	"The trade agreement we have had with [[~FROM.GetNameDef~]] for the past year has been very fruitful for [[~ROOT.GetName~]], and now it is time to decide whether we should renew it or not. \n\n Despite the benefits of such a bilateral agreement, and how much a nation like ours needs it, we should be aware that it might be considered a further breach of our neutrality by some countries. We should make sure alienating them is both manageable and worth it."
+ BBA_switzerland_trade.3.desc:0	"The trade agreement we have had with [[~FROM.GetNameDef~]] for the past year has been very fruitful for [[~ROOT.GetName~]], and now it is time to decide whether we should renew it or not. [~[~\n~][~\n~]~] Despite the benefits of such a bilateral agreement, and how much a nation like ours needs it, we should be aware that it might be considered a further breach of our neutrality by some countries. We should make sure alienating them is both manageable and worth it."
  BBA_switzerland_trade.3.a:0	"Yes, we need these supplies for our survival"
  BBA_switzerland_trade.3.b:0	"No, it is too risky"
 
  BBA_switzerland_trade.4.t:0	"[[~FROM.GetName~]] wants to renew our trade agreement"
- BBA_switzerland_trade.4.desc:0	"It seems [[~FROM.GetName~]]'s trade agreement with us has been very beneficial for them, seeing as they are willing to risk breaching neutrality again and secure supplies from us. \n\n This agreement does not have many drawbacks for us, unless we are providing the tools for their defense against our potential invasion of [[~FROM.GetName~]]."
+ BBA_switzerland_trade.4.desc:0	"It seems [[~FROM.GetName~]]'s trade agreement with us has been very beneficial for them, seeing as they are willing to risk breaching neutrality again and secure supplies from us. [~[~\n~][~\n~]~] This agreement does not have many drawbacks for us, unless we are providing the tools for their defense against our potential invasion of [[~FROM.GetName~]]."
  BBA_switzerland_trade.4.a:0	"Let's renew the agreement"
  BBA_switzerland_trade.4.b:0	"Change the focus to Civilian Production"
  BBA_switzerland_trade.4.c:0	"Change the focus to Military Production"
  BBA_switzerland_trade.4.d:0	"It is not worth our trouble anymore"
 
  BBA_switzerland_trade.5.t:0	"[[~FROM.GetName~]] has left our trade agreement lapse"
- BBA_switzerland_trade.5.desc:0	"Despite the generous terms we have granted [[~FROM.GetName~]] in our mutual trade agreement, they have decided not to renew it and instead preferred to go at it alone. \n\n It is beyond us why they would decide to do such a thing, but maybe it is for the best."
+ BBA_switzerland_trade.5.desc:0	"Despite the generous terms we have granted [[~FROM.GetName~]] in our mutual trade agreement, they have decided not to renew it and instead preferred to go at it alone. [~[~\n~][~\n~]~] It is beyond us why they would decide to do such a thing, but maybe it is for the best."
  BBA_switzerland_trade.5.a:0	"It's their loss!"
 
  BBA_switzerland_trade.6.t:0	"[[~FROM.GetNameDefCap~]] has accepted our trade agreement proposal!"
- BBA_switzerland_trade.6.desc:0	"Our delegation is now back from [[~FROM.GetName~]] bearing great news. This trade agreement will allow us to secure the necessary supplies to keep our industry and population going. \n\n Other countries might consider this a breach of neutrality but for [[~ROOT.GetName~]] it is just the cost of maintaining our independence in this uncertain times."
+ BBA_switzerland_trade.6.desc:0	"Our delegation is now back from [[~FROM.GetName~]] bearing great news. This trade agreement will allow us to secure the necessary supplies to keep our industry and population going. [~[~\n~][~\n~]~] Other countries might consider this a breach of neutrality but for [[~ROOT.GetName~]] it is just the cost of maintaining our independence in this uncertain times."
  BBA_switzerland_trade.6.a:0	"Great!"
 
  BBA_switzerland_trade.7.t:0	"[[~FROM.GetNameDefCap~]] rejected our trade agreement proposal"
- BBA_switzerland_trade.7.desc:0	"Despite our best efforts, the [[~FROM.GetAdjective~]] government has decided to reject our proposal for a mutually beneficial trade agreement. \n\n This potentially leaves [[~ROOt.GetName~]] in a precarious position, as the situation in Europe is making it increasingly difficult to secure a stable source for the civilian and military supplies needed to keep our country defended and fed."
+ BBA_switzerland_trade.7.desc:0	"Despite our best efforts, the [[~FROM.GetAdjective~]] government has decided to reject our proposal for a mutually beneficial trade agreement. [~[~\n~][~\n~]~] This potentially leaves [[~ROOt.GetName~]] in a precarious position, as the situation in Europe is making it increasingly difficult to secure a stable source for the civilian and military supplies needed to keep our country defended and fed."
  BBA_switzerland_trade.7.a:0	"We will find another way!"
 
  BBA_switzerland_trade.8.t:0	"[[~FROM.GetNameDefCap~]] Could Help Us Trade Gold"
@@ -2262,12 +2262,12 @@
  ####### FASCIST EVENTS ###########
 
  BBA_switzerland_fascist.1.t:0	"[[~FROM.GetNameDefCap~]] wants our protection"
- BBA_switzerland_fascist.1.desc:0	"The puny nation of [[~FROM.GetName~]], formerly a Criminal Cheese State, is looking to attach themselves to [[~ROOT.GetNameDef~]] by becoming our puppet. This can be considered an admission of weakness, or a declaration of loyalty towards the [[~ROOT.GetRulingParty~]]\n\n Their strong defensive capabilities and well trained civilian population might be useful for our future plans."
+ BBA_switzerland_fascist.1.desc:0	"The puny nation of [[~FROM.GetName~]], formerly a Criminal Cheese State, is looking to attach themselves to [[~ROOT.GetNameDef~]] by becoming our puppet. This can be considered an admission of weakness, or a declaration of loyalty towards the [[~ROOT.GetRulingParty~]][~[~\n~][~\n~]~] Their strong defensive capabilities and well trained civilian population might be useful for our future plans."
  BBA_switzerland_fascist.1.a:0	"They may join our fold"
  BBA_switzerland_fascist.1.b:0	"We don't need them!"
 
  BBA_switzerland_fascist.2.t:0	"[[~FROM.GetNameDefCap~]] rejected us"
- BBA_switzerland_fascist.2.desc:0	"Despite our overtures towards [[~FROM.GetName~]], they have rejected our proposal of submission to the [[~FROM.GetAdjective~]] regime. \n\n This puts us in a delicate situation, as we have clearly lost any appearance of neutrality, and we might now survive what's to come on our own."
+ BBA_switzerland_fascist.2.desc:0	"Despite our overtures towards [[~FROM.GetName~]], they have rejected our proposal of submission to the [[~FROM.GetAdjective~]] regime. [~[~\n~][~\n~]~] This puts us in a delicate situation, as we have clearly lost any appearance of neutrality, and we might now survive what's to come on our own."
  BBA_switzerland_fascist.2.a:0	"Dark clouds in the horizon"
 
 
@@ -2287,26 +2287,26 @@
 
 
  BBA_switzerland_fascist.6.t:0	"[[~SWI.GetName~]] requests expansion of their territories"
- BBA_switzerland_fascist.6.desc:0	"After the apparent success of the [[~FROM.GetAdjective~]] occupation of [[~848.GetName~]], [[~FROM.GetNameDef~]] is offering to defend our [[~SWI_requested_territory.GetAdjective~]] territories on our behalf. \n\n Of course this also means relinquishing our control over the area to them, so we should be careful in our assessment of their loyalty."
+ BBA_switzerland_fascist.6.desc:0	"After the apparent success of the [[~FROM.GetAdjective~]] occupation of [[~848.GetName~]], [[~FROM.GetNameDef~]] is offering to defend our [[~SWI_requested_territory.GetAdjective~]] territories on our behalf. [~[~\n~][~\n~]~] Of course this also means relinquishing our control over the area to them, so we should be careful in our assessment of their loyalty."
  BBA_switzerland_fascist.6.a:0	"They've proven themselves."
  BBA_switzerland_fascist.6.b:0	"$BBA_switzerland_fascist.3.b$"
 
  BBA_switzerland_fascist.7.t:0	"[[~FROM.GetNameDefCap~]] welcomes us into their fold"
- BBA_switzerland_fascist.7.desc:0	"In a rally in [[~ROOT.GetCapitalVictoryPointName~]], [[~ROOT.GetLeader~]] announced [[~FROM.GetName~]]'s promise of very tight cooperation between our countries, and of protecting [[~ROOT.GetName~]] from our enemies, and theirs. \n\nFriendly officers and functionaries from [[~FROM.GetNameDef~]], our friends, are streaming into our nation as we speak, to help us develop our military strength and be ready for putting it to their service."
+ BBA_switzerland_fascist.7.desc:0	"In a rally in [[~ROOT.GetCapitalVictoryPointName~]], [[~ROOT.GetLeader~]] announced [[~FROM.GetName~]]'s promise of very tight cooperation between our countries, and of protecting [[~ROOT.GetName~]] from our enemies, and theirs. [~[~\n~][~\n~]~]Friendly officers and functionaries from [[~FROM.GetNameDef~]], our friends, are streaming into our nation as we speak, to help us develop our military strength and be ready for putting it to their service."
  BBA_switzerland_fascist.7.a:0	"Helpful!"
 
  ##########  SWISS EXPANSION EVENTS #######
 
  BBA_swiss_expansion.1.t:0	"We did not influence [[~SWI_influenced_state~]] enough"
- BBA_swiss_expansion.1.desc:0	"Despite the best efforts of our propagandists, Democracy did not spread as much as we expected in the cantons of [[~?SWI.SWI_influence_target_state.GetName~]], so unfortunately we don't think a referendum to join us would be successful.\n\nThis does not mean that we should quit, we have planted a seed that can be nurtured further, making us more likely to succeed next time."
+ BBA_swiss_expansion.1.desc:0	"Despite the best efforts of our propagandists, Democracy did not spread as much as we expected in the cantons of [[~?SWI.SWI_influence_target_state.GetName~]], so unfortunately we don't think a referendum to join us would be successful.[~[~\n~][~\n~]~]This does not mean that we should quit, we have planted a seed that can be nurtured further, making us more likely to succeed next time."
  BBA_swiss_expansion.1.a:0	"We will not abandon our mission"
 
  BBA_swiss_expansion.2.t:0	"Thanks to our influence, [[~SWI_influenced_state~]] wants to join our fold"
- BBA_swiss_expansion.2.desc:0	"After an extensive propaganda campaign, the people of [[~?SWI.SWI_influence_target_state.GetName~]] overwhelmingly support joining the [[~ROOT.GetNameDef~]].\n\nThis means that were  [[~?SWI.SWI_influence_target_state.GetName~]] a democracy such as ours, they would be part of our country. Unfortunately, that's not the case, so they will need our help to become [[~SWI.GetName~]]'s newest cantons.\n\nWe now can press for a referendum in the state to decide their membership in [[~ROOT.GetNameDef~]]."
+ BBA_swiss_expansion.2.desc:0	"After an extensive propaganda campaign, the people of [[~?SWI.SWI_influence_target_state.GetName~]] overwhelmingly support joining the [[~ROOT.GetNameDef~]].[~[~\n~][~\n~]~]This means that were  [[~?SWI.SWI_influence_target_state.GetName~]] a democracy such as ours, they would be part of our country. Unfortunately, that's not the case, so they will need our help to become [[~SWI.GetName~]]'s newest cantons.[~[~\n~][~\n~]~]We now can press for a referendum in the state to decide their membership in [[~ROOT.GetNameDef~]]."
  BBA_swiss_expansion.2.a:0	"We must bring true Democracy to them"
 
  BBA_swiss_expansion.3.t:0	"[[~FROM.GetNameDefCap~]] is pressing for [[~SWI_pressed_state~]]"
- BBA_swiss_expansion.3.desc:0	"Those supposedly neutral rogues in [[~FROM.GetName~]] have the gall to claim [[~?SWI.SWI_state_being_claimed.GetName~]] as their own. They allege that support for joining [[~FROM.GetNameDef~]] is high enough that a referendum on that question would go towards them, making the state rightfully theirs.\n\nWe can let [[~?SWI.SWI_state_being_claimed.GetName~]] have a referendum, which we'll definitely lose, or risk war with them if we refuse."
+ BBA_swiss_expansion.3.desc:0	"Those supposedly neutral rogues in [[~FROM.GetName~]] have the gall to claim [[~?SWI.SWI_state_being_claimed.GetName~]] as their own. They allege that support for joining [[~FROM.GetNameDef~]] is high enough that a referendum on that question would go towards them, making the state rightfully theirs.[~[~\n~][~\n~]~]We can let [[~?SWI.SWI_state_being_claimed.GetName~]] have a referendum, which we'll definitely lose, or risk war with them if we refuse."
  BBA_swiss_expansion.3.a:0	"We won't be bullied!"
  BBA_swiss_expansion.3.b:0	"A referendum it is then"
 
@@ -2315,26 +2315,26 @@
  BBA_swiss_expansion.4.a:0	"Our confederation expands!"
 
  BBA_swiss_expansion.5.t:0	"[[~FROM.GetNameDef~]] ignores calls for a referendum!"
- BBA_swiss_expansion.5.desc:0	"Despite the popular support for democracy and [[~ROOT.GetNameDef~]], [[~FROM.GetName~]] has decided to ignore the people of [[~?SWI.SWI_state_being_claimed.GetName~]] in their quest for a referendum on their membership of the Confederation.\n\nThis is a clear call for us to take up arms and defend our occupied cantons against the tyranny of [[~FROM.GetNameDef~]]."
+ BBA_swiss_expansion.5.desc:0	"Despite the popular support for democracy and [[~ROOT.GetNameDef~]], [[~FROM.GetName~]] has decided to ignore the people of [[~?SWI.SWI_state_being_claimed.GetName~]] in their quest for a referendum on their membership of the Confederation.[~[~\n~][~\n~]~]This is a clear call for us to take up arms and defend our occupied cantons against the tyranny of [[~FROM.GetNameDef~]]."
  BBA_swiss_expansion.5.a:0	"Our oath demands it!"
 
  BBA_swiss_expansion.6.t:0	"[[~FROM.GetNameDefCap~]] Wants [[~848.GetName~]] as a Canton"
- BBA_swiss_expansion.6.desc:0	"It seems that [[~FROM.GetName~]] is demanding that the state of [[~848.GetName~]] join their confederation. They cite a referendum in 1919 where the state overwhelmingly voted to join as a canton of [[~FROM.GetNameDef~]], but were rejected by the [[~FROM.GetAdjective~]] themselves. It appears they've now changed their minds.\n\nWhether we accept or not, it is obvious they have their sights set on expansion, so we should thread carefully, and be ready to defend our territory even if we accept their demands."
+ BBA_swiss_expansion.6.desc:0	"It seems that [[~FROM.GetName~]] is demanding that the state of [[~848.GetName~]] join their confederation. They cite a referendum in 1919 where the state overwhelmingly voted to join as a canton of [[~FROM.GetNameDef~]], but were rejected by the [[~FROM.GetAdjective~]] themselves. It appears they've now changed their minds.[~[~\n~][~\n~]~]Whether we accept or not, it is obvious they have their sights set on expansion, so we should thread carefully, and be ready to defend our territory even if we accept their demands."
  BBA_swiss_expansion.6.a:0	"The risk is not worth such a small state"
  BBA_swiss_expansion.6.b:0	"[[~ROOT.GetName~]] will never cede any territory!"
  BBA_swiss_expansion.6.c:0	"We will not be bullied by the pimple on the face of Europe"
  BBA_swiss_expansion.6.d:0	"Good riddance"
 
  BBA_swiss_expansion.7.t:0	"[[~FROM.GetNameDefCap~]] Has Rejected Our Demand for [[~848.GetName~]] Joining [[~ROOT.GetName~]]"
- BBA_swiss_expansion.7.desc:0	"The [[~FROM.GetAdjective~]] government has categorically rejected our request, despite our strong claim and the democratic will of the people of [[~848.GetName~]].\n\nWe should not let this slight pass by."
+ BBA_swiss_expansion.7.desc:0	"The [[~FROM.GetAdjective~]] government has categorically rejected our request, despite our strong claim and the democratic will of the people of [[~848.GetName~]].[~[~\n~][~\n~]~]We should not let this slight pass by."
  BBA_swiss_expansion.7.a:0	"[[~848.GetName~]] will be free one day!"
 
  BBA_swiss_expansion.8.t:0	"The [[~FROM.GetAdjective~]] Government Has Accepted our Request for [[~848.GetName~]]'s Freedom"
- BBA_swiss_expansion.8.desc:0	"[[~FROM.GetNameDefCap~]] has seen the light and agreed with us that [[~848.GetName~]]'s place is with [[~ROOT.GetNameDef~]] as its newest canton.\n\nThis is merely the first step into [[~ROOT.GetName~]]'s path for a more democratic Europe!"
+ BBA_swiss_expansion.8.desc:0	"[[~FROM.GetNameDefCap~]] has seen the light and agreed with us that [[~848.GetName~]]'s place is with [[~ROOT.GetNameDef~]] as its newest canton.[~[~\n~][~\n~]~]This is merely the first step into [[~ROOT.GetName~]]'s path for a more democratic Europe!"
  BBA_swiss_expansion.8.a:0	"This is for Democracy!"
 
  BBA_swiss_expansion.9.t:0	"[[~FROM.GetName~]] Offers Their Protection"
- BBA_swiss_expansion.9.desc:0	"After demanding we hand over [[~848.GetName~]] under arguably tenuous pretenses, [[~FROM.GetNameDef~]] is offering to take our territories to, allegedly, protect us from [[~GER.GetNameDef~]], who they claim will likely try to annex [[~ROOT.GetNameDef~]] soon.\n\nWhile this sounds relatively plausible and together we would have a better chance fending off invasion, paying with our sovereignty might be too high a price.\n\nOf course, we can expect them to attack us if we refuse."
+ BBA_swiss_expansion.9.desc:0	"After demanding we hand over [[~848.GetName~]] under arguably tenuous pretenses, [[~FROM.GetNameDef~]] is offering to take our territories to, allegedly, protect us from [[~GER.GetNameDef~]], who they claim will likely try to annex [[~ROOT.GetNameDef~]] soon.[~[~\n~][~\n~]~]While this sounds relatively plausible and together we would have a better chance fending off invasion, paying with our sovereignty might be too high a price.[~[~\n~][~\n~]~]Of course, we can expect them to attack us if we refuse."
  BBA_swiss_expansion.9.a:0	"This might be our only chance of survival"
  BBA_swiss_expansion.9.b:0	"That's a price we're not willing to pay!"
 
@@ -2348,7 +2348,7 @@
 
  BBA_swiss_expansion.12.t:0	"[[~FROM.GetName~]] Claims Our Alpine Territories"
  BBA_swiss_expansion.12.desc:0	"In an unexpected turn of events, [[~FROM.GetNameDef~]] is laying claim to the [[~ROOT.GetAdjective~]] Alps. Their argument is tenuous at best, but they do have a large portion of their population deployed and ready to invade if we refuse. That and a very favorable terrain for them would make it a long and costly war should we say no, so we must weight our options."
- BBA_swiss_expansion.12.desc_FRA:0	"Our sister republic, [[~FROM.GetNameDef~]] is looking to take all of the Alps under their wing and has laid claim to them.\n\nOur [[~ROOT.GetAdjective~]] Alps have been part of our nation for a very long time, but turning them into part of [[~FROM.GetAdjective~]] territory would reward them for their loyalty and drive, making them into an even more powerful ally."
+ BBA_swiss_expansion.12.desc_FRA:0	"Our sister republic, [[~FROM.GetNameDef~]] is looking to take all of the Alps under their wing and has laid claim to them.[~[~\n~][~\n~]~]Our [[~ROOT.GetAdjective~]] Alps have been part of our nation for a very long time, but turning them into part of [[~FROM.GetAdjective~]] territory would reward them for their loyalty and drive, making them into an even more powerful ally."
  BBA_swiss_expansion.12.a:0	"They shall have the Alps"
  BBA_swiss_expansion.12.b:0	"This is Preposterous!"
 
@@ -2361,38 +2361,38 @@
  BBA_swiss_expansion.14.a:0	"We'll get them one way or the other"
 
  BBA_swiss_expansion.15.t:0	"[[~FROM.GetName~]] is Trying to Turn [[~AUS.GetName~]] Against Us!"
- BBA_swiss_expansion.15.desc:0	"Our efforts to unite [[~AUS.GetNonIdeologyName~]] with [[~ROOT.GetNonIdeologyName~]] are being thwarted by [[~FROM.GetName~]], they're campaigning in favor of their disgraceful system of government and against us.\n\nPressing for Anschluss while this slanderous crusade is ongoing will prove impossible, so we will have to wait to fulfill our glorious destiny!"
+ BBA_swiss_expansion.15.desc:0	"Our efforts to unite [[~AUS.GetNonIdeologyName~]] with [[~ROOT.GetNonIdeologyName~]] are being thwarted by [[~FROM.GetName~]], they're campaigning in favor of their disgraceful system of government and against us.[~[~\n~][~\n~]~]Pressing for Anschluss while this slanderous crusade is ongoing will prove impossible, so we will have to wait to fulfill our glorious destiny!"
  BBA_swiss_expansion.15.a:0	"They are only delaying the inevitable!"
 
  BBA_swiss_expansion.16.t:0	"[[~FROM.GetNonIdeologyName~]] Demands Independence"
- BBA_swiss_expansion.16.desc:0	"Despite our protection and support, our subject [[~FROM.GetName~]] is now demanding we free them from their privileges and duties to us so they can once again become their own nation.\n\n[[~GetDemandingAlpsParagraph~]]"
+ BBA_swiss_expansion.16.desc:0	"Despite our protection and support, our subject [[~FROM.GetName~]] is now demanding we free them from their privileges and duties to us so they can once again become their own nation.[~[~\n~][~\n~]~][[~GetDemandingAlpsParagraph~]]"
  BBA_swiss_expansion.16.a:0	"[[~SWI_only_independence_response~]]"
  BBA_swiss_expansion.16.b:0	"They shall be an independent country, along with our Alpine states"
  BBA_swiss_expansion.16.c:0	"They will have to fight for it!"
- SWI_independence_demand_alps_paragraph:0	"Besides their independence, they're grave enough to also demand we hand over our part of the alps, ostensibly to form a country encompassing all of the Alps.\n\n"
+ SWI_independence_demand_alps_paragraph:0	"Besides their independence, they're grave enough to also demand we hand over our part of the alps, ostensibly to form a country encompassing all of the Alps.[~[~\n~][~\n~]~]"
  SWI_no_alps_independence:0	"They can be independent again"
  SWI_have_alps_but_only_independence:0	"We'll allow independence but no more"
 
  BBA_swiss_expansion.17.t_alps:0	"[[~FROM.GetName~]] Has Granted Us Our Independence but not Their Alpine Territories"
  BBA_swiss_expansion.17.t_no_alps:0	"[[~ROOT.GetName~]] is independent again!"
- BBA_swiss_expansion.17.desc_alps:0	"It is a momentous day, even if we have not achieved all our goals yet. [[~FROM.GetNameDefCap~]] has reluctantly allowed us to part ways with them, granting us our coveted independence. And yet, in the same breath, they have disgracefully declared their unwillingness to part with their Alpine territories.\n\nWe will have to find another way of uniting the Alps under our flag."
+ BBA_swiss_expansion.17.desc_alps:0	"It is a momentous day, even if we have not achieved all our goals yet. [[~FROM.GetNameDefCap~]] has reluctantly allowed us to part ways with them, granting us our coveted independence. And yet, in the same breath, they have disgracefully declared their unwillingness to part with their Alpine territories.[~[~\n~][~\n~]~]We will have to find another way of uniting the Alps under our flag."
  BBA_swiss_expansion.17.desc_no_alps:0	"A joyous day for [[~ROOT.GetNonIdeologyName~]], [[~FROM.GetNameDef~]] has accepted our request for independence. This means that we are free to set our own agenda once again and choose our foreign policy stance. On the other hand, we will also have to fend for ourselves."
  BBA_swiss_expansion.17.a:0	"What's next for [[~ROOT.GetNonIdeologyName~]]?"
 
  BBA_swiss_expansion.18.t:0	"[[~FROM.GetNameDefCap~]] Granted Us and the Alps Our Independence"
- BBA_swiss_expansion.18.desc:0	"Our designs are finally coming together. [[~ROOT.GetNonIdeologyName~]] is finally getting its independence back, and along with it, the territories formerly known as the [[~FROM.GetAdjective~]] Alps.\n\nWhile we no longer count with our old overlord's protection, the land we've just acquired will make our survival more certain."
+ BBA_swiss_expansion.18.desc:0	"Our designs are finally coming together. [[~ROOT.GetNonIdeologyName~]] is finally getting its independence back, and along with it, the territories formerly known as the [[~FROM.GetAdjective~]] Alps.[~[~\n~][~\n~]~]While we no longer count with our old overlord's protection, the land we've just acquired will make our survival more certain."
  BBA_swiss_expansion.18.a:0	"[[~ROOT.GetNameDefCap~]] rises!"
 
  BBA_swiss_expansion.19.t:0	"[[~FROM.GetName~]] Will Not Let [[~ROOT.GetNonIdeologyName~]] Be Independent!"
  BBA_swiss_expansion.19.desc:0	"Our declaration of independence was not taken kindly by our former overlord, [[~FROM.GetNameDef~]]. They have declared war on us hoping to take our country by force, let us take up arms and show them that [[~ROOT.GetName~]] will not be subjugated that easily."
  BBA_swiss_expansion.19.a:0	"To arms!"
 
- SWI_delayed_anschluss_TT:0	"§Y[[~GER.GetNameDefCap~]]§! will §Rnot be able to push for Anschluss§! until the National Spirit §Y$SWI_swiss_democratic_propaganda$§! is removed from §Y[[~AUS.GetName~]]§! in three months."
+ SWI_delayed_anschluss_TT:0	"[~§Y~][[~GER.GetNameDefCap~]][~§!~] will [~§R~]not be able to push for Anschluss[~§!~] until the National Spirit [~§Y~]$SWI_swiss_democratic_propaganda$[~§!~] is removed from [~§Y~][[~AUS.GetName~]][~§!~] in three months."
  SWI_expantion_state_loc:0	"[[~?SWI.SWI_influence_target_state.GetName~]]"
  SWI_expansion_no_state:0	"the state"
  SWI_claiming_state_loc:0	"[[~?SWI_state_being_claimed.GetName~]]"
  SWI_claiming_no_state_loc:0	"one of our states"
- SWI_press_for_future_canton_TT:0	"Unlocks decision: §YPress country for influenced future canton§!"
+ SWI_press_for_future_canton_TT:0	"Unlocks decision: [~§Y~]Press country for influenced future canton[~§!~]"
 
 
 ##########################################################################

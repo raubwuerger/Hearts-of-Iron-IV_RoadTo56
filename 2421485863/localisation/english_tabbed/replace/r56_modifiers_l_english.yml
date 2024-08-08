@@ -8,13 +8,13 @@ l_english:
  construction_tech_research:0	"Construction Research Speed"
  naval_armor_tech_research:0	"Naval Armor Research Speed"
  naval_gunnery_tech_research:0	"Naval Gunnery Research Speed"
- modifier_production_speed_steel_mill_factor:0	"§YSteel Mill§! construction speed"
- modifier_production_speed_aluminum_mill_factor:0	"§YAluminium Mill§! construction speed"
- modifier_production_speed_rubber_refinery_factor:0	"§YRubber Refinery§! construction speed"
- modifier_state_production_speed_nuclear_reactor_factor:0	"§YNuclear Reactor§! Construction Speed" 
- modifier_state_production_speed_anti_air_building_factor:0	"§YAnti-Air§! Construction Speed" 
- modifier_state_repair_speed_anti_air_building_factor:0	"§YAnti-Air§! Repair Speed" 
- modifier_state_repair_speed_bunker_factor:0	"§YLand Fort§! Repair Speed" 
+ modifier_production_speed_steel_mill_factor:0	"[~§Y~]Steel Mill[~§!~] construction speed"
+ modifier_production_speed_aluminum_mill_factor:0	"[~§Y~]Aluminium Mill[~§!~] construction speed"
+ modifier_production_speed_rubber_refinery_factor:0	"[~§Y~]Rubber Refinery[~§!~] construction speed"
+ modifier_state_production_speed_nuclear_reactor_factor:0	"[~§Y~]Nuclear Reactor[~§!~] Construction Speed" 
+ modifier_state_production_speed_anti_air_building_factor:0	"[~§Y~]Anti-Air[~§!~] Construction Speed" 
+ modifier_state_repair_speed_anti_air_building_factor:0	"[~§Y~]Anti-Air[~§!~] Repair Speed" 
+ modifier_state_repair_speed_bunker_factor:0	"[~§Y~]Land Fort[~§!~] Repair Speed" 
  darien_gap:0	"Darién Gap"
  quebec_conscription_crisis:0	"Quebec Conscription Crisis"
  quebec_conscription_crisis_compromise:0	"Quebec Conscription Compromise"
@@ -44,49 +44,49 @@ l_english:
 
  r56_volksdeutscher_selbstschutz_recruitment:0	"Volksdeutscher Selbstschutz Recruitment"
 
- modifier_experience_gain_infantry_training_factor:0	"§YInfantry§! training experience gain"
+ modifier_experience_gain_infantry_training_factor:0	"[~§Y~]Infantry[~§!~] training experience gain"
 
- modifier_experience_gain_bicycle_battalion_training_factor:0	"§YBicycle Infantry§! training experience gain"
- modifier_experience_gain_bicycle_battalion_combat_factor:0	"§YBicycle Infantry§! combat experience gain"
+ modifier_experience_gain_bicycle_battalion_training_factor:0	"[~§Y~]Bicycle Infantry[~§!~] training experience gain"
+ modifier_experience_gain_bicycle_battalion_combat_factor:0	"[~§Y~]Bicycle Infantry[~§!~] combat experience gain"
 
- modifier_experience_gain_light_armor_training_factor:0	"§YLight Tank§! training experience gain"
- modifier_experience_gain_light_armor_combat_factor:0	"§YLight Tank§! combat experience gain"
- modifier_experience_gain_light_sp_artillery_brigade_combat_factor:0	"§YLight SP Artillery§! combat experience gain"
- modifier_experience_gain_medium_armor_training_factor:0	"§YMedium Tank§! training experience gain"
- modifier_experience_gain_medium_armor_combat_factor:0	"§YMedium Tank§! combat experience gain"
- modifier_experience_gain_medium_sp_artillery_brigade_combat_factor:0	"§YMedium SP Artillery§! combat experience gain"
- modifier_experience_gain_heavy_armor_training_factor:0	"§YHeavy Tank§! training experience gain"
- modifier_experience_gain_heavy_armor_combat_factor:0	"§YHeavy Tank§! combat experience gain"
- modifier_experience_gain_anti_tank_combat_factor:0	"§YAnti Tank Brigade§! combat experience gain"
- modifier_experience_gain_shocktroop_combat_factor:0	"§YShocktroops§! combat experience gain"
- modifier_experience_gain_artillery_combat_factor:0	"§YArtillery Brigade§! combat experience gain" #Vanilla override
+ modifier_experience_gain_light_armor_training_factor:0	"[~§Y~]Light Tank[~§!~] training experience gain"
+ modifier_experience_gain_light_armor_combat_factor:0	"[~§Y~]Light Tank[~§!~] combat experience gain"
+ modifier_experience_gain_light_sp_artillery_brigade_combat_factor:0	"[~§Y~]Light SP Artillery[~§!~] combat experience gain"
+ modifier_experience_gain_medium_armor_training_factor:0	"[~§Y~]Medium Tank[~§!~] training experience gain"
+ modifier_experience_gain_medium_armor_combat_factor:0	"[~§Y~]Medium Tank[~§!~] combat experience gain"
+ modifier_experience_gain_medium_sp_artillery_brigade_combat_factor:0	"[~§Y~]Medium SP Artillery[~§!~] combat experience gain"
+ modifier_experience_gain_heavy_armor_training_factor:0	"[~§Y~]Heavy Tank[~§!~] training experience gain"
+ modifier_experience_gain_heavy_armor_combat_factor:0	"[~§Y~]Heavy Tank[~§!~] combat experience gain"
+ modifier_experience_gain_anti_tank_combat_factor:0	"[~§Y~]Anti Tank Brigade[~§!~] combat experience gain"
+ modifier_experience_gain_shocktroop_combat_factor:0	"[~§Y~]Shocktroops[~§!~] combat experience gain"
+ modifier_experience_gain_artillery_combat_factor:0	"[~§Y~]Artillery Brigade[~§!~] combat experience gain" #Vanilla override
  modifier_experience_gain_militia_combat_factor:0	"Militia experience gain from combat"
 
- modifier_experience_gain_cas_training_factor:0	"§YClose Air Support§! training experience gain"
+ modifier_experience_gain_cas_training_factor:0	"[~§Y~]Close Air Support[~§!~] training experience gain"
 
 
- modifier_experience_gain_transport_plane_training_factor:0	"§YTransport Plane§! training experience gain"
- modifier_experience_gain_transport_plane_combat_factor:0	"§YTransport Plane§! combat experience gain"
+ modifier_experience_gain_transport_plane_training_factor:0	"[~§Y~]Transport Plane[~§!~] training experience gain"
+ modifier_experience_gain_transport_plane_combat_factor:0	"[~§Y~]Transport Plane[~§!~] combat experience gain"
 
  ### a good joke for victory or death ###
- modifier_experience_gain_suicide_craft_training_factor:0	"§YSuicide Craft§! training experience gain"
- modifier_experience_gain_suicide_craft_combat_factor:0	"§YSuicide Craft§! combat experience gain"
+ modifier_experience_gain_suicide_craft_training_factor:0	"[~§Y~]Suicide Craft[~§!~] training experience gain"
+ modifier_experience_gain_suicide_craft_combat_factor:0	"[~§Y~]Suicide Craft[~§!~] combat experience gain"
 
- modifier_experience_gain_engineer_combat_factor:0	"§YEngineer§! combat experience gain"
+ modifier_experience_gain_engineer_combat_factor:0	"[~§Y~]Engineer[~§!~] combat experience gain"
 
  #tactics modifier
- tactic_guerrilla_tactics_preferred_weight_factor:0	"Additional §Y$tactic_guerrilla_tactics$§! Tactic Chance if it is Preferred tactic"
- tactic_double_envelopment_preferred_weight_factor:0	"Additional §Y$tactic_double_envelopment$§! Tactic Chance if it is Preferred tactic"
+ tactic_guerrilla_tactics_preferred_weight_factor:0	"Additional [~§Y~]$tactic_guerrilla_tactics$[~§!~] Tactic Chance if it is Preferred tactic"
+ tactic_double_envelopment_preferred_weight_factor:0	"Additional [~§Y~]$tactic_double_envelopment$[~§!~] Tactic Chance if it is Preferred tactic"
 
  # RECON #
- modifier_experience_gain_armored_car_recon_training_factor:0	"§YArmored Car Reconnaissance§! training experience gain"
- modifier_experience_gain_armored_car_recon_combat_factor:0	"§YArmored Car Reconnaissance§! combat experience gain"
- modifier_experience_gain_recon_training_factor:0	"§YCavalry Reconnaissance§! training experience gain"
- modifier_experience_gain_recon_combat_factor:0	"§YCavalry Reconnaissance§! combat experience gain"
- modifier_experience_gain_mot_recon_training_factor:0	"§YMotorized Reconnaissance§! training experience gain"
- modifier_experience_gain_mot_recon_combat_factor:0	"§YMotorized Reconnaissance§! combat experience gain"
- modifier_experience_gain_light_tank_recon_training_factor:0	"§YLight Tank Reconnaissance§! training experience gain"
- modifier_experience_gain_light_tank_recon_combat_factor:0	"§YLight Tank Reconnaissance§! combat experience gain"
+ modifier_experience_gain_armored_car_recon_training_factor:0	"[~§Y~]Armored Car Reconnaissance[~§!~] training experience gain"
+ modifier_experience_gain_armored_car_recon_combat_factor:0	"[~§Y~]Armored Car Reconnaissance[~§!~] combat experience gain"
+ modifier_experience_gain_recon_training_factor:0	"[~§Y~]Cavalry Reconnaissance[~§!~] training experience gain"
+ modifier_experience_gain_recon_combat_factor:0	"[~§Y~]Cavalry Reconnaissance[~§!~] combat experience gain"
+ modifier_experience_gain_mot_recon_training_factor:0	"[~§Y~]Motorized Reconnaissance[~§!~] training experience gain"
+ modifier_experience_gain_mot_recon_combat_factor:0	"[~§Y~]Motorized Reconnaissance[~§!~] combat experience gain"
+ modifier_experience_gain_light_tank_recon_training_factor:0	"[~§Y~]Light Tank Reconnaissance[~§!~] training experience gain"
+ modifier_experience_gain_light_tank_recon_combat_factor:0	"[~§Y~]Light Tank Reconnaissance[~§!~] combat experience gain"
 
  # CONSCRIPTION, TRADE, ECONOMY LAWS for EXILED COUNTRIES
  influx_of_exiles_r56_law:0	"Influx of Exiles"
@@ -107,4 +107,4 @@ l_english:
  r56_idea_i_am_player_stockpile_capture:0	"Equipment Captured in Combat"
  r56_idea_1941_ai_debuff:0	"Strained Nation" #localized just incase a player sees the modifer
 
- SWE_vattenfall_upgrade_tt:	"\nAutomatically upgrades this concern if the total sum of §YInfrastructure§! in §Y[[~666.GetName~]]§!, §Y[[~1029.GetName~]]§! and §Y[[~38.GetName~]]§! is more than §Y11 Infrastructure§!\nWhich grants:\n$industry_research$: §G+15%§!\n$electronics_research$: §G+15%§!"
+ SWE_vattenfall_upgrade_tt:	"[~\n~]Automatically upgrades this concern if the total sum of [~§Y~]Infrastructure[~§!~] in [~§Y~][[~666.GetName~]][~§!~], [~§Y~][[~1029.GetName~]][~§!~] and [~§Y~][[~38.GetName~]][~§!~] is more than [~§Y~]11 Infrastructure[~§!~][~\n~]Which grants:[~\n~]$industry_research$: [~§G~]+15%[~§!~][~\n~]$electronics_research$: [~§G~]+15%[~§!~]"

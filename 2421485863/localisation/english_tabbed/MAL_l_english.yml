@@ -189,13 +189,13 @@ tungsten_mine_reduction_1:0	"Small Decline in Tungsten Mining"
 tungsten_mine_reduction_2:0	"Growing Decline in Tungsten Mining"
 tungsten_mine_reduction_3:0	"Significant Decline in Tungsten Mining"
 
-mal_trade_decisions_desc:0	"Current Offmap Factories: §G[[~?mal_trade_factory_total~]]§!"
+mal_trade_decisions_desc:0	"Current Offmap Factories: [~§G~][[~?mal_trade_factory_total~]][~§!~]"
 
-mal_available_factories_tooltip_1:0	"We need §G1§! offmap factory available to begin this trade mission."
-mal_available_factories_tooltip_2:0	"We need §G2§! offmap factories available to begin this trade mission."
-mal_available_factories_tooltip_3:0	"We need §G3§! offmap factories available to begin this trade mission."
-mal_available_factories_tooltip_4:0	"We need §G4§! offmap factories available to begin this trade mission."
-mal_available_factories_tooltip_5:0	"We need §G5§! offmap factories available to begin this trade mission."
+mal_available_factories_tooltip_1:0	"We need [~§G~]1[~§!~] offmap factory available to begin this trade mission."
+mal_available_factories_tooltip_2:0	"We need [~§G~]2[~§!~] offmap factories available to begin this trade mission."
+mal_available_factories_tooltip_3:0	"We need [~§G~]3[~§!~] offmap factories available to begin this trade mission."
+mal_available_factories_tooltip_4:0	"We need [~§G~]4[~§!~] offmap factories available to begin this trade mission."
+mal_available_factories_tooltip_5:0	"We need [~§G~]5[~§!~] offmap factories available to begin this trade mission."
 
 mal_invest_tooltip:0	"We have positive trade relations with the United Kingdom and its colonies."
 mal_investor:0	"Investor"
@@ -205,7 +205,7 @@ mal_trade_success:0	"Successful Trade Mission"
 mal_trade_failure:0	"Unsuccessful Trade Mission"
 
 mal_trade_decisions:0	"Colonial Trade Missions"
-mal_trade_decisions_desc:0	"Current Offmap Factories: §G[[~?mal_trade_factory_total~]]§!"
+mal_trade_decisions_desc:0	"Current Offmap Factories: [~§G~][[~?mal_trade_factory_total~]][~§!~]"
 
 mal_trade_decisions_external:0	"Financial Decisions"
 mal_trade_decisions_external_desc:0	""
@@ -246,7 +246,7 @@ mal_trade_holland_mission_desc:0	""
 mal_trade_external_mission:0	"Meeting Investor Demands"
 mal_trade_external_mission_desc:0	"As other nations begin to invest in our company, our stock value will continue to rise, however, if we cannot meet investor expectations for growth, both of our economies will suffer for it."
 
-mal_investors_tooltip:0	"We currently need §G[[~?current_industry~]]§! free civilian factories to meet our investor demands."
+mal_investors_tooltip:0	"We currently need [~§G~][[~?current_industry~]][~§!~] free civilian factories to meet our investor demands."
 
 mal_trade_internal:0	"Internal investments"
 mal_trade_internal_desc:0	""

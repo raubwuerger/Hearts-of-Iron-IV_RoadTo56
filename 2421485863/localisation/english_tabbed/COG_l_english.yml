@@ -301,7 +301,7 @@
  COG_fortify_cities_desc:0	"Even if Léopoldville is secure, the other cities of Elisabethville in Katanga and Stanleyville in the "Orientale" Province are still vulnerable and should be reinforced."
 
  COG_air_force_congo:0	"Force Publique's Air Wings"
- COG_aviation_effort_tt:0	"Not enough building slots for §YAir Base§!"
+ COG_aviation_effort_tt:0	"Not enough building slots for [~§Y~]Air Base[~§!~]"
  COG_air_force_congo_desc:0	"Nowhere are technological advances more rapid than in aerial warfare. Aviation is a field any modern nation must master."
  COG_fighter_focus:0	"Import Fighter Blueprints"
  COG_fighter_focus_desc:0	"We have not seen the last of dogfights in the Great War. Keeping ahead in the development of fighter planes will give us an edge in the future."
@@ -320,7 +320,7 @@
  COG_NAV_effort:0	"Naval Bomber Experiments"
  COG_NAV_effort_desc:0	"Just as the new naval warfare takes place beneath the water's surface, part of it takes place in the air over the water."
  COG_naval_effort:0	"Begin Shipbuilding in Matadi"
- COG_naval_effort_tt:0	"Not enough building slots for §YNaval Dockyards§!"
+ COG_naval_effort_tt:0	"Not enough building slots for [~§Y~]Naval Dockyards[~§!~]"
  COG_naval_effort_desc:0	"As our most modern port, protected from the high sea because it is 100Km away from the mouth of the Congo river, the port of Matadi is the ideal starting point for our naval program."
  COG_submarine_operations:0	"Convoy Raiding Tactics"
  COG_submarine_operations_desc:0	"Reinventing naval warfare to account for the advances in submarine technology will allow us to strike efficiently against enemy convoys."

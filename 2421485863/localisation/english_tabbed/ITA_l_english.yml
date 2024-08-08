@@ -19,7 +19,7 @@
 
  #Tooltips
 
- ITA_royal_intervention_tt:0	"Monarchist loyalists and people in the military loyal to the King will start a §Ycivil war§! against the fascists!"
+ ITA_royal_intervention_tt:0	"Monarchist loyalists and people in the military loyal to the King will start a [~§Y~]civil war[~§!~] against the fascists!"
 
 
  # Decisions
@@ -29,16 +29,16 @@
  ITA_renew_the_italo_yemeni_treaty:0	"Renew the Italo-Yemeni Treaty"
  ITA_renew_the_italo_yemeni_treaty_desc:0	"The Italo-Yemeni Treaty, also known as the Treaty of San'a, was concluded in 1926. It recognized Imam Yahya Muhammad Hamid ed-Din as King of Yemen, sealed the friendship between our two nations, and recognized Yemen's claims on Aden. With the annexation of Ethiopia and the extension of our influence in the Red Sea, we should renew this treaty."
  ITA_renew_the_italo_yemeni_treaty_diplomacy:0	"Renewed the Italo-Yemeni Treaty"
- ITA_renew_the_italo_yemeni_treaty_tt:0	"Will unlock §Ydecisions§! to bring Yemen in our §Ysphere§!"
+ ITA_renew_the_italo_yemeni_treaty_tt:0	"Will unlock [~§Y~]decisions[~§!~] to bring Yemen in our [~§Y~]sphere[~§!~]"
 
  ITA_seize_the_balearic_islands:0	"Seize the Balearic Islands"
  ITA_seize_the_balearic_islands_desc:0	"The civil war in Spain represents a golden opportunity to seize the Balearic Islands, allowing us greater control over the Western Mediterranean. However, such a brutal seizure of the territory will not go unnoticed, and the winning government in Spain is unlikely to appreciate that we have taken advantage of their weakness."
- ITA_seize_the_balearic_islands_tt:0	"§RYou will no longer be able to ally yourself with Spain§!\n"
+ ITA_seize_the_balearic_islands_tt:0	"[~§R~]You will no longer be able to ally yourself with Spain[~§!~][~\n~]"
  seized_the_baleares_flag:0	"Seized the Baleares"
 
  ITA_temporarly_occupy_the_baleares:0	"Temporarily Occupy the Balearic Islands"
  ITA_temporarly_occupy_the_baleares_desc:0	"The Balearic Islands are far too strategically important for us to leave them in the hands of a potentially communist regime. We will send troops to occupy the islands while promising the nationalists that we will return them to them once the civil war is over. Of course, if they are no longer there, we would have no reason to return them."
- ITA_temporarly_occupy_the_baleares_tt:0	"You promise to return the islands to the §GNationalists§! §Ionce the civil war is over§!. If the §YRepublicans§! have won, you can keep the islands, but if you refuse to give them back to the §GNationalists§!, you will face §Rheavy penalties§!"
+ ITA_temporarly_occupy_the_baleares_tt:0	"You promise to return the islands to the [~§G~]Nationalists[~§!~] §Ionce the civil war is over[~§!~]. If the [~§Y~]Republicans[~§!~] have won, you can keep the islands, but if you refuse to give them back to the [~§G~]Nationalists[~§!~], you will face [~§R~]heavy penalties[~§!~]"
 
  ITA_cede_884_to_HUN:0	"Cede Prekmurje to [[~HUN.GetNameDef~]]"
 
@@ -46,7 +46,7 @@
  # Events
 
  r56_italy.1.t:0	"The King Removes Mussolini from Power"
- r56_italy.1.d:0	"Following an emergency meeting requested by King Victor Emmanuel III, the King met with Mussolini, asking for his resignation, pointing, in particular, to the enormous debt in which [[~ITA.GetNameDef~]] finds itself and that the latter has not been able to resolve in almost fifteen years of power, the economic abyss that was the Ethiopian campaign, as well as the problems caused by the embargoes suffered following the invasion.\n\nUnder pressure from the Grand Council of Fascism, which began to turn against him, particularly under the influence of the royalists who tried to make a more prominent place for themselves, Mussolini had no choice but to accept the order, not wishing to face prison. Pietro Badoglio was then appointed Prime Minister. Badoglio, despite his many links with the fascist administration, is seen as a much more moderate figure.\n\nThe King is trying to save the face of [[~ITA.GetNameDef~]], whose situation is constantly falling apart."
+ r56_italy.1.d:0	"Following an emergency meeting requested by King Victor Emmanuel III, the King met with Mussolini, asking for his resignation, pointing, in particular, to the enormous debt in which [[~ITA.GetNameDef~]] finds itself and that the latter has not been able to resolve in almost fifteen years of power, the economic abyss that was the Ethiopian campaign, as well as the problems caused by the embargoes suffered following the invasion.[~[~\n~][~\n~]~]Under pressure from the Grand Council of Fascism, which began to turn against him, particularly under the influence of the royalists who tried to make a more prominent place for themselves, Mussolini had no choice but to accept the order, not wishing to face prison. Pietro Badoglio was then appointed Prime Minister. Badoglio, despite his many links with the fascist administration, is seen as a much more moderate figure.[~[~\n~][~\n~]~]The King is trying to save the face of [[~ITA.GetNameDef~]], whose situation is constantly falling apart."
  r56_italy.1.a:0	"Let's hope the situation can be fixed."
 
  r56_italy.2.t:0	"The Ethiopian Armistice"
@@ -58,70 +58,70 @@
  r56_italy.3.a:0	"Out with the old and in with the new!"
 
  r56_italy.4.t:0	"Giovanni Messe's Proposition"
- r56_italy.4.d:0	"Giovanni Messe, Major General, former Commander of the Third Cavalry Division, and Minister of the Interior in the government of Pietro Badoglio, today approached the latter with a rather specific proposal. It was indeed clear to Messe that Badoglio's ultimate goal was the removal of the fascists from power.\n\nMesse suggested using potential monarchists in Blackshirts and other organizations very close to the leaders of the Partito Nazionale Fascista to eliminate the party's leading figures from within. Thus, once deprived of its leaders, eliminating its last elements would be possible without having to shed too much blood."
+ r56_italy.4.d:0	"Giovanni Messe, Major General, former Commander of the Third Cavalry Division, and Minister of the Interior in the government of Pietro Badoglio, today approached the latter with a rather specific proposal. It was indeed clear to Messe that Badoglio's ultimate goal was the removal of the fascists from power.[~[~\n~][~\n~]~]Messe suggested using potential monarchists in Blackshirts and other organizations very close to the leaders of the Partito Nazionale Fascista to eliminate the party's leading figures from within. Thus, once deprived of its leaders, eliminating its last elements would be possible without having to shed too much blood."
  r56_italy.4.a:0	"By destroying the vital points, the movement will fall by itself."
  r56_italy.4.b:0	"What if it backfires? We do not need to resort to such dangerous methods!"
 
  r56_italy.5.t:0	"Death of Arturo Bocchini"
- r56_italy.5.d:0	"Arturo Bocchini, head of both the police but especially of the Organizzazione per la Vigilanza e la Repressione dell' Antifascismo, the secret police of the Partito Nazional Fascista, was found dead in his home, two bullets in the head.\n\nBocchini was chosen as the first target due to the fear that the OVRA would discover the government's plot. The position is now vacant, vastly reducing any risk of being uncovered by the OVRA."
+ r56_italy.5.d:0	"Arturo Bocchini, head of both the police but especially of the Organizzazione per la Vigilanza e la Repressione dell' Antifascismo, the secret police of the Partito Nazional Fascista, was found dead in his home, two bullets in the head.[~[~\n~][~\n~]~]Bocchini was chosen as the first target due to the fear that the OVRA would discover the government's plot. The position is now vacant, vastly reducing any risk of being uncovered by the OVRA."
  r56_italy.5.a:0	"Excellent."
 
  r56_italy.6.t:0	"Fascists Blame the Communists for the Assassination"
- r56_italy.6.d:0	"The murder of Arturo Bocchini shocked many executives of the Partito Nazional Fascista. In "Il Popolo d'Italia", the party's official newspaper, one could see \"The resurgent communist threat\" written in large letters, blaming potential members of the Partito Comunista Italiano for the assassination.\n\nLuigi Russo, leader of the Blackshirts, called for increased vigilance by the latter against any element deemed \"anti-fascist\"."
+ r56_italy.6.d:0	"The murder of Arturo Bocchini shocked many executives of the Partito Nazional Fascista. In "Il Popolo d'Italia", the party's official newspaper, one could see \"The resurgent communist threat\" written in large letters, blaming potential members of the Partito Comunista Italiano for the assassination.[~[~\n~][~\n~]~]Luigi Russo, leader of the Blackshirts, called for increased vigilance by the latter against any element deemed \"anti-fascist\"."
  r56_italy.6.a:0	"At least they're not suspecting us."
 
  r56_italy.7.t:0	"Murder of the Rosselli Brothers"
- r56_italy.7.d:0	"Carlo Rosselli and Sabatino Rosselli, two exiled anti-fascist activists, who notably participated in the Spanish war alongside the Republicans, were murdered by the French organization "La Cagoule" while they were in Bagnoles-de-l'Orne, Normandy, to be treated for phlebitis they had caught during their fight in Spain.\n\nThey had notably founded the "Giustizia e Libertà" movement alongside other anti-Mussolini exiles, in particular republicans, with ideas ranging from liberalism to socialism."
+ r56_italy.7.d:0	"Carlo Rosselli and Sabatino Rosselli, two exiled anti-fascist activists, who notably participated in the Spanish war alongside the Republicans, were murdered by the French organization "La Cagoule" while they were in Bagnoles-de-l'Orne, Normandy, to be treated for phlebitis they had caught during their fight in Spain.[~[~\n~][~\n~]~]They had notably founded the "Giustizia e Libertà" movement alongside other anti-Mussolini exiles, in particular republicans, with ideas ranging from liberalism to socialism."
  r56_italy.7.a:0	"Two less problems."
 
  r56_italy.8.t:0	"Diplomatic Incident at the League of Nations"
- r56_italy.8.d:0	"In a speech to the League of Nations by Haile Selassie I, Emperor of Ethiopia, taking offense at the Italian invasion and asking for diplomatic help to end the conflict, the Italian journalists present began to make fun of the Emperor.\n\nIn reaction to what he considered \"foolishness\", Nicolae Titulescu, a Romanian diplomat present at the time, replied by asking for the departure of these journalists, going so far as to declare \"To the door the savages!\""
+ r56_italy.8.d:0	"In a speech to the League of Nations by Haile Selassie I, Emperor of Ethiopia, taking offense at the Italian invasion and asking for diplomatic help to end the conflict, the Italian journalists present began to make fun of the Emperor.[~[~\n~][~\n~]~]In reaction to what he considered \"foolishness\", Nicolae Titulescu, a Romanian diplomat present at the time, replied by asking for the departure of these journalists, going so far as to declare \"To the door the savages!\""
  r56_italy.8.a:0	"Who does he think he is?"
  ITA_diplomatic_incident_at_the_league_of_nations:0	"Diplomatic Incident at the League of Nations"
 
  r56_italy.9.t:0	"Militarization of the Rome Protocols"
- r56_italy.9.d:0	"First signed in 1934 between the governments of Austria, Hungary, and Italy, the Rome Protocols were agreements mainly dedicated to economic cooperation between the three nations and opposing Yugoslavia's territorial integrity. Under [[~ITA.GetNameDef~]]'s leadership, the second version of these protocols was signed, including a military alliance between the three nations.\n\nMany see this as [[~ITA.GetNameDef~]]'s attempt to find a place in Europe after leaving the League of Nations and to prevent [[~GER.GetNameDef~]] from integrating [[~AUS.GetNameDef~]]."
+ r56_italy.9.d:0	"First signed in 1934 between the governments of Austria, Hungary, and Italy, the Rome Protocols were agreements mainly dedicated to economic cooperation between the three nations and opposing Yugoslavia's territorial integrity. Under [[~ITA.GetNameDef~]]'s leadership, the second version of these protocols was signed, including a military alliance between the three nations.[~[~\n~][~\n~]~]Many see this as [[~ITA.GetNameDef~]]'s attempt to find a place in Europe after leaving the League of Nations and to prevent [[~GER.GetNameDef~]] from integrating [[~AUS.GetNameDef~]]."
  r56_italy.9.a:0	"Perhaps this will guarantee the stability of Central Europe."
 
  r56_italy.10.t:0	"The Second Stresa Front"
- r56_italy.10.d:0	"Faced with what they considered to be a "rising [[~GER.GetAdjective~]] threat", the [[~ITA.GetAdjective~]], [[~FRA.GetAdjective~]], and [[~ENG.GetAdjective~]] governments met again in the city of Stresa to announce the re-creation of the Front of the same name, which had been broken following the Italian invasion of the Abyssinia. The [[~FRA.GetAdjective~]] and [[~ENG.GetAdjective~]] governments agreed to lift the embargoes on [[~ITA.GetNameDef~]] in exchange.\n\nThey aim to maintain the territorial integrity of [[~AUS.GetNameDef~]] against [[~GER.GetNameDef~]] and ensure that the latter respects the Treaty of Versailles. "
+ r56_italy.10.d:0	"Faced with what they considered to be a "rising [[~GER.GetAdjective~]] threat", the [[~ITA.GetAdjective~]], [[~FRA.GetAdjective~]], and [[~ENG.GetAdjective~]] governments met again in the city of Stresa to announce the re-creation of the Front of the same name, which had been broken following the Italian invasion of the Abyssinia. The [[~FRA.GetAdjective~]] and [[~ENG.GetAdjective~]] governments agreed to lift the embargoes on [[~ITA.GetNameDef~]] in exchange.[~[~\n~][~\n~]~]They aim to maintain the territorial integrity of [[~AUS.GetNameDef~]] against [[~GER.GetNameDef~]] and ensure that the latter respects the Treaty of Versailles. "
  r56_italy.10.a:0	"Radically different governments united in maintaining their previous victory."
 
  r56_italy.11.t:0	"The Pact of Steel"
- r56_italy.11.d:0	"The various embargoes suffered by [[~ITA.GetNameDef~]] following its invasion of Abyssinia led to its rapprochement with nations different from its traditional allies, in particular [[~GER.GetNameDef~]], with whom relations warmed up after Italy agreed to cease its guarantee of Austria, which Germany eventually wished to annex, despite the violation of the Treaty of Versailles.\n\nFollowing the signing of the Pact of Friendship and Alliance between [[~GER.GetNameDef~]] and [[~ITA.GetnameDef~]], they have undertaken to support each other militarily in the coming years."
+ r56_italy.11.d:0	"The various embargoes suffered by [[~ITA.GetNameDef~]] following its invasion of Abyssinia led to its rapprochement with nations different from its traditional allies, in particular [[~GER.GetNameDef~]], with whom relations warmed up after Italy agreed to cease its guarantee of Austria, which Germany eventually wished to annex, despite the violation of the Treaty of Versailles.[~[~\n~][~\n~]~]Following the signing of the Pact of Friendship and Alliance between [[~GER.GetNameDef~]] and [[~ITA.GetnameDef~]], they have undertaken to support each other militarily in the coming years."
  r56_italy.11.a:0	"What will this mean for Europe?"
 
  r56_italy.12.t:0	"[[~ITA.GetNameDefCap~]] Wants to Reform the Stresa Front"
- r56_italy.12.d:0	"Fearing that [[~GER.GetNameDef~]] would seek to transgress the Treaty of Versailles, mainly through its revenge rhetoric, [[~ITA.GetNameDef~]] called on us to reform the Stresa front by ensuring that no unprovoked aggression such as the one that took place in Abyssinia would be repeated.\n\nWe would undertake to guarantee [[~AUS.GetNameDef~]]'s territorial integrity and the terms of the Versailles Treaty, which could lead to a military response if necessary."
+ r56_italy.12.d:0	"Fearing that [[~GER.GetNameDef~]] would seek to transgress the Treaty of Versailles, mainly through its revenge rhetoric, [[~ITA.GetNameDef~]] called on us to reform the Stresa front by ensuring that no unprovoked aggression such as the one that took place in Abyssinia would be repeated.[~[~\n~][~\n~]~]We would undertake to guarantee [[~AUS.GetNameDef~]]'s territorial integrity and the terms of the Versailles Treaty, which could lead to a military response if necessary."
  r56_italy.12.a:0	"The Versailles Treaty must be defended at all costs!"
  r56_italy.12.b:0	"We cannot trust [[~ITA.GetNameDef~]] anymore."
 
  r56_italy.13.t:0	"[[~ITA.GetNameDefCap~]] Wants to Reform the Stresa Front"
- r56_italy.13.d:0	"Fearing that [[~GER.GetNameDef~]] would seek to transgress the Treaty of Versailles, mainly through its revenge rhetoric, [[~ITA.GetNameDef~]] called on us to reform the Stresa front by ensuring that no unprovoked aggression such as the one that took place in Abyssinia would be repeated.\n\nWe would undertake to guarantee [[~AUS.GetNameDef~]]'s territorial integrity and the terms of the Versailles Treaty, which could lead to a military response if necessary."
+ r56_italy.13.d:0	"Fearing that [[~GER.GetNameDef~]] would seek to transgress the Treaty of Versailles, mainly through its revenge rhetoric, [[~ITA.GetNameDef~]] called on us to reform the Stresa front by ensuring that no unprovoked aggression such as the one that took place in Abyssinia would be repeated.[~[~\n~][~\n~]~]We would undertake to guarantee [[~AUS.GetNameDef~]]'s territorial integrity and the terms of the Versailles Treaty, which could lead to a military response if necessary."
  r56_italy.13.a:0	"It would be prudent to accept."
  r56_italy.13.b:0	"[[~ITA.GetNameDefCap~]] has already crossed the line once; what guarantees us it won't do it again?"
 
  r56_italy.14.t:0	"Reformation of the Stresa Front"
- r56_italy.14.d:0	"[[~FRA.GetNameDefCap~]] and [[~ENG.GetNameDef~]] agreed to reform our common front against [[~GER.GetNameDef~]].\n\nLet us hope that this will make it possible to safeguard what we fought for during the Great War and guarantee peace in Europe."
+ r56_italy.14.d:0	"[[~FRA.GetNameDefCap~]] and [[~ENG.GetNameDef~]] agreed to reform our common front against [[~GER.GetNameDef~]].[~[~\n~][~\n~]~]Let us hope that this will make it possible to safeguard what we fought for during the Great War and guarantee peace in Europe."
  r56_italy.14.a:0	"The Entente is reborn!"
 
  r56_italy.15.t:0	"[[~ITA.GetNameDefCap~]] Wants to Militarize the Rome Protocols"
- r56_italy.15.d:0	"Citing, in particular, the growing revanchism in [[~GER.GetNameDef~]], which could threaten the interests of [[~AUS.GetNameDef~]], [[~HUN.GetNameDef~]], and [[~ITA.GetNameDef~]], the latter suggested extending the Rome Protocols to include a defensive and offensive military alliance.\n\nAccording to them, creating a new bloc in central and southern Europe would make it possible to avoid any suppression of belligerent powers."
+ r56_italy.15.d:0	"Citing, in particular, the growing revanchism in [[~GER.GetNameDef~]], which could threaten the interests of [[~AUS.GetNameDef~]], [[~HUN.GetNameDef~]], and [[~ITA.GetNameDef~]], the latter suggested extending the Rome Protocols to include a defensive and offensive military alliance.[~[~\n~][~\n~]~]According to them, creating a new bloc in central and southern Europe would make it possible to avoid any suppression of belligerent powers."
  r56_italy.15.a:0	"It would be prudent to accept."
  r56_italy.15.b:0	"This might end up causing an even bigger war; we shall refuse!"
 
  r56_italy.16.t:0	"[[~ITA.GetAdjective~]] Ultimatum"
- r56_italy.16.d:0	"The [[~ITA.GetAdjective~]] ambassador declared Romania a strategic region for the Rome Pact, particularly for [[~ITA.GetNameDef~]] and [[~HUN.GetNameDef~]], and issued an ultimatum to the [[~ROM.GetAdjective~]] government.\n\They demand that the entirety of Transylvania be returned to [[~HUN.GetNameDef~]], that [[~ITA.GetAdjective~]] interests in the oil fields be guaranteed, and that the [[~ITA.GetAdjective~]] government have a right of scrutiny over government decisions, including by giving the ambassador a veto.\n\n[[~ITA.GetNameDefCap~]] made it clear that any refusal could lead to military misconduct."
+ r56_italy.16.d:0	"The [[~ITA.GetAdjective~]] ambassador declared Romania a strategic region for the Rome Pact, particularly for [[~ITA.GetNameDef~]] and [[~HUN.GetNameDef~]], and issued an ultimatum to the [[~ROM.GetAdjective~]] government.[~\n~]\They demand that the entirety of Transylvania be returned to [[~HUN.GetNameDef~]], that [[~ITA.GetAdjective~]] interests in the oil fields be guaranteed, and that the [[~ITA.GetAdjective~]] government have a right of scrutiny over government decisions, including by giving the ambassador a veto.[~[~\n~][~\n~]~][[~ITA.GetNameDefCap~]] made it clear that any refusal could lead to military misconduct."
  r56_italy.16.a:0	"We have no choice but to accept."
  r56_italy.16.b:0	"We will not give away our independence so easily!"
 
  r56_italy.17.t:0	"[[~ROM.GetNameDefCap~]] Refused the Ultimatum!"
- r56_italy.17.d:0	"Describing the [[~ITA.GetAdjective~]] demands as "absurd", the [[~ROM.GetAdjective~]] government refused the ultimatum sent a few days ago and rejected any renegotiation. We threatened military reprisals if they refused.\n\nThe question is whether we should carry out these threats or postpone them."
+ r56_italy.17.d:0	"Describing the [[~ITA.GetAdjective~]] demands as "absurd", the [[~ROM.GetAdjective~]] government refused the ultimatum sent a few days ago and rejected any renegotiation. We threatened military reprisals if they refused.[~[~\n~][~\n~]~]The question is whether we should carry out these threats or postpone them."
  r56_italy.17.a:0	"They chose their fate."
  r56_italy.17.b:0	"We cannot afford a war at the moment."
 
  r56_italy.18.t:0	"[[~ITA.GetNameDefCap~]] Suggests Closer Military Cooperation"
- r56_italy.18.d:0	"In recent months, our relations with [[~ITA.GetNameDef~]] have warmed up, as it has been diplomatically and economically abandoned by its former allies, nominally the former powers of the Entente.\nThe [[~ITA.GetAdjective~]] ambassador approached us with a proposal to sign a military alliance between our two nations, intended in particular for assistance in a hypothetical war with [[~ENG.GetNameDef~]], [[~FRA.GetNameDef~]], or [[~SOV.GetNameDef~]].\n\nA rapprochement with [[~ITA.GetNameDef~]] would undoubtedly enable us to secure the southern Alps. It would also ensure us some control in the Mediterranean and Africa, two areas that we could no longer control.\n\nHowever, we should not forget the first betrayal we suffered at the beginning of the Great War and our various conflicts with our zones of influence, the latter overlapping in many areas."
+ r56_italy.18.d:0	"In recent months, our relations with [[~ITA.GetNameDef~]] have warmed up, as it has been diplomatically and economically abandoned by its former allies, nominally the former powers of the Entente.[~\n~]The [[~ITA.GetAdjective~]] ambassador approached us with a proposal to sign a military alliance between our two nations, intended in particular for assistance in a hypothetical war with [[~ENG.GetNameDef~]], [[~FRA.GetNameDef~]], or [[~SOV.GetNameDef~]].[~[~\n~][~\n~]~]A rapprochement with [[~ITA.GetNameDef~]] would undoubtedly enable us to secure the southern Alps. It would also ensure us some control in the Mediterranean and Africa, two areas that we could no longer control.[~[~\n~][~\n~]~]However, we should not forget the first betrayal we suffered at the beginning of the Great War and our various conflicts with our zones of influence, the latter overlapping in many areas."
  r56_italy.18.a:0	"The Rome-Berlin Axis shall never be defeated!"
  r56_italy.18.b:0	"Where would this lead except to another backstab?"
 
@@ -134,7 +134,7 @@
  r56_italy.20.a:0	"Once again, we have been abandoned!"
 
  r56_italy.21.t:0	"[[~FROM.GetNameDefCap~]] Demands Control over Internal Politics"
- r56_italy.21.d:0	"The [[~FROM.GetAdjective~]] ambassador gave us a request directly from [[~FROM.GetCapitalVictoryPointName~]]. The [[~FROM.GetAdjective~]] government demands a right of scrutiny and veto over our internal and external policy, stating that it wants to defend "the interests of the [[~FROM.GetAdjective~]] nation within [[~ROOT.GetName~]]".\n\nDiplomat specified that a refusal of the request could be accompanied by severe economic sanctions or even military action in the event of what they consider to be a "serious attack on the many [[~FROM.GetAdjective~]] efforts that have been made in [[~ROOT.GetName~]]".\n\nAccepting these requests would mean a significant loss of [[~ROOT.GetAdjective~]] independence."
+ r56_italy.21.d:0	"The [[~FROM.GetAdjective~]] ambassador gave us a request directly from [[~FROM.GetCapitalVictoryPointName~]]. The [[~FROM.GetAdjective~]] government demands a right of scrutiny and veto over our internal and external policy, stating that it wants to defend "the interests of the [[~FROM.GetAdjective~]] nation within [[~ROOT.GetName~]]".[~[~\n~][~\n~]~]Diplomat specified that a refusal of the request could be accompanied by severe economic sanctions or even military action in the event of what they consider to be a "serious attack on the many [[~FROM.GetAdjective~]] efforts that have been made in [[~ROOT.GetName~]]".[~[~\n~][~\n~]~]Accepting these requests would mean a significant loss of [[~ROOT.GetAdjective~]] independence."
  r56_italy.21.a:0	"We fear no army; let them come!"
  r56_italy.21.b:0	"We have no choice but to accept."
 
@@ -172,7 +172,7 @@
  r56_italy.28.a:0	"Our road will be without them."
 
  r56_italy.29.t:0	"The Regia Marina's Budget Question"
- r56_italy.29.d:0	"Since the end of the Great War, the Italian government has set itself the objective of dominating the Mediterranean and, to achieve this, has launched major projects to modernize the navy. However, these projects have a cost. Thus, part of the budget generally allocated to the army was redirected to the Regia Marina, creating an imbalance in equipment production.\n\nWe could try to adjust the budget to return to something equal for all three branches, but perhaps the key to victory lies in the domination of the seas?"
+ r56_italy.29.d:0	"Since the end of the Great War, the Italian government has set itself the objective of dominating the Mediterranean and, to achieve this, has launched major projects to modernize the navy. However, these projects have a cost. Thus, part of the budget generally allocated to the army was redirected to the Regia Marina, creating an imbalance in equipment production.[~[~\n~][~\n~]~]We could try to adjust the budget to return to something equal for all three branches, but perhaps the key to victory lies in the domination of the seas?"
  r56_italy.29.a:0	"We must return to a balanced budget!"
  r56_italy.29.b:0	"The budget is fine as it is."
  r56_italy.29.c:0	"More funding for the Regia Marina!"
@@ -182,7 +182,7 @@
  r56_italy.30.a:0	"Okay. Will do!"
 
  r56_italy.31.t:0	"Italo Balbo Killed in an Accident"
- r56_italy.31.d:0	"While he was a passenger on a Savoia-Marchetti SM.79 scheduled to land in Tobruk, Libya, Italo Balbo's plane was mistaken for an enemy fighter and was shot down by anti-aircraft batteries supposed to defend the airstrip.\n\nA hero of Italian aviation and one of the main organizers of the Partito Nazionale Fascista and the March on Rome, he was one of the foremost popularizers of aviation in Italy."
+ r56_italy.31.d:0	"While he was a passenger on a Savoia-Marchetti SM.79 scheduled to land in Tobruk, Libya, Italo Balbo's plane was mistaken for an enemy fighter and was shot down by anti-aircraft batteries supposed to defend the airstrip.[~[~\n~][~\n~]~]A hero of Italian aviation and one of the main organizers of the Partito Nazionale Fascista and the March on Rome, he was one of the foremost popularizers of aviation in Italy."
  r56_italy.31.a:0	"Today we lost more than an aviator; we lost a legend."
 
  r56_italy.32.t:0	"[[~GRE.GetNameDefCap~]] Protects Albania"
@@ -212,11 +212,11 @@
  r56_italy.107.t:0	"Victor Emmanuel III Takes Power"
  r56_italy.107.d:0	"With Italy fully reestablished, king Victor Emmanuel has assumed power for the time being. The king has promised that the government will hold a referendum on the monarchy in a year."
  r56_italy.107.a:0	"An interesting development."
- ITA_referendum_year_tt:0	"A §YReferendum on the Monarchy§! will be held in a year; if a majority votes against the monarchy, new elections will take place."
+ ITA_referendum_year_tt:0	"A [~§Y~]Referendum on the Monarchy[~§!~] will be held in a year; if a majority votes against the monarchy, new elections will take place."
  r56_italy.107.b:0	"Long live Victor Emmanuel III!"
 
  r56_italy.108.t:0	"Referendum on the Monarchy"
- r56_italy.108.desc:0	"The recent times for [[~ITA.GetNameDef~]] have been no short of a troubled one, but now with power once again reconsolidated and stability restored, we can finally turn to the main focus, the monarchy of Italy.\n\nThe monarchy of Italy has led the nation and acted a unifying force for the peninsula, however in recent years it has received heavy backlash for openly Mussolini's National Fascist Party. Some call for the monarchy to be ousted in favor of a fully independent new Italian republic and others call for Victor Emmanuel to continue his position and keep acting as a unifying force in the new Italy, some have even suggested that Emmanuel abdicates the throne to his son Umberto II to act as a compromise.\n\nThe final result lays in a free referendum by the people to determine the fate of the monarchy, while the whole fate of the decades long Italian monarchy lays in the balance."
+ r56_italy.108.desc:0	"The recent times for [[~ITA.GetNameDef~]] have been no short of a troubled one, but now with power once again reconsolidated and stability restored, we can finally turn to the main focus, the monarchy of Italy.[~[~\n~][~\n~]~]The monarchy of Italy has led the nation and acted a unifying force for the peninsula, however in recent years it has received heavy backlash for openly Mussolini's National Fascist Party. Some call for the monarchy to be ousted in favor of a fully independent new Italian republic and others call for Victor Emmanuel to continue his position and keep acting as a unifying force in the new Italy, some have even suggested that Emmanuel abdicates the throne to his son Umberto II to act as a compromise.[~[~\n~][~\n~]~]The final result lays in a free referendum by the people to determine the fate of the monarchy, while the whole fate of the decades long Italian monarchy lays in the balance."
  r56_italy.108.d2:0	"Today marks a historic day in Italian history as the monarchy was voted to be abolished, the fate of king Umberto and his family remains unknown." #anti-monarchy
  r56_italy.108.a:0	"Though troubled, Victor Emmanuel III is the only king for Italy."
  r56_italy.108.b:0	"Force Victor Emmanuel to abdicate in favor of his son, Umberto II."
@@ -229,9 +229,9 @@
 
  # Ideas
  ITA_lack_of_powered_planes:0	"Lack of Powerful Motors"
- ITA_lack_of_powered_planes_desc:0	"One of the main weaknesses of the [[~ITA.GetADjective~]] Air Force is the lack of horsepower in the aircraft produced, leaving a stain on the rest of the plane's equipment.\nA significant modernization of our engine production capacities is necessary to solve this problem. Our aircraft lacking speed can be severely damaging in an era where planes are only going faster every year."
+ ITA_lack_of_powered_planes_desc:0	"One of the main weaknesses of the [[~ITA.GetADjective~]] Air Force is the lack of horsepower in the aircraft produced, leaving a stain on the rest of the plane's equipment.[~\n~]A significant modernization of our engine production capacities is necessary to solve this problem. Our aircraft lacking speed can be severely damaging in an era where planes are only going faster every year."
  ITA_bloated_military_bureaucracy:0	"Bloated Military Bureaucracy"
- ITA_bloated_military_bureaucracy_desc:0	"The army's overly strong tendency to favor style over performance has made it more complex to modernize.\nAny technical or organizational innovation that would challenge the prestige of the high command is rejected, forcing it to use tactics dating back to the Great War."
+ ITA_bloated_military_bureaucracy_desc:0	"The army's overly strong tendency to favor style over performance has made it more complex to modernize.[~\n~]Any technical or organizational innovation that would challenge the prestige of the high command is rejected, forcing it to use tactics dating back to the Great War."
  ITA_bloated_military_bureaucracy_end_corruption:0	"Bloated Military Bureaucracy"
  ITA_fresh_doctrines:0	"Fresh Doctrines"
  ITA_the_backbone_of_the_party_2:0	"The Backbone of the Party"
@@ -282,7 +282,7 @@
  ITA_the_desillusion_of_fascism_desc:0	"" #//WIP
  ITA_ratify_the_stresa_front:0	"Revive the Stresa Front"
  ITA_ratify_the_stresa_front_desc:0	"The Stresa Front was an agreement between Italy, France, and the United Kingdom to maintain Austria's independence and a reaffirmation of the Treaty of Versailles. [[~GER.GetNameDefCap~]]'s ambitions will eventually come up against ours, so we should unite against them."
- ITA_ratify_the_stresa_front_tt:0	"We will ask §Y[[~ENG.GetNameDef~]]§! and §Y[[~FRA.GetNameDef~]]§! to reform the §YStresa Front§! against §Y[[~GER.GetNameDef~]]§!. They both need to accept the offer, otherwise this focus will be §Rabandoned§!.\n"
+ ITA_ratify_the_stresa_front_tt:0	"We will ask [~§Y~][[~ENG.GetNameDef~]][~§!~] and [~§Y~][[~FRA.GetNameDef~]][~§!~] to reform the [~§Y~]Stresa Front[~§!~] against [~§Y~][[~GER.GetNameDef~]][~§!~]. They both need to accept the offer, otherwise this focus will be [~§R~]abandoned[~§!~].[~\n~]"
  ITA_stresa_front_refused_flag:0	"The Reformation of the Stresa Front was declined."
  ITA_leave_the_league_of_nations:0	"Leave the League of Nations"
  ITA_leave_the_league_of_nations_desc:0	"The League of Nations, whose inability has been proven, has nevertheless seen fit to condemn our invasion of Ethiopia. We do not need their support or confirmation to know what is good for [[~ITA.GetnameDef~]], and we should leave it."
@@ -297,7 +297,7 @@
  ITA_joint_austrian_gaurantee:0	"Joint [[~AUS.GetNameDef~]] Guarantee"
  ITA_joint_austrian_gaurantee_desc:0	"For years now, Germany has had views on Austria in their "Anschluss" project, despite the apparent violation of the Treaty of Versailles and the Treaty of Saint-Germain-en-Laye. A joint guarantee from us and our allies will deter it."
  protected_by_the_stresa_front_flag:0	"Protected by the Stresa Front"
- ITA_joint_austrian_gaurantee_tt:0	"[[~AUS.GetNameDef~]] will now §Galways§! refuse the §YAnschluss§!\n"
+ ITA_joint_austrian_gaurantee_tt:0	"[[~AUS.GetNameDef~]] will now [~§G~]always[~§!~] refuse the [~§Y~]Anschluss[~§!~][~\n~]"
  ITA_scientific_cooperation_r56:0	"Scientific Cooperation"
  ITA_scientific_cooperation_r56_desc:0	"[[~GER.GetAdjective~]] scientists have made many advances, including armored vehicles or rockets. Scientific cooperation between our two nations could only be beneficial to us."
  ITA_the_italian_tiger:0	"The Italian Tiger"
@@ -421,7 +421,7 @@
  ITA_expand_the_iri_role:0	"Expand the IRI's Role"
  ITA_end_the_army_corruption:0	"End the Army's Corruption"
  ITA_end_the_army_corruption_desc:0	"Our policy of favoritism towards party members has given us a loyal army. However, at the same time, it has found itself corrupted and led by people who favor increasing their influence in the military rather than its modernization. It is time to stop this and return to a system based on merit."
- ITA_end_the_army_corruption_tt:0	"Some generals will be §Ydismissed§!"
+ ITA_end_the_army_corruption_tt:0	"Some generals will be [~§Y~]dismissed[~§!~]"
  ITA_the_backbone_of_the_party:0	"The Backbone of the Party"
  ITA_the_backbone_of_the_party_desc:0	"The army and its glorification made the Partito Nazionale Fascista powerful. We should continue our policy of glorifying the military and its officers, thus ensuring greater political control."
  ITA_adapt_great_war_tactics_to_our_era:0	"Adapt Great W"
@@ -450,10 +450,10 @@
  ITA_high_command_loyalty_desc:0	"Our efforts to strengthen the ideas of the high command enable us to ensure the latter's unfailing loyalty."
  ITA_war_without_bloodshed:0	"War without Bloodshed"
  ITA_war_without_bloodshed_desc:0	"Using violence would solve the problem faster, but it could backfire very severely, and at such a crucial time, we cannot afford it. Using a political strategy to reduce the fascists' influence gradually would allow a smooth transition."
- ITA_war_without_bloodshed_tt:0	"The §GFascists§! will take much longer to weaken, but will cement §gMonarchists§!"
+ ITA_war_without_bloodshed_tt:0	"The [~§G~]Fascists[~§!~] will take much longer to weaken, but will cement [~§g~]Monarchists[~§!~]"
  ITA_meet_with_messe:0	"Meet with Messe"
  ITA_meet_with_messe_desc:0	"Because of the glory enjoyed by Giovanni Messe, our Minister of the Interior and fervent royalist, he is highly respected but, above all, has influence. We could use potential royalists infiltrated into fascist institutions to destroy them from within."
- ITA_meet_with_messe_tt:0	"The §Gfascists§! will be much weaker, but this will not necessarily benefit the §gmonarchists§!, and could backfire."
+ ITA_meet_with_messe_tt:0	"The [~§G~]fascists[~§!~] will be much weaker, but this will not necessarily benefit the [~§g~]monarchists[~§!~], and could backfire."
  ITA_victory_in_the_civil_war:0	"Victory in the Civil War"
  ITA_victory_in_the_civil_war_desc:0	"We have finally eliminated the fascist traitors of our beautiful Italian nation. Reconstruction will take time, but we are moving forward knowing that we have avoided the worst that could have happened to us."
  ITA_restore_elections:0	"Restore Elections"
@@ -604,7 +604,7 @@
  ITA_defenders_of_southern_europe_desc:0	"" #//WIP
  ITA_formalise_the_front:0	"Formalise the Front"
  ITA_formalise_the_front_desc:0	"It is time to make the Stresa Front more than a promise; we will unite our nations into a joint military alliance to keep the German beast at bay."
- ITA_formalise_the_front_tt:0	"§YEvery country§! that is in a faction with §Y[[~ENG.GetNameDef~]]§! joins the §YStresa Front§! led by §Y[[~ITA.GetNameDef~]]§!."
+ ITA_formalise_the_front_tt:0	"[~§Y~]Every country[~§!~] that is in a faction with [~§Y~][[~ENG.GetNameDef~]][~§!~] joins the [~§Y~]Stresa Front[~§!~] led by [~§Y~][[~ITA.GetNameDef~]][~§!~]."
  ITA_invite_croatia:0	"Invite Croatia"
  ITA_invite_croatia_desc:0	"Despite some frictions due to our claims on Dalmatia, allying with Croatia could secure our flank while we would expand our sphere of influence into the Balkans."
  ITA_finance_anic:0	"Finance Anic"
@@ -620,7 +620,7 @@ POLITICS_ITALO_BALBO_DESC:	"Italo Balbo"
 
 #Ideas
  vittoria_mutilata:0	"Vittoria Mutilata"
- vittoria_mutilata_desc:0	"§LOur allies betrayed Italy and stabbed us in the back when they broke the Pact of London. We sacrificed so much blood at the Isonzo for their victory, and they, in turn, denied us what was rightfully ours. Now Italy will take her destiny into her own hands to correct this injustice.§!"
+ vittoria_mutilata_desc:0	"[~§L~]Our allies betrayed Italy and stabbed us in the back when they broke the Pact of London. We sacrificed so much blood at the Isonzo for their victory, and they, in turn, denied us what was rightfully ours. Now Italy will take her destiny into her own hands to correct this injustice.[~§!~]"
  ITA_giovanni_marinelli:0	"Giovanni Marinelli"
  ITA_gian_galeazzo_ciano:0	"Gian Galeazzo Ciano"
  ITA_roberto_farinacci:0	"Roberto Farinacci"
@@ -687,7 +687,7 @@ r56_ITA_vanquish_ethiopia:0	"Vanquish Ethiopia"
 SAD_move_capital_to_turin:0	"Move the Capital to Turin"
 ITA_REBORN_move_capital_to_rome:0	"Move the Capital to Rome"
 
-ITA_follow_pariani_plan_re_tt:0	"$ITA_modify_regio_esercito_dynamic_modifier_ns_intro$ \nArmy Experience Gain Factor: §G+10.0%§! \nArmy Attack Factor: §G+5.0%§! \nMaximum Command Power Increase Multiplier: §G+20.00%§! \n\n"
+ITA_follow_pariani_plan_re_tt:0	"$ITA_modify_regio_esercito_dynamic_modifier_ns_intro$ [~\n~]Army Experience Gain Factor: [~§G~]+10.0%[~§!~] [~\n~]Army Attack Factor: [~§G~]+5.0%[~§!~] [~\n~]Maximum Command Power Increase Multiplier: [~§G~]+20.00%[~§!~] [~[~\n~][~\n~]~]"
 
 #overriding silly stuff BBA
  ITA_balkan_ambition:0	"Claims on Yugoslavia"  #wont work?

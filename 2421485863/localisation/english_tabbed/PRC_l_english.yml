@@ -1,56 +1,56 @@
 ﻿l_english:
  ####################### TOOLTIPS ################
- prc_sov_supply_tt:0	"Is the neighbour of one of the following:\n       §YSoviet Union§!\n       Faction member of §YSoviet Union§!\n       Communist §YSinkiang§! with positive opinion towards §YSoviet Union§!."
+ prc_sov_supply_tt:0	"Is the neighbour of one of the following:[~\n~]       [~§Y~]Soviet Union[~§!~][~\n~]       Faction member of [~§Y~]Soviet Union[~§!~][~\n~]       Communist [~§Y~]Sinkiang[~§!~] with positive opinion towards [~§Y~]Soviet Union[~§!~]."
 
- prc_sov_supply_eff_tt:0	"§YSoviet reinforcements and supplies will arrive at Yan'an in a few days§!."
+ prc_sov_supply_eff_tt:0	"[~§Y~]Soviet reinforcements and supplies will arrive at Yan'an in a few days[~§!~]."
 
- prc_long_march_tt:0	"§YWe will recover from the Long March sooner§!\n\n"
+ prc_long_march_tt:0	"[~§Y~]We will recover from the Long March sooner[~§!~][~[~\n~][~\n~]~]"
 
- prc_west_expedition_tt:0	"Three divisions designated for the expedition will assemble at Yan'an.\n\n"
+ prc_west_expedition_tt:0	"Three divisions designated for the expedition will assemble at Yan'an.[~[~\n~][~\n~]~]"
 
- prc_east_expedition_tt:0	"Two divisions designated for this operation will assemble at Yan'an.\n\n"
+ prc_east_expedition_tt:0	"Two divisions designated for this operation will assemble at Yan'an.[~[~\n~][~\n~]~]"
 
- prc_front_infras_tt:0	"Add 2 §YInfrastructures§! in all owned states neighbouring §YJapan§! and its puppets."
+ prc_front_infras_tt:0	"Add 2 [~§Y~]Infrastructures[~§!~] in all owned states neighbouring [~§Y~]Japan[~§!~] and its puppets."
 
  prc_root_out_defeatism_tt:0	"The Japanese have been chased off the mainland."
 
- prc_set_government_rank:0	"Change country name to §YPeople's Republic of China§!.\n"
+ prc_set_government_rank:0	"Change country name to [~§Y~]People's Republic of China[~§!~].[~\n~]"
 
  prc_eliminate_iliteracy_tt:0	"We will gradually receive more skilled personnel."
 
- PRC_zxl_will_become_leader_if_agree:0	"§YZhang Xueliang will become the leader of the Grand Northwest Union after the corresponding focus is completed.\n§!"
+ PRC_zxl_will_become_leader_if_agree:0	"[~§Y~]Zhang Xueliang will become the leader of the Grand Northwest Union after the corresponding focus is completed.[~\n~][~§!~]"
 
- prc_preserve:0	"Enables §HSelf-Preservation§!\nAll Infantry : \n    Trickleback : §G+0.2%§!\n    Experience Loss : §G-1.0%§!"
+ prc_preserve:0	"Enables [~§H~]Self-Preservation[~§!~][~\n~]All Infantry : [~\n~]    Trickleback : [~§G~]+0.2%[~§!~][~\n~]    Experience Loss : [~§G~]-1.0%[~§!~]"
 
- PRC_mountain_training_tt:0	"Enables §HMountain Warfare§!\nAll Infantry : \n    §HMountain§!\n      Movement: §G+10%§!\n    §HHills§!\n      Movement: §G+10%§!\n\n§HMarines\n    Mountain§!\n      Attack: §G+5%§!\n    §HHills§!\n      Attack: §G+5%§!\n      \n§HMountaineers\n    Mountain§!\n      Attack: §G+5%§!\n    §HHills§!\n      Attack: §G+5%§!\n      \n§HParatroopers\n    Mountain§!\n      Attack: §G+5%§!\n    §HHills§!\n      Attack: §G+5%§!\n\nGain 2 elite mountaineers division.\n"
+ PRC_mountain_training_tt:0	"Enables [~§H~]Mountain Warfare[~§!~][~\n~]All Infantry : [~\n~]    [~§H~]Mountain[~§!~][~\n~]      Movement: [~§G~]+10%[~§!~][~\n~]    [~§H~]Hills[~§!~][~\n~]      Movement: [~§G~]+10%[~§!~][~[~\n~][~\n~]~][~§H~]Marines[~\n~]    Mountain[~§!~][~\n~]      Attack: [~§G~]+5%[~§!~][~\n~]    [~§H~]Hills[~§!~][~\n~]      Attack: [~§G~]+5%[~§!~][~\n~]      [~\n~][~§H~]Mountaineers[~\n~]    Mountain[~§!~][~\n~]      Attack: [~§G~]+5%[~§!~][~\n~]    [~§H~]Hills[~§!~][~\n~]      Attack: [~§G~]+5%[~§!~][~\n~]      [~\n~][~§H~]Paratroopers[~\n~]    Mountain[~§!~][~\n~]      Attack: [~§G~]+5%[~§!~][~\n~]    [~§H~]Hills[~§!~][~\n~]      Attack: [~§G~]+5%[~§!~][~[~\n~][~\n~]~]Gain 2 elite mountaineers division.[~\n~]"
 
- PRC_yhc_join:0	"§YYang Hucheng§! will join our army\n"
+ PRC_yhc_join:0	"[~§Y~]Yang Hucheng[~§!~] will join our army[~\n~]"
 
- PRC_resore_dbj_glory_tt:0	"Own and control the following states :\n    §YJehol§!\n    §YLiaotung§!\n    §YKirin§!\n    §YLiaoning§!\n"
+ PRC_resore_dbj_glory_tt:0	"Own and control the following states :[~\n~]    [~§Y~]Jehol[~§!~][~\n~]    [~§Y~]Liaotung[~§!~][~\n~]    [~§Y~]Kirin[~§!~][~\n~]    [~§Y~]Liaoning[~§!~][~\n~]"
 
- PRC_create_wargoal_for_db_tt:0	"Gain war goal against owner or overlord of owner of the following states :\n    §YLiaotung§!\n    §YLiaoning§!\n    §YJehol§!\n    §YKirin§!\n    §YSungkiang§!\n    §YEast Hulunbuir§!\n    §YNorth Xing'an§!\n    §YEast Xing'an§!\n    §YKanto-shu§!\n    §YEast Hebei§!\n    §YCahar§!\n    §YSouth Cahar§!\n"
+ PRC_create_wargoal_for_db_tt:0	"Gain war goal against owner or overlord of owner of the following states :[~\n~]    [~§Y~]Liaotung[~§!~][~\n~]    [~§Y~]Liaoning[~§!~][~\n~]    [~§Y~]Jehol[~§!~][~\n~]    [~§Y~]Kirin[~§!~][~\n~]    [~§Y~]Sungkiang[~§!~][~\n~]    [~§Y~]East Hulunbuir[~§!~][~\n~]    [~§Y~]North Xing'an[~§!~][~\n~]    [~§Y~]East Xing'an[~§!~][~\n~]    [~§Y~]Kanto-shu[~§!~][~\n~]    [~§Y~]East Hebei[~§!~][~\n~]    [~§Y~]Cahar[~§!~][~\n~]    [~§Y~]South Cahar[~§!~][~\n~]"
 
- PRC_xbj_join_tt:0	"Gain 3 divisions\n"
+ PRC_xbj_join_tt:0	"Gain 3 divisions[~\n~]"
 
- PRC_turn_fascist_when_select_tt:0	"Mao and some of the communists will be executed when the focus is selected.\n§RSelecting this focus also make the fascist party becomes the ruling party§!\n\n"
+ PRC_turn_fascist_when_select_tt:0	"Mao and some of the communists will be executed when the focus is selected.[~\n~][~§R~]Selecting this focus also make the fascist party becomes the ruling party[~§!~][~[~\n~][~\n~]~]"
 
  PRC_same_ideology_with_jap:0	"Has the same ideology with [[~JAP.GetName~]]"
 
- PRC_get_wargoal_for_fareast_tt:0	"Gain war goal for owner or overlord of owner of the following states :\n    §YVladivostok§!\n    §YKhabarovsk§!\n    §YBirobidzhan§!\n    §YNikolayevsk§!\n    §YAmur§!\n    §YNorth Sakhalin§!\n"
+ PRC_get_wargoal_for_fareast_tt:0	"Gain war goal for owner or overlord of owner of the following states :[~\n~]    [~§Y~]Vladivostok[~§!~][~\n~]    [~§Y~]Khabarovsk[~§!~][~\n~]    [~§Y~]Birobidzhan[~§!~][~\n~]    [~§Y~]Nikolayevsk[~§!~][~\n~]    [~§Y~]Amur[~§!~][~\n~]    [~§Y~]North Sakhalin[~§!~][~\n~]"
 
- PRC_if_completed_pact_focus_tt:0	"\nIf has completed focus §YA Pact With Japan§!, effect will become as follow:\n\n"
+ PRC_if_completed_pact_focus_tt:0	"[~\n~]If has completed focus [~§Y~]A Pact With Japan[~§!~], effect will become as follow:[~[~\n~][~\n~]~]"
 
- PRC_if_completed_pact_focus_add_tt:0	"\nIf has completed focus §YA Pact With Japan§!, this focus will not grant national spirit\n\n"
+ PRC_if_completed_pact_focus_add_tt:0	"[~\n~]If has completed focus [~§Y~]A Pact With Japan[~§!~], this focus will not grant national spirit[~[~\n~][~\n~]~]"
 
- PRC_feng_clique_generals_join_tt:0	"§YMa Zhanshan§!, §YHe Zhuguo§!, §YYu Xuezhong§! and §YZhang Zuoxiang§! will join our army.\n\n"
+ PRC_feng_clique_generals_join_tt:0	"[~§Y~]Ma Zhanshan[~§!~], [~§Y~]He Zhuguo[~§!~], [~§Y~]Yu Xuezhong[~§!~] and [~§Y~]Zhang Zuoxiang[~§!~] will join our army.[~[~\n~][~\n~]~]"
 
  chi_accept_prc71_no_tt:0	"[[~CHI.GetName~]] has not accepted our proposal"
 
- PRC_flag_replacement_tt:0	"Control the following states :\n    §YJehol§!\n    §YLiaotung§!\n    §YKirin§!\n    §YLiaoning§!\n"
+ PRC_flag_replacement_tt:0	"Control the following states :[~\n~]    [~§Y~]Jehol[~§!~][~\n~]    [~§Y~]Liaotung[~§!~][~\n~]    [~§Y~]Kirin[~§!~][~\n~]    [~§Y~]Liaoning[~§!~][~\n~]"
 
  has_pact_with_jap_tt:0	"Has pact with [[~JAP.GetName~]]"
 
- prc_msp_tt:0	"Lower the penalty from §YLack Skilled Personnel§!.\n"
+ prc_msp_tt:0	"Lower the penalty from [~§Y~]Lack Skilled Personnel[~§!~].[~\n~]"
 
  prc_more_trade_deals_tt:0	"Trading is now more convenient"
 
@@ -58,9 +58,9 @@
 
  prc_more_trade_deals_and_construct_tt:0	"Our industry and trade will grow a little bit stronger."
 
- prc_1_tt:0	"3 infantry divisions and 1 armor brigade will arrive at Yan'an.\n\n"
+ prc_1_tt:0	"3 infantry divisions and 1 armor brigade will arrive at Yan'an.[~[~\n~][~\n~]~]"
 
- prc_no_generals_transfer:0	"§RThe current generals will not tolerate the communist, and will leave our military.§!"
+ prc_no_generals_transfer:0	"[~§R~]The current generals will not tolerate the communist, and will leave our military.[~§!~]"
 
  prc_sov_reinforcements:0	"Receive 8 divisions from [[~SOV.GetName~]]"
 
@@ -72,21 +72,21 @@
 
  PRC_restart_CHI_war:0	"Either PRC or Republic of China declared war on each other."
 
- PRC_no_wargoal_to_chi_when_ok_tt:0	"§RWill not gain war goal against [[~CHI.GetName~]] with §YEnforce Our Goal§! focus.§!\n"
+ PRC_no_wargoal_to_chi_when_ok_tt:0	"[~§R~]Will not gain war goal against [[~CHI.GetName~]] with [~§Y~]Enforce Our Goal[~§!~] focus.[~§!~][~\n~]"
 
- PRC_random_amount_of_partisan_tt:0	"§Y2 - 6 Guerilla units will accept our bribe and join our army§!\n"
+ PRC_random_amount_of_partisan_tt:0	"[~§Y~]2 - 6 Guerilla units will accept our bribe and join our army[~§!~][~\n~]"
 
- PRC_wait_for_civil_war_tt:0	"This event will fire again when the Japanese civil war event fires.\n"
+ PRC_wait_for_civil_war_tt:0	"This event will fire again when the Japanese civil war event fires.[~\n~]"
 
- PRC_takeover_dongbei_tt:0	"[[~PRC.GetName~]] takes over states in Manchuria owned by [[~JAP.GetName~]] or her puppets.\n"
+ PRC_takeover_dongbei_tt:0	"[[~PRC.GetName~]] takes over states in Manchuria owned by [[~JAP.GetName~]] or her puppets.[~\n~]"
 
- KMT_commie_generals_join_tt:0	"§YLin Biao§!, §YZhu De§!, §YChen Yi§! and §YPeng Dehuai§! join our army."
+ KMT_commie_generals_join_tt:0	"[~§Y~]Lin Biao[~§!~], [~§Y~]Zhu De[~§!~], [~§Y~]Chen Yi[~§!~] and [~§Y~]Peng Dehuai[~§!~] join our army."
 
- KMT_hundred_flowers_tt:0	"This is a plot to expose malefactors, however, their critiques §Rmay sway our people's will§! as they can become more attracted to other parties §Gbefore we arrest those malefactors§!."
+ KMT_hundred_flowers_tt:0	"This is a plot to expose malefactors, however, their critiques [~§R~]may sway our people's will[~§!~] as they can become more attracted to other parties [~§G~]before we arrest those malefactors[~§!~]."
 
- PRC_great_leap_timespan:0	"§YGreat Leap Forward§! is expected to last for §Gseveral§! years, yet it might be aborted after §Rone year§! should it be disastrous for our economy..."
+ PRC_great_leap_timespan:0	"[~§Y~]Great Leap Forward[~§!~] is expected to last for [~§G~]several[~§!~] years, yet it might be aborted after [~§R~]one year[~§!~] should it be disastrous for our economy..."
 
- KMT_leap_stop:0	"§YGreat Leap Forward§! policy has come to an end."
+ KMT_leap_stop:0	"[~§Y~]Great Leap Forward[~§!~] policy has come to an end."
 
 
 
@@ -98,7 +98,7 @@
  PRC_question_of_our_capital_decision_desc:0	"Peoples Revolution will gain even more support among workers and peasants if we officially proclaim the establishment of [[~PRC.getNameDef~]] in our newly gained capital."
 
  PRC_the_new_communist_beacon:0	"The New Communist Beacon"
- PRC_the_new_communist_beacon_desc:0	"The Revolutionary Struggle shall never end, for as long as oppressors, colonizers, imperialists and enemies of the people exist! \nWith a few swift strokes we can destroy anti-governmental cells outside and within of [[~ROOT.getNameDef~]]. \nThe time has come for Da Zhonghua Diqu to rise and prosper!"
+ PRC_the_new_communist_beacon_desc:0	"The Revolutionary Struggle shall never end, for as long as oppressors, colonizers, imperialists and enemies of the people exist! [~\n~]With a few swift strokes we can destroy anti-governmental cells outside and within of [[~ROOT.getNameDef~]]. [~\n~]The time has come for Da Zhonghua Diqu to rise and prosper!"
  PRC_hundred_flowers_campaign_progress:0	"Hundred Flowers Campaign Progress"
 
  PRC_offer_a_separate_peace_to_japan:0	"Offer a Separate Peace to Japan"
@@ -108,7 +108,7 @@
  PRC_sov_approve:0	"Soviets approved our proposal"
  lin_biao:0	"Lin Biao has seized power"
  deng_xiao_ping:0	"Deng Xiaoping has seized power"
- prc_capital_decided:0	"§YSettle the Question of the Capital§! decision was taken."
+ prc_capital_decided:0	"[~§Y~]Settle the Question of the Capital[~§!~] decision was taken."
  CR_ended:0	"Cultural Revolution has ended"
  death_of_zel:0	"Zhou Enlai has passed away"
  month_countercurrent:0	"Has been criticized during the Cultural Revolution"
@@ -147,7 +147,7 @@
  PRC_devastating_long_march_1_desc:0	"We are now going back on track, the effect of the Long March will soon be mitigated."
 
  PRC_guerilla_warfare:0	"Guerilla Warfare"
- PRC_guerilla_warfare_desc:0	"We are not even close to be called a 'nation' or 'country', our movement is merely a kind of guerilla fighters against the Kuomintang. \n"
+ PRC_guerilla_warfare_desc:0	"We are not even close to be called a 'nation' or 'country', our movement is merely a kind of guerilla fighters against the Kuomintang. [~\n~]"
 
  PRC_lack_skilled_personnel:0	"Lack Skilled Personnel"
  PRC_lack_skilled_personnel_desc:0	"Many of our comrades had died during the Long March, causing a lack of skilled personnel among our ranks. This will be difficult for us to gain any kind of technological improvements."
@@ -156,7 +156,7 @@
  PRC_swift_victory_idea_desc:0	"If we are to win the war against the Japanese invaders, we must act fast and strike before they know it."
 
  propaganda_recruits:0	"Propaganda Recruits"
- propaganda_recruits_desc:0	"We are currently relying on our propaganda to attract new bloods into our ranks, this is not very efficient but it will strengthen our people's will nonetheless.\n"
+ propaganda_recruits_desc:0	"We are currently relying on our propaganda to attract new bloods into our ranks, this is not very efficient but it will strengthen our people's will nonetheless.[~\n~]"
 
  PRC_mc_corporation:0	"Military Civilian Cooperation"
 
@@ -188,13 +188,13 @@
  PRC_uncertainty_of_new_theory_desc:0	"Adopting a new doctrine that abandon all previous strategy has create some worries about the it."
 
  PRC_maybe_theory_is_ok:0	"Confidence In New Doctrine"
- PRC_maybe_theory_is_ok_desc:0	"The newly adopted doctrine prove to be successful, our army has been fully accustomed to the new combat style.\n\n§RIf the war beginning to not going to your favor, your army may lose their confidence in it.§!"
+ PRC_maybe_theory_is_ok_desc:0	"The newly adopted doctrine prove to be successful, our army has been fully accustomed to the new combat style.[~[~\n~][~\n~]~][~§R~]If the war beginning to not going to your favor, your army may lose their confidence in it.[~§!~]"
 
  PRC_enemy_partisan:0	"Enemy Partisans Behind Our Frontline"
- PRC_enemy_partisan_desc:0	"Our enemy's partisans have establish ground deep behind our frontline, causing damage to supply routes and slowing down our troops.\n\n§RThis National Spirit will expire when the war with PRC is over.§!\n\n§RPeriodic Building Damage On Chinese Core States Controlled By Us§!"
+ PRC_enemy_partisan_desc:0	"Our enemy's partisans have establish ground deep behind our frontline, causing damage to supply routes and slowing down our troops.[~[~\n~][~\n~]~][~§R~]This National Spirit will expire when the war with PRC is over.[~§!~][~[~\n~][~\n~]~][~§R~]Periodic Building Damage On Chinese Core States Controlled By Us[~§!~]"
 
  PRC_exploit_our_enemys_mistake_idea:0	"Exploit Our Enemy's Mistake"
- PRC_exploit_our_enemys_mistake_idea_desc:0	"Our enemy's frontline operation is not very well-coordinated, we can use this to our advantage and exploit it as much as we could.\n\n§RThis National Spirit will expire when the war with Japan is over.§!"
+ PRC_exploit_our_enemys_mistake_idea_desc:0	"Our enemy's frontline operation is not very well-coordinated, we can use this to our advantage and exploit it as much as we could.[~[~\n~][~\n~]~][~§R~]This National Spirit will expire when the war with Japan is over.[~§!~]"
 
  improper_frontline_command:0	"Flaws In Frontline Operation"
  improper_frontline_command_desc:0	"The flaws in our frontline operation is starting to show up, and our enemy is starting to use them as their advantages."
@@ -209,10 +209,10 @@
  PRC_winter_training_idea:0	"Winter Training"
 
  PRC_revanchism:0	"Revanchism"
- PRC_revanchism_desc:0	"§RWill expire when not at war with Japan§!"
+ PRC_revanchism_desc:0	"[~§R~]Will expire when not at war with Japan[~§!~]"
 
  PRC_anti_jap_sentiment:0	"Anti-Japanese Sentiment"
- PRC_anti_jap_sentiment_desc:0	"§YWill gain buff when at war with Japan§!"
+ PRC_anti_jap_sentiment_desc:0	"[~§Y~]Will gain buff when at war with Japan[~§!~]"
 
  PRC_expanded_guerillas:0	"Expanded Guerilla Operation"
 
@@ -252,7 +252,7 @@
  PRC_secret_police:0	"Secret Police"
 
  PRC_enemy_partisan_1:0	"Enemy Partisans Behind Our Frontline"
- PRC_enemy_partisan_1_desc:0	"Our enemy's partisans have establish ground deep behind our frontline, causing damage to supply routes and slowing down our troops.\n\n§RThis National Spirit will expire when the war with PRC is over.§!\n\n§RPeriodic Building Damage On Chinese Core States Controlled By Us§!"
+ PRC_enemy_partisan_1_desc:0	"Our enemy's partisans have establish ground deep behind our frontline, causing damage to supply routes and slowing down our troops.[~[~\n~][~\n~]~][~§R~]This National Spirit will expire when the war with PRC is over.[~§!~][~[~\n~][~\n~]~][~§R~]Periodic Building Damage On Chinese Core States Controlled By Us[~§!~]"
 
  KMT_no_aid_famine_comm:0	"Refuse To Send Aid"
 
@@ -347,12 +347,12 @@
  political_rivalry:0	"Political Rival"
  revisionist_traitor:0	"Revisionist Traitor"
  PRC_swcc_1:0	"Better Trade"
- PRC_swcc_2:0	"\nBetter Trade"
- PRC_swcc_3:0	"\nBetter Trade"
- PRC_swcc_4:0	"\nBetter Trade"
- PRC_swcc_5:0	"\nBetter Trade"
- PRC_swcc_6:0	"\nBetter Trade"
- PRC_swcc_7:0	"\nBetter Trade"
+ PRC_swcc_2:0	"[~\n~]Better Trade"
+ PRC_swcc_3:0	"[~\n~]Better Trade"
+ PRC_swcc_4:0	"[~\n~]Better Trade"
+ PRC_swcc_5:0	"[~\n~]Better Trade"
+ PRC_swcc_6:0	"[~\n~]Better Trade"
+ PRC_swcc_7:0	"[~\n~]Better Trade"
  no_paycheck:0	"Refused to deliver paycheck"
  sik_no_coop:0	"Refused to cooperate"
  prc_no_coop:0	"Refused to cooperate"
@@ -376,8 +376,8 @@
 
 
  ####################### BOOKMARKS ################
- CHI_GATHERING_STORM_DESC:0	"Once the most powerful nation on the face of the Earth, China has been brought low by nearly a century of western imperialism and internal strife.\n\nChiang Kai-shek and the Kuomintang, the central government of China, now face threats from both the Japanese Empire, which has already annexed a vast swath of China, and Mao's Communists, who are currently holed up in the hills of Shaanxi. Surrounded on all sides, Chiang now prepares China for a war the likes of which the country has never seen."
- PRC_GATHERING_STORM_DESC:0	"The Chinese Communist Party is on the brink of destruction. After a failed revolution, Communist armies have been broken on all fronts by the KMT, the Communists fled from their bases in southern China to their new base in Shaanxi. From this catastrophe, a new leader emerged for the party: Mao Zedong.\n\nMao brings with him a radical new vision of communism, and a new strategy for survival and expansion. Perhaps the Communists could ally with their former enemies against a greater foe…"
+ CHI_GATHERING_STORM_DESC:0	"Once the most powerful nation on the face of the Earth, China has been brought low by nearly a century of western imperialism and internal strife.[~[~\n~][~\n~]~]Chiang Kai-shek and the Kuomintang, the central government of China, now face threats from both the Japanese Empire, which has already annexed a vast swath of China, and Mao's Communists, who are currently holed up in the hills of Shaanxi. Surrounded on all sides, Chiang now prepares China for a war the likes of which the country has never seen."
+ PRC_GATHERING_STORM_DESC:0	"The Chinese Communist Party is on the brink of destruction. After a failed revolution, Communist armies have been broken on all fronts by the KMT, the Communists fled from their bases in southern China to their new base in Shaanxi. From this catastrophe, a new leader emerged for the party: Mao Zedong.[~[~\n~][~\n~]~]Mao brings with him a radical new vision of communism, and a new strategy for survival and expansion. Perhaps the Communists could ally with their former enemies against a greater foe…"
 
 
 
@@ -883,23 +883,23 @@
  prc.4.a:0	"The progress will never stop!"
 
  prc.5.t:0	"Stalin Passed Away"
- prc.5.d:0	"Our glorious leader, Joseph Vissarionovich Stalin, had been invited by Karl Marx and left us yesterday. A great loss for the Soviet people.\n\nA power struggle has started as powerful members of the party compete for the vacant position left by Stalin."
+ prc.5.d:0	"Our glorious leader, Joseph Vissarionovich Stalin, had been invited by Karl Marx and left us yesterday. A great loss for the Soviet people.[~[~\n~][~\n~]~]A power struggle has started as powerful members of the party compete for the vacant position left by Stalin."
  prc.5.a:0	"A star falls..."
 
  prc.6.t:0	"[[~GetMonth~]] Outline"
- prc.6.d:0	"After our Great Chairman Mao criticize the drama 'Hai Rui Dismissed From Office', a group of people had form a group to mitigate the effect of the statement as much as possible by defining Great Chairman Mao's statement as from a academic perspective. As Great Chairman Mao had praised the drama as a nice representation of the class conflict within socialist state before.\n\nThis backtrack of Great Chairman Mao has caused a stir in the nation, all the press has this event as their headline and report on wide extent."
+ prc.6.d:0	"After our Great Chairman Mao criticize the drama 'Hai Rui Dismissed From Office', a group of people had form a group to mitigate the effect of the statement as much as possible by defining Great Chairman Mao's statement as from a academic perspective. As Great Chairman Mao had praised the drama as a nice representation of the class conflict within socialist state before.[~[~\n~][~\n~]~]This backtrack of Great Chairman Mao has caused a stir in the nation, all the press has this event as their headline and report on wide extent."
  prc.6.a:0	"Hope nothing comes out of this..."
 
  prc.7.t:0	"Cultural Revolution Begins"
- prc.7.d:0	"Great Chairman Mao has given out a notice stating that capitalism has corrupted some of the high ranking officials in the party, and that they must be pulled down from power. The notice also denied the outline published after Great Chairman Mao criticized the drama 'Hai Rui Dismissed From Office'.\n\nSome high ranking officials had been excommunicated from the Party in the same day."
+ prc.7.d:0	"Great Chairman Mao has given out a notice stating that capitalism has corrupted some of the high ranking officials in the party, and that they must be pulled down from power. The notice also denied the outline published after Great Chairman Mao criticized the drama 'Hai Rui Dismissed From Office'.[~[~\n~][~\n~]~]Some high ranking officials had been excommunicated from the Party in the same day."
  prc.7.a:0	"This does not look good..."
 
  prc.8.t:0	"Death of Lin Biao"
- prc.8.d:0	"Lin Biao, the hand-picked heir of Great Chairman Mao had died in a plane crash in Öndörkhaan. The documents on the plane indicates the victims to be Lin and some of his family members. The exact reason of the crash is still unknown.\n\nLin's relationship with Great Chairman Mao has been deteriorating since their different opinion on the abolition of the position of National Chairman. Lin was said to be responsible for some attempted assassination of Great Chairman Mao and was believed to flee because of the fear of being the next target of the Red Guard."
+ prc.8.d:0	"Lin Biao, the hand-picked heir of Great Chairman Mao had died in a plane crash in Öndörkhaan. The documents on the plane indicates the victims to be Lin and some of his family members. The exact reason of the crash is still unknown.[~[~\n~][~\n~]~]Lin's relationship with Great Chairman Mao has been deteriorating since their different opinion on the abolition of the position of National Chairman. Lin was said to be responsible for some attempted assassination of Great Chairman Mao and was believed to flee because of the fear of being the next target of the Red Guard."
  prc.8.a:0	"This is going out of control!"
 
  prc.10.t:0	"Lin Biao Fled To [[~PRC_linbiao_flee_target.GetName~]]"
- prc.10.d:0	"Lin Biao, the hand-picked heir of Great Chairman Mao had fled to [[~PRC_linbiao_flee_target.GetName~]] and had arrived at [[~PRC_linbiao_flee_target.Capital.GetName~]] by plane. The Party and Great Chairman Mao announced that Lin fled because he feared he would be prosecuted for attempted assassination of Great Chairman Mao, thus seek asylum in [[~PRC_linbiao_flee_target.GetName~]].\n\nThe Red Guard has start criticizing Lin and his family members that did not participate in the flight, whom were beat to death by the Red Guard afterwards."
+ prc.10.d:0	"Lin Biao, the hand-picked heir of Great Chairman Mao had fled to [[~PRC_linbiao_flee_target.GetName~]] and had arrived at [[~PRC_linbiao_flee_target.Capital.GetName~]] by plane. The Party and Great Chairman Mao announced that Lin fled because he feared he would be prosecuted for attempted assassination of Great Chairman Mao, thus seek asylum in [[~PRC_linbiao_flee_target.GetName~]].[~[~\n~][~\n~]~]The Red Guard has start criticizing Lin and his family members that did not participate in the flight, whom were beat to death by the Red Guard afterwards."
  prc.10.a:0	"It seems like Mao's closest men are starting to see his real face."
 
  prc.11.t:0	"Death of Zhou Enlai"
@@ -996,11 +996,11 @@
  prc.44.d:0	"Regarding [[~PRC.GetName~]]'s warmongering, [[~SOV.GetName~]] has sent reinforcements to help us."
 
  prc.46.t:0	"Assassination Of Mao Zedong"
- prc.46.d:0	"Our Great Chairman, Mao Zedong, has been killed in a knavish assassination attempt today. His hand-picked successor to the position, Lin Biao, has decided to end the Cultural Revolution once and for all. All opposition has been dealt with swiftly and our nation is recovering from the damage done in the disaster, at least on some extent.\n\nAlthough some conspiracies state that Lin stages the assassination for him to take the position, no evidence can proof it to be the truth."
+ prc.46.d:0	"Our Great Chairman, Mao Zedong, has been killed in a knavish assassination attempt today. His hand-picked successor to the position, Lin Biao, has decided to end the Cultural Revolution once and for all. All opposition has been dealt with swiftly and our nation is recovering from the damage done in the disaster, at least on some extent.[~[~\n~][~\n~]~]Although some conspiracies state that Lin stages the assassination for him to take the position, no evidence can proof it to be the truth."
  prc.46.a:0	"A devastating loss."
 
  prc.47.t:0	"Mao Zedong Survive Assassination"
- prc.47.d:0	"Our Great Chairman, Mao Zedong, has survived a knavish assassination attempt today. The assassin was spotted before he can do any harm to our beloved Great Chairman. However the assassin seems to be extremely loyal to his master as he did not say a word during interrogation.\n\nWild rumours suggested that Lin Biao, the hand-picked successor to Mao's position, staged this assassination attempt. While there are no evidence to proof it to be the truth, some Red Guards are starting to criticize Lin Biao for such 'treason'."
+ prc.47.d:0	"Our Great Chairman, Mao Zedong, has survived a knavish assassination attempt today. The assassin was spotted before he can do any harm to our beloved Great Chairman. However the assassin seems to be extremely loyal to his master as he did not say a word during interrogation.[~[~\n~][~\n~]~]Wild rumours suggested that Lin Biao, the hand-picked successor to Mao's position, staged this assassination attempt. While there are no evidence to proof it to be the truth, some Red Guards are starting to criticize Lin Biao for such 'treason'."
  prc.47.a:0	"Long live our Great Chairman Mao Zedong!"
 
  prc.48.t:0	"Assistance From Soviet"
@@ -1234,7 +1234,7 @@
  prc.112.d:0	"[[~From.GetName~]] has refused to make peace."
  prc.112.a:0	"They are only avoiding the inevitable."
 
- prc.114.d:0	"We have fought off [[~JAP.GetNameDef~]] and their puppet regimes in Manchuria for a long time. With our forces liberating the last stronghold of the imperial realm in the North-East, [[~JAP.GetAdjective~]] officials fearing that their state will never recover from the prolonged war of attrition against [[~PRC.GetNameDef~]] have reached our politicians with a ceasefire proposal and surrender terms. \n\nThis is our chance to make demand!"
+ prc.114.d:0	"We have fought off [[~JAP.GetNameDef~]] and their puppet regimes in Manchuria for a long time. With our forces liberating the last stronghold of the imperial realm in the North-East, [[~JAP.GetAdjective~]] officials fearing that their state will never recover from the prolonged war of attrition against [[~PRC.GetNameDef~]] have reached our politicians with a ceasefire proposal and surrender terms. [~[~\n~][~\n~]~]This is our chance to make demand!"
 
  prc.115.t:0	"Famine In Henan"
  prc.115.d:0	"The war raging in Henan has caused a famine in the region, as farmlands are destroyed by the war. The local government is now seeking our help to ease their burden."
@@ -1274,7 +1274,7 @@
  prc.124.b:0	"Too soon..."
 
  kns.4.t:0	"The Death Of Iosif Stalin"
- kns.4.d:0	"Iosif Stalin, former leader of the Soviet Union, was diagnosed with stroke, high blood pressure and gastric bleeding. He was found lying on the floor in his bedroom prior to doctors being called. Using leeches as treatment to no avail, Stalin's double was recalled from vacation to stand in as Stalin if needed. However, Stalin's health was later broadcasted around the country in detail. The day after, Iosif Stalin was pronounced dead.\n\nStalin's cult of personality is expected to go on after his demise. A power struggle is already underway as powerful members of the party are enthusiastic to rise to the vacant position left by him."
+ kns.4.d:0	"Iosif Stalin, former leader of the Soviet Union, was diagnosed with stroke, high blood pressure and gastric bleeding. He was found lying on the floor in his bedroom prior to doctors being called. Using leeches as treatment to no avail, Stalin's double was recalled from vacation to stand in as Stalin if needed. However, Stalin's health was later broadcasted around the country in detail. The day after, Iosif Stalin was pronounced dead.[~[~\n~][~\n~]~]Stalin's cult of personality is expected to go on after his demise. A power struggle is already underway as powerful members of the party are enthusiastic to rise to the vacant position left by him."
  kns.4.a:0	"A devastating loss."
  kns.4.b:0	"The lost of a great tutor and a great leader."
  kns.4.c:0	"Interesting"
@@ -1311,7 +1311,7 @@
  kmt.37.t:0	"On The Brink Of Collapse"
  kmt.37.d:0	"The level and amount of verbal attacks on the government has become unbearable. In order to safeguard the Workers' and Peasants' revolution, we must arrest all the troublemakers now!"
  kmt.37.a:0	"For the sake of the Party, we must put an end to all opposition. Permanently."
- baihua_end_now:0	"The Campaign will end now.\n"
+ baihua_end_now:0	"The Campaign will end now.[~\n~]"
 
  kmt.39.t:0	"The Great Leap Forward Begins"
  kmt.39.d:0	"The Great Leap Forward has begun. Soon, we shall achieve a total and scientific communism!"
@@ -1339,7 +1339,7 @@
 
 
  ## UNUSED ##
- #prc_continuous_partisan_tt:0	"§YPartisans will rise up at a 30-day interval in our core state that is controlled by our enemy that has the §REnemy Partisans Behind Our Frontline§! national spirit.§!"
+ #prc_continuous_partisan_tt:0	"[~§Y~]Partisans will rise up at a 30-day interval in our core state that is controlled by our enemy that has the [~§R~]Enemy Partisans Behind Our Frontline[~§!~] national spirit.[~§!~]"
  #PRC_continuous_partisan:0	"Footholds Behind Enemy Line"
  #PRC_continuous_partisan_desc:0	"Our partisans is now causing some havoc behind our enemies' frontline, we could further their impact by giving them additional supply."
  #PRC_continuous_one_time_boost:0	"Plan Drafting"

@@ -2,14 +2,14 @@
 ##Add in focus tree fight between German influenced and more radical Hlinka guard, more and more imitating the SS and the Slovak Popular Party (still fascist)
  maintenance_company_tech:0	"Maintenance Companies"
 
- axis_minors_balance_event_tooltip:0	"This event grants PP based on the current year to compensate partially for the political power not gained when the country was nonexistent.\n"
+ axis_minors_balance_event_tooltip:0	"This event grants PP based on the current year to compensate partially for the political power not gained when the country was nonexistent.[~\n~]"
 
  ##Add in focus tree fight between German influenced and more radical Hlinka guard, more and more imitating the SS and the Slovak Popular Party (still fascist)
  aftermath_of_the_munich_agreement:0	"Aftermath of the Dissolution of Czechoslovakia"
  aftermath_of_the_munich_agreement_desc:0	"The disintegration of Czechoslovakia led to multiple events and political opportunities that were almost unthinkable just a few years before."
  RUT_puppet_yourself_to_survive:0	"Seek Compromise with [[~GER.GetNameDef~]]"
  SLO_seek_support_from_german_slovaks:0	"Seek the Support of the Slovak Volkdeutsche"
- volkdeutsch_support:0	"Has the §YVolkdeutsche§! Support"
+ volkdeutsch_support:0	"Has the [~§Y~]Volkdeutsche[~§!~] Support"
  RUT_provide_autonomy_to_ruthenia:0	"Provide Autonomy to Carpatho-Ukraine"
  RUT_award_ruthenia_to_hungary:0	"Award Subcarpathian Rus' to [[~HUN.GetNameDef~]]"
 
@@ -185,7 +185,7 @@
  axis_minors_vichy_france.13.t:0	"Talented Officer Promoted"
  axis_minors_vichy_france.14.t:0	"Talented Officer Promoted"
  axis_minors_vichy_france.17.t:0	"Confirmation of the French Occupation Zone"
- axis_minors_vichy_france.17.desc:0	"According to Article II of the convention of the armistice between the French State and [[~GER.GetNameDef~]]:	"To safeguard the interests of [[~GER.GetNameDef~]], French State territory north and west of the line drawn on the attached map will be occupied by [[~GER.GetAdjective~]] troops. As far as the parts to be occupied still are not in control of [[~GER.GetAdjective~]] troops, this occupation will be carried out immediately after the conclusion of this treaty."\n\nTherefore any territory that is unlawfully under the control of the French government must be put under the control of the Militärbefehlshaber in Frankreich."
+ axis_minors_vichy_france.17.desc:0	"According to Article II of the convention of the armistice between the French State and [[~GER.GetNameDef~]]:	"To safeguard the interests of [[~GER.GetNameDef~]], French State territory north and west of the line drawn on the attached map will be occupied by [[~GER.GetAdjective~]] troops. As far as the parts to be occupied still are not in control of [[~GER.GetAdjective~]] troops, this occupation will be carried out immediately after the conclusion of this treaty."[~[~\n~][~\n~]~]Therefore any territory that is unlawfully under the control of the French government must be put under the control of the Militärbefehlshaber in Frankreich."
  axis_minors_vichy_france.17.a:0	"The armistice must be respected."
 
  axis_minors_vichy_france.18.t:0	"Hiding Military Equipment"

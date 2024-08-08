@@ -18,12 +18,12 @@
  # EVENTS #######################################################################################
 
  vietnam.1.t:0	"[[~VIN.GetNameDefCap~]]'s Entry into the Comintern"
- vietnam.1.d:0	"The [[~VIN.GetAdjective~]] ambassador to [[~SOV.GetNameDef~]] has just forwarded a request directly from the [[~VIN.GetAdjective~]] government.\nThe latter would like [[~VIN.GetNameDef~]] to join the military alliance around [[~SOV.GetNameDef~]], hoping to benefit from protection for their territory and their revolution itself."
+ vietnam.1.d:0	"The [[~VIN.GetAdjective~]] ambassador to [[~SOV.GetNameDef~]] has just forwarded a request directly from the [[~VIN.GetAdjective~]] government.[~\n~]The latter would like [[~VIN.GetNameDef~]] to join the military alliance around [[~SOV.GetNameDef~]], hoping to benefit from protection for their territory and their revolution itself."
  vietnam.1.a:0	"Tell Uncle Ho he has our protection."
  vietnam.1.b:0	"We must refuse."
 
  vietnam.2.t:0	"[[~SOV.GetNameDefCap~]] Accepts"
- vietnam.2.d:0	"[[~SOV.GetNameDefCap~]] has returned a positive response to [[~VIN.GetNameDef~]]'s accession to their military alliance.\nThus, we will put in place the free movement of troops between our two territories, and the latter will help us in the event of a conflict."
+ vietnam.2.d:0	"[[~SOV.GetNameDefCap~]] has returned a positive response to [[~VIN.GetNameDef~]]'s accession to their military alliance.[~\n~]Thus, we will put in place the free movement of troops between our two territories, and the latter will help us in the event of a conflict."
  vietnam.2.a:0	"Excellent!"
 
  vietnam.3.t:0	"[[~SOV.GetNameDefCap~]] Refuses"
@@ -31,7 +31,7 @@
  vietnam.3.a:0	"We can only count on ourselves."
 
  vietnam.4.t:0	"Communists Attempt Coup!"
- vietnam.4.d:0	"Numerous militias loyal to the Malayan Races Liberation Army, itself affiliated with the Malayan Communist Party, have just deployed in Singapore and hope to take control of the colonial government to destroy the [[~ENG.GetAdjective~]] administration and establish a communist regime.\nForces loyal to the government, stationed outside the city, are preparing to take it back, but nothing guarantees their victory."
+ vietnam.4.d:0	"Numerous militias loyal to the Malayan Races Liberation Army, itself affiliated with the Malayan Communist Party, have just deployed in Singapore and hope to take control of the colonial government to destroy the [[~ENG.GetAdjective~]] administration and establish a communist regime.[~\n~]Forces loyal to the government, stationed outside the city, are preparing to take it back, but nothing guarantees their victory."
  vietnam.4.a:0	"The coup succeeds."
  vietnam.4.b:0	"The Coup fails."
 
@@ -40,7 +40,7 @@
  vietnam.5.a:0	"We shall avenge our brothers!"
 
  vietnam.6.t:0	"Help from the South"
- vietnam.6.d:0	"Kuomintang and VNQDD have always been allies, each wishing to follow the teachings of Sun-Yat-Sen. VNQDD cadres have been protected in [[~CHI.GetNameDef~]] for years, sheltered from the [[~FRA.GetAdjective~]] police.\nAs [[~CHI.GetNameDef~]] finds itself in a state of war again, the [[~VIN.GetAdjective~]] government has sent us a request to help us."
+ vietnam.6.d:0	"Kuomintang and VNQDD have always been allies, each wishing to follow the teachings of Sun-Yat-Sen. VNQDD cadres have been protected in [[~CHI.GetNameDef~]] for years, sheltered from the [[~FRA.GetAdjective~]] police.[~\n~]As [[~CHI.GetNameDef~]] finds itself in a state of war again, the [[~VIN.GetAdjective~]] government has sent us a request to help us."
  vietnam.6.a:0	"Together we are stronger."
  vietnam.6.b:0	"We don't need their help."
  ASIAN_LEAGUE_NAME:0	"Asian League"
@@ -96,7 +96,7 @@
 
 
  VIN_vnqdd_youth_league:0	"VNQDD Youth League"
- Ngo_dinh_diem_tooltip:0	"§YLevel§!: 3\n§RAttack§!: 2\n§YDefense§!: 3\n§GPlanning§!: 3\n§BLogistics§!: 3\n§gTraits§!: §HHill Fighter§!\n"
+ Ngo_dinh_diem_tooltip:0	"[~§Y~]Level[~§!~]: 3[~\n~][~§R~]Attack[~§!~]: 2[~\n~][~§Y~]Defense[~§!~]: 3[~\n~][~§G~]Planning[~§!~]: 3[~\n~][~§B~]Logistics[~§!~]: 3[~\n~][~§g~]Traits[~§!~]: [~§H~]Hill Fighter[~§!~][~\n~]"
 
  #####################################
 
@@ -123,10 +123,10 @@
 
 
  # FLAGS
- ho_chi_minh_victorious_flag:0	"§YHo-Chi-Minh§! won the power struggle"
- la_lutte_victorious_flag:0	"§YLa Lutte§! won the power struggle"
- vnqdd_victorious_flag:0	"The §YVNQDD§! won the power struggle"
- cuong_de_victorious_flag:0	"§YCuong De§! won the power struggle"
+ ho_chi_minh_victorious_flag:0	"[~§Y~]Ho-Chi-Minh[~§!~] won the power struggle"
+ la_lutte_victorious_flag:0	"[~§Y~]La Lutte[~§!~] won the power struggle"
+ vnqdd_victorious_flag:0	"The [~§Y~]VNQDD[~§!~] won the power struggle"
+ cuong_de_victorious_flag:0	"[~§Y~]Cuong De[~§!~] won the power struggle"
 
  invited_phan_boi_chau_flag:0	"Invited Phan Boi Chau to the government"
  VIN_war_of_independence_flag:0	"We are fighting our independence war"
@@ -169,7 +169,7 @@
  VIN_political_reorganisation_of_the_army_desc:0	"The army is necessary to protect and spread the revolution. But it could also still be filled with traitors, who could be loyal to Trotskyists in particular. Taking the Soviet purges as an example, we too should get rid of officers deemed "potentially dangerous"."
  VIN_finish_what_we_started:0	"Finish What We Started"
  VIN_finish_what_we_started_desc:0	"Despite our victory against the capitalist forces, Laos and Cambodia continue to suffer under oppressive and capitalist regimes. We must liberate them in the same way that we freed ourselves."
- VIN_finish_what_we_started_tt:0	"If §YLaos§! or §YCambodia§! us not §YCommunist§!, we will gain a war goal against them."
+ VIN_finish_what_we_started_tt:0	"If [~§Y~]Laos[~§!~] or [~§Y~]Cambodia[~§!~] us not [~§Y~]Communist[~§!~], we will gain a war goal against them."
  VIN_prepare_for_the_worst:0	"Prepare for the Worst"
  VIN_prepare_for_the_worst_desc:0	"We are tackling real colossuses, much stronger and more numerous than we are. Despite all our goodwill, fortifications will probably be needed to help our soldiers."
  VIN_la_lutte_victorious:0	"La Lutte"
@@ -189,7 +189,7 @@
  ASIAN_INTERNATIONALE_FACTION:0	"Asian Internationale"
  VIN_align_with_trotsky_regime:0	"Align with Trotsky's Regime"
  VIN_align_with_trotsky_regime_desc:0	"Lev Trotsky, Lenin's legitimate successor, succeeded in obtaining power. By aligning ourselves with him, we can spread the permanent revolution!"
- VIN_align_with_trotsky_regime_tt:0	"We will send a request to §YTrotsky§! to join his faction."
+ VIN_align_with_trotsky_regime_tt:0	"We will send a request to [~§Y~]Trotsky[~§!~] to join his faction."
  VIN_mimic_the_red_army:0	"Mimic the Red Army"
  VIN_mimic_the_red_army_desc:0	"The Red Army, then led by Trotsky, did a tremendous job defeating the White Forces. By following their example, in particular by inviting some of their officers to Vietnam, we too can create such a victorious army."
  VIN_a_factory_in_every_city:0	"...And A Factory In Every City"
@@ -271,7 +271,7 @@
  VIN_the_greater_vietnam_concept_desc:0	"To ensure the survival of the Vietnamese people, they must push back their borders so that they encompass the entire Indochinese peninsula. In addition, Vietnamese mills already live in Laos and Cambodia."
  VIN_cross_the_cangshan_desc:0	"Attacking [[~CHI.GetNameDef~]] through the mountains of Yunnan will surprise them, especially if our soldiers are much better equipped for this terrain."
  VIN_cross_the_cangshan:0	"Cross the Cangshan"
- VIN_cross_the_cangshan_tt:0	"Enables §HMountain Warfare§!\nAll Infantry : \n    §HMountain§!\n      Movement: §G+10%§!\n    §HHills§!\n      Movement: §G+10%§!\n\n§HMarines\n    Mountain§!\n      Attack: §G+5%§!\n    §HHills§!\n      Attack: §G+5%§!\n      \n§HMountaineers\n    Mountain§!\n      Attack: §G+5%§!\n    §HHills§!\n      Attack: §G+5%§!\n      \n§HParatroopers\n    Mountain§!\n      Attack: §G+5%§!\n    §HHills§!\n      Attack: §G+5%§!\n"
+ VIN_cross_the_cangshan_tt:0	"Enables [~§H~]Mountain Warfare[~§!~][~\n~]All Infantry : [~\n~]    [~§H~]Mountain[~§!~][~\n~]      Movement: [~§G~]+10%[~§!~][~\n~]    [~§H~]Hills[~§!~][~\n~]      Movement: [~§G~]+10%[~§!~][~[~\n~][~\n~]~][~§H~]Marines[~\n~]    Mountain[~§!~][~\n~]      Attack: [~§G~]+5%[~§!~][~\n~]    [~§H~]Hills[~§!~][~\n~]      Attack: [~§G~]+5%[~§!~][~\n~]      [~\n~][~§H~]Mountaineers[~\n~]    Mountain[~§!~][~\n~]      Attack: [~§G~]+5%[~§!~][~\n~]    [~§H~]Hills[~§!~][~\n~]      Attack: [~§G~]+5%[~§!~][~\n~]      [~\n~][~§H~]Paratroopers[~\n~]    Mountain[~§!~][~\n~]      Attack: [~§G~]+5%[~§!~][~\n~]    [~§H~]Hills[~§!~][~\n~]      Attack: [~§G~]+5%[~§!~][~\n~]"
  VIN_trade_with_the_reorganised_government:0	"Trade with [[~CHI.GetNameDef~]]"
  VIN_trade_with_the_reorganised_government_desc:0	"The new [[~CHI.GetNameDef~]] government, set up with the support of [[~JAP.GetNameDef~]], represents a perfect opportunity for cooperation between our two nations, which have long been close. We will sign a trade agreement with them."
  VIN_rule_the_thais:0	"Rule the Thais"

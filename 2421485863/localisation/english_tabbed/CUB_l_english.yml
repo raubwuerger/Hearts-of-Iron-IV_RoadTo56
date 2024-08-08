@@ -35,32 +35,32 @@
  #########################################################################################################################################################################
 
  cuba.1.t:0	"General Election"
- cuba.1.d:0	"It is now time for the [[~CUB.GetAdjective~]] people to be called to the polls to elect their leader.\nThis year, two main forces are present. The Tripartite coalition, composed of the Liberal Party, National Unity, and Republican Action, has the support of the many forces behind the 1933 revolution, particularly General Fulgencio Batista.\nAgainst them, the relatively conservative National Democratic Association, led by former President Mario García Menocal, who had led Cuba in particular during the First World War."
+ cuba.1.d:0	"It is now time for the [[~CUB.GetAdjective~]] people to be called to the polls to elect their leader.[~\n~]This year, two main forces are present. The Tripartite coalition, composed of the Liberal Party, National Unity, and Republican Action, has the support of the many forces behind the 1933 revolution, particularly General Fulgencio Batista.[~\n~]Against them, the relatively conservative National Democratic Association, led by former President Mario García Menocal, who had led Cuba in particular during the First World War."
  cuba.1.a:0	"Miguel Mariano Gómez"
  cuba_tripartite_coalition_party_long:0	"Coalición Tripartita"
  cuba.1.b:0	"Mario García Menocal"
  cuba_democratic_national_association_party_long:0	"Asociación Nacional Democrática"
 
  cuba.2.t:0	"Miguel Mariano Gómez's Inauguration"
- cuba.2.d:0	"Miguel Mariano Gómez was inaugurated as Cuba's seventh president following his election earlier this year.\nIdeologically supported by the forces behind the 1933 revolution, he intends to continue the social reforms implemented by successive administrations since Ramón Grau's 100-day government."
+ cuba.2.d:0	"Miguel Mariano Gómez was inaugurated as Cuba's seventh president following his election earlier this year.[~\n~]Ideologically supported by the forces behind the 1933 revolution, he intends to continue the social reforms implemented by successive administrations since Ramón Grau's 100-day government."
  cuba.2.a:0	"We act for the [[~CUB.GetAdjective~]] people."
 
  cuba.3.t:0	"Mario García Menocal's Inauguration"
- cuba.3.d:0	"Mario García Menocal was inaugurated as the seventh president of Cuba today, following his victory in the election earlier this year. Menocal is remembered for his time in office as the 3rd president of Cuba, being a strong ally of corporations and businesses. \n \n During his tenure, Menocal spent far in excess of the federal budget, leaving the country in over $40,000,000 of debt, and was accused of using fraud to win re-election in 1916. This in turn led to an unsuccessful revolt in the army, led by former president José Miguel Gómez. \n \n With Menocal back in power, it's sure to cause a new wave of instability and uncertainty in the days to come."
+ cuba.3.d:0	"Mario García Menocal was inaugurated as the seventh president of Cuba today, following his victory in the election earlier this year. Menocal is remembered for his time in office as the 3rd president of Cuba, being a strong ally of corporations and businesses. [~\n~] [~\n~] During his tenure, Menocal spent far in excess of the federal budget, leaving the country in over $40,000,000 of debt, and was accused of using fraud to win re-election in 1916. This in turn led to an unsuccessful revolt in the army, led by former president José Miguel Gómez. [~\n~] [~\n~] With Menocal back in power, it's sure to cause a new wave of instability and uncertainty in the days to come."
  cuba.3.a:0	"Let's hope for the best..."
 
  cuba.4.t:0	"Batista Marches on Havana!"
- cuba.4.d:0	"Declaring that Mario García Menocal's government betrayed not only the 1933 revolution but also the entire [[~CUB.GetAdjective~]] nation, Fulgencio Batista called on the army to oppose and overthrow the government.\nJ. Butler Wright, the [[~USA.GetAdjective~]] ambassador to [[~CUB.GetNameDef~]], announced that [[~USA.GetNameDef~]] supported the current government.\nThe Havana garrison has still not chosen sides but could well change everything."
+ cuba.4.d:0	"Declaring that Mario García Menocal's government betrayed not only the 1933 revolution but also the entire [[~CUB.GetAdjective~]] nation, Fulgencio Batista called on the army to oppose and overthrow the government.[~\n~]J. Butler Wright, the [[~USA.GetAdjective~]] ambassador to [[~CUB.GetNameDef~]], announced that [[~USA.GetNameDef~]] supported the current government.[~\n~]The Havana garrison has still not chosen sides but could well change everything."
  cuba.4.a:0	"The garrison sides with the government, and the coup fails."
  cuba.4.b:0	"The garrison supports Batista, and the coup succeeds."
  cuba_revolutionnary_party_long:0	"Partido Revolucionario Cubano"
 
  cuba.5.t:0	"President Gomez Impeached!"
- cuba.5.d:0	"Despite Miguel Mariano Gómez's promised extensive programs, he found himself with increasing opposition, particularly in the Congress and with the army chief, Fulgencio Batista, despite being his supporter during the election.\n\nFollowing the veto of the nine-cent law, Miguel Mariano Gómez was officially dismissed by Congress, and Vice-President Federico Laredo Brú was inaugurated as President of Cuba."
+ cuba.5.d:0	"Despite Miguel Mariano Gómez's promised extensive programs, he found himself with increasing opposition, particularly in the Congress and with the army chief, Fulgencio Batista, despite being his supporter during the election.[~[~\n~][~\n~]~]Following the veto of the nine-cent law, Miguel Mariano Gómez was officially dismissed by Congress, and Vice-President Federico Laredo Brú was inaugurated as President of Cuba."
  cuba.5.a:0	"Let's hope he will meet the expectations of Congress and the people."
 
  cuba.6.t:0	"[[~CUB.GetNameDefCap~]] Suggests a War against Spain"
- cuba.6.d:0	"Declaring that the apparent neutrality that the Spanish regime is trying to show is in reality only a façade hiding secret aid to the war effort, the [[~CUB.GetAdjective~]] government has suggested a declaration of war against fascist Spain.\n\nSuch a declaration is not made lightly, especially against a currently neutral country. There is little doubt, however, that Spain's support is oriented towards the forces of the Axis."
+ cuba.6.d:0	"Declaring that the apparent neutrality that the Spanish regime is trying to show is in reality only a façade hiding secret aid to the war effort, the [[~CUB.GetAdjective~]] government has suggested a declaration of war against fascist Spain.[~[~\n~][~\n~]~]Such a declaration is not made lightly, especially against a currently neutral country. There is little doubt, however, that Spain's support is oriented towards the forces of the Axis."
  cuba.6.a:0	"It's time to avenge the Second Republic."
  cuba.6.b:0	"It would be too dangerous."
 
@@ -99,7 +99,7 @@
  cuba.17.b:0	"Sugar is the fortune of the old."
 
  cuba.18.t:0	"The [[~SOV.GetAdjective~]] Accept our Proposal"
- cuba.18.d:0	"Our ambassador in Moscow had received a response from the Central Secretary of the Communist Party and telegraphed immediately about the [[~SOV.getAdjective~]] readiness to cooperate on the international raw material markets! \n\nThe delivery of first 200 000 tons of sugar can be sent in immediately with a million more well on the way to the harbours of our nation."
+ cuba.18.d:0	"Our ambassador in Moscow had received a response from the Central Secretary of the Communist Party and telegraphed immediately about the [[~SOV.getAdjective~]] readiness to cooperate on the international raw material markets! [~[~\n~][~\n~]~]The delivery of first 200 000 tons of sugar can be sent in immediately with a million more well on the way to the harbours of our nation."
  cuba.18.a:0	"A lucrative deal."
 
  cuba.19.t:0	"The [[~SOV.GetAdjective~]] Refuse our Proposal"
@@ -107,7 +107,7 @@
  cuba.19.a:0	"Unfortunate."
 
  cuba.20.t:0	"[[~CUB.GetName~]] Seizes [[~1050.GetName~]]"
- cuba.20.d:0	"[[~CUB.GetAdjective~]] forces have launched an ambitious attack on the naval base of [[~1050.GetName~]] and successfully landed and established a beachhead, quickly overwhelming the small garrison present there and later capturing the main naval base.\n\nIn a press conference sometime later the [[~CUB.GetAdjective~]] leader, [[~CUB.GetLeader~]] stated that [[~1050.GetName~]] is a rightful part of [[~CUB.GetNonIdeologyName~]] and seeks to expel all imperialists from the [[~CUB.GetAdjective~]] mainland. Obviously this is absurd, it's just how we respond to the matter, some people are calling for war against [[~CUB.GetNonIdeologyName~]] where others are skeptical about wasting lives over a small naval base."
+ cuba.20.d:0	"[[~CUB.GetAdjective~]] forces have launched an ambitious attack on the naval base of [[~1050.GetName~]] and successfully landed and established a beachhead, quickly overwhelming the small garrison present there and later capturing the main naval base.[~[~\n~][~\n~]~]In a press conference sometime later the [[~CUB.GetAdjective~]] leader, [[~CUB.GetLeader~]] stated that [[~1050.GetName~]] is a rightful part of [[~CUB.GetNonIdeologyName~]] and seeks to expel all imperialists from the [[~CUB.GetAdjective~]] mainland. Obviously this is absurd, it's just how we respond to the matter, some people are calling for war against [[~CUB.GetNonIdeologyName~]] where others are skeptical about wasting lives over a small naval base."
  cuba.20.a:0	"We will not be stepped on like this!"
  cuba.20.b:0	"We have a lot to learn from this."
  cuba.20.c:0	"A great victory!"
@@ -299,8 +299,8 @@
 
  ###Related Events###
  cuba.11.t:0	"[[~CUB.GetNameDef~]] Demands Our Territories" #Territory Demands Against Hispaniola
- cuba.11.d:0	"Now that the [[~ROOT.GetAdjective~]] Falangist movement has managed to take over the country, they've begun to make moves towards expanding their territory to now encompass the island of Hispaniola. \n\nWith this new path towards expansion, now come demands to our government to accept subjugation and integration into Cuba. What shall our response be?" #Territory Demands Against Hispaniola
- cuba.10.d:0	"Cuba, once our prized colony in the Caribbean, has reached out to us with a surprising proposal. They're proposing a formal alliance between our two nations, in the hopes of fostering stronger ties between our two countries. \n\nWhile this comes as a bit of a surprise, it's certainly an idea worth entertaining, and would give us renewed influence in the Americas."
+ cuba.11.d:0	"Now that the [[~ROOT.GetAdjective~]] Falangist movement has managed to take over the country, they've begun to make moves towards expanding their territory to now encompass the island of Hispaniola. [~[~\n~][~\n~]~]With this new path towards expansion, now come demands to our government to accept subjugation and integration into Cuba. What shall our response be?" #Territory Demands Against Hispaniola
+ cuba.10.d:0	"Cuba, once our prized colony in the Caribbean, has reached out to us with a surprising proposal. They're proposing a formal alliance between our two nations, in the hopes of fostering stronger ties between our two countries. [~[~\n~][~\n~]~]While this comes as a bit of a surprise, it's certainly an idea worth entertaining, and would give us renewed influence in the Americas."
  cuba.12.t:0	"Nationalist Spain Accepts Our Proposal!"
  cuba.12.d:0	"Our recent proposal to Spain for an alliance has been accepted!"
  cuba.13.t:0	"Spain Rejects Our Proposal!"
@@ -550,16 +550,16 @@
  CUB_guantanamo_border_war_start:0	"Imminent Border Clash at [[~1050.GetName~]]"
 
  ###Custom Tooltips###
- CUB_amphibious_training_tt:0	"§HInfantry§! \n §HAmphibious§! \n §WAttack:§! §G+10%§! \n §WDefence:§! §G+5%§! \n §HRiver§! \n §WMovement:§! §G+10%§! \n §WAttack:§! §G+5%§! \n \n§HCavalry§! \n §HAmphibious§! \n §WAttack:§! §G+10%§! \n §WDefence:§! §G+5%§! \n §HRiver§! \n §WMovement:§! §G+10%§! \n §WAttack:§! §G+5%§! \n \n§HMarines§! \n §HAmphibious§! \n §WAttack:§! §G+5%§! \n §WDefence:§! §G+5%§! \n §HRiver§! \n §WMovement:§! §G+5%§! \n §WAttack:§! §G+5%§!"
- CUB_island_fortification_tt:0	"§HUpgrades major naval bases in the Caribbean, adds 1 level of AA to each state, and adds coastal fortifications to the upgraded bases.§!"
- CUB_zemurray_legitimized_tt:0	"Switches §H[[~HON.GetNameDef~]]§! to a special cooperationist focus tree."
- CUB_suggest_operation_hemingway_tt:0	"We will ask our §Yfaction leader§! to declare war on §YNationalist Spain§!.\n"
- CUB_president_inaugurated_tt:0	"§YThe new president will be inaugurated on May 20.§!"
- CUB_results_of_the_presidential_election_tt:0	"§YThe presidential election will take place on January 10.§!"
+ CUB_amphibious_training_tt:0	"[~§H~]Infantry[~§!~] [~\n~] [~§H~]Amphibious[~§!~] [~\n~] [~§W~]Attack:[~§!~] [~§G~]+10%[~§!~] [~\n~] [~§W~]Defence:[~§!~] [~§G~]+5%[~§!~] [~\n~] [~§H~]River[~§!~] [~\n~] [~§W~]Movement:[~§!~] [~§G~]+10%[~§!~] [~\n~] [~§W~]Attack:[~§!~] [~§G~]+5%[~§!~] [~\n~] [~\n~][~§H~]Cavalry[~§!~] [~\n~] [~§H~]Amphibious[~§!~] [~\n~] [~§W~]Attack:[~§!~] [~§G~]+10%[~§!~] [~\n~] [~§W~]Defence:[~§!~] [~§G~]+5%[~§!~] [~\n~] [~§H~]River[~§!~] [~\n~] [~§W~]Movement:[~§!~] [~§G~]+10%[~§!~] [~\n~] [~§W~]Attack:[~§!~] [~§G~]+5%[~§!~] [~\n~] [~\n~][~§H~]Marines[~§!~] [~\n~] [~§H~]Amphibious[~§!~] [~\n~] [~§W~]Attack:[~§!~] [~§G~]+5%[~§!~] [~\n~] [~§W~]Defence:[~§!~] [~§G~]+5%[~§!~] [~\n~] [~§H~]River[~§!~] [~\n~] [~§W~]Movement:[~§!~] [~§G~]+5%[~§!~] [~\n~] [~§W~]Attack:[~§!~] [~§G~]+5%[~§!~]"
+ CUB_island_fortification_tt:0	"[~§H~]Upgrades major naval bases in the Caribbean, adds 1 level of AA to each state, and adds coastal fortifications to the upgraded bases.[~§!~]"
+ CUB_zemurray_legitimized_tt:0	"Switches [~§H~][[~HON.GetNameDef~]][~§!~] to a special cooperationist focus tree."
+ CUB_suggest_operation_hemingway_tt:0	"We will ask our [~§Y~]faction leader[~§!~] to declare war on [~§Y~]Nationalist Spain[~§!~].[~\n~]"
+ CUB_president_inaugurated_tt:0	"[~§Y~]The new president will be inaugurated on May 20.[~§!~]"
+ CUB_results_of_the_presidential_election_tt:0	"[~§Y~]The presidential election will take place on January 10.[~§!~]"
  r56_is_caribbean_country:0	"Is Caribbean"
 
  ###News & Events###
- cuba.100.d:0	"Gerardo Machado, former president of Cuba who served from 1925 to 1933, has passed away in Miami Beach, Florida, at the age of 69, while undergoing surgery in an attempt to delay his fate at the hands of cancer. \n \nMachado's time in office was disastrous at best, considered by most to have been a dictator, refusing to leave office and clinging onto his power while fending off insurgent groups for several years. \n \n Even despite U.S. government intervention to help negotiate a peaceful change of regime, Machado continued to resist until the [[~ROOT.GetAdjective~]] army revolted, forcing him to flee the country."
+ cuba.100.d:0	"Gerardo Machado, former president of Cuba who served from 1925 to 1933, has passed away in Miami Beach, Florida, at the age of 69, while undergoing surgery in an attempt to delay his fate at the hands of cancer. [~\n~] [~\n~]Machado's time in office was disastrous at best, considered by most to have been a dictator, refusing to leave office and clinging onto his power while fending off insurgent groups for several years. [~\n~] [~\n~] Even despite U.S. government intervention to help negotiate a peaceful change of regime, Machado continued to resist until the [[~ROOT.GetAdjective~]] army revolted, forcing him to flee the country."
  cuba.101.t:0	"Arrival of the MS St. Louis in Havana"
- cuba.101.d:0	"The German passenger ship MS St. Louis has arrived in Havana Harbor today, carrying with it 973 passengers, many of whom are refugees seeking asylum here in Cuba from the Nazi regime in Germany. \n\nIf we turn them away now, we could be forcing them to return to Germany and a certain doom. \n\nWhat should we do?"
+ cuba.101.d:0	"The German passenger ship MS St. Louis has arrived in Havana Harbor today, carrying with it 973 passengers, many of whom are refugees seeking asylum here in Cuba from the Nazi regime in Germany. [~[~\n~][~\n~]~]If we turn them away now, we could be forcing them to return to Germany and a certain doom. [~[~\n~][~\n~]~]What should we do?"
 
