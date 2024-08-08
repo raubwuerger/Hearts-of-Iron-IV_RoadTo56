@@ -34,7 +34,7 @@
 
  PRC_turn_fascist_when_select_tt:0	"Mao and some of the communists will be executed when the focus is selected.\n§RSelecting this focus also make the fascist party becomes the ruling party§!\n\n"
 
- PRC_same_ideology_with_jap:0	"Has the same ideology with [JAP.GetName]"
+ PRC_same_ideology_with_jap:0	"Has the same ideology with [[~JAP.GetName~]]"
 
  PRC_get_wargoal_for_fareast_tt:0	"Gain war goal for owner or overlord of owner of the following states :\n    §YVladivostok§!\n    §YKhabarovsk§!\n    §YBirobidzhan§!\n    §YNikolayevsk§!\n    §YAmur§!\n    §YNorth Sakhalin§!\n"
 
@@ -44,11 +44,11 @@
 
  PRC_feng_clique_generals_join_tt:0	"§YMa Zhanshan§!, §YHe Zhuguo§!, §YYu Xuezhong§! and §YZhang Zuoxiang§! will join our army.\n\n"
 
- chi_accept_prc71_no_tt:0	"[CHI.GetName] has not accepted our proposal"
+ chi_accept_prc71_no_tt:0	"[[~CHI.GetName~]] has not accepted our proposal"
 
  PRC_flag_replacement_tt:0	"Control the following states :\n    §YJehol§!\n    §YLiaotung§!\n    §YKirin§!\n    §YLiaoning§!\n"
 
- has_pact_with_jap_tt:0	"Has pact with [JAP.GetName]"
+ has_pact_with_jap_tt:0	"Has pact with [[~JAP.GetName~]]"
 
  prc_msp_tt:0	"Lower the penalty from §YLack Skilled Personnel§!.\n"
 
@@ -62,9 +62,9 @@
 
  prc_no_generals_transfer:0	"§RThe current generals will not tolerate the communist, and will leave our military.§!"
 
- prc_sov_reinforcements:0	"Receive 8 divisions from [SOV.GetName]"
+ prc_sov_reinforcements:0	"Receive 8 divisions from [[~SOV.GetName~]]"
 
- PRC_dongbei_partisans_tt:0	"Become controller of all states owned by [CHI.GetName] in Manchuria."
+ PRC_dongbei_partisans_tt:0	"Become controller of all states owned by [[~CHI.GetName~]] in Manchuria."
 
  west_expedition_failed_msg:0	"PRC's west expedition has failed and the operation has been put to an end."
 
@@ -72,13 +72,13 @@
 
  PRC_restart_CHI_war:0	"Either PRC or Republic of China declared war on each other."
 
- PRC_no_wargoal_to_chi_when_ok_tt:0	"§RWill not gain war goal against [CHI.GetName] with §YEnforce Our Goal§! focus.§!\n"
+ PRC_no_wargoal_to_chi_when_ok_tt:0	"§RWill not gain war goal against [[~CHI.GetName~]] with §YEnforce Our Goal§! focus.§!\n"
 
  PRC_random_amount_of_partisan_tt:0	"§Y2 - 6 Guerilla units will accept our bribe and join our army§!\n"
 
  PRC_wait_for_civil_war_tt:0	"This event will fire again when the Japanese civil war event fires.\n"
 
- PRC_takeover_dongbei_tt:0	"[PRC.GetName] takes over states in Manchuria owned by [JAP.GetName] or her puppets.\n"
+ PRC_takeover_dongbei_tt:0	"[[~PRC.GetName~]] takes over states in Manchuria owned by [[~JAP.GetName~]] or her puppets.\n"
 
  KMT_commie_generals_join_tt:0	"§YLin Biao§!, §YZhu De§!, §YChen Yi§! and §YPeng Dehuai§! join our army."
 
@@ -93,12 +93,12 @@
 
  ############## DECISIONS ##################
  PRC_solidifying_our_revolution:0	"Solidifying our Revolution"
- PRC_solidifying_our_revolution_desc:0	"[PRC.getNameDefCap] has faced many struggles in the recent years. The treacherous Kuomintang had tried to destroy any sort of socialist opposition in 1935 which forced our once popular movement among the peasants to be dispersed and scattered across the rural areas of Central Plain. Regaining strength will surely take time and effort, yet we will prevail as victorious power in this struggle!"
+ PRC_solidifying_our_revolution_desc:0	"[[~PRC.getNameDefCap~]] has faced many struggles in the recent years. The treacherous Kuomintang had tried to destroy any sort of socialist opposition in 1935 which forced our once popular movement among the peasants to be dispersed and scattered across the rural areas of Central Plain. Regaining strength will surely take time and effort, yet we will prevail as victorious power in this struggle!"
  PRC_question_of_our_capital_decision:0	"Settle the Question of the Capital"
- PRC_question_of_our_capital_decision_desc:0	"Peoples Revolution will gain even more support among workers and peasants if we officially proclaim the establishment of [PRC.getNameDef] in our newly gained capital."
+ PRC_question_of_our_capital_decision_desc:0	"Peoples Revolution will gain even more support among workers and peasants if we officially proclaim the establishment of [[~PRC.getNameDef~]] in our newly gained capital."
 
  PRC_the_new_communist_beacon:0	"The New Communist Beacon"
- PRC_the_new_communist_beacon_desc:0	"The Revolutionary Struggle shall never end, for as long as oppressors, colonizers, imperialists and enemies of the people exist! \nWith a few swift strokes we can destroy anti-governmental cells outside and within of [ROOT.getNameDef]. \nThe time has come for Da Zhonghua Diqu to rise and prosper!"
+ PRC_the_new_communist_beacon_desc:0	"The Revolutionary Struggle shall never end, for as long as oppressors, colonizers, imperialists and enemies of the people exist! \nWith a few swift strokes we can destroy anti-governmental cells outside and within of [[~ROOT.getNameDef~]]. \nThe time has come for Da Zhonghua Diqu to rise and prosper!"
  PRC_hundred_flowers_campaign_progress:0	"Hundred Flowers Campaign Progress"
 
  PRC_offer_a_separate_peace_to_japan:0	"Offer a Separate Peace to Japan"
@@ -116,7 +116,7 @@
  PRC_enable_cdx:0	"Chen Duxiu has returned"
  PRC_no_wargoal_to_chi_with_gnwu:0	"Abandoned Anti-Chiang Aim"
  PRC_yhc_enable:0	"Incorporated"
- chi_accept_prc71_tt:0	"[CHI.GetNameDefCap] has accepted our proposal"
+ chi_accept_prc71_tt:0	"[[~CHI.GetNameDefCap~]] has accepted our proposal"
  no_rescue_zhang:0	"Do not rescue Zhang Xueliang"
  xian_incident_started:0	"Xi'an Incident has started"
  cdx_returned:0	"Chen Duxiu has returned"
@@ -505,7 +505,7 @@
  PRC_institution_reorganization_desc:0	"Our current education system is not well-improved, a reorganization is needed if we are to have talented people."
 
  PRC_cult_of_personality:0	"Cult Of Personality"
- PRC_cult_of_personality_desc:0	"Every citizen should admire our glorious leader [PRC.GetLeader], and nothing else."
+ PRC_cult_of_personality_desc:0	"Every citizen should admire our glorious leader [[~PRC.GetLeader~]], and nothing else."
 
  PRC_eliminate_iliteracy:0	"Eliminate Iliteracy"
  PRC_eliminate_iliteracy_desc:0	"The illiteracy rate of our nation is far too high. If we are to make further progress, we must eliminate this problem."
@@ -645,7 +645,7 @@
  PRC_study_kmt_equipment:0	"Study NRA Equipment"
  PRC_study_kmt_equipment_desc:0	"Although not of top-notch quality, the NRA's equipment is still better than most of our forces. Studying them would increase our knowledge in small arms."
 
- PRC_apologise_to_sov:0	"Restore [SOV.GetAdjective] Cooperation"
+ PRC_apologise_to_sov:0	"Restore [[~SOV.GetAdjective~]] Cooperation"
  PRC_apologise_to_sov_desc:0	"Despite our disobedience towards Soviet order for establishing a new government, we are now in a united front with the KMT after all. The Soviet officials surely can overlook this minor "misbehave" of ours..."
 
  PRC_pressure_prince_dem:0	"Pressure Chahar Government"
@@ -676,7 +676,7 @@
  KMT_great_leap_forawrd_desc:0	"We are far behind both Western powers and the Soviets. In order to achieve true communism and protect the people, we must engage in a mass campaign to catch up in as small an amount of time as possible."
 
  PRC_begin_cultural_revolution:0	"Begin Cultural Revolution"
- PRC_begin_cultural_revolution_desc:0	"Recent governmental changes in [SOV.getNameDef] have raised severe doubts revolving around the correct interpretation of communism and in which form it shall guide [PRC.getNameDef] to its desired prosperity. Various groups have already begun a power struggle to reach the heights of our beloved chairman. Only time will show where it will lead our glorious country."
+ PRC_begin_cultural_revolution_desc:0	"Recent governmental changes in [[~SOV.getNameDef~]] have raised severe doubts revolving around the correct interpretation of communism and in which form it shall guide [[~PRC.getNameDef~]] to its desired prosperity. Various groups have already begun a power struggle to reach the heights of our beloved chairman. Only time will show where it will lead our glorious country."
 
  PRC_mongolia_issue:0	"Mongolia Issue"
  PRC_mongolia_issue_desc:0	"Mongolia is an inseparable part of China, it must be returned to us!"
@@ -866,8 +866,8 @@
 
 
  ################################# EVENTS #########################
- prc.1.t:0	"Supply From [SOV.GetName]"
- prc.1.d:0	"With the route for Soviet supply opened, equipments and volunteers have arrived at Yan'an and await [Root.GetLeader]'s inspection."
+ prc.1.t:0	"Supply From [[~SOV.GetName~]]"
+ prc.1.d:0	"With the route for Soviet supply opened, equipments and volunteers have arrived at Yan'an and await [[~Root.GetLeader~]]'s inspection."
  prc.1.a:0	"This will contribute greatly to the war against the Japanese."
 
  prc.2.t:0	"Communist Army Incorporated"
@@ -886,7 +886,7 @@
  prc.5.d:0	"Our glorious leader, Joseph Vissarionovich Stalin, had been invited by Karl Marx and left us yesterday. A great loss for the Soviet people.\n\nA power struggle has started as powerful members of the party compete for the vacant position left by Stalin."
  prc.5.a:0	"A star falls..."
 
- prc.6.t:0	"[GetMonth] Outline"
+ prc.6.t:0	"[[~GetMonth~]] Outline"
  prc.6.d:0	"After our Great Chairman Mao criticize the drama 'Hai Rui Dismissed From Office', a group of people had form a group to mitigate the effect of the statement as much as possible by defining Great Chairman Mao's statement as from a academic perspective. As Great Chairman Mao had praised the drama as a nice representation of the class conflict within socialist state before.\n\nThis backtrack of Great Chairman Mao has caused a stir in the nation, all the press has this event as their headline and report on wide extent."
  prc.6.a:0	"Hope nothing comes out of this..."
 
@@ -898,8 +898,8 @@
  prc.8.d:0	"Lin Biao, the hand-picked heir of Great Chairman Mao had died in a plane crash in Öndörkhaan. The documents on the plane indicates the victims to be Lin and some of his family members. The exact reason of the crash is still unknown.\n\nLin's relationship with Great Chairman Mao has been deteriorating since their different opinion on the abolition of the position of National Chairman. Lin was said to be responsible for some attempted assassination of Great Chairman Mao and was believed to flee because of the fear of being the next target of the Red Guard."
  prc.8.a:0	"This is going out of control!"
 
- prc.10.t:0	"Lin Biao Fled To [PRC_linbiao_flee_target.GetName]"
- prc.10.d:0	"Lin Biao, the hand-picked heir of Great Chairman Mao had fled to [PRC_linbiao_flee_target.GetName] and had arrived at [PRC_linbiao_flee_target.Capital.GetName] by plane. The Party and Great Chairman Mao announced that Lin fled because he feared he would be prosecuted for attempted assassination of Great Chairman Mao, thus seek asylum in [PRC_linbiao_flee_target.GetName].\n\nThe Red Guard has start criticizing Lin and his family members that did not participate in the flight, whom were beat to death by the Red Guard afterwards."
+ prc.10.t:0	"Lin Biao Fled To [[~PRC_linbiao_flee_target.GetName~]]"
+ prc.10.d:0	"Lin Biao, the hand-picked heir of Great Chairman Mao had fled to [[~PRC_linbiao_flee_target.GetName~]] and had arrived at [[~PRC_linbiao_flee_target.Capital.GetName~]] by plane. The Party and Great Chairman Mao announced that Lin fled because he feared he would be prosecuted for attempted assassination of Great Chairman Mao, thus seek asylum in [[~PRC_linbiao_flee_target.GetName~]].\n\nThe Red Guard has start criticizing Lin and his family members that did not participate in the flight, whom were beat to death by the Red Guard afterwards."
  prc.10.a:0	"It seems like Mao's closest men are starting to see his real face."
 
  prc.11.t:0	"Death of Zhou Enlai"
@@ -911,7 +911,7 @@
  prc.12.a:0	"Another loss of leadership, this does not look good."
 
  prc.13.t:0	"Gang Of Four Crushed"
- prc.13.d:0	"[Root.GetLeader] had arrested the 'Gang Of Four', which responsible for most of the movements in the later period of the 'Cultural Revolution', including the criticism of Confucius and Lin Biao. The head of the gang, Jiang Qing, who is Mao's widow, stated that they are just doing Mao's will. However Mao had tried to suppress the gang's power while he is still alive. With the 'Gang Of Four' gone, the chaos that lasted for almost a decade should be close to its end."
+ prc.13.d:0	"[[~Root.GetLeader~]] had arrested the 'Gang Of Four', which responsible for most of the movements in the later period of the 'Cultural Revolution', including the criticism of Confucius and Lin Biao. The head of the gang, Jiang Qing, who is Mao's widow, stated that they are just doing Mao's will. However Mao had tried to suppress the gang's power while he is still alive. With the 'Gang Of Four' gone, the chaos that lasted for almost a decade should be close to its end."
  prc.13.a:0	"They should have been arrested and executed a long time ago!"
 
  prc.14.t:0	"Foreign Investments"
@@ -931,7 +931,7 @@
  prc.22.a:0	"Hope he is better than Hua..."
 
  prc.23.t:0	"Lin Biao Seizes Power"
- prc.23.d:0	"Lin Biao, who fled to [SOV.GetName] during the 'Cultural Revolution' has returned and seizes power by launching a coup with his remaining subordinate that survive the Chaos Decade, overthrowing Hua Guofeng and seizes the seat of the National Chairman."
+ prc.23.d:0	"Lin Biao, who fled to [[~SOV.GetName~]] during the 'Cultural Revolution' has returned and seizes power by launching a coup with his remaining subordinate that survive the Chaos Decade, overthrowing Hua Guofeng and seizes the seat of the National Chairman."
  prc.23.a:0	"A ghost of the past!"
 
  prc.24.t:0	"The West Expedition"
@@ -943,7 +943,7 @@
  prc.25.d:0	"The Canadian communist Norman Bethune, also known as Bai Qiuen, has visited Mao yesterday. Bai insisted that he will perform field surgeries for our soldiers to help our war against the Japanese."
  prc.25.a:0	"A medic is what we need!"
 
- prc.26.t:0	"[GetMonth] Countercurrent"
+ prc.26.t:0	"[[~GetMonth~]] Countercurrent"
  prc.26.d:0	"The conflict between some senior members in the party and Jiang Qing has become more obvious. Jiang Qing's group has framed the senior members as reactionaries, leading to some of them being distrusted by Mao."
  prc.26.a:0	"Politics are dark things."
 
@@ -959,41 +959,41 @@
  prc.29.d:0	"Nie Rong Zhen has been demoted to work in a chemical plant in Han Dan by the order of Mao."
  prc.29.a:0	"Politics are dark things."
 
- prc.36.t:0	"[PRC.GetName] Planning On Invading [SIK.GetName]"
- prc.36.d:0	"Our informant in [PRC.GetName] has verified that they are planning on taking [SIK.GetName] by force."
- prc.36.a:0	"Demand [SIK.GetLeader] to cooperate to avoid bloodshed."
- prc.36.b:0	"Demand [PRC.GetLeader] to abandon this idea."
+ prc.36.t:0	"[[~PRC.GetName~]] Planning On Invading [[~SIK.GetName~]]"
+ prc.36.d:0	"Our informant in [[~PRC.GetName~]] has verified that they are planning on taking [[~SIK.GetName~]] by force."
+ prc.36.a:0	"Demand [[~SIK.GetLeader~]] to cooperate to avoid bloodshed."
+ prc.36.b:0	"Demand [[~PRC.GetLeader~]] to abandon this idea."
  prc.36.c:0	"Interesting..."
 
- prc.37.t:0	"Herald From [SOV.GetName]"
- prc.37.d:0	"[SOV.GetLeader] has demanded that we submit to [PRC.GetName] peacefully, to avoid more blood being spilt."
+ prc.37.t:0	"Herald From [[~SOV.GetName~]]"
+ prc.37.d:0	"[[~SOV.GetLeader~]] has demanded that we submit to [[~PRC.GetName~]] peacefully, to avoid more blood being spilt."
  prc.37.a:0	"They are right, this is for the greater good of our people."
  prc.37.b:0	"Such nonsense! We won't give in without a fight!"
 
- prc.38.d:0	"[SOV.GetLeader] has demanded that we scrapped our plan to invade [SIK.GetName]."
- prc.38.a:0	"[SOV.GetLeader]'s words aren't the wisest, [PRC.GetLeader]'s are!"
+ prc.38.d:0	"[[~SOV.GetLeader~]] has demanded that we scrapped our plan to invade [[~SIK.GetName~]]."
+ prc.38.a:0	"[[~SOV.GetLeader~]]'s words aren't the wisest, [[~PRC.GetLeader~]]'s are!"
  prc.38.b:0	"Don't draw unwanted attention."
 
- prc.39.t:0	"[SOV.GetName] Intervention"
- prc.39.d:0	"With [SOV.GetName]'s intervention, [SIK.GetName] submitted to us peacefully."
+ prc.39.t:0	"[[~SOV.GetName~]] Intervention"
+ prc.39.d:0	"With [[~SOV.GetName~]]'s intervention, [[~SIK.GetName~]] submitted to us peacefully."
  prc.39.a:0	"One way or another, our goal is accomplished."
 
- prc.40.t:0	"[SIK.GetName] Defiant"
- prc.40.d:0	"[SIK.GetLeader] has refused to submit peacefully to [PRC.GetName]!"
+ prc.40.t:0	"[[~SIK.GetName~]] Defiant"
+ prc.40.d:0	"[[~SIK.GetLeader~]] has refused to submit peacefully to [[~PRC.GetName~]]!"
  prc.40.a:0	"How dare they don't follow our orders!"
 
- prc.41.t:0	"[PRC.GetName] Defiant"
- prc.41.d:0	"[PRC.GetLeader] has refused to abandon their plan on invading [SIK.GetName]!"
+ prc.41.t:0	"[[~PRC.GetName~]] Defiant"
+ prc.41.d:0	"[[~PRC.GetLeader~]] has refused to abandon their plan on invading [[~SIK.GetName~]]!"
 
- prc.42.t:0	"[PRC.GetLeader] Obeyed Our Order"
- prc.42.d:0	"[SIK.GetLeader] has abandon their plan on invading [SIK.GetName]!"
+ prc.42.t:0	"[[~PRC.GetLeader~]] Obeyed Our Order"
+ prc.42.d:0	"[[~SIK.GetLeader~]] has abandon their plan on invading [[~SIK.GetName~]]!"
  prc.42.a:0	"At least they still know their place."
 
- prc.43.t:0	"[SOV.GetAdjective] Reinforcements"
- prc.43.d:0	"Regarding [SIK.GetName]'s resilient towards submission, [SOV.GetName] has sent reinforcements to help us."
+ prc.43.t:0	"[[~SOV.GetAdjective~]] Reinforcements"
+ prc.43.d:0	"Regarding [[~SIK.GetName~]]'s resilient towards submission, [[~SOV.GetName~]] has sent reinforcements to help us."
  prc.43.a:0	"These forces will be vital to our effort!"
 
- prc.44.d:0	"Regarding [PRC.GetName]'s warmongering, [SOV.GetName] has sent reinforcements to help us."
+ prc.44.d:0	"Regarding [[~PRC.GetName~]]'s warmongering, [[~SOV.GetName~]] has sent reinforcements to help us."
 
  prc.46.t:0	"Assassination Of Mao Zedong"
  prc.46.d:0	"Our Great Chairman, Mao Zedong, has been killed in a knavish assassination attempt today. His hand-picked successor to the position, Lin Biao, has decided to end the Cultural Revolution once and for all. All opposition has been dealt with swiftly and our nation is recovering from the damage done in the disaster, at least on some extent.\n\nAlthough some conspiracies state that Lin stages the assassination for him to take the position, no evidence can proof it to be the truth."
@@ -1013,21 +1013,21 @@
 
  prc.50.t:0	"Defectors From NRA"
  prc.50.d:0	"Some soldiers from the NRA have decided to defect to our side."
- prc.50.a:0	"[CHI.GetLeader]'s poor decision causes his failure."
+ prc.50.a:0	"[[~CHI.GetLeader~]]'s poor decision causes his failure."
  prc.66.t:0	"Chen Duxiu"
- prc.66.d:0	"With the return of Trotsky in [SOV.GetNameDEF], Trotskyism supporters around the world have risen up and criticized the "corrupted" communism that Stalin has created. Among them is one of our former comrade - Chen Duxiu. If we are to keep a good relationship with [SOV.GetNameDEF], we should put Chen in power and get rid of Mao."
+ prc.66.d:0	"With the return of Trotsky in [[~SOV.GetNameDEF~]], Trotskyism supporters around the world have risen up and criticized the "corrupted" communism that Stalin has created. Among them is one of our former comrade - Chen Duxiu. If we are to keep a good relationship with [[~SOV.GetNameDEF~]], we should put Chen in power and get rid of Mao."
  prc.66.a:0	"Let's push forward the idea of Permanent Revolution!"
  prc.66.b:0	"Trotskyism is a treacherous ideology tied with fascism!"
 
- prc.54.t:0	"Proposal From [From.GetName]"
- prc.54.d:0	"We have recently received a proposal from [From.GetLeader]'s representative. Stating that they would like to seek our permission to establish another government in the northwest region of China, and use our support to fight against the Japanese and [CHI.GetRulingParty]."
- prc.54.a:0	"Tell them to work with the [CHI.GetRulingParty] instead."
+ prc.54.t:0	"Proposal From [[~From.GetName~]]"
+ prc.54.d:0	"We have recently received a proposal from [[~From.GetLeader~]]'s representative. Stating that they would like to seek our permission to establish another government in the northwest region of China, and use our support to fight against the Japanese and [[~CHI.GetRulingParty~]]."
+ prc.54.a:0	"Tell them to work with the [[~CHI.GetRulingParty~]] instead."
  prc.54.b:0	"Let's see how well can they do."
 
  prc.55.t:0	"Zhang Xueliang"
  prc.55.d:0	"Zhang has been refusing to push forward the plan of the Grand Northwest Union, now that we have decided things on our end, we should try to convince Zhang that everything is well-prepared."
  prc.55.a:0	"Just get rid of him, he will only slow our progress."
- prc.55.b:0	"Accept his idea of not standing against the [CHI.GetRulingParty]."
+ prc.55.b:0	"Accept his idea of not standing against the [[~CHI.GetRulingParty~]]."
  prc.55.c:0	"Threaten to deliver him back to the Kuomintang."
  prc.55.e:0	"We will be fine without him."
 
@@ -1040,17 +1040,17 @@
  prc.57.d:0	"After some consideration, Zhang Xueliang has decided to join the Grand Northwest Union. He assume the leadership once we have secured Gansu province and officially formed the GNU."
  prc.57.a:0	"As expected."
 
- prc.59.t:0	"[From.GetName] Rejected Our Proposal"
- prc.59.d:0	"[From.GetLeader] has rejected our proposal, stating that we should work with the [CHI.GetRulingParty] instead of fight against them."
+ prc.59.t:0	"[[~From.GetName~]] Rejected Our Proposal"
+ prc.59.d:0	"[[~From.GetLeader~]] has rejected our proposal, stating that we should work with the [[~CHI.GetRulingParty~]] instead of fight against them."
  prc.59.a:0	"We will take matters into our own hand!"
  prc.59.b:0	"Follow the order."
 
- prc.60.t:0	"[From.GetName] Approved of Our Proposal"
- prc.60.d:0	"Our proposal for the Grand Northwest Union has been approved by [From.GetNameDEF], we should work on it immediately."
+ prc.60.t:0	"[[~From.GetName~]] Approved of Our Proposal"
+ prc.60.d:0	"Our proposal for the Grand Northwest Union has been approved by [[~From.GetNameDEF~]], we should work on it immediately."
  prc.60.a:0	"Great!"
 
- prc.61.t:0	"[From.GetName] Defied Our Order"
- prc.61.d:0	"Despite our good intention, [From.GetLeader] has refused to follow our order and decided to form the Grand Northwest Union anyway."
+ prc.61.t:0	"[[~From.GetName~]] Defied Our Order"
+ prc.61.d:0	"Despite our good intention, [[~From.GetLeader~]] has refused to follow our order and decided to form the Grand Northwest Union anyway."
  prc.61.a:0	"Son of a...!"  #because it was in russian previously...
 
  prc.62.t:0	"Mao Executed"
@@ -1072,17 +1072,17 @@
  prc.65.a:0	"We must protect our people from the red plague!"
  prc.65.b:0	"There's no need for it."
 
- prc.67.t:0	"Message From [From.GetName]"
- prc.67.d:0	"[From.GetName] has sent representatives to meet with [Root.GetLeader], demanding that we hand over Suiyuan to them, in return, they will offer us to join the [From.GetFactionName] and a few assistance in industry."
+ prc.67.t:0	"Message From [[~From.GetName~]]"
+ prc.67.d:0	"[[~From.GetName~]] has sent representatives to meet with [[~Root.GetLeader~]], demanding that we hand over Suiyuan to them, in return, they will offer us to join the [[~From.GetFactionName~]] and a few assistance in industry."
  prc.67.a:0	"Sounds reasonable."
  prc.67.b:0	"Not even in their wildest dream!"
 
- prc.68.t:0	"[From.GetName] Accepted"
- prc.68.d:0	"[From.GetLeader] has agreed to hand over Suiyuan to us."
+ prc.68.t:0	"[[~From.GetName~]] Accepted"
+ prc.68.d:0	"[[~From.GetLeader~]] has agreed to hand over Suiyuan to us."
  prc.68.a:0	"A wise move"
 
- prc.69.t:0	"[From.GetName] Refused"
- prc.69.d:0	"[From.GetLeader] has refused to hand over Suiyuan to us."
+ prc.69.t:0	"[[~From.GetName~]] Refused"
+ prc.69.d:0	"[[~From.GetLeader~]] has refused to hand over Suiyuan to us."
  prc.69.a:0	"Futile resistance."
 
  prc.70.t:0	"Xu Lanzhou"
@@ -1090,21 +1090,21 @@
  prc.70.a:0	"Leave him alone."
  prc.70.b:0	"Hire him as our martial art tutor."
 
- prc.71.t:0	"[From.GetName] Seeks Alliance"
+ prc.71.t:0	"[[~From.GetName~]] Seeks Alliance"
  prc.71.d:0	"Although they have established their government in the northwest region, it seems that their goal is somewhat aligned with ours. We could work with them and chase the Japanese back to the sea."
  prc.71.a:0	"Chinese should unite against our common enemies."
  prc.71.b:0	"They will stab us in the back for sure!"
 
  prc.72.t:0	"Alliance Accepted"
- prc.72.d:0	"[From.GetName] has accepted our proposal for an alliance."
+ prc.72.d:0	"[[~From.GetName~]] has accepted our proposal for an alliance."
  prc.72.a:0	"Death to invaders!"
 
  prc.73.t:0	"Alliance Rejected"
- prc.73.d:0	"[From.GetName] has rejected our proposal."
+ prc.73.d:0	"[[~From.GetName~]] has rejected our proposal."
  prc.73.a:0	"Damn them!"
 
- prc.74.t:0	"[From.GetName] Seeks To Exchange Military Knowledge"
- prc.74.d:0	"Knowing that both of us will not survive for long if we fight alone, [From.GetLeader] has decided to let our forces cooperate with each other's. This way, we could learn the merits of their army, and so could they learn ours."
+ prc.74.t:0	"[[~From.GetName~]] Seeks To Exchange Military Knowledge"
+ prc.74.d:0	"Knowing that both of us will not survive for long if we fight alone, [[~From.GetLeader~]] has decided to let our forces cooperate with each other's. This way, we could learn the merits of their army, and so could they learn ours."
  prc.74.a:0	"Acceptable"
  prc.74.b:0	"They must be planning something evil..."
 
@@ -1113,105 +1113,105 @@
  prc.75.a:0	"Our combine might will bring our enemies to their knees!"
 
  prc.76.t:0	"Proposal Rejected"
- prc.76.d:0	"[From.GetName] has rejected our proposal of exchanging military knowledge."
+ prc.76.d:0	"[[~From.GetName~]] has rejected our proposal of exchanging military knowledge."
  prc.76.a:0	"What are they even thinking?"
 
- prc.77.t:0	"[From.GetName] Sends Apologies"
- prc.77.d:0	"Although they have defied our order by forming the [From.GetFactionName], they are now technically in a united front with [CHI.GetNameDef], which is what we want them to achieve. Now they have sent an apology to us and want us to overlook their previous "misbehaviour"."
+ prc.77.t:0	"[[~From.GetName~]] Sends Apologies"
+ prc.77.d:0	"Although they have defied our order by forming the [[~From.GetFactionName~]], they are now technically in a united front with [[~CHI.GetNameDef~]], which is what we want them to achieve. Now they have sent an apology to us and want us to overlook their previous "misbehaviour"."
  prc.77.a:0	"Oh well..."
  prc.77.b:0	"I have never seen such shameless people!"
 
- prc.78.t:0	"[From.GetName] Accepts Our Apology"
- prc.78.d:0	"Our apology has been accepted by [From.GetName]."
+ prc.78.t:0	"[[~From.GetName~]] Accepts Our Apology"
+ prc.78.d:0	"Our apology has been accepted by [[~From.GetName~]]."
  prc.78.a:0	"Nice."
 
- prc.79.t:0	"[From.GetName] Rejects Our Apology"
- prc.79.d:0	"Our apology has been rejected by [From.GetName]."
+ prc.79.t:0	"[[~From.GetName~]] Rejects Our Apology"
+ prc.79.d:0	"Our apology has been rejected by [[~From.GetName~]]."
  prc.79.a:0	"A pity"
 
- prc.80.t:0	"Pressure From [From.GetName]"
- prc.80.d:0	"[From.GetName] has been pressuring [Root.GetLeader] lately. Some officials also start to tell [Root.GetLeader] to submit before [From.GetName]'s forces breached into his house and make him meet his demise."
+ prc.80.t:0	"Pressure From [[~From.GetName~]]"
+ prc.80.d:0	"[[~From.GetName~]] has been pressuring [[~Root.GetLeader~]] lately. Some officials also start to tell [[~Root.GetLeader~]] to submit before [[~From.GetName~]]'s forces breached into his house and make him meet his demise."
  prc.80.b:0	"Submit before it's too late."
  prc.80.a:0	"We will not fall to such naive tricks."
 
- prc.81.t:0	"[From.GetName] Submitted"
- prc.81.d:0	"Able to endure our pressure no longer, [From.GetLeader] has decided to submit to our government."
+ prc.81.t:0	"[[~From.GetName~]] Submitted"
+ prc.81.d:0	"Able to endure our pressure no longer, [[~From.GetLeader~]] has decided to submit to our government."
  prc.81.a:0	"A wise decision."
 
- prc.82.t:0	"[From.GetName] Refuses To Submit"
- prc.82.d:0	"Despite our heavy pressure and bribed officials' persuasion, [From.GetLeader] stands firm. He told our representative that he will never submit to our tyrannical rule."
+ prc.82.t:0	"[[~From.GetName~]] Refuses To Submit"
+ prc.82.d:0	"Despite our heavy pressure and bribed officials' persuasion, [[~From.GetLeader~]] stands firm. He told our representative that he will never submit to our tyrannical rule."
  prc.82.a:0	"They will soon recognize the mistake they made."
 
- prc.83.t:0	"[From.GetName] Betrayed Us"
- prc.83.d:0	"[From.GetName] has overthrown our puppet government and is now loyal to [PRC.GetName]!"
+ prc.83.t:0	"[[~From.GetName~]] Betrayed Us"
+ prc.83.d:0	"[[~From.GetName~]] has overthrown our puppet government and is now loyal to [[~PRC.GetName~]]!"
  prc.83.a:0	"How dare they!"
 
- prc.84.t:0	"[From.GetName] Demands We Cede Territory"
- prc.84.d:0	"[From.GetName] states that we have been occupying their rightful territories for too long, and the time has come for them to take action against such injustice."
+ prc.84.t:0	"[[~From.GetName~]] Demands We Cede Territory"
+ prc.84.d:0	"[[~From.GetName~]] states that we have been occupying their rightful territories for too long, and the time has come for them to take action against such injustice."
  prc.84.a:0	"We don't want to start a war with them."
  prc.84.b:0	"Is this some sort of joke?"
 
- prc.85.t:0	"[From.GetName] Returns Territory"
- prc.85.d:0	"[From.GetName] has decided to return our territory."
+ prc.85.t:0	"[[~From.GetName~]] Returns Territory"
+ prc.85.d:0	"[[~From.GetName~]] has decided to return our territory."
  prc.85.a:0	"Good for both."
 
- prc.86.t:0	"[From.GetName] Refuses To Return Territory"
- prc.86.d:0	"[From.GetName] has decided to keep our rightful territory."
+ prc.86.t:0	"[[~From.GetName~]] Refuses To Return Territory"
+ prc.86.d:0	"[[~From.GetName~]] has decided to keep our rightful territory."
  prc.86.a:0	"Time to do this the hard way."
 
- prc.87.d:0	"With the ever-growing power of [From.GetName], our people have been fearing that our nation might perish soon enough if we do not take a side. Just at yesterday, an ultimatum from [From.GetName] has reached [Root.GetLeader]'s desk, demanding that [Root.GetName] to become their protectorate."
+ prc.87.d:0	"With the ever-growing power of [[~From.GetName~]], our people have been fearing that our nation might perish soon enough if we do not take a side. Just at yesterday, an ultimatum from [[~From.GetName~]] has reached [[~Root.GetLeader~]]'s desk, demanding that [[~Root.GetName~]] to become their protectorate."
  prc.87.a:0	"Cowards live..."
  prc.87.b:0	"We will never give in to tyrant!"
 
  prc.88.a:0	"Occupy the area."
 
- prc.89.t:0	"[From.GetName] Demands Concessions"
+ prc.89.t:0	"[[~From.GetName~]] Demands Concessions"
 
- prc.92.t:0	"[From.GetName] Tries To Takeover"
- prc.92.d:0	"[From.GetName] has sent representatives to meet with [Root.GetLeader] this morning. The meeting is mostly about telling [Root.GetLeader] to give up his power and let [From.GetName] takeover. After much consideration from [Root.GetLeader], a solution has come out..."
- prc.92.a:0	"[Root.GetName] will not submit to the devil!"
+ prc.92.t:0	"[[~From.GetName~]] Tries To Takeover"
+ prc.92.d:0	"[[~From.GetName~]] has sent representatives to meet with [[~Root.GetLeader~]] this morning. The meeting is mostly about telling [[~Root.GetLeader~]] to give up his power and let [[~From.GetName~]] takeover. After much consideration from [[~Root.GetLeader~]], a solution has come out..."
+ prc.92.a:0	"[[~Root.GetName~]] will not submit to the devil!"
  prc.92.b:0	"Give up the power."
 
- prc.93.t:0	"[From.GetName] Rebels"
- prc.93.d:0	"[From.GetLeader] has decided to go to war against us rather than submitting to us."
+ prc.93.t:0	"[[~From.GetName~]] Rebels"
+ prc.93.d:0	"[[~From.GetLeader~]] has decided to go to war against us rather than submitting to us."
  prc.93.a:0	"Weapons can still do the trick."
 
- prc.95.t:0	"[From.GetName] Seeks A Pact With Us"
- prc.95.d:0	"[From.GetName] has sent representatives to request our signature on their newly drafted pact. This pact would act as a declaration of friendship and non-aggression pact as well."
+ prc.95.t:0	"[[~From.GetName~]] Seeks A Pact With Us"
+ prc.95.d:0	"[[~From.GetName~]] has sent representatives to request our signature on their newly drafted pact. This pact would act as a declaration of friendship and non-aggression pact as well."
  prc.95.a:0	"Sign it"
  prc.95.b:0	"This must be some naive trick."
 
  prc.96.t:0	"Pact Signed"
- prc.96.d:0	"[From.GetName] has signed the pact."
+ prc.96.d:0	"[[~From.GetName~]] has signed the pact."
  prc.96.a:0	"Excellent!"
 
  prc.97.t:0	"Pact Rejected"
- prc.97.d:0	"[From.GetName] has refused to sign the pact."
+ prc.97.d:0	"[[~From.GetName~]] has refused to sign the pact."
  prc.97.a:0	"Whatever"
 
  prc.102.t:0	"WPPO Proposal"
- prc.102.d:0	"[From.GetName] has sent a proposal to us, suggesting that the establishment of the WPPO(West Pacific Pact Organization) is indispensable. With the WPPO established, we can look after each other's back and deter any devils that is eyeing on our territories."
+ prc.102.d:0	"[[~From.GetName~]] has sent a proposal to us, suggesting that the establishment of the WPPO(West Pacific Pact Organization) is indispensable. With the WPPO established, we can look after each other's back and deter any devils that is eyeing on our territories."
  prc.102.a:0	"This could ensure our survival."
  prc.102.b:0	"Sore wa inbou desu."
 
- prc.103.t:0	"[From.GetFactionName] Established"
- prc.103.d:0	"[From.GetName] has agreed to form the WPPO, we now stand together."
+ prc.103.t:0	"[[~From.GetFactionName~]] Established"
+ prc.103.d:0	"[[~From.GetName~]] has agreed to form the WPPO, we now stand together."
  prc.103.a:0	"Glorious!"
 
- prc.104.t:0	"[From.GetName] Refused"
- prc.104.d:0	"[From.GetName] has refused to form the WPPO."
+ prc.104.t:0	"[[~From.GetName~]] Refused"
+ prc.104.d:0	"[[~From.GetName~]] has refused to form the WPPO."
  prc.104.a:0	"A pity"
 
- prc.105.t:0	"[From.GetFactionName] Supported Coup"
- prc.105.d:0	"A coup that is supported by [From.GetFactionName] has just started!"
+ prc.105.t:0	"[[~From.GetFactionName~]] Supported Coup"
+ prc.105.d:0	"A coup that is supported by [[~From.GetFactionName~]] has just started!"
  prc.105.a:0	"Damn them!"
 
- prc.106.t:0	"[From.GetName]'s Betrayal"
- prc.106.d:0	"Despite the pact we signed, [From.GetName] now show hostility against us. They have executed all [Root.GetAdjective] officials in their government and declared war on us!"
+ prc.106.t:0	"[[~From.GetName~]]'s Betrayal"
+ prc.106.d:0	"Despite the pact we signed, [[~From.GetName~]] now show hostility against us. They have executed all [[~Root.GetAdjective~]] officials in their government and declared war on us!"
  prc.106.a:0	"Yaban jin!"
 
  prc.108.t:0	"Rescue Zhang Xueliang?"
- prc.108.d:0	"Zhang is detained by the [CHI.GetRulingParty] after the Xi'an Incident. Without him, the plan for the Grand Northwest Union cannot proceed."
+ prc.108.d:0	"Zhang is detained by the [[~CHI.GetRulingParty~]] after the Xi'an Incident. Without him, the plan for the Grand Northwest Union cannot proceed."
  prc.108.a:0	"Rescue him!"
  prc.108.b:0	"We can continue without him."
 
@@ -1221,20 +1221,20 @@
  prc.109.b:0	"We should wait for a more suitable situation."
  prc.109.c:0	"What is this nonsense!"
 
- prc.110.t:0	"[From.GetName] Seeks Peace"
+ prc.110.t:0	"[[~From.GetName~]] Seeks Peace"
  prc.110.d:0	"With their goal achieved, they now seek peace between us."
  prc.110.a:0	"Our forces are needed elsewhere..."
  prc.110.b:0	"Never!"
 
- prc.111.t:0	"Peace With [JAP.GetName]"
- prc.111.d:0	"[From.GetName] has agreed to a peace between us."
+ prc.111.t:0	"Peace With [[~JAP.GetName~]]"
+ prc.111.d:0	"[[~From.GetName~]] has agreed to a peace between us."
  prc.111.a:0	"The best outcome"
 
- prc.112.t:0	"[From.GetName] Rejected Peace"
- prc.112.d:0	"[From.GetName] has refused to make peace."
+ prc.112.t:0	"[[~From.GetName~]] Rejected Peace"
+ prc.112.d:0	"[[~From.GetName~]] has refused to make peace."
  prc.112.a:0	"They are only avoiding the inevitable."
 
- prc.114.d:0	"We have fought off [JAP.GetNameDef] and their puppet regimes in Manchuria for a long time. With our forces liberating the last stronghold of the imperial realm in the North-East, [JAP.GetAdjective] officials fearing that their state will never recover from the prolonged war of attrition against [PRC.GetNameDef] have reached our politicians with a ceasefire proposal and surrender terms. \n\nThis is our chance to make demand!"
+ prc.114.d:0	"We have fought off [[~JAP.GetNameDef~]] and their puppet regimes in Manchuria for a long time. With our forces liberating the last stronghold of the imperial realm in the North-East, [[~JAP.GetAdjective~]] officials fearing that their state will never recover from the prolonged war of attrition against [[~PRC.GetNameDef~]] have reached our politicians with a ceasefire proposal and surrender terms. \n\nThis is our chance to make demand!"
 
  prc.115.t:0	"Famine In Henan"
  prc.115.d:0	"The war raging in Henan has caused a famine in the region, as farmlands are destroyed by the war. The local government is now seeking our help to ease their burden."
@@ -1246,30 +1246,30 @@
 
  prc.116.a:0	"A wise move."
 
- prc.117.t:0	"[XSM.GetName] Joins [CHI.GetName] Against Us"
- prc.117.d:0	"[CHI.GetLeader] has ordered [XSM.GetLeader] to launch an offensive at our northwestern flank!"
- prc.117.a:0	"They shall perish along with [CHI.GetLeader]!"
+ prc.117.t:0	"[[~XSM.GetName~]] Joins [[~CHI.GetName~]] Against Us"
+ prc.117.d:0	"[[~CHI.GetLeader~]] has ordered [[~XSM.GetLeader~]] to launch an offensive at our northwestern flank!"
+ prc.117.a:0	"They shall perish along with [[~CHI.GetLeader~]]!"
 
- prc.120.t:0	"Invitation From [From.GetLeader]"
- prc.120.d:0	"With the establishment of [From.GetFactionName], [From.GetLeader] has sent an invitation to [Root.GetLeader], hoping that we can join their course."
+ prc.120.t:0	"Invitation From [[~From.GetLeader~]]"
+ prc.120.d:0	"With the establishment of [[~From.GetFactionName~]], [[~From.GetLeader~]] has sent an invitation to [[~Root.GetLeader~]], hoping that we can join their course."
  prc.120.a:0	"Good idea."
  prc.120.b:0	"How about no?"
 
- prc.121.t:0	"[From.GetName] Joins Us"
- prc.121.d:0	"[From.GetLeader] has decided to join our course."
+ prc.121.t:0	"[[~From.GetName~]] Joins Us"
+ prc.121.d:0	"[[~From.GetLeader~]] has decided to join our course."
  prc.121.a:0	"Fantastic!"
 
- prc.122.t:0	"[From.GetName] Refused"
- prc.122.d:0	"[From.GetLeader] has refused to join [Root.GetFactionName], saying that they can do better on their own."
+ prc.122.t:0	"[[~From.GetName~]] Refused"
+ prc.122.d:0	"[[~From.GetLeader~]] has refused to join [[~Root.GetFactionName~]], saying that they can do better on their own."
  prc.122.a:0	"Arrogant scum!"
 
- prc.123.t:0	"Send Invitation To [SIK.GetLeader]?"
- prc.123.d:0	"To get supplies from [SOV.GetNameDef], gaining access to the Sinkiang region is important. We could invite them to our faction and gain their trust."
+ prc.123.t:0	"Send Invitation To [[~SIK.GetLeader~]]?"
+ prc.123.d:0	"To get supplies from [[~SOV.GetNameDef~]], gaining access to the Sinkiang region is important. We could invite them to our faction and gain their trust."
  prc.123.a:0	"Send it."
  prc.123.b:0	"It is unnecessary."
 
- prc.124.t:0	"[From.GetLeader] Urges For Action"
- prc.124.d:0	"[From.GetLeader] has sent messages of them being well-prepared for the establishment of the Northwest National Defense Government, and are now awaiting our action."
+ prc.124.t:0	"[[~From.GetLeader~]] Urges For Action"
+ prc.124.d:0	"[[~From.GetLeader~]] has sent messages of them being well-prepared for the establishment of the Northwest National Defense Government, and are now awaiting our action."
  prc.124.a:0	"We are ready."
  prc.124.b:0	"Too soon..."
 

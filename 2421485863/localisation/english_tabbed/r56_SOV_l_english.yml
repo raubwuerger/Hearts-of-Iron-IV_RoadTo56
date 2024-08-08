@@ -55,7 +55,7 @@
  SOV_amnesty_for_political_opponents:0	"Amnesty for Political Opponents"
  SOV_amnesty_for_political_opponents_desc:0	"Why execute and arrest those loyal to the Soviets, when we can still use their skills."
  SOV_rebuild_the_duma:0	"Rebuild the Duma"
- SOV_rebuild_the_duma_desc:0	"Founded by the Emperors decree in 1905, [ROOT.getAdjective] Duma represented the mere illusion of the potential freedoms our people desired for centuries. The solid democratic foundation of our state will be strengthened even further if we reopen both houses on a basis of fair and free elections."
+ SOV_rebuild_the_duma_desc:0	"Founded by the Emperors decree in 1905, [[~ROOT.getAdjective~]] Duma represented the mere illusion of the potential freedoms our people desired for centuries. The solid democratic foundation of our state will be strengthened even further if we reopen both houses on a basis of fair and free elections."
  SOV_cultural_autonomy:0	"Cultural Autonomy"
  SOV_cultural_autonomy_desc:0	"Our nation is vast with different cultures ranging from east to west. To give the people more freedom, we should allow them to practice their traditions."
  SOV_abolish_death_penalty:0	"Abolish the Death Penalty"
@@ -256,16 +256,16 @@
  r56.soviet.34.a:0	"Only hurts therm."
 
  r56.soviet.38.t:0	"Invitation to the CSTO"
- r56.soviet.38.d:0	"With the formation of the Collective Security Treaty Organization, [SOV.GetNameDEF] government has been open to protecting its weaker neighbours, they have offered our nation protection. We could accept, as it would be a clear benefit for ourselves."
+ r56.soviet.38.d:0	"With the formation of the Collective Security Treaty Organization, [[~SOV.GetNameDEF~]] government has been open to protecting its weaker neighbours, they have offered our nation protection. We could accept, as it would be a clear benefit for ourselves."
  r56.soviet.38.a:0	"This is useful for our safety."
  r56.soviet.38.b:0	"Our diplomatic allegiances are our own to decide."
 
- r56.soviet.41.t:0	"[FROM.GetNameDefCap] Accepts!"
- r56.soviet.41.d:0	"[FROM.GetName] diplomats have agreed to cooperation with our governments, recognizing our diplomatic ties and furthering our relations."
+ r56.soviet.41.t:0	"[[~FROM.GetNameDefCap~]] Accepts!"
+ r56.soviet.41.d:0	"[[~FROM.GetName~]] diplomats have agreed to cooperation with our governments, recognizing our diplomatic ties and furthering our relations."
  r56.soviet.41.a:0	"Excellent!"
 
- r56.soviet.42.t:0	"[FROM.GetNameDefCap] Denied Our Offer"
- r56.soviet.42.d:0	"Officials of [FROM.GetNameDef] have denied our help and refused to talk to our diplomats."
+ r56.soviet.42.t:0	"[[~FROM.GetNameDefCap~]] Denied Our Offer"
+ r56.soviet.42.d:0	"Officials of [[~FROM.GetNameDef~]] have denied our help and refused to talk to our diplomats."
  r56.soviet.42.a:0	"Only hurts therm."
 
  r56.soviet.43.t:0	"Kirill Vladimirovich Passes"
@@ -277,47 +277,47 @@
  r56.soviet.44.a:0	"The Revolution will never die!"
 
  r56.soviet.92.t:0	"The Soviet Ultimatum"
- r56.soviet.92.d:0	"Our leadership hoped that the recent growth of the Cominform influence across the world and widening gap between the leading democratic nations and the communist states will leave the state of [CUB.GetNameDef] aside. Recent report delivered to our ambassador in Moscow has nullified these hopes. \n\nThe Soviet Union has offered us a place in their economic partnership, something that they claim "would be very beneficial to us and our nation". Their request in payment of this support is to aid them in their struggle against "capitalist menace" and to allow the free movement of their troops, air vehicles and lease of naval bases in near future if necessary. \n\nThis offer, however, was underscored by the thinly veiled threat of forceful integration into their block if we refuse. Should we decline, we always have the backing of the [USA.GetNameDef] in case if [SOV.getAdjective]s decide to escalate the situation."
+ r56.soviet.92.d:0	"Our leadership hoped that the recent growth of the Cominform influence across the world and widening gap between the leading democratic nations and the communist states will leave the state of [[~CUB.GetNameDef~]] aside. Recent report delivered to our ambassador in Moscow has nullified these hopes. \n\nThe Soviet Union has offered us a place in their economic partnership, something that they claim "would be very beneficial to us and our nation". Their request in payment of this support is to aid them in their struggle against "capitalist menace" and to allow the free movement of their troops, air vehicles and lease of naval bases in near future if necessary. \n\nThis offer, however, was underscored by the thinly veiled threat of forceful integration into their block if we refuse. Should we decline, we always have the backing of the [[~USA.GetNameDef~]] in case if [[~SOV.getAdjective~]]s decide to escalate the situation."
  r56.soviet.92.a:0	"A Fair Trade"
  r56.soviet.92.b:0	"Tell them where they can shove their damned Offer"
 
  r56.soviet.93.t:0	"The Sino-Soviet Treaty"
- r56.soviet.93.d:0	"Even though [SOV.GetNameDef] and [PRC.GetNameDef] have some disagreements about the external policies and mutual allies, the communist struggle and fight for peasant freedoms and workers independence guided both countries to the prosperity until now. \n\nIn an afternoon meeting, Soviet ambassador Aleksandr Semyonovich Panyushkin has handed our envoy a letter from [SOV.GetLeader] revealing their desire to pursue an alliance and mutually beneficial economic deals with our country under the banner of Cominform. \n\nWithout [SOV.getAdjective] and Cominform assistance we could not have secured our independence through the Chinese Civil War. Moreover, additional [SOV.getAdjective] economic, industrial and scientific assistance will only help to overcome the burden of the power struggle of recent years. \n\nWhat will be the official response of [PRC.GetLeader]?"
+ r56.soviet.93.d:0	"Even though [[~SOV.GetNameDef~]] and [[~PRC.GetNameDef~]] have some disagreements about the external policies and mutual allies, the communist struggle and fight for peasant freedoms and workers independence guided both countries to the prosperity until now. \n\nIn an afternoon meeting, Soviet ambassador Aleksandr Semyonovich Panyushkin has handed our envoy a letter from [[~SOV.GetLeader~]] revealing their desire to pursue an alliance and mutually beneficial economic deals with our country under the banner of Cominform. \n\nWithout [[~SOV.getAdjective~]] and Cominform assistance we could not have secured our independence through the Chinese Civil War. Moreover, additional [[~SOV.getAdjective~]] economic, industrial and scientific assistance will only help to overcome the burden of the power struggle of recent years. \n\nWhat will be the official response of [[~PRC.GetLeader~]]?"
  r56.soviet.93.a:0	"Agree to their Request"
  r56.soviet.93.b:0	"Politely Decline"
 
  r56.soviet.94.t:0	"Cuba Accepts"
- r56.soviet.94.d:0	"[CUB.getLeader] and his [CUB.GetRulingIdeologyNoun] revolutionaries have successfully cut the communications between the parliamentary building, residence of the president and army garrisons within the city limits. In their last and desperate attempts, the royal guards opened fire on the crowd, but they were taken out by armed members of the people's militia. \n\nThe red flags are now hanging out of the windows and [CUB.getLeader] has made his first speech in which he announced the overthrown of the capitalist government and [CUB.getName]'s desire to yield their support for our communist cause. \n\nOur diplomats and specialists are already on the way to support our new ally in the West."
+ r56.soviet.94.d:0	"[[~CUB.getLeader~]] and his [[~CUB.GetRulingIdeologyNoun~]] revolutionaries have successfully cut the communications between the parliamentary building, residence of the president and army garrisons within the city limits. In their last and desperate attempts, the royal guards opened fire on the crowd, but they were taken out by armed members of the people's militia. \n\nThe red flags are now hanging out of the windows and [[~CUB.getLeader~]] has made his first speech in which he announced the overthrown of the capitalist government and [[~CUB.getName~]]'s desire to yield their support for our communist cause. \n\nOur diplomats and specialists are already on the way to support our new ally in the West."
  r56.soviet.94.a:0	"Good for both of us"
 
  r56.soviet.95.t:0	"Cuba Declines"
- r56.soviet.95.d:0	"Our agents in [CUB.getName] have not reported back to the Motherland since our ultimatum has officially reached Havana. \n\nIn an official speech this morning, [CUB.getLeader] stated that "In the past few days, the major conspiracy which was aimed to overthrow the legitimate government of [CUB.GetName] was uncovered and its major leaders arrested. It was found out that the coup attempt was orchestrated and supported by the agents of [SOV.GetNameDef]." \n\nOur plans have been discovered. There is only one possible way left to enforce our demands on [CUB.GetNameDef]."
+ r56.soviet.95.d:0	"Our agents in [[~CUB.getName~]] have not reported back to the Motherland since our ultimatum has officially reached Havana. \n\nIn an official speech this morning, [[~CUB.getLeader~]] stated that "In the past few days, the major conspiracy which was aimed to overthrow the legitimate government of [[~CUB.GetName~]] was uncovered and its major leaders arrested. It was found out that the coup attempt was orchestrated and supported by the agents of [[~SOV.GetNameDef~]]." \n\nOur plans have been discovered. There is only one possible way left to enforce our demands on [[~CUB.GetNameDef~]]."
  r56.soviet.95.a:0	"We will align them by force then."
  r56.soviet.95.b:0	"It is better not to escalate the situation."
 
  r56.soviet.96.t:0	"China Accepts"
- r56.soviet.96.d:0	"From our side it was expected that [PRC.GetNameDef] will ratify the [SOV.getAdjective]-[PRC.getAdjective] mutual assistance treaty and [PRC.GetName] will join our economic and scientific partnership. \n\nIt was however a great surprise to [SOV.getLeader] that besides the official alliance, [PRC.GetName] will additionally severe any ties with [CHI.GetName] and [JAP.GetName]. \n\n[PRC.getAdjective] delegation led by [PRC.getLeader] himself will arrive in Moscow in a few weeks to discuss the economic cooperation and scientists exchange between our two nations. \n\nThis historic alliance of our great nations will strengthen the communist influence in the South-East Asia and expose many territories of the colonial powers to the Workers Revolution. "
+ r56.soviet.96.d:0	"From our side it was expected that [[~PRC.GetNameDef~]] will ratify the [[~SOV.getAdjective~]]-[[~PRC.getAdjective~]] mutual assistance treaty and [[~PRC.GetName~]] will join our economic and scientific partnership. \n\nIt was however a great surprise to [[~SOV.getLeader~]] that besides the official alliance, [[~PRC.GetName~]] will additionally severe any ties with [[~CHI.GetName~]] and [[~JAP.GetName~]]. \n\n[[~PRC.getAdjective~]] delegation led by [[~PRC.getLeader~]] himself will arrive in Moscow in a few weeks to discuss the economic cooperation and scientists exchange between our two nations. \n\nThis historic alliance of our great nations will strengthen the communist influence in the South-East Asia and expose many territories of the colonial powers to the Workers Revolution. "
  r56.soviet.96.a:0	"Onwards!"
 
  r56.soviet.97.t:0	"China Declines"
- r56.soviet.97.d:0	"Our slight ideological differences and discontent foreign policy of recent years apparently have not been seen by [PRC.getLeader] as the healthy basis for a future cooperation. \n\nAfter a long and tedious telephone conversation directly between the Great Revolutionaries, [PRC.getLeader] had to politely decline our invitation while stating, that "[PRC.GetNameDef] and its government in their current circumstances will prefer to focus on the internal politics, while securing and pursuing the alignments the country already has." \n\nPerhaps a common enemy will help us to gain [PRC.getAdjective] respect and sympathy back?"
+ r56.soviet.97.d:0	"Our slight ideological differences and discontent foreign policy of recent years apparently have not been seen by [[~PRC.getLeader~]] as the healthy basis for a future cooperation. \n\nAfter a long and tedious telephone conversation directly between the Great Revolutionaries, [[~PRC.getLeader~]] had to politely decline our invitation while stating, that "[[~PRC.GetNameDef~]] and its government in their current circumstances will prefer to focus on the internal politics, while securing and pursuing the alignments the country already has." \n\nPerhaps a common enemy will help us to gain [[~PRC.getAdjective~]] respect and sympathy back?"
  r56.soviet.97.a:0	"A Shame"
 
  r56.soviet.98.t:0	"The Question of a Balkan Federation"
- r56.soviet.98.d:0	"[SOV.GetNameDef] has informed of their plan to ease tensions across the Balkan peninsula through a formation of the Balkan Federation, which will unite the countries of [BUL.GetNameDef], [ROM.GetNameDef], [GRE.GetNameDef] and [ALB.GetNameDef] under the guidance of [YUG.GetNameDef] on the basis of internationalism, socialism, social solidarity, and economic equality. In exchange they offer us an alliance under the banner of Cominform."
+ r56.soviet.98.d:0	"[[~SOV.GetNameDef~]] has informed of their plan to ease tensions across the Balkan peninsula through a formation of the Balkan Federation, which will unite the countries of [[~BUL.GetNameDef~]], [[~ROM.GetNameDef~]], [[~GRE.GetNameDef~]] and [[~ALB.GetNameDef~]] under the guidance of [[~YUG.GetNameDef~]] on the basis of internationalism, socialism, social solidarity, and economic equality. In exchange they offer us an alliance under the banner of Cominform."
  r56.soviet.98.a:0	"Agree"
  r56.soviet.98.b:0	"Decline"
 
  r56.soviet.99.t:0	"Yugoslavia Agrees"
- r56.soviet.99.d:0	"Yugoslavia has agreed to our plan of a Balkan Federation, proudly announcing the strengthening of a [SOV.GetLeader]-[YUG.GetLeader] friendship to our diplomats. "
+ r56.soviet.99.d:0	"Yugoslavia has agreed to our plan of a Balkan Federation, proudly announcing the strengthening of a [[~SOV.GetLeader~]]-[[~YUG.GetLeader~]] friendship to our diplomats. "
  r56.soviet.99.a:0	"Wonderful"
 
  r56.soviet.101.t:0	"Yugoslavia Declines"
- r56.soviet.101.d:0	"Yugoslavia has declined to our plan of a Balkan Federation. On the press-conference the following morning [YUG.GetLeader] stated, that "Yugoslavia will follow its own way without any sort of foreign meddling in its internal politics.""
+ r56.soviet.101.d:0	"Yugoslavia has declined to our plan of a Balkan Federation. On the press-conference the following morning [[~YUG.GetLeader~]] stated, that "Yugoslavia will follow its own way without any sort of foreign meddling in its internal politics.""
  r56.soviet.101.a:0	"Unfortunate"
 
- r56.soviet.102.t:0	"[FROM.GetNameDefCap] Offers to Restore the Triple Entente"
- r56.soviet.102.d:0	"[FROM.GetNameDefCap] diplomats have approached our nation with the offer to restore the Triple Entente alliance, promising mutual protection."
+ r56.soviet.102.t:0	"[[~FROM.GetNameDefCap~]] Offers to Restore the Triple Entente"
+ r56.soviet.102.d:0	"[[~FROM.GetNameDefCap~]] diplomats have approached our nation with the offer to restore the Triple Entente alliance, promising mutual protection."
  r56.soviet.102.a:0	"Glad to have them back on our side."
  r56.soviet.102.b:0	"This didn't fare well last time."
 
@@ -419,7 +419,7 @@
  SOV_low_literacy_rate_idea:0	"Low Literacy Rate"
  #
  SOV_invest_in_engineering_focus:0	"Investment In Engineering"
- SOV_invest_in_engineering_focus_desc:0	"Industrialization of the [SOV.GetName] involves large-scale state investment into development of better tools, vehicles and scientific methods."
+ SOV_invest_in_engineering_focus_desc:0	"Industrialization of the [[~SOV.GetName~]] involves large-scale state investment into development of better tools, vehicles and scientific methods."
  #
  SOV_urbanization_focus:0	"Urbanization"
  SOV_urbanization_focus_desc:0	"The rapid growth of our cities demands better city planning and more efficient infrastructure system, both of which are successfully achieved. "
@@ -459,13 +459,13 @@
  progress_cult_focus_2_desc:0	"Education for the masses, leave noone analphabetic behind!"
  #
  SOV_transpolar_flights_idea:0	"Ongoing Transpolar Flights"
- SOV_transpolar_flights_idea_desc:0	"[SOV.GetAdjective] pioneer pilots are searching for safer and more advantageous polar flight routes."
+ SOV_transpolar_flights_idea_desc:0	"[[~SOV.GetAdjective~]] pioneer pilots are searching for safer and more advantageous polar flight routes."
  #
  SOV_socialism_in_one_country_idea:0	"Socialism In One Country"
  SOV_socialism_in_one_country_idea_desc:0	"The Workers Revolution cannot win without outside assistance. If we are to help the workers abroad, we need to be sure that our workers embrace the communism as it is."
  #
  SOV_world_revolution_idea:0	"World Revolution"
- SOV_world_revolution_idea_desc:0	"Limiting the Revolution to one country will destroy the seed of hope in the hearts of oppressed peasants and workers abroad. People of [SOV.GetName] will support the Revolution everywhere!"
+ SOV_world_revolution_idea_desc:0	"Limiting the Revolution to one country will destroy the seed of hope in the hearts of oppressed peasants and workers abroad. People of [[~SOV.GetName~]] will support the Revolution everywhere!"
  #
  SOV_state_of_perpetual_warfare_idea:0	"State of Perpetual Warfare"
  SOV_state_of_perpetual_warfare_idea_desc:0	"The fight for Workers Revolution shall reign over the world until everyone supports communism!"
@@ -487,7 +487,7 @@
  SOV_internal_chaos_2_desc:0	"We are slowly securing the government control over the country."
  #
  SOV_internal_chaos_3:0	"Internal Chaos"
- SOV_internal_chaos_3_desc:0	"The rapid Purges conducted by the government of [SOV.GetLeader] have left great scars in our political and command structure."
+ SOV_internal_chaos_3_desc:0	"The rapid Purges conducted by the government of [[~SOV.GetLeader~]] have left great scars in our political and command structure."
  #
  SOV_nationwide_inspections_1:0	"Nationwide Inspections"
  SOV_nationwide_inspections_1_desc:0	"Huge amount of resources and personnel are dispatched to conduct the time-consuming inspections."
@@ -538,11 +538,11 @@
  r56.soviet.16.d:0	"Gosplan has informed us that the current Five Year Plan has fallen behind schedule. While the industrial plan was original ahead of schedule we've fallen behind and missed the deadline needed to finish it set by Party. This in turn has affected our future industrial efforts. This is an embarrassment for the Communist Party."
  r56.soviet.16.a:0	"Bring me the man responsible"
  r56.soviet.16.b:0	"Just extend the deadline everyone makes mistakes"
- r56.soviet.18.t:0	"Yezhov is forming a coalition to overthrow [ROOT.GetLeader]"
- r56.soviet.18.d:0	"Since his rise to power in 1924, [ROOT.GetLeader] has been constantly working on the removal of any sort of the political opposition to his rule over [SOV.GetNameDef]. Zinoviev, Bucharin, Trotsky and Kirov have already either fallen victim to the political power struggle or were forced into exile and hiding from NKVD agents. GenSek wrath may fall on anyone who is persuading his or her career within the party too strongly or too weakly. \n\nNikolai Yezhov has started to fear that his position at the NKVD might be in jeopardy, and that [ROOT.GetLeader] might remove him from his current office or worse. He's now using the activities that are currently directed toward finding people who are enemies of the state, and instead using these activities as cover for his current plans to recruit officers and officials into a scheme to remove Stalin from power."
+ r56.soviet.18.t:0	"Yezhov is forming a coalition to overthrow [[~ROOT.GetLeader~]]"
+ r56.soviet.18.d:0	"Since his rise to power in 1924, [[~ROOT.GetLeader~]] has been constantly working on the removal of any sort of the political opposition to his rule over [[~SOV.GetNameDef~]]. Zinoviev, Bucharin, Trotsky and Kirov have already either fallen victim to the political power struggle or were forced into exile and hiding from NKVD agents. GenSek wrath may fall on anyone who is persuading his or her career within the party too strongly or too weakly. \n\nNikolai Yezhov has started to fear that his position at the NKVD might be in jeopardy, and that [[~ROOT.GetLeader~]] might remove him from his current office or worse. He's now using the activities that are currently directed toward finding people who are enemies of the state, and instead using these activities as cover for his current plans to recruit officers and officials into a scheme to remove Stalin from power."
  r56.soviet.18.a:0	"We must move quickly"
  r56.soviet.19.t:0	"NKVD agents have made contact with Trotsky"
- r56.soviet.19.d:0	"Expelled from Motherland and forgotten by the common man since February 1929, Lev Trotsky remains one of the main ideological opponents of the Stalin's rule over [SOV.GetNameDef]. His preaching to the oppression of the worker class has already made him persona non-grata in [TUR.GetNameDef], [ITA.GetNameDef], [FRA.GetNameDef] and lastly the [NOR.GetNameDef], where he was residing since 1935. \n\nHis recent letter was traced back by our NKVD agents, which then contacted Trotsky and are now in the process of getting him back into Russia secretly. Though this will take time as we have to be careful not to be found out by any foreign agents along the way or by [ROOT.GetLeader] Loyalists. Having Trotsky back to lead will give our Coup much needed legitimacy and experienced leadership."
+ r56.soviet.19.d:0	"Expelled from Motherland and forgotten by the common man since February 1929, Lev Trotsky remains one of the main ideological opponents of the Stalin's rule over [[~SOV.GetNameDef~]]. His preaching to the oppression of the worker class has already made him persona non-grata in [[~TUR.GetNameDef~]], [[~ITA.GetNameDef~]], [[~FRA.GetNameDef~]] and lastly the [[~NOR.GetNameDef~]], where he was residing since 1935. \n\nHis recent letter was traced back by our NKVD agents, which then contacted Trotsky and are now in the process of getting him back into Russia secretly. Though this will take time as we have to be careful not to be found out by any foreign agents along the way or by [[~ROOT.GetLeader~]] Loyalists. Having Trotsky back to lead will give our Coup much needed legitimacy and experienced leadership."
  r56.soviet.19.a:0	"Classify the Operation"
  r56.soviet.20.t:0	"Andrey Vlasov wants to offer some additional help"
  r56.soviet.20.d:0	"It was expected that the formation of the Fifth Column cannot remain in secret, yet that the rumours about the plot spread so fast wasn't anticipated either. Our agents report many support offer letters arriving at the Yezhov's office from anonymous sources. The writings of one of the letters was recognized by one of the staff members of our Commissariat to belong to the prominent young general Andrey Vlasov. He was immediately called to Moscow for a discussion of the ongoing operation to overthrow the dictator Stalin. \n\nWhen Vlasov was brought in for a little sit down by the NKVD he seemed to show great interest in our plot and wanted to lend all the help he could. Though he seemed a little too interested in the details by our agents accounts."
@@ -560,21 +560,21 @@
  r56.soviet.24.d:0	"The news of Stalin's arrest and fast execution has reached the Permanent Revolutionary and his bodyguards as they were travelling by train to Stockholm to board the prepared ship and reach Leningrad within few days. \n\nAs Trotsky was boarding off the ship, he was greeted personally by Yezhov and a small military parade was organized to celebrate Trotsky's return. Both revolutionaries agreed to take a flight directly to Moscow so that the transition of the power can be conducted as soon as possible. \n\nThe new Congress of the All-Union Communist Party was organized, at which the Revolutionary has held his first major speach since his exile in 1929. A few tears of joy could be spotted on the face of Trotsky as he held an impassioned speech stating that the peasants and workers will enjoy the fruits of the World Revolution in the recent future. Trotsky also stated that "I'll bring hope to workers across the world, as we set the Revolution back on track!""
  r56.soviet.24.a:0	"Long live Trotsky!"
  r56.soviet.26.t:0	"Filling the power vacuum"
- r56.soviet.26.d:0	"The 20-year-rule of the communist party over Russia has finally come to an end. With an old Soviet leadership put to trial for their crimes conducted to the Russian people, the whole branches of the legislative, executive and judicial system lie in ruins due to the fierce purges conducted by the communist criminals in recent years. \n\nThe newly established government is pliable to any sort of the political agenda circling among the intellectual, military and workers circles. With Trudovics being popular among the intelligentsia, the Russian Fascist Party is favored among many military leaders and commanders, while many exiles are plying for the return of the monarchy under the rule Romanov's family. \n\nIf we don't want to plunge the country back into chaos we must side with a faction and have them head our country. What will be the decision of [SOV.GetLeader]s government?"
+ r56.soviet.26.d:0	"The 20-year-rule of the communist party over Russia has finally come to an end. With an old Soviet leadership put to trial for their crimes conducted to the Russian people, the whole branches of the legislative, executive and judicial system lie in ruins due to the fierce purges conducted by the communist criminals in recent years. \n\nThe newly established government is pliable to any sort of the political agenda circling among the intellectual, military and workers circles. With Trudovics being popular among the intelligentsia, the Russian Fascist Party is favored among many military leaders and commanders, while many exiles are plying for the return of the monarchy under the rule Romanov's family. \n\nIf we don't want to plunge the country back into chaos we must side with a faction and have them head our country. What will be the decision of [[~SOV.GetLeader~]]s government?"
  r56.soviet.26.a:0	"Those who favor democracy carry the aspirations of the people!"
  r56.soviet.26.b:0	"Other Systems have failed, we need to restore the Monarchy!"
  r56.soviet.26.c:0	"The Nationalists will lead our country to Glory!"
  r56.soviet.27.t:0	"Stalin removed from power"
- r56.soviet.27.d:0	"Stalin has been arrested and promptly executed by members of the Communist Party. [SOV.GetLeader] walked into Stalin's office with NKVD agents and put him under arrest while listing off crimes he committed against the Russian People. A trial took place the next day where Stalin was sentenced to death and hanged later that afternoon. Also many officials in the Russian government who were accused of participating in Stalin's crimes are in the process of being rounded up and jailed or executed. No one knows who will now lead [SOV.GetNameDefCap]. Rumor has it that [SOV.GetLeader] has extend an invitation for Trotsky to come back and lead."
+ r56.soviet.27.d:0	"Stalin has been arrested and promptly executed by members of the Communist Party. [[~SOV.GetLeader~]] walked into Stalin's office with NKVD agents and put him under arrest while listing off crimes he committed against the Russian People. A trial took place the next day where Stalin was sentenced to death and hanged later that afternoon. Also many officials in the Russian government who were accused of participating in Stalin's crimes are in the process of being rounded up and jailed or executed. No one knows who will now lead [[~SOV.GetNameDefCap~]]. Rumor has it that [[~SOV.GetLeader~]] has extend an invitation for Trotsky to come back and lead."
  r56.soviet.27.a:0	"The False Revolutionary is dead!"
  r56.soviet.27.b:0	"Stalin's house of cards have finally fallen over."
  r56.soviet.28.t:0	"The End of Communist Rule in Russia"
- r56.soviet.28.d:0	"\nAlmost as soon as Trotsky returned to lead the Soviet Government in a post-Stalin Era, he's been upend by a large faction of anti-communist officials and officers. This faction had quickly formed a large following in the army and government and have simply done away with pro-communist officials seemly overnight. Some experts suspect that Trotsky's Purges of Stalin loyalist's from his government and the chaos that followed the Coup may have weaken the communist party beyond repair. The leader of the overthrow [SOV.GetLeader] now has the seemingly impossible task of stabilizing the new [SOV.GetName] government and the many factions within it. "
+ r56.soviet.28.d:0	"\nAlmost as soon as Trotsky returned to lead the Soviet Government in a post-Stalin Era, he's been upend by a large faction of anti-communist officials and officers. This faction had quickly formed a large following in the army and government and have simply done away with pro-communist officials seemly overnight. Some experts suspect that Trotsky's Purges of Stalin loyalist's from his government and the chaos that followed the Coup may have weaken the communist party beyond repair. The leader of the overthrow [[~SOV.GetLeader~]] now has the seemingly impossible task of stabilizing the new [[~SOV.GetName~]] government and the many factions within it. "
  r56.soviet.28.a:0	"We must now lead our country men to a better future"
  r56.soviet.28.b:0	"Glad that little 'experiment' is over"
  r56.soviet.28.c:0	"We must carry on the revolution ourselves."
- r56.soviet.29.t:0	"[SOV.GetLeader] has called for a world revolution"
- r56.soviet.29.d:0	"[SOV.GetLeader] called on Communist everywhere to unchain themselves and overthrow the capitalist governments around the world, take up arms in [SOV.GetName]'s' struggle to bring about the 'World Revolution.'"
+ r56.soviet.29.t:0	"[[~SOV.GetLeader~]] has called for a world revolution"
+ r56.soviet.29.d:0	"[[~SOV.GetLeader~]] called on Communist everywhere to unchain themselves and overthrow the capitalist governments around the world, take up arms in [[~SOV.GetName~]]'s' struggle to bring about the 'World Revolution.'"
  r56.soviet.29.a:0	"Our vision will now be realized!"
  r56.soviet.29.b:0	"This can't be good..."
  r56.soviet.29.c:0	"About time!"
@@ -586,7 +586,7 @@
  SOV_prepare_to_hunt_the_bear_desc:0	"Rapid changes in political and military structures has left severe scars on the fabric of our society. To prevent the further system degradation into the abyss of another totalitarian regime, it might be wise to consider gathering a group of loyalists in higher echelons of power capable of deposing the tyrant before he destroyed all of us one by one."
 
  SOV_look_to_the_east:0	"Look to the East"
- SOV_look_to_the_east_desc:0	"Many of the former military officers are still roaming the country seeking their destiny in these uncertain times. Our informants in [JAP.getNameDef] have obtained a few of the vital documents who might hint us on how to overthrow Stalin in the near future."
+ SOV_look_to_the_east_desc:0	"Many of the former military officers are still roaming the country seeking their destiny in these uncertain times. Our informants in [[~JAP.getNameDef~]] have obtained a few of the vital documents who might hint us on how to overthrow Stalin in the near future."
 
  SOV_forge_new_future:0	"Forge New Future"
  SOV_forge_new_future_desc:0	"The would be despot Stalin has passed, those too afraid to speak out against his crimes now rally behind Nikita Khrushcehv, the efficient arm of his will in Ukraine. Comrade Khrushchev has the talent and right mindedness to end the power grabs of other would be tyrants over the Soviet Peoples and it will be trivial for him to gather enough support to become the new General Secretary of the CPSU of the USSR."
@@ -606,8 +606,8 @@
  SOV_rehabilitate_stalins_legacy:0	"Rehabilitate Stalin's Legacy"
  SOV_rehabilitate_stalins_legacy_desc:0	"Stalin has a troubled legacy, responsible for repressions that rival the old Tsarist regime, many scoff at him. However we cannot change the past, only the future, and we cannot allow misguided actions to fuel myriad countnerrevolutionary forces looking for weakness in the Union. Thus we shall put the past before the future and diminish his error until the world is fit to understand his well intentioned mistakes."
 
- r56.soviet.200.t:0	"[FROM.getAdjective]s Wish to Supply us with Intelligence Data"
- r56.soviet.200.d:0	"\nOur reconnaissance unit operating in the Far East close to the Lake Khasan found a [FROM.getAdjective] NKVD agent who was seemingly seeking a contact with one of our high ranking officers to "discuss matters of urgent importance and highest relevance as soon as possible". \n\nAfter a few hours of questioning and cross-referencing the provided data, our agents can confirm that the intentions of the young men are more than noble: he wishes to provide us with military intel about the dislocation of [SOV.getAdjective] armed forces in the Far East for a mere token of support in the upcoming operation to depose the ruthless dictator Stalin has become."
+ r56.soviet.200.t:0	"[[~FROM.getAdjective~]]s Wish to Supply us with Intelligence Data"
+ r56.soviet.200.d:0	"\nOur reconnaissance unit operating in the Far East close to the Lake Khasan found a [[~FROM.getAdjective~]] NKVD agent who was seemingly seeking a contact with one of our high ranking officers to "discuss matters of urgent importance and highest relevance as soon as possible". \n\nAfter a few hours of questioning and cross-referencing the provided data, our agents can confirm that the intentions of the young men are more than noble: he wishes to provide us with military intel about the dislocation of [[~SOV.getAdjective~]] armed forces in the Far East for a mere token of support in the upcoming operation to depose the ruthless dictator Stalin has become."
  r56.soviet.200.a:0	"Let us see what he has to offer."
  r56.soviet.200.b:0	"We are not interested. Send him away."
 
@@ -616,12 +616,12 @@
  r56.soviet.201.a:0	"Excellent! The token of friendship from our side, as agreed."
 
  r56.soviet.202.t:0	"Informant Returns Empty-Handed"
- r56.soviet.202.d:0	"Our benefactores seem to be not interested in exchanging the vital information no matter what do we offer them. One could only speculate for what reason [JAP.getAdjective] have decided to reject the deal, but one is clear: we will have to rely on other sources of support in here. \n\nInformant managed to overhear some staff talking, allowing us to potentially put it to good use."
+ r56.soviet.202.d:0	"Our benefactores seem to be not interested in exchanging the vital information no matter what do we offer them. One could only speculate for what reason [[~JAP.getAdjective~]] have decided to reject the deal, but one is clear: we will have to rely on other sources of support in here. \n\nInformant managed to overhear some staff talking, allowing us to potentially put it to good use."
  r56.soviet.202.a:0	"At least something at our hands..."
 
 
  SOV_contact_lyushkov_group_in_far_east:0	"Contact Lyushkov Group in Far East"
- SOV_provide_intel_to_the_japanese:0	"Provide Intel to the [JAP.getAdjective]"
+ SOV_provide_intel_to_the_japanese:0	"Provide Intel to the [[~JAP.getAdjective~]]"
  SOV_recruit_white_emigres_in_manchuria:0	"Recruit White Emigre in Manchuria"
  SOV_craft_foreign_passports:0	"Craft Foreign Passports"
  SOV_hunt_down_the_bear_1_support:0	"Hunt Down the Bear"
@@ -629,7 +629,7 @@
  SOV_reduces_negative_effects_of_stalins_elimination_tt:0	"§GReduces§! negative effects from §HStalin's elimination§!.\n"
 
  SOV_lyushkov_informed_about_the_plan_flag:0	"Lyushkov §HInformed§! About the Plan"
- SOV_provided_japanese_with_intelligence_flag:0	"§HShared Intel§! with the [JAP.getAdjective]"
+ SOV_provided_japanese_with_intelligence_flag:0	"§HShared Intel§! with the [[~JAP.getAdjective~]]"
  SOV_white_russians_recruited_flag:0	"§HRecruited§! White Russians"
  SOV_passports_crafted_flag:0	"§HCrafted§! Foreign Passports"
 
@@ -641,15 +641,15 @@
  r56_kill_stalin.1.a:0	"Coincidence? One would not think so..."
 
  r56_kill_stalin.2.t:0	"Stalin found with a bullet wound!"
- r56_kill_stalin.2.desc:0	"Shocked citizens of [SOV.getNameDef] have all listened in disbelief to the radios and public speakers translating the horrific news for all communist sympatisers of the country: Iosif Stalin was found to be murdered in his mansion.  \n\nAn unknown number of assassins have infiltrated his mansion in Matsesta through the newly laid pipes and gunned down every person in the mansion they met, leaving no eye witnesses behind. Horrified police and NKVD members are still trying to determine the potential suspects and how they managed to bypass other security checkpoints around the city."
+ r56_kill_stalin.2.desc:0	"Shocked citizens of [[~SOV.getNameDef~]] have all listened in disbelief to the radios and public speakers translating the horrific news for all communist sympatisers of the country: Iosif Stalin was found to be murdered in his mansion.  \n\nAn unknown number of assassins have infiltrated his mansion in Matsesta through the newly laid pipes and gunned down every person in the mansion they met, leaving no eye witnesses behind. Horrified police and NKVD members are still trying to determine the potential suspects and how they managed to bypass other security checkpoints around the city."
  r56_kill_stalin.2.a:0	"A weakness of public security..."
 
  r56_kill_stalin.3.t:0	"Stalin passed away from heart attack!"
- r56_kill_stalin.3.desc:0	"The clouds darken over [SOV.getNameDef] as news spread across the country: Iosif Vissarionovich Stalin, the solely leader of the the communist party for the past few years, has peacefully passed away in his mansion in Matsesta. \n\nSuffering from heart condition in recent weeks, he decided to take a rest from dusty offices of Politburo on the sunny coast of Black Sea to regain his forces. Mansion staff was informed to not disturb the leader as he wanted to take his time. If only one had known what consequences did that bear... \nGeorgy Malenkow took power for the time being, aiming to stabilize the country in disarray from such loss."
+ r56_kill_stalin.3.desc:0	"The clouds darken over [[~SOV.getNameDef~]] as news spread across the country: Iosif Vissarionovich Stalin, the solely leader of the the communist party for the past few years, has peacefully passed away in his mansion in Matsesta. \n\nSuffering from heart condition in recent weeks, he decided to take a rest from dusty offices of Politburo on the sunny coast of Black Sea to regain his forces. Mansion staff was informed to not disturb the leader as he wanted to take his time. If only one had known what consequences did that bear... \nGeorgy Malenkow took power for the time being, aiming to stabilize the country in disarray from such loss."
  r56_kill_stalin.3.a:0	"Very unfortunate. Very."
 
  r56_kill_stalin.4.t:0	"Stalin killed in a shelling by Coastal Guards!"
- r56_kill_stalin.4.desc:0	"The clear sunny day in Matsesta was turned into a firy nightmare after a Coastal Guard mistook the boat of Iosif Stalin for a smuggler vessel and opened fire after the latter refused to provide the usual security codes for the day. \nA few shots from the ship cannons were enough to turn the little yacht into the burning wreckage sinking to the bottom of the Black Sea. The body of Secretary was found a hour later. \n\nThe guard crew is now currently under the NKVD investigation on potential plotting against the generallissimo. In the meantime, Georgy Malenkow was appointed as the first secretary in this unruly times for [SOV.getNameDef]."
+ r56_kill_stalin.4.desc:0	"The clear sunny day in Matsesta was turned into a firy nightmare after a Coastal Guard mistook the boat of Iosif Stalin for a smuggler vessel and opened fire after the latter refused to provide the usual security codes for the day. \nA few shots from the ship cannons were enough to turn the little yacht into the burning wreckage sinking to the bottom of the Black Sea. The body of Secretary was found a hour later. \n\nThe guard crew is now currently under the NKVD investigation on potential plotting against the generallissimo. In the meantime, Georgy Malenkow was appointed as the first secretary in this unruly times for [[~SOV.getNameDef~]]."
  r56_kill_stalin.4.a:0	"What can happen when one does not follow orders..."
  #Tooltips
 
@@ -672,7 +672,7 @@
  yes_politcal_people_open:0	"Political Exiles participated in the Coup"
  SOV_five_year_punishment_fired:0	"Failed to do the Five Year"
  yes_generals_open:0	"Exiled Generals participated in the Coup"
- SOV_counter_coup_tt:0	"[SOV.GetNameDefCap]'s Communist regime will be §Yoverthrown§! and the §GCommunist system dismantled.§!"
+ SOV_counter_coup_tt:0	"[[~SOV.GetNameDefCap~]]'s Communist regime will be §Yoverthrown§! and the §GCommunist system dismantled.§!"
  relocate_industry_from_leningrad:0	"Industry has been relocated from Leningrad"
 
  #party names
@@ -740,7 +740,7 @@
  SOV_restore_order_in_kazakhstan:0	"Restore Order in Kazakhstan"
  SOV_restore_order_in_central_asia:0	"Restore Order in Central Asia"
 
- SOV_follow_stipulations_of_pact_with_germany:0	"Follow Stipulations of Pact with [GER.getName]"
+ SOV_follow_stipulations_of_pact_with_germany:0	"Follow Stipulations of Pact with [[~GER.getName~]]"
 
  #tooltips
 

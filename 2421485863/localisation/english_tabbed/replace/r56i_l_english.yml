@@ -162,35 +162,35 @@ l_english:
 
 #Event to leave faction in case of revolution
   r56i.event.10.title:0	"A New Diplomatic Orientation?"
-  r56i.event.10.description:0	"The establishment of a new government is raising some questions regarding the future of [ROOT.getnameDef]. [ROOT.GetLeader] is wary of the ideological orientation of the [ROOT.GetFactionName] and fears that such cooperation could lead to a war against countries sympathetic to the [ROOT.GetRulingIdeology] cause and the political direction of the [ROOT.GetRulingParty]."
+  r56i.event.10.description:0	"The establishment of a new government is raising some questions regarding the future of [[~ROOT.getnameDef~]]. [[~ROOT.GetLeader~]] is wary of the ideological orientation of the [[~ROOT.GetFactionName~]] and fears that such cooperation could lead to a war against countries sympathetic to the [[~ROOT.GetRulingIdeology~]] cause and the political direction of the [[~ROOT.GetRulingParty~]]."
   r56i.event.10.a:0	"Those were the allies of the previous government."
   r56i.event.10.b:0	"Respect our diplomatic engagements."
 
 
-  r56i.event.11.title:0	"[From.GetNameDefCap] Leaves the [From.GetFactionName]"
-  r56i.event.11.description:0	"\nDeciding to change its diplomatic position radically, the new [FROM.GetAdjective] [FROM.GetRulingIdeology] government withdrew from the [FROM.GetFactionName]. The news has stirred upheaval among the member of the [FROM.GetFactionName] as they wonder if other departures may lead to the collapse of their alliance.\n\n[FROM.GetLeader] declared the necessity to reorient the country's politics according to the program of the [ROOT.GetRulingParty] motivated his decision, stating that his government would do everything to preserve [From.GetAdjective] independence."
+  r56i.event.11.title:0	"[[~From.GetNameDefCap~]] Leaves the [[~From.GetFactionName~]]"
+  r56i.event.11.description:0	"\nDeciding to change its diplomatic position radically, the new [[~FROM.GetAdjective~]] [[~FROM.GetRulingIdeology~]] government withdrew from the [[~FROM.GetFactionName~]]. The news has stirred upheaval among the member of the [[~FROM.GetFactionName~]] as they wonder if other departures may lead to the collapse of their alliance.\n\n[[~FROM.GetLeader~]] declared the necessity to reorient the country's politics according to the program of the [[~ROOT.GetRulingParty~]] motivated his decision, stating that his government would do everything to preserve [[~From.GetAdjective~]] independence."
   r56i.event.11.a:0	"The world is changing."
 
   r56i.event.12.title:0	"A Historic Opportunity"
-  r56i.event.12.description:0	"The establishment of our government is raising questions regarding the future of [ROOT.GetNameDef]. For most of us, the answer is clear: it is time to seize our independence. Our ascension is a clear sign of the rightfulness of the [ROOT.GetRulingIdeology] cause, and we must align our diplomatic situation with the political manifesto of the [ROOT.GetRulingParty]."
+  r56i.event.12.description:0	"The establishment of our government is raising questions regarding the future of [[~ROOT.GetNameDef~]]. For most of us, the answer is clear: it is time to seize our independence. Our ascension is a clear sign of the rightfulness of the [[~ROOT.GetRulingIdeology~]] cause, and we must align our diplomatic situation with the political manifesto of the [[~ROOT.GetRulingParty~]]."
   r56i.event.12.a:0	"We are free, at last!"
   r56i.event.12.b:0	"This is too risky."
 
 
-  r56i.event.13.title:0	"[From.GetLeader] Declares [From.GetAdjective] Independence"
-  r56i.event.13.description:0	"\nThe new [FROM.GetAdjective] [FROM.GetRulingIdeology] government has decided to declare its independence unilaterally. [FROM.GetLeader] announced this decision to be total and uncompromising. Therefore [FROM.GetNameDef] will withdraw from its military obligations and reevaluate its foreign policy. This will undoubtedly anger their former overlord as [FROM.GetLeader] clearly stated that previous treaties did not bind him and that this day would mark the beginning of a new era in [FROM.GetAdjective] history."
+  r56i.event.13.title:0	"[[~From.GetLeader~]] Declares [[~From.GetAdjective~]] Independence"
+  r56i.event.13.description:0	"\nThe new [[~FROM.GetAdjective~]] [[~FROM.GetRulingIdeology~]] government has decided to declare its independence unilaterally. [[~FROM.GetLeader~]] announced this decision to be total and uncompromising. Therefore [[~FROM.GetNameDef~]] will withdraw from its military obligations and reevaluate its foreign policy. This will undoubtedly anger their former overlord as [[~FROM.GetLeader~]] clearly stated that previous treaties did not bind him and that this day would mark the beginning of a new era in [[~FROM.GetAdjective~]] history."
   r56i.event.13.a:0	"Another Revolution."
 
-  r56i.event.14.title:0	"[From.GetNameDefCap] Rebels!"
-  r56i.event.14.description:0	"\nThe [FROM.GetRulingIdeology] takeover has led to a declaration of [FROM.GetAdjective] independence by [FROM.GetLeader]. Unwilling to respect the established order, their defiant behavior could set a dangerous precedent."
+  r56i.event.14.title:0	"[[~From.GetNameDefCap~]] Rebels!"
+  r56i.event.14.description:0	"\nThe [[~FROM.GetRulingIdeology~]] takeover has led to a declaration of [[~FROM.GetAdjective~]] independence by [[~FROM.GetLeader~]]. Unwilling to respect the established order, their defiant behavior could set a dangerous precedent."
   r56i.event.14.a:0	"We must retaliate!"
 
-  r56i.event.15.title:0	"[From.GetNameDefCap] Dissolves its Faction!"
-  r56i.event.15.description:0	"\nUnable to find diplomatic partners, the [FROM.GetAdjective] government has announced that it will no longer search to lead an international coalition. They are therefore open to diplomatic openings to join a stronger alliance.\n\nThis development will undoubtedly attract the attention of various chancelleries. Foreign diplomats are likely already at work to sway [FROM.GetLeader] and his government."
+  r56i.event.15.title:0	"[[~From.GetNameDefCap~]] Dissolves its Faction!"
+  r56i.event.15.description:0	"\nUnable to find diplomatic partners, the [[~FROM.GetAdjective~]] government has announced that it will no longer search to lead an international coalition. They are therefore open to diplomatic openings to join a stronger alliance.\n\nThis development will undoubtedly attract the attention of various chancelleries. Foreign diplomats are likely already at work to sway [[~FROM.GetLeader~]] and his government."
   r56i.event.15.a:0	"Interesting."
 
-  r56i.event.16.t:0	"The [alliance_inviter.GetFactionName] and the [alliance_applicant.GetAdjective] Faction Unite into a Single Alliance!"
-  r56i.event.16.d:0	"\n\nWorld politics is shifting at a rapid pace, and therefore the leaders of the [alliance_inviter.GetFactionName] and [alliance_applicant.GetLeader] recognized that it was useless to stand as separate coalitions. Instead, they decided to fight side by side.\n\nThis will probably worry foreign chancelleries as their combined strength may become way more threatening."
+  r56i.event.16.t:0	"The [[~alliance_inviter.GetFactionName~]] and the [[~alliance_applicant.GetAdjective~]] Faction Unite into a Single Alliance!"
+  r56i.event.16.d:0	"\n\nWorld politics is shifting at a rapid pace, and therefore the leaders of the [[~alliance_inviter.GetFactionName~]] and [[~alliance_applicant.GetLeader~]] recognized that it was useless to stand as separate coalitions. Instead, they decided to fight side by side.\n\nThis will probably worry foreign chancelleries as their combined strength may become way more threatening."
   r56i.event.16.a:0	"We are stronger together."
   r56i.event.16.b:0	"They seek strength in numbers."
   r56i.event.16.c:0	"It will not avail them!"
@@ -198,7 +198,7 @@ l_english:
   r56i.event.16.f:0	"Our alliance grows stronger." 
 
   r56i.event.17.t:0	"Hostile Troops Have Landed!"
-  r56i.event.17.desc:0	"\nThis morning reports have come in from coast guard portal boats and many sea observation posts that a fleet of enemy ships have gathered off the coast of [ROOT.getnameDef]. Many Bespoked ships have department the enemy fleet and approached our coastline with the purpose of making a landing.\n\nFrom the intelligence reports that are now quickly coming in, the landing size is reported to be too big to be a raid, as the enemy forces have quickly overwhelmed the small garrison they encountered. The enemy forces are quickly establishing a small beachhead and bringing lots of equipment ashore."
+  r56i.event.17.desc:0	"\nThis morning reports have come in from coast guard portal boats and many sea observation posts that a fleet of enemy ships have gathered off the coast of [[~ROOT.getnameDef~]]. Many Bespoked ships have department the enemy fleet and approached our coastline with the purpose of making a landing.\n\nFrom the intelligence reports that are now quickly coming in, the landing size is reported to be too big to be a raid, as the enemy forces have quickly overwhelmed the small garrison they encountered. The enemy forces are quickly establishing a small beachhead and bringing lots of equipment ashore."
   r56i.event.17.a:0	"We must react fast!"
 
   r56i.event.18.t:0	"Hostile Paratroopers Have Landed!"
@@ -206,11 +206,11 @@ l_english:
   r56i.event.18.a:0	"We must react fast!"
 
  r56i.event.19.t:0	"Army Research Laboratory Report"
- r56i.event.19.desc:0	"The recent report from our Army Research Laboratory has arrived this morning in the government's office. The report states that the current bureaucratic apparatus is heavily limiting any potential modernization of old weapon systems and the application of new battlefield technologies.\n\nThe [ROOT.GetAdjective] R&D department cannot process the current amount of reports sent by our military personnel. Any increase in those reports would be useless too, as they are too similar to each other. They suggest allocating a budget to improve of military equipment, considering the vast amount of data created by combat experience.\n\n Our general staff is also in favor of such development, acknowledging that this will surely increase the fighting capabilities of the [Root.GetAdjective] Army."
+ r56i.event.19.desc:0	"The recent report from our Army Research Laboratory has arrived this morning in the government's office. The report states that the current bureaucratic apparatus is heavily limiting any potential modernization of old weapon systems and the application of new battlefield technologies.\n\nThe [[~ROOT.GetAdjective~]] R&D department cannot process the current amount of reports sent by our military personnel. Any increase in those reports would be useless too, as they are too similar to each other. They suggest allocating a budget to improve of military equipment, considering the vast amount of data created by combat experience.\n\n Our general staff is also in favor of such development, acknowledging that this will surely increase the fighting capabilities of the [[~Root.GetAdjective~]] Army."
  r56i.event.19.a:0	"Let's make something out of it!"
 
   r56i.event.20.t:0	"Naval Research Laboratory Report"
-  r56i.event.20.desc:0	"The recent report from our Navy Research Laboratory has arrived this morning in the government's office. The report states that the current bureaucratic apparatus is heavily limiting any potential modernization of old weapon systems and the application of new naval technologies.\n\nThe [ROOT.GetAdjective] R&D department cannot process the current amount of reports sent by our fleet commanders. Any increase in those reports would be useless too, as they are too similar to each other. They suggest allocating a budget to improve naval equipment, considering the vast amount of data generated through combat experience.\n\nThe Admiralty is also in favor of such development, acknowledging that this will surely increase the fighting capabilities of the [Root.GetAdjective] Navy."
+  r56i.event.20.desc:0	"The recent report from our Navy Research Laboratory has arrived this morning in the government's office. The report states that the current bureaucratic apparatus is heavily limiting any potential modernization of old weapon systems and the application of new naval technologies.\n\nThe [[~ROOT.GetAdjective~]] R&D department cannot process the current amount of reports sent by our fleet commanders. Any increase in those reports would be useless too, as they are too similar to each other. They suggest allocating a budget to improve naval equipment, considering the vast amount of data generated through combat experience.\n\nThe Admiralty is also in favor of such development, acknowledging that this will surely increase the fighting capabilities of the [[~Root.GetAdjective~]] Navy."
   r56i.event.20.a:0	"Let's make something out of it!"
 
   r56i.event.21.t:0	"High Aeronautical Experience"
@@ -218,8 +218,8 @@ l_english:
   r56i.event.21.a:0	"Let's make something out of it!" 
 #####---------------------------------------------------------------------> End
 
-#  r56i.event.16.t:0	"The [HUN.GetFactionName] absorbs the [YUG.GetAdjective] faction into a single alliance!"
-#  r56i.event.16.d:0	"\n\n World politics are shifting at a rapid pace and therefore the leaders of the [HUN.GetFactionName] and [YUG.GetLeader] recognized that it was useless to fight as separate coalitions instead of forming a united coalition fighting for the triumph of their ideology."
+#  r56i.event.16.t:0	"The [[~HUN.GetFactionName~]] absorbs the [[~YUG.GetAdjective~]] faction into a single alliance!"
+#  r56i.event.16.d:0	"\n\n World politics are shifting at a rapid pace and therefore the leaders of the [[~HUN.GetFactionName~]] and [[~YUG.GetLeader~]] recognized that it was useless to fight as separate coalitions instead of forming a united coalition fighting for the triumph of their ideology."
 #  r56i.event.16.a:0	"Interesting."
 #  r56i.event.16.a:0	"We are stronger together."
 #  r56i.event.16.b:0	"They seek strength in numbers."

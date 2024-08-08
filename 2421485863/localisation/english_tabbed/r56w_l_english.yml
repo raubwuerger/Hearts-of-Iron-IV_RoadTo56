@@ -108,7 +108,7 @@ l_english:
 
 #News of the British Takeover
  r56w.event.53.t:0	"A Hand on Power"
- r56w.event.53.d:0	"For reasons utterly beyond all comprehension, it seems that the sovereign government of [ENG.GetNameDef] has decided to place all power in the felt-tipped hands of a sentient puppet. God save us all."
+ r56w.event.53.d:0	"For reasons utterly beyond all comprehension, it seems that the sovereign government of [[~ENG.GetNameDef~]] has decided to place all power in the felt-tipped hands of a sentient puppet. God save us all."
  r56w.event.53.a:0	"That's politics for you."
 
 #Hitler and Baldur's Gate

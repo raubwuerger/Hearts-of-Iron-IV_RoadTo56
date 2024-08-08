@@ -21,19 +21,19 @@
  VEN_congress_desc:0	"Dictatorship of Juan Vicente Gómez lasting from 1908 till 1935 has finally come to an end. His controversial rule has changed our nominal democratic republic in a many ways. It is time to address the issue of the arisen power vacuum in the national Congress in Caracas."
 
  VEN_1935_elections:0	"Finalize The 1935 Elections"
- VEN_1935_elections_desc:0	"Juan Vicente Gómez in his last years has distanced himself from the public, spending most of his time in his personal mansion Maracay. His sudden and mysterious death has left many people of our nation questioning who will lead [ROOT.getNameDef] to its prosperity in a future. Voices from the country's elections of 1935 are still being counted. Who has won the Power Struggle?"
+ VEN_1935_elections_desc:0	"Juan Vicente Gómez in his last years has distanced himself from the public, spending most of his time in his personal mansion Maracay. His sudden and mysterious death has left many people of our nation questioning who will lead [[~ROOT.getNameDef~]] to its prosperity in a future. Voices from the country's elections of 1935 are still being counted. Who has won the Power Struggle?"
 
  ##################################### CONTRERAS #######################################
 
 
  VEN_eleazar_contreras:0	"Inaugurate Contreras"
- VEN_eleazar_contreras_desc:0	"Former War Minister, Eleazar López Contreras, took the rule over the country for the time being, as long as, 'worthier candidate will not be found'. Now it becomes apparent that he is the most suitable person for this job with most of the [ROOT.getAdjective] citizens voting in his favor. Inauguration shall be commenced as soon as possible!"
+ VEN_eleazar_contreras_desc:0	"Former War Minister, Eleazar López Contreras, took the rule over the country for the time being, as long as, 'worthier candidate will not be found'. Now it becomes apparent that he is the most suitable person for this job with most of the [[~ROOT.getAdjective~]] citizens voting in his favor. Inauguration shall be commenced as soon as possible!"
 
  VEN_health_and_social_assistance:0	"Found the Ministerio de Sanidad"
  VEN_health_and_social_assistance_desc:0	"The issue of the high mortality rate among the children from many infectious diseases can be addressed more efficiently if the Ministry of Health (Ministerio de Sanidad) will be established. Our adult citizens will also benefit greatly from the newly founded medical facilities cross country."
 
  VEN_jewish_asylum:0	"Asylum for Jews"
- VEN_jewish_asylum_desc:0	"Seeing the Struggle of the Jewish people in Europe and Asia in a fight for their rights, Contreras issued a secret directive to provide shelter for any Jewish fugitives and refugees on the [ROOT.getAdjective] soil. Their gratitude will surely help our nation as well."
+ VEN_jewish_asylum_desc:0	"Seeing the Struggle of the Jewish people in Europe and Asia in a fight for their rights, Contreras issued a secret directive to provide shelter for any Jewish fugitives and refugees on the [[~ROOT.getAdjective~]] soil. Their gratitude will surely help our nation as well."
 
  VEN_arnoldo_gabaldon:0	"Fund Arnoldo Gabaldon's Research"
  VEN_arnoldo_gabaldon_desc:0	"Malaria took way too many lives of our people in the recent years. Newly established Ministry of Health requires a special unit to battle the illness on the greater scale. Luckily, a few plans for a Special Directorate of Malariology led by young scientist Arnoldo Gabaldon have been already successfully drawn."
@@ -45,7 +45,7 @@
  VEN_miraflores_concessions_desc:0	"Many young people questioned the authoritarian rule of Gomez and widespread corruption of the country's officials. Some of the most radical ones demanded liberalization and democratization of the state apparatus. Surely we cannot bend to the will of all of them, but perhaps the state reform is a necessary step to a bright and prosperous future?"
 
  VEN_presidential_amendment:0	"Reform the Presidential Amendments"
- VEN_presidential_amendment_desc:0	"Few of the people realize that the president is capable of drastically changing the political climate in the highest echelons of power. Let [ROOT.getLeader] show the people what kind of leader he is by adding a few national protection amendments to what might be called the constitution of [ROOT.getNameDef]."
+ VEN_presidential_amendment_desc:0	"Few of the people realize that the president is capable of drastically changing the political climate in the highest echelons of power. Let [[~ROOT.getLeader~]] show the people what kind of leader he is by adding a few national protection amendments to what might be called the constitution of [[~ROOT.getNameDef~]]."
 
  VEN_DSN:0	"Form the DSN"
  VEN_DSN_desc:0	"The democratic nature of our fragile state remains under constant threat from inside and outside. Directory of National Security (Dirección de Seguridad Nacional) must be established to investigate and pacify any threat to the current governmental institutions. "
@@ -54,19 +54,19 @@
  VEN_reshuffle_of_general_staff_desc:0	"Gomez and his clique has bound many rebellious generals and military commanders to their cause of enriching themselves on the cost of the common man. If we are to establish a modern state with organized arms forces, one must think of getting rid of the obsolete caudillo-supporting structures."
 
  VEN_institute_1936_constitution:0	"Institute the 1936 Constitution"
- VEN_institute_1936_constitution_desc:0	"Being the strongest enforcing law within the country limits, the Constitution of [ROOT.getNameDef] has many flaws and issues. The presidential term is poorly regulated, basic voting rights remain inaccessible to the big part of the population while businessman are given immersive rights. Such discrepancy must be rooted out for the good of the people!"
+ VEN_institute_1936_constitution_desc:0	"Being the strongest enforcing law within the country limits, the Constitution of [[~ROOT.getNameDef~]] has many flaws and issues. The presidential term is poorly regulated, basic voting rights remain inaccessible to the big part of the population while businessman are given immersive rights. Such discrepancy must be rooted out for the good of the people!"
 
  VEN_german_relations:0	"German Relations"
- VEN_german_relations_desc:0	"Official diplomatic relations between [ROOT.getNameDef] and [GER.getNameDef] date back to 1871 as the [GER.getAdjective] embassy was opened in Caracas with its corresponding counterparts in Frankfurt and Hamburg. A few additional diplomatic missions will surely improve our mutual relations."
+ VEN_german_relations_desc:0	"Official diplomatic relations between [[~ROOT.getNameDef~]] and [[~GER.getNameDef~]] date back to 1871 as the [[~GER.getAdjective~]] embassy was opened in Caracas with its corresponding counterparts in Frankfurt and Hamburg. A few additional diplomatic missions will surely improve our mutual relations."
 
  VEN_german_advisors:0	"Request German Advisors"
- VEN_german_advisors_desc:0	"[GER.getAdjective] general staff has its own military department responsible for the cooperation and military assistance of the 'former Bolivarian countries of South America'. We shall send an official request to receive valuable specialists who will overview the training and combat capabilities of our forces."
+ VEN_german_advisors_desc:0	"[[~GER.getAdjective~]] general staff has its own military department responsible for the cooperation and military assistance of the 'former Bolivarian countries of South America'. We shall send an official request to receive valuable specialists who will overview the training and combat capabilities of our forces."
 
  VEN_german_oil_deal:0	"German-Venezuelan Oil Company"
- VEN_german_oil_deal_desc:0	"The battle for our oil rages across the world with two dominant powers, [GER.getNameDef] and [USA.getNameDef] seek to secure their interests in oil. Our mutual cooperation with [GER.getAdjective]s will be even more beneficial if we consider an establishment of a new oil company aiming to protect our oil interests."
+ VEN_german_oil_deal_desc:0	"The battle for our oil rages across the world with two dominant powers, [[~GER.getNameDef~]] and [[~USA.getNameDef~]] seek to secure their interests in oil. Our mutual cooperation with [[~GER.getAdjective~]]s will be even more beneficial if we consider an establishment of a new oil company aiming to protect our oil interests."
 
  VEN_join_axis:0	"Formalize the German Alliance"
- VEN_join_axis_desc:0	"Our spies report that our meddling with [GER.getNameDef] has raised awareness of bankers from [USA.getAdjective] and [ENG.getAdjective]. Some report that the military intervention or an attempted Coup d'etat might be underway. Our only option is to take a stance and join the united front against the foreign threat."
+ VEN_join_axis_desc:0	"Our spies report that our meddling with [[~GER.getNameDef~]] has raised awareness of bankers from [[~USA.getAdjective~]] and [[~ENG.getAdjective~]]. Some report that the military intervention or an attempted Coup d'etat might be underway. Our only option is to take a stance and join the united front against the foreign threat."
 
  VEN_oil_reforms:0	"Extend the Foreign Oil Concessions"
 
@@ -89,13 +89,13 @@
  VEN_protect_workers_rights_desc:0	"The former state apparatus neglected workers and their rights for far too long. It is no doubt vital for us to ensure that the common man receive a proper wage, health insurance and representation via the trade unions, no matter how socialistic this idea sounds."
 
  VEN_nationalize_the_banking_sector:0	"Nationalize the Central Bank"
- VEN_nationalize_the_banking_sector_desc:0	"The leadership of the Central Bank followed the corrupted path of Gomez and his clique with many valuable assets residing on personal bank accounts. Some righteous [VEN.getAdjective] money from oil exports were spotted operating on the [USA.getAdjective] markets of Wall Street! No doubt, the Central Bank has its own plans for us and we shall strike before they make a blow to us!"
+ VEN_nationalize_the_banking_sector_desc:0	"The leadership of the Central Bank followed the corrupted path of Gomez and his clique with many valuable assets residing on personal bank accounts. Some righteous [[~VEN.getAdjective~]] money from oil exports were spotted operating on the [[~USA.getAdjective~]] markets of Wall Street! No doubt, the Central Bank has its own plans for us and we shall strike before they make a blow to us!"
 
  VEN_housing_act:0	"National Housing Act"
  VEN_housing_act_desc:0	"Our liberal reforms will undoubtedly be supported by the poorest and weakest of our people if our government can provide those with desired homes and working places. Public support will be even more on our side!"
 
  VEN_constitute_womens_rights:0	"Constitute Women's Rights"
- VEN_constitute_womens_rights_desc:0	"Finalizing our efforts in establishing modern society, we shall appeal to the half of our population who were denied their rights from the very beginning of our state: women! For we shall be the first state in South America to provide equal opportunities for all [VEN.getAdjective] people!"
+ VEN_constitute_womens_rights_desc:0	"Finalizing our efforts in establishing modern society, we shall appeal to the half of our population who were denied their rights from the very beginning of our state: women! For we shall be the first state in South America to provide equal opportunities for all [[~VEN.getAdjective~]] people!"
 
  VEN_western_agreements:0	"Western Commercial Agreements"
  VEN_western_agreements_desc:0	"Our devotion to democratic principles provides us with unique opportunities to establish and secure mutually beneficial economic deals with the giants of the West."
@@ -107,7 +107,7 @@
  ########################################## JIMENEZ #######################################
 
  VEN_marcos_jimenez:0	"Empower Jimenez"
- VEN_marcos_jimenez_desc:0	"The results of the election are expected to be announced in the National Congress in a few weeks, yet some supporters of Marcos Jimenez fear that the newly chosen candidate will lead [VEN.getNameDef] to its downfall. Some of the groups have already established a plan how to 'properly count the votes'..."
+ VEN_marcos_jimenez_desc:0	"The results of the election are expected to be announced in the National Congress in a few weeks, yet some supporters of Marcos Jimenez fear that the newly chosen candidate will lead [[~VEN.getNameDef~]] to its downfall. Some of the groups have already established a plan how to 'properly count the votes'..."
 
  VEN_paramilitarism:0	"Establish Paramilitary Squadrons"
  VEN_paramilitarism_desc:0	"Many of the people who assisted us in the rise to power remain without any sort of official duty to the state. Those loyal men and women can be used as a peacekeeping and order regulating force."
@@ -307,7 +307,7 @@
  VEN_creole_indivisible:0	"Creole Indivisible"
  VEN_creole_indivisible_desc:0	""
 
- VEN_venezuelan_fortress:0	"The [VEN.GetAdjective] Fortress"
+ VEN_venezuelan_fortress:0	"The [[~VEN.GetAdjective~]] Fortress"
  VEN_venezuelan_fortress_desc:0	""
 
  VEN_eliminating_the_competition:0	"Eliminating the Competition"
@@ -319,28 +319,28 @@
  ###################################### GRAN COLOMBIA #####################################
 
  VEN_viva_venezuela:0	"Viva Venezuela"
- VEN_viva_venezuela_desc:0	"We need nobody to achieve greatness! [VEN.getNameDefCap] will forge its own way to glory and prosperity!"
+ VEN_viva_venezuela_desc:0	"We need nobody to achieve greatness! [[~VEN.getNameDefCap~]] will forge its own way to glory and prosperity!"
 
  VEN_gran_colombia:0	"Revive Gran Colombia"
- VEN_gran_colombia_desc:0	"Simón Bolívar was the one [VEN.getAdjective] who had a brilliant concept of a greater union between all hispanic nations of Central and South America! We shall honour his legacy by reviving the spirit of Gran Colombia and legitimize it in our time!"
+ VEN_gran_colombia_desc:0	"Simón Bolívar was the one [[~VEN.getAdjective~]] who had a brilliant concept of a greater union between all hispanic nations of Central and South America! We shall honour his legacy by reviving the spirit of Gran Colombia and legitimize it in our time!"
 
  VEN_seize_curacao:0	"Solve the Curacao Issue"
- VEN_seize_curacao_desc:0	"The Curacao island group is one of the colonial holdings of [695.Owner.getNameDef] which has been considered an integral part of the Bolivarian and then [VEN.GetAdjective] sphere of influence. Located just outside of our coast, Curacao serves as the base of operation for [695.Owner.getAdjective] navy and a reliant exporter of raw resources. [695.Owner.getAdjective] neglect for these lands might provide us with a perfect opportunity to claim those lands for ourselves. "
+ VEN_seize_curacao_desc:0	"The Curacao island group is one of the colonial holdings of [[~695.Owner.getNameDef~]] which has been considered an integral part of the Bolivarian and then [[~VEN.GetAdjective~]] sphere of influence. Located just outside of our coast, Curacao serves as the base of operation for [[~695.Owner.getAdjective~]] navy and a reliant exporter of raw resources. [[~695.Owner.getAdjective~]] neglect for these lands might provide us with a perfect opportunity to claim those lands for ourselves. "
 
  VEN_annex_colombia:0	"Unify Bolivarian Brothers"
- VEN_annex_colombia_desc:0	"1831 saw the first great strike into the idea of Gran Colombia, at which it became clear that Gran Colombia as a concept could not be realized by the time being. Now, as we hold a firm position in the world, we can once again reach to our [COL.getAdjective] brothers and sisters to propose a desired unification. Under our banner, of course."
+ VEN_annex_colombia_desc:0	"1831 saw the first great strike into the idea of Gran Colombia, at which it became clear that Gran Colombia as a concept could not be realized by the time being. Now, as we hold a firm position in the world, we can once again reach to our [[~COL.getAdjective~]] brothers and sisters to propose a desired unification. Under our banner, of course."
 
  VEN_demand_guyana:0	"Demand Guyana"
- VEN_demand_guyana_desc:0	"Since the establishment of our state in 1824, there were many who saw Demerara-Essequibo as an integral part of our nation. And while we were weak and unstable, [ENG.getNameDef] managed to unite the rebellious people as the [ENG.getAdjective] Guyana and establish it as their outpost in the region. Those lands are rightfully ours by the rule of the first!"
+ VEN_demand_guyana_desc:0	"Since the establishment of our state in 1824, there were many who saw Demerara-Essequibo as an integral part of our nation. And while we were weak and unstable, [[~ENG.getNameDef~]] managed to unite the rebellious people as the [[~ENG.getAdjective~]] Guyana and establish it as their outpost in the region. Those lands are rightfully ours by the rule of the first!"
 
  VEN_attack_peru:0	"Realise Ethnocacerismo"
- VEN_attack_peru_desc:0	"Ethnocacerismo as a concept is based on the idea of [PRU.getAdjective] self-determination as it pursues an establishment of a proletarian dictatorship in the Andean mountains. We can consolidate many of the native tribes who seek their desired freedom and promise them a new hope. And a new leadership."
+ VEN_attack_peru_desc:0	"Ethnocacerismo as a concept is based on the idea of [[~PRU.getAdjective~]] self-determination as it pursues an establishment of a proletarian dictatorship in the Andean mountains. We can consolidate many of the native tribes who seek their desired freedom and promise them a new hope. And a new leadership."
 
  VEN_attack_ecuador:0	"Reclaim Ecuador"
- VEN_attack_ecuador_desc:0	"The third member of the Gran Colombia, now known as the [ECU.getNameDef] is located just across mountain ranges, waiting for the unification with the rest of the of our nation. Time has come to provide them with their desired freedom once and for all!"
+ VEN_attack_ecuador_desc:0	"The third member of the Gran Colombia, now known as the [[~ECU.getNameDef~]] is located just across mountain ranges, waiting for the unification with the rest of the of our nation. Time has come to provide them with their desired freedom once and for all!"
 
  VEN_strike_panama:0	"Strike Panama"
- VEN_strike_panama_desc:0	"Pathetic [COL.getAdjective] leadership subjugated themselves to the stipulations of the unequal Treaty of Neerlandia and Wisconsin of 1903 where they ceded Department of Panama to [USA.getNameDef]. For we are the new legitimize Gran Colombia, only we can revenge this unfair deal!"
+ VEN_strike_panama_desc:0	"Pathetic [[~COL.getAdjective~]] leadership subjugated themselves to the stipulations of the unequal Treaty of Neerlandia and Wisconsin of 1903 where they ceded Department of Panama to [[~USA.getNameDef~]]. For we are the new legitimize Gran Colombia, only we can revenge this unfair deal!"
 
  VEN_bolivarian_development:0	"Bolivarian Development"
  VEN_bolivarian_development_desc:0	"Neglected for far too long, the territories of Gran Colombia require proper re-administration, industrialization and a common resource extraction program."
@@ -371,7 +371,7 @@
 
  VEN_attack_mexico:0	"Plan Verde"
  VEN_attack_mexico_desc:0	""
- VEN_invade_mexico_tooltip:0	"Gains Claims on all §H[MEX.GetAdjective]§! Cores"
+ VEN_invade_mexico_tooltip:0	"Gains Claims on all §H[[~MEX.GetAdjective~]]§! Cores"
 
 
  VEN_attack_bolivia:0	"Plan Sureste"
@@ -387,7 +387,7 @@
  VEN_attack_south_south_america_desc:0	""
 
  VEN_intervention_in_brazil:0	"Intervention in Brazil"
- VEN_intervention_in_brazil_desc:0	"Our reintegration campaign have not remained unnoticed by our neighbors. [BRA.getAdjective] administration has strengthen their grip over the indigenous population of the Amazonian plate. Some of the refuges report of indescribable atrocities committed there. We shall intervene to save those people!"
+ VEN_intervention_in_brazil_desc:0	"Our reintegration campaign have not remained unnoticed by our neighbors. [[~BRA.getAdjective~]] administration has strengthen their grip over the indigenous population of the Amazonian plate. Some of the refuges report of indescribable atrocities committed there. We shall intervene to save those people!"
 
  VEN_attack_america:0	"Strike the Giant"
  VEN_attack_america_desc:0	"Just beyond the Caribbean sea lays giant who is now awake and actively looking for a prey. It has already consumed many in its way towards the hemisphere domination. From now shall we enforce our own Monroe doctrine on them!"
@@ -401,10 +401,10 @@
  VEN_prepare_amphibious_landings_desc:0	"Archipelago nature of the Caribbean was well suited for the pirate activities. Big fleet will be ineffective in the area. All is needed is one man at the right place in a right time and a few enthusiastic adventurers."
 
  VEN_attack_cuba:0	"Eliminate the Cuban Threat"
- VEN_attack_cuba_desc:0	"[CUB.getAdjective] is a strategic island in the region and a main exporter of rare materials for the heavy ships in the region. They have few assets which will be valuable for our further development."
+ VEN_attack_cuba_desc:0	"[[~CUB.getAdjective~]] is a strategic island in the region and a main exporter of rare materials for the heavy ships in the region. They have few assets which will be valuable for our further development."
 
  VEN_seize_trinidad:0	"Claim Trinidad"
- VEN_seize_trinidad_desc:0	"'Port of Spain' is called so for a reason. 1797 saw an unexpected and rapid invasion of the island by the [ENG.getAdjective]. Since then we have learned many things from them and can conduct a similar operation on a much greater scale. Fear us, [ENG.getName], for Port of Spain will be Hispanic once again!"
+ VEN_seize_trinidad_desc:0	"'Port of Spain' is called so for a reason. 1797 saw an unexpected and rapid invasion of the island by the [[~ENG.getAdjective~]]. Since then we have learned many things from them and can conduct a similar operation on a much greater scale. Fear us, [[~ENG.getName~]], for Port of Spain will be Hispanic once again!"
 
  VEN_attack_hispaniola:0	"Secure Hispaniola"
  VEN_attack_hispaniola_desc:0	"Few nations of the Caribbean Hispaniola are also expected to fall under our sphere of influence. Let us ensure that they follow our way 'freely'."
@@ -431,7 +431,7 @@
  VEN_modern_pirate_navy_desc:0	"If we are to achieve our old goals of disrupting trade in the whole Caribbean we are required to have modern naval vessels to take on anyone who dares oppose us."
 
  VEN_unite_the_caribbean_under_venezuela:0	"Bring the Rest of the Caribbean Into the Fold"
- VEN_unite_the_caribbean_under_venezuela_desc:0	"Now that we have consolidated our current union in the Caribbean it is time to fully fulfill the name and unite the entire Caribbean region under the [VEN.GetAdjective] flag!"
+ VEN_unite_the_caribbean_under_venezuela_desc:0	"Now that we have consolidated our current union in the Caribbean it is time to fully fulfill the name and unite the entire Caribbean region under the [[~VEN.GetAdjective~]] flag!"
 
 
 
@@ -443,16 +443,16 @@
  VEN_neutrality_focus_desc:0	"The country's leadership is more than aware that any sort of the economic or military alliance will only draw our fragile state into another all-in-war. people advocate for peace and rhetorical statements such as 'War! What is it good for?' can be heard in many places cross country."
 
  VEN_oil_protection:0	"Utilize the Nation's Greatest Strength"
- VEN_oil_protection_desc:0	"The nation shall be prepared for anything. Amazonian Jungles with its rough terrain build up an almost impenetrable defence line against big army formations. Our neighbor in face of [COL.getNameDef] has also distanced itself from the heated international stage, which leaves only one accessible route for a possible invasion: sea. Fortifying cities and extending coastal guards service will benefit us greatly in the future to protect our oil deposits."
+ VEN_oil_protection_desc:0	"The nation shall be prepared for anything. Amazonian Jungles with its rough terrain build up an almost impenetrable defence line against big army formations. Our neighbor in face of [[~COL.getNameDef~]] has also distanced itself from the heated international stage, which leaves only one accessible route for a possible invasion: sea. Fortifying cities and extending coastal guards service will benefit us greatly in the future to protect our oil deposits."
 
  VEN_zulia_line:0	"Zulia Line"
- VEN_zulia_line_desc:0	"Our agents report an excessive military exercises conducted by the [COL.getAdjective] in a close proximity of our border. Harsh terrain to the South and the lack of infrastructure in Bolivar area suggest that an attack is most likely to be commenced through the Northern areas across the coast. Border shall be reinforced immediately!"
+ VEN_zulia_line_desc:0	"Our agents report an excessive military exercises conducted by the [[~COL.getAdjective~]] in a close proximity of our border. Harsh terrain to the South and the lack of infrastructure in Bolivar area suggest that an attack is most likely to be commenced through the Northern areas across the coast. Border shall be reinforced immediately!"
 
  VEN_non_agression_colombia:0	"Non-Aggression Pact With Colombia"
- VEN_non_agression_colombia_desc:0	"Even though we share many in common, it might appear that some rebellious caudillos or provocateurs will try to sabotage our good relations with [COL.getNameDef]. Commencing to the non-aggression pact will ensure we keep our friendly stance with each other."
+ VEN_non_agression_colombia_desc:0	"Even though we share many in common, it might appear that some rebellious caudillos or provocateurs will try to sabotage our good relations with [[~COL.getNameDef~]]. Commencing to the non-aggression pact will ensure we keep our friendly stance with each other."
 
  VEN_arms_protect_the_nation:0	"Arms Protect the Nation"
- VEN_arms_protect_the_nation_desc:0	"'Best defence is good offense' is not about [VEN.getAdjective] people. However, should a potential enemy cross our border, the regular army must be ready to repel the aggressor by any mean possible."
+ VEN_arms_protect_the_nation_desc:0	"'Best defence is good offense' is not about [[~VEN.getAdjective~]] people. However, should a potential enemy cross our border, the regular army must be ready to repel the aggressor by any mean possible."
 
 
 
@@ -470,28 +470,28 @@
  VEN_british_air_bases:0	"British Air Bases"
  VEN_british_air_bases_desc:0	"Few of the European agents have turned to our side, revealing an unsettling truth about the submarine formations hiding in the Caribbean basin to strike unsuspecting convoys as soon as those enter the open sea. With our lack of maritime patrols and naval bombers, it is extremely difficult to spot the looming threat. Our allies, however, posses such possibility and are ready to assist us, as long as proper facilities will be constructed."
 
- VEN_foreign_expeditions:0	"[VEN.GetAdjective] Expeditionary Force"
+ VEN_foreign_expeditions:0	"[[~VEN.GetAdjective~]] Expeditionary Force"
  VEN_foreign_expeditions_desc:0	"While we might seek peace, our enemies might not do the same. Having an army force ready to assist an international struggle abroad will allow us extend our presence and secure the democratic principles around the world."
 
  VEN_embargo_japan:0	"Oil Embargo Japan"
- VEN_embargo_japan_desc:0	"[JAP.getNameDefCap] is eagerly waiting to obtain more and more resources in the South-East Asia, in particular rubber for their planes and oil for their humongous navy. It is no doubt that if they continue expansion, some day their ships might arrive at our coastline. Time to show our devotion to the fight against their regime and lay embargo on trade with them."
+ VEN_embargo_japan_desc:0	"[[~JAP.getNameDefCap~]] is eagerly waiting to obtain more and more resources in the South-East Asia, in particular rubber for their planes and oil for their humongous navy. It is no doubt that if they continue expansion, some day their ships might arrive at our coastline. Time to show our devotion to the fight against their regime and lay embargo on trade with them."
 
  VEN_anti_submarine:0	"Assist in the Atlantic Theater"
  VEN_anti_submarine_desc:0	"Unrestricted submarine warfare is hindering the trade and commerce right off our shores. A proper response would be to secure the shipping routes with a few of a newly developed destroyers and cruisers."
 
  VEN_latin_america_guardian:0	"Latin America's Guardian"
- VEN_latin_america_guardian_desc:0	"[VEN.GetName] is a shining beam of Latin America's freedom and strong democracy, and it is our duty to safeguard our fellow nations from radical and oppressive regimes, not only in the name of liberty, but everlasting peace for us all!"
+ VEN_latin_america_guardian_desc:0	"[[~VEN.GetName~]] is a shining beam of Latin America's freedom and strong democracy, and it is our duty to safeguard our fellow nations from radical and oppressive regimes, not only in the name of liberty, but everlasting peace for us all!"
 
  VEN_attack_japan:0	"Bring the Fight East"
- VEN_attack_japan_desc:0	"[JAP.getAdjective] threat continues to grow. Surely they will not expect the strike from us, as the new Sun shall be rising over the Pacific!"
+ VEN_attack_japan_desc:0	"[[~JAP.getAdjective~]] threat continues to grow. Surely they will not expect the strike from us, as the new Sun shall be rising over the Pacific!"
 
  VEN_attack_germany:0	"Eliminate the European Threat"
- VEN_attack_germany_desc:0	"[GER.getNameDef]'s threat has gone too far, it is clear if we are to safeguard democracy in the world Europe needs to be freed once and for all!"
+ VEN_attack_germany_desc:0	"[[~GER.getNameDef~]]'s threat has gone too far, it is clear if we are to safeguard democracy in the world Europe needs to be freed once and for all!"
 
 
  ################################### GOVERNMENT IN EXILE ##############################
 
- VEN_exile_government:0	"[VEN.GetAdjective] Government in Exile"
+ VEN_exile_government:0	"[[~VEN.GetAdjective~]] Government in Exile"
  VEN_exile_government_desc:0	"We have fallen, but not been defeated, setting up a government in exile in our allies will allow us to continue the fight against our enemies to the bitter end!"
 
  VEN_alliance_with_political_opponents:0	"Alliance with Political Opponents"
@@ -522,7 +522,7 @@
  VEN_modernize_army_desc:0	"Juan Vicente Gómez was a wise man with an emphasis on a modern army built on the Prussian model. Rising tensions across the world suggest a new line of investments in an effort to improve the performance of our troops."
 
  VEN_modernize_calvary:0	"Cardona's Motorization Plan"
- VEN_modernize_calvary_desc:0	"Our observations of the Great War show that the infantry troops have outlived their use as attacking units. Focusing on the speed, flanking maneuvers, sneak attacks and excessive usage of motorization, as proposed by the Antonio Chalbaud Cardona, is new warfare type [VEN.getNameDef] shall implement."
+ VEN_modernize_calvary_desc:0	"Our observations of the Great War show that the infantry troops have outlived their use as attacking units. Focusing on the speed, flanking maneuvers, sneak attacks and excessive usage of motorization, as proposed by the Antonio Chalbaud Cardona, is new warfare type [[~VEN.getNameDef~]] shall implement."
 
  VEN_signal_companies:0	"Signal Companies"
  VEN_signal_companies_desc:0	"Radio communication between rapidly advancing motorized columns will vastly improve their combat capabilities, planning speed and overall threat response time."
@@ -530,7 +530,7 @@
  VEN_mechanised:0	"Mechanize the Army"
  VEN_mechanised_desc:0	"Motorized trucks used by the general purpose infantry lack proper armament and armor to counter enemy partizans who might catch our relocating troops off guard. Cardona is currently proposing a way to increase troops security by using mechanized vehicles to protect the soldiers. Should we follow the development?"
 
- VEN_tanks:0	"Develop [VEN.GetAdjective] Armour"
+ VEN_tanks:0	"Develop [[~VEN.GetAdjective~]] Armour"
  VEN_tanks_desc:0	"Abundance of fuel allow us to deploy the massive armored formations, which are expected to be extremely effective in plain areas around the coastline. Some of the experts suggest that tank divisions will play a decisive role in resolving international conflicts around the world as an effective peacekeeping force. What an interesting idea..."
 
  VEN_defensive:0	"Continue Angarita's Plan"
@@ -598,7 +598,7 @@
 
  ######################################## INDUSTRY ++ OIL ######################################
  VEN_major_oil_discoveries:0	"Address the Economic Situation"
- VEN_major_oil_discoveries_desc:0	"Located at the Eastern shore of the lake Maracaibo, the city of Cabimas is considered one of the centres of the [ROOT.getAdjective] oil industry. Recent years saw aa substantial growth of its oil and petroleum industries due to the oil prospecting in its vicinity."
+ VEN_major_oil_discoveries_desc:0	"Located at the Eastern shore of the lake Maracaibo, the city of Cabimas is considered one of the centres of the [[~ROOT.getAdjective~]] oil industry. Recent years saw aa substantial growth of its oil and petroleum industries due to the oil prospecting in its vicinity."
 
  VEN_national_recovery_act:0	"National Recovery Act"
  VEN_national_recovery_act_desc:0	"Our country's economy is extremely reliant on the crude petroleum exports, reaching up to the 80% of the net exports value. Further solely reliance on nonrenewable resources might play a bad game with our people later. Ending reliance is a hard task, yet it must be done at some point. "
@@ -607,7 +607,7 @@
  VEN_alternatives_to_oil_desc:0	"Some iron deposits in Cerro San Isidro were discovered in the recent geological survey providing us with an alternative to the oil exports."
 
  VEN_invest_mining_industry:0	"Invest in the Mining Industry"
- VEN_invest_mining_industry_desc:0	"It is more than clear that many resources lay just beneath the feet. Our geologists require only additional funding to organize few additional surveys of the [ROOT.getAdjective] soil."
+ VEN_invest_mining_industry_desc:0	"It is more than clear that many resources lay just beneath the feet. Our geologists require only additional funding to organize few additional surveys of the [[~ROOT.getAdjective~]] soil."
 
  VEN_improve_living_standards:0	"Improve Living Standards"
  VEN_improve_living_standards_desc:0	"Many people of our nation lack access to electricity, telegraph or radio to receive up-to-date news from the government. Deducing an excessive amount of funding into the branch might be a costly matter, yet long-term benefits and appreciation of our people are worth it!"
@@ -622,10 +622,10 @@
  VEN_expand_oil_industry_desc:0	"Reliance on oil is the only way our economy can hold its positions on the international market. It is only logical that we invest more into it and open our markets for more oil exporters around the world."
 
  VEN_engineering_schools:0	"Engineering Schools"
- VEN_engineering_schools_desc:0	"Recent studies of the [ROOT.getAdjective] geological commission indicate that few governmental investments into the resource prospecting will allow to extract even more resources from our soil. Some of the politicians are already lobbying this act in the Congress."
+ VEN_engineering_schools_desc:0	"Recent studies of the [[~ROOT.getAdjective~]] geological commission indicate that few governmental investments into the resource prospecting will allow to extract even more resources from our soil. Some of the politicians are already lobbying this act in the Congress."
 
  VEN_open_rubber_plantations:0	"Open Rubber Plantations"
- VEN_open_rubber_plantations_desc:0	"Warm and humid [ROOT.getAdjective] climate is well suited for the establishment of a few rubber plantations. If [BRA.getAdjective]s can harvest enormous quantities of rubber, why can't we do the same?"
+ VEN_open_rubber_plantations_desc:0	"Warm and humid [[~ROOT.getAdjective~]] climate is well suited for the establishment of a few rubber plantations. If [[~BRA.getAdjective~]]s can harvest enormous quantities of rubber, why can't we do the same?"
 
  VEN_expand_curacao_refinery:0	"Expand Isla Refinery"
  VEN_expand_curacao_refinery_desc:0	"Neglected for so long, the island of Curacao is finally in our hands. We shall expand our base of operations and establish several fuel refining facilities to further improve our petroleum production."
@@ -634,10 +634,10 @@
  VEN_establish_IFE_desc:0	"transport of extracted materials requires besides the proper industrial basis also proper infrastructure connection from ports to the facilities. State-owned railway company known as Instituto de Ferrocarriles del Estado will be founded to overwatch the arising logistical issues. "
 
  VEN_promote_foreign_investment:0	"Promote Foreign Investments"
- VEN_promote_foreign_investment_desc:0	"Many foreign corporations who see changes in [ROOT.getNameDef] as progressive are willing to invest into the local industrial development and strengthen economic ties with our nation. Who are we to deny their humble investments?"
+ VEN_promote_foreign_investment_desc:0	"Many foreign corporations who see changes in [[~ROOT.getNameDef~]] as progressive are willing to invest into the local industrial development and strengthen economic ties with our nation. Who are we to deny their humble investments?"
 
- VEN_acheiving_autarky:0	"Achieving [ROOT.getAdjective] Autarky"
- VEN_acheiving_autarky_desc:0	"Our oil is known for its good quality and high octane number. With investments flooding into our hands, [ROOT.getNameDef] can proclaim its pure reliance on oil and oil product exports as the cornerstone of our modern state!"
+ VEN_acheiving_autarky:0	"Achieving [[~ROOT.getAdjective~]] Autarky"
+ VEN_acheiving_autarky_desc:0	"Our oil is known for its good quality and high octane number. With investments flooding into our hands, [[~ROOT.getNameDef~]] can proclaim its pure reliance on oil and oil product exports as the cornerstone of our modern state!"
 
  VEN_rearmament:0	"Begin Rearmament"
  VEN_rearmament_desc:0	"The war unlike none seen before is going to shape the world we knew prior. We better be prepared to any struggles the future conflicts might unleash upon us."
@@ -655,13 +655,13 @@
  VEN_rural_schools_desc:0	"Much of our nation is undeveloped and many places particularly ural regions are lacking in a lot of basic education systems, with our new industrial advances it is time we focus on the people and provide education to them."
  ########################################### AIR #########################################
  VEN_a_seprate_branch:0	"A Separate Branch"
- VEN_a_seprate_branch_desc:0	"Separating the airforce command from two army and naval forces will allow us to consolidate required funds and improve the quality of the [VEN.getAdjective] Air Forces."
+ VEN_a_seprate_branch_desc:0	"Separating the airforce command from two army and naval forces will allow us to consolidate required funds and improve the quality of the [[~VEN.getAdjective~]] Air Forces."
 
  VEN_fighters:0	"A Fighter Air Force"
  VEN_fighters_desc:0	"Dominance in skies is achieved through the proper usage of fighter squadrons in a constant dogfight and interception of enemy bombers. Some of the government funds can be dedicated to improve the quality of those vessels."
 
  VEN_bombers:0	"A Bombers Air Force"
- VEN_bombers_desc:0	"Isolated position of our country suggests that it will not be a target of the bomber raids of our enemies, which implies that the small fighter force is more than enough to secure the skies of [VEN.getNameDef]. Main investments shall be dedicated into the development of the bombers, capable of striking enemy industry from afar."
+ VEN_bombers_desc:0	"Isolated position of our country suggests that it will not be a target of the bomber raids of our enemies, which implies that the small fighter force is more than enough to secure the skies of [[~VEN.getNameDef~]]. Main investments shall be dedicated into the development of the bombers, capable of striking enemy industry from afar."
 
  VEN_purchase_italian_bombers:0	"Purchase Italian Bombers"
  VEN_purchase_italian_bombers_desc:0	"We had previously bought Italian bombers in the past and they proved to be effective, so if we want to build up our air force it is obvious we should purchase more."
@@ -701,7 +701,7 @@
  VEN_corruption_3:0	"Political Cooperation"
  VEN_corruption_3_desc:0	"If corruption in Venezuela is going to be eradicated, we need to show a strong partnership between different parties in the nation to root out corrupt officials permanently."
  VEN_corruption_4:0	"Gómez's Legacy"
- VEN_corruption_4_desc:0	"Many view Juan Gómez as nothing but a tyrant, but they are wrong, Gómez set the way for a greater [VEN.GetAdjective] system, we need to continue what he started."
+ VEN_corruption_4_desc:0	"Many view Juan Gómez as nothing but a tyrant, but they are wrong, Gómez set the way for a greater [[~VEN.GetAdjective~]] system, we need to continue what he started."
  VEN_corruption_5:0	"1936 Constitution"
  VEN_corruption_6:0	"Consulted Women's Rights"
  VEN_corruption_7:0	"Radicalization of the Barranquilla Plan"
@@ -709,30 +709,30 @@
  VEN_corruption_9:0	"Socialist Reforms"
  VEN_corruption_10:0	"Barranquilla Plan Realised"
  VEN_corruption_11:0	"The Barranquilla Plan"
- VEN_oil:0	"[VEN.GetAdjective] Oil"
- VEN_oil_2:0	"[VEN.GetAdjective] Oil"
- VEN_oil_3:0	"[VEN.GetAdjective] Oil"
- VEN_oil_4:0	"[VEN.GetAdjective] Oil"
- VEN_oil_5:0	"[VEN.GetAdjective] Oil"
- VEN_oil_6:0	"[VEN.GetAdjective] Oil"
- VEN_oil_7:0	"[VEN.GetAdjective] Oil"
- VEN_oil_8:0	"[VEN.GetAdjective] Oil"
- VEN_oil_9:0	"[VEN.GetAdjective] Oil"
- VEN_oil_10:0	"[VEN.GetAdjective] Autarky"
- VEN_oil_desc:0	"For better or for worse, Venezuela is rich in oil. The export of which contributes to a large portion of the [VEN.GetAdjective] economy."
- VEN_oil_2_desc:0	"For better or for worse, Venezuela is rich in oil. The export of which contributes to a large portion of the [VEN.GetAdjective] economy."
- VEN_oil_3_desc:0	"For better or for worse, Venezuela is rich in oil. The export of which contributes to a large portion of the [VEN.GetAdjective] economy."
- VEN_oil_4_desc:0	"For better or for worse, Venezuela is rich in oil. The export of which contributes to a large portion of the [VEN.GetAdjective] economy."
- VEN_oil_5_desc:0	"For better or for worse, Venezuela is rich in oil. The export of which contributes to a large portion of the [VEN.GetAdjective] economy."
- VEN_oil_6_desc:0	"For better or for worse, Venezuela is rich in oil. The export of which contributes to a large portion of the [VEN.GetAdjective] economy."
- VEN_oil_7_desc:0	"For better or for worse, Venezuela is rich in oil. The export of which contributes to a large portion of the [VEN.GetAdjective] economy."
- VEN_oil_8_desc:0	"For better or for worse, Venezuela is rich in oil. The export of which contributes to a large portion of the [VEN.GetAdjective] economy."
- VEN_oil_9_desc:0	"For better or for worse, Venezuela is rich in oil. The export of which contributes to a large portion of the [VEN.GetAdjective] economy."
- VEN_oil_10_desc:0	"For better or for worse, Venezuela is rich in oil. The export of which contributes to a large portion of the [VEN.GetAdjective] economy."
+ VEN_oil:0	"[[~VEN.GetAdjective~]] Oil"
+ VEN_oil_2:0	"[[~VEN.GetAdjective~]] Oil"
+ VEN_oil_3:0	"[[~VEN.GetAdjective~]] Oil"
+ VEN_oil_4:0	"[[~VEN.GetAdjective~]] Oil"
+ VEN_oil_5:0	"[[~VEN.GetAdjective~]] Oil"
+ VEN_oil_6:0	"[[~VEN.GetAdjective~]] Oil"
+ VEN_oil_7:0	"[[~VEN.GetAdjective~]] Oil"
+ VEN_oil_8:0	"[[~VEN.GetAdjective~]] Oil"
+ VEN_oil_9:0	"[[~VEN.GetAdjective~]] Oil"
+ VEN_oil_10:0	"[[~VEN.GetAdjective~]] Autarky"
+ VEN_oil_desc:0	"For better or for worse, Venezuela is rich in oil. The export of which contributes to a large portion of the [[~VEN.GetAdjective~]] economy."
+ VEN_oil_2_desc:0	"For better or for worse, Venezuela is rich in oil. The export of which contributes to a large portion of the [[~VEN.GetAdjective~]] economy."
+ VEN_oil_3_desc:0	"For better or for worse, Venezuela is rich in oil. The export of which contributes to a large portion of the [[~VEN.GetAdjective~]] economy."
+ VEN_oil_4_desc:0	"For better or for worse, Venezuela is rich in oil. The export of which contributes to a large portion of the [[~VEN.GetAdjective~]] economy."
+ VEN_oil_5_desc:0	"For better or for worse, Venezuela is rich in oil. The export of which contributes to a large portion of the [[~VEN.GetAdjective~]] economy."
+ VEN_oil_6_desc:0	"For better or for worse, Venezuela is rich in oil. The export of which contributes to a large portion of the [[~VEN.GetAdjective~]] economy."
+ VEN_oil_7_desc:0	"For better or for worse, Venezuela is rich in oil. The export of which contributes to a large portion of the [[~VEN.GetAdjective~]] economy."
+ VEN_oil_8_desc:0	"For better or for worse, Venezuela is rich in oil. The export of which contributes to a large portion of the [[~VEN.GetAdjective~]] economy."
+ VEN_oil_9_desc:0	"For better or for worse, Venezuela is rich in oil. The export of which contributes to a large portion of the [[~VEN.GetAdjective~]] economy."
+ VEN_oil_10_desc:0	"For better or for worse, Venezuela is rich in oil. The export of which contributes to a large portion of the [[~VEN.GetAdjective~]] economy."
  VEN_DSN_formed:0	"DSN"
  VEN_arnoldo_gabaldon_teachings:0	"Arnoldo Gabaldon's Research"
- VEN_paramilitarism_buff:0	"[VEN.GetAdjective] Paramilitarism"
- VEN_paramilitarism_buff2:0	"[VEN.GetAdjective] Paramilitarism"
+ VEN_paramilitarism_buff:0	"[[~VEN.GetAdjective~]] Paramilitarism"
+ VEN_paramilitarism_buff2:0	"[[~VEN.GetAdjective~]] Paramilitarism"
  VEN_military_disloyalty:0	"Military Disloyalty"
  VEN_military_disloyalty_desc:0	"Much of the general staff is still loyal to Juan Gómez's old ways, and with the promises of transition back to democracy not everyone is on board."
  VEN_military_disloyalty2:0	"Enforced Military Loyalty"
@@ -749,11 +749,11 @@
  VEN_creole_cult5:0	"Creole Empowered"
  VEN_oil_protection_squadrons:0	"Oil Protection Squadrons"
  VEN_oil_protection_squadrons2:0	"Oil Protection Squadrons"
- VEN_spread_communism:0	"[VEN.GetAdjective] Influence"
+ VEN_spread_communism:0	"[[~VEN.GetAdjective~]] Influence"
  VEN_the_push_to_end_captalism:0	"The Great Push"
  VEN_50_50_oil:0	"50/50 Oil"
  VEN_50_50_oil2:0	"50/50 Oil"
- VEN_fortress:0	"The [VEN.GetAdjective] Fortress"
+ VEN_fortress:0	"The [[~VEN.GetAdjective~]] Fortress"
  VEN_fuerzas_venezolanas_del_interior:0	"FVI"
  VEN_fuerzas_venezolanas_del_interior_2:0	"Prosecuting Collaborators"
 
@@ -770,63 +770,63 @@
 
  #events
 
- venezuela.1.t:0	"[VEN.GetNameDefCap] Pushes their claim on Curacao"
- venezuela.1.d:0	"Toady the [VEN.GetAdjective] leader, [VEN.GetLeader] has make it clear that the island of Curaçao, only 60 km of the coast of Venezuela, is a rightful part of the nation and should be returned. Even if that means by force.\n\nThis may be a justification of an invasion of the island, so we must be prepared for the worst."
+ venezuela.1.t:0	"[[~VEN.GetNameDefCap~]] Pushes their claim on Curacao"
+ venezuela.1.d:0	"Toady the [[~VEN.GetAdjective~]] leader, [[~VEN.GetLeader~]] has make it clear that the island of Curaçao, only 60 km of the coast of Venezuela, is a rightful part of the nation and should be returned. Even if that means by force.\n\nThis may be a justification of an invasion of the island, so we must be prepared for the worst."
  venezuela.1.a:0	"We need to do something."
 
- venezuela.2.t:0	"[VEN.GetName] victory at Curaçao"
- venezuela.2.d:0	"After fierce fighting, the [VEN.GetAdjective] invaders successfully managed to land on Curaçao and overwhelmed the [695.Owner.getAdjective] defenders. Later capturing the capital of Willemstad.\n\nWhere this may lead to another larger conflict within the region it is safe to say that the island is firmly in Venezuela's hands."
+ venezuela.2.t:0	"[[~VEN.GetName~]] victory at Curaçao"
+ venezuela.2.d:0	"After fierce fighting, the [[~VEN.GetAdjective~]] invaders successfully managed to land on Curaçao and overwhelmed the [[~695.Owner.getAdjective~]] defenders. Later capturing the capital of Willemstad.\n\nWhere this may lead to another larger conflict within the region it is safe to say that the island is firmly in Venezuela's hands."
  venezuela.2.a:0	"Very well."
 
- venezuela.3.t:0	"[695.Owner.GetName] victory at Curaçao"
- venezuela.3.d:0	"The superior defenders of Curaçao have successfully defended against the [VEN.GetAdjective] landings and denied them a successful beachhead. [VEN.GetAdjective] forces have been forced to withdraw, as a result of which the island firmly remains in [695.Owner.GetNameDef] hands."
+ venezuela.3.t:0	"[[~695.Owner.GetName~]] victory at Curaçao"
+ venezuela.3.d:0	"The superior defenders of Curaçao have successfully defended against the [[~VEN.GetAdjective~]] landings and denied them a successful beachhead. [[~VEN.GetAdjective~]] forces have been forced to withdraw, as a result of which the island firmly remains in [[~695.Owner.GetNameDef~]] hands."
  venezuela.3.a:0	"Very well."
 
- venezuela.4.t:0	"1935 [VEN.GetAdjective] Elections"
- venezuela.4.d:0	"After the death Juan Vicente Gómez in late 1935 a large power struggle opened within [VEN.GetAdjective] politics for a suitable sucessor for his rule, Gómez had previously ruled with an iron fist to consolidate his power and authority.\n\nEleazar López Contreras, a collaborator and close friend of Gómez's assumed power after his death, however even during his reign Contreras was highly critical of Gómez's policies and intends to reform and modernize the nation.\n\nHowever, there are several political leaders within Venezuela such as Rómulo Gallegos and Isaías Medina Angarita who believe Venezuela should be reformed into a free western-style democracy. But more extremest groups such as General Marcos Pérez Jiménez are highly supportive of Gómez's policies and seek to continue them, Jiménez had previously been withheld from holding any significant political presence but now with the power struggle it may be a perfect opportunity for him to take power."
+ venezuela.4.t:0	"1935 [[~VEN.GetAdjective~]] Elections"
+ venezuela.4.d:0	"After the death Juan Vicente Gómez in late 1935 a large power struggle opened within [[~VEN.GetAdjective~]] politics for a suitable sucessor for his rule, Gómez had previously ruled with an iron fist to consolidate his power and authority.\n\nEleazar López Contreras, a collaborator and close friend of Gómez's assumed power after his death, however even during his reign Contreras was highly critical of Gómez's policies and intends to reform and modernize the nation.\n\nHowever, there are several political leaders within Venezuela such as Rómulo Gallegos and Isaías Medina Angarita who believe Venezuela should be reformed into a free western-style democracy. But more extremest groups such as General Marcos Pérez Jiménez are highly supportive of Gómez's policies and seek to continue them, Jiménez had previously been withheld from holding any significant political presence but now with the power struggle it may be a perfect opportunity for him to take power."
  venezuela.4.a:0	"Eleazar Contreras Will Reform and Modernise Venezuela."
  venezuela.4.b:0	"Isaías Angarita is a Conservative Reformer, Exactly What Venezuela Needs."
- venezuela.4.c:0	"Rómulo Gallegos Knows What's Right For The [VEN.GetAdjective] People."
+ venezuela.4.c:0	"Rómulo Gallegos Knows What's Right For The [[~VEN.GetAdjective~]] People."
  venezuela.4.e:0	"Marcos Jiménez Will Give Venezuela a Strong Hand."
 
- venezuela.5.t:0	"[VEN.GetName] Proposes Unification"
+ venezuela.5.t:0	"[[~VEN.GetName~]] Proposes Unification"
  venezuela.5.d:0	"After over a decade Venezuela wishes to once again join together with us to form a greater union. What should we do?"
  venezuela.5.a:0	"United we can revive Bolívar's legacy."
  venezuela.5.b:0	"Those glories are in the past now."
 
- venezuela.6.t:0	"[COL.GetName] Accepts Unification"
+ venezuela.6.t:0	"[[~COL.GetName~]] Accepts Unification"
  venezuela.6.d:0	"After 100 years of separation our Colombia brothers happily accepts to be apart of the Gran Colombian nation once more."
  venezuela.6.a:0	"Together we will prosper."
 
- venezuela.7.t:0	"[COL.GetName] Refuses Unification"
+ venezuela.7.t:0	"[[~COL.GetName~]] Refuses Unification"
  venezuela.7.d:0	"The Colombians seem to ignorant enough to refuse our offer and do nothing. We will have to resort to military action instead"
  venezuela.7.a:0	"We tried the peaceful approach..."
 
- venezuela.8.t:0	"[VEN.GetName] Demands Guyana"
- venezuela.8.d:0	"[VEN.GetAdjective] diplomats have sent us an ultimatum, return the territory of Guyana to their nation, which Venezuela has laid claim to since 1895 or face military action.\n\nHow should we respond to this threat?"
+ venezuela.8.t:0	"[[~VEN.GetName~]] Demands Guyana"
+ venezuela.8.d:0	"[[~VEN.GetAdjective~]] diplomats have sent us an ultimatum, return the territory of Guyana to their nation, which Venezuela has laid claim to since 1895 or face military action.\n\nHow should we respond to this threat?"
  venezuela.8.a:0	"We have no choice."
  venezuela.8.b:0	"A ridiculous claim!"
 
- venezuela.9.t:0	"[687.Owner.GetNameDefCap] Submits"
- venezuela.9.d:0	"Faced with the threat of military action,[687.Owner.GetNameDefCap] has given into our demands, and the territory of Guyana will be returned to Venezuela."
+ venezuela.9.t:0	"[[~687.Owner.GetNameDefCap~]] Submits"
+ venezuela.9.d:0	"Faced with the threat of military action,[[~687.Owner.GetNameDefCap~]] has given into our demands, and the territory of Guyana will be returned to Venezuela."
  venezuela.9.a:0	"As it should be."
 
- venezuela.10.t:0	"[687.Owner.GetNameDefCap] Refuses to Cede Guyana"
- venezuela.10.d:0	"[687.Owner.GetNameDefCap] are arrogant enough to decline our demands and recognise our claim, they have even gone as far as calling our claim ridiculous!\n\nHowever, they may have the potential to have match us in a conflict over it, if so, we may want to stand down."
+ venezuela.10.t:0	"[[~687.Owner.GetNameDefCap~]] Refuses to Cede Guyana"
+ venezuela.10.d:0	"[[~687.Owner.GetNameDefCap~]] are arrogant enough to decline our demands and recognise our claim, they have even gone as far as calling our claim ridiculous!\n\nHowever, they may have the potential to have match us in a conflict over it, if so, we may want to stand down."
  venezuela.10.a:0	"We best stand down."
  venezuela.10.b:0	"It is rightfully ours whether they like it or not"
 
- venezuela.11.t:0	"[VEN.Getname] Requests Advisors"
+ venezuela.11.t:0	"[[~VEN.Getname~]] Requests Advisors"
  venezuela.11.d:0	"Venezuela has sent a request for us to send military advisors to assist in training and modernising their army. It could pose as a potential opportunity to gain more access to Venezuela's oil exports."
  venezuela.11.a:0	"This is an opportunity for us."
- venezuela.11.b:0	"We have no interest in the [VEN.GetAdjective]s"
+ venezuela.11.b:0	"We have no interest in the [[~VEN.GetAdjective~]]s"
 
- venezuela.12.t:0	"The [GER.GetName] Accepts"
- venezuela.12.d:0	"The [GER.GetName] has accepted our request and has sent General Wilhelm von Faupel, head of the Ibero-American Institute to our aid."
+ venezuela.12.t:0	"The [[~GER.GetName~]] Accepts"
+ venezuela.12.d:0	"The [[~GER.GetName~]] has accepted our request and has sent General Wilhelm von Faupel, head of the Ibero-American Institute to our aid."
  venezuela.12.a:0	"Wonderful News"
 
- venezuela.13.t:0	"The [GER.GetName] Refuses"
- venezuela.13.d:0	"The [GER.GetName] has arrogantly rejected our request and will be sending nobody to our aid."
+ venezuela.13.t:0	"The [[~GER.GetName~]] Refuses"
+ venezuela.13.d:0	"The [[~GER.GetName~]] has arrogantly rejected our request and will be sending nobody to our aid."
  venezuela.13.a:0	"Their Loss."
 
  venezuela.15.t:0	"Strikes in Caracas!"
@@ -835,20 +835,20 @@
  venezuela.15.b:0	"Perhaps we can use this to our advantage."
 
  venezuela.16.t:0	"Inauguration of Eleazar Contreras"
- venezuela.16.d:0	"Today it has officially been announced that Eleazar López Contreras has won a decisive victory in the elections due to his large popularity amongst the government and the people.\n\nHe is scheduled later today to be inaugurated as the 45th president of Venezuela before the Congress of the Union Federal Legislative Palace.\n\nWith Contreras's promises to modernize Venezuela's healthcare, infrastructure and armed forces while also making a slow transition back to democracy has many [VEN.GetAdjective]s seeing this event as a start of a new age for their nation."
- venezuela.16.a:0	"A hero for [VEN.GetNameDef]."
+ venezuela.16.d:0	"Today it has officially been announced that Eleazar López Contreras has won a decisive victory in the elections due to his large popularity amongst the government and the people.\n\nHe is scheduled later today to be inaugurated as the 45th president of Venezuela before the Congress of the Union Federal Legislative Palace.\n\nWith Contreras's promises to modernize Venezuela's healthcare, infrastructure and armed forces while also making a slow transition back to democracy has many [[~VEN.GetAdjective~]]s seeing this event as a start of a new age for their nation."
+ venezuela.16.a:0	"A hero for [[~VEN.GetNameDef~]]."
 
- venezuela.17.t:0	"[VEN.GetName] requests non-Aggression"
- venezuela.17.d:0	"[VEN.GetName] has proposed a non aggression pact between our two nations to maintain relations and ensure peace in Bolivarian America."
+ venezuela.17.t:0	"[[~VEN.GetName~]] requests non-Aggression"
+ venezuela.17.d:0	"[[~VEN.GetName~]] has proposed a non aggression pact between our two nations to maintain relations and ensure peace in Bolivarian America."
  venezuela.17.a:0	"Of course!"
- venezuela.17.b:0	"We have other plans for the [VEN.GetAdjective]s"
+ venezuela.17.b:0	"We have other plans for the [[~VEN.GetAdjective~]]s"
 
  venezuela.18.t:0	"Colombia sings the pact"
- venezuela.18.d:0	"[COL.GetName] has happily accepted our proposal today, we are assured there will be no hostilities between our two nations."
+ venezuela.18.d:0	"[[~COL.GetName~]] has happily accepted our proposal today, we are assured there will be no hostilities between our two nations."
  venezuela.18.a:0	"Peace in our time"
 
  venezuela.19.t:0	"Colombia rejects the pact"
- venezuela.19.d:0	"[COL.GetName] arrogantly refused our offer to cease all hostilities, it is obvious the Colombians aren't our friends."
+ venezuela.19.d:0	"[[~COL.GetName~]] arrogantly refused our offer to cease all hostilities, it is obvious the Colombians aren't our friends."
  venezuela.19.a:0	"This is concerning."
 
  venezuela.20.t:0	"Marcos Jiménez seizes power"
@@ -856,7 +856,7 @@
  venezuela.20.a:0	"Jiménez will bring glory to Venezuela"
 
  venezuela.21.t:0	"The Inauguration of Isaías Angarita"
- venezuela.21.d:0	"Conservative democratic leader and general Isaías Medina Angarita has barely managed to gain a popular vote and within the congress, however he has managed to solidify his position and it has now been announced he was been victorious in the elections. \n\nHe is scheduled later today to be inaugurated as the 45th president of Venezuela before the Congress of the Union Federal Legislative Palace.\n\nContrary to what was expected by his detractors, Medina has plans for a broad democratic opening, allowing the confrontation of different ideologies and the expression. He has also made promises to improve the labour laws by doing many things such as the expansion of workers' culture services, the increase of workers salaries, and even the abolishment of night work in some industries. Many working-class [VEN.GetAdjective]s are happy to see upcoming reforms to their working life, however some doubt as they believe it may be too ambitious."
+ venezuela.21.d:0	"Conservative democratic leader and general Isaías Medina Angarita has barely managed to gain a popular vote and within the congress, however he has managed to solidify his position and it has now been announced he was been victorious in the elections. \n\nHe is scheduled later today to be inaugurated as the 45th president of Venezuela before the Congress of the Union Federal Legislative Palace.\n\nContrary to what was expected by his detractors, Medina has plans for a broad democratic opening, allowing the confrontation of different ideologies and the expression. He has also made promises to improve the labour laws by doing many things such as the expansion of workers' culture services, the increase of workers salaries, and even the abolishment of night work in some industries. Many working-class [[~VEN.GetAdjective~]]s are happy to see upcoming reforms to their working life, however some doubt as they believe it may be too ambitious."
  venezuela.21.a:0	"What a wonderful outcome!"
 
  venezuela.22.t:0	"Rómulo Gallegos wins a shocking victory"
@@ -864,12 +864,12 @@
  venezuela.22.a:0	"The people have spoken."
 
  venezuela.23.t:0	"Fate of Marcos Jiménez"
- venezuela.23.d:0	"General Marcos Pérez Jiménez has recently been a problem for the [VEN.GetAdjective] government, sparking military disloyalties in favor for Juan Vicente Gómez's old dictator policies. The nation is divided on Jiménez either viewing him as a talented general and a strong leader or a incompetent politician desperately attempting to hold onto outdated policies.\n\nRecently many politicians have started questioning what Jimenez's role in the military and government should be. Keep him within the military and let potentially let him become a political threat? Or relief him of his ranks within the military and assure he is never a threat again?"
+ venezuela.23.d:0	"General Marcos Pérez Jiménez has recently been a problem for the [[~VEN.GetAdjective~]] government, sparking military disloyalties in favor for Juan Vicente Gómez's old dictator policies. The nation is divided on Jiménez either viewing him as a talented general and a strong leader or a incompetent politician desperately attempting to hold onto outdated policies.\n\nRecently many politicians have started questioning what Jimenez's role in the military and government should be. Keep him within the military and let potentially let him become a political threat? Or relief him of his ranks within the military and assure he is never a threat again?"
  venezuela.23.a:0	"Keep him, he's merely just a pawn."
  venezuela.23.b:0	"He is a liability, he needs to go."
 
- venezuela.24.t:0	"[VEN.GetName] Seizes Trinidad"
- venezuela.24.d:0	"[VEN.GetAdjective] forces have launched an amphibious attack on the island of Trinidad and successfully landed and established a beachhead, quickly overwhelming the small garrison present there and later capturing the capital, Port of Spain.\n\nIn a press conference sometime later the [VEN.GetAdjective] leader, [VEN.GetLeader] stated that Trinidad and Tobago are rightful parts of Venezuela and seeks to expel all imperialists from the Caribbean. Obviously this is absurd, it's just how we respond to the matter, some people are calling for war against [VEN.GetNonIdeologyName] where others are skeptical about wasting lives over 2 small islands."
+ venezuela.24.t:0	"[[~VEN.GetName~]] Seizes Trinidad"
+ venezuela.24.d:0	"[[~VEN.GetAdjective~]] forces have launched an amphibious attack on the island of Trinidad and successfully landed and established a beachhead, quickly overwhelming the small garrison present there and later capturing the capital, Port of Spain.\n\nIn a press conference sometime later the [[~VEN.GetAdjective~]] leader, [[~VEN.GetLeader~]] stated that Trinidad and Tobago are rightful parts of Venezuela and seeks to expel all imperialists from the Caribbean. Obviously this is absurd, it's just how we respond to the matter, some people are calling for war against [[~VEN.GetNonIdeologyName~]] where others are skeptical about wasting lives over 2 small islands."
  venezuela.24.a:0	"We will not be stepped on like this!"
  venezuela.24.b:0	"It's just 2 small islands, leave them be."
 
@@ -877,30 +877,30 @@
  venezuela.25.d:0	"Last night president Isaías Angarita suffered a severe thrombosis causing him to die in his sleep aged 55, the news was let out to the public this morning and 2 days of national mourning has been declared in respect.\n\nIt is no doubt that Angarita lead Venezuela well and he will be missed by many. Germán Suárez Flamerich is set to take his place and he is scheduled later today to be inaugurated as the 46th president of Venezuela before the Congress of the Union Federal Legislative Palace later today."
  venezuela.25.a:0	"A sad day for Venezuela."
 
- venezuela.26.t:0	"[VEN.GetNameDefCap] Pushes their claim on Trinidad"
- venezuela.26.d:0	"Toady the [VEN.GetAdjective] leader, [VEN.GetLeader] has make it clear that the island of Trinidad, only 11 km of the coast of Venezuela, is a rightful part of the nation and should be returned. Even if that means by force.\n\nThis may be a justification of an invasion of the island, so we must be prepared for the worst."
+ venezuela.26.t:0	"[[~VEN.GetNameDefCap~]] Pushes their claim on Trinidad"
+ venezuela.26.d:0	"Toady the [[~VEN.GetAdjective~]] leader, [[~VEN.GetLeader~]] has make it clear that the island of Trinidad, only 11 km of the coast of Venezuela, is a rightful part of the nation and should be returned. Even if that means by force.\n\nThis may be a justification of an invasion of the island, so we must be prepared for the worst."
  venezuela.26.a:0	"We need to do something."
 
- venezuela.27.t:0	"[VEN.GetName] victory at Trinidad"
- venezuela.27.d:0	"After fierce fighting, the [VEN.GetAdjective] invaders successfully managed to land on Curaçao and overwhelmed the [695.Owner.getAdjective] defenders. Later capturing the capital Port of Spain.\n\nWhere this may lead to another larger conflict within the region it is safe to say that the island is firmly in Venezuela's hands."
+ venezuela.27.t:0	"[[~VEN.GetName~]] victory at Trinidad"
+ venezuela.27.d:0	"After fierce fighting, the [[~VEN.GetAdjective~]] invaders successfully managed to land on Curaçao and overwhelmed the [[~695.Owner.getAdjective~]] defenders. Later capturing the capital Port of Spain.\n\nWhere this may lead to another larger conflict within the region it is safe to say that the island is firmly in Venezuela's hands."
  venezuela.27.a:0	"Very well."
 
- venezuela.28.t:0	"[691.Owner.GetName] victory at Trinidad"
- venezuela.28.d:0	"The superior defenders of Trinidad have successfully defended against the [VEN.GetAdjective] landings and denied them a successful beachhead. [VEN.GetAdjective] forces have been forced to withdraw, as a result of which the island firmly remains in [691.Owner.GetNameDef] hands."
+ venezuela.28.t:0	"[[~691.Owner.GetName~]] victory at Trinidad"
+ venezuela.28.d:0	"The superior defenders of Trinidad have successfully defended against the [[~VEN.GetAdjective~]] landings and denied them a successful beachhead. [[~VEN.GetAdjective~]] forces have been forced to withdraw, as a result of which the island firmly remains in [[~691.Owner.GetNameDef~]] hands."
  venezuela.28.a:0	"Very well."
 
  venezuela.29.t:0	"Stalemate at Trinidad"
- venezuela.29.d:0	"The initial attack of the [VEN.getAdjective] armed forces was repelled by brave defenders of the Port of Spain, leading to the destruction of the first wave of attackers in a close combat fight. The remaining defenders carried wounded into the erupted city fortifications while the dead were burned to prevent the risk of disease in besieged city. \n\nThe attacking troops managed to secure few beachheads in a proximity of Manzanilla, Mayaro and Matura with local pro-[VEN.getAdjective] administration established to counter the legitimate rule of the islands official administration. \n\nArtillery barrages and gunshots can still be heard in different parts of the islands, yet under such circumstances it becomes clear: the conflict is not expected to be resolved by the armed forces, but rather through diplomacy. \n\nSome politicians are already discussing regulations for the official ceasefire between both nations."
+ venezuela.29.d:0	"The initial attack of the [[~VEN.getAdjective~]] armed forces was repelled by brave defenders of the Port of Spain, leading to the destruction of the first wave of attackers in a close combat fight. The remaining defenders carried wounded into the erupted city fortifications while the dead were burned to prevent the risk of disease in besieged city. \n\nThe attacking troops managed to secure few beachheads in a proximity of Manzanilla, Mayaro and Matura with local pro-[[~VEN.getAdjective~]] administration established to counter the legitimate rule of the islands official administration. \n\nArtillery barrages and gunshots can still be heard in different parts of the islands, yet under such circumstances it becomes clear: the conflict is not expected to be resolved by the armed forces, but rather through diplomacy. \n\nSome politicians are already discussing regulations for the official ceasefire between both nations."
  venezuela.29.a:0	"We will not be stepped on like this!"
  venezuela.29.b:0	"Leave them be, those islands are not important."
 
  venezuela.30.t:0	"1941 Presidential Elections"
- venezuela.30.d:0	"[VEN.GetLeader]'s first term as president is almost up meaning that new presidential elections are set to be held soon. [VEN.GetLeader] is going up to re-elected as president of Venezuela, however he is up against young, experienced and promising officer Gral. Audelino Moreno, who makes it clear he has full intention to follow on his predecessors footsteps.\n\nWho shall the people choose?"
+ venezuela.30.d:0	"[[~VEN.GetLeader~]]'s first term as president is almost up meaning that new presidential elections are set to be held soon. [[~VEN.GetLeader~]] is going up to re-elected as president of Venezuela, however he is up against young, experienced and promising officer Gral. Audelino Moreno, who makes it clear he has full intention to follow on his predecessors footsteps.\n\nWho shall the people choose?"
  venezuela.30.a:0	"Contreras has served the nation well so far."
  venezuela.30.b:0	"Audelino Moreno is a worthy candidate."
 
  venezuela.31.t:0	"1941 Presidential Elections"
- venezuela.31.d:0	"[VEN.GetLeader]'s first term as president is almost up meaning that new presidential elections are set to be held soon. [VEN.GetLeader] is going up to re-elected as president of Venezuela, however he is up against lawyer and diplomat Germán Suárez Flamerich, who  has had a lot of political influence in recent years and makes it clear he has full intention to follow on his predecessors footsteps.\n\nWho shall the people choose?"
+ venezuela.31.d:0	"[[~VEN.GetLeader~]]'s first term as president is almost up meaning that new presidential elections are set to be held soon. [[~VEN.GetLeader~]] is going up to re-elected as president of Venezuela, however he is up against lawyer and diplomat Germán Suárez Flamerich, who  has had a lot of political influence in recent years and makes it clear he has full intention to follow on his predecessors footsteps.\n\nWho shall the people choose?"
  venezuela.31.a:0	"Angarita has served the nation well so far."
  venezuela.31.b:0	"Germán Flamerich is a worthy candidate."
 
@@ -921,24 +921,24 @@
  venezuela.35.a:0	"Rather Socialists than Communists."
 
  venezuela.36.t:0	"President Betancourts Legacy"
- venezuela.36.d:0	"President Betancourt has in only a short period completely transformed the [VEN.GetAdjective] economy and drastically improved the wealth and living standards of the people, it is clear that the Barranquilla plan has succeeded, Betancourt is now seen as a hero.\n\nThe only part left is article 9 of the plan, which is the reorganisation of the armed forces, with the president on head once again."
+ venezuela.36.d:0	"President Betancourt has in only a short period completely transformed the [[~VEN.GetAdjective~]] economy and drastically improved the wealth and living standards of the people, it is clear that the Barranquilla plan has succeeded, Betancourt is now seen as a hero.\n\nThe only part left is article 9 of the plan, which is the reorganisation of the armed forces, with the president on head once again."
  venezuela.36.a:0	"Venezuela, united under one common goal."
 
- venezuela.37.t:0	"[VEN.GetNameDef] Requests to Join [SOV.GetNameDefCap]"
- venezuela.37.d:0	"The new [VEN.GetAdjective] communist regime, the PCV has sent a formal request to join the USSR to us today, and offering us their unconditional support in any matter.\n\nWhile this is a tempting offer, considering Venezuela's geographical and strategic position it may be problematic."
+ venezuela.37.t:0	"[[~VEN.GetNameDef~]] Requests to Join [[~SOV.GetNameDefCap~]]"
+ venezuela.37.d:0	"The new [[~VEN.GetAdjective~]] communist regime, the PCV has sent a formal request to join the USSR to us today, and offering us their unconditional support in any matter.\n\nWhile this is a tempting offer, considering Venezuela's geographical and strategic position it may be problematic."
  venezuela.37.a:0	"Anything for our Comrades."
- venezuela.37.b:0	"[VEN.GetNameDefCap]? Good one."
+ venezuela.37.b:0	"[[~VEN.GetNameDefCap~]]? Good one."
 
- venezuela.38.t:0	"[SOV.GetNameDefCap] Approves our Membership"
- venezuela.38.d:0	"Soviet leader [SOV.GetLeader] has accepted our offer with open arms and formally accepts us into the USSR.\n\nCommunism stands strong together."
+ venezuela.38.t:0	"[[~SOV.GetNameDefCap~]] Approves our Membership"
+ venezuela.38.d:0	"Soviet leader [[~SOV.GetLeader~]] has accepted our offer with open arms and formally accepts us into the USSR.\n\nCommunism stands strong together."
  venezuela.38.a:0	"We are honoured, comrades."
 
- venezuela.39.t:0	"[SOV.GetNameDefCap] Declines our Membership"
+ venezuela.39.t:0	"[[~SOV.GetNameDefCap~]] Declines our Membership"
  venezuela.39.d:0	"The Soviet Union has outrageously declined our offer to join the USSR and has even expressed that they have no interest to seek out to Latin America.\n\nIt seems that the "home of the revolution" is nothing but a lie."
  venezuela.39.a:0	"Traitors."
 
  venezuela.40.t:0	"Creole Anarchists Stage Coup"
- venezuela.40.d:0	"[VEN.GetAdjective] Anarchist groups aligned to Creole Petroleum have launched a violent revolution and completely disbanded and disarmed the ARDI, sending the capital in a state of chaos.\n\nThe nation is in a state of uncertainty and fear."
+ venezuela.40.d:0	"[[~VEN.GetAdjective~]] Anarchist groups aligned to Creole Petroleum have launched a violent revolution and completely disbanded and disarmed the ARDI, sending the capital in a state of chaos.\n\nThe nation is in a state of uncertainty and fear."
  venezuela.40.a:0	"What the heck is going on?"
 
  #flags

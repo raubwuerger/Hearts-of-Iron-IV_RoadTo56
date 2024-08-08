@@ -136,7 +136,7 @@ KOR_metallurgy:0	"Metallurgy"
 KOR_metallurgy_desc:0	"Expansion of our industries requires a source of processed raw materials. We will build those facilities to fuel our needs."
 KOR_state_heavy_industry:0	"State Heavy Industry"
 KOR_state_heavy_industry_desc:0	"To stimulate further growth, we will invest in key state enterprises that will build whatever our industry needs."
-KOR_leader_technical_university:0	"[KOR.GetLeader] Technical University"
+KOR_leader_technical_university:0	"[[~KOR.GetLeader~]] Technical University"
 KOR_leader_technical_university_desc:0	"Our improved industry requires a competent base of workers and trained personnel. The establishment of a research institute and university will serve a dual purpose in training this future workforce and also creating as well as testing out new technologies."
 
 KOR_war_industry:0	"War Industry"
@@ -150,9 +150,9 @@ KOR_supreme_leader_desc:0	"There is only one person in this country that knows w
 KOR_great_banner_of_songun:0	"Great Banner of Songun"
 KOR_great_banner_of_songun_desc:0	"In Korea, great soldier. Number one. Steady hand. One day, Supreme Leader need new friend. I do operation. But, mistake! Friend die! Supreme Leader happy! Now I have house, food and pretty wife. "
 KOR_loyalty_to_moscow:0	"Loyalty to Moscow"
-KOR_loyalty_to_moscow_desc:0	"Only from the birthplace of communism we can find protection in this capitalist-filled world. We should ally with the [SOV.GetName] to guarantee our success and prosperity."
+KOR_loyalty_to_moscow_desc:0	"Only from the birthplace of communism we can find protection in this capitalist-filled world. We should ally with the [[~SOV.GetName~]] to guarantee our success and prosperity."
 KOR_adopt_maoism:0	"Adopt Maoism"
-KOR_adopt_maoism_desc:0	"Our closest communist neighbour, the [PRC.GetName] practices a unique form of communism that is more suited for Korea. We should join them in the glorious struggle to spread the gospel of communism."
+KOR_adopt_maoism_desc:0	"Our closest communist neighbour, the [[~PRC.GetName~]] practices a unique form of communism that is more suited for Korea. We should join them in the glorious struggle to spread the gospel of communism."
 KOR_join_the_asian_communist_solidarity:0	"Join the Asian Communist Solidarity"
 KOR_join_the_asian_communist_solidarity_desc:0	"We can trust no other nation but any other nation like us that practices communism. We should form an alliance with the communist nations of Asia, to protect our unique existence."
 
@@ -236,8 +236,8 @@ KOR_devotion_to_the_emperor_desc:0	"Only by loyalty to our Emperor can we achiev
 KOR_youth_units:0	"Radicalize the Youth"
 KOR_youth_units_desc:0	"The Korean youth is the purest stock of manpower that will fuel the rise of greater Korea!"
 
-KOR_invade_soviet_union:0	"Contest [SOV.getAdjective] Hegemony"
-KOR_invade_soviet_union_desc:0	"[SOV.getnameDefcap] has pressured Asia for decades, they must be taught a lesson."
+KOR_invade_soviet_union:0	"Contest [[~SOV.getAdjective~]] Hegemony"
+KOR_invade_soviet_union_desc:0	"[[~SOV.getnameDefcap~]] has pressured Asia for decades, they must be taught a lesson."
 
 KOR_invade_manchuria:0	"Invade Manchuria"
 KOR_invade_manchuria_desc:0	"The Manchurian Government has been oppressing the Koreans living north of the Amrok for way too long. Death to the Qing!"

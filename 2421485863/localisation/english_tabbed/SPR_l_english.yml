@@ -65,7 +65,7 @@
  SPR_international_brigdes_r56:0	"International Brigades"
  SPR_international_brigdes_r56_desc:0	"People from all over the world are coming to the Republic to stop the nationalist scrum!"
  SPR_excavate_the_gold_reserves:0	"Excavate the Gold Reserves"
- SPR_excavate_the_gold_reserves_desc:0	"We managed to seize the government's gold reserves in the opening stages of the civil war. Unfortunately, not many countries will give us anything if we use the reserves as payment, except the Russians. With the Fascists pressing us on all sides. It might be time to transfer them overseas and into the safe hands of the [SOV.GetNameDef]. Anyhow they're willing to give us some help if we do."
+ SPR_excavate_the_gold_reserves_desc:0	"We managed to seize the government's gold reserves in the opening stages of the civil war. Unfortunately, not many countries will give us anything if we use the reserves as payment, except the Russians. With the Fascists pressing us on all sides. It might be time to transfer them overseas and into the safe hands of the [[~SOV.GetNameDef~]]. Anyhow they're willing to give us some help if we do."
  SPR_excavated_gold_reserves:0	"Excavated Gold Reserves"
  SPR_expand_axis_aide:0	"Expand Axis Aid"
  SPR_expand_axis_aide_desc:0	"Expanding the amount of aid the Axis has provided us is a logical step in securing victory."
@@ -132,7 +132,7 @@
  SPR_spain.6.b:0	"This Ultimatum Was A Bad Idea"
 
  SPR_spain.7.t:0	"An Old Acquaintance has Returned"
- SPR_spain.7.desc:0	"Our Services have identified that Alexander Mikhailovich Orlov (born Leiba Lazarevich Feldbin according to our data) has returned to the United States after the end of the Spanish civil war. Our sources indicate that he was a NKVD agent but refused to come back to [SOV.getnamedef]."
+ SPR_spain.7.desc:0	"Our Services have identified that Alexander Mikhailovich Orlov (born Leiba Lazarevich Feldbin according to our data) has returned to the United States after the end of the Spanish civil war. Our sources indicate that he was a NKVD agent but refused to come back to [[~SOV.getnamedef~]]."
  SPR_spain.7.a:0	"If he wants to hide from the Communists, leave him be."
  SPR_spain.7.b:0	"Try to recruit him!"
 
@@ -344,7 +344,7 @@ euskalduna:0	"Euskalduna"
  SPR_tallares_mecanicos_y_garaje:0	"Talleres Mecánicos y Garaje RAG S.A."
 
  SPA_ally_the_french:0	"Ally the French"
- SPA_ally_the_french_desc:0	"The new French government, under the wise guidance of [FRA.getleader] seems to be aligned to our interests. The possibility of an alliance should be considered."
+ SPA_ally_the_french_desc:0	"The new French government, under the wise guidance of [[~FRA.getleader~]] seems to be aligned to our interests. The possibility of an alliance should be considered."
 
  #used in DLC tree for now
  SPR_naval_design_bureau:0	"Naval Design Bureau"

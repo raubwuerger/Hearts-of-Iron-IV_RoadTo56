@@ -7,7 +7,7 @@
   #Siam Commercial Bank (if needed)
 
   SIA_rama_viii:0	"Rama VIII"
-  SIA_rama_viii_desc:0	"Following the 1932 revolution, King Rama VII abdicated under pressure from the quasi-democratic government. His sucessor Rama VIII is still young and studying abroad, and as a result the role of King of [ROOT.GetNonIdeologyName] has fallen into political obscurity. It will take a strong monarch to restore the former prestige of the title."
+  SIA_rama_viii_desc:0	"Following the 1932 revolution, King Rama VII abdicated under pressure from the quasi-democratic government. His sucessor Rama VIII is still young and studying abroad, and as a result the role of King of [[~ROOT.GetNonIdeologyName~]] has fallen into political obscurity. It will take a strong monarch to restore the former prestige of the title."
  absent_monarch:0	"Absent Monarch"
 
  # Parties Names
@@ -21,7 +21,7 @@
   SIA_communism_party_long:0	"Communist Party Of Siam"
   # Decisions
   SIA_peaceful_pan_thaiism_category:0	"Peaceful Pan-Thaiism"
-  SIA_peaceful_pan_thaiism_category_desc:0	"The different Thai peoples, scattered between the states of Siam, Laos and Cambodia, were separated following the colonial wars. Now that each of the three states has regained some kind of independence, great efforts must be made to convince the population that a unification of our three nations is necessary for the good of our people.\n\nPan-Thaiism Popularity In Laos: §Y[?SIA.laos_pan_thai_popularity]%§!\n\nPan-Thaiism Popularity In Cambodia: §Y[?SIA.cambodia_pan_thai_popularity]%§!"
+  SIA_peaceful_pan_thaiism_category_desc:0	"The different Thai peoples, scattered between the states of Siam, Laos and Cambodia, were separated following the colonial wars. Now that each of the three states has regained some kind of independence, great efforts must be made to convince the population that a unification of our three nations is necessary for the good of our people.\n\nPan-Thaiism Popularity In Laos: §Y[[~?SIA.laos_pan_thai_popularity~]]%§!\n\nPan-Thaiism Popularity In Cambodia: §Y[[~?SIA.cambodia_pan_thai_popularity~]]%§!"
   SIA_hold_a_pan_thai_exposition:0	"Hold A Pan-Thai Exposition §G+7% for all"
   SIA_glorify_thai_culture:0	"Glorify Thai Culture §G+5% for all"
   SIA_support_pan_thaiists_in_laos:0	"Support Pan-Thaiists in Laos §G+5%§! in Laos"
@@ -36,7 +36,7 @@
 
 
   SIA_disturbing_indochina_decision:0	"Disturbing Indochina"
-  SIA_disturbing_indochina_decision_desc:0	"Our Indochinese comrades continue to suffer under the yoke of the French colonists. They need our help, and we are there for them! Once they are sufficiently prepared, we can launch the final insurrection that will free Indochina from imperialist control!\n\nAgitation in Vietnam: §Y[?SIA.vietnam_agitation]%§!\n\nAgitation in Laos: §Y[?SIA.laos_agitation]%§!\n\nAgitation in Cambodia: §Y[?SIA.cambodia_agitation]%§!"
+  SIA_disturbing_indochina_decision_desc:0	"Our Indochinese comrades continue to suffer under the yoke of the French colonists. They need our help, and we are there for them! Once they are sufficiently prepared, we can launch the final insurrection that will free Indochina from imperialist control!\n\nAgitation in Vietnam: §Y[[~?SIA.vietnam_agitation~]]%§!\n\nAgitation in Laos: §Y[[~?SIA.laos_agitation~]]%§!\n\nAgitation in Cambodia: §Y[[~?SIA.cambodia_agitation~]]%§!"
   SIA_smuggle_weapons_in_vietnam:0	"Smuggle Weapons In Vietnam:\n§R+10% Agitation in Vietnam§!"
   SIA_smuggle_weapons_in_laos:0	"Smuggle Weapons In Laos:\n§R+10% Agitation in Laos§!"
   SIA_smuggle_weapons_in_cambodia:0	"Smuggle Weapons In Cambodia:\n§R+10% Agitation in Cambodia§!"
@@ -72,8 +72,8 @@
   SIA_alliance_with_britain_monarchist:0	"Alliance With The United Kingdom"
   SIA_alliance_with_britain_monarchist_desc:0	"It is clear that the Japanese empire only wants dominance over Asia, and intends to attack our nation one day. The only way to escape it would be to ally with the United Kingdom and hope that we can defeat it."
 
-  SIA_join_the_communist_faction:0	"Join The [FROM.getFactionName]"
-  SIA_join_the_communist_faction_desc:0	"[FROM.getNameDefCap] is seen as one of main communist powers in the world. If we want the revolution to prevail, we must stand united"
+  SIA_join_the_communist_faction:0	"Join The [[~FROM.getFactionName~]]"
+  SIA_join_the_communist_faction_desc:0	"[[~FROM.getNameDefCap~]] is seen as one of main communist powers in the world. If we want the revolution to prevail, we must stand united"
 
   SIA_reintegrate_cambodia:0	"Reintegrate Cambodia"
   SIA_reintegrate_cambodia_desc:0	"For several centuries, the Cambodian region was under our control, and our two peoples share many roots. Now that we are in possession of this region again, it is time to reorganize their administration to make it a province of our country"
@@ -183,7 +183,7 @@
   siam.24.a:0	"The People's Radical Party"
   siam.24.b:0	"The Democratic Party"
   siam.25.t:0	"Siam Asks For Help"
-  siam.25.d:0	"The ambassador of Siam had brought with him a very special letter, intended exclusively for [SOV.GetLeader]. This letter explained the Siamese government's plan to support communist movements opposing the French colonisation of Indochina.\nThe letter concludes with a call for help from Siam, explaining that by its low industrial capacity compared to ours, the shipment of weapons and equipment is slow and very expensive, and they hope that we will send them equipment to spread communist ideals in Indochina."
+  siam.25.d:0	"The ambassador of Siam had brought with him a very special letter, intended exclusively for [[~SOV.GetLeader~]]. This letter explained the Siamese government's plan to support communist movements opposing the French colonisation of Indochina.\nThe letter concludes with a call for help from Siam, explaining that by its low industrial capacity compared to ours, the shipment of weapons and equipment is slow and very expensive, and they hope that we will send them equipment to spread communist ideals in Indochina."
   siam.25.a:0	"The Fight Against Imperialism Has Our Full Support"
   siam.25.b:0	"A War Is Coming, But We Can't Leave Them Behind."
   siam.25.c:0	"We Can't Afford To Abandon A Rifle To A Lost Cause"
@@ -233,8 +233,8 @@
   siam.35.d:0	"Despite our many efforts to promote a pan-Thaiism that would have benefited both France and Siam, France's response was negative towards holding the referendum."
   siam.35.a:0	"At Least We Tried"
 
-  siam.36.t:0	"[SIA.GetNameDefCap] Demands the End of Colonialism in Indochina"
-  siam.36.d:0	"[SIA.GetNameDefCap] Demands the End of Colonialism in Indochina"
+  siam.36.t:0	"[[~SIA.GetNameDefCap~]] Demands the End of Colonialism in Indochina"
+  siam.36.d:0	"[[~SIA.GetNameDefCap~]] Demands the End of Colonialism in Indochina"
   siam.36.a:0	"Independence and freedom it is then!"
   siam.36.b:0	"We shall guide them to freedom."
 

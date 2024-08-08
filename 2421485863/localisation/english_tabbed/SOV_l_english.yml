@@ -1,14 +1,14 @@
 ﻿l_english:
- SOV_ukrainian_reclaimation_desc:0	"Ukrainian nationalists are once again attempting to divide [SOV.GetNameDef] and the government is determined to eliminate the nationalist elements."
+ SOV_ukrainian_reclaimation_desc:0	"Ukrainian nationalists are once again attempting to divide [[~SOV.GetNameDef~]] and the government is determined to eliminate the nationalist elements."
  SOV_anti_bolshevik_revolt:0	"Anti-Bolshevik Revolt"
  SOV_put_down_the_ukrainian_revolt:0	"Put Down The Ukrainian Revolt"
  SOV_crush_ukrainian_opposition:0	"Crush Ukrainian Opposition"
  r56_UKR_revolt_active:0	"Ukraine has revolted"
- SOV_defeat_the_upa_in_199:0	"Defeat the UPA in [199.getname]"
- SOV_defeat_the_upa_in_91:0	"Defeat the UPA in [91.getname]"
- SOV_defeat_the_upa_in_89:0	"Defeat the UPA in [89.getname]"
- SOV_defeat_the_upa_in_80:0	"Defeat the UPA in [80.getname]"
- SOV_defeat_the_upa_in_73:0	"Defeat the UPA in [73.getname]"
+ SOV_defeat_the_upa_in_199:0	"Defeat the UPA in [[~199.getname~]]"
+ SOV_defeat_the_upa_in_91:0	"Defeat the UPA in [[~91.getname~]]"
+ SOV_defeat_the_upa_in_89:0	"Defeat the UPA in [[~89.getname~]]"
+ SOV_defeat_the_upa_in_80:0	"Defeat the UPA in [[~80.getname~]]"
+ SOV_defeat_the_upa_in_73:0	"Defeat the UPA in [[~73.getname~]]"
 
  SOV_iron_curtain_faction:0	"Cominform"
  SOV_Lenin_Cult:0	"Lenin Cult"
@@ -83,7 +83,7 @@
 
  SOV_sing_katyusha_sing:0	"Sing Katyusha Sing!"
  SOV_sing_katyusha_sing_focus:0	"Sing Katyusha Sing!"
- SOV_sing_katyusha_sing_focus_desc:0	"The enemies of [ROOT.GetNameDef] will soon hear a song they will never forget."
+ SOV_sing_katyusha_sing_focus_desc:0	"The enemies of [[~ROOT.GetNameDef~]] will soon hear a song they will never forget."
  manufacturer_applies_bonus_instantly_tooltip:0	"§CThis Manufacturer is applying its effect even if you already unlocked the boosted unit(s).§!"
  SOV_mass_firearms_production:0	"Mass Firearms Production"
  SOV_mass_firearms_production_desc:0	"The war demands a rifle in the hand of every soldiers. Our industry must be mobilized to achieve this goal"
@@ -124,7 +124,7 @@
  SOV_Warm_Water_Ports:0	"Warm Water Ports"
  SOV_Warm_Water_Ports_desc:0	"In order to develop our Black Sea Fleet, we must ensure access through the Bosporus Strait. Turkey is an unreliable neighbour and it has been agreed by the Americans and others that the Soviet people deserve access to the Mediterranean. Constantinople belongs to us!"
  SOV_Trotsky_Was_Right:0	"Trotsky Was Right"
- SOV_Trotsky_Was_Right_desc:0	"It takes a great man to admit when he was wrong. Luckily [SOV.GetLeader] is such a man. It has been made clear to him that the only hope for the future is the aggressive growth of communism abroad. We must be at the forefront of the liberation of the proletariat of the world."
+ SOV_Trotsky_Was_Right_desc:0	"It takes a great man to admit when he was wrong. Luckily [[~SOV.GetLeader~]] is such a man. It has been made clear to him that the only hope for the future is the aggressive growth of communism abroad. We must be at the forefront of the liberation of the proletariat of the world."
  SOV_Support_Greek_Communists:0	"Support the Greek Communists"
  SOV_Support_Greek_Communists_desc:0	"We have been receiving urgent communications from communists in Greece, desperately requesting our assistance. We need to do what we can to help, for their cause is our own."
  SOV_Northern_Neighbors:0	"Northern Neighbors"
@@ -212,7 +212,7 @@
  SOV_incite_a_greek_revolution:0	"Break the Percentage Agreement"
  SOV_incite_a_greek_revolution_desc:0	"The British pressured us to sign the Percentage Agreement, which should have limited our influence in Greece to only 10%. Hellenic support for fascism and current British industrial and economic weaknesses can be used to our advantage if we act quickly."
  SOV_overthrow_weak_king:0	"Overthrow the Weak King"
- SOV_overthrow_weak_king_desc:0	"The current state of [YUG.GetNameDef] is unacceptable if seen from workers or peasants perspective: high taxes, electoral fraud and high level of corruption are preventing this poor country to develop properly. Tensions across the country are already high, all what needed is a small incident and the Revolution can begin there too!"
+ SOV_overthrow_weak_king_desc:0	"The current state of [[~YUG.GetNameDef~]] is unacceptable if seen from workers or peasants perspective: high taxes, electoral fraud and high level of corruption are preventing this poor country to develop properly. Tensions across the country are already high, all what needed is a small incident and the Revolution can begin there too!"
  SOV_take_out_tito:0	"Take Out Tito"
  SOV_take_out_tito_desc:0	"The revisionist traitor ruling over the Yugoslav people is an enemy of everything the Soviet Union stands for. Tito has shown that he trusts the West more than he trusts his own ideological allies, and for that he must be destroyed."
  SOV_facilitate_a_balkan_federation:0	"Facilitate a Balkan Federation"
@@ -235,11 +235,11 @@
  SOV_motherland_defense:0	"Defense of the Motherland"
  SOV_motherland_defense_desc:0	"In spite of the heroic resistance we have done so far, and although the enemy's finest divisions and finest air force units have already been smashed and have met their doom on the field of battle, the enemy continues to push forward, hurling fresh forces to the front. Grave danger overhangs our Motherland. All the forces of the people for the destruction of the enemy! Forward to victory!"
  SOV_defense_of_leningrad:0	"Luga Defense Line"
- SOV_defense_of_leningrad_desc:0	"The cultural centre of Rodina, glorious city of [195.getName] is the logistical and operational centre of the Baltic and Pripolarje regions! Mobilize everyone and prepare defenses, the city shall not fall no matter the cost! Only so we can secure the Northern lend-lease route for the industrial and war materials our Motherland has desires for!"
+ SOV_defense_of_leningrad_desc:0	"The cultural centre of Rodina, glorious city of [[~195.getName~]] is the logistical and operational centre of the Baltic and Pripolarje regions! Mobilize everyone and prepare defenses, the city shall not fall no matter the cost! Only so we can secure the Northern lend-lease route for the industrial and war materials our Motherland has desires for!"
  SOV_defense_of_stalingrad:0	"Volga Defense Line"
- SOV_defense_of_stalingrad_desc:0	"Our enemies have advanced deep into our territory and now threatening our industrial heart in the Volga basin! Loosing this will be a catastrophic defeat to us both politically and economically, [217.getName] shall not fall! Rally the people and establish a defensive perimeter within the city surroundings!"
+ SOV_defense_of_stalingrad_desc:0	"Our enemies have advanced deep into our territory and now threatening our industrial heart in the Volga basin! Loosing this will be a catastrophic defeat to us both politically and economically, [[~217.getName~]] shall not fall! Rally the people and establish a defensive perimeter within the city surroundings!"
  SOV_purchase_allied_weaponry:0	"Purchase Allied Weaponry"
- SOV_purchase_allied_weaponry_desc:0	"Despite some immature and obsolete historical discontents between our nations, it is no doubt [ENG.getNameDef], [USA.getNameDef] and [SOV.getNameDef] share many common goals of preserving peace and prosperity in the world! Setting aside our differences for now and softening the tense political climate will surely provide us a few short-time benefits in this devastating war."
+ SOV_purchase_allied_weaponry_desc:0	"Despite some immature and obsolete historical discontents between our nations, it is no doubt [[~ENG.getNameDef~]], [[~USA.getNameDef~]] and [[~SOV.getNameDef~]] share many common goals of preserving peace and prosperity in the world! Setting aside our differences for now and softening the tense political climate will surely provide us a few short-time benefits in this devastating war."
  SOV_lease_british_planes:0	"Lease British Planes"
  SOV_lease_british_planes_desc:0	"The Royal Airforce has undoubtedly made ambiguous advances in airplane design in recent years, perhaps leasing some of their equipment will give us an extra edge on the battlefield against the menacing enemies."
  SOV_till_the_bitter_end:0	"Till the Bitter End"
@@ -251,9 +251,9 @@
 
  #traits??
  socialism_in_one_country:0	"Socialism in One Country"
- socialism_in_one_country_desc:0	"[SOV.GetLeader] believes that only when the Soviet Union is strong, should it spread Marxist revolution abroad."
+ socialism_in_one_country_desc:0	"[[~SOV.GetLeader~]] believes that only when the Soviet Union is strong, should it spread Marxist revolution abroad."
  world_trotskyite_revolution:0	"World Trotskyite Revolution"
- world_trotskyite_revolution_desc:0	"It takes a great man to admit when he was wrong, [SOV.GetLeader] is such a man. Let us light the fires of revolution!"
+ world_trotskyite_revolution_desc:0	"It takes a great man to admit when he was wrong, [[~SOV.GetLeader~]] is such a man. Let us light the fires of revolution!"
  bolshevik_militarist:0	"Bolshevik Militarist"
  bolshevik_militarist_desc:0	"Trotsky believes in world communist revolution. He is a man of vision who believes enough is enough, no longer will the working people of the world be enslaved!"
 
@@ -281,8 +281,8 @@
  SOV_comecon_idea_desc:0	"Soviet economy is severely strengthened through economic deals and industrial ties pursued with our allies."
  SOV_support_greece:0	"Greek Civil War Support"
  SOV_support_greece_desc:0	"Fighting for freedom and liberation of Greek people in their struggle against ideological menace."
- SOV_civil_war_ignited:0	"[ROOT.GetAdjective] Matter"
- SOV_civil_war_ignited_desc:0	"Even though the conflict was ignited from outside, the government of [ROOT.GetLeader] believes that it is only [ROOT.GetAdjective] matter and any foreign intervention will bring destruction to the country."
+ SOV_civil_war_ignited:0	"[[~ROOT.GetAdjective~]] Matter"
+ SOV_civil_war_ignited_desc:0	"Even though the conflict was ignited from outside, the government of [[~ROOT.GetLeader~]] believes that it is only [[~ROOT.GetAdjective~]] matter and any foreign intervention will bring destruction to the country."
 
  ### ALT ADDITIONS ###
 
@@ -296,7 +296,7 @@
  SOV_consolidate_power_tt_2:0	"Remove ideas §Y$SOV_the_true_tsars_idea$§!, §Y$SOV_fascist_womens_movement_idea$§!, §Y$SOV_siberian_forest_soldiers_idea$§!"
 
  SOV_reinforce_caspian_naval_bases:0	"Reinforce Caspian Naval Bases"
- SOV_reinforce_caspian_naval_bases_desc:0	"Though not as important as our other naval strategic regions, it is important that we maintain a strong presence in the area to ensure that advances made by the [PER.GetAdjective] or other foreign nations are kept in check to protect our interests there."
+ SOV_reinforce_caspian_naval_bases_desc:0	"Though not as important as our other naval strategic regions, it is important that we maintain a strong presence in the area to ensure that advances made by the [[~PER.GetAdjective~]] or other foreign nations are kept in check to protect our interests there."
 
  VOLGA_DON_CANAL:0	"Volga-Don Canal"
  Volga_don_blocked_tt:0	"§RVolga-Don Canal is not built or is blocked§!"
@@ -356,12 +356,12 @@
 
  SOV_relocate_industry_from_kiev:0	"Relocate the industry from Kiev"
  SOV_relocate_industry_from_kharkov:0	"Relocate the industry from Kharkov"
- SOV_industry_relocation_desc:0	"The war is upon us and our enemies are threatening our industrial basins in the West. Let's move them far away in the Urals outside of the reach of their largest bombers. That way we will be able to protect our industry, build more military equipment and launch decisive counter attacks in the name of [SOV.getleader] and his vision of [SOV.GetRulingIdeologyNoun]."
+ SOV_industry_relocation_desc:0	"The war is upon us and our enemies are threatening our industrial basins in the West. Let's move them far away in the Urals outside of the reach of their largest bombers. That way we will be able to protect our industry, build more military equipment and launch decisive counter attacks in the name of [[~SOV.getleader~]] and his vision of [[~SOV.GetRulingIdeologyNoun~]]."
 
  has_cosmetic_tag_smersh_tt:0	"Is §YScandinavia§!, the §YNordic Union§! or §YAustria-Hungary§!"
  SOV_comecon_tt:0	"§CThis Focus effect will expand with the more puppets you have!§!"
  sov_balkan_fed_tt:0	"§YWe will allow Tito's Yugoslavia to form a federation from our Balkan satellites!§!"
- iron_curtain_tt:0	"Is in faction with or overlord of at least 3 [ROOT.GetRulingIdeology] eastern or central European nations (excluding the Baltics) which control at least 30 factories."
+ iron_curtain_tt:0	"Is in faction with or overlord of at least 3 [[~ROOT.GetRulingIdeology~]] eastern or central European nations (excluding the Baltics) which control at least 30 factories."
  SOV_support_yen_bai_mutiny_tt:0	"§YVietnam will rise against occupiers and begin a fight for its independence!§!"
  sov_hot_war_tt:0	"§RThis course of action will be disastrous!§!"
  SOV_anti_air_buildings:0	"Adds §Y2 Anti-Air Buildings§!"
@@ -372,7 +372,7 @@
  SOV_defense_of_stalingrad_forts:0	"Add §Y28 Land Forts§! in and around Leningrad"
  SOV_restore_the_union:0	"Restore the Union"
 
- SOV_claims_in_baltics_tt:0	"[SOV.getNameDefCap] gains claims on all initial §YBaltic states cores§!"
+ SOV_claims_in_baltics_tt:0	"[[~SOV.getNameDefCap~]] gains claims on all initial §YBaltic states cores§!"
 
 
  SOV_the_new_russian_army_tooltip:0	"Raises §Y5§! veteran §YRespublikanskiy Spetsnaz§! across the nation."
@@ -393,20 +393,20 @@
  SOV_grieve_stalin:0	"Grieve Stalin"
  SOV_grieve_stalin_desc:0	"The Politburo has announced the death of Iosif Vissarionivitch Stalin. While the country grieves the dead of the our beloved leaders, his shameful drowning in his vomit has been kept secret. Without an assured leadership, various members of the Politburo are ready to do anything to eliminate their competitors."
 
- SOV_comecon_give_puppet_idea:0	"Integrate [FROM.GetNameDef] into the [GetComeconName]"
+ SOV_comecon_give_puppet_idea:0	"Integrate [[~FROM.GetNameDef~]] into the [[~GetComeconName~]]"
  SOV_factionalism_removed_tt:0	"Removes §YFactionalism§!"
 
  # ALLIED WEAPON PURCHASES
 
  SOV_weapons_purchases_category:1	"Purchase Allied Weapons"
  SOV_weapons_purchases_category_desc:0	"Our war is rapidly draining our military equipment, perhaps sourcing modern equipment abroad is the best step in ensuring that our military remains supplied."
- SOV_order_weapons_in_USA:0	"Order [USA.GetAdjective] Small Arms"
- SOV_order_support_equipment_in_USA:0	"Order [USA.GetAdjective] Support Equipment"
- SOV_order_artillery_in_USA:0	"Order [USA.GetAdjective] Artillery"
- SOV_order_tanks_in_USA:0	"Order [USA.GetAdjective] Tanks"
- SOV_order_fighters_in_ENG:0	"Order [ENG.GetAdjective] Fighters"
- SOV_order_bombers_in_ENG:0	"Order [ENG.GetAdjective] Bombers"
+ SOV_order_weapons_in_USA:0	"Order [[~USA.GetAdjective~]] Small Arms"
+ SOV_order_support_equipment_in_USA:0	"Order [[~USA.GetAdjective~]] Support Equipment"
+ SOV_order_artillery_in_USA:0	"Order [[~USA.GetAdjective~]] Artillery"
+ SOV_order_tanks_in_USA:0	"Order [[~USA.GetAdjective~]] Tanks"
+ SOV_order_fighters_in_ENG:0	"Order [[~ENG.GetAdjective~]] Fighters"
+ SOV_order_bombers_in_ENG:0	"Order [[~ENG.GetAdjective~]] Bombers"
 
  SOV_counter_attack_through_manchuria:0	"Counter-attack Through Manchuria"
 
- r56_operation_countenance_tooltip:0	"§Y[PER.GetName]§!: Has capitulated"
+ r56_operation_countenance_tooltip:0	"§Y[[~PER.GetName~]]§!: Has capitulated"

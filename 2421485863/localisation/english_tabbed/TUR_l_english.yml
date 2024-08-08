@@ -104,7 +104,7 @@
  TUR_village_institutes_program:0	"Village Institutes Program"
  TUR_village_institutes_program_desc:0	"Our eastern provinces have been a constant barrier towards centralization of the nation. Government funded institutions, sought to guide social and economic developments within rural communities, may go far in bridging the regional gap throughout Turkey."
  TUR_village_institutes_focus_days_tt:0	"Has been 400 or more days since focus §YVillage Institutes Program§! has been completed"
- TUR_village_institutes_focus_current_days_tt:0	"Current days are: [?TUR_village_institutes_flag:days|Y0]"
+ TUR_village_institutes_focus_current_days_tt:0	"Current days are: [[~?TUR_village_institutes_flag:days|Y0~]]"
  
  TUR_eradicate_rural_illiteracy:0	"Eradicate Rural Illiteracy"
  TUR_eradicate_rural_illiteracy_desc:0	"The Village Instute program has so far proven successful. Funding this program further would clearly amount to an effective education for our rural populace."
@@ -197,7 +197,7 @@
  TUR_amend_the_montreux_convention:0	"Amend the Montreux Convention"
  TUR_amend_the_montreux_convention_desc:0	"The Soviets have made their interest in the Black Sea straits clear. Perhaps in exchange for industrial aid and closer ties, we can grant further concessions to the Soviet Union."
  TUR_renew_the_soviet_non_aggression_pact_focus_days_tt:0	"Has been 105 or more days since focus §YRenew the Soviet Non-Aggression Pact§! has been completed"
- TUR_renew_the_soviet_non_aggression_pact_current_days_tt:0	"Current days are: [?TUR_renew_the_soviet_non_aggression_pact_flag:days|Y0]"
+ TUR_renew_the_soviet_non_aggression_pact_current_days_tt:0	"Current days are: [[~?TUR_renew_the_soviet_non_aggression_pact_flag:days|Y0~]]"
  turkey.117.t:0	"Amending the Montreux Convention?"
  turkey.117.a:0	"This initiative pleases us, we agree!"
  turkey.117.b:0	"The Turks think this will save them?"
@@ -298,11 +298,11 @@
  turkey.123.d:0	"The Turkish Foreign Minister has approached us with an offer of alliance between our nations, as part of their initiative moving towards pan-balkan cooperation. What should our responce be?"
  turkey.123.a:0	"Of course. Further ties would be for the best"
  turkey.123.b:0	"No, the Turks are not to be trusted."
- turkey.124.t:0	"The [FROM.GetAdjective]'s Have Accepted"
- turkey.124.d:0	"The [FROM.GetAdjective] Foreign Minister has issued an official responce, stating their pleasing acceptance of an alliance."
+ turkey.124.t:0	"The [[~FROM.GetAdjective~]]'s Have Accepted"
+ turkey.124.d:0	"The [[~FROM.GetAdjective~]] Foreign Minister has issued an official responce, stating their pleasing acceptance of an alliance."
  turkey.124.a:0	"We stand together."
- turkey.125.t:0	"The [FROM.GetAdjective]'s Have Declined"
- turkey.125.d:0	"The [FROM.GetAdjective] Foreign Minister has issued an official responce, stating their rejection to the idea of an alliance at this time."
+ turkey.125.t:0	"The [[~FROM.GetAdjective~]]'s Have Declined"
+ turkey.125.d:0	"The [[~FROM.GetAdjective~]] Foreign Minister has issued an official responce, stating their rejection to the idea of an alliance at this time."
  turkey.125.a:0	"Disappointing."
  
  TUR_militarize_the_saadabat_pact:0	"Militarize the Saadabad Pact"
@@ -313,11 +313,11 @@
  turkey.126.a:0	"Let the Turks know they have our support."
  turkey.126.b:0	"We are not interested."
  
- turkey.127.t:0	"The [FROM.GetAdjective]'s Have Accepted"
- turkey.127.d:0	"The [FROM.GetAdjective] Foreign Minister has issued an official responce, stating their pleasing acceptance of an alliance."
+ turkey.127.t:0	"The [[~FROM.GetAdjective~]]'s Have Accepted"
+ turkey.127.d:0	"The [[~FROM.GetAdjective~]] Foreign Minister has issued an official responce, stating their pleasing acceptance of an alliance."
  turkey.127.a:0	"We are pleased."
- turkey.128.t:0	"The [FROM.GetAdjective]'s Have Declined"
- turkey.128.d:0	"The [FROM.GetAdjective] Foreign Minister has issued an official responce, stating their rejection to the idea of an alliance at this time."
+ turkey.128.t:0	"The [[~FROM.GetAdjective~]]'s Have Declined"
+ turkey.128.d:0	"The [[~FROM.GetAdjective~]] Foreign Minister has issued an official responce, stating their rejection to the idea of an alliance at this time."
  turkey.128.a:0	"Disappointing."
  
  TUR_american_lend_lease:0	"American Lend-Lease"
@@ -336,7 +336,7 @@
  TUR_limited_mutual_assistance:0	"Limited Mutual Assistance"
  TUR_limited_mutual_assistance_desc:0	"Although we are not in a position to fight their enemies, it is clear that the straits we administer are of vital importance to Britain. In exchange for a guarantee of security over these important waterways, we could perhaps extract concessions from the British to aid in our industrialization."
  TUR_anglo_turkish_friendship_agreement_focus_days_tt:0	"Has been 105 or more days since focus §YAnglo-Turkish Friendship Agreement§! has been completed"
- TUR_anglo_turkish_friendship_agreement_current_days_tt:0	"Current days are: [?TUR_anglo_turkish_friendship_agreement_flag:days|Y0]"
+ TUR_anglo_turkish_friendship_agreement_current_days_tt:0	"Current days are: [[~?TUR_anglo_turkish_friendship_agreement_flag:days|Y0~]]"
  
  TUR_standardization_idea:0	"Standardization"
  
@@ -475,7 +475,7 @@
  TUR_the_montreux_convention_r56:0	"The Montreux Convention"
  TUR_the_montreux_convention_r56_desc:0	"Straits area has been demilitarized since The Great War, but it cannot stay that way. We must look for international support to impose our full sovereignty."
 
- TUR_invite_to_faction_tooltip:0	"is invited to [Root.GetFlag]§Y[Root.GetName]§!'s faction.\n"
+ TUR_invite_to_faction_tooltip:0	"is invited to [[~Root.GetFlag~]]§Y[[~Root.GetName~]]§!'s faction.\n"
  
  ### TUR - TURKEY ###
  TUR_submarine_1:0	"Birinci İnönü Class"
@@ -500,11 +500,11 @@
  TUR_battleship_1:0	"Reşadiye Class"
  TUR_battleship_1_desc:0	"The Reşadiye class represents three dreadnought battleships ordered from the U.K. for the Turkish Navy just prior to World War I. Only one of the ships were completed, however, and it was subsequently interned by the British at the start of World War I. The ships would have displaced 23,000 tons and would have had good armor, speed, and range. Their main armament would have had ten 343mm/45 Vickers guns."
 
- turkey.10.t:0	"[From.GetName] Joins the [Root.GetFactionName]!"
- turkey.10.d:0	"Acknowledging the need for unity against the threats surrounding our countries on every side, [From.GetLeader] today announced to the world that [From.GetName] has entered a treaty with [Root.GetName] for the sake of our mutual safety."
- turkey.10.a:0	"[Root.GetName] and [From.GetName] today stands as brothers."
- turkey.11.t:0	"[From.GetName] Refuses to Join [Root.GetFactionName]"
- turkey.11.d:0	"In a foolish act of imagined self-preservation, [From.GetLeader] today announced that [From.GetName] will refrain from any diplomatic action that may be seen as threatening to their powerful neighbors. It has therefore declined our request that they join the [Root.GetFactionName]."
+ turkey.10.t:0	"[[~From.GetName~]] Joins the [[~Root.GetFactionName~]]!"
+ turkey.10.d:0	"Acknowledging the need for unity against the threats surrounding our countries on every side, [[~From.GetLeader~]] today announced to the world that [[~From.GetName~]] has entered a treaty with [[~Root.GetName~]] for the sake of our mutual safety."
+ turkey.10.a:0	"[[~Root.GetName~]] and [[~From.GetName~]] today stands as brothers."
+ turkey.11.t:0	"[[~From.GetName~]] Refuses to Join [[~Root.GetFactionName~]]"
+ turkey.11.d:0	"In a foolish act of imagined self-preservation, [[~From.GetLeader~]] today announced that [[~From.GetName~]] will refrain from any diplomatic action that may be seen as threatening to their powerful neighbors. It has therefore declined our request that they join the [[~Root.GetFactionName~]]."
  turkey.11.a:0	"Our only safety is standing together."
  turkey.23.t:0	"Hatay - France Rejects"
  turkey.23.d:0	"The French government has rejected our demands! They claim we have no legal right to the Hatay territory."
@@ -532,8 +532,8 @@
  TUR_english_industral_aid_rejected:0	"British Industrial Aid Rejected"
  TUR_GER_friendship_trade:0	"German-Turkish Treaty of Friendship"
  TUR_GER_friendship:0	"German-Turkish Treaty of Friendship"
- TUR_annex_korea_KOR_tt:0	"Is a neighbour of [KOR.GetNameDef] or the owner of Korea."
- TUR_annex_korea_MAN_tt:0	"Is a neighbour of [MAN.GetNameDef] or the owner of Manchuria."
+ TUR_annex_korea_KOR_tt:0	"Is a neighbour of [[~KOR.GetNameDef~]] or the owner of Korea."
+ TUR_annex_korea_MAN_tt:0	"Is a neighbour of [[~MAN.GetNameDef~]] or the owner of Manchuria."
 
  TUR_kemalist_officers_loyalty_increase_by_half_tt:0	"Improves national spirit §YKemalist Officers§! after taking this decision §Y2§! times.\n"
  # Focuses
@@ -789,11 +789,11 @@
  turkey.138.d:0	"The Ottoman Foreign Minister has approached our own today, offering conditionless support against attacks by foreign powers, which has a clear, indirect meaning: The expansion of forceful British and Soviet influence throughout the region will not be tolerated. What are we to say to the shocking development from the Ottomans?"
  turkey.138.a:0	"Of course!"
  turkey.138.b:0	"What makes them think we need their help?"
- turkey.139.t:0	"The [FROM.GetAdjective]'s have accepted!"
- turkey.139.d:0	"The [FROM.GetAdjective] Foreign Minister has issued an official responce, stating their pleasure in cooperating further. While unexpected, this is sure a great diplomatic victory for our empire!"
+ turkey.139.t:0	"The [[~FROM.GetAdjective~]]'s have accepted!"
+ turkey.139.d:0	"The [[~FROM.GetAdjective~]] Foreign Minister has issued an official responce, stating their pleasure in cooperating further. While unexpected, this is sure a great diplomatic victory for our empire!"
  turkey.139.a:0	"We are pleased."
- turkey.140.t:0	"The [FROM.GetAdjective]'s have refused." 
- turkey.140.d:0	"The [FROM.GetAdjective] Foreign Minister has issued an official responce, stating their desire to avoid "straining the regional balance of power."
+ turkey.140.t:0	"The [[~FROM.GetAdjective~]]'s have refused." 
+ turkey.140.d:0	"The [[~FROM.GetAdjective~]] Foreign Minister has issued an official responce, stating their desire to avoid "straining the regional balance of power."
  turkey.140.a:0	"Disappointing."
 
  TUR_one_persian_ottoman_war_to_end_them_all:0	"One Persian-Ottoman War to End Them All"
@@ -1013,19 +1013,19 @@
  # Events
 
  bftb_turkey.23.t:0	"The Saadabad Pact"
- bftb_turkey.23.desc:0	"[FROM.GetLeader] has approached [ROOT.GetLeader] with the suggestion of signing a mutual non-aggression pact, leaving open the prospect of further cooperation in the future. The [FROM.GetAdjective] diplomats worked hard on their pitch, going into detail about the mutual histories and interests of our two nations followed by an earnest appeal to peace between brotherly nations. The back-and-forth negotiations have been pleasant, but the choice of whether we sign or not ultimately falls to us."
+ bftb_turkey.23.desc:0	"[[~FROM.GetLeader~]] has approached [[~ROOT.GetLeader~]] with the suggestion of signing a mutual non-aggression pact, leaving open the prospect of further cooperation in the future. The [[~FROM.GetAdjective~]] diplomats worked hard on their pitch, going into detail about the mutual histories and interests of our two nations followed by an earnest appeal to peace between brotherly nations. The back-and-forth negotiations have been pleasant, but the choice of whether we sign or not ultimately falls to us."
  
  turkey_hatay.1.t:0	"The Hatay Issue"
- turkey_hatay.1.d:0	"Following the great war, France occupied the Sanjak of Alexandretta, handing it to the Mandate of Syria. The province, now known as Hatay, has a significant Turkish population, although faint of outright majority. The debate on Hatay's status has heated up and recently, with [TUR.GetLeader] calling for Hatay's complete return to Turkey. However, large counter-protests from the province's Armenian and Alawi population have rallied against annexation by Ankara.\n\nIt is clear that Turkey takes this situation seriously, and any rejection of their demands might lead to war."
+ turkey_hatay.1.d:0	"Following the great war, France occupied the Sanjak of Alexandretta, handing it to the Mandate of Syria. The province, now known as Hatay, has a significant Turkish population, although faint of outright majority. The debate on Hatay's status has heated up and recently, with [[~TUR.GetLeader~]] calling for Hatay's complete return to Turkey. However, large counter-protests from the province's Armenian and Alawi population have rallied against annexation by Ankara.\n\nIt is clear that Turkey takes this situation seriously, and any rejection of their demands might lead to war."
  turkey_hatay.1.a:0	"Hatay is not worth animosity with Turkey."
  turkey_hatay.1.b:0	"We will not be bullied, Hatay is rightfully part of Syria."
 
  turkey_hatay.2.t:0	"The Return of Hatay"
- turkey_hatay.2.d:0	"After negotiations, [From.GetNameDef] has announced that they will withdraw from the province of Hatay. Turkish troops and government officials are now in the clear to enter the province and begin its annexation.\n\nThe transfer is largely peaceful, however large numbers of the Armenian population have fled the region in recent days."
+ turkey_hatay.2.d:0	"After negotiations, [[~From.GetNameDef~]] has announced that they will withdraw from the province of Hatay. Turkish troops and government officials are now in the clear to enter the province and begin its annexation.\n\nThe transfer is largely peaceful, however large numbers of the Armenian population have fled the region in recent days."
  turkey_hatay.2.a:0	"Reason previls on this day."
 
- turkey_hatay.3.t:0	"[From.GetNameDef] Refuses to give us Hatay"
- turkey_hatay.3.d:0	"Negotiations with [From.GetNameDef] have broken down, with [From.GetAdjective] announcing that they will not be bullied into handing over the territory without support from the local Armenian and Alawi population. Protests and demonstrations have broken out in the region both in support and against our annexation of the province and extra guards have been sent the border."
+ turkey_hatay.3.t:0	"[[~From.GetNameDef~]] Refuses to give us Hatay"
+ turkey_hatay.3.d:0	"Negotiations with [[~From.GetNameDef~]] have broken down, with [[~From.GetAdjective~]] announcing that they will not be bullied into handing over the territory without support from the local Armenian and Alawi population. Protests and demonstrations have broken out in the region both in support and against our annexation of the province and extra guards have been sent the border."
  turkey_hatay.3.a:0	"We will let this go for now."
  turkey_hatay.3.b:0	"This means war."
 
@@ -1034,12 +1034,12 @@
  turkey_sadabat.1.a:0	"We agree to this pact."
  turkey_sadabat.1.b:0	"We have no interest in this."
 
- turkey_sadabat.2.t:0	"[From.GetNameDef] Agrees to the Pact"
- turkey_sadabat.2.d:0	"[From.GetNameDef] has agreed to the terms of the Saadabad Pact and has promised non-aggression between our nations."
+ turkey_sadabat.2.t:0	"[[~From.GetNameDef~]] Agrees to the Pact"
+ turkey_sadabat.2.d:0	"[[~From.GetNameDef~]] has agreed to the terms of the Saadabad Pact and has promised non-aggression between our nations."
  turkey_sadabat.2.a:0	"May there forever be peace between us."
 
- turkey_sadabat.3.t:0	"[From.GetNameDef] Rejects the Pact"
- turkey_sadabat.3.d:0	"Despite our best efforts, [From.GetNameDef] has left the talks at the Saadabad Palace without signing the non-aggression pact."
+ turkey_sadabat.3.t:0	"[[~From.GetNameDef~]] Rejects the Pact"
+ turkey_sadabat.3.d:0	"Despite our best efforts, [[~From.GetNameDef~]] has left the talks at the Saadabad Palace without signing the non-aggression pact."
  turkey_sadabat.3.a:0	"Let's hope they don't do anything crazy."
 
  turkey.100.t:0	"Expanding Anglo-Turkish Trade?"
@@ -1047,11 +1047,11 @@
  turkey.100.a:0	"This sounds like a good deal."
  turkey.100.b:0	"We have no interest in helping the Turkish."
 
- turkey.101.t:0	"[FROM.GetNameDef] Agrees to Industrial Aid"
+ turkey.101.t:0	"[[~FROM.GetNameDef~]] Agrees to Industrial Aid"
  turkey.101.d:0	"The British government has allowed British entrepreneurs to invest into our nation."
  turkey.101.a:0	"Excellent."
 
- turkey.102.t:0	"[FROM.GetNameDef] Rejects our Request for Industrial Aid"
+ turkey.102.t:0	"[[~FROM.GetNameDef~]] Rejects our Request for Industrial Aid"
  turkey.102.d:0	"The British government have blocked any attempts at expanding economic ties with our nation."
  turkey.102.a:0	"From the British? Unheard of."
 
@@ -1060,12 +1060,12 @@
  turkey.104.a:0	"We must help Turkey stay out of any conflict."
  turkey.104.b:0	"We have other ideas for Turkey."
 
- turkey.105.t:0	"[FROM.GetNameDef] Agrees to Guarantee our Independence"
- turkey.105.d:0	"Following the instruction of his government, the [FROM.GetAdjective] ambassador has been received by [ROOT.GetLeader] in order to sign a treaty ensuring that the [FROM.GetAdjective] armed forces would intervene in case of a foreign aggression."
+ turkey.105.t:0	"[[~FROM.GetNameDef~]] Agrees to Guarantee our Independence"
+ turkey.105.d:0	"Following the instruction of his government, the [[~FROM.GetAdjective~]] ambassador has been received by [[~ROOT.GetLeader~]] in order to sign a treaty ensuring that the [[~FROM.GetAdjective~]] armed forces would intervene in case of a foreign aggression."
  turkey.105.a:0	"This will help us from the vultures."
 
- turkey.106.t:0	"[FROM.GetNameDef] Declines to Guarantee our Independence"
- turkey.106.d:0	"Following the instruction of his government, the [FROM.GetAdjective] has responded negatively to the suggestion of our government, refusing to guarantee our independence."
+ turkey.106.t:0	"[[~FROM.GetNameDef~]] Declines to Guarantee our Independence"
+ turkey.106.d:0	"Following the instruction of his government, the [[~FROM.GetAdjective~]] has responded negatively to the suggestion of our government, refusing to guarantee our independence."
  turkey.106.a:0	"They must be up to something..."
 
  turkey.107.t:0	"The German-Turkish Treaty of Friendship"
@@ -1086,8 +1086,8 @@
  turkey.110.a:0	"They do have a good claim on the islands."
  turkey.110.b:0	"They lost it fair and square."
 
- turkey.111.t:0	"[From.GetNameDef] Agrees to Return the Dodecanese"
- turkey.111.d:0	"Our talks with [From.GetNameDef] have been a great success and [From.GetNameDef] has guaranteed the return of the Dodecanese to us. Early this morning the last government officials and troops from [From.GetNameDef] have withdrawn from the islands after a small ceremony on Rhodes."
+ turkey.111.t:0	"[[~From.GetNameDef~]] Agrees to Return the Dodecanese"
+ turkey.111.d:0	"Our talks with [[~From.GetNameDef~]] have been a great success and [[~From.GetNameDef~]] has guaranteed the return of the Dodecanese to us. Early this morning the last government officials and troops from [[~From.GetNameDef~]] have withdrawn from the islands after a small ceremony on Rhodes."
  turkey.111.a:0	"Another piece of our land rightfully returned."
 
  turkey.114.t:0	"Turkey Requests Admission to the Anti-Comintern Pact"
@@ -1143,12 +1143,12 @@
  turkey.20.a:0	"It is in our best interests to let the people be free."
  turkey.20.b:0	"We will not give up the middle east to the Turks."
 
- turkey.21.t:0	"[From.GetNameDef] Withdraws from the Middle East"
- turkey.21.d:0	"Early this morning the last troops and government officials from [From.GetNameDef] withdrew from their Middle Eastern holdings. The local people have already risen up to install their own governments, some even loyal to us."
+ turkey.21.t:0	"[[~From.GetNameDef~]] Withdraws from the Middle East"
+ turkey.21.d:0	"Early this morning the last troops and government officials from [[~From.GetNameDef~]] withdrew from their Middle Eastern holdings. The local people have already risen up to install their own governments, some even loyal to us."
  turkey.21.a:0	"This is a victory for all free peoples."
 
- turkey.22.t:0	"[From.GetNameDef] Withdraws from the Middle East"
- turkey.22.d:0	"It appears that our demands to [From.GetNameDef] have fallen on deaf ears. Our representatives where given only a few hours to leave the country with barely a hearing. It appears that, in on certain terms, will [From.GetNameDef] leave their Middle Eastern possessions."
+ turkey.22.t:0	"[[~From.GetNameDef~]] Withdraws from the Middle East"
+ turkey.22.d:0	"It appears that our demands to [[~From.GetNameDef~]] have fallen on deaf ears. Our representatives where given only a few hours to leave the country with barely a hearing. It appears that, in on certain terms, will [[~From.GetNameDef~]] leave their Middle Eastern possessions."
  turkey.22.a:0	"Then we shall free them by force."
  turkey.22.b:0	"Perhaps now isn't the time for violence."
 
@@ -1158,7 +1158,7 @@
  TUR_balkan_pact:0	"Balkan Pact"
  TUR_end_clodius_agreement:0	"Revoke the Clodius Agreement"
  TUR_strategic_isolation:0	"Strategic Isolation"
- TUR_strategic_isolation_desc:0	"[ROOT.GetNameDefCap] is strong enough to defend itself against most regional enemies, but by getting mixed up in regional politics, we risk greater dangers."
+ TUR_strategic_isolation_desc:0	"[[~ROOT.GetNameDefCap~]] is strong enough to defend itself against most regional enemies, but by getting mixed up in regional politics, we risk greater dangers."
 
  TUR_turkish_leads_the_way:0	"Turkey Leads the Way"
  TUR_turkish_leads_the_way_desc:0	"The international situation means Turkey cannot rely on neutrality or on any major power. We should build our own alliance for our protection."
@@ -1222,29 +1222,29 @@ TUR_fuat_agrali:0	"Fuat Ağralı" # Minister of Finance
  TUR_streamline_communication_methods_effect_tt:0	"Modify §Y$TUR_disorganized_armed_forces_dynamic_modifier$§!  by:\n$MODIFIER_NAVAL_COORDINATION$: §G+15%§!\n\n"
  TUR_air_safety_regulations_effect_tt:0	"Modify §Y$TUR_disorganized_armed_forces_dynamic_modifier$§!  by:\n$MODIFIER_AIR_ACCIDENTS_FACTOR$: §G-15.0%§!\n\n"
 
- r56_tur_invest_reward_tt:0	"§YOur investments in [TUR.GetnameDEF] will grant us: §!§WA timed National Spirit that will contain either§! §Gbenefits§! §Wor§! §Rmalices§! §Wdepending on how well the investment went.§!"
+ r56_tur_invest_reward_tt:0	"§YOur investments in [[~TUR.GetnameDEF~]] will grant us: §!§WA timed National Spirit that will contain either§! §Gbenefits§! §Wor§! §Rmalices§! §Wdepending on how well the investment went.§!"
  TUR_investment_pursued:0	"Investments Currently Being Pursued"
  TUR_the_italo_turkish_friendship_treaty:0	"The Italo-Turkish Friendship Treaty"
  TUR_the_italo_turkish_friendship_treaty_desc:0	"The Italians may be competing in our sphere, even owning some of our rightful lands, however cooperation with them is unavoidable to strengthen the Turkish nation and especially its navy."
 
- bftb_turkey.144.t:0	"[From.GetNameDefCap] Requests Guarantees"
- bftb_turkey.144.d:0	"[From.GetNameDefCap] has requested that we guarantee their sovereignty, doing so may be a risk but would mean we can make sure that their resources and strategic geographic location, controlling access to and from the Black Sea and providing transit between the Middle East and Europe, will not be controlled by our enemies."
+ bftb_turkey.144.t:0	"[[~From.GetNameDefCap~]] Requests Guarantees"
+ bftb_turkey.144.d:0	"[[~From.GetNameDefCap~]] has requested that we guarantee their sovereignty, doing so may be a risk but would mean we can make sure that their resources and strategic geographic location, controlling access to and from the Black Sea and providing transit between the Middle East and Europe, will not be controlled by our enemies."
  bftb_turkey.144.a:0	"We must protect our Turkish interests."
  bftb_turkey.144.b:0	"We could not keep such a promise."
- bftb_turkey.145.t:0	"[From.GetNameDefCap] Provides Guarantee"
- bftb_turkey.145.d:0	"[From.GetNameDefCap] has realised our strategic importance and has agreed to guarantee our sovereignty."
+ bftb_turkey.145.t:0	"[[~From.GetNameDefCap~]] Provides Guarantee"
+ bftb_turkey.145.d:0	"[[~From.GetNameDefCap~]] has realised our strategic importance and has agreed to guarantee our sovereignty."
  bftb_turkey.145.a:0	"This will keep our enemies at bay."
- bftb_turkey.146.t:0	"[From.GetNameDefCap] Refuses to Guarantee Our Freedom"
- bftb_turkey.146.d:0	"[From.GetNameDefCap] has decided not to guarantee us, seeing it as too risky in the current world situation."
+ bftb_turkey.146.t:0	"[[~From.GetNameDefCap~]] Refuses to Guarantee Our Freedom"
+ bftb_turkey.146.d:0	"[[~From.GetNameDefCap~]] has decided not to guarantee us, seeing it as too risky in the current world situation."
  bftb_turkey.146.a:0	"They will regret this."
  ottoman_info:0	"\n§CThe §!§YDemokrat Parti§!§C must have §Ymore then 40% support§! and has be chosen to revive Ottoman sentiment§!\n"
 
- bftb_turkey.148.t:0	"Dealing with [GRE.GetNameDef]"
- bftb_turkey.148.d:0	"Historically we had a very long and complicated relationship with [GRE.GetNameDef] and their rulers. Centuries of bilateral subjugation have torn many of our people apart. Ideas of Greater Greece and Greater Turkey are still envisioned among various revisionist people of our proud and strong nations. Yet the question of power remains. \n\nSeeing how Mustafa Kemal seeked to cooperate with the new Greek state, our new government can take his wise approach and ally their regime by any means possible. Alternatively, we can always rely on our Italian benefactors to assist us in dividing spheres of influence in the region. \n\nWhat will the superior decision of [ROOT.getLeader] be?"
+ bftb_turkey.148.t:0	"Dealing with [[~GRE.GetNameDef~]]"
+ bftb_turkey.148.d:0	"Historically we had a very long and complicated relationship with [[~GRE.GetNameDef~]] and their rulers. Centuries of bilateral subjugation have torn many of our people apart. Ideas of Greater Greece and Greater Turkey are still envisioned among various revisionist people of our proud and strong nations. Yet the question of power remains. \n\nSeeing how Mustafa Kemal seeked to cooperate with the new Greek state, our new government can take his wise approach and ally their regime by any means possible. Alternatively, we can always rely on our Italian benefactors to assist us in dividing spheres of influence in the region. \n\nWhat will the superior decision of [[~ROOT.getLeader~]] be?"
  bftb_turkey.148.a:0	"They deserve nothing in the new world order."
  bftb_turkey.148.b:0	"It is a token of a long friendship!"
 
- spy_city_turkey_tt:0	"[ROOT.GetNameDefCap] has established positive relations with European major powers that are at war with each other."
+ spy_city_turkey_tt:0	"[[~ROOT.GetNameDefCap~]] has established positive relations with European major powers that are at war with each other."
 
  TUR_etatism_economy_law_idea:0	"Etatism"
  TUR_etatism_economy_law_idea_desc:0	"The current Turkish state building is bounded heavily to the principles of Kemalism. Etatism, being one of the six arrows, is aimed to combine the liberal economic policies of the West with creation of public enterprises similar to ones of Italy or Germany on the basis of the communist five-year plans."

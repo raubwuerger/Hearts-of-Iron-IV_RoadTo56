@@ -156,7 +156,7 @@
  PER_reaffirm_friendship_with_turkey:0	"Reaffirm Friendship With Turkey"
  PER_reaffirm_friendship_with_turkey_desc:0	"With our countries similar backgrounds and ongoing Turkification and Persianization of the minorities, we see our common goals of establishing a strong and united countries in the Middle East. Numerous diplomatic visits has reestablished friendly relations between our and Turkish governments.  "
  PER_between_giants:0	"Between Giants"
- PER_between_giants_desc:0	"Our big yet fragile state is on the crossroads of the world: with [SOV.GetAdjective]s from the North and [ENG.GetAdjective] to the South we are surrounded by Great Powers eagerly observing our country's politics and the regime stability. Perhaps we can use our special position to our advantage?"
+ PER_between_giants_desc:0	"Our big yet fragile state is on the crossroads of the world: with [[~SOV.GetAdjective~]]s from the North and [[~ENG.GetAdjective~]] to the South we are surrounded by Great Powers eagerly observing our country's politics and the regime stability. Perhaps we can use our special position to our advantage?"
  PER_forced_secularization:0	"Forced Secularization"
  PER_forced_secularization_desc:0	"The first step of transition from outdated medieval to modern industrial society is a clear and visible separation of church and state apparatus. Islam has deep roots and is culturally bounded to our people, yet if we are to successfully enter a world stage, we need to adjust to its demands, no matter the costs and sacrifices made."
  PER_trial_of_the_fifty_three:0	"Trial Of The Fifty-Three"
@@ -173,7 +173,7 @@
 
  ###Democratic##
  PER_restore_constitutionalism:0	"Restore Constitutionalism"
- PER_restore_constitutionalism_desc:0	"Absolutism has only resulted in widespread corruption throughout the administration and a deep division of [ROOT.GetAdjective] society. Power must be returned to the people if [ROOT.GetNonIdeologyName] is to make real progress."
+ PER_restore_constitutionalism_desc:0	"Absolutism has only resulted in widespread corruption throughout the administration and a deep division of [[~ROOT.GetAdjective~]] society. Power must be returned to the people if [[~ROOT.GetNonIdeologyName~]] is to make real progress."
  PER_prime_minister_foroughi:0	"Prime Minister Foroughi"
  PER_prime_minister_foroughi_desc:0	"The secular progressive Revival Party of Iran, also known as Hezb-e Tajaddod, shall form the new coalition government and one if its veterans, Mohammad-Ali Foroughi, will take the post of the prime minister in the transition time."
  PER_declare_the_shah_a_traitor:0	"Declare The Shah A Traitor"
@@ -290,7 +290,7 @@
  PER_manufacture_planes:0	"Manufacture Planes"
  PER_manufacture_planes_desc:0	"Our airforce is heavily dependent on the import of foreign plane models. These machines, however, can be successfully produced at home and thus bolster the domestic economy and encourage local manufacturers."
  PER_increase_research_funds:0	"Increase Research Funds"
- PER_increase_research_funds_desc:0	"[PER.GetAdjective] scientists and intellectuals deserve much more then a current leftover of the budget. Increasing the educational and research spending will significantly improve our technological development. "
+ PER_increase_research_funds_desc:0	"[[~PER.GetAdjective~]] scientists and intellectuals deserve much more then a current leftover of the budget. Increasing the educational and research spending will significantly improve our technological development. "
 
  PER_taslihat_e_artesh:0	"Taslihat-e Artesh"
 
@@ -301,12 +301,12 @@
 
  #events
  r56_persia.1.t:0	"Death of the Shah"
- r56_persia.1.desc:0	"Reza Shah Pahlavi, representing the Pahlavi monarchy, has died to natural causes. As his son takes his place representing the monarchy, [ROOT.GetNameDef] looks back on his modernizing reign."
+ r56_persia.1.desc:0	"Reza Shah Pahlavi, representing the Pahlavi monarchy, has died to natural causes. As his son takes his place representing the monarchy, [[~ROOT.GetNameDef~]] looks back on his modernizing reign."
  r56_persia.1.a:0	"Regretful"
 
  ### MISC
  PER_propaganda_campaigns:0	"Anti-Communist Propaganda"
- PER_coalition_with_other_party:0	"Coalition With The [PER.GetFascistParty]"
+ PER_coalition_with_other_party:0	"Coalition With The [[~PER.GetFascistParty~]]"
  PER_improve_police_training:0	"Improve Police Training"
- PER_anti_communist_crackdown:0	"Anti-Communist Crackdown in [FROM.GetName]"
+ PER_anti_communist_crackdown:0	"Anti-Communist Crackdown in [[~FROM.GetName~]]"
  PER_cracking_down:0	"Currently Organizing An Anti-Communist Crackdown"

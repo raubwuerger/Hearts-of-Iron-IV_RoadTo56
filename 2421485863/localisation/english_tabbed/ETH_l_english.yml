@@ -30,8 +30,8 @@
  ETH_hold_the_juba_confluence_mission:0	"Hold The Juba Confluence"
  ETH_hold_the_juba_confluence_mission_desc:0	"One of our few victories so far in the war was the capture of many villages in the Juba Confluence along the Southern Front. Intel says that Ethiopians are preparing an offensive to recapture the lost territory. Losing control of the Juba confluence so soon after its capture would be a huge black eye for our war effort."
 
- ETH_promote_infrastructure_development_in_from:0	"Promote Infrastructure Development in [FROM.GetName]"
- ETH_promote_construction_development_in_from:0	"Promote Construction Development in [FROM.GetName]"
+ ETH_promote_infrastructure_development_in_from:0	"Promote Infrastructure Development in [[~FROM.GetName~]]"
+ ETH_promote_construction_development_in_from:0	"Promote Construction Development in [[~FROM.GetName~]]"
  ETH_state_development_production_speed_tt:0	"§YMax Factories in State§! §G+10%§!"
  ETH_state_development_local_building_tt:0	"§YLocal construction speed§! §G+10%§!" #ETH_state_development_local_building_tt
 
@@ -190,9 +190,9 @@
  ethiopia.3.d:0	"Such unchecked aggression against fellow members of the League will not be tolerated."
 
  news.337.title:0	"Humiliation in Africa"
- news.337.desc:0	"A peace treaty was signed today between [ETH.GetLeader] and [ITA.GetLeader] ending the hostilities between the two nations. Despite the massive power difference between the landlocked kingdom and the world-spanning empire, the Ethiopian government definitely came out on top in these negotiations. Not only must Italy enter a truce with Ethiopia, but the territories of Eritrea and Italian Somaliland have been officially ceded to [ETH.GetNameDef].\n\nWith this being the second defeat for the Italian armed forces in Ethiopia, the government of [ITA.GetLeader] is in shambles, and it will likely take many years before the wounded Italian pride truly recovers from this defeat."
+ news.337.desc:0	"A peace treaty was signed today between [[~ETH.GetLeader~]] and [[~ITA.GetLeader~]] ending the hostilities between the two nations. Despite the massive power difference between the landlocked kingdom and the world-spanning empire, the Ethiopian government definitely came out on top in these negotiations. Not only must Italy enter a truce with Ethiopia, but the territories of Eritrea and Italian Somaliland have been officially ceded to [[~ETH.GetNameDef~]].\n\nWith this being the second defeat for the Italian armed forces in Ethiopia, the government of [[~ITA.GetLeader~]] is in shambles, and it will likely take many years before the wounded Italian pride truly recovers from this defeat."
  news.337.a:0	"Good for Ethiopia!"
- news.337.b:0	"We hope [ITA.GetLeader] is not remembered for his failures."
+ news.337.b:0	"We hope [[~ITA.GetLeader~]] is not remembered for his failures."
  news.337.c:0	"We are never going to recover from this."
  news.337.d:0	"Ras Alula's Empire is reborn!"
 

@@ -192,7 +192,7 @@
  medium_aircraft_manufacturer_2:0	"Medium Aircraft Designer"
  heavy_aircraft_manufacturer_2:0	"Heavy Aircraft Designer"
 
- generic_train_equipment_manufacturer_r56:0	"[Root.Capital.GetName] Locomotive Works"
+ generic_train_equipment_manufacturer_r56:0	"[[~Root.Capital.GetName~]] Locomotive Works"
 
  #New MIO Localisation#
  generic_train_organization_r56_NSB:0	"Train Manufacturer"

@@ -4,7 +4,7 @@
  JAP_caught_off_gruad_desc:0	"We knew they were coming, we just didn't think it would be so soon."
  #Vanilla rename
  r56_JAP_prepare_for_war_with_the_soviet_union:0	"Strike North Doctrine"
- r56_JAP_prepare_for_war_with_the_soviet_union_desc:0	"We must deal with the threat to our northern borders. We must begin preparations for a war with [SOV.GetNameDef]."
+ r56_JAP_prepare_for_war_with_the_soviet_union_desc:0	"We must deal with the threat to our northern borders. We must begin preparations for a war with [[~SOV.GetNameDef~]]."
 
  japan_wtt_focus:0	"Japanese National Focus"
  JAP_revolutionary_fervour:0	"Revolutionary Fervor"
@@ -59,7 +59,7 @@
  JAP_the_ultimate_tank:0	"The Ultimate Tank"
  JAP_the_ultimate_tank_desc:0	"Our enemies will shatter as they will face the fury and anger of the demigod rolling on the battlefield! The new armored beast is already developed and a few machines shall be constructed in the mere weeks after official governmental approval."
  JAP_embrace_jungle_warfare:0	"Embrace Jungle Warfare"
- JAP_embrace_jungle_warfare_desc:0	"Shall our nation enter the jungles of the South-East Asia, [ROOT.getAdjective] will be facing not only the human, but also a natural enemy. Hot climate, high humidity, abundance of dangerous insects and illnesses will make even the strongest soldier think twice before stepping into the jungles. Or we can develop a specialized unit capable of efficient warfare in the jungle conditions."
+ JAP_embrace_jungle_warfare_desc:0	"Shall our nation enter the jungles of the South-East Asia, [[~ROOT.getAdjective~]] will be facing not only the human, but also a natural enemy. Hot climate, high humidity, abundance of dangerous insects and illnesses will make even the strongest soldier think twice before stepping into the jungles. Or we can develop a specialized unit capable of efficient warfare in the jungle conditions."
  JAP_protect_our_islands_skies:0	"Protect our Island's Skies"
  JAP_protect_our_islands_skies_desc:0	"Secured on land by our brave soldiers and protected by skilled and watchful sailors from the sea, our country remains a possible target of bombing raids. If we are unwilling to develop the superior airforce, it is vital to secure the industry and our citizens by constructing the anti-air installations across the country."
  JAP_prepare_for_an_invasion:0	"Prepare for an Invasion"
@@ -95,7 +95,7 @@
  JAP_ichizo_kobayashi:0	"Ichizō Kobayashi"
  JAP_koyata_iwasaki:0	"Koyata Iwasaki"
 
- ROOT_diplomatic_effort:0	"[ROOT.getAdjective] Diplomatic Effort"
+ ROOT_diplomatic_effort:0	"[[~ROOT.getAdjective~]] Diplomatic Effort"
  JAP_alliance_expansion_plan:0	"Alliance Expansion Plan"
 
  JAP_stimulate_mongol_traditions:0	"Stimulate the Mongol Traditions"
@@ -133,16 +133,16 @@
  JAP_support_the_burmese_liberation_movement:0	"Support the Burmese Liberation Movement"
  JAP_support_the_burmese_liberation_movement_desc:0	"The Burmese have their place in East Asia."
  JAP_join_the_anti_bolshevik_pact:0	"Join the Anti-Bolshevik Pact"
- JAP_join_the_anti_bolshevik_pact_desc:0	"[TUR.GetNameDefCap] seems determined to fight against the horrors of Soviet Bolshevism. Our alliance will strike them in the East and the West."
+ JAP_join_the_anti_bolshevik_pact_desc:0	"[[~TUR.GetNameDefCap~]] seems determined to fight against the horrors of Soviet Bolshevism. Our alliance will strike them in the East and the West."
 
  JAP_reinforce_cooperation_with_poland:0	"Reinforce Cooperation with Poland"
- JAP_reinforce_cooperation_with_poland_desc:0	"Since its independence, Poland has been a great partner in the quest to gather intelligence on the USSR. Now that the [SOV.getAdjective] army threatens them like in the 1920s, the region around Vladivostok should have reduced garrisons, which means that it's time to attack them."
+ JAP_reinforce_cooperation_with_poland_desc:0	"Since its independence, Poland has been a great partner in the quest to gather intelligence on the USSR. Now that the [[~SOV.getAdjective~]] army threatens them like in the 1920s, the region around Vladivostok should have reduced garrisons, which means that it's time to attack them."
 
  JAP_a_new_spirit_for_an_old_alliance:0	"A New Spirit for an Old Alliance"
  JAP_a_new_spirit_for_an_old_alliance_desc:0	"Now that we are ideologically aligned, we should ponder the renewal of the Anglo-Japanese alliance."
 
  JAP_invite_malaysia:0	"Invite Malaysia"
- JAP_invite_malaysia_desc:0	"The sea lanes surrounding Malaysia are the veins for global trade and minerals. An alliance and mutual defense pact with [MAL.GetNameDef] will open up this valuable resource to our markets and gain access to their straits."
+ JAP_invite_malaysia_desc:0	"The sea lanes surrounding Malaysia are the veins for global trade and minerals. An alliance and mutual defense pact with [[~MAL.GetNameDef~]] will open up this valuable resource to our markets and gain access to their straits."
 
  JAP_invite_indonesia:0	"Invite Indonesia"
  JAP_invite_indonesia_desc:0	"The Nusantara Archipelago is critical to protecting the route to India and Europe. Befriending them and inviting them to our alliance will mutually benefit all countries involved."
@@ -163,16 +163,16 @@
  JAP_invite_the_pacific_states_desc:0	"Individually, these states are lovely for touring and carousing. Collectively, they are potential jumping-off points for a sea-borne invasion, a hidden knife on the back of Japan itself. We must ally with them at all costs to prevent this from becoming a reality."
 
  JAP_side_with_the_balkan_league_against_the_ussr:0	"Side with the Balkan League against the USSR"
- JAP_side_with_the_balkan_league_against_the_ussr_desc:0	"The Balkans are at war with [SOV.getNameDef]; we should help them eliminate one of our biggest rivals in Asia."
+ JAP_side_with_the_balkan_league_against_the_ussr_desc:0	"The Balkans are at war with [[~SOV.getNameDef~]]; we should help them eliminate one of our biggest rivals in Asia."
 
- JAP_obtain_polish_cryptological_data:0	"Obtain [POL.getAdjective] Cryptological Data"
- JAP_obtain_polish_cryptological_data_desc:0	"The efforts of the cryptological department of [POL.GetNameDef] could be instrumental in our success against our enemies."
+ JAP_obtain_polish_cryptological_data:0	"Obtain [[~POL.getAdjective~]] Cryptological Data"
+ JAP_obtain_polish_cryptological_data_desc:0	"The efforts of the cryptological department of [[~POL.GetNameDef~]] could be instrumental in our success against our enemies."
 
  JAP_nippon_nordic_friendship_treaty:0	"Nippon-Nordic Friendship Treaty"
  JAP_anglo_japanese_friendship_treaty:0	"Anglo-Japanese Friendship Treaty"
 
  JAP_nordic_strategy:0	"The Nordic Strategy"
- JAP_nordic_strategy_desc:0	"To complement the Northern Strategy, it's logical to try to find countries in the North sharing our views regarding [SOV.getNameDef]. Scandinavia and Finland have long been worried about [SOV.getAdjective] activities, and diplomatic openings are likely to end with the signature of the treaty of cooperation. Long live the Nippon-Nordic Friendship Treaty!"
+ JAP_nordic_strategy_desc:0	"To complement the Northern Strategy, it's logical to try to find countries in the North sharing our views regarding [[~SOV.getNameDef~]]. Scandinavia and Finland have long been worried about [[~SOV.getAdjective~]] activities, and diplomatic openings are likely to end with the signature of the treaty of cooperation. Long live the Nippon-Nordic Friendship Treaty!"
 
  JAP_sumitomo_rubber_industries:0	"Sumitomo Rubber Industries"
  JAP_sumitomo_rubber_industries_desc:0	"At first, only a partner of Dunlop Japan, the Sumitomo zaibatsu's rubber branch could ally with the conglomerate's chemical branch and create Japanese-made rubber."
@@ -234,8 +234,8 @@
  JAP_taiwan_fob_prepare_tt:0	"§YTaiwan§! will be prepared as a staging ground to allow for a strike on the §YPhilippines§! as well."
  ##Fixed
 
- JAP_develop_mengjiang:0	"Develop [MEN.GetNonIdeologyName]"
- JAP_develop_mengjiang_desc:0	"The establishment of [MEN.GetNameDef] presents ourselves with another opportunity to develop the local industry for our own economic growth."
+ JAP_develop_mengjiang:0	"Develop [[~MEN.GetNonIdeologyName~]]"
+ JAP_develop_mengjiang_desc:0	"The establishment of [[~MEN.GetNameDef~]] presents ourselves with another opportunity to develop the local industry for our own economic growth."
 
  JAP_nishina_okochi_directive:0	"Nishina-Ōkōchi Directive"
  JAP_nishina_okochi_directive_desc:0	"The ultimate weapon to destroy our enemies is within reach. The efforts of Yoshio Nishina and Masatoshi Ōkōchi have proven the possibility of the use of nuclear weapons in warfare, we must allow them to continue their work in order to obtain such a powerful weapon."
@@ -269,7 +269,7 @@
  r56_japan.1.a:0	"Insurrection will not be tolerated."
 
  r56_japan.2.t:0	"Japanese Technological Cooperation"
- r56_japan.2.desc:0	"To ensure our military superiority, the [JAP.GetAdjective] government encourages technological cooperation with its allies. They are readying their blueprints."
+ r56_japan.2.desc:0	"To ensure our military superiority, the [[~JAP.GetAdjective~]] government encourages technological cooperation with its allies. They are readying their blueprints."
  r56_japan.2.a:0	"Excellent."
 
  r56_japan.10.t:0	"Host Elections"
@@ -277,8 +277,8 @@
  r56_japan.10.a:0	"Rikken Minseito, Constitutional Democracy Party!"
  r56_japan.10.b:0	"Rikken Seiyukai, Association of Friends of Constitutional Government!"
 
- r56_japan.11.t:0	"[JAP.getAdjective] Specialists Suggest Technological Cooperation"
- r56_japan.11.desc:0	"Diplomats from [JAP.getNameDef] has approached our governmental officials with an offer to conclude a facilities inspection which could allow [JAP.getAdjective] engineers to learn from our production methods and improve the product quality of their own. \n\nTheir representatives have already assured us of confidentiality and discreetness of this agreement, providing written promises of security of any of our various technological innovations discussed in-situ. \nThe decision is pending and the delegation expects a response in the overseen future. What should the answer be?"
+ r56_japan.11.t:0	"[[~JAP.getAdjective~]] Specialists Suggest Technological Cooperation"
+ r56_japan.11.desc:0	"Diplomats from [[~JAP.getNameDef~]] has approached our governmental officials with an offer to conclude a facilities inspection which could allow [[~JAP.getAdjective~]] engineers to learn from our production methods and improve the product quality of their own. \n\nTheir representatives have already assured us of confidentiality and discreetness of this agreement, providing written promises of security of any of our various technological innovations discussed in-situ. \nThe decision is pending and the delegation expects a response in the overseen future. What should the answer be?"
  r56_japan.11.a:0	"Let them full access to our tank manufacturing plants."
  r56_japan.11.b:0	"Small arms can be inspected to ensure their quality prevails."
  r56_japan.11.c:0	"Aircraft factories could benefit from foreign expertise."
@@ -290,7 +290,7 @@
  ############################## IDEAS #######################3
 
  JAP_hirohito:0	"Hirohito"
- JAP_hirohito_desc:0	"The Emperor Shōwa symbolises to the [JAP.GetAdjective] people their victories and prosperity while also acting as a strong unifier within [JAP.GetNameDef]."
+ JAP_hirohito_desc:0	"The Emperor Shōwa symbolises to the [[~JAP.GetAdjective~]] people their victories and prosperity while also acting as a strong unifier within [[~JAP.GetNameDef~]]."
 
  sino_jap_war_fail_naisen:0	"Naisen"
  sino_jap_war_fail_naisen_desc:0	"Failure in conquering China has led to fragmentation among the government and the public; our nation is now on the verge of total collapse!"
@@ -335,7 +335,7 @@
  sfl.6.t:0	"Islands In Bismarck Sea"
  sfl.6.d:0	"After the successful coup by the democrats in Japan, the new government wanted to improve their relationship with us by giving us islands that they took from the German Empire in the Great War."
  sfl.6.a:0	"We accept this show of friendship"
- sfl_aftermath_chi_tt:0	"[Root.GetNameDefCap] takes control over Chinese states owned by [JAP.GetNameDef]."
+ sfl_aftermath_chi_tt:0	"[[~Root.GetNameDefCap~]] takes control over Chinese states owned by [[~JAP.GetNameDef~]]."
 
  sfl.7.t:0	"Korea Liberated"
  sfl.7.d:0	"The Chosen Peninsula has fallen into foreign hands, and they have liberated the Korean people."
@@ -344,23 +344,23 @@
 
  sfl.8.t:0	"Chinese Territories"
  sfl.8.d:0	"Now that the fascist regime is gone, so should the evil deeds they had done. The occupation of Manchuria is one of them; should we return it to the Chinese people?"
- sfl.8.a:0	"[CHI.GetNameDefCap] shall take over those lands."
+ sfl.8.a:0	"[[~CHI.GetNameDefCap~]] shall take over those lands."
  sfl.8.b:0	"We must please the communist world, lest we perish under Soviet might."
  sfl.8.c:0	"This is not our priority."
 
- sfl.9.t:0	"Disputed Territories with [SOV.GetNameDef]"
+ sfl.9.t:0	"Disputed Territories with [[~SOV.GetNameDef~]]"
  sfl.9.d:0	"The disputed territories over Sakhalin Island are an excellent opportunity to please the red giant above us and keep us safe."
  sfl.9.a:0	"We must not bring forth our own destruction!"
  sfl.9.b:0	"Nonsense, the communist world will never triumph over the world of freedom!"
 
  sfl.10.t:0	"Islands in the Pacific"
- sfl.10.d:0	"[USA.GetNameDefCap] is a great ally given that we are now of the same ideology; we should please them with the islands we took from the German Empire in the Great War. This way, we can earn their backing."
+ sfl.10.d:0	"[[~USA.GetNameDefCap~]] is a great ally given that we are now of the same ideology; we should please them with the islands we took from the German Empire in the Great War. This way, we can earn their backing."
  sfl.10.a:0	"A great ally is priceless."
  sfl.10.b:0	"We are fine on our own!"
 
  sfl.11.t:0	"Japan Refused to Return Manchuria to Us"
- sfl.11.d_prc:0	"[JAP.GetNameDefCap] has decided to return its occupied Chinese territories to [CHI.GetNameDef]; this is a humiliation to our government!"
- sfl.11.d_chi:0	"[JAP.GetNameDefCap] has decided to return its occupied Chinese territories to [PRC.GetNameDef]; this is a humiliation to our government!"
+ sfl.11.d_prc:0	"[[~JAP.GetNameDefCap~]] has decided to return its occupied Chinese territories to [[~CHI.GetNameDef~]]; this is a humiliation to our government!"
+ sfl.11.d_chi:0	"[[~JAP.GetNameDefCap~]] has decided to return its occupied Chinese territories to [[~PRC.GetNameDef~]]; this is a humiliation to our government!"
  sfl.11.a:0	"We will not stand this humiliation!"
 
  sfl.12.t:0	"Manchuria Issue Ignored"
@@ -377,17 +377,17 @@
  sfl.14.a:0	"We will contact them for peace."
  sfl.14.b:0	"We can get ourselves some profit in this war."
 
- sfl.15.t:0	"[From.GetNameDefCap] Calls For Peace"
- sfl.15.d:0	"The government of [From.GetNameDef] has called [Root.GetLeader] for a peace talk, as they are no longer at war with Japan; they think we don't have the reasons to continue the conflict between us anymore."
+ sfl.15.t:0	"[[~From.GetNameDefCap~]] Calls For Peace"
+ sfl.15.d:0	"The government of [[~From.GetNameDef~]] has called [[~Root.GetLeader~]] for a peace talk, as they are no longer at war with Japan; they think we don't have the reasons to continue the conflict between us anymore."
  sfl.15.a:0	"They are right; the war between us will end."
  sfl.15.b:0	"We fight for our interests!"
 
- sfl.16.t:0	"[From.GetNameDefCap] Agrees on Peace between Us"
- sfl.16.d:0	"[From.GetLeader] has decided that they have no reason to fight with us anymore, signing a white peace between our nations."
+ sfl.16.t:0	"[[~From.GetNameDefCap~]] Agrees on Peace between Us"
+ sfl.16.d:0	"[[~From.GetLeader~]] has decided that they have no reason to fight with us anymore, signing a white peace between our nations."
  sfl.16.a:0	"They shall have our sincere gratitude."
 
- sfl.17.t:0	"[From.GetNameDefCap] Rejected Peace Talks"
- sfl.17.d:0	"[From.GetLeader] stated that they had other interests behind prolonging this war!"
+ sfl.17.t:0	"[[~From.GetNameDefCap~]] Rejected Peace Talks"
+ sfl.17.d:0	"[[~From.GetLeader~]] stated that they had other interests behind prolonging this war!"
  sfl.17.a:0	"Damned imperialist pig dog!"
  kmt_kor_north_liberated:0	"5 units rise up in Pyongyang"
  kmt_kor_south_liberated:0	"5 units rise up in Seoul"
@@ -402,39 +402,39 @@
  sfl.19.a:0	"They're done no matter what; no need to waste time on them."
  sfl.19.b:0	"A temporary truce."
  sfl.19.c:0	"No respite for imperialist dogs!"
- sfl_jap_forfeit_land:0	"[Root.GetNameDefCap] takes over Chinese lands owned by Japan\n"
+ sfl_jap_forfeit_land:0	"[[~Root.GetNameDefCap~]] takes over Chinese lands owned by Japan\n"
  sfl_later_war_with_jap:0	"You can decide to go to war with Japan after a month, §Rregardless of their ideology.§!"
 
- sfl.20.t:0	"Peace with [CHI.GetNameDef]"
- sfl.20.d:0	"[CHI.GetNameDefCap] has agreed on peace between us."
+ sfl.20.t:0	"Peace with [[~CHI.GetNameDef~]]"
+ sfl.20.d:0	"[[~CHI.GetNameDefCap~]] has agreed on peace between us."
  sfl.20.a:0	"We can now focus on the civil war."
 
- sfl.22.t:0	"No Peace with [CHI.GetNameDef]"
- sfl.22.d:0	"[CHI.GetNameDefCap] has refused peace between us."
+ sfl.22.t:0	"No Peace with [[~CHI.GetNameDef~]]"
+ sfl.22.d:0	"[[~CHI.GetNameDefCap~]] has refused peace between us."
  sfl.22.a:0	"Is this our destiny?"
 
  sfl.23.t:0	"War with Japan?"
- sfl.23.d:0	"It is time to decide whether we declare war on [JAP.GetNameDef] or not."
+ sfl.23.d:0	"It is time to decide whether we declare war on [[~JAP.GetNameDef~]] or not."
  sfl.23.a:0	"The Japanese people will pay for their atrocities!"
  sfl.23.b:0	"There is already too much bloodshed."
 
- sfl.24.t:0	"[CHI.GetNameDefCap] Declare War on Us!"
+ sfl.24.t:0	"[[~CHI.GetNameDefCap~]] Declare War on Us!"
  sfl.24.d:0	"The Chinese has revoked their truce and declared war on us!"
  sfl.24.a:0	"Backstabbing scum!"
  sfl_cant_peace_with_axis_later:0	"§RYou will not be able to make separate peace with Axis in the future.§!\n"
 
  sfl.25.t:0	"Ownership of Indochina"
  sfl.25.d:0	"How should we act on the Indochina issue?"
- sfl.25.a:0	"[FRA.GetNameDefCap] can have it back."
- sfl.25.b:0	"[CHI.GetNameDefCap] can have it."
+ sfl.25.a:0	"[[~FRA.GetNameDefCap~]] can have it back."
+ sfl.25.b:0	"[[~CHI.GetNameDefCap~]] can have it."
  sfl.25.c:0	"We will keep it."
 
- sfl.26.t:0	"[From.GetNameDefCap] Hand over Indochina"
- sfl.26.d:0	"[From.GetNameDefCap] has decided to hand over Indochina to our rule."
+ sfl.26.t:0	"[[~From.GetNameDefCap~]] Hand over Indochina"
+ sfl.26.d:0	"[[~From.GetNameDefCap~]] has decided to hand over Indochina to our rule."
  sfl.26.a:0	"A wise move."
 
- sfl.27.t:0	"[From.GetNameDefCap] Ignores Our Claim on Indochina"
- sfl.27.d:0	"Despite our righteous claim, [From.GetNameDefCap] has decided not to hand over Indochina to us."
+ sfl.27.t:0	"[[~From.GetNameDefCap~]] Ignores Our Claim on Indochina"
+ sfl.27.d:0	"Despite our righteous claim, [[~From.GetNameDefCap~]] has decided not to hand over Indochina to us."
  sfl.27.a:0	"Then we will take it by force."
 
 
@@ -443,7 +443,7 @@
  sfl.28.a:0	"Scrap the Japanese names!"
  sfl.28.b:0	"That would require too much effort."
  r56_japan.11.t:0	"Japan Requests an Inspection of our Production Methods"
- r56_japan.11.d:0	"We could allow Japanese Engineers to inspect our factories and learn from our production methods. Although this would normally be a futile request;Now that the [JAP.GetAdjective] has become A Democratic Nation, we can trust that wont be causing any trouble."
+ r56_japan.11.d:0	"We could allow Japanese Engineers to inspect our factories and learn from our production methods. Although this would normally be a futile request;Now that the [[~JAP.GetAdjective~]] has become A Democratic Nation, we can trust that wont be causing any trouble."
 #####DEMO TREE
  JAP_rikken_minseito:0	"Rikken Minseito"
  JAP_rikken_minseito_desc:0	"Rikken Minseito; the Centre-Left leaning party of Japan."
@@ -510,7 +510,7 @@
  JAP_expand_aluminium_plants:0	"Expand Kansai Alumium"
  JAP_expand_aluminium_plants_desc:0	"Investing into our internal resource allow us to better our export focused economy."
  JAP_invest_in_allies_tt:0	"If Asian allies are in your faction, they will also recieve bonuses from this focus."
- JAP_island_colonization:0	"Colonize [FROM.getName]"
+ JAP_island_colonization:0	"Colonize [[~FROM.getName~]]"
  JAP_north_east_asian_bank:0	"East Asian Bank"
  JAP_north_east_asian_military:0	"East Asian Military Pact"
  JAP_the_chaebols:0	"Chaebols"

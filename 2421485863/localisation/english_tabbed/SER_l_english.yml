@@ -192,7 +192,7 @@ l_english:
    SER_faithful_ally:0	"A Faithful Ally"
    SER_faithful_ally_desc:0	"With our dedication to defending our soil and the blood we have shed for the common cause of a European victory against Judeo-Bolshevism, we have deserved to be recognized as an actual member of the Axis powers. This has been eased by the brilliant work of our phrenologists, who have proven that, unlike those filthy Serbs, we are the direct descendants of the Aryans who migrated south."
    SER_catholic_dominance_focus:0	"Catholic Dominance"
-   SER_catholic_dominance_focus_desc:0	"For centuries, the Croats were guided by the teachings of the Roman Catholic Church. Since our forced union with Serbia, many have converted to Orthodoxy for personal gains. This must stop as every Christian [CRO.GetAdjective] must accept the authority of His Holiness the Pope."
+   SER_catholic_dominance_focus_desc:0	"For centuries, the Croats were guided by the teachings of the Roman Catholic Church. Since our forced union with Serbia, many have converted to Orthodoxy for personal gains. This must stop as every Christian [[~CRO.GetAdjective~]] must accept the authority of His Holiness the Pope."
    SER_secularism_focus:0	"Secularism"
    SER_secularism_focus_desc:0	"Faith must in no way interfere with matters of the state. It should be a purely private matter, and religious personnel must be barred from entering the political arena."
    SER_integrate_muslim_croats_focus:0	"Integrate Muslim Croats"

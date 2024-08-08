@@ -69,7 +69,7 @@
  BRI_armor_effort_desc:0	"Applying what we have learned from mechanizing our infantry, we can also improve our armored vehicles."
  BRI_special_forces:0	"Special Forces"
  BRI_special_forces_desc:0	"We need elite forces; mountain troops and paratroopers should be our priority."
- BRI_aviation_effort:0	"Found the [BRI.GetAdjective] Air School"
+ BRI_aviation_effort:0	"Found the [[~BRI.GetAdjective~]] Air School"
  BRI_aviation_effort_tt:0	"Not enough building slots for §YAir Base§!"
  BRI_aviation_effort_desc:0	"Nowhere are technological advances more rapid than in aerial warfare. Aviation is a field any modern nation must master."
  BRI_fighter_focus:0	"Fighter Focus"

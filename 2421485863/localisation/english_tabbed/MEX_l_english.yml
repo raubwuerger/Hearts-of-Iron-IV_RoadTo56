@@ -48,7 +48,7 @@
  MEX_negotiate_with_conservatives_desc:0	"The only truly right way to solve Mexico's ills is by a truly democratic vote, anything less is repeating the same mistake Mexico has made over and over again."
 
  MEX_consolidate_the_prm_grip:0	"Consolidate the PRM Grip"
- MEX_consolidate_the_prm_grip_desc:0	"The raising popularity of PRM leaves it to not other option but to become the voice of all of Mexico. All four wings of the party shall unite their efforts to establish a stable [ROOT.getAdjective] state!"
+ MEX_consolidate_the_prm_grip_desc:0	"The raising popularity of PRM leaves it to not other option but to become the voice of all of Mexico. All four wings of the party shall unite their efforts to establish a stable [[~ROOT.getAdjective~]] state!"
 
  MEX_seize_strategic_businesses:0	"Seize Strategic Businesses"
  MEX_seize_strategic_businesses_desc:0	"Article 33 states that only Mexican citizens may influence internal Mexican politics. Currently, we have many individuals who are breaking this law. We should enforce it to remove our political enemies, and keep our political monopoly."
@@ -67,7 +67,7 @@
  MEX_distance_from_europe_desc:0	"During WWII, Mexico signed into a defense commission with the US on the pretense that the US would lend lease military equipment to Mexico. Mexico received very little support, and it quickly fell apart after WWII."
 
  MEX_reintroduce_cientificos:0	"Reintroduce Cientificos"
- MEX_reintroduce_cientificos_desc:0	"Cientificos were a group of technocratic advisors of Porfiro Diaz who worked in close cooperation with rich elites of the country, assisting the growing [MEX.getAdjective] state both industrially and scientifically."
+ MEX_reintroduce_cientificos_desc:0	"Cientificos were a group of technocratic advisors of Porfiro Diaz who worked in close cooperation with rich elites of the country, assisting the growing [[~MEX.getAdjective~]] state both industrially and scientifically."
 
  MEX_empower_the_caudillos:0	"Empower the Caudillos"
  MEX_empower_the_caudillos_desc:0	"Caudillos were Mexico's strong men, military officers who often held political office. In some cases, the Caudillo had greater power in their home state than the federal government. They often used their power to pursue their own personal ideals such as a right wing government through coups, or desires such as greater military spending through congressional vote to grow their power."
@@ -187,11 +187,11 @@
  ###EVENTS
 
  mexico_calles.1.t:0	"Rebels Attack on Civilian Train!"
- mexico_calles.1.d:0	"A Mexico City-Veracruz train was ambushed yesterday by dissidents, killing multiple Mexican politicians from the PRM party. \n\nThe train was ambushed at a bridge, that was rigged with explosives, ruling out a bandit robbery as the motive for the attack. The wreckage discovered by officials was completely destroyed by fire, leaving little behind for investigators. [ROOT.getNameDefCap] has been facing increasing political polarization in the recent years, and now it seems political extremists are now resorting to violence."
+ mexico_calles.1.d:0	"A Mexico City-Veracruz train was ambushed yesterday by dissidents, killing multiple Mexican politicians from the PRM party. \n\nThe train was ambushed at a bridge, that was rigged with explosives, ruling out a bandit robbery as the motive for the attack. The wreckage discovered by officials was completely destroyed by fire, leaving little behind for investigators. [[~ROOT.getNameDefCap~]] has been facing increasing political polarization in the recent years, and now it seems political extremists are now resorting to violence."
  mexico_calles.1.a:0	"Tragic, but who could be behind it?"
 
  mexico_calles.2.t:0	"Calles Captured and Exiled!"
- mexico_calles.2.d:0	"Former President Plutarco Elias Calles, and 3 of his right hand men, have been arrested by orders of President [MEX.GetLeader]. \n\nMexico's leftists have accused Calles of trying to ferment dissent among the right wing against President Cardenas, whom he calls a communist, and possibly force the country into a civil war. \n\nWhen the Mexican authorities stormed the rancho, they arrested Calles laying in his bed, reading a Spanish Translation of Hitler's book "Mein Kampf." Calles was then forced onto a plane in the dead of night, heading for Houston, Texas where he expected to arrive in the morning to leave for San Diego where he will live with his sister.\n\nA cache of weapons, presumably for supplying rebels, were also recovered."
+ mexico_calles.2.d:0	"Former President Plutarco Elias Calles, and 3 of his right hand men, have been arrested by orders of President [[~MEX.GetLeader~]]. \n\nMexico's leftists have accused Calles of trying to ferment dissent among the right wing against President Cardenas, whom he calls a communist, and possibly force the country into a civil war. \n\nWhen the Mexican authorities stormed the rancho, they arrested Calles laying in his bed, reading a Spanish Translation of Hitler's book "Mein Kampf." Calles was then forced onto a plane in the dead of night, heading for Houston, Texas where he expected to arrive in the morning to leave for San Diego where he will live with his sister.\n\nA cache of weapons, presumably for supplying rebels, were also recovered."
  mexico_calles.2.a:0	"Calles got the same treatment he gave to so many others."
 
 
@@ -200,11 +200,11 @@
  mexico_calles.3.a:0	"Time to end this farce!"
 
  mexico_pemex.1.t:0	"Oil Worker Strikes"
- mexico_pemex.1.d:0	"President [Root.GetLeader], workers are striking against unfair treatment by the foreign companies that bought out the Aguila oil company. They have blatantly broken many of our laws before, and dealing with them will receive little to no backlash among Mexicans. It is best to nationalize the oil company under the constitutional statute that asserts our ownership over all natural resources. Oil nationalization would help fund our country's industrialization, and if war were to happen we would stand to make substantial profit."
+ mexico_pemex.1.d:0	"President [[~Root.GetLeader~]], workers are striking against unfair treatment by the foreign companies that bought out the Aguila oil company. They have blatantly broken many of our laws before, and dealing with them will receive little to no backlash among Mexicans. It is best to nationalize the oil company under the constitutional statute that asserts our ownership over all natural resources. Oil nationalization would help fund our country's industrialization, and if war were to happen we would stand to make substantial profit."
  mexico_pemex.1.a:0	"Let's make a power play."
 
  mexico_pemex.2.t:0	"Mexico Nationalizes Oil Companies!"
- mexico_pemex.2.d:0	"[MEX.GetLeader] has announced the nationalization of oil companies within Mexico. The previously foreign companies shall be confiscated and put under the control of PEMEX, the state run oil company. This disproportionately effects UK and Dutch companies, who are demanding their governments go to war. America is largely unsure whether to condone or condemn the nationalization, as the presence in the Mexican oil market was not only negligible, but the nationalization helps their business by eliminating foreign competition."
+ mexico_pemex.2.d:0	"[[~MEX.GetLeader~]] has announced the nationalization of oil companies within Mexico. The previously foreign companies shall be confiscated and put under the control of PEMEX, the state run oil company. This disproportionately effects UK and Dutch companies, who are demanding their governments go to war. America is largely unsure whether to condone or condemn the nationalization, as the presence in the Mexican oil market was not only negligible, but the nationalization helps their business by eliminating foreign competition."
  mexico_pemex.2.a:0	"This is insane, Mexico will start a war!"
  mexico_pemex.2.b:0	"Outrageous! They dare steal our property?!"
  mexico_pemex.2.c:0	"Now we wait and see their response."
@@ -220,22 +220,22 @@
  mexico_pemex.4.e:0	"Starve them out."
 
  mexico_pemex.5.t:0	"U.S. embargoes Mexico!"
- mexico_pemex.5.d:0	"President [USA.GetLeader] has announced that Mexico shall be embargoed in response to the nationalization of American Oil Companies in Mexico. Political Analysts call this an attempt starve out Mexico's state owned oil company, PEMEX, and force Mexico to return the nationalized assets."
+ mexico_pemex.5.d:0	"President [[~USA.GetLeader~]] has announced that Mexico shall be embargoed in response to the nationalization of American Oil Companies in Mexico. Political Analysts call this an attempt starve out Mexico's state owned oil company, PEMEX, and force Mexico to return the nationalized assets."
  mexico_pemex.5.a:0	"Lets see if PEMEX survives."
  mexico_pemex.5.b:0	"They're trying to starve us out."
 
  mexico_pemex.6.t:0	"U.K. embargoes Mexico!"
- mexico_pemex.6.d:0	"[ENG.GetLeader] has announced that Mexico shall be embargoed in response to the nationalization of English and Dutch Oil Companies in Mexico. Political Analysts call this an attempt starve out Mexico's state owned oil company, PEMEX, and force Mexico to return the nationalized assets."
+ mexico_pemex.6.d:0	"[[~ENG.GetLeader~]] has announced that Mexico shall be embargoed in response to the nationalization of English and Dutch Oil Companies in Mexico. Political Analysts call this an attempt starve out Mexico's state owned oil company, PEMEX, and force Mexico to return the nationalized assets."
  mexico_pemex.6.a:0	"Let us see if PEMEX survives."
  mexico_pemex.6.b:0	"They're trying to starve us out."
 
  mexico_pemex.7.t:0	"U.S. declares war on Mexico!"
- mexico_pemex.7.d:0	"President [USA.GetLeader] has announced a declaration of war on Mexico over outrage over the confiscation of oil assets from American companies. [USA.GetLeader] has stated that it must defend American interests, and will not stand for Mexican posturing against American companies. [MEX.GetLeader] has responded that foreign ownership of the oil was not legal to begin with under Mexican law, and that any future president had the legal right to enforce the law. [MEX.GetLeader] has also stated that they will fight to protect their constitution from foreign interests."
+ mexico_pemex.7.d:0	"President [[~USA.GetLeader~]] has announced a declaration of war on Mexico over outrage over the confiscation of oil assets from American companies. [[~USA.GetLeader~]] has stated that it must defend American interests, and will not stand for Mexican posturing against American companies. [[~MEX.GetLeader~]] has responded that foreign ownership of the oil was not legal to begin with under Mexican law, and that any future president had the legal right to enforce the law. [[~MEX.GetLeader~]] has also stated that they will fight to protect their constitution from foreign interests."
  mexico_pemex.7.a:0	"My God."
  mexico_pemex.7.b:0	"Dios Mio."
 
  mexico_pemex.8.t:0	"UK declares war on Mexico!"
- mexico_pemex.8.d:0	"The United Kingdom has declared a state of war on Mexico, over its nationalization of over 130 million dollars of assets. [ENG.GetLeader] has stated that "It does not matter if America is with us or against us, the United Kingdom will not be pushed around!" Needless to say, it seems Mexico is in a very tough spot."
+ mexico_pemex.8.d:0	"The United Kingdom has declared a state of war on Mexico, over its nationalization of over 130 million dollars of assets. [[~ENG.GetLeader~]] has stated that "It does not matter if America is with us or against us, the United Kingdom will not be pushed around!" Needless to say, it seems Mexico is in a very tough spot."
  mexico_pemex.8.a:0	"My God."
  mexico_pemex.8.b:0	"Dios Mio."
 
@@ -250,7 +250,7 @@
  mexico_minor.2.b:0	"Who? What?"
 
  mexico_minor.4.t:0	"Mexico welcomes Spanish intellectuals"
- mexico_minor.4.d:0	"[Root.GetLeader] has announced that he is welcoming the intellectuals that are fleeing the Spanish Civil war into the Mexican university system. A new campus, called "The House of Spain", will let the intellectuals continue their work. The campus was funded by a coalition of banks, federal bureaus, and special interests."
+ mexico_minor.4.d:0	"[[~Root.GetLeader~]] has announced that he is welcoming the intellectuals that are fleeing the Spanish Civil war into the Mexican university system. A new campus, called "The House of Spain", will let the intellectuals continue their work. The campus was funded by a coalition of banks, federal bureaus, and special interests."
  mexico_minor.4.b:0	"Truly a humanitarian act."
  mexico_minor.4.a:0	"Build it, and they will come."
 
@@ -267,9 +267,9 @@
  mexico_article_30.2.c:0	"Expel all lawbreakers"
 
  mexico_article_30.3.t:0	"Intelligence Report: William Jenkins "
- mexico_article_30.3.d:0	"UK diplomats are outraged and call for us to arrest William Jenkins for violating Article 30 of the constitution! They accuse him of tampering with Mexican politics by using his media monopoly to turn Mexicans against  [ENG.getNameDef]. \n\nHowever recent report of the DFS says that Jenkins is linked to Maximino Camacho, and latter is protecting Jenkins politically in exchange for providing business opportunities. Maximino is a known Axis sympathizer, and is said to have a photo of Mussolini hanging over his bed at his mansion in Pueblo. It is obvious that Maximino is using his leverage over Jenkins to stop non-fascist influence from gaining a foothold in Mexico. \n\nPro-UK movies, however, are extremely unpopular within the Mexican audiences and prompted Mexican cinemas to stop showing them in some instances. The decision to allow pro-UK movies would please [ENG.getNameDef], but not the Mexican movie audiences. \n\nThis situation could also be used to expel more than just Jenkins or the [ENG.getAdjective], we would have an excuse to expel all of the lawbreakers in the nation to save face as we would not be laying blame on any one party. What should we do?"
+ mexico_article_30.3.d:0	"UK diplomats are outraged and call for us to arrest William Jenkins for violating Article 30 of the constitution! They accuse him of tampering with Mexican politics by using his media monopoly to turn Mexicans against  [[~ENG.getNameDef~]]. \n\nHowever recent report of the DFS says that Jenkins is linked to Maximino Camacho, and latter is protecting Jenkins politically in exchange for providing business opportunities. Maximino is a known Axis sympathizer, and is said to have a photo of Mussolini hanging over his bed at his mansion in Pueblo. It is obvious that Maximino is using his leverage over Jenkins to stop non-fascist influence from gaining a foothold in Mexico. \n\nPro-UK movies, however, are extremely unpopular within the Mexican audiences and prompted Mexican cinemas to stop showing them in some instances. The decision to allow pro-UK movies would please [[~ENG.getNameDef~]], but not the Mexican movie audiences. \n\nThis situation could also be used to expel more than just Jenkins or the [[~ENG.getAdjective~]], we would have an excuse to expel all of the lawbreakers in the nation to save face as we would not be laying blame on any one party. What should we do?"
  mexico_article_30.3.a:0	"Expel William Jenkins"
- mexico_article_30.3.b:0	"Expel the [ENG.getAdjective]"
+ mexico_article_30.3.b:0	"Expel the [[~ENG.getAdjective~]]"
  mexico_article_30.3.c:0	"Expel all lawbreakers"
 
  mexico_zoot_suit.1.t:0	"Lagoon Trigger"
@@ -483,7 +483,7 @@
 
 
  MEX_maximato_legacy:0	"Maximato Legacy"
- MEX_maximato_legacy_desc:0	"The [ROOT.getAdjective] government is permeated with loyalists to Plutarco Calles, also known as "El Jefe Maximo." He served as Mexican President from 1924-1928 and has been controlling Mexico through proxy presidents and supporters in the PRM. From 1924 up until the 1936, Calles was the one who held the true power in Mexico. This period in Mexican history is known as the Maximato."
+ MEX_maximato_legacy_desc:0	"The [[~ROOT.getAdjective~]] government is permeated with loyalists to Plutarco Calles, also known as "El Jefe Maximo." He served as Mexican President from 1924-1928 and has been controlling Mexico through proxy presidents and supporters in the PRM. From 1924 up until the 1936, Calles was the one who held the true power in Mexico. This period in Mexican history is known as the Maximato."
 
  MEX_recovering_from_maximato:0	"Recovering from Maximato"
 
@@ -492,7 +492,7 @@
  MEX_political_union_support:0	"Political Union Support"
 
  MEX_funding_public_enterprises:0	"Funding Public Enterprises"
- MEX_funding_public_enterprises_desc:0	"[ROOT.getAdjective] is currently redirecting some of the funds available to support the foundation of public services, vastly improving the walfare of the population."
+ MEX_funding_public_enterprises_desc:0	"[[~ROOT.getAdjective~]] is currently redirecting some of the funds available to support the foundation of public services, vastly improving the walfare of the population."
 
  MEX_new_maximato:0	"New Maximato"
 
@@ -511,7 +511,7 @@
 
  #decisions
  MEX_foreign_affairs:0	"Foreign Affairs"
- MEX_invite_FROM_to_the_treaty:0	"Invite [FROM.getNameDef] to the Treaty"
+ MEX_invite_FROM_to_the_treaty:0	"Invite [[~FROM.getNameDef~]] to the Treaty"
  MEX_invite_FROM_to_the_treaty_tt:0	"Unlocks £decision_icon_small to §Yinvite§! independent Latin countries into our alliance!"
 
  #tooltips
@@ -598,41 +598,41 @@
  election_1940:0	"1940 election season"
  riot:0	"Zoot Suit riot happened"
 
- MEX_GATHERING_STORM_DESC:0	"\n\nMexico stands at the closing days of the Maximato, the period when former president Plutarco Elias Calles held the true power in Mexico using right wing loyalists in both politics and the military. Since 1934, Lázaro Cárdenas del Río has waged a political war to end Plutarco's control over the country and enact his own left wing reforms. Mexico stands at a crossroads while the world prepares for war, as the left wing and right wing battle over control of the country's future and where it stands in the coming new world order." #[RECENTLY UPDATED]
- MEX_BLITZKRIEG_DESC:0	"\n\nThe Maximato has ended and Calles is gone, but the battle between the left and right wings is still raging on. Emboldened by the economic hardship caused by the PEMEX embargoes, the right wing have become polarized and now exist in a state of political civil war over who will become the right wing candidate for the presidency next year. The dominant PRI however now rests at a choice between compromising their ideals with the moderate candidate Camacho or double down on the left wing candidate Mugica." #[RECENTLY UPDATED]
+ MEX_GATHERING_STORM_DESC:0	"\n\nMexico stands at the closing days of the Maximato, the period when former president Plutarco Elias Calles held the true power in Mexico using right wing loyalists in both politics and the military. Since 1934, Lázaro Cárdenas del Río has waged a political war to end Plutarco's control over the country and enact his own left wing reforms. Mexico stands at a crossroads while the world prepares for war, as the left wing and right wing battle over control of the country's future and where it stands in the coming new world order." #[[~RECENTLY UPDATED~]]
+ MEX_BLITZKRIEG_DESC:0	"\n\nThe Maximato has ended and Calles is gone, but the battle between the left and right wings is still raging on. Emboldened by the economic hardship caused by the PEMEX embargoes, the right wing have become polarized and now exist in a state of political civil war over who will become the right wing candidate for the presidency next year. The dominant PRI however now rests at a choice between compromising their ideals with the moderate candidate Camacho or double down on the left wing candidate Mugica." #[[~RECENTLY UPDATED~]]
 
  POLITICS_DIONISIO_ENCINA_DESC:0	"Dionisio was described as a polarizing figure, and historians were often found to have very little positive things to say about his leadership. Dionisio was responsible for the fracturing of the largest Mexican communist party, the PCM. He was backed by Soviet agents in charge of spreading communism in Mexico and never acted unless ordered to, and feared that his Soviet handlers would find a more suitable leader for the PCM. This fear caused him to purge anyone who had better leadership skills or charisma from the PCM out of fear that he would be replaced by them, leaving the PCM with a severe lack of good leadership and proactive thinking."
 
 # New monarchist focuses
 
 MEX_rally_the_monarchists:0	"Rally the Monarchists"
-MEX_rally_the_monarchists_desc:0	"Imperial nostalgia has been seing a rise in [MEX.GetNameDef]. With continious political instability in our country it may be overdue to look back to the ways of the old."
+MEX_rally_the_monarchists_desc:0	"Imperial nostalgia has been seing a rise in [[~MEX.GetNameDef~]]. With continious political instability in our country it may be overdue to look back to the ways of the old."
 MEX_royalist_coup:0	"Royalist Coup"
 MEX_royalist_coup_desc:0	"The time is now, there is popular support for the restoration of María Josepha Sophia de Iturbide to her rightful place as the Empress of Mexico. The house of House of Iturbide will be glorious again!"
 MEX_formalize_church_land_rights:0	"Formalize Church Land Rights"
-MEX_formalize_church_land_rights_desc:0	"[ROOT.GetLeader], a devout catholic, understands more than most the importance of securing land rights for the church in her country. We shall take steps to formalize their situation, and have its support."
+MEX_formalize_church_land_rights_desc:0	"[[~ROOT.GetLeader~]], a devout catholic, understands more than most the importance of securing land rights for the church in her country. We shall take steps to formalize their situation, and have its support."
 MEX_papal_blessing_of_the_empress:0	"Papal Blessing"
 MEX_papal_blessing_of_the_empress_desc:0	"A formal blessing by the Pope himself will surely quell any remaining question of the Empress's legitimacy in the eyes of the church."
-MEX_support_the_spanish_carlists:0	"Support the [SPB.GetAdjective] Carlists"
+MEX_support_the_spanish_carlists:0	"Support the [[~SPB.GetAdjective~]] Carlists"
 MEX_support_the_spanish_carlists_desc:0	""
 MEX_focus_soldaderas_2:0	"Soldaderas"
-MEX_focus_soldaderas_2_desc:0	"[ROOT.GetAdjective] society is changing. With the gracious Empress acting as a great unifier, woman are rapidly rising in the ranks of society. As such, there have a large increase of female volunteers in the army, many of whom have even reached officer status."
+MEX_focus_soldaderas_2_desc:0	"[[~ROOT.GetAdjective~]] society is changing. With the gracious Empress acting as a great unifier, woman are rapidly rising in the ranks of society. As such, there have a large increase of female volunteers in the army, many of whom have even reached officer status."
 MEX_reform_the_imperial_army:0	"Reform the Imperial Army"
-MEX_reform_the_imperial_army_desc:0	"Though the imperial army from 1864 to 1867 under Maximilian I was fundamentally weak and ineffective, it serves as a great founding-point for a modern [ROOT.GetAdjective] imperial army. This time, it will be stronger than ever."
+MEX_reform_the_imperial_army_desc:0	"Though the imperial army from 1864 to 1867 under Maximilian I was fundamentally weak and ineffective, it serves as a great founding-point for a modern [[~ROOT.GetAdjective~]] imperial army. This time, it will be stronger than ever."
 MEX_navy_fit_for_an_empress:0	"Navy Fit for an Empress"
 MEX_navy_fit_for_an_empress_desc:0	"As Empress of a vast empire, it is only natural to have a prestigious fleet to accompany that."
 MEX_legacy_of_1864:0	"Legacy of 1864"
-MEX_legacy_of_1864_desc:0	"If it were not for the [FRA.GetAdjective] intervention in 1863, Maximilian I would of not had the chance to have restored imperial authority to [ROOT.GetNonIdeologyName]. Thus, with our new found strength in empire it would only be natural for us to rekindle our relationship with our once backer."
+MEX_legacy_of_1864_desc:0	"If it were not for the [[~FRA.GetAdjective~]] intervention in 1863, Maximilian I would of not had the chance to have restored imperial authority to [[~ROOT.GetNonIdeologyName~]]. Thus, with our new found strength in empire it would only be natural for us to rekindle our relationship with our once backer."
 MEX_mimic_the_grande_armee:0	"Mimic the Grande Armée"
 MEX_mimic_the_grande_armee_desc:0	"Throughout recent history, the Grande Armée has repeatedly proved itself as an effective fighting force. If we were to improve our own capabilities, then we could have much to learn from it."
 MEX_the_new_continental_system:0	"The New Continental System"
 MEX_the_new_continental_system_desc:0	""
 MEX_legacy_of_new_spain:0	"Legacy of New Spain"
-MEX_legacy_of_new_spain_desc:0	"Though the memories of [SPB.GetAdjective] colonization over our homeland is not always a pleasnt one, it cannot be denied that much prestige came from the jewel of the [SPB.GetAdjective] Empire. Though it will obviously not be the same, we can bring back some old traditions in a formal alliance with our former overlords."
+MEX_legacy_of_new_spain_desc:0	"Though the memories of [[~SPB.GetAdjective~]] colonization over our homeland is not always a pleasnt one, it cannot be denied that much prestige came from the jewel of the [[~SPB.GetAdjective~]] Empire. Though it will obviously not be the same, we can bring back some old traditions in a formal alliance with our former overlords."
 MEX_restore_the_viceroyalty_system:0	"Restore the Viceroyalty System"
 MEX_restore_the_viceroyalty_system_desc:0	"The viceroyalty system, despite its flaws, was mutually benefitial on many levels. Now that we have allied with our former overlords, we should seek a neo-restoration of this system."
-MEX_new_mexican_empire:0	"New [ROOT.GetAdjective] Empire"
-MEX_new_mexican_empire_desc:0	"Our fate is the destiny of [ROOT.GetNameDef], and ours alone. We shall set a course that does not tie us to the woes of the old, as we are a new empire, stronger than ever."
+MEX_new_mexican_empire:0	"New [[~ROOT.GetAdjective~]] Empire"
+MEX_new_mexican_empire_desc:0	"Our fate is the destiny of [[~ROOT.GetNameDef~]], and ours alone. We shall set a course that does not tie us to the woes of the old, as we are a new empire, stronger than ever."
 MEX_reconquer_the_viceroys:0	"Reconquer the Viceroys"
 MEX_reconquer_the_viceroys_desc:0	""
 MEX_reconquer_the_west_indies:0	"Reconquer the West Indies"
