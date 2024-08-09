@@ -1,1 +1,7 @@
 ﻿l_german:
+ gwtank_chassis:1 "Panzerfahrgestell der I.W.-Ära"
+ improved_light_tank_chassis:1 "Verbessertes leichtes Panzerfahrgestell"
+ improved_light_tank_chassis_short:1 "1937 leicht"
+ improved_light_tank_chassis_desc:1 "Eine Weiterentwicklung, die auf den Erfahrungen mit den früheren leichten Panzern basiert. Dieses Fahrgestell ermöglicht eine bessere Zuverlässigkeit und Wartung."
+ super_heavy_tank_chassis:1 "1943 Überschweres Fahrgestell"
+ main_battle_tank_chassis:1 "1945 Modern"

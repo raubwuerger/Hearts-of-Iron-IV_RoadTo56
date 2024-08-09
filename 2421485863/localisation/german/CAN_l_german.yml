@@ -1,1 +1,991 @@
 ﻿l_german:
+ # characters ""
+ CAN_john_buchan:0 "John Buchan"
+ CAN_christopher_vokes:0 "Christopher Vokes"
+ CAN_eedson_burns:0 "Eedson Burns"
+ CAN_arthur_potts:0 "Arthur Potts"
+ CAN_rollo_mainguy:0 "Rollo Mainguy"
+ CAN_frank_houghton:0 "Frank Houghton"
+ CAN_guy_simonds:0 "Guy Granville Simonds"
+
+ #Why is there not a localization for this in the game??? ""
+ radar_tech_research:0 "Radar-Forschungsgeschwindigkeit"
+
+ #Scarborough's General Engineering Company: mines, ammunition factory event airports ""
+ CAN_dollar_a_year_men_idea:0 "Dollar-a-Year-Männer"
+ CAN_henry_angus:0 "Henry Angus"
+
+ CAN_canadian_pacific_railway:0 "Kanadische Pazifik-Eisenbahn"
+ CAN_montreal_locomotive_works:0 "Montrealer Lokomotivwerke"
+ CAN_dominion_foundries:0 "Dominion Gießereien"
+ CAN_northern_electric:0 "Northern Electric"
+ CAN_stelco:0 "Stelco"
+ CAN_gm_of_canada:0 "General Motors von Kanada"
+ CAN_ford:0 "Ford Motor Gesellschaft"
+ CAN_sorel_industries:0 "Sorel-Industrie"
+ CAN_canadian_power_boat_company:0 "Kanadische Motorboot-Gesellschaft"
+ CAN_marine_industries:0 "Marine-Industrie"
+ CAN_davie_shipbuilding:0 "Davie Schiffbau"
+ pratt_and_whitney:0 "Pratt & Whitney"
+ CAN_boeing_of_canada:0 "Boeing aus Kanada"
+ CAN_victory_aircraft:0 "Victory-Flugzeug"
+ CAN_canadair:0 "Canadair"
+ CAN_sorel_steel_and_foundries:0 "Sorel Stahl und Gießereien"
+ CAN_canadian_pacific_railway_organization:0 "Kanadische Pazifikbahn - Angus-Werkstätten"
+ CAN_montreal_locomotive_works_organization:0 "Montrealer Lokomotivwerk"
+ CAN_ernest_james_renaud:0 "Ernest James Renaud"
+ CAN_leonard_w_murray:0 "Leonard W. Murray"
+
+ QBC_generic_electronics_concern:0 "Kanadische Marconi Ltd."
+
+
+
+ #Ideas ""
+ CAN_patriation:0 "Patriation"
+
+ CAN_swastika_clubs:0 "Hakenkreuzvereine"
+ CAN_swastika_clubs_desc:0 "Viele Kanadier wenden sich den Hakenkreuzvereinen zu, um die Ideen und Ideale des Faschismus zu fördern. Faszinierend!"
+
+ r56_CAN_great_depression_01:0 "Die große Depression"
+ r56_CAN_great_depression_02:0 "Die große Depression"
+ r56_CAN_great_depression_03:0 "Die große Depression"
+ r56_CAN_great_depression_04:0 "Die große Depression"
+ r56_CAN_great_depression_04:0 "Die Große Depression"
+
+ r56_CAN_royal_twenty_centers:0 "[[~Root.GetTwentyCentersName~]]"
+ r56_CAN_royal_twenty_centers_desc:0 "Aufgrund der [~§Y~]Großen Depression[~§!~] genehmigte die Regierung ein umstrittenes landesweites System von Lagern, um alleinstehenden, arbeitslosen, obdachlosen [[~CAN.GetAdjective~]]-Männern Arbeit zu geben. Sie werden wegen ihres Lohns von 20 Cents pro Tag "Royal Twenty Centers" genannt. Sie arbeiten viele Stunden pro Woche für einen winzigen Lohn, und ihre Arbeitsmoral ist nicht besonders gut. Diese Lager sind für mehrere Unruhen verantwortlich, und es könnte in Zukunft zu weiteren kommen, wenn wir sie nicht schließen.[~[~\n~][~\n~]~][~§Y~]Kann in Zukunft zu Unruhen führen."
+ R56_CAN_TWENTY_CENTERS_ROYAL:0 "Königliche zwanzig Zentren"
+ R56_CAN_TWENTY_CENTERS:0 "Die Zwanzig Zentren"
+
+ r56_CAN_royal_twenty_centers_angered:0 "[[~Root.GetTwentyCentersAngeredName~]]"
+ r56_CAN_royal_twenty_centers_angered_desc:0 "Aufgrund der [~§Y~]Großen Depression[~§!~] genehmigte die Regierung ein umstrittenes landesweites System von Lagern, um alleinstehenden, arbeitslosen, obdachlosen [[~CAN.GetAdjective~]]-Männern Arbeit zu geben. Sie werden wegen ihres Lohns von 20 Cents pro Tag "Royal Twenty Centers" genannt. Sie arbeiten viele Stunden pro Woche für einen winzigen Lohn, und ihre Arbeitsmoral ist nicht besonders gut. Diese Lager sind für mehrere Aufstände verantwortlich, und es könnte in Zukunft noch mehr davon geben, wenn wir sie nicht schließen.[~[~\n~][~\n~]Aufgrund der Gewalt, die angewandt wurde, um ihren Aufstand zu beenden, sind die Zwanzig Zentren wütender als zuvor. [~§R~]Kann in Zukunft zu schweren Unruhen führen[~§!~]"
+ R56_CAN_TWENTY_CENTERS_ROYAL_ANGERED:0 "Königliche Zwanzig Zentren"
+ R56_CAN_TWENTY_CENTERS_ANGERED:0 "Die Zwanzig Zentren"
+
+ r56_CAN_royal_twenty_centers_compensated:0 "Entschädigt die Krawallmacher"
+
+ r56_CAN_the_big_cut_01:0 "Der große Schnitt"
+ r56_CAN_the_big_cut_01_desc:0 "Das [[~CAN.GetAdjective~]]-Militär hat in den letzten Jahren starke Budgetkürzungen hinnehmen müssen. Dies wirkt sich auf die Ausbildung unserer Truppen und die Rüstungsproduktion aus, bis wir es schaffen, unser Budget zu erhöhen."
+ r56_CAN_the_big_cut_02:0 "Die große Kürzung"
+ r56_CAN_the_big_cut_02_desc:0 "Das [[~CAN.GetAdjective~]]-Militär hat in den letzten Jahren starke Budgetkürzungen hinnehmen müssen. Dies wirkt sich auf die Ausbildung unserer Truppen und die Rüstungsproduktion aus, bis es uns gelingt, unser Budget zu erhöhen."
+
+ r56_CAN_nonindependent_airforce_01:0 "Unselbstständige Luftwaffe"
+ r56_CAN_nonindependent_airforce_01_desc:0 "Die [[~CAN.GetAdjective~]] Luftwaffe ist an die Armee gebunden und gilt nicht als unabhängige Organisation."
+ r56_CAN_nonindependent_airforce_02:0 "Nicht-unabhängige Luftwaffe"
+ r56_CAN_nonindependent_airforce_02_desc:0 "Die [[~CAN.GetAdjective~]] Luftwaffe ist an das Heer gebunden und gilt nicht als unabhängige Organisation."
+
+ r56_CAN_dollar_a_year_men_idea:0 "Dollar-a-Year-Männer"
+
+ r56_CAN_cbc_idea:0 "Der CBC"
+
+ r56_CAN_national_housing_act_idea:0 "Nationales Wohnungsbaugesetz"
+
+ r56_CAN_volunteers_01:0 "Freiwillige"
+ r56_CAN_volunteers_02:0 "Freiwillige"
+ r56_CAN_volunteers_03:0 "Freiwillige"
+
+ r56_CAN_wartime_prices_and_trade_board_idea_01:0 "Amt für Preise und Handel in Kriegszeiten"
+
+ r56_CAN_department_of_munitions_and_supply_01:0 "Department of Munitions and Supply (Ministerium für Rüstung und Versorgung)"
+ r56_CAN_department_of_munitions_and_supply_02:0 "Department of Munitions and Supply (Ministerium für Munition und Versorgung)"
+
+ r56_CAN_nrma_idea:0 "Gesetz zur Mobilisierung nationaler Ressourcen"
+
+ r56_CAN_docr_democratic:0 "Vorschriften für die Verteidigung Kanadas"
+ r56_CAN_docr_communism:0 "Vorschriften für die Verteidigung Kanadas (Defence of Canada Regulations)"
+ r56_CAN_docr_fascism:0 "Vorschriften für die Verteidigung Kanadas (Defence of Canada Regulations)"
+
+ r56_CAN_camp_borden_idea:0 "Camp Borden"
+
+ r56_CAN_conscription_forced:0 "Erzwungene Einberufung"
+
+ r56_CAN_fight_the_uboats_idea_01:0 "Kampf gegen die U-Boote"
+ r56_CAN_fight_the_uboats_idea_02:0 "Kampf gegen die U-Boote"
+
+ r56_CAN_merchant_fleet_idea:0 "Die Handelsflotte"
+
+ r56_CAN_wrens_idea:0 "[[~Root.GetWrensName~]]"
+
+ r56_CAN_forge_our_own_future_idea:0 "Schmieden wir unsere eigene Zukunft"
+
+ r56_CAN_cwatp:0 "Der Plan"
+
+ r56_CAN_blue_shirts:0 "Die Blauhemden"
+
+ r56_CAN_one_party_state:0 "Ein Einparteienstaat"
+
+ r56_CAN_influenced_by_canada:0 "Beeinflusst von [[~CAN.GetNameDef~]]"
+
+ r56_CAN_if_day:0 "Wenn der Tag"
+ r56_CAN_if_day_desc:0 "Die simulierte Invasion von [[~CAN.GetNameDef~]] durch [[~GER.GetAdjective~]]-Kräfte, organisiert von Greater Winnipeg Victory Loan, war als Spendensammelaktion für die Kriegsanstrengungen erfolgreich. Die Gelder sollten unsere Wirtschaft eine Zeit lang ankurbeln."
+
+ r56_CAN_interventionism:0 "Interventionismus"
+
+ r56_CAN_CAMP_X_idea:0 "Camp X"
+
+ r56_CAN_grizzly_idea:0 "Der Grizzly"
+
+ r56_CAN_restrict_immigration_idea:0 "Begrenzte Einwanderung"
+
+ r56_CAN_mosleys_ideas:0 "Mosleys Ideen"
+
+ r56_CAN_restructured_government:0 "Umstrukturierte Regierung"
+
+ r56_CAN_anti_communism:0 "Antikommunismus"
+
+ r56_CAN_can_ship_purchases:0 "Bezahlung von Schiffen"
+
+ r56_CAN_reduced_tariffs:0 "Reduzierte Zölle"
+
+ r56_CAN_WCMC:0 "Militärisches Kommando an der Westküste"
+
+ r56_CAN_free_access:0 "Offene Grenzen mit [[~USA.GetNameDef~]]"
+
+ r56_CAN_fighter:0 "Bau von Kampfflugzeugen für das Imperium"
+
+ r56_CAN_canada_united_idea:0 "Kanadier vereint"
+
+ r56_CAN_quebec_conscription_idea:0 "Quebecois Nationalismus"
+
+ r56_CAN_frogmen_idea:0 "Froschmänner"
+
+ r56_CAN_anti_war_policy_idea:0 "Anti-Kriegs-Politik"
+
+ r56_CAN_war_policy_idea:0 "Unterstützung des Krieges"
+
+ r56_CAN_mac_paps_idea:0 "Die Mac-Paps"
+
+ r56_CAN_red_guard:0 "[[~CAN.GetAdjective~]] Rote Garde"
+
+ r56_CAN_workers_rights_idea:0 "Verbesserung der Rechte der Arbeiter"
+
+ r56_CAN_workers_rights_improved:0 "Verbessertes Arbeiterrecht"
+
+ r56_CAN_divided_communists:0 "Gespaltene Kommunisten"
+ r56_CAN_divided_communists_desc:0 "Die kommunistische Partei ist zwischen den prosowjetischen und trotzkistischen Kräften gespalten."
+
+ r56_CAN_YCLOC:0 "Young Communist League of Canada"
+
+ r56_CAN_public_ownership_idea:0 "Kollektivistische Industrie"
+
+ r56_CAN_destroy_imperialism_idea:0 "Zerstört den Imperialismus"
+
+ r56_CAN_new_deal_idea:0 "Angenommene [[~USA.GetAdjective~]] Politiken"
+
+ r56_CAN_intervene_ACW_idea:0 "ACW-Intervention"
+
+ r56_CAN_contact_the_synarchists:0 "Kontakt zu den Synarchisten"
+
+ r56_CAN_post_colonial_rule_idea:0 "Posten [[~ENG.GetAdjective~]] Einflussnahme"
+
+ r56_CAN_self_sufficiency_idea:0 "Selbstversorgung"
+
+ r56_CAN_arms_exports_idea:0 "Waffenexporte"
+
+ r56_CAN_canadian_interventionism_idea:0 "[[~CAN.GetAdjective~]] Interventionismus"
+
+ r56_CAN_canadian_cadet_corps_idea:0 "[[~CAN.GetAdjective~]] Kadettenkorps"
+
+ r56_CAN_the_defense_of_canada_idea:0 "Die Verteidigung Kanadas"
+
+ CAN_degauss_ship_hulls:0 "Schiffsrümpfe entmagnetisieren"
+ CAN_degauss_ship_hulls_desc:0 "Wir werden damit beginnen, unsere Schiffsrümpfe zu entmagnetisieren, um ihre magnetische Signatur zu verringern. Dies schützt sie vor magnetischen Minen und reduziert das elektronische Profil der Schiffe."
+
+ #Ministers ""
+
+ r56_CAN_jack_bickell:0 "Jack Bickell"
+ r56_CAN_william_daum_euler:0 "William Daum Euler"
+ r56_CAN_thomas_crerar:0 "Thomas Crerar"
+ r56_CAN_Arthur_Cardin:0 "Arthur Cardin"
+ r56_CAN_adrien_arcand:0 "Adrien Arcand"
+ r56_CAN_joseph_menard:0 "Joseph Menard"
+ r56_CAN_fred_rose:0 "Fred Rose"
+ r56_CAN_leslie_morris:0 "Leslie Morris"
+ r56_CAN_sam_carr:0 "Sam Carr"
+ r56_CAN_dorise_nielsen:0 "Dorise Nielsen"
+ r56_CAN_j_b_salsberg:0 "J. B. Salsberg"
+ r56_CAN_john_ross_taylor:0 "John Ross Taylor"
+ r56_CAN_leonard_w_murray:0 "Leonard W. Murray"
+
+ #Research And Production ""
+
+ r56_CAN_robert_leckie:0 "Robert Leckie"
+ r56_CAN_gm_croil:0 "George Croil"
+ r56_canadian_car_foundry:0 "Canadian Car and Foundry"
+ r56_fairchild_aircraft_ltd:0 "Fairchild Aircraft Ltd."
+ r56_john_inglis_company:0 "John Inglis und Unternehmen"
+ r56_small_arms_limited:0 "Kleinwaffen Ltd."
+ r56_CAN_imperial_oil_idea:0 "Kaiserliches Öl"
+ r56_CAN_polymer_corporation:0 "Polymer-Gesellschaft"
+ r56_CAN_pjdnb_idea:0 "Permanent Joint Board on Defense"
+ r56_CAN_research_enterprises_ltd:0 "Research Enterprises Ltd."
+ r56_CAN_secure_the_economy_idea:0 "Sicherung der Wirtschaft"
+
+ #Military Staff ""
+
+ #Focuses ""
+ r56_CAN_modernize_industry:0 "Die Industrie modernisieren"
+ r56_CAN_modernize_industry_desc:0 "Unsere industriellen Kapazitäten und Methoden sind in Rückstand geraten; wir müssen aufholen."
+
+ r56_CAN_wheat_board:0 "[[~CAN.GetAdjective~]] Weizenamt"
+ r56_CAN_wheat_board_desc:0 "Die Einrichtung des [[~CAN.GetAdjective~]] Weizenamtes zur Festsetzung der Preise für Weizen und Gerste unserer hart arbeitenden Landwirte wird die Preise stabilisieren und unsere Wirtschaft verbessern."
+
+ r56_CAN_depression_recovery:0 "Die Erholung von der Depression fortsetzen"
+ r56_CAN_depression_recovery_desc:0 "Die Große Depression hat ihren Tribut gefordert; wir müssen unsere Politik weiter anpassen und modifizieren, um den Weg zur Erholung fortzusetzen."
+
+ r56_CAN_national_housing_act:0 "Nationales Wohnungsbaugesetz"
+ r56_CAN_national_housing_act_desc:0 "Die Nachwirkungen der Großen Depression haben viele [[~CAN.GetAdjective~]]s obdachlos und arbeitslos gemacht. Die Verabschiedung von Programmen und Vorschriften zur Instandsetzung und Modernisierung bestehender Häuser und zum Bau neuer Wohnungen wird den Betroffenen helfen, wieder auf die Beine zu kommen."
+
+ r56_CAN_shutdown_relief_camps:0 "Schließung der Hilfslager"
+ r56_CAN_shutdown_relief_camps_desc:0 "Die Hilfslager für Arbeitslose haben sich nicht bewährt; wir sollten sie schließen, bevor es zu weiteren Unruhen kommt."
+
+ r56_CAN_dollar_a_year_men:0 "Dollar-a-Year-Männer"
+ r56_CAN_dollar_a_year_men_desc:0 "Mehrere erfahrene Führungskräfte aus der Wirtschaft haben der Regierung ihre Dienste angeboten, um für einen symbolischen Dollar pro Jahr zu arbeiten. Wir sollten sie in unserem Ministerium für Munition und Versorgung und in der Behörde für Kriegspreise und Handel einsetzen, wo sie der [[~CAN.GetAdjective~]]-Industrie das dringend benötigte Fachwissen zur Mobilisierung der Wirtschaft und Maximierung der Produktion zur Verfügung stellen können."
+
+ r56_CAN_canadian_pacific_railways:0 "Kanadische Pazifik-Eisenbahnen"
+ r56_CAN_canadian_pacific_railways_desc:0 "Die CPR hat ihre Eisenbahnen und Transportmittel für die Kriegsanstrengungen zur Verfügung gestellt. Unsere Truppen und die zu ihrer Versorgung benötigten Güter werden unser großes Dominion zwischen den Meeren und dem Kontinent ohne Verzögerung durchqueren."
+
+ r56_CAN_national_steel_car:0 "Nationaler Stahlwagen"
+ r56_CAN_national_steel_car_desc:0 "Trotz der Depression, die dem Unternehmen zu schaffen macht, steht National Steel Car mit seinem Fachwissen und seiner Erfahrung bereit, die Fahrzeuge zu bauen, die unsere Truppen und die Ausrüstung der Armee auf den ausgebauten Eisenbahnen transportieren werden."
+
+ r56_CAN_cbc_focus:0 "Die CBC"
+ r56_CAN_cbc_focus_desc:0 "Die Canadian Broadcasting Corporation ist das nationale Rundfunknetz, das als Regulierungsbehörde für den Rundfunk in [[~CAN.GetNameDef~]] dient. Wenn wir sie nutzen, um unsere Botschaften über nationale Politik und Programme zu verbreiten, wird das Vertrauen der Öffentlichkeit in unsere Regierung gestärkt."
+
+ r56_CAN_bank_of_canada:0 "Verstaatlichung der Bank of Canada"
+ r56_CAN_bank_of_canada_desc:0 "Die Notwendigkeit einer zentralen Bankbehörde wird nach der Großen Depression immer dringender, und durch ihre Verstaatlichung können wir die Staatsfinanzen direkt verwalten und die Wirtschaft verbessern."
+
+ r56_CAN_john_inglis_company:0 "John Inglis und Co."
+ r56_CAN_john_inglis_company_desc:0 "Die Firma John Inglis and Company, die während der Großen Depression in Schwierigkeiten geriet, war lange Zeit ein wesentlicher Bestandteil unserer nationalen Produktionskapazitäten. Wir sollten sie anweisen, neue Maschinengewehre und Artillerie für die Bewaffnung unserer Truppen zu produzieren."
+
+ r56_CAN_national_railway:0 "Ausbau des Eisenbahnnetzes in Québec"
+ r56_CAN_national_railway_desc:0 "Bemühungen zur Verbesserung der Infrastruktur und des Eisenbahnnetzes in Québec können das industrielle Wachstum ankurbeln."
+
+ r56_CAN_research_grants:0 "Zuschüsse für die Forschung"
+ r56_CAN_research_grants_desc:0 "Mit unseren stark erweiterten Industrie- und Produktionskapazitäten ist es nun möglich, dass mehr Wissenschaftler und Innovatoren mehr einheimische Forschungs- und Entwicklungsprojekte durchführen."
+
+ r56_CAN_debt_adjustment_act:0 "Schuldenbereinigungsgesetz"
+ r56_CAN_debt_adjustment_act_desc:0 "Unter den [[~CAN.GetAdjective~]]-Bauern ist eine besorgniserregende Welle von Insolvenzen und Schulden zu verzeichnen. Es liegt im Interesse von [[~CAN.GetNameDef~]], diese Landwirte zu unterstützen, damit sie auch in Zukunft ihr Land bewirtschaften können."
+
+ r56_CAN_alcan:0 "Aluminium Company of Canada"
+ r56_CAN_alcan_desc:0 "Aluminium ist leicht und rostfrei. Durch die Ausweitung des Abbaus und der Produktion von Aluminium können wir unsere Fabriken und Fließbänder kontinuierlich versorgen."
+
+ r56_CAN_imperial_oil_focus:0 "Erweiterung der Darthmouth-Raffinerie"
+ r56_CAN_imperial_oil_focus_desc:0 "Während des letzten Konflikts war in Dartmouth eine Ölraffinerie in Betrieb, die unseren Ölbedarf deckte. Der Ausbau dieser Anlage ist unerlässlich, um die unvermeidlichen Konvoiüberfahrten über den Nordatlantik zu ermöglichen."
+
+ r56_CAN_establish_the_polymer_corporation:0 "Gründung der Polymer Corporation"
+ r56_CAN_establish_the_polymer_corporation_desc:0 "Wenn unser Zugang zu Naturkautschuk abgeschnitten ist, müssen wir unsere Kapazitäten zur Herstellung und Veredelung von synthetischem Kautschuk ausbauen, der in allen Bereichen von Reifen bis zu Flugzeugteilen verwendet wird."
+
+ r56_CAN_uranium_mining:0 "Uranabbau"
+ r56_CAN_uranium_mining_desc:0 "Ein bestimmtes Erz, das in [[~CAN.GetNameDef~]] abgebaut wird, ist der Schlüssel zu Waffen mit unglaublichem Zerstörungspotenzial. Wir werden die Initiative ergreifen, um diese Ressource bis zu ihrem maximalen Potenzial auszubeuten."
+
+ r56_CAN_resources_for_war_effort:0 "Ressourcen für die Kriegsanstrengungen"
+ r56_CAN_resources_for_war_effort_desc:0 "Kontinuierliche Verbesserungen der Methoden zur Ressourcengewinnung ermöglichen uns eine effizientere Gewinnung."
+
+ r56_CAN_enlist_the_unemployed:0 "Arbeitslose rekrutieren"
+ r56_CAN_enlist_the_unemployed_desc:0 "Die Frage des Militärdienstes ist nach wie vor ein heikles Thema unter [[~CAN.GetAdjective~]]s. Um den Bedarf unserer Streitkräfte an Arbeitskräften auszugleichen und eine Spaltung der [[~CAN.GetNameDef~]]s in dieser Frage zu vermeiden, werden wir Arbeitslosen Anreize bieten, sich zu melden, und ihnen versichern, dass wir sie nicht nach Übersee schicken werden."
+
+ r56_CAN_war_economy:0 "Auf den Krieg ausgerichtete Wirtschaft"
+ r56_CAN_war_economy_desc:0 "Unsere Industrie und ihre Fabriken haben sich von den schlimmsten Zeiten der Großen Depression erholt. Es ist an der Zeit, sie auf die Produktion von Rüstungsgütern auszurichten, um uns und unsere Verbündeten mit allem auszustatten, was sie in diesem Konflikt benötigen könnten."
+
+ r56_CAN_war_measures_act:0 "Wiedereinführung des War Measures Act"
+ r56_CAN_war_measures_act_desc:0 "Der War Measures Act legt die Notmaßnahmen fest, die wir im Falle einer Kriegserklärung, einer Invasion oder eines Aufstandes ergreifen können."
+
+ r56_CAN_wartime_prices_and_trade_board:0 "Amt für Preise und Handel in Kriegszeiten"
+ r56_CAN_wartime_prices_and_trade_board_desc:0 "Das Wartime Prices and Trade Board ist die erste Verteidigungslinie gegen Inflation und soziale Unruhen in [[~CAN.GetNameDef~]]. Um Profitmacherei und Horten zu verhindern, wurden Preiskontrollen eingeführt, um Waren für die meisten [[~CAN.GetAdjective~]]s verfügbar zu machen."
+
+ r56_CAN_nrma:0 "National Resources Mobilisation Act"
+ r56_CAN_nrma_desc:0 "Kanada ist groß, und die Bevölkerung ist über das ganze Land verstreut. Wir sollten ein System entwickeln, um den Beschäftigungsstatus zu verfolgen und sicherzustellen, dass wir jeden ausfindig machen können, der für den Dienst in Übersee in Frage kommt."
+
+ r56_CAN_conscription_crisis:0 "Zwangsweise Einberufung"
+ r56_CAN_conscription_crisis_desc:0 "Wie schon 1917 wehren sich unsere frankokanadischen Bürger in Québec gegen die Idee einer nationalen Wehrpflicht, um mehr Männer in die Armee zu bringen. Wir werden nicht tatenlos zusehen, wie sich eine Minderheit dem Willen des [[~CAN.GetNameDef~]] widersetzt."
+
+ r56_CAN_replace_men_in_the_industry:0 "Ersetzen Sie Männer in der Industrie durch Frauen"
+ r56_CAN_replace_men_in_the_industry_desc:0 "Während unsere Männer für den Dienst im Ausland gebraucht werden, benötigt unsere Industriemaschinerie immer noch Arbeitskräfte, um zu funktionieren. Vielleicht ist es jetzt an der Zeit, dass die Frauen ihren Teil für das Land beitragen, indem sie die Rüstungsgüter herstellen, die diese Männer bald benutzen werden."
+
+ r56_CAN_department_of_munitions_and_supply:0 "Abteilung für Rüstung und Versorgung"
+ r56_CAN_department_of_munitions_and_supply_desc:0 "Die Produktion von Rüstungsgütern und Ausrüstungsgegenständen ist für die Kriegsanstrengungen unabdingbar. Wir werden die nationalen Ressourcen von [[~CAN.GetNameDef~]] unter C.D. Howe im Ministerium für Munition und Versorgung zusammenfassen."
+
+ r56_CAN_bits_and_pieces_program:0 "Bits and Pieces Programm"
+ r56_CAN_bits_and_pieces_program_desc:0 "Das "Bits and Pieces"-Programm wird mehrere kleine Fabriken, die sich der Herstellung kleinerer Konsumgüter verschrieben haben, für die Kriegsanstrengungen mobilisieren. Selbst die bescheidene Fahrradfabrik kann die Kapazität zur Herstellung eines Maschinengewehrs finden."
+
+ r56_CAN_nrc_expansion:0 "Ausweitung des Nationalen Forschungsrats"
+ r56_CAN_nrc_expansion_desc:0 "Der NRC hat seine Wirksamkeit bei der Verbesserung der Lebensqualität in Kanada unter Beweis gestellt. Mit einer Geschichte der Wissenschaft und des Fortschritts ist der Bedarf an Forschern heute größer denn je. Es ist an der Zeit, dem NRC mehr Gewicht zu verleihen, um [[~CAN.GetNameDef~]] zu verteidigen."
+
+ r56_CAN_defence_of_canada_regulations:0 "Verteidigung der kanadischen Vorschriften"
+ r56_CAN_defence_of_canada_regulations_desc:0 "In Kriegszeiten müssen die Bürgerrechte beschnitten werden, um eine Unterwanderung der Kriegsanstrengungen zu verhindern. Dies bedeutet Einschränkungen für die Presse, Dissidentengruppen und gesetzliche Rechte."
+
+ r56_CAN_british_designs:0 "[[~Root.GetBritishDesignsName~]]"
+ r56_CAN_british_designs_desc:0 "[[~Root.GetBritishDesignsDesc~]]"
+ R56_CAN_ENG_KEY:0 "[[~ENG.GetAdjective~]] Designs"
+ R56_CAN_FREE_KEY:0 "Unsere Designs"
+ R56_CAN_SOV_KEY:0 "[[~SOV.GetAdjective~]] Designs"
+ R56_CAN_USA_KEY:0 "[[~USA.GetAdjective~]] Designs"
+ R56_CAN_GER_KEY:0 "[[~GER.GetAdjective~]] Designs"
+ R56_CAN_ENG_DESC_KEY:0 "Wir sollten [[~ENG.GetAdjective~]]-Designs für unsere Infanterie- und Artilleriewaffen importieren und verwenden."
+ R56_CAN_FREE_DESC_KEY:0 "Wir sollten unsere Infanterie- und Artilleriewaffen entwerfen."
+ R56_CAN_SOV_DESC_KEY:0 "Wir sollten [[~SOV.GetAdjective~]]-Designs für unsere Infanterie- und Artilleriewaffen importieren und verwenden."
+ R56_CAN_USA_DESC_KEY:0 "Wir sollten [[~USA.GetAdjective~]]-Designs für unsere Infanterie- und Artilleriewaffen importieren und verwenden."
+ R56_CAN_GER_DESC_KEY:0 "Wir sollten [[~GER.GetAdjective~]]-Designs für unsere Infanterie- und Artilleriewaffen importieren und verwenden."
+
+ r56_CAN_army_modernisation:0 "Modernisierung der Armee"
+ r56_CAN_army_modernisation_desc:0 "Zu lange in unserem feuerfesten Haus, weit weg von brennbaren Materialien, hat Kanada seine Armee mit veralteter Ausrüstung und Ausbildung auskommen lassen. Wir müssen mit der Modernisierung vorankommen, bevor es zu spät ist."
+
+ r56_CAN_increase_budget:0 "Den Militärhaushalt aufstocken"
+ r56_CAN_increase_budget_desc:0 "Wir haben unseren Streitkräften zu lange die Mittel für die Modernisierung ihrer Ausrüstung und die Durchführung von Übungen vorenthalten. Angesichts des sich abzeichnenden Konflikts ist es an der Zeit, sich mit allen Mitteln vorzubereiten."
+
+ r56_CAN_increase_budget_more:0 "Militärhaushalt weiter aufstocken"
+ r56_CAN_increase_budget_more_desc:0 "Da die Spannungen auf der ganzen Welt zunehmen, ist es eine umsichtige Maßnahme, weiterhin in die Sicherheit von [[~CAN.GetNameDef~]] zu investieren."
+
+ r56_CAN_cmp_truck:0 "CMP Truck"
+ r56_CAN_cmp_truck_desc:0 "[[~CAN.GetNameDef~]] verfügt über eine bedeutende Automobilindustrie, die in der Lage ist, große Mengen an Kraftfahrzeugen zu produzieren, die für unsere Streitkräfte von Nutzen sein werden. Unser CMP-Truck-Design ist vielseitig und für viele Klimazonen und Geländeformen geeignet."
+
+ r56_CAN_valentine_tank:0 "Der Valentine-Panzer"
+ r56_CAN_valentine_tank_desc:0 "Wir haben eine Lizenz zur Herstellung des Valentine-Panzers erhalten, eines robusten mittleren Panzers mit [[~ENG.GetAdjective~]]-Design."
+
+ r56_CAN_retool_angus_shops:0 "Umrüstung der CPR Angus Shops"
+ r56_CAN_retool_angus_shops_desc:0 "Die Angus Shops waren bekannt für die Herstellung, Reparatur und den Verkauf von Eisenbahnwaggons für die CPR. Mit ein wenig Investition und Umrüstung können wir ihre Einrichtungen und ihr Fachwissen nutzen, um Panzer zu bauen, die unsere moderne mechanisierte Armee dringend benötigt."
+
+ r56_CAN_canadian_armoured_corps:0 "[[~Root.GetArmouredCorpsName~]]"
+ r56_CAN_canadian_armoured_corps_desc:0 "Unsere Automobilindustrie verfügt inzwischen über genügend Erfahrung in der Herstellung gepanzerter Fahrzeuge. Wir können uns nun an einheimischen Konstruktionen versuchen, um unser gepanzertes Korps auszurüsten."
+ R56_CAN_ARMOURED_CORPS:0 "[[~CAN.GetAdjective~]] Panzerkorps"
+ R56_CAN_ARMOURED_CORPS_ROYAL:0 "Königliches [[~CAN.GetAdjective~]] Panzerkorps"
+
+ r56_CAN_kangaroo:0 "Das Känguru"
+ r56_CAN_kangaroo_desc:0 "Trotz der beeindruckenden Feuerkraft, die ein Panzer haben kann, ist er ohne Infanterieunterstützung verwundbar. Glücklicherweise ist es möglich, unsere Truppen mit diesen schnellen gepanzerten Fahrzeugen zu transportieren, um Ziele zu erobern und gleichzeitig die Panzer zu unterstützen. Wir brauchen die Genehmigung, um mit dem Bau dieser Fahrzeuge zu beginnen."
+
+ r56_CAN_the_ram:0 "Der Rammbock"
+ r56_CAN_the_ram_desc:0 "Wir haben von unserem südlichen Nachbarn Konstruktionsentwürfe für den Bau einer lokalen Variante eines zuverlässigen und angemessen gepanzerten Panzers erhalten."
+
+ r56_CAN_royal_canadian_artillery:0 "[[~Root.GetArtilleryCorpsName~]]"
+ r56_CAN_royal_canadian_artillery_desc:0 "Trotz des Mangels an modernen Kanonen müssen wir damit beginnen, unsere Artilleristen für einen modernen Krieg auszubilden, einschließlich Taktiken für den Einsatz von Flugabwehrkanonen und neuen 25-Pfündern."
+ R56_CAN_ARTILLERY_CORPS:0 "[[~CAN.GetAdjective~]] Artillerie"
+ R56_CAN_ARTILLERY_CORPS_ROYAL:0 "Königliche [[~CAN.GetAdjective~]] Artillerie"
+
+ r56_CAN_royal_canadian_corps_of_signals:0 "[[~Root.GetSignalCorpsName~]]"
+ r56_CAN_royal_canadian_corps_of_signals_desc:0 "[[~Root.GetSignalCorpsDesc~]]"
+ R56_CAN_SIGNAL_CORPS:0 "[[~CAN.GetAdjective~]] Signalkorps"
+ R56_CAN_SIGNAL_CORPS_ROYAL:0 "Königliches [[~CAN.GetAdjective~]] Corps of Signals"
+ R56_CAN_SIGNAL_CORPS_DESC:0 "Das kanadische Signalkorps wurde 1903 gegründet und sollte sich nach der Erfindung des Walkie-Talkies als noch hilfreicher erweisen."
+ R56_CAN_SIGNAL_CORPS_ROYAL_DESC:0 "Das Royal Canadian Corps of Signals wurde 1903 gegründet und sollte sich nach der Erfindung des Walkie-Talkies als noch hilfreicher erweisen."
+
+ r56_CAN_small_arms_limited:0 "Kleinwaffen Ltd."
+ r56_CAN_small_arms_limited_desc:0 "Wir haben uns die finanziellen Mittel und das im Ausland ausgebildete Personal für die Herstellung von Feuerwaffen gesichert. Um unseren Bedarf an Infanteriewaffen zu decken, wird das Unternehmen mit dem passenden Namen über das Land und die Infrastruktur zu deren Herstellung verfügen."
+
+ r56_CAN_camp_borden:0 "Lager Borden"
+ r56_CAN_camp_borden_desc:0 "Während des Ersten Weltkriegs wurde Camp Borden für die Ausbildung der kanadischen Expeditionsstreitkräfte genutzt. Die Erweiterung des Geländes für die Ausbildung unseres Panzerkorps und der Infanterie ist der erste Schritt, um die Effizienz unserer Truppen im Einsatz zu erhöhen."
+
+ r56_CAN_land_mattress:0 "Die Landmatratze"
+ r56_CAN_land_mattress_desc:0 "Diese treffend benannten Geräte bombardieren ein Gebiet mit Raketen, die über eine größere Reichweite abgefeuert werden und mehr Sprengkraft haben als normale Artillerie."
+
+ r56_CAN_first_special_service_force:0 "Erste Sondereinsatztruppe"
+ r56_CAN_first_special_service_force_desc:0 "Für "unkonventionelle" und gefährliche Einsätze muss eine spezielle Kommandoeinheit zur Verfügung stehen. Wir werden eine solche Truppe mit Hilfe unserer Verbündeten aufstellen."
+
+ r56_CAN_walkie_talkie:0 "Walkie-Talkie"
+ r56_CAN_walkie_talkie_desc:0 "Donald Hings hat ein neues tragbares Zwei-Wege-Kommunikationsgerät erfunden und patentieren lassen, das mit Funkwellen arbeitet. Dies wird die Kommunikation und die Zielerfassung erheblich verbessern."
+
+ r56_CAN_start_the_expansion_of_the_rcaf:0 "[[~Root.GetRCAFArmamentName~]]"
+ r56_CAN_start_the_expansion_of_the_rcaf_desc:0 "Kanadas Fliegerkorps ist die jüngste Abteilung der kanadischen Streitkräfte. Wir sollten eine neue Generation von Piloten ausbilden, um uns auf kommende Konflikte vorzubereiten."
+ R56_CAN_RCAF:0 "Starten Sie den Ausbau der RCAF"
+ R56_CAN_CAF:0 "Beginn des Ausbaus der CAF"
+
+ r56_CAN_western_air_command:0 "Westliches Luftkommando"
+ r56_CAN_western_air_command_desc:0 "Die westliche Hemisphäre ist dünn besiedelt und lässt sich nur schwer mit Patrouillen abdecken. Wir werden uns auf Frühwarnsysteme wie eine Kette von Radarstationen verlassen müssen, um alles Ungewöhnliche zu erkennen, das über den Pazifik kommt."
+
+ r56_CAN_hurricane:0 "Der Wirbelsturm"
+ r56_CAN_hurricane_desc:0 "[[~ENG.GetNameDefCap~]] hat uns erlaubt, eine Reihe von Hurricane-Jägern zu bauen. Diese Flugzeuge werden den Kern unseres Luftgeschwaders bilden."
+
+ r56_CAN_canadian_car_and_foundry:0 "Kanadische Auto- und Gießerei"
+ r56_CAN_canadian_car_and_foundry_desc:0 "Die CC&F hat lange Zeit Autos und andere motorisierte Ausrüstung hergestellt. Die Versorgung des Unternehmens mit Ressourcen und Aufträgen zur Herstellung von Flugzeugzellen für unsere Luftwaffe wird ein Schritt in die richtige Richtung für unsere Kriegsproduktion sein."
+
+ r56_CAN_fairchild_aircraft_company:0 "Fairchild Aircraft Company"
+ r56_CAN_fairchild_aircraft_company_desc:0 "Die Fairchild-Flugzeugfabrik in Quebec sollte die Mittel erhalten, um die Produktion von Bomberteilen zu erhöhen. Wir sollten in der Lage sein, die Zahl der Arbeitsplätze in diesem Werk um Tausende zu erhöhen."
+
+ r56_CAN_victory_aircraft_company:0 "Victory Aircraft"
+ r56_CAN_victory_aircraft_company_desc:0 "Victory Aircraft wurde mit dem Bau unserer Bomberflotte beauftragt. Lancaster für alle!"
+
+ r56_CAN_bomber_group_no_6:0 "Bombergruppe Nr. 6"
+ r56_CAN_bomber_group_no_6_desc:0 "Unsere tapferen Jungs haben ausgiebig bei der Bombardierung von Fabriken feindlicher Nationen gedient. Wir sollten sie behalten und sie in Ausbildungsstellen einsetzen, um die nächste Generation von Bomberpiloten auszubilden."
+
+ r56_CAN_toronto_island_airport:0 "Flughafen Toronto Island"
+ r56_CAN_toronto_island_airport_desc:0 "Zusätzliche Flughäfen dienen einem doppelten Zweck: Sie ermöglichen den zivilen Transport und beherbergen unsere Flugzeuge für die Ausbildung unserer Piloten."
+
+ r56_CAN_toronto_air_command:0 "Toronto Air Training Command"
+ r56_CAN_toronto_air_command_desc:0 "Mit unserer erweiterten Infrastruktur und Ausrüstung können wir endlich ernsthaft mit der Ausbildung von [[~CAN.GetAdjective~]] Fliegern beginnen."
+
+ r56_CAN_eastern_air_command:0 "Lufttransportkommando Ost"
+ r56_CAN_eastern_air_command_desc:0 "Wir müssen damit rechnen, dass wir im Falle eines globalen Konflikts unsere Konvois, die im Nordatlantik unterwegs sind, schützen müssen. Der Bau von Luftwaffenstützpunkten zur Unterbringung unserer Flugzeugbesatzungen und Flugzeuge ist eine kluge Investition zum Schutz der Konvois in diesem Einsatzgebiet."
+
+ r56_CAN_rcaf_womens_division:0 "[[~Root.GetRCAFWomensDivisionName~]]"
+ r56_CAN_rcaf_womens_division_desc:0 "Die Zulassung von [[~CAN.GetAdjective~]] Frauen zum Dienst in der Luftwaffe kann mehr Arbeitskräfte freisetzen, die sich an noch mehr Einsätzen beteiligen können."
+ R56_CAN_RCAF_WOMEN:0 "RCAF-Division für Frauen"
+ R56_CAN_CAF_WOMEN:0 "CAF Women's Division"
+
+ r56_CAN_rcaf_station_borden:0 "[[~Root.GetRCAFStationBordenName~]]"
+ r56_CAN_rcaf_station_borden_desc:0 "Kanadas Fliegerkorps wurde in Borden, Ontario, geboren, und wir sollten diese Basis nutzen, um eine neue Generation von Piloten auszubilden."
+ R56_CAN_RCAF_STATION_BORDEN:0 "RCAF-Station Borden"
+ R56_CAN_CAF_STATION_BORDEN:0 "CAF-Station Borden"
+
+ r56_CAN_appoint_air_chief:0 "Ernennung eines Chief of Air Staff"
+ r56_CAN_appoint_air_chief_desc:0 "Obwohl die Luftwaffe im Vergleich zu anderen Truppengattungen unserer Streitkräfte relativ jung ist, ist sie eine schlagkräftige Kraft, die nach wie vor der Armee unterstellt ist. Die Ernennung eines Chefs des Luftwaffenstabs ist der erste Schritt zum Ausbau und zur Modernisierung der Luftwaffe."
+
+ r56_CAN_complete_separation_from_army:0 "Vollständige Loslösung vom Heer"
+ r56_CAN_complete_separation_from_army_desc:0 "Die [[~CAN.GetAdjective~]] Luftwaffe hat jetzt eine definierte Struktur und einzigartige Fähigkeiten; es ist an der Zeit, dass die Luftwaffe eine eigenständige Einheit wird!"
+
+ r56_CAN_rebuilding_the_royal_canadian_navy:0 "[[~Root.GetRebuildCanadianNavyName~]]"
+ r56_CAN_rebuilding_the_royal_canadian_navy_desc:0 "Nach jahrelangen Haushaltskürzungen befindet sich unsere Marine in einem schlechten Zustand. Die zunehmenden internationalen Spannungen machen es erforderlich, dass wir unsere Marine wieder aufbauen, um unsere Ziele zu erreichen."
+ R56_CAN_REBUILD_RCN:0 "Wiederaufbau der Königlichen [[~CAN.GetAdjective~]] Marine"
+ R56_CAN_REBUILD_CN:0 "Wiederaufbau der [[~CAN.GetAdjective~]] Marine"
+
+ r56_CAN_halifax_shipyards:0 "Halifax-Werften"
+ r56_CAN_halifax_shipyards_desc:0 "Die gegenüber von Europa gelegenen Halifax-Docks bauen neue Schiffe in Rekordtempo. Wir können die Schlacht um den Atlantik gewinnen."
+
+ r56_CAN_sorel_shipyards:0 "Sorel-Werften"
+ r56_CAN_sorel_shipyards_desc:0 "Die Stadt Sorel beherbergt eine bedeutende metallverarbeitende Industrie. Investitionen in diesen Bereich mit Aufträgen zum Bau von Schiffen werden die Wirtschaft ankurbeln und der Marine Werften zum Bau neuer Schiffe zur Verfügung stellen."
+
+ r56_CAN_reopen_toronto_shipyards:0 "Wiedereröffnung der Werften in Toronto"
+ r56_CAN_reopen_toronto_shipyards_desc:0 "Die Wiedereröffnung der Schiffswerften in Toronto wird für den Bau weiterer Schiffe von entscheidender Bedeutung sein."
+
+ r56_CAN_sorel_industries_naval_artillery:0 "Sorel Industries Marineartillerie"
+ r56_CAN_sorel_industries_naval_artillery_desc:0 "Sorel Industries vereint Werften und Fabriken für schwere Waffen an einem Ort. Es ist nur logisch, dass diese Geschütze auf Schiffen eingesetzt werden."
+
+ NIR_naval_grade_steel_desc:0 "Mit weiteren Investitionen und Erfahrungen im Schiffbau hat Sorel Industries seine Metallverarbeitungsfähigkeiten verbessert, so dass unsere Schiffe mit besserer Marinepanzerung ausgestattet werden können."
+
+ r56_CAN_focus_on_destroyers:0 "Fokus auf Zerstörer"
+ r56_CAN_focus_on_destroyers_desc:0 "Angesichts der Bedrohung durch U-Boot-Angriffe auf Versorgungs- und Truppenkonvois müssen wir uns auf den Bau von Zerstörern konzentrieren, um diese Unterwassergefahren zu jagen und zu vernichten."
+
+ r56_CAN_protect_atlantic_shipping:0 "Schutz der Schifffahrt im Atlantik"
+ r56_CAN_protect_atlantic_shipping_desc:0 "Neuere Taktiken und die Ausbildung im Geleitschutz von Konvois werden uns in den kommenden Schlachten gute Dienste leisten."
+
+ r56_CAN_merchant_fleet:0 "Handelsflotte"
+ r56_CAN_merchant_fleet_desc:0 "Konvois werden die Lebensader für die Versorgung unserer Streitkräfte und Verbündeten in Übersee sein. Wir werden für den Aufbau einer Handelsflotte sorgen."
+
+ r56_CAN_fight_the_uboats:0 "Kampf gegen die U-Boote"
+ r56_CAN_fight_the_uboats_desc:0 "Die Bedrohung aus dem Meer ist unbestreitbar. Unseren Streitkräften werden mehr Ausbildung und die zur Bekämpfung dieser Bedrohung erforderliche Ausrüstung zur Verfügung stehen."
+
+ r56_CAN_degaussing:0 "Entmagnetisierung"
+ r56_CAN_degaussing_desc:0 "Wir werden damit beginnen, unsere Schiffsrümpfe zu entmagnetisieren, um ihre magnetische Signatur zu verringern. Dies schützt sie vor magnetischen Minen und reduziert das elektronische Profil der Schiffe."
+
+ r56_CAN_expand_the_navy:0 "Die Marine ausbauen"
+ r56_CAN_expand_the_navy_desc:0 "Der Bau weiterer Schiffswerften ist hilfreich für unsere Expansionspläne in der Marine."
+
+ r56_CAN_wrens:0 "[[~Root.GetWrensName~]]"
+ r56_CAN_wrens_desc:0 "Die Einrichtung eines Elements innerhalb der Marine, das Frauen den Dienst erlaubt, wäre für unsere Expansionspläne hilfreich und würde die Marine mit mehr Freiwilligen versorgen."
+ R56_CAN_WRENS_NAME:0 "Women's Royal [[~CAN.GetAdjective~]] Marinedienst"
+ R56_CAN_WENS_NAME:0 "Women's [[~CAN.GetAdjective~]] Marinedienst"
+
+ r56_CAN_the_pacific_ocean:0 "Der Pazifische Ozean"
+ r56_CAN_the_pacific_ocean_desc:0 "Unsere westliche Flanke ist der Pazifische Ozean, ein riesiger Spielplatz für unsere Feinde, auf dem sie operieren können. Wir müssen uns auf alle Eventualitäten vorbereiten."
+
+ r56_CAN_ships_for_the_pacific:0 "Schiffe für den Pazifik"
+ r56_CAN_ships_for_the_pacific_desc:0 "Wir können unsere Flotten um leichte und schwere Kreuzer herum aufbauen und verfügen über mehr als genug Häfen, um diese Strategie durchführbar zu machen."
+
+ r56_CAN_invasion_transports:0 "Invasionstransporte"
+ r56_CAN_invasion_transports_desc:0 "Die feindlichen Seewege zu belagern, würde nicht ausreichen, um die Bedrohung für [[~CAN.GetNameDef~]] zu verringern. Wir müssen zuerst zuschlagen und zwar schnell und mit der richtigen Ausrüstung für unsere Truppen."
+
+ r56_CAN_rural_class_carriers:0 "Träger der Rural-Class"
+ r56_CAN_rural_class_carriers_desc:0 "Es steht außer Frage, dass wir uns in einer einzigartigen geografischen Lage befinden, zwischen zwei Meeren und einer Großmacht an der Grenze. Um unsere Seedominanz zu sichern, müssen wir mit dem Bau von Flugzeugträgern beginnen, die in der Lage sind, Flugzeuge in die Schlacht zu transportieren und unsere Seewege zu schützen."
+
+ r56_CAN_trust_in_the_commonwealth:0 "Vertrauen in das Commonwealth"
+ r56_CAN_trust_in_the_commonwealth_desc:0 "Unsere anderen Dominions sind unsere vertrauenswürdigsten Freunde, und wir sollten alle zusammen marschieren, um Seine Majestät zu unterstützen."
+
+ r56_CAN_commonwealth_air_training_plan:0 "Der Commonwealth Air Training Plan"
+ r56_CAN_commonwealth_air_training_plan_desc:0 "Wir werden die Luftkampfausbildung mit unseren Verbündeten aus dem Commonwealth und dem Dominion koordinieren. Dies ist effizienter und kann in großer Zahl und sicher auf unseren Flugplätzen durchgeführt werden."
+
+ r56_CAN_build_fighters_for_the_empire:0 "Bau von Kampfflugzeugen für das Imperium"
+ r56_CAN_build_fighters_for_the_empire_desc:0 "Das Imperium braucht dringend leichte Flugzeuge. Mit unserer Automobilindustrie wird die Versorgung mit diesen Maschinen einen Beitrag zu unserem Commonwealth leisten."
+
+ r56_CAN_CAMP_X:0 "Lager X"
+ r56_CAN_CAMP_X_desc:0 "An einem geheimen Ort in der Nähe von Oshawa werden wir die Sammlung von Informationen und die Ausbildung von Spionen zentralisieren. Er ist zentral gelegen für Signale sowohl von [[~ENG.GetNameDef~]] als auch von [[~USA.GetNameDef~]]."
+
+ r56_CAN_hydra:0 "Hydra"
+ r56_CAN_hydra_desc:0 "Benjamin deForest Bayly hat in Camp X eine Telekommunikations-Relaisstation gebaut, die in der Lage ist, den Funkverkehr der Alliierten weltweit zu empfangen. Wir können jetzt auch die Post und den Funk der Feinde entschlüsseln und lesen, weit weg von ihren neugierigen Augen. Sprechen Sie mit niemandem darüber, nicht einmal mit dem Premierminister."
+
+ r56_CAN_permanent_joint_defence_board:0 "Ständiger Gemeinsamer Ausschuss für Verteidigung"
+ r56_CAN_permanent_joint_defence_board_desc:0 "Geografie und gemeinsames Erbe verbinden uns mit [[~USA.GetNameDef~]], aber der Kontinent ist zu groß, als dass einer von uns ihn allein verteidigen könnte. Ein gemeinsamer Verteidigungsausschuss ist für die Beratung und Planung des Schutzes Nordamerikas erforderlich."
+
+ r56_CAN_british_ships:0 "Kauf von [[~ENG.GetAdjective~]] Schiffe"
+ r56_CAN_british_ships_desc:0 "Wir brauchen dringend Schiffe, um unsere Konvois zu schützen. Vielleicht können wir einige aus dem Mutterland kaufen?"
+
+ r56_CAN_forge_our_own_future:0 "Unsere Zukunft schmieden"
+ r56_CAN_forge_our_own_future_desc:0 "[[~CAN.GetNameDefCap~]] ist eine souveräne Nation, und nur wir können entscheiden, welchen Weg wir in dieser Welt gehen werden."
+
+ r56_CAN_shadow_factories:0 "Schattenfabriken"
+ r56_CAN_shadow_factories_desc:0 "Ein Sturm kommt auf uns und unsere Verbündeten zu. Die Vorbereitung unserer Infrastruktur und Wirtschaft auf eine eventuelle Umstellung auf den Kriegszustand wäre ein langer und mühsamer Prozess."
+
+ r56_CAN_frogmen_of_burma:0 "Die Froschmänner"
+ r56_CAN_frogmen_of_burma_desc:0 "Mit Hilfe unserer Verbündeten können wir eine neue Eliteeinheit aufstellen, die in der Lage ist, das strategische Potenzial von Unterwasserschwimmern zu nutzen. Lord Mountbatten hat sein Interesse an diesem Vorhaben bekundet."
+
+ r56_CAN_tizard_visit:0 "Der Tizard-Besuch"
+ r56_CAN_tizard_visit_desc:0 "Ein Wissenschaftler aus dem Mutterland hat uns die wahrhaft großartige Aussicht eröffnet, in technischen Teams zusammenzuarbeiten und Erfindungen zu teilen, die den Krieg gewinnen können."
+
+ r56_CAN_montreal_laboratory:0 "Das Montrealer Laboratorium"
+ r56_CAN_montreal_laboratory_desc:0 "Das Montrealer Laboratorium verfügt über die intellektuellen Mittel, um eine Bombe von unglaublicher Kraft zu entwickeln und zu bauen, indem es Uran für eine unkontrollierte Kernspaltungsreaktion einsetzt. Wir werden dies in die Tat umsetzen."
+
+ r56_CAN_construct_the_cape_spear_forts:0 "Bau der Cape Spear Forts"
+ r56_CAN_construct_the_cape_spear_forts_desc:0 "Wir müssen mit einer Invasion der Marine an unserer Küste rechnen. Der Bau eines Marineforts wird die beste Verteidigung und ein wirksames Abschreckungsmittel gegen diese Bedrohung sein."
+
+ r56_CAN_fascism:0 "Ein großes Kanada"
+ r56_CAN_fascism_desc:0 "Ein starkes Kanada verdankt seine Macht einem starken Führer. Lassen Sie uns die Menschen in Kanada über diese Tatsache aufklären."
+
+ r56_CAN_national_social_christian_party:0 "Die Nationale Sozialchristliche Partei"
+ r56_CAN_national_social_christian_party_desc:0 "Eine Partei mit den Idealen eines sauberen Kanadas ist auferstanden. Schließen wir uns dieser Partei an und vernichten wir diese heimtückischen Kommunisten."
+
+ r56_CAN_the_canadian_fuhrer:0 "Der [[~CAN.GetAdjective~]] Führer"
+ r56_CAN_the_canadian_fuhrer_desc:0 "Ein Mann mit unendlicher Liebe zu Kanada und einem eisernen Willen, seine Rechte zu verteidigen, ist aufgestanden. Hoch lebe die Partei! Hoch lebe unser Führer!"
+
+ r56_CAN_restrict_immigration:0 "Einwanderung einschränken"
+ r56_CAN_restrict_immigration_desc:0 "[[~CAN.GetNameDefCap~]] ist für [[~CAN.GetAdjective~]], und wir werden es nicht anders haben. Die gute Bevölkerung dieses Landes wird nicht in Flüchtlingen mit fragwürdiger Loyalität ertrinken."
+
+ r56_CAN_quell_quebec_nationalism:0 "Nationalismus in Québec unterdrücken"
+ r56_CAN_quell_quebec_nationalism_desc:0 "Québec ist ein unveräußerlicher Teil von [[~CAN.GetNameDef~]]. Im großen Land [[~CAN.GetNameDef~]] gibt es kein Problem des Separatismus."
+
+ r56_CAN_a_united_canada:0 "[[~CAN.GetAdjective~]]s United"
+ r56_CAN_a_united_canada_desc:0 "Jetzt, da unser Volk vereint ist, können wir damit beginnen, unseren Ruhm über die ganze Hemisphäre zu verbreiten. Lang lebe Groß-Kanada!"
+
+ r56_CAN_arrest_the_anti_fascists:0 "Verhaftet die Antifaschisten"
+ r56_CAN_arrest_the_anti_fascists_desc:0 "Es gibt Elemente der verräterischen Linken, die Schritte gegen die natürliche Ordnung der Dinge unternehmen. Wir werden sie auf den wahren Weg des Ruhmes führen."
+
+ r56_CAN_canadian_union_of_fascists:0 "Die Kanadische Union der Faschisten"
+ r56_CAN_canadian_union_of_fascists_desc:0 "In der politischen Landschaft ist eine Partei aufgetaucht, die die Politik der wirtschaftlichen Prosperität durch ein Bündnis mit den Interessen der Wirtschaft unterstützt. [[~CAN.GetNameDefCap~]] würde gut daran tun, dieser Partei zum Sieg zu verhelfen!"
+
+ r56_CAN_arcand_in_the_government:0 "Arcand in der Regierung"
+ r56_CAN_arcand_in_the_government_desc:0 "Adrien Arcand ist einer der wenigen Männer in [[~CAN.GetNameDef~]], der sich der Probleme bewusst ist, die das Land intern und international plagen. Wir täten gut daran, ihm einen Platz in der Regierung anzubieten, trotz einiger ideologischer Differenzen, die wir haben."
+
+ r56_CAN_unite_the_fascist_parties:0 "Die faschistischen Organisationen vereinen"
+ r56_CAN_unite_the_fascist_parties_desc:0 "Unsere Methoden mögen unterschiedlich sein, aber unser Ziel bleibt das gleiche. Wir werden diesen Weg gemeinsam mit unseren neu gewonnenen Verbündeten gehen."
+
+ r56_CAN_form_the_blue_shirts:0 "Bildet die Blauhemden"
+ r56_CAN_form_the_blue_shirts_desc:0 "Die Blauhemden werden der wichtigste Verteidigungsarm und das ideologische Rückgrat unserer Institution sein. Die Legitimierung dieser Bewegung wird uns genügend loyale Kader verschaffen, um unsere Kriegsmaschinerie in Gang zu halten."
+
+ r56_CAN_create_youth_wing:0 "Schaffung eines Jugendflügels"
+ r56_CAN_create_youth_wing_desc:0 "Die Jugend des Staates ist der Schlüssel zur Verwirklichung des Traums von einem Großkanada."
+
+ r56_CAN_a_one_party_state:0 "Ein-Parteien-Staat"
+ r56_CAN_a_one_party_state_desc:0 "Ein Mehrparteienstaat kann nur Uneinigkeit und die Zerstörung des Staates von innen her herbeiführen. Von nun an wird [[~CAN.GetNameDef~]] von einer glorreichen Bewegung der Massen, durch die Massen und für die Massen geführt werden."
+
+ r56_CAN_anti_democracy:0 "Eine antidemokratische Nation"
+ r56_CAN_anti_democracy_desc:0 "Die Demokratie ist ein Schandfleck in der Geschichte, der den Ländern ihr gottgegebenes Recht auf Ruhm verwehrt."
+
+ r56_CAN_strength_through_conquest_idea:0 "Stärke durch Eroberung"
+
+ r56_CAN_canadian_nationalism:0 "[[~CAN.GetAdjective~]] Nationalismus"
+ r56_CAN_canadian_nationalism_desc:0 "[[~CAN.GetNameDefCap~]] ist nun ein unabhängiger Staat mit einem unabhängigen Volk. Wenn man den Bürgern diese Tatsache bewusst macht, stärkt man ihre Herzen gegen Manipulationen von außen."
+
+ r56_CAN_strenght_through_conquest:0 "Stärke durch Eroberung"
+ r56_CAN_strenght_through_conquest_desc:0 "Nur durch den Schmelztiegel des Konflikts kann [[~CAN.GetNameDef~]] gedeihen."
+
+ r56_CAN_seek_closer_ties_to_germany:0 "Suche nach engeren Beziehungen zu [[~GER.GetNameDef~]]"
+ r56_CAN_seek_closer_ties_to_germany_desc:0 "[[~GER.GetLeader~]] hat bewiesen, dass er ein vernünftiger Mann ist, der vernünftige Forderungen stellt und gleichzeitig seine Nation stark macht. Wir werden uns [[~GER.GetNameDef~]] in Solidarität für ein neues Goldenes Zeitalter anschließen."
+
+ r56_CAN_demand_newfoundland_and_labrador:0 "Fordern Sie Neufundland und Labrador"
+ r56_CAN_demand_newfoundland_and_labrador_desc:0 "Neufundland ist ein gescheitertes Dominion, das in den Kolonialstatus zurückkehren musste. Sein richtiger Platz ist bei [[~CAN.GetNameDef~]]. Wir können ihre Kontrolle über unser Land nicht länger dulden. Wir werden sie uns nehmen, koste es, was es wolle."
+
+ r56_CAN_form_our_own_alliance:0 "Eine Allianz bilden"
+ r56_CAN_form_our_own_alliance_desc:0 "Das Mutterland hat sich seine Version des Faschismus zu eigen gemacht, und wir teilen ausnahmsweise ihre Bestrebungen. Lasst uns diesen Weg gemeinsam gehen, wie gute Kameraden."
+
+ r56_CAN_support_the_british_union_of_fascists:0 "Unterstützen Sie die British Union of Fascists"
+ r56_CAN_support_the_british_union_of_fascists_desc:0 "Die BUF ist vielleicht eine der letzten Verteidigungslinien gegen die Tyrannei der Demokratien. Wir müssen ihr unsere ungeteilte Unterstützung geben, damit sie sich durchsetzen kann."
+
+ r56_CAN_strict_anti_communism:0 "Anti-Kommunismus"
+ r56_CAN_strict_anti_communism_desc:0 "Die Rote Pest des Bolschewismus wird keine Macht über [[~CAN.GetNameDef~]] haben. Wir werden die Linken aus jedem Loch säubern, in dem wir sie finden."
+
+ r56_CAN_follow_mosleys_ideas:0 "Folgen Sie Mosleys Ideen"
+ r56_CAN_follow_mosleys_ideas_desc:0 "Sir Oswald Mosley hat eine äußerst radikale wirtschaftliche Idee vorgeschlagen, die es verdient, in unserem Dominion umgesetzt zu werden. Wir werden uns im Wohlstand eines erneuerten, glorreichen Kanada sonnen."
+
+ r56_CAN_restructure_the_government:0 "Umstrukturierung der Regierung"
+ r56_CAN_restructure_the_government_desc:0 "Unsere Regierung ist von Politikern befallen, deren Ziele mit selbstsüchtigen privaten Spekulanten übereinstimmen. Wir können ihren giftigen Einfluss nicht mehr lange dulden!"
+
+ r56_CAN_full_equality_for_women:0 "Rechte für Frauen"
+ r56_CAN_full_equality_for_women_desc:0 "Frauen sind der Dreh- und Angelpunkt und das Fundament der Gesellschaft. Wenn wir ihnen volle und gleiche Rechte zugestehen, wird [[~CAN.GetNameDef~]] zu der ihm zustehenden Größe gelangen."
+
+ r56_CAN_fascist_corporatism:0 "Faschistischer Korporatismus"
+ r56_CAN_fascist_corporatism_desc:0 "Private Unternehmen arbeiten nach den Grundsätzen der Laissez-faire-Wirtschaft, die davon ausgeht, dass sie dem Markt dienen, um die Bedürfnisse der Gesellschaft zu erfüllen. Diese Annahme hat sich nach der Großen Depression als falsch erwiesen, und wir müssen das Privatkapital unter die Fuchtel unseres nationalen Interesses stellen."
+
+ r56_CAN_join_the_british:0 "Dem britischen Empire beitreten"
+ r56_CAN_join_the_british_desc:0 "Unsere Bindungen an das Mutterland sind für immer verwoben. Denn wohin du gehst, werde ich gehen, und wo du wohnst, werde ich wohnen. Dein Volk soll mein Volk sein, und dein Gott mein Gott."
+
+ r56_CAN_secure_greenland_and_iceland:0 "Grönland und Island sichern"
+ r56_CAN_secure_greenland_and_iceland_desc:0 "Grönland und Island sind der potenzielle Ausgangspunkt für eine Invasion in unser Herrschaftsgebiet. Wenn wir sie erobern, schützen wir unsere Flanken."
+
+ r56_CAN_ask_for_newfoundland_and_labrador:0 "Bittet um Neufundland und Labrador"
+ r56_CAN_ask_for_newfoundland_and_labrador_desc:0 "Wir werden die Rückgabe von Neufundland und Labrador an unser Land fordern. Unser Volk soll nicht länger unter fremder Kontrolle schuften."
+
+ r56_CAN_intervene_ACW:0 "Hilfe im Amerikanischen Bürgerkrieg"
+ r56_CAN_intervene_ACW_desc:0 "Unsere Brüder da unten brauchen dringend Hilfe. Wir sollten eingreifen, denn ein geteiltes Haus wird fallen."
+
+ r56_CAN_send_weapons:0 "Schickt Waffen nach Amerika"
+ r56_CAN_send_weapons_desc:0 "Moderne Kriege werden mit Männern geführt, aber mit Geräten gewonnen, die in Fabriken hergestellt werden. Wir werden eine Ladung dringend benötigter Munition an unsere Verbündeten im Süden schicken."
+
+ r56_CAN_defence_scheme_no1:0 "Verteidigungsplan Nr.1"
+ r56_CAN_defence_scheme_no1_desc:0 "Der Adler da unten hat endlich sein wahres Gesicht gezeigt. Färben wir ihn jetzt rot, ja?"
+
+ r56_CAN_take_down_america:0 "Strike [[~USA.GetNameDef~]]"
+ r56_CAN_take_down_america_desc:0 "[[~USA.GetNameDefCap~]] ist nun zu einem Hindernis für unsere globale Ordnung geworden. Wir werden schnell zuschlagen."
+
+ r56_CAN_join_the_axis:0 "[[~Root.GetFascismAllianceName~]]"
+ r56_CAN_join_the_axis_desc:0 "[[~Root.GetFascismAllianceDesc~]]"
+ R56_CAN_JOIN_AXIS:0 "Schließen Sie sich der Achse an"
+ R56_CAN_JOIN_FASCIST_ALLIANCE:0 "Ein Bündnis anstreben"
+ R56_CAN_JOIN_AXIS_DESC:0 "Wir sollten versuchen, uns [[~GER.GetNameDef~]] und seinem Bündnis anzuschließen."
+ R56_CAN_JOIN_FASCIST_ALLIANCE_DESC:0 "Wir sollten versuchen, einem faschistischen Bündnis von Nationen beizutreten; es würde uns mächtig machen und uns helfen, unser Land im Falle einer ausländischen Bedrohung zu schützen."
+
+ r56_CAN_the_grizzly:0 "Der Grizzly"
+ r56_CAN_the_grizzly_desc:0 "Wir können jetzt genügend Panzer produzieren, um unsere Panzerdivision mit einigen selbst entwickelten Modifikationen auszustatten."
+
+ r56_CAN_alliance_with_america:0 "Bündnis mit [[~USA.GetNameDef~]]"
+ r56_CAN_alliance_with_america_desc:0 "Unsere Nation teilt eine gemeinsame Sprache, eine gemeinsame Kultur und einen gemeinsamen Kontinent. Es ist nur natürlich, dass wir eine Allianz gründen, um uns in Zeiten des Konflikts gegenseitig zu schützen."
+
+ r56_CAN_acquire_american_ships:0 "Erwerben Sie [[~USA.GetAdjective~]] Schiffe"
+ r56_CAN_acquire_american_ships_desc:0 "Die US-Marine ist eine der größten Seemächte, die die Welt je gesehen hat. Wir sollten darum bitten, einige ihrer Schiffe zu erwerben, um unser Dominion zu verteidigen."
+
+ r56_CAN_follow_american_neutrality:0 "Folgen Sie [[~USA.GetAdjective~]] Neutralität"
+ r56_CAN_follow_american_neutrality_desc:0 "Der Adler ist hoch geflogen und hat die Wolken eines nahen Konflikts herankommen sehen, aber er hat eine neutrale Haltung eingenommen. Wir sollten eine ähnliche Politik wie sie verfolgen, denn wir wollen nicht im Zorn den ersten Schuss abgeben."
+
+ r56_CAN_follow_american_interventionism:0 "Folgen Sie [[~USA.GetAdjective~]] Interventionismus"
+ r56_CAN_follow_american_interventionism_desc:0 "Der Adler hat es für richtig gehalten, die Glut zu löschen, bevor das Feuer erscheint. Die Welt ist nicht mehr der Ort, den wir kennen; wir werden proaktive Schritte unternehmen, um eine neue Weltordnung mit den [[~USA.GetAdjective~]]s aufzubauen."
+
+ r56_CAN_defence_scheme_no2:0 "Verteidigungsschema Nr. 2"
+ r56_CAN_defence_scheme_no2_desc:0 "Die Bedrohung über den Pazifik wird von Tag zu Tag stärker. Wir müssen uns auf ihre eventuelle Ankunft vorbereiten."
+
+ r56_CAN_install_democracy_in_the_americas:0 "Sichern Sie die Demokratie auf dem amerikanischen Kontinent"
+ r56_CAN_install_democracy_in_the_americas_desc:0 "Jede Regierung, die nicht die Ansichten ihrer Bürger vertritt, ist keine Regierung des Volkes. Wir werden diesen tyrannischen Regimen in Amerika die Freiheit des Einzelnen aufzwingen."
+
+ r56_CAN_protect_the_coast:0 "Schützen Sie die Atlantikküste"
+ r56_CAN_protect_the_coast_desc:0 "Unsere Ostflanke bleibt ungeschützt und unbewacht, sollte ein Angreifer dort landen. Bitten wir das Mutterland, dass wir sie verteidigen."
+
+ r56_CAN_reduce_the_tariffs:0 "Reduzieren Sie die Zölle"
+ r56_CAN_reduce_the_tariffs_desc:0 "Die Zölle, die auf den Handel mit unseren südlichen Verbündeten erhoben werden, haben sich als zu lästig für den freien Handel erwiesen. Das darf nicht so bleiben; es ist ungerecht und undemokratisch."
+
+ r56_CAN_build_navy_for_defence:0 "Defensive Marine"
+ r56_CAN_build_navy_for_defence_desc:0 "Unsere Marine mag im Vergleich zu anderen Nationen altmodisch erscheinen, aber sie wird die beste Verteidigungslinie gegen jede angreifende Nation sein, die versucht, über die Meere einzudringen."
+
+ r56_CAN_get_ready_for_intervention:0 "Aufrüsten zur Intervention"
+ r56_CAN_get_ready_for_intervention_desc:0 "Die internationale Lage hat sich als zu unbeständig erwiesen, als dass wir tatenlos zusehen könnten. Wir werden dem Beispiel der [[~USA.GetAdjective~]]s folgen und für das Unvermeidliche aufrüsten."
+
+ r56_CAN_allow_free_access:0 "Offene Grenzen"
+ r56_CAN_allow_free_access_desc:0 "Es gibt keinen Grund für die Grenze zwischen den [[~USA.GetNameDef~]] und uns. Wir teilen eine gemeinsame Kultur und Sprache, mit welcher Geschichte auch immer, die von den Imperialisten der Vergangenheit willkürlich definiert wurde."
+
+ r56_CAN_west_coast_military_command:0 "Militärkommando Westküste"
+ r56_CAN_west_coast_military_command_desc:0 "Unser Bündnis wird nicht lange Bestand haben, wenn wir nicht koordinierte Anstrengungen unternehmen, um das gleiche Ziel zu erreichen. Es sind bereits Pläne im Gange, um dieses Ziel zu erreichen."
+
+ r56_CAN_new_deal:0 "Folgen Sie [[~USA.GetAdjective~]] Politiken"
+ r56_CAN_new_deal_desc:0 "Wir sollten die erfolgreiche Wirtschaftspolitik unseres Nachbarn nachahmen, alles zum Wohle der Menschen, die wir vertreten."
+
+ r56_CAN_communism:0 "Eine Volksfront"
+ r56_CAN_communism_desc:0 "Ein [[~CAN.GetName~]], in dem alle Menschen gleichberechtigt sind, ist eine noble Existenz. Wir müssen uns bewegen, um ein neues Kanada zu sichern!"
+
+ r56_CAN_anti_war_policy:0 "Anti-Kriegspolitik"
+ r56_CAN_anti_war_policy_desc:0 "Wir wurden von den Überbleibseln einer imperialistischen Macht mit Gewalt in den letzten Krieg hineingezogen. Wir werden dies mit einer robusten Politik korrigieren, die darauf abzielt, weder einen Krieg zu erklären noch Bündnissen beizutreten, um einen solchen zu führen."
+
+ r56_CAN_organize_the_trade_unions:0 "Vereinheitlichung der Gewerkschaften"
+ r56_CAN_organize_the_trade_unions_desc:0 "Die Gewerkschaften sind ein mächtiger Verbündeter, der die Rechte der Arbeitnehmer vertritt. Ein einziges politisches Gremium, das sie alle vertritt, ist der richtige Weg."
+
+ r56_CAN_workers_rights:0 "Rechte der Arbeiter"
+ r56_CAN_workers_rights_desc:0 "Die geizigen Kapitalisten haben die [[~CAN.GetAdjective~]] Arbeiter schon zu lange unterdrückt! Wir werden ihre Rechte und unsere Produktionsbedürfnisse schützen, indem wir den Prozess verbessern und auf die Menschen hören, auf die es ankommt."
+
+ r56_CAN_public_ownership:0 "Produktionsmittel"
+ r56_CAN_public_ownership_desc:0 "Der Kapitalist ist bestrebt, das kriegswirtschaftliche Potenzial allein zum Zwecke des Profits auszunutzen. Unsere Genossen können dies nicht länger hinnehmen, und wir werden es auch nicht. Wir werden sie zum Wohle der Gemeinschaft an uns reißen!"
+
+ r56_CAN_unemployment_insurance_scheme:0 "Das System der Arbeitslosenversicherung"
+ r56_CAN_unemployment_insurance_scheme_desc:0 "Die Arbeitslosen sind das Symptom eines ineffizienten Systems. Wenn wir sicherstellen, dass all diejenigen, die keine Arbeit finden, in schlechten Zeiten versorgt werden, können wir erwarten, dass sie in besseren Zeiten loyal ihren Dienst tun."
+
+ r56_CAN_young_communist_league_of_canada:0 "Die Junge Kommunistische Liga von Kanada"
+ r56_CAN_young_communist_league_of_canada_desc:0 "Die Jungkommunisten sind ein Zusammenschluss von Schulen und Klubs, die die Arbeiter vertreten, unabhängig von Alter, Glauben oder Ethnie. Unter ihnen erklingen ihre Warnungen vor der schrecklichen Bedrohung der Welt durch den Faschismus in ganz [[~CAN.GetNameDef~]]. Wir werden das Wachstum dieser Organisation zum Wohle der Arbeiter fördern!"
+
+ r56_CAN_the_canadian_youth_congress:0 "Der [[~CAN.GetAdjective~]] Jugendkongress"
+ r56_CAN_the_canadian_youth_congress_desc:0 "Es ist an der Zeit, der Jugend die richtigen Kanäle zur Verfügung zu stellen, damit sie ihre Beschwerden und Anliegen vorbringen und direkt handeln kann."
+
+ r56_CAN_repeal_the_padlock_law:0 "Aufhebung des Vorhängeschlossgesetzes"
+ r56_CAN_repeal_the_padlock_law_desc:0 "Nach dem Vorhängeschloss-Gesetz kann jede Einrichtung oder jeder Besitz, der die Klagen der unterdrückten Arbeiter verbreitet, mit einem Vorhängeschloss versehen werden, um ihre Stimmen zu ersticken. Diese barbarischen Gesetze verletzen die Rechte der Arbeiter, und wir werden sie jetzt niederschlagen!"
+
+ r56_CAN_imprison_the_trotskyists:0 "Verhaftet die Trotzkisten"
+ r56_CAN_imprison_the_trotskyists_desc:0 "Die Trotzkisten sind ein Schandfleck für unsere glorreiche Ideologie, denn sie destabilisieren den Kommunismus und seine Verwirklichung auf der ganzen Welt. Wir werden diejenigen, die sich zu seinen Ideen bekennen, aus unseren Reihen ausschließen."
+
+ r56_CAN_strike_the_quebecois_anti_communists:0 "Schlagt die Quebecer Antikommunisten"
+ r56_CAN_strike_the_quebecois_anti_communists_desc:0 "Der Reaktionär Maurice Duplessis und seine Leute behindern die Stabilität des Staates. Wir werden ihm den Ruhm des Kommunismus zeigen."
+
+ r56_CAN_form_a_canadian_red_guard:0 "Bildet eine [[~CAN.GetAdjective~]] Rote Garde"
+ r56_CAN_form_a_canadian_red_guard_desc:0 "Um zu überleben, muss unser junger kommunistischer Staat über loyale und effiziente Kader verfügen, die seine Existenz schützen. Die Rote Garde wird [[~CAN.GetNameDef~]] bis zu ihrem letzten Atemzug verteidigen."
+
+ r56_CAN_the_mac_paps:0 "Die Mac-Paps"
+ r56_CAN_the_mac_paps_desc:0 "Die Mackenzie-Papineau-Bataillone waren ein Bataillon von Kanadiern, die bereit waren, den Ruhm des Kommunismus in der Welt zu verbreiten. Unterstützen wir sie."
+
+ r56_CAN_abandon_anti_war_policy:0 "Abkehr von der Anti-Kriegspolitik"
+ r56_CAN_abandon_anti_war_policy_desc:0 "Es ist klar, dass wir keinen Krieg wollen, aber einige Nationen versuchen, uns zu schaden. Wir müssen unsere Politik entsprechend umkehren."
+
+ r56_CAN_plebiscite_committees:0 "Plebiszitäre Komitees"
+ r56_CAN_plebiscite_committees_desc:0 "Indem wir die Stimmen des Volkes in die Umsetzung unserer Regierungspolitik einbeziehen, können wir die harsche Reaktion auf einige unserer Entscheidungen abmildern."
+
+ r56_CAN_support_the_soviets:0 "Unterstützen Sie die [[~SOV.GetAdjective~]]s"
+ r56_CAN_support_the_soviets_desc:0 "[[~SOV.GetNameDefCap~]] ist der richtige Vollstrecker des Kommunismus in der Welt. Wir werden nicht tatenlos zusehen, wie die Flamme erlischt, ohne dass wir ein Wörtchen mitzureden haben."
+
+ r56_CAN_join_the_communist_international:0 "[[~Root.GetCommunistAlliance~]]"
+ R56_CAN_JOIN_COMMUNISM:0 "Treten Sie der Kommunistischen Internationale bei"
+ R56_CAN_COMMUNISM_ALLIANCE:0 "Ein Bündnis"
+ r56_CAN_join_the_communist_international_desc:0 "Die Feuer der Revolution sind rund um den Globus entfacht worden. Wir müssen uns mit unseren Brüdern und Schwestern zusammentun, um die Arbeiterrevolution zu umarmen."
+
+ r56_CAN_destroy_imperialism:0 "Zerstört den Imperialismus"
+ r56_CAN_destroy_imperialism_desc:0 "Wir waren einst ein Land, das unter den Fesseln eines gefühllosen Oberherrn kämpfte. Es ist an der Zeit, dass wir jede Nation unterstützen, die die Ketten des Imperialismus, die letzten Überreste vergangener Zeiten, zerstören will."
+
+ r56_CAN_join_our_british_comrades:0 "Schließen Sie sich unseren [[~ENG.GetAdjective~]] Kameraden"
+ r56_CAN_join_our_british_comrades_desc:0 "Auch unsere Freunde jenseits des Meeres haben sich von den Ketten der elenden Aristokratie befreit. Ein Bündnis der erneuerten Arbeiterstaaten wird das Bündnis der Zeitalter sein."
+
+ r56_CAN_strike_britain:0 "Streik [[~ENG.GetNameDef~]]"
+ r56_CAN_strike_britain_desc:0 "Das antiquierte ehemalige Mutterland hat sich nun als Gegner gegen das glorreiche [[~CAN.GetName~]] präsentiert. Wir werden sie unter dem Gewicht des vereinten Proletariats zermalmen."
+
+ r56_CAN_strike_mexico:0 "Eine zweite Front sichern"
+ r56_CAN_strike_mexico_desc:0 "Wir können nicht hoffen, den Adler in einem direkten Kampf aufzuspießen. Die Sicherung einer zweiten Front, um den Kampf fortzusetzen, hat für uns oberste Priorität."
+
+ r56_CAN_strike_america:0 "Zerschlagt [[~USA.GetNameDef~]]"
+ r56_CAN_strike_america_desc:0 "Der Adler wird den Hammer und die Sichel des [[~CAN.GetAdjective~]] Arbeiters fürchten."
+
+ r56_CAN_emergency_assembly:0 "Das Parlament einberufen"
+ r56_CAN_emergency_assembly_desc:0 "Unsere neue unabhängige Demokratie steht am Scheideweg. Wir müssen die Volksvertreter versammeln, um einen Fahrplan zu erstellen, wie und wohin wir in dieser schönen neuen Welt gehen sollen."
+
+ r56_CAN_a_new_constitution:0 "Ausarbeitung einer neuen Verfassung"
+ r56_CAN_a_new_constitution_desc:0 "Eine demokratische Nation ist nichts ohne eine Verfassung, in der die Regierung kontrolliert und abgewogen wird. Wir werden die Ausarbeitung einer solchen Verfassung zum Wohle aller überwachen."
+
+ r56_CAN_an_independent_democracy:0 "Unabhängige Demokratie"
+ r56_CAN_an_independent_democracy_desc:0 "Die Stärke von [[~CAN.GetNameDefCap~]] liegt in der Akzeptanz und Toleranz gegenüber anderen Ideen und Menschen. Die Demokratie soll unser feierlicher Eid und die Quelle unserer Macht sein, selbst in Zeiten von Streit und Konflikten."
+
+ r56_CAN_post_colonial_rule:0 "Post-[[~ENG.GetAdjective~]] Einfluss"
+ r56_CAN_post_colonial_rule_desc:0 "Wir waren einst ein imperiales Dominion, aber wir haben die Unabhängigkeit von [[~CAN.GetAdjective~]] friedlich erlangt. Wir werden mit ihnen Frieden schließen und gleichzeitig unsere unabhängige Haltung laut und deutlich zum Ausdruck bringen."
+
+ r56_CAN_secure_the_economy:0 "Die Wirtschaft sichern"
+ r56_CAN_secure_the_economy_desc:0 "Unsere junge Republik hat eine wackelige Wirtschaft, um unser Volk zu unterstützen. Wir sollten Maßnahmen ergreifen, um dieses Problem anzugehen."
+
+ r56_CAN_our_own_way:0 "Ein anderer Weg"
+ r56_CAN_our_own_way_desc:0 "Unsere Demokratie wird unser Weg in dieser Welt sein. Wir sind niemandem auf der Welt etwas schuldig."
+
+ r56_CAN_development_of_new_territories:0 "Entwicklung der neuen Gebiete"
+ r56_CAN_development_of_new_territories_desc:0 "Mit unserer gestärkten Wirtschaft können wir endlich die ungenutzten und wenig genutzten Gebiete in [[~CAN.GetNameDef~]] erschließen."
+
+ r56_CAN_modernise_the_nation:0 "Die Nation modernisieren"
+ r56_CAN_modernise_the_nation_desc:0 "Die Nation braucht dringend bessere Infrastrukturinvestitionen für mehr Wirtschaftswachstum. Wir werden alles Nötige für diese unsere Bemühungen bereitstellen."
+
+ r56_CAN_independent_military:0 "Unabhängiges Militär"
+ r56_CAN_independent_military_desc:0 "Da unser Militär nun ein unabhängiger Zweig ist, können wir uns nicht mehr auf gemeinsame Änderungen der Doktrinen von irgendeinem Oberherrn verlassen. Unser Wachstum ist ganz und gar unser eigenes."
+
+ r56_CAN_independent_industry:0 "Unabhängige Industrie"
+ r56_CAN_independent_industry_desc:0 "Der Aufbau unserer industriellen Fähigkeiten ist eine der Prioritäten bei der Stärkung unserer lieben [[~CAN.GetName~]]."
+
+ r56_CAN_self_sufficiency:0 "Selbstversorgung"
+ r56_CAN_self_sufficiency_desc:0 "Um unsere Industrie zu versorgen, benötigen wir ausreichend Mineralien und Rohstoffe. Wir werden die nötigen Mittel dafür bereitstellen."
+
+ r56_CAN_assert_canadian_involvment:0 "Behaupten Sie [[~CAN.GetAdjective~]] Einbindung"
+ r56_CAN_assert_canadian_involvment_desc:0 "Trotz unseres Glaubens an die Selbstbestimmung müssen wir auch eingreifen, wenn befreundete Nationen in Gefahr sind."
+
+ r56_CAN_secure_american_democracy:0 "Die amerikanische Demokratie sichern"
+ r56_CAN_secure_american_democracy_desc:0 "Der Adler ist an einer kränklichen Krankheit erkrankt. Wir werden ihn heilen und wieder in die Freiheit entlassen."
+
+ r56_CAN_reenforce_the_commonwealth:0 "Stärkung des Commonwealth"
+ r56_CAN_reenforce_the_commonwealth_desc:0 "Nationen zerbröckeln in der Isolation. Wir werden ein Bündnis schaffen, das sich gegenseitig schützt, wenn sie angegriffen werden."
+
+ r56_CAN_our_best_friend:0 "Unser bester Freund"
+ r56_CAN_our_best_friend_desc:0 "[[~USA.GetNameDefCap~]] war immer ein treuer Freund von [[~CAN.GetNameDef~]]. Wir werden sie zu unserem Verteidigungspakt einladen."
+
+ r56_CAN_unite_with_the_french:0 "Vereinigen Sie sich mit der [[~FRA.GetAdjective~]]"
+ r56_CAN_unite_with_the_french_desc:0 "[[~FRA.GetNameDefCap~]] ist seit jeher der Verteidiger der liberalen Ideale und der Demokratie. Wir sollten ihnen ein Angebot unterbreiten, sich unserer Fraktion anzuschließen."
+
+ r56_CAN_liberate_the_british_isles:0 "Befreit die Britischen Inseln"
+ r56_CAN_liberate_the_british_isles_desc:0 "Unser früheres Mutterland ist gefallen. Es ist unsere moralische Pflicht, das britische Volk von den Fesseln der Unterdrücker zu befreien."
+
+ r56_CAN_fuel_the_arms_sector:0 "Den Waffensektor anheizen"
+ r56_CAN_fuel_the_arms_sector_desc:0 "Unser Frieden wird nicht lange halten, wenn wir unseren Worten keine Taten folgen lassen. Manchmal gehören zu diesen Taten auch Artillerie und Panzer, so dass wir eine Industrie aufrechterhalten müssen, die in der Lage ist, diese in Zeiten der Not auszuliefern."
+
+ r56_CAN_arms_exports:0 "Waffenexporte"
+ r56_CAN_arms_exports_desc:0 "Wir wollen vielleicht nicht unsere jungen [[~CAN.GetAdjective~]]s zum Sterben auf fremde Felder schicken, aber wir können jederzeit [[~CAN.GetAdjective~]]-Produkte verschicken, um Nationen, die unseren Interessen freundlich gesinnt sind, das Spielfeld zu bereiten."
+
+ r56_CAN_suppress_the_separatists:0 "Unterdrückung der Separatisten"
+ r56_CAN_suppress_the_separatists_desc:0 "Wir werden den rebellischen Staat Québec niemals anerkennen. Québec ist [[~CAN.GetAdjective~]] Land, und damit hat es sich."
+
+ r56_CAN_strengthen_british_ties:0 "Stärkung der [[~ENG.GetAdjective~]] Bindungen"
+ r56_CAN_strengthen_british_ties_desc:0 "Unsere Loyalität gilt dem Mutterland. Wir werden dafür sorgen, dass unsere Politik und unser Handeln im Gleichschritt mit dem Mutterland erfolgen."
+
+ r56_CAN_governor_general_in_power:0 "Generalgouverneur an der Macht"
+ r56_CAN_governor_general_in_power_desc:0 "In diesen stürmischen Zeiten brauchen wir eine ruhige Hand, die das Boot steuert. Es kann keinen besseren Mann geben als John Buchan, unseren eigenen Generalgouverneur."
+
+ r56_CAN_empower_the_military_faction:0 "Ermächtigung der Militärfraktion"
+ r56_CAN_empower_the_military_faction_desc:0 "Unsere Stärke kommt nicht von Ausschüssen und langwierigen Diskussionen. Sie kommt aus direktem Handeln und entscheidenden Entscheidungen. Wir ermächtigen die Menschen, die diese Werte innerhalb des [[~CAN.GetNameDef~]]s Verwaltungsapparates verkörpern."
+
+ r56_CAN_strategic_nationalizations:0 "Strategische Verstaatlichungen"
+ r56_CAN_strategic_nationalizations_desc:0 "Die Verstaatlichung bestimmter Branchen und Unternehmen wird unsere Popularität in der Öffentlichkeit steigern und die Kontrolle über diese Unternehmen an [[~CAN.GetNameDef~]] übertragen."
+
+ r56_CAN_integrate_the_canadian_cadet_corps:0 "Integrieren Sie das [[~CAN.GetAdjective~]] Kadettenkorps"
+ r56_CAN_integrate_the_canadian_cadet_corps_desc:0 "Die Jugend unseres Landes hat bemerkenswerterweise große Initiative gezeigt, indem sie sich Organisationen angeschlossen hat, die sie gut auf die Welt vorbereiten. Wir sollten ihre Organisation innerhalb des Dominion legitimieren und ihr Glaubensbekenntnis zu einem Schwur machen, den alle jungen Kanadier jeden Morgen aufsagen."
+
+ r56_CAN_root_out_traitors:0 "Verräter ausrotten"
+ r56_CAN_root_out_traitors_desc:0 "Diejenigen, die in Zeiten des Streits nach mehr Freiheit schreien, haben unseren Weg zur Größe behindert. Wir werden keinen Dissens in [[~CAN.GetNameDef~]] dulden oder tolerieren."
+
+ r56_CAN_claims_on_america:0 "Ansprüche auf [[~USA.GetNameDef~]]"
+ r56_CAN_claims_on_america_desc:0 "Wir können die Existenz der rebellischen Nation da unten nicht länger dulden. Wir haben ihre Städte schon einmal niedergebrannt; die Zeit ist gekommen, dass wir es noch einmal tun."
+
+ r56_CAN_the_defense_of_canada:0 "Die Verteidigung von Kanada"
+ r56_CAN_the_defense_of_canada_desc:0 "Die lange Grenze, die wir mit der Nation da unten teilen, ist eine imaginäre Grenze, die von der Geschichte aufrechterhalten wird. Wir sollten sie mit Befestigungen und Kriegsvorbereitungen deutlich markieren."
+
+ r56_CAN_national_defense_funding:0 "Finanzierung der Landesverteidigung"
+ r56_CAN_national_defense_funding_desc:0 "Unsere Souveränität kann nur mit Waffengewalt verteidigt werden. In diesem Fall werden wir nach besten Kräften in unser Wohlergehen investieren."
+
+ #Events ""
+ r56_canada.1.t:0 "Änderung von Gesetzen"
+ r56_canada.1.d:0 "Aufgrund unseres jüngsten Regierungswechsels wurden unsere Gesetze und Politiken aktualisiert, um unsere neue Regierung widerzuspiegeln."
+ r56_canada.1.a:0 "Eine notwendige Änderung."
+
+ r56_canada.4.t:0 "Quebec Wehrpflicht Thema"
+ r56_canada.4.d:0 "Wir brauchen dringend Arbeitskräfte für unser Heer, unsere Marine und unsere Luftwaffe, aber die Frankokanadier lassen sich in dieser Frage nicht beirren und sind mit der Zwangseinberufung nicht einverstanden."
+ r56_canada.4.a:0 "Wir tun, was wir tun müssen. Wir erzwingen die Einberufung."
+ r56_canada.4.b:0 "Vielleicht können wir zu einer Einigung kommen."
+
+ r56_canada.5.t:0 "Jack Bickell kehrt von [[~ENG.GetNameDef~]] zurück"
+ r56_canada.5.d:0 "Nachdem er zwei Jahre unter dem British Airplane Supply Board gedient hat, ist Jack Bickell aus [[~ENG.GetNameDef~]] zurückgekehrt. Der Vorstandsvorsitzende von Victory Aircraft Ltd. will ihn anwerben."
+ r56_canada.5.a:0 "Na, dann wollen wir ihn mal einsetzen!"
+
+ r56_canada.6.t:0 "Der Aufstand der zwanzig Zentren!"
+ r56_canada.6.d:0 "Die Arbeiter in den Arbeitslosenzentren haben einen weiteren Aufstand angezettelt und fordern eine Erhöhung ihrer Löhne. Wie sollen wir mit ihnen verfahren?"
+ r56_canada.6.a:0 "Wir sollten die Lager einfach schließen."
+ r56_canada.6.b:0 "Die Unruhen mit Gewalt niederschlagen."
+ r56_canada.6.c:0 "Lasst sie randalieren."
+
+ r56_canada.7.t:0 "Die verärgerten zwanzig Zentren randalieren!"
+ r56_canada.7.d:0 "Nachdem die Lagerarbeiter das letzte Mal randaliert hatten, haben wir die Unruhen mit Gewalt niedergeschlagen. Jetzt haben sie wieder einen Aufstand angezettelt und verlangen von uns eine Entschädigung für die Zeit, in der wir Gewalt gegen sie angewendet haben, und die Schließung der Lager."
+ r56_canada.7.a:0 "Wenden Sie Gewalt an, um den Aufstand zu beenden und die Lager für immer zu schließen."
+ r56_canada.7.b:0 "Geben Sie ihren Forderungen nach und entschädigen Sie sie."
+
+ r56_canada.8.t:0 "Demonstranten setzen Aufruhr fort"
+ r56_canada.8.d:0 "Die Lagerarbeiter haben erneut einen Protest organisiert und dabei Eigentum beschädigt."
+ r56_canada.8.a:0 "Eine Schande."
+
+ r56_canada.9.t:0 "[[~CAN.GetNameDefCap~]] fragt nach Neufundland und Labrador!"
+ r56_canada.9.d:0 "Die [[~CAN.GetAdjective~]]s haben uns gebeten, unser Eigentum an Neufundland und Labrador an sie zu übertragen. Sie betrachten diese Gebiete als ihr rechtmäßiges Territorium."
+ r56_canada.9.a:0 "Sie können sie haben; wir brauchen die Truppen woanders."
+ r56_canada.9.b:0 "Nein, es ist unser rechtmäßiges Territorium."
+
+ r56_canada.10.t:0 "[[~FROM.GetNameDefCap~]] gibt uns Neufundland und Labrador!"
+ r56_canada.10.d:0 "[[~FROM.GetNameDefCap~]] hat uns den Besitz von Neufundland und Labrador übertragen, nachdem wir die Staaten freundlicherweise von ihnen angefordert haben."
+ r56_canada.10.a:0 "Gute Nachrichten!"
+
+ r56_canada.11.t:0 "[[~FROM.GetNameDefCap~]] lehnt ab!"
+ r56_canada.11.d:0 "[[~FROM.GetNameDefCap~]] hat sich geweigert, uns Neufundland und Labrador zu geben!"
+ r56_canada.11.a:0 "Eine Schande."
+ r56_canada.11.b:0 "Sie werden es bereuen."
+
+ r56_canada.12.t:0 "[[~CAN.GetNameDefCap~]] schlägt ein Bündnis vor!"
+ r56_canada.12.d:0 "[[~CAN.GetNameDefCap~]] ist auf uns zugekommen und hat ein Bündnis zwischen ihnen und uns vorgeschlagen."
+ r56_canada.12.a:0 "Das ist eine gute Idee; gemeinsam sind wir stark."
+ r56_canada.12.b:0 "Nein, sie versuchen nur, unsere militärische Macht auszunutzen."
+
+ r56_canada.13.t:0 "[[~USA.GetNameDefCap~]] hat unserem Bündnis zugestimmt!"
+ r56_canada.13.d:0 "[[~USA.GetNameDefCap~]] hat unserem Vorschlag eines nordamerikanischen Bündnisses zugestimmt! [[~USA.GetLeader~]] hat sich im Kongress eine Mehrheit dafür gesichert, da es die diplomatische Unabhängigkeit der [[~USA.GetAdjective~]] nicht gefährden würde. Im Gegenteil, aus Sicht von [[~USA.GetAdjective~]] würde es die Gefahr eines Krieges mit [[~ENG.GetNameDef~]] verringern."
+ r56_canada.13.a:0 "Gute Nachrichten!"
+
+ r56_canada.14.t:0 "[[~USA.GetNameDefCap~]] lehnt ab!"
+ r56_canada.14.d:0 "[[~USA.GetNameDefCap~]] hat unseren Vorschlag, eine Allianz zu gründen, mit der Begründung abgelehnt, dass wir ihre militärische Macht ausnutzen wollen!"
+ r56_canada.14.a:0 "Verdammte [[~USA.GetAdjective~]]s!"
+
+ r56_canada.15.t:0 "Rechte der Arbeiter"
+ r56_canada.15.d:0 "Durch die Verbesserung unserer Arbeitnehmerrechte konnten wir die Moral und die Zufriedenheit der Arbeitnehmer verbessern."
+ r56_canada.15.a:0 "Ausgezeichnet!"
+
+ r56_canada.16.t:0 "Wirtschaftskrise"
+ r56_canada.16.d:0 "Es sieht so aus, als ob wir hier ein wenig in Aufruhr sind. Die Menschen sind müde und aufgeregt, weil sich unsere Regierung nicht um die Wirtschaft kümmert!"
+ r56_canada.16.a:0 "Die Kanadier werden noch eine Weile aufgeregt sein, Jungs."
+
+
+ r56_canada.17.t:0 "Wirtschaftliche Stabilität"
+ r56_canada.17.d:0 "Die jüngsten Investitionen in kritische Industrien und das allgemeine Wohlergehen haben sich ausgezahlt. [Überall erleben die Menschen Wohlstand und Sicherheit in diesen turbulenten Zeiten."
+ r56_canada.17.a:0 "Gute Nachrichten!"
+
+ r56_canada_governor_general.1.t:0 "Generalgouverneur John Buchan stirbt"
+ r56_canada_governor_general.1.d:0 "Unser gediegener Generalgouverneur, der lange Zeit das Dominion of Canada unterstützt und seine Interessen gegenüber der Krone vertreten hat, ist nun zur Ruhe gebettet worden. Möge er Frieden finden."
+ r56_canada_governor_general.1.a:0 "Sein Vermächtnis wird nicht vergessen werden."
+
+ #News events ""
+ r56.news_event.1001.t:0 "[[~GetYear~]] Königliche Reise von [[~CAN.GetNameDef~]]"
+ r56.news_event.1001.d:0 "Zum ersten Mal in der Geschichte Kanadas hat ein regierender Monarch das Land besucht: König Georg VI. und Königin Elisabeth haben eine Rundreise durch [[~CAN.GetNameDef~]] unternommen. Das königliche Paar traf auf dem Canadian Pacific-Linienschiff "Empress of Australia" ein, das von zwei Zerstörern und zwei Kreuzern der Königlichen Kanadischen Marine eskortiert wurde. Ihre Reise mit dem blau-silbernen königlichen Zug soll alle kanadischen Provinzen umfassen, beginnend mit Quebec City, gefolgt vom Dominion Neufundland und weiter in die westlichen Regionen Kanadas wie Vancouver und Victoria. [[~CAN.GetLeader~]] wird das Königspaar auf seiner Reise durch das Land begleiten. Die Tour wird mit einem Besuch bei [[~USA.GetNameDef~]] enden."
+ r56.news_event.1001.a:0 "Wir fühlen uns durch einen solchen Besuch geehrt."
+ r56.news_event.1001.b:0 "Wir hoffen, dass der Besuch angenehm sein wird!"
+ r56.news_event.1001.c:0 "Nicht die richtige Zeit für eine Tournee"
+
+ r56.news_event.1002.t:0 "If-Tag"
+ r56.news_event.1002.d:0 "Organisiert von der Greater Winnipeg Victory Loan Organisation, wurde heute eine simulierte Invasion von [[~CAN.GetNameDef~]] durch [[~GER.GetAdjective~]]-Kräfte durchgeführt. Als wichtigste militärische Übung in Winnipeg gelang es ihnen, an einem Tag 3 Millionen Dollar für die Kriegsanstrengungen zu sammeln. Die Veranstaltung umfasste mehrere Scheinbombardierungen, Feuergefechte, Verhaftungen von Personen, die sich widersetzten, [[~GER.GetAdjective~]]-Paraden und viele andere Dinge. Der Tag endete mit der Freilassung der "Gefangenen", Paraden und Reden. Botschafter de Morgenstierne sprach über seine Erfahrungen mit der [[~GER.GetAdjective~]]-Besetzung und sagte, die Simulation der Invasion und der Besetzung sei ein authentischer Einblick in die [[~GER.GetAdjective~]]-Besetzung."
+ r56.news_event.1002.a:0 "Der Tag war ein Erfolg."
+  ""
+ #Tooltips ""
+ r56_CAN_depression_tt:0 "Verringert die Auswirkungen der [~§Y~]Großen Depression[~§!~][~[~\n~][~\n~]~]"
+ r56_CAN_volunteers_tt:0 "Ändert unsere effektive Mannstärke[~[~\n~][~\n~]~]"
+ r56_CAN_big_cut_tt:0 "Erhöht das Armeebudget und reduziert die Auswirkungen von [~§Y~]The Big Cut[~§!~][~[~\n~][~\n~]~]"
+ r56_CAN_nonindependent_airforce_tt:0 "Macht einen Schritt zur Trennung von Heer und Luftwaffe[~[~\n~][~\n~]~]"
+ r56_CAN_transfer_ships_tt:0 "[[~ENG.GetNameDefcap~]] transferiert mehrere [~§Y~]Zerstörer[~§!~] zu uns"
+ defence_scheme_no2_tt:0 "Baut Stufe 2 [~§Y~]Küstenforts[~§!~] an unserer Westküste."
+ can_americas_tt:0 "Schaltet £decision_icon_small [~§G~]Entscheidungen[~§!~] frei, um Ländern in [~§Y~]Südamerika[~§!~], die nicht demokratisch sind, den Krieg zu erklären."
+ r56_CAN_conscription_crisis_tt:0 "£trigger_yes Kann Einberufungsgesetze ändern"
+ canadian_fuhrer_tt:0 "[~§Y~]Adrien Arcand[~§!~] erhält die Eigenschaft:[~\n~][~§Y~]Kanadischer Führer[~§!~][~\n~]Politischer Machtzuwachs: [~§G~]+15%[~§!~][~\n~]Kriegsunterstützung: [~§G~]+5.00%[~§!~]"
+ r56_CAN_usa_ships_tt:0 "[~§Y~][[~USA.GetNameDefcap~]][~§!~] wird mehrere Schiffe an uns übergeben."
+ r56_CAN_defence_scheme_no2_trigger_tt:0 "[~§Y~]Sie[~§!~] oder [~§Y~][[~USA.GetNameDef~]][~§!~] rechtfertigen, oder haben ein Kriegsziel gegen [~§Y~][[~JAP.GetNameDef~]][~§!~][~\n~]Oder [~§Y~][[~JAP. GetNameDef~]][~§!~] rechtfertigt, ein Kriegsziel gegen [~§Y~]Sie[~§!~] oder [~§Y~][[~USA.GetNameDef~]][~§!~] hat, oder den Fokus auf [~§Y~]Secure the Philippines[~§!~] gelegt hat"
+ newfoundland_labrador_tt:0 "Der Besitzer von [~§Y~][[~331.GetName~]][~§!~] und [~§Y~][[~332.GetName~]][~§!~] befindet sich im Krieg."
+ CAN_state_manpower_tt:0 "[~§Y~][[~466.GetName~]][~§!~], [~§Y~][[~861.GetName~]][~§!~], [~§Y~][[~860.GetName~]][~§!~], [~§Y~][[~863.GetName~]][~§! ~], [~§Y~][[~862.GetName~]][~§!~] und [~§Y~][[~468.GetName~]][~§!~]:[~\n~]Lokale Arbeitskräfte: [~§G~]+75%[~§!~][~[~\n~][~\n~]~]"
+ quebec_conscription_tt:0 "[~§Y~][[~466.GetName~]][~§!~], [~§Y~][[~861.GetName~]][~§!~], [~§Y~][[~860.GetName~]][~§!~], [~§Y~][[~863. GetName~]][~§!~], [~§Y~][[~862.GetName~]][~§!~] und [~§Y~][[~468.GetName~]][~§!~]:[~\n~]Lokale Arbeitskräfte: [~§R~]-75%[~§!~]"
+ quebec_conscription_02_tt:0 "[~§Y~][[~466.GetName~]][~§!~], [~§Y~][[~861.GetName~]][~§!~], [~§Y~][[~860.GetName~]][~§!~], [~§Y~][[~863. GetName~]][~§!~], [~§Y~][[~862.GetName~]][~§!~] und [~§Y~][[~468.GetName~]][~§!~]:[~\n~]Lokale Arbeitskräfte: [~§R~]-10%[~§!~]"
+ frogmen_of_burma_tt:0 "Erhalte eine [~§Y~]Elite[~§!~] Marineeinheit in [~§Y~][[~466.GetName~]][~§!~]"
+ r56_CAN_plebiscite_committees_tt:0 "[~§Y~]Verringert die Strafen für die Zwangseinberufung[~§!~]."
+ r56_CAN_workers_rights_tt:0 "[~§Y~]Nach einer Weile wird die Verbesserung der Arbeiterrechte die Effizienz unserer Arbeiter verbessern[~§!~]"
+ r56_CAN_strike_the_quebecois_anti_communists_tt:0 "[~§Y~]Wird helfen, die Frankokanadier zur Wehrpflicht zu bewegen[~§!~]"
+ r56_CAN_volunteers_trigger_tt:0 "£trigger_no [~§R~]Kann das Wehrpflichtgesetz nicht ändern[~§!~]"
+ r56_CAN_conscription_crisis_trigger_tt:0 "Hat kein Einberufungsgesetz [~§Y~]Freiwillige[~§!~]"
+ r56_CAN_support_the_soviets_tt:0 "Schickt [~§Y~]10000[~§!~] von [~§Y~]Infanterieausrüstung[~§!~] und [~§Y~]1000[~§!~] von [~§Y~]gezogener Artillerie[~§!~] und [~§Y~]Unterstützungsausrüstung[~§!~] zu [~§!~][[~SOV.GetNameDef~]][~§!~].[~\n~]Alte gehen zuerst."
+ r56_CAN_independent_democracy_tt:0 "[~§R~]Sperrt ALLE anderen politischen Pfade[~§!~]"
+ r56_CAN_our_own_way_tt:0 "[~§R~]Sperrt den[~§!~] [~§Y~]Unabhängigen Demokratie[~§!~] [~§R~]Zweig[~§!~]"
+ r56_CAN_secure_the_economy_tt:0 "[~§Y~]Die Wirtschaft zu sichern wird eine Weile dauern, aber sie nicht zu sichern kann[~§!~] [~§R~]gefährliche Auswirkungen haben[~§!~]"
+ quebec_conscription_modify_tt:0 "Modifiziere [~§Y~]Quebecer Nationalismus[~§!~] durch:[~[~\n~][~\n~]~][~§Y~][[~466.GetName~]][~§!~], [~§Y~][[~861.GetName~]][~§!~], [~§Y~][[~860.GetName~]][~§! ~], [~§Y~][[~863.GetName~]][~§!~], [~§Y~][[~862.GetName~]][~§!~] und [~§Y~][[~468.GetName~]][~§!~]:[~\n~]Lokale Arbeitskräfte: [~§G~]+60%[~§!~]"
+ r56_CAN_ACW_equipment_tt:0 "Die Menge an Ausrüstung, die in die [~§Y~]USA[~§!~] geschickt wird, hängt von der Menge an [~§Y~]Infanterie-Ausrüstung[~§!~] und [~§Y~]Artillerie-Ausrüstung[~§!~] in Ihrem Vorrat ab."
+ r56_CAN_secure_american_democracy_tt:0 "Wir werden entweder [~§R~]militärisch in den [~§Y~]Amerikanischen Bürgerkrieg[~§!~] im Namen des [~§C~]Demokratischen Establishments[~§!~] eingreifen oder wir werden [~§G~]eine bereits etablierte [~§R~]undemokratische[~§!~] [~§Y~]Vereinigte Staaten[~§!~] zerschlagen."
+ r56_CAN_claims_on_america_tt:0 "Die [~§G~]Integration[~§!~] dieser [~§Y~]Staaten[~§!~] wird möglich sein, wenn wir jemals in ihren Besitz kommen."
+
+ #Traits ""
+ aircraft_production_expert:0 "Experte für Flugzeugproduktion"
+ minister_of_mines_and_resources:0 "Minister für Bergbau und Ressourcen"
+ canadian_fuhrer:0 "Kanadischer Führer"
+ devoted_communist:0 "Engagierter Kommunist"
+
+ #Country Flags ""
+ r56_can_bickell_returned:0 "Bickell ist zurückgekehrt."
+ r56_can_riots_continued:0 "Lasst sie randalieren."
+ r56_CAN_already_integrating:0 "Integriert bereits einen anderen Staat."
+ r56_CAN_economy_in_shambles:0 "Wirtschaftlicher Sturzflug!"
+
+ #Opinion Modifiers ""
+ R56_CAN_trust_in_the_commonwealth_mofidier:0 "Vertrauen in das Commonwealth"
+ R56_CAN_distance_from_the_commonwealth_modifier:0 "Distanz zum Commonwealth"
+ R56_CAN_pjnbd_modifier:0 "Ständiger Gemeinsamer Ausschuss für Verteidigung"
+ R56_CAN_ACW_modifer:0 "Hilfe im Bürgerkrieg"
+ R56_CAN_ACW_small_amount_of_equipment_modifer:0 "Gesendete Ausrüstung"
+ R56_CAN_ACW_medium_amount_of_equipment_modifer:0 "Gesendete Ausrüstung"
+ R56_CAN_ACW_large_amount_of_equipment_modifer:0 "Gesendete Ausrüstung"
+ CAN_strengthen_the_commonwealth_ties:0 "Stärkung der Commonwealth-Bindungen"
+
+ #Research Groups ""
+ r56_can_pmjdb_research_name:0 "Ständiges Gemeinsames Gremium für Verteidigung"
+ r56_can_pmjdb_research_desc:0 "Der Ständige Gemeinsame Ausschuss für Verteidigung ist ein hochrangiges Beratungsgremium für die militärische Verteidigung Nordamerikas zwischen [[~USA.GetNameDef~]] und [[~CAN.GetNameDef~]]."
+
+ #Decisions ""
+ CAN_defence_scheme_no1:0 "Verteidigungsschema Nr. 1"
+ CAN_defence_scheme_no1_desc:0 "Unser Verteidigungsplan Nr. 1 enthält Pläne für den Fall eines Krieges mit [[~USA.GetNameDef~]]. Die Umsetzung dieser Pläne kann sie überraschen und uns einen Vorteil verschaffen."
+ CAN_democracy_decision:0 "Demokratie in [[~FROM.GetNameDef~]] einführen"
+ CAN_democracy_decision_desc:0 "Um den Frieden in Amerika zu schützen und zu erhalten, müssen wir möglicherweise extreme Maßnahmen ergreifen, um sicherzustellen, dass die Demokratie herrscht."
+ CAN_seize_newfoundland_and_labrador:0 "Beschlagnahme von Neufundland und Labrador"
+ CAN_integrate_alaska:0 "Alaska eingliedern"
+ CAN_integrate_washington:0 "Eingliederung von Washington"
+ CAN_integrate_oregon:0 "Oregon eingliedern"
+ CAN_integrate_new_england:0 "Neuengland einbinden"
+
+ #Factions ""
+ r56_can_american_alliance:0 "Die Amerikanische Allianz"
+ northern_sovereignty_coalition:0 "Nördliche Souveränitätskoalition"
+
+ r56_CAN_sorel_steel_and_foundry:0 "Sorel Stahl und Gießerei"
+ r56_CAN_sorel_steel_and_foundry_desc:0 "Sorel wird das Herzstück unserer Stahlproduktion sein und mit der nahe gelegenen Schiffswerft und der geplanten Waffenfabrik zusammenarbeiten."
+
+ CAN_howard_reid:0 "Howard Reid"
+ CAN_james_prentice:0 "James Prentice"
+
+ CAN_frogmen_tech:0 "Kampf-Froschmänner"
