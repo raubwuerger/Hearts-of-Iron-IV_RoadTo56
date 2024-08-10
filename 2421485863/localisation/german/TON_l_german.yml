@@ -1,1 +1,12 @@
 ﻿l_german:
+ TON_queen_of_the_people:0 "Königin des Volkes"
+
+ form_polynesia_category_desc:0 "Das Land Polynesien ist seit Jahrtausenden bewohnt, noch vor der Erfindung der Schrift im alten Sumerien. Obwohl Polynesien eine Region ist, die sich über Tausende von Kilometern Ozean erstreckt, sind sich die Menschen dort paradoxerweise sehr ähnlich, sowohl in kultureller als auch in politischer Hinsicht."
+ unlock_polynesia_decisions:0 "Schaltet Entscheidungen zur Integration von [~§Y~]Mikronesischen[~§!~] und [~§Y~]Melanesischen[~§!~] Inseln frei."
+ form_country_melanesia_coring_states_tt:0 "Gewinnt Kerne auf allen [~§Y~]Melanesischen[~§!~] Inseln[~§!~].[~\n~]"
+ form_country_micronesia_coring_states_tt:0 "Gewinnt Kerne auf allen [~§Y~]Mikronesischen[~§!~] Inseln[~§!~].[~\n~]"
+
+ integrate_melanesia:0 "Integrieren Sie die melanesischen Inseln"
+ integrate_micronesia:0 "Integriert die mikronesischen Inseln"
+
+ TON_neutrality_party:0 "Haus von Tupou"

@@ -1,1 +1,38 @@
 ﻿l_german:
+
+#characters ""
+ MEN_li_shouxin:0 "Li Shouxin"
+ MEN_altanochir:0 "Altanochir"
+ MEN_hikojiro_muratani:0 "Hikojiro Muratani"
+ MEN_hesehn_tiemei:0 "Hesehn Tiemei"
+ MEN_deng_linge:0 "Deng Linge"
+ MEN_hung_zhehuang:0 "Hung Zhehuang"
+ MEN_kyoiji_tomonaga:0 "Kyoiji Tomonaga"
+ MEN_guan_xingde:0 "Guan Xingde"
+ MEN_nalan_kang_an:0 "Nalan Kang'an"
+ MEN_songgotu_zhanshan:0 "Songgotu Zhanshan"
+ MEN_yonimitsu_kasahara:0 "Yonimitsu Kasahara"
+ MEN_altanochir:0 "Altanochir"
+
+ ################################ FOCUSES #################################3 ""
+ men_jap:0 "Mit den Japanern zusammenarbeiten"
+ men_jap_desc:0 "Die Zusammenarbeit mit den Japanern ist im Moment vielleicht die beste Lösung. Die Zentralregierung ist schwach. Allerdings könnten wir in diesem Fall die Unterstützung unserer Regierung in den westlichen Ländern verlieren."
+
+ men_goverment:0 "Das Komitee stärken"
+ men_goverment_desc:0 "Wir müssen die Regierung stärken, wenn wir effektiv regieren wollen."
+
+ men_own:0 "Alleine regieren"
+ men_own_desc:0 "Die Japaner und die Zentralregierung haben viele Probleme. Es ist das Beste, wenn wir versuchen, es allein zu schaffen."
+
+ MEN_accept_chinese_suzerainty:0 "Chinesische Suzeränität akzeptieren"
+ MEN_accept_chinese_suzerainty_desc:0 "Ein Bündnis mit [[~JAP.getName~]] wird die chinesischen Beamten verärgern und die Guerilla-Aktivitäten der kommunistischen Banditen, die unseren wehrlosen Staat überfallen, anheizen. Die Sicherung der chinesischen Herrschaft mag einigen Nationalisten des Landes widerstreben, doch ist sie das Einzige, was wir uns unter den derzeitigen Umständen leisten können."
+
+ ################# EVENTS ############################3 ""
+
+ men.22.t:0 "[[~MEN.GetName~]] Gegründet"
+ men.22.d:0 "Die [[~MEN.GetName~]] wurde von Demchugdongrub mit Hilfe der Japaner gegründet. Auch sie haben sich unserer Kontrolle entzogen. Verräter!"
+ men.22.a:0 "Eine unangenehme Entwicklung"
+
+ men.11.t:0 "[[~From.GetName~]] schließt sich uns an!"
+ men.11.d:0 "Demchugdongrub hat der Gründung der [[~MEN.GetName~]] zugestimmt und [[~MEN.GetLeader~]] wurde zum Vorsitzenden ernannt. Sie sind nun loyal zu uns und haben sich von der [[~CHI.GetRulingParty~]] gelöst."
+ men.11.a:0 "Dies wird die [[~CHI.GetRulingParty~]] stark schwächen!"

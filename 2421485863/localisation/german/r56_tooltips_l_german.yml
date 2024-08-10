@@ -1,1 +1,70 @@
 ﻿l_german:
+
+#r56 tooltips merged together in the single file instead of being thrown all around the place - Fantom ""
+
+#### enable X tactic ""
+r56_enable_deep_battle_tt:0 "[~§W~]Aktiviere Taktik:[~§!~] [~§Y~]Meisterhafter Rückhandschlag[~§!~]"
+r56_enable_motti_tactics:0 "[~§W~]Aktiviert Taktik:[~§!~] [~§Y~]Meisterhafte Plötzliche Umhüllung[~§!~] #Eigene finnische Taktik. Ersetzt Plötzliche Umhüllung nach Fokus."
+
+###compliance checks ""
+is_core_or_compliance_30_tt:0 "ist ein Kern seines [~§Y~]Controllers[~§!~] oder hat [~§Y~]30 Compliance[~§!~]"
+is_core_or_compliance_30_tt_NOT:0 "ist NICHT Kern seines [~§Y~]Controllers[~§!~] oder hat [~§Y~]30 Compliance[~§!~][~\n~]"
+state_has_compliance_30_tt:0 "hat [~§Y~]30 Compliance[~§!~][~\n~]"
+
+###availability tooltips ""
+available_materiel_manufacturer:0 "[~§G~]Verfügbar[~§!~] als [~§H~]Materialhersteller[~§!~]:"
+available_tank_designer:0 "[~§G~]Verfügbar[~§!~] als [~§H~]Tank Designer[~§!~]:"
+available_ship_designer:0 "[~§G~]Verfügbar[~§!~] als [~§H~]Schiffsdesigner[~§!~]:"
+available_aircraft_designer:0 "[~§G~]Verfügbar[~§!~] als [~§H~]Flugzeugkonstrukteur[~§!~]:"
+available_industrial_concern:0 "[~§G~]Verfügbar[~§!~] als [~§H~]Industriebetrieb[~§!~]:"
+
+###Formables ""
+GEN_control_of_these_states_is_required_to_form_the_nation:0 "Die Kontrolle über diese Staaten ist erforderlich, um eine neue Nation zu bilden"
+has_reformed_ottoman_empire_tt:0 "Hat das [~§H~]Osmanische Reich[~§!~] reformiert"
+
+r56_becomes_controller_tt:0 "Wird Kontrolleur von [~§Y~]Staat[~§!~]"
+
+###strategic region tooltips ""
+#Middle East ""
+state_is_on_arabian_peninsula_tt:0 "Liegt auf der arabischen Halbinsel."
+#Europe ""
+state_balkan_north_of_drina_and_brava_river_tt:0 "Balkanstaat nördlich der Flüsse Drina und Brava"
+#Asia ""
+state_is_in_iraq_or_arabian_peninula_tt:0 "Liegt im Irak selbst oder auf der arabischen Halbinsel"
+
+state_is_in_manchuria_tt:0 "Liegt in der Mandschurei ohne Ost-Hebei, Dailan und die Gebiete von Mengukou"
+state_is_manchuria_plus_mengukou_tt:0 "Liegt in der Mandschurei einschließlich Ost-Hebei, Dailan und der Gebiete von Mengukou"
+state_is_western_china_tt:0 "Liegt in Sinkiang oder den westlichen Teilen der Ma-Clique"
+state_in_central_plain_no_mengukou_tt:0 "Liegt in der Zentralebene, südlich und östlich von Peking"
+state_in_soviet_far_east_tt:0 "Liegt in [[~SOV.getAdjective~]] Fernen Osten"
+state_in_soviet_far_east_mongolia_sinkiang_tibet_tt:0 "Liegt in Tannu Uriankhai, der Mongolei, Sinkiang oder Tibet"
+state_in_indochina_malaysia_indonesia_raj_tt:0 "Liegt in [~§H~]Indochina[~§!~], [~§H~]Malaysia[~§!~], [~§H~]Indonesien[~§!~], [~§H~]Philippinen[~§!~] oder [~§H~]ehemaliges Britisches Raj[~§!~]"
+state_in_indochina_tt:0 "Liegt in der strategischen Region [~§H~]Nordindochina[~§!~] oder [~§H~]Südindochina[~§!~]"
+state_is_in_central_asia_greater_steppe_siberia_tt:0 "Liegt in [~§H~]Zentralasien[~§!~], [~§H~]Großer Steppe[~§!~], [~§H~]Zentralchina[~§!~] oder [~§H~]Trans-Ural[~§!~]"
+state_not_in_indochina_malaysia_indonesia_raj_tt:0 "Liegt [~§H~]NICHT[~§!~] in [~§H~]Indochina[~§!~], [~§H~]Malaysia[~§!~], [~§H~]Indonesien[~§!~], [~§H~]Philippinen[~§!~] oder [~§H~]ehemaliges Britisches Raj[~§!~]"
+state_in_central_steppe_or_central_asia_tt:0 "Liegt in der strategischen Region [~§H~]Zentrale Steppe[~§!~] oder [~§H~]Zentralasien[~§!~]"
+
+state_in_siam_tt:0 "Liegt in [~§H~]Siam Proper[~§!~]"
+state_in_north_indochina_except_vietnam_tt:0 "Liegt in der strategischen Region [~§H~]Nordindochina[~§!~] außer Tonkin und Nord-Annam"
+state_in_south_indochina_except_vietnam_tt:0 "Liegt in der strategischen Region [~§H~]Südindochina[~§!~], außer Cochinchina und Süd-Annam"
+
+state_is_in_arabian_peninsula_tt:0 "Liegt in [~§H~]Arabische Halbinsel[~§!~]"
+
+#puppet check tooltips ""
+is_subject_extra_tt:0 "Ist [~§H~]Untertan[~§!~]"
+
+#extra rules checks ""
+
+GENERIC_cant_join_factions_tt:0 "Setze die Regel: £trigger_no Kann Fraktionen beitreten."
+GENERIC_cant_puppet_tt:0 "Lege die Regel fest: £trigger_no Kann ein Land marionettieren."
+GENERIC_cant_create_collaboration_government_tt:0 "Lege die Regel fest: £trigger_no Kann Kollaborationsregierungen bilden."
+
+ #cp and pp cost tooltips ""
+ decision_cost_CP_50_PP_25:0 "£command_power [~§Y~]50[~§!~] £pol_power_icon [~§Y~]25[~§!~]"
+ decision_cost_CP_50_PP_25_blocked:0 "£command_power [~§R~]50[~§!~] £pol_power_icon [~§R~]25[~§!~]"
+ decision_cost_CP_50_PP_25_tooltip:0 "Es kostet £command_power [~§Y~]50[~§!~] und £pol_power_icon [~§Y~]25[~§!~] um dies auszuwählen."
+ decision_cost_CP_75_PP_50:0 "£command_power [~§Y~]75[~§!~] £pol_power_icon [~§Y~]50[~§!~]"
+ decision_cost_CP_75_PP_50_blocked:0 "£command_power [~§R~]75[~§!~] £pol_power_icon [~§R~]50[~§!~]"
+ decision_cost_CP_75_PP_50_tooltip:0 "Es kostet £command_power [~§Y~]75[~§!~] und £pol_power_icon [~§Y~]50[~§!~] um dies auszuwählen."
+
+ rail_way_plural:0 "Eisenbahnen"

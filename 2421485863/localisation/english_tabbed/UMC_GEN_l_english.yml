@@ -1,5 +1,5 @@
 ﻿l_english:
- ########################## Basics ##########################       [~\n~]      [~§H~][~§!~]
+ ########################## Basics ##########################
 
  GEN_personal_affair:0	"Personal Affair"
  GEN_personal_affair_desc:0	"The current war [[~ROOT.GetName~]] is in is more personal than political. Thus other nations don't want to get involved, nor should they."

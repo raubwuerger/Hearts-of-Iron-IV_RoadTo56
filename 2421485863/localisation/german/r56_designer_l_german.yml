@@ -1,1 +1,36 @@
 ﻿l_german:
+  ### Equipment Flavor by Abbus ""
+
+  #ENG (Sorted by Timeline) ""
+
+  #Destoryer ""
+  tribal_class: "Stammesklasse"
+  jkn_class: "J/K/N-Klasse"
+  weapon_class: "Waffenklasse"
+  battle_class: "Kampf-Klasse"
+
+  #Destoryer Escort ""
+  hunt_class: "Jagd-Klasse"
+  river_class: "Fluss-Klasse"
+
+  #Light Cruiser ""
+  cruiser_c_class_aa: "C-Klasse AA"
+  town_class_aa: "Stadt Klasse AA"
+  minotaur_class: "Minotaurus-Klasse"
+  neptune_class: "Neptun-Klasse"
+
+  #Heavy Cruiser ""
+  norfolk_class: "Norfolk-Klasse"
+
+  #Battleships ""
+  king_george_v_class_aa: "King George V Klasse AA"
+  courageous_class_1939: "Courageous Klasse Nachrüstung"
+
+  #Battlecruiser ""
+  admiral_class_1940: "Admiral Klasse Nachrüstung"
+
+  #Carrier ""
+  audacious_class: "Audacious-Klasse"
+
+  #Submarine ""
+  porpoise_class: "Porpoise-Klasse"

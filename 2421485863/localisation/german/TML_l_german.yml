@@ -1,1 +1,12 @@
 ﻿l_german:
+
+#parties ""
+
+TML_fascism_party:0 "UDT"
+  TML_fascism_party_long:0 "Demokratische Union Timoriens"
+TML_democratic_party:0 "CNRT"
+  TML_democratic_party_long:0 "Nationaler Kongress für den Wiederaufbau von Timor"
+TML_communism_party:0 "Fretilin"
+  TML_communism_party_long:0 "Revolutionäre Front des unabhängigen Osttimors"
+TML_neutrality_party:0 "Koloniale Regierung"
+  TML_neutrality_party_long:0 "Portugiesische Kolonialregierung"

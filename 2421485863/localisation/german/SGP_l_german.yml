@@ -1,1 +1,12 @@
 ﻿l_german:
+
+#parties ""
+
+SGP_fascism_party:0 "cPAP"
+  SGP_fascism_party_long:0 "People's Action Party"
+SGP_democratic_party:0 "Fortschrittspartei"
+  SGP_democratic_party_long:0 "Fortschrittspartei"
+SGP_communism_party:0 "LF"
+  SGP_communism_party_long:0 "Arbeitsfront"
+SGP_neutrality_party:0 "Bendahara"
+  SGP_neutrality_party_long:0 "Haus der Bendahara"

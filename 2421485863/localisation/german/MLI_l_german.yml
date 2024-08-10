@@ -1,1 +1,53 @@
 ﻿l_german:
+
+mali_focus:0 "Nationaler Fokus Mali"
+
+MLI_the_sudan_of_west_africa:0 "Der Sudan in Westafrika"
+MLI_collectivist_thinking:0 "Kollektivistisches Denken"
+MLI_propagate_marxist_ideas:0 "Propagierung marxistischer Ideen"
+MLI_political_batallions:0 "Politische Bataillone"
+MLI_seize_the_means_of_production:0 "Beschlagnahme der Produktionsmittel"
+MLI_revolutionary_guards:0 "Revolutionäre Wachen"
+MLI_lead_the_african_communist_movements:0 "Führen der afrikanischen kommunistischen Bewegungen"
+MLI_join_the_comintern:0 "Eintritt in die Komintern"
+MLI_red_army:0 "Die [[~ROOT.getAdjective~]] Rote Armee"
+MLI_everything_for_the_nation:0 "Alles für die Nation"
+MLI_mobilization_of_the_masses:0 "Mobilisierung der Massen"
+MLI_prepare_expansion:0 "Territoriale Ausdehnung vorbereiten"
+MLI_march_down_stream:0 "Marsch stromabwärts"
+MLI_to_the_bitter_end:0 "Bis zum bitteren Ende"
+MLI_organise_the_youth:0 "Organisierung der Jugend"
+MLI_armament_program:0 "Aufrüstungsprogramm"
+MLI_reinforce_the_presidency:0 "Verstärkung der Präsidentschaft"
+MLI_control_extremists:0 "Extremisten kontrollieren"
+MLI_secret_police:0 "Geheimpolizei"
+MLI_police_the_north:0 "Polizei im Norden"
+MLI_gather_close_advisors:0 "Enge Berater versammeln"
+MLI_fund_the_defense_industry:0 "Finanzierung der Verteidigungsindustrie"
+MLI_build_democratic_institutions:0 "Aufbau demokratischer Institutionen"
+MLI_concessions_to_the_azawad_berbers:0 "Zugeständnisse an die Berber im Azawad"
+MLI_consider_foreign_intervention:0 "Ausländische Intervention erwägen"
+MLI_push_for_a_west_african_federation:0 "Drängen auf eine westafrikanische Föderation"
+MLI_west_african_defense_treaty:0 "Westafrikanischer Verteidigungsvertrag"
+MLI_propose_the_federation_of_mali:0 "Vorschlag für eine Föderation von Mali"
+MLI_religious_political_justifications:0 "Religiöse politische Rechtfertigungen"
+MLI_reinforce_the_treaty_members:0 "Verstärkung der Vertragsmitglieder"
+MLI_find_close_allies:0 "Enge Verbündete finden"
+MLI_common_armament_program:0 "Gemeinsames Rüstungsprogramm"
+
+
+
+MLI_azawad_divide:0 "Die Azawad-Kluft"
+
+r56_mali.1.t:0 "[[~MLI.getNameDef~]] Wollen, dass wir der Malischen Föderation beitreten"
+r56_mali.1.desc:0 "Die [[~MLI.getAdjective~]]-Regierung schlägt in ihrem Streben nach einer Art panafrikanischer Politik eine Union zwischen unseren Ländern vor. Dies würde bedeuten, dass wir in eine föderale Föderation von Mali aufgenommen werden."
+r56_mali.1.a:0 "Gemeinsam werden wir stärker sein."
+r56_mali.1.b:0 "Das ist nur eine verdeckte Annexion."
+
+r56_mali.2.t:0 "[[~FROM.getNameDef~]] Ist der Föderation beigetreten!"
+r56_mali.2.desc:0 "Die [[~FROM.getAdjective~]]-Regierung ist mit unseren föderalistischen Ansichten einverstanden und wird sich unserer größeren Bewegung anschließen."
+r56_mali.2.a:0 "Ausgezeichnet!"
+
+r56_mali.3.t:0 "[[~FROM.getNameDef~]] Hat unseren Vorschlag abgelehnt!"
+r56_mali.3.desc:0 "Die [[~FROM.getAdjective~]]-Regierung von [[~FROM.getLeader~]], die der Idee einer Föderation ablehnend gegenübersteht, hat unseren Vorschlag abgelehnt und damit für Unruhe im eigenen Land gesorgt."
+r56_mali.3.a:0 "Das ist nur ein Rückschlag."

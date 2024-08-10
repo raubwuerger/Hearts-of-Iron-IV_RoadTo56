@@ -1,1 +1,134 @@
 ﻿l_german:
+
+ operative_skill_3:0 "Spezialagent"
+ operative_skill_4:0 "Top Secret Agent"
+
+r56_spying_event.1.t:0 "Ausländische Agenten schließen sich uns an"
+r56_spying_event.1.desc:0 "Wenn Regierungen fallen, bleiben die Spione. Da sie der gleichen Sache dienen wollen, haben sie beschlossen, sich uns anzuschließen, und sind nun bereit, ihre Arbeit aufzunehmen."
+r56_spying_event.1.a:0 "Ein weiterer Tag im Verborgenen."
+
+r56_spying_event.2.t:0 "Die [[~ROOT.GetAgency~]] empfiehlt einen merkwürdigen Rekruten"
+r56_spying_event.2.desc:0 "[Unserem Geheimdienst ist ein interessanter Rekrut aufgefallen. Obwohl er nicht besonders geschickt ist, könnte sein Hintergrund ihn zu einem wertvollen Aktivposten machen. Er diente als Offizier in der österreichisch-ungarischen Armee, arbeitete in den 1920er und frühen 1930er Jahren in Brasilien, bevor er nach Deutschland zurückkehrte."
+r56_spying_event.2.a:0 "Stellen Sie ihn ein."
+r56_spying_event.2.b:0 "Ein qualifizierter Rekrut wäre vorzuziehen."
+
+r56_spying_event.3.t:0 "Semen Semenov schloss sein Studium am MIT ab."
+r56_spying_event.3.desc:0 "Nach jahrelangem Studium in den Vereinigten Staaten wurde Agent Semenov zum "Biber", indem er seinen Abschluss am MIT machte (das ist der Spitzname, den sie ihren ehemaligen Studenten gaben). Er ist nun in der Lage, im Land als Ingenieur zu arbeiten. Er nutzte sein Studium, um Kontakte zu wissenschaftlichen Kreisen zu knüpfen, und dürfte in der Lage sein, sich mit den neuesten amerikanischen Innovationen vertraut zu machen."
+r56_spying_event.3.a:0 "Ausgezeichneter Tovaritsch!"
+
+r56_spying_event.4.t:0 "Ilie Cătărău kehrt zurück."
+r56_spying_event.4.desc:0 "Nach Jahren der Weltreise, in denen er nach eigenen Angaben König eines polynesischen Stammes wurde, kehrt Ilie Cătărău in sein Land zurück. Er war bereits 1914 an einigen Operationen in Ungarn beteiligt und weigerte sich, der Republik Moldau die Treue zu schwören, als diese ihre Unabhängigkeit erklärte. Dieser Mann mit einem sehr bewegten Leben könnte seiner komplizierten Biografie noch weitere Bände hinzufügen..."
+r56_spying_event.4.a:0 "Ausgezeichnet!"
+
+r56_spying_event.5.t:0 "Kommunistische Agenten rekrutiert"
+r56_spying_event.5.desc:0 "Neue Rekruten, die der Sache der Revolution treu sind, sind bereit, im Verborgenen zu dienen."
+r56_spying_event.6.t:0 "Kommunistische Agenten rekrutiert"
+r56_spying_event.6.desc:0 "Der Sache der Revolution treu, sind neue Rekruten bereit, im Verborgenen zu dienen."
+r56_spying_event.7.t:0 "[[~ROOT.getAdjective~]] Offiziere angegriffen!"
+r56_spying_event.7.desc:0 "Offiziere, die einem unserer Kommandeure nahestehen, wurden bei einem koordinierten terroristischen Angriff verletzt. Die Nation wünscht den Überlebenden eine schnelle Genesung. In der Zwischenzeit muss der örtliche Offiziersstab ohne einige wichtige Mitarbeiter weiterarbeiten, während Ersatz auf dem Weg ist."
+
+lar_operative_event.7.t:0 "Geheime Mission abgeschlossen"
+lar_operative_event.7.desc:0 "Unsere Agenten haben ihre Mission abgeschlossen. Die Kontakte zu ihren Vorgesetzten sind hergestellt und die Berichte werden geschrieben. Die Agenten werden so bald wie möglich für neue Operationen bereit sein."
+lar_operative_event.7.a:0 "Klassifizieren Sie diese Mappe."
+
+lar_operative_event.8.t:0 "Rettungseinsatz abgeschlossen"
+lar_operative_event.8.desc:0 "Unsere Agenten haben ihren Auftrag zur Rettung eines gefangenen verbündeten Agenten abgeschlossen. Die Kontakte zu den Betreuern wurden hergestellt, und es werden Berichte verfasst. Die Agenten werden so bald wie möglich für neue Operationen bereit sein."
+
+lar_operative_event.9.t:0 "Auftrag abgeschlossen: Verwaltung infiltriert"
+lar_operative_event.9.desc:0 "[Nach der Kontaktaufnahme mit kooperativen Beamten ist es unseren Agenten der [[~ROOT.GetAgency~]] gelungen, Kontakte innerhalb der ausländischen bürokratischen Struktur zu knüpfen."
+
+lar_operative_event.10.t:0 "Geheime Mission abgeschlossen: Foreign Armed Forces Infiltrated"
+lar_operative_event.10.desc:0 "[Nachdem unsere Agenten der [[~ROOT.GetAgency~]] Kontakte zu leicht zu beeinflussenden Soldaten und Offizieren geknüpft haben, ist es ihnen gelungen, Kontakte innerhalb der militärischen Kommandostruktur herzustellen."
+
+lar_operative_event.11.t:0 "Geheime Mission abgeschlossen: Fremde Marine infiltriert"
+lar_operative_event.11.desc:0 "[Nach der Kontaktaufnahme mit leicht beeinflussbaren Matrosen und Offizieren ist es unseren Agenten der [[~ROOT.GetAgency~]] gelungen, Kontakte innerhalb der Kommandostruktur ihrer Marine zu knüpfen."
+
+lar_operative_event.12.t:0 "Geheime Mission abgeschlossen: Fremde Luftwaffe infiltriert"
+lar_operative_event.12.desc:0 "[Nachdem unsere Agenten der [[~ROOT.GetAgency~]] Kontakte zu leicht beeinflussbaren Piloten und Mechanikern geknüpft haben, ist es ihnen gelungen, Kontakte innerhalb der Kommandostruktur ihrer Luftwaffe herzustellen."
+
+lar_operative_event.13.t:0 "Geheime Mission abgeschlossen: Kollaborateure gestärkt"
+lar_operative_event.13.desc:0 "[Unsere Agenten haben ihren Auftrag erfüllt. Es wurden Kontakte zu Sympathisanten geknüpft und Beamte beeinflußt. Waffen und Geld wurden verteilt, um ihren politischen Einfluss zu sichern, wenn der Tag der Abrechnung für sie kommt. Dies ist ein weiterer Erfolg für die [[~ROOT.GetAgency~]]."
+
+lar_operative_event.14.t:0 "Geheime Mission abgeschlossen: Cipher gefangen genommen"
+lar_operative_event.14.desc:0 "[Das jüngste Projekt der [[~ROOT.GetAgency~]] zur Ergreifung ausländischer Chiffren ist abgeschlossen. Die erbeuteten Daten werden nun analysiert, um deren kryptographische Systeme zu knacken."
+
+lar_operative_event.15.t:0 "Geheime Mission abgeschlossen: Gefälschte Informationen platziert"
+lar_operative_event.15.desc:0 "[Das neueste Projekt der [[~ROOT.GetAgency~]] zur Täuschung des Feindes durch die Einschleusung falscher Informationen ist abgeschlossen."
+
+lar_operative_event.16.t:0 "Geheime Mission abgeschlossen: Coup eingeleitet"
+lar_operative_event.16.desc:0 "[Den Agenten der [[~ROOT.GetAgency~]] ist es gelungen, eine ideologisch motivierte Revolte unter den ausländischen Anhängern von [[~ROOT.GetRulingIdeologyNoun~]] zu starten.]"
+
+lar_operative_event.17.t:0 "Geheime Mission abgeschlossen: Widerstandskämpfer beliefert"
+lar_operative_event.17.desc:0 "[Die [[~ROOT.GetAgency~]] hat Partisanen mit Kleinwaffen und Sprengstoff versorgt, um ihre Aktivitäten zu stimulieren und wenn möglich einen allgemeinen Aufstand anzuzetteln."
+
+lar_operative_event.18.t:0 "Geheime Mission abgeschlossen: Widerstandsgruppen kontaktiert"
+lar_operative_event.18.desc:0 "[Bereitschaft zur Unterstützung von Partisanenaktivitäten im Ausland. Die [[~ROOT.GetAgency~]] hat mit den Anführern des Widerstands Kontakt aufgenommen, um die Koordinierung der Bemühungen zu planen."
+
+lar_operative_event.19.t:0 "Geheime Mission abgeschlossen: Koordinierter Streik geplant"
+lar_operative_event.19.desc:0 "[Die [[~ROOT.GetAgency~]] hat sich mit unseren Streitkräften abgestimmt, um die feindlichen Stellungen zu dokumentieren und sicherzustellen, dass ein Überraschungsangriff auf ihre Einrichtungen maximalen Schaden anrichten würde."
+
+lar_operative_event.20.t:0 "Geheime Mission abgeschlossen: Innovative Technologie erlangt"
+lar_operative_event.20.desc:0 "[Unsere Agenten sind mit guten Nachrichten zurückgekehrt: Der [[~ROOT.GetAgency~]] ist es gelungen, über ihre ausländischen Netzwerke Elemente einer Schlüsselinnovation zu erwerben."
+
+lar_operative_event.21.t:0 "Geheime Mission abgeschlossen: Fabrik sabotiert"
+lar_operative_event.21.desc:0 "[Um das gegnerische Wirtschaftspotenzial zu schwächen, haben Agenten der [[~ROOT.GetAgency~]] Sprengstoff in einer wichtigen Fabrik platziert und diese erheblich beschädigt."
+
+lar_operative_event.22.t:0 "Geheime Mission abgeschlossen: Ressourcenabbau sabotiert"
+lar_operative_event.22.desc:0 "[Um das gegnerische Wirtschaftspotenzial zu schwächen, haben Agenten der [[~ROOT.GetAgency~]] deren Ressourcenproduktionskapazitäten beschädigt."
+
+lar_operative_event.23.t:0 "Geheime Mission abgeschlossen: Militärtechnologie gestohlen"
+lar_operative_event.23.desc:0 "[Militärische Innovationen können einen entscheidenden Vorteil auf dem Schlachtfeld verschaffen und viele Leben retten, während der Feind das seine verliert. Aus diesem Grund hat die [[~ROOT.GetAgency~]] ausländische Militärhersteller infiltriert, um technische Informationen über deren neueste experimentelle Waffentechnik zu erhalten."
+
+lar_operative_event.24.t:0 "Geheime Mission abgeschlossen: Marinetechnologie gestohlen"
+lar_operative_event.24.desc:0 "[Militärische Innovationen können im Kampf auf hoher See entscheidende Vorteile bringen. Getreu ihrem Auftrag, [[~ROOT.GetNameDef~]] zu dienen, hat die [[~ROOT.GetAgency~]] eine ausländische Marine infiltriert, um aus erster Hand Informationen über die Beschaffung von Marinetechnologie zu erhalten."
+
+lar_operative_event.25.t:0 "Geheime Mission abgeschlossen: Aeronautical Technology Acquired"
+lar_operative_event.25.desc:0 "[Aeronautische Innovationen können einen entscheidenden Vorteil bringen, indem sie die Tödlichkeit vergangener Kriege in die Lüfte bringen. Getreu ihrem Auftrag, [[~ROOT.GetNameDef~]] zu dienen, hat sich die [[~ROOT.GetAgency~]] in die ausländische Militärluftfahrt eingeschleust, um aus erster Hand Informationen über die Beschaffung von Luftfahrttechnik zu erhalten."
+
+lar_operative_event.26.t:0 "Geheime Mission abgeschlossen: Infrastruktur sabotiert"
+lar_operative_event.26.desc:0 "[Um das wirtschaftliche Potenzial des Gegners zu schwächen, haben Agenten der [[~ROOT.GetAgency~]] dessen Kommunikationsinfrastruktur beschädigt."
+
+r56_spying_event.9.t:0 "Ein fähiger Rekrut"
+r56_spying_event.9.desc:0 "Ein Kandidat wurde von Ausbildern der [[~ROOT.GetAgency~]] empfohlen. Seine Infiltrationsfähigkeiten wurden als "fast magisch" beschrieben und er zeigte etwas schauspielerisches Talent, bevor er seinen Ausbilder in einem hoffentlich vorgetäuschten Angriff brutal angriff. In seinem Dossier wird erwähnt, dass er zunächst versucht hat, Pilot zu werden, dies aber aufgrund einer Schädigung eines seiner Augen nicht tun konnte. Als der Rekrutierer dies las, soll er gesagt haben: "Du wirst nicht fliegen, du Narr!" Seinen Ausbildern ist ein merkwürdiges Detail aufgefallen. Bevor er jemanden angreift, ruft er oft "En guarde!", sehr zum Ärger seiner Kameraden."
+r56_spying_event.9.a:0 "Also gut, behalte es für dich."
+r56_spying_event.10.t:0 "[[~GER.getAdjective~]] Pläne für Amerika"
+r56_spying_event.10.desc:0 "Von einem deutschen Diplomaten vergessen geglaubte Dokumente sind wiedergefunden worden. Unter den Dokumenten von begrenztem Interesse befand sich eine Karte, die die deutschen Ambitionen zeigt, die Grenzen von Südamerika neu zu ziehen. Dies zeigt, wie weit [[~GER.getLeader~]] und die [[~GET.getAdjective~]] zu gehen bereit sind. Es stellt auch eine klare Bedrohung unserer Interessen in Südamerika dar."
+r56_spying_event.10.a:0 "Ungeheuerlich!"
+r56_spying_event.11.t:0 "Nachrichtendienstliche Netzwerke des Widerstands etabliert"
+r56_spying_event.11.desc:0 "Der nationale Widerstand wird immer größer und besser organisiert. Es ist ihm gelungen, ausgeklügelte Geheimdienstnetze aufzubauen. Dadurch hat sich das Potenzial unserer Nachrichtendienste deutlich erhöht."
+r56_spying_event.11.a:0 "Wir werden die Besatzer besiegen!"
+
+upgrade_expanded_departments:0 "Ausgebaute Abteilungen"
+upgrade_r56_home_guard:0 "Zivile Heimwehr"
+upgrade_r56_home_guard_desc:0 "[~§L~]Die Home Guard hat das Potenzial, ein wichtiges Instrument für unsere Spionageabwehr zu sein. Patriotische Menschen können feindlichen Agenten das Sammeln von Informationen erschweren und verdächtige Personen melden.[~\n~] [~\n~] 'Wenn du etwas siehst, sag etwas'[~§!~]"
+upgrade_r56_civilian_signal_corp:0 "Civilian Signal Corps"
+upgrade_r56_civilian_signal_corp_desc:0 "[~§L~]Wir können zivile Piloten und Fischer rekrutieren, um die Lücken in unseren inländischen Marine- und Luftpatrouillen zu füllen. Sie helfen dabei, feindliche Aufklärungsmissionen aufzuspüren und möglicherweise abzuschrecken, bevor sie nützliche Informationen erhalten.[~§!~]"
+#Tooltips ""
+upgrade_r56_expanded_departments_tt:0 "[~§W~]Hat alle anderen Agency Upgrades in der[~§!~] [~§Y~]Intelligence[~§!~] [~§W~]Abteilung[~§!~] abgeschlossen."
+counter_intelligence_enabled_tt:0 "[~§W~]Abteilung Gegenspionage freischalten:[~§!~] [~§G~]Ja[~§!~]"
+counter_intelligence_civilian_enabled_tt:0 "£trigger_yes [~§W~]Erfüllt eine Voraussetzung für zivile Counter Intelligence Department Agency Upgrades[~§!~]"
+#Flags ""
+r56_upgrade_passive_defense_flag:0 "[~§W~]Hat Agency Upgrade abgeschlossen[~§!~][~§Y~] Counter Intelligence Department[~§!~]"
+upgrade_economy_civilian_flag:0 "[~§W~]Hat Agency Upgrade[~§!~][~§Y~] abgeschlossen Zivile Abteilung[~§!~]"
+#Vanilla Overides ""
+upgrade_economy_civilian:0 "Zivile Abteilung"
+branch_defense:0 "Spionageabwehr"
+upgrade_passive_defense:0 "Abteilung Spionageabwehr"
+upgrade_passive_defense_desc:0 "[~§L~]Die inländischen Strafverfolgungsbehörden sind einsatzbereite Beamte der Spionageabwehr. Indem wir sie und unsere Garnisonstruppen in den Methoden der Spionage und der Spionageabwehr ausbilden, stellen wir sicher, dass wir zu Hause immer eine defensive Präsenz haben, selbst wenn unsere Agenten anderweitig beschäftigt sind.[~\n~] [~\n~] 'Lose Lippen versenken Schiffe'[~§!~]"
+
+#Localizing modifers that PDX did not use but didn't cut ""
+operation_infiltrate_armed_forces_army_risk:0 "Infiltration der Armee Risiko"
+operation_infiltrate_civilian_risk:0 "Infiltrieren der zivilen Verwaltung Risiko"
+operation_infiltrate_armed_forces_navy_risk:0 "Infiltrieren der Marine Risiko"
+operation_infiltrate_armed_forces_airforce_risk:0 "Infiltrieren Luftwaffe Risiko"
+operation_targeted_sabotage_industry_risk:0 "Risiko Sabotage in der Industrie"
+linguist_trait_chance_factor:0 "Chance auf Rekrutierung eines Agenten mit der Eigenschaft [~§H~]Linguist[~§!~]"
+upgrade_linguistic_training:0 "Linguistische Ausbildung"
+linguistic_training_enabled_tt:0 "Chance, einen Operative mit der Eigenschaft [~§Y~]Linguist[~§!~] zu rekrutieren: [~§G~]+100%[~§!~][~\n~]Chance für Operative mit der Eigenschaft [~§Y~]Linguist[~§!~], bei Missionserfolg neue Nationalitäten zu erhalten [~§G~]+50%[~§! ~][~\n~]Operative mit der Eigenschaft [~§Y~]Linguist[~§!~] beginnen mit einer zufälligen Nationalität eines großen Landes, eines Nachbarlandes oder eines Landes, das sich mit Ihnen im Krieg befindet."
+
+
+idea_resistance_network_operative_1:0 "Unterstützung von Widerstandsagenten"
+resistance_60:0 "Unterirdische Geheimdienstnetzwerke"
+resistance_60_effect_tooltip:0 "[[~FROM.GetNameWithFlag~]], erhält [~§G~]+1[~§!~] [~§Y~]Operative[~§!~], wenn sie existiert."
+
+ EFFECT_CREATE_INTELLIGENCE_AGENCY:0 "Erstelle eine [~§Y~]Geheimdienstagentur[~§!~]."

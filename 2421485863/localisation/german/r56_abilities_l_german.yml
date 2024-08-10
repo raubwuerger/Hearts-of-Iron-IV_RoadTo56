@@ -1,1 +1,6 @@
 ﻿l_german:
+ ABILITY_RESERVE_TRANSFER:0 "Verlegung der Reserve"
+ ABILITY_RESERVE_TRANSFER_DESC:0 "Um die Kampfdivisionen kampfbereit zu halten, ist ein frischer Truppennachschub unerlässlich."
+
+ ABILITY_EXTRA_FUEL_RESERVES:0 "Zusätzliche Treibstoffreserven"
+ ABILITY_EXTRA_FUEL_RESERVES_DESC:0 "Der Befehl an die Truppen, dafür zu sorgen, dass mehr Treibstoff im Versorgungszug mitgeführt wird, stellt sicher, dass den motorisierten Truppen nicht die Luft ausgeht."

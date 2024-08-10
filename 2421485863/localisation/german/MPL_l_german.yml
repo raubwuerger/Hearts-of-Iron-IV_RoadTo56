@@ -1,1 +1,1165 @@
 ﻿l_german:
+
+ #THE CHAD BEGINNING ""
+ MPL_GATHERING_STORM_DESC:0 "Seit der Errichtung des Mandats für Palästina im Jahr 1923 ist Instabilität die Regel. [Mit der massenhaften jüdischen Einwanderung in das Land nach der Balfour-Erklärung kämpfen mehrere lokale Regierungen beider Seiten um die Kontrolle über die Region, wobei jede ihre eigenen paramilitärischen Organisationen hat, die die winzige britische Garnison, die im Land stationiert ist, zahlenmäßig weit übertreffen: Können sich die Briten halten? Wird die Region in noch mehr Kämpfe verwickelt werden? Oder wird sich vielleicht eine unerwartete Lösung ergeben?"
+
+ RULE_VOLUNTEERS_NOT_MPL_COLLAPSE:0 "[~§R~]Kann keine Freiwilligen zum Zusammenbruch des Mandats entsenden[~§!~]"
+
+ #IDEAS ""
+ MPL_mandate:0 "Völkerbundsmandat"
+ MPL_mandate_desc:0 "Unser Status als Völkerbundsmandat verschafft uns internationale Unterstützung bei der Entwicklung der Region. Allerdings können wir aufgrund unseres Status kein echtes Militär aufbauen."
+ MPL_aliyah_start:0 "Die Fünfte Aliyah"
+ MPL_aliyah_start_desc:0 "Nach der Ernennung von Arthur Grenfell Wauchope zum Hochkommissar und dem Aufkommen des Faschismus in Europa suchen Hunderttausende von Juden Zuflucht in Palästina. Dies führt zu einer starken Destabilisierung unseres Landes."
+ MPL_arab_revolt_1:0 "Arabische Streiks"
+ MPL_arab_revolt_1_desc:0 "Die arabische Bevölkerung hat einen Streik begonnen. Wir müssen wirksam handeln."
+ MPL_arab_revolt_2:0 "Beruhigte arabische Streiks"
+ MPL_arab_revolt_2_desc:0 "Es ist uns gelungen, den Streik etwas zu beruhigen, aber es bleibt noch einiges zu tun."
+ MPL_arab_revolt_3:0 "Arabischer Aufstand"
+ MPL_arab_revolt_3_desc:0 "Unser Verhandlungsversuch ist gescheitert, und der Streik hat sich in einigen Gebieten zu einer regelrechten Revolte ausgeweitet. Wir müssen einen drastischen Aktionsplan in Betracht ziehen."
+ MPL_arab_revolt_4:0 "Geschwächte Streiks"
+ MPL_arab_revolt_4_desc:0 "Unsere ersten Zugeständnisse haben die Auswirkungen der Streiks erfolgreich gemildert. Wir sollten auf diesem Weg bleiben."
+ MPL_civil_war_pal:0 "Initiative!"
+ MPL_civil_war_isr:0 "Initiative!"
+ MPL_collapse_idea:0 "Zusammenbruch des Mandats"
+ MPL_collapse_idea_desc:0 "Mit dem Zusammenbruch des Mandats haben wir endlich die Chance, für unsere Unabhängigkeit zu kämpfen. Wir werden diesen Kampf nicht so einfach aufgeben!"
+ MPL_collapse_idea_2:0 "Unorganisierte Kämpfe"
+ MPL_collapse_idea_2_desc:0 "Mit dem jüngsten Zusammenbruch der Mandatsregierung haben wir unsere Unabhängigkeit erklärt. Die Fronten sind jedoch noch nicht gefestigt, und so sind unsere Angriffe unorganisiert und unwirksam."
+ MPL_strained_administration:0 "Angespannte Verwaltung"
+ MPL_strained_economy:0 "Angespannte Wirtschaft"
+ MPL_strained_military:0 "Desorganisiertes Militär"
+ MPL_floodgates:0 "Öffnen Sie die Schleusentore"
+ MPL_small_aliyah:0 "Begrenzte Aliyah"
+ MPL_two_people_union_1:0 "Ein zum Scheitern verurteiltes Experiment?"
+ MPL_two_people_union_1_desc:0 "Unsere Unabhängigkeit ist erreicht, aber die Kämpfe haben gerade erst begonnen. Unsere neue Union ist unglaublich instabil, und der kleinste Fehltritt könnte zu einem Zusammenbruch führen. Wir müssen vorsichtig vorgehen."
+ MPL_two_people_union_2:0 "Ein optimistischer Start"
+ MPL_two_people_union_2_desc:0 "Langsam gelingt es uns, unserer Bevölkerung zu zeigen, dass sie uns vertrauen kann. Der Weg zur Heilung hat begonnen."
+ MPL_two_people_union_3:0 "Trauen Sie sich zu träumen"
+ MPL_two_people_union_3_desc:0 "Das Unmögliche ist geschehen. Unsere Bevölkerung sammelt sich langsam hinter unserer Sache und lässt ihre Konflikte hinter sich. Die Ziellinie ist zum Greifen nah."
+ MPL_two_people_union_4:0 "Eine Union zweier Völker"
+ MPL_two_people_union_4_desc:0 "Die Reise war lang, aber die Zeit der Heilung ist gekommen. Unsere Völker sind in dem Ziel vereint, eine bessere Zukunft für ihre Kinder zu schaffen. Aber es gibt immer noch Feinde. Wir müssen sicherstellen, dass niemand unseren Wohlstand bedrohen kann.[~[~\n~][~\n~]~]Für alle, die träumen, für alle, die träumen."
+ MPL_mandate1:0 "Militarisierte Kolonie"
+ MPL_mandate1_desc:0 "Die Revolten haben uns die Möglichkeit gegeben, unsere Kontrolle über die Region weiter zu festigen. Wir haben die Rückendeckung von [[~MPL.overlord.GetNameDef~]], wer wird sich uns entgegenstellen?"
+ MPL_white_paper_idea:0 "Das Weißbuch"
+ MPL_white_paper_idea_desc:0 "Das Weißbuch schränkt die jüdische Einwanderung in das Mandatsgebiet stark ein. So können wir den Widerstand besser kontrollieren, aber die bereits hier lebenden Juden werden uns nicht unterstützen."
+ MPL_scientific_genius:0 "Wissenschaftliches Genie"
+ MPL_navy_payments:0 "Zahlungen an die Marine"
+ MPL_professional_army:0 "Professionelle Armee-Ausbildung"
+ MPL_professional_army_desc:0 "Unser Land ist klein und wir können keine große Armee aufstellen. Wir müssen sicherstellen, dass unsere Ausbildung sehr effektiv ist, um zu gewährleisten, dass unsere Soldaten dem Feind gewachsen sind."
+ MPL_against_germany_idea:0 "Vernichtung der Nazi-Bedrohung"
+ MPL_against_germany_idea_desc:0 "Die Nazis haben unserem Volk zu ihrem eigenen Vorteil den Krieg erklärt. Wir werden ihnen zeigen, wozu wir fähig sind."
+ MPL_united_against_colonialism:0 "Vereint gegen den Kolonialismus"
+ MPL_united_against_colonialism_desc:0 "Wir werden uns erheben und unsere Unterdrücker besiegen!"
+
+ #FOCUS ""
+ #FOCUS - START ""
+ MPL_start:0 "Das palästinensische Mandat"
+ MPL_start_desc:0 "Am 29. September 1923 wurde das Mandat für Palästina proklamiert. Es sollte eine vorübergehende Maßnahme sein, um die Region auf die Unabhängigkeit vorzubereiten. Doch mehr als 12 Jahre später sind nur wenige oder gar keine Fortschritte erzielt worden. Wir müssen die Suche nach einer Lösung für die Region vorantreiben."
+ MPL_unions:0 "Kommunale Gewerkschaften gestärkt"
+ MPL_liberalized:0 "Liberalisierte Wirtschaft"
+ MPL_religious_freedom:0 "Religiöse Freiheit"
+ MPL_universities:0 "Finanzierung öffentlicher Schulen"
+ MPL_public_school_funding:0 "Finanzierung der Universitäten"
+ MPL_beacon_idea:0 "Ein Leuchtturm in der Dunkelheit"
+ MPL_british_officers_idea:0 "Britische Offiziere"
+ MPL_jewish_recruits:0 "Jüdische Rekruten"
+ MPL_centralization:0 "Zentralisierung"
+ MPL_unite_levant:0 "Vereinigt die Levante!"
+ MPL_secret_police:0 "Finanzierung der Geheimpolizei"
+
+ #FOCUS ""
+ #FOCUS - START ""
+ MPL_development_haifa:0 "Die Region Haifa entwickeln"
+ MPL_development_haifa_desc:0 "Wir sollten die jüdische Region Haifa entwickeln, um ihre Unterstützung zu gewinnen."
+ MPL_development_nablus:0 "Die Region Nablus entwickeln"
+ MPL_development_nablus_desc:0 "Wir sollten die arabische Region von Nablus entwickeln, um ihre Unterstützung zu gewinnen."
+ #FOCUS - ARAB REVOLT ""
+ MPL_arab_revolt:0 "Der arabische Aufstand von 1936"
+ MPL_arab_revolt_desc:0 "Die arabischen Führer haben im ganzen Land zu einem Generalstreik aufgerufen. Wir müssen sicherstellen, dass dieser nicht außer Kontrolle gerät."
+ MPL_deal_with_strike:0 "Die Streiks bewältigen"
+ MPL_deal_with_strike_desc:0 "Wir haben diesen Streik vorausgesehen, aber nicht seine Schwere. Unser ganzes Land ist lahmgelegt und alles kommt zum Stillstand. Wir müssen uns jetzt für einen Aktionsplan entscheiden."
+ MPL_negotiations_failed:0 "Verhandlungen scheitern"
+ MPL_negotiations_failed_desc:0 "Unsere Versuche, mit den Streikenden zu verhandeln, sind gescheitert, und der Streik hat sich in einigen Gebieten zu einer regelrechten Revolte ausgeweitet. Die Lage ist ernst."
+ #FOCUS - INDEPENDENCE ""
+ MPL_a_forgone_conclusion:0 "Eine vergessene Schlussfolgerung"
+ MPL_a_forgone_conclusion_desc:0 "Es war nur eine Frage der Zeit. Da die Aufstände in vollem Gange sind, ist es an der Zeit, unseren Abzug aus der Region zu organisieren. Es ist unsere Pflicht, einen stabilen Staat zu hinterlassen, und als solcher dürfen wir nicht zulassen, dass eine der beiden Gruppen zu mächtig wird, sonst wird es schlimme Folgen haben."
+
+ MPL_peel_commision:0 "Die Peel-Kommission"
+ MPL_peel_commision_desc:0 "Um die beste Lösung für die Krise zu finden, in der wir uns befinden, müssen wir uns mit den Hauptursachen für den Aufstand befassen. Lord Peel ist ein guter Mann für diese Aufgabe, wir können seinen Ergebnissen vertrauen."
+
+ MPL_levantine_union:0 "Eine levantinische Konföderation"
+ MPL_levantine_union_desc:0 "Die Peel-Kommission hat festgestellt, dass die beste Lösung für den Konflikt in der Region eine unabhängige Union zwischen Juden und Arabern ist. Dies wird eine schwierige Aufgabe sein, aber sie wird langfristig viele Vorteile mit sich bringen."
+
+ MPL_two_states:0 "Eine levantinische Auflösung"
+ MPL_two_states_desc:0 "Die Peel-Kommission hat festgestellt, dass die beste Lösung für den Konflikt in der Region in einer Teilung des Landes zwischen Juden und Arabern besteht, wobei Jerusalem ein neutraler Staat ist. Dies sollte hoffentlich weitere Konflikte in der Region verhindern."
+
+ MPL_jews_negotiate:0 "Mit jüdischen Parteien verhandeln"
+ MPL_jews_negotiate_desc:0 "Die Mehrheit der Streikenden mag zwar aus der arabischen Bevölkerung kommen, doch können wir die Bedürfnisse der jüdischen Bevölkerung nicht ignorieren, wenn wir eine einheitliche Gesellschaft schaffen wollen."
+ MPL_jews_ministers:0 "Jüdische Minister anstellen"
+ MPL_jews_ministers_desc:0 "Wir sollten einige jüdische Minister einstellen, um die Unabhängigkeitsvorbereitungen zu unterstützen."
+
+ MPL_arabs_negotiate:0 "Unterstützen Sie die arabischen Parteien"
+ MPL_arabs_negotiate_desc:0 "Wir müssen die arabischen Parteien im Lande unterstützen, damit eine friedliche Lösung aus diesem Schlamassel hervorgeht."
+ MPL_arabs_ministers:0 "Stellen Sie arabische Minister ein"
+ MPL_arabs_ministers_desc:0 "Wir sollten einige arabische Minister einstellen, um die Unabhängigkeitsvorbereitungen zu unterstützen."
+
+ MPL_first_round:0 "Erste Verhandlungsrunde abschließen"
+ MPL_first_round_desc:0 "Der Abschluss der ersten Runde der Unabhängigkeitsverhandlungen sollte die laufende Revolte schwächen."
+
+ MPL_development_ramallah:0 "Entwicklung der Region Ramallah"
+ MPL_development_ramallah_desc:0 "Wir sollten die arabische Region von Ramallah entwickeln, um ihre Unterstützung zu gewinnen."
+ MPL_development_tel_aviv:0 "Entwicklung der Region Tel Aviv"
+ MPL_development_tel_aviv_desc:0 "Wir sollten die jüdische Region von Tel Aviv entwickeln, um ihre Unterstützung zu gewinnen."
+
+ MPL_end_the_strike:0 "Beendigung der Streiks"
+ MPL_end_the_strike_desc:0 "Da unsere Reformen und Verhandlungen fast abgeschlossen sind, können wir die Streikenden überzeugen, ihren Streik zu beenden und uns zu unterstützen."
+
+ MPL_develop_arab_communities:0 "Rekrutierung arabischer Polizeibeamter"
+ MPL_develop_arab_communities_desc:0 "Wir sollten arabische Polizeibeamte anwerben, um unsere Unabhängigkeit zu fördern."
+ MPL_jewish_recruit:0 "Jüdische Soldaten rekrutieren"
+ MPL_jewish_recruit_desc:0 "Wir sollten jüdische Soldaten für das Militär rekrutieren, um ihre Unterstützung zu gewinnen."
+
+ MPL_two_people_union:0 "[[~MPLGetUnion~]]"
+ MPL_two_people_union_desc:0 "Die Zeit ist gekommen. Unsere Vorbereitungen sind abgeschlossen und die Region ist bereit für die Unabhängigkeit."
+
+ #FOCUS - INDEPENDENT ""
+
+ MPL_aliyah_question:0 "Die Aliyah-Frage"
+ MPL_aliyah_question_desc:0 "Mit der Gründung des neuen Staates strömen viele jüdische Flüchtlinge aus der ganzen Welt in das Land. Doch nicht alle Bürger sind sich einig, wie sie mit dieser Krise umgehen sollen. Wir müssen entscheiden, wie wir vorgehen wollen."
+
+ MPL_start_military_industry:0 "Militärische Industrie aufbauen"
+ MPL_start_military_industry_desc:0 "Da unser Land noch nie unabhängig war, ist unsere Militärindustrie unglaublich schwach. Wir müssen mit dem Bau von Militärfabriken beginnen, um unsere Verteidigung zu sichern."
+
+ MPL_form_spy_agency:0 "Eine Spionageagentur gründen"
+ MPL_form_spy_agency_desc:0 "Unser Land ist klein, wir können es uns nicht leisten, jede Schlacht auf dem Feld zu schlagen. Manche Schlachten kann man mit Köpfchen, nicht mit Muskeln schlagen."
+
+ MPL_integrate_militia_arms:0 "Integration der Milizwaffen"
+ MPL_integrate_militia_arms_desc:0 "Vor unserer Unabhängigkeit gab es in unserem Land mehrere Milizen. Wir sollten ihre Waffenlieferungen in unsere Armee integrieren."
+
+ MPL_centralize_militia_armies:0 "Zentralisierung des Milizkommandos"
+ MPL_centralize_militia_armies_desc:0 "Vor unserer Unabhängigkeit gab es in unserem Land eine Vielzahl von Milizen. Um effektiv kämpfen zu können, müssen wir ihre Kommandostruktur unter der Regierung zentralisieren."
+
+ MPL_modernize_army:0 "Unsere Armee modernisieren"
+ MPL_modernize_army_desc:0 "Unsere Armee muss modernisiert werden, um gegen ausländische Bedrohungen gewappnet zu sein. Wir sollten unsere Anstrengungen auf die Erforschung neuer Waffen und Fahrzeuge konzentrieren."
+
+ MPL_elite_soldier_training:0 "Professionelle Ausbildung der Armee"
+ MPL_elite_soldier_training_desc:0 "Unser Land ist klein und wir können keine große Armee aufstellen. Wir müssen sicherstellen, dass unsere Ausbildung sehr effektiv ist, um zu gewährleisten, dass unsere Soldaten dem Feind gewachsen sind."
+
+ MPL_research_doctrines:0 "Erforschung ausländischer Doktrinen"
+ MPL_research_doctrines_desc:0 "Um unser Land zu verteidigen, müssen wir ausländische Militärdoktrinen studieren, um sicherzustellen, dass unsere Generäle so effektiv wie möglich sind."
+
+ MPL_form_air_service:0 "Aufbau der Luftwaffe"
+ MPL_form_air_service_desc:0 "Nach Erlangung der Unabhängigkeit müssen wir unsere eigene Luftwaffe aufbauen. Für den Anfang können wir die auf dem Flughafen von Lod verbliebenen ehemaligen britischen Kampfflugzeuge nutzen."
+
+ MPL_light_air_focus:0 "Konzentration auf leichte Flugzeuge"
+ MPL_light_air_focus_desc:0 "Unser Land ist klein und kompakt. Wir müssen uns auf kleine und wendige Kampfflugzeuge konzentrieren, um unsere Feinde ausmanövrieren zu können."
+
+ MPL_heavy_air_focus:0 "Fokus auf schwere Flugzeuge"
+ MPL_heavy_air_focus_desc:0 "Der Schlüssel zum Sieg liegt in leistungsstarken Flugzeugen, die unseren Feind dezimieren. Wir müssen mehr an dieser Technologie forschen."
+
+ MPL_develop_ports:0 "Ausbau unserer Häfen"
+ MPL_develop_ports_desc:0 "Wir müssen unsere Häfen ausbauen, um unseren Handel öffnen zu können."
+
+ MPL_purchase_foreign_ships:0 "Kauf von ausländischen Schiffen"
+ MPL_purchase_foreign_ships_desc:0 "Unsere Industrie ist klein und wir können keine eigene Flotte herstellen, aber wir brauchen eine Möglichkeit, uns auf See zu schützen. Wir sollten Schiffe aus anderen Ländern kaufen, um uns zu schützen."
+
+ MPL_open_tel_aviv_university:0 "Erweitern Sie die HUJ"
+ MPL_open_tel_aviv_university_desc:0 "Die Erweiterung der Hebräischen Universität Jerusalem könnte viele weitere kluge Köpfe in unser Land bringen, und aufgrund seiner finanziellen Unterstützung der HUJ für eine lange Zeit, vielleicht sogar Einstein selbst."
+
+ MPL_invite_einstein:0 "Einstein einladen"
+ MPL_invite_einstein_desc:0 "Albert Einstein selbst hat seine Unterstützung für unsere Union zum Ausdruck gebracht. Wir müssen ihn in unser Land einladen, sein wissenschaftliches Genie könnte uns helfen."
+
+ MPL_build_convoys:0 "Konvois bauen"
+ MPL_build_convoys_desc:0 "Unsere Handelsindustrie muss durch den Einsatz von Konvois verbessert werden, damit unsere Nation wirklich floriert."
+
+ MPL_open_politics:0 "Politik öffnen"
+ MPL_open_politics_desc:0 "In unserer Union wäre es heuchlerisch, nicht beiden Völkern zu erlauben, zu wählen und für ein Amt zu kandidieren. Wir werden ein Ort sein, an dem ein Jude bereitwillig für einen Araber stimmt und ein Araber bereitwillig für einen Juden stimmt!"
+
+ MPL_elections:0 "Wahlen"
+ MPL_elections_desc:0 "Das Land wartet mit angehaltenem Atem auf..."
+
+
+
+ MPL_communism_victory:0 "Sieg der Kommunistischen Partei"
+ MPL_communism_victory_desc:0 "Nach dem jüngsten Sieg der PCP bei den ersten Wahlen in der Union ist die erste gewählte Regierung der Union eine sozialistische!"
+
+ MPL_democratic_victory:0 "Sieg der Unionistischen Partei"
+ MPL_democratic_victory_desc:0 "Nach dem kürzlichen Sieg von [[~MPL.GetDemocraticLeader~]] bei der ersten Wahl der Union ist die erste gewählte Regierung der Union eine demokratische, liberale!"
+
+ MPL_the_jerusalem_trials:0 "Die Jerusalem-Prozesse"
+ MPL_the_jerusalem_trials_desc:0 "Mit der Unabhängigkeit unserer neuen Union müssen wir uns auch unserer Vergangenheit stellen. Es gibt viele ehemalige extremistische Milizsoldaten und Anführer in unserem Land, und wir müssen entscheiden, was mit ihnen geschehen soll. Die Jerusalemer Prozesse müssen abgehalten werden."
+
+ MPL_form_unions:0 "Kommunale Zusammenschlüsse bilden"
+ MPL_form_unions_desc:0 "Um die Einheit dieser instabilen Union zu fördern, müssen wir bestimmte kommunale Zusammenschlüsse zwischen Arabern und Juden einführen, um die Integration der Gemeinschaften zu unterstützen."
+
+ MPL_increase_industrial_subsidies:0 "Erhöhung der Industriesubventionen"
+ MPL_increase_industrial_subsidies_desc:0 "Unsere Nation muss sich industrialisieren, da unsere schwache Wirtschaft ein wichtiger Faktor für die Instabilität der Union ist."
+
+ MPL_liberalize_economy:0 "Liberalisierung der Wirtschaft"
+ MPL_liberalize_economy_desc:0 "Unsere Industrie muss liberalisiert werden, um unsere Wirtschaft zu stärken und den Menschen noch mehr zu dienen."
+
+ MPL_open_trade:0 "Unseren Handel öffnen"
+ MPL_open_trade_desc:0 "Teil unserer wirtschaftlichen Liberalisierungskampagne sind Freihandelsgesetze, um Importe und Exporte zu steigern."
+
+ MPL_united:0 "Wir brachten den Frieden über uns"
+ MPL_united_desc:0 "Nach unseren Reformen ist [[~MPL.GetNameDef~]] zum ersten Mal seit Jahrhunderten wieder unter der Führung des eigenen Volkes geeint und stabilisiert.[~\n~][~\n~]~]Für alle, die träumen, für alle, die träumen."
+
+ MPL_depoliticize_army:0 "Getrennte Armee und Staat"
+ MPL_depoliticize_army_desc:0 "In unserem demokratischen und liberalen Staat ist es wichtig, dass die Armee keine politische Macht erhält."
+
+ MPL_middle_east_accords:0 "Das Friedensabkommen für den Nahen Osten"
+ MPL_middle_east_accords_desc:0 "Um die Demokratie im Nahen Osten weiter zu verbreiten und ihn vor der Unvermeidlichkeit eines Krieges zu bewahren, müssen wir das Friedensabkommen für den Nahen Osten gründen, eine Liga von Nationen des Nahen Ostens, unabhängig von ihrer Ideologie, mit dem Ziel, eventuelle Streitigkeiten oder Konflikte beizulegen."
+
+ MPL_constitution:0 "Eine Verfassung einführen"
+ MPL_constitution_desc:0 "Eine wirksame Verfassung ist für das Überleben eines demokratischen Staates unerlässlich. Wir müssen eine Verfassung einführen, um unsere junge Demokratie zu schützen."
+
+ MPL_secularization:0 "Säkularisierung"
+ MPL_secularization_desc:0 "Um künftige Konflikte innerhalb der Konföderation und Instabilität zu vermeiden, müssen wir das Land säkularisieren. Wir können dies nicht vollständig umsetzen, da unser Staat eine extreme Mehrheit an religiösen Bürgern beherbergt, aber wir werden unser Bestes tun."
+
+ MPL_religious_freedom_desc:0 "Die Religionsfreiheit ist für unseren Staat unbestreitbar von grundlegender Bedeutung."
+
+ MPL_university_funding_campaign:0 "Kampagne zur Finanzierung der Universitäten"
+ MPL_university_funding_campaign_desc:0 "Unser Land beherbergt einige der klügsten, noch nicht verwirklichten Köpfe des Jahrhunderts. Wir müssen alles in unserer Macht Stehende tun, um sie zu unterstützen."
+ MPL_public_schools:0 "Öffentliche Schulen finanzieren"
+ MPL_public_schools_desc:0 "Aufgrund der Geschichte der privatisierten Gemeinschaftsschulen ist ein Großteil der Bevölkerung ungebildet. Wir müssen staatlich finanzierte öffentliche Schulen eröffnen, um dies zu bekämpfen."
+
+ MPL_beacon:0 "Ein Leuchtturm in der Dunkelheit"
+ MPL_beacon_desc:0 "Unser Land leuchtet wahrhaftig als ein Leuchtfeuer der Freiheit und Demokratie. Wir müssen weiter voranschreiten."
+
+ MPL_looking_outwards:0 "Blick nach außen"
+ MPL_looking_outwards_desc:0 "Nun, da wir die Stabilisierung unseres Landes abgeschlossen haben, ist es an der Zeit, den Blick nach außen zu richten und uns auf der Weltbühne zu etablieren."
+
+ MPL_middle_eastern_focus:0 "Diplomatie im Nahen Osten"
+ MPL_middle_eastern_focus_desc:0 "Wir müssen den Nationen in unserem geografischen Gebiet die Hand reichen, um neue Beziehungen zu knüpfen und unseren Einfluss auszuweiten."
+ MPL_jordanian_referendum:0 "Forderung nach einem jordanischen Referendum"
+ MPL_jordanian_referendum_desc:0 "Wir müssen vom jordanischen Volk ein Referendum über die Wiedervereinigung fordern. Dies ist der beste Weg für unsere angestrebte Union."
+
+ MPL_european_focus:0 "Europäische Diplomatie"
+ MPL_european_focus_desc:0 "Unser Land ist einzigartig, da es an der Grenze zwischen 3 Kontinenten liegt. Wir müssen dies zu unserem Vorteil nutzen und Beziehungen zu europäischen Mächten knüpfen, die ihren Einflussbereich ausweiten wollen."
+
+ MPL_secure_syria:0 "Syrien sichern"
+ MPL_secure_syria_desc:0 "Nach dem Zusammenbruch der französischen Regierung hat das neue Vichy-Regime die Macht in Syrien übernommen. Es ist jedoch sehr schwach, und wir haben eine kurze Chance, Syrien zu erobern und unsere Levantinische Union zu vervollständigen."
+
+ MPL_british_officers:0 "Studieren Sie die britische Doktrin"
+ MPL_british_officers_desc:0 "Zu der Zeit, als die Briten über unser Land herrschten, waren einige Militärangehörige in der Gegend von Jerusalem und Lydda stationiert, darunter auch einige Offiziere. Von ihnen zu lernen, wird unsere Verteidigungsfähigkeit verbessern."
+
+ MPL_denounce_balfour:0 "Die Balfour-Erklärung aufheben"
+ MPL_denounce_balfour_desc:0 "Die Balfour-Erklärung war ein Versprechen der Briten, einen jüdischen Staat in Palästina zu gründen, ist aber in der levantinischen Gesellschaft nach wie vor sehr umstritten. Um die Stabilität unserer Union zu bewahren, sollten wir die Erklärung aufheben, da sie nicht mehr aktuell ist."
+
+ MPL_UK_reconcile:0 "Versöhnung mit dem Vereinigten Königreich"
+ MPL_UK_reconcile_desc:0 "Obwohl [[~ENG.GetNameDef~]] uns in der Vergangenheit unterdrückt hat, ist es in unserem besten Interesse, unsere Differenzen für den Moment beiseite zu legen und uns auf größere Bedrohungen zu konzentrieren."
+
+ MPL_ally_no_UK:0 "Andere Verbündete finden"
+ MPL_ally_no_UK_desc:0 "Wir können [[~ENG.GetNameDef~]] nicht vertrauen, nicht nach dem, was sie uns angetan haben. Wir müssen neue Allianzen finden, um den aktuellen Sturm zu überstehen."
+
+ MPL_against_germany:0 "Vernichtung der Nazi-Bedrohung"
+ MPL_against_germany_desc:0 "Die Nazis haben unserem Volk zu ihrem eigenen Vorteil den Krieg erklärt. Wir werden ihnen zeigen, wozu wir fähig sind."
+
+
+ MPL_western_military_doctrine:0 "Übernahme der westlichen Militärdoktrin"
+ MPL_western_military_doctrine_desc:0 "Die westliche Militärdoktrin ist eine, die viele Prüfungen bestanden hat. Wir werden sie übernehmen, denn sie ist unsere beste Chance, unser Land zu verteidigen."
+
+ MPL_the_final_crusade:0 "Der letzte Kreuzzug"
+ MPL_the_final_crusade_desc:0 "Vor so langer Zeit zerstörten die Kreuzzüge unser einst glorreiches Land. Jetzt hat sich das Blatt gewendet, und zum ersten Mal seit Jahrhunderten haben wir unser Schicksal selbst in der Hand. Es ist an der Zeit, unser Schicksal zu verwirklichen. Der Nahe Osten wird befreit werden!"
+
+ MPL_stalinist_industrialization:0 "Stalinistische Industrialisierung"
+ MPL_stalinist_industrialization_desc:0 "Wir müssen von den Erfolgen der stalinistischen Sowjetunion lernen, wenn wir unsere Agrarwirtschaft in eine modernisierte Industriewirtschaft umwandeln wollen."
+
+ MPL_demonize_the_monarchy:0 "Dämonisierung der Monarchie"
+ MPL_demonize_the_monarchy_desc:0 "Die britische Monarchie hat unser Volk seit Jahrzehnten unterdrückt. Wir müssen sie zum gemeinsamen Feind machen, der das Volk eint."
+
+ MPL_heavy_political_crackdowns:0 "Politische Niederschlagung"
+ MPL_heavy_political_crackdowns_desc:0 "Wir dürfen nicht zulassen, dass sich gewerkschaftsfeindliche Stimmungen in unserer Bevölkerung ausbreiten, damit unsere Nation überleben kann."
+
+ MPL_land_reforms:0 "Landreformen"
+ MPL_land_reforms_desc:0 "Wir müssen unser derzeitiges System des Landbesitzes reformieren, um sicherzustellen, dass er gleichmäßig unter der Bevölkerung verteilt wird."
+
+ MPL_complete_centralization:0 "Vollständige Zentralisierung"
+ MPL_complete_centralization_desc:0 "Die Macht des Staates muss zentralisiert werden, um das Volk und die Arbeiter zu vereinen."
+
+ MPL_create_commie_brigades:0 "Schaffung der sozialistischen Brigaden"
+ MPL_create_commie_brigades_desc:0 "Für unsere Nation muss eine Bande sozialistischer, loyaler Verteidiger aufgestellt werden."
+
+ MPL_realize_levant:0 "Verwirklichung der levantinischen Einheit"
+ MPL_realize_levant_desc:0 "Die Levante muss unter einer sozialistischen Republik vereint werden, und um den Namen unseres Staates wirklich zu erfüllen, müssen wir das erreichen."
+
+ MPL_join_soviet:0 "Der Komintern beitreten"
+ MPL_join_soviet_desc:0 "Es hat sich immer wieder gezeigt, dass [[~SOV.GetNameDef~]] der größte Verbündete des Kommunismus ist. Wir müssen uns ihnen in ihrem großen Kampf anschließen."
+
+ MPL_go_alone:0 "Alleine gehen"
+ MPL_go_alone_desc:0 "Wir können nicht darauf vertrauen, dass Außenstehende die Bedürfnisse unseres Volkes verstehen. Wir müssen diesen Teil der Geschichte allein bewältigen."
+
+ MPL_jordan_revolution:0 "Eine jordanische Revolution finanzieren"
+ MPL_jordan_revolution_desc:0 "Jordanien ist ein entscheidender Teil unserer levantinischen Einheit, aber aufgrund unserer diplomatischen und militärischen Ressourcen können wir ihnen nicht den Krieg erklären, sondern müssen einen pro-religiösen Putsch gegen die Regierung unterstützen."
+
+ MPL_seize_lebanon:0 "Libanon erobern"
+ MPL_seize_lebanon_desc:0 "Der Libanon, ein multiethnisches und multireligiöses Gebiet, das dem unseren sehr ähnlich ist, ist ein sehr strategischer Teil der Levante. Er muss gesichert werden, wenn wir der Wiedervereinigung einen Schritt näher kommen wollen."
+
+ MPL_syria_war:0 "Krieg in Syrien"
+ MPL_syria_war_desc:0 "Syrien, der größte Teil unserer levantinischen Einigungsbemühungen, muss um der Vereinigung unserer Völker willen erobert werden."
+
+ MPL_annex_jordan:0 "Jordanien annektieren"
+ MPL_annex_jordan_desc:0 "Nach unserem Coup in Jordanien ist die Zeit reif für die vollständige Annexion. Es gibt keinen Bedarf mehr an jordanischer Souveränität, stattdessen ein weiteres Ziel für die levantinische Einigung."
+
+ MPL_fund_secret_police:0 "Finanzierung von Geheimpolizeikräften"
+ MPL_fund_secret_police_desc:0 "Angesichts der Instabilität, die unsere Vereinigung hervorruft, müssen wir sicherstellen, dass unsere Gesetze in höchstem Maße durchgesetzt werden."
+
+ MPL_unify_the_levant:0 "Die Levante vereinigen"
+ MPL_unify_the_levant_desc:0 "Nach all unseren Bemühungen und Konflikten haben wir das Gebiet der Levante endlich wiedervereinigt. Ruhm für die Levantinische Kommune!"
+
+ #FOCUS - BRITAIN ""
+ MPL_british_occupation:0 "Erlasse eine Notverordnung"
+ MPL_british_occupation_desc:0 "Für wen halten sich diese Revoluzzer eigentlich? Wir haben keine andere Wahl, als diesen Aufstand niederzuschlagen. Der Standort ist zu wichtig, um ihn aufzugeben."
+
+ MPL_arrest_arab:0 "Verhaftung arabischer Nationalisten"
+ MPL_arrest_arab_desc:0 "Arabische Nationalisten sind im Mandatsgebiet Palästina sehr stark vertreten. Wir müssen dafür sorgen, dass sie keine weitere Macht erlangen, indem wir sie aus den politischen Debatten und Kreisen ausschließen."
+
+ MPL_police:0 "Bewaffnen Sie die Polizei"
+ MPL_police_desc:0 "Die Polizeikräfte des Mandatsgebiets Palästina sind sehr knapp an Ressourcen und Männern, wir müssen sie aufrüsten, wenn wir die Ordnung in unserem Mandat aufrechterhalten wollen."
+
+ MPL_arab_police:0 "Rekrutieren Sie arabische Polizeibeamte"
+ MPL_arab_police_desc:0 "Während Juden in unserem Mandat sicherlich unterstützt und bevorzugt werden, müssen wir damit beginnen, Araber in die Polizeikräfte aufzunehmen, um die Popularität des Nationalismus zu verringern."
+
+ MPL_arab_farmland:0 "Arabisches Ackerland umverteilen"
+ MPL_arab_farmland_desc:0 "Das Ackerland der Araber erweist sich zunehmend als ungeeignet für unsere Wirtschaft. Wir müssen ihr Ackerland an fähigere jüdische Landwirte verteilen, was die Landbesitzer vielleicht verärgert, aber zur Wiederherstellung der Ordnung beitragen wird."
+
+ MPL_appease_arab_democrats:0 "Arabische Demokraten besänftigen"
+ MPL_appease_arab_democrats_desc:0 "Die arabischen Demokraten widersprechen zwar unserem Mandat, sind aber ein nützliches Instrument im Kampf gegen den arabischen nationalistischen Widerstand."
+
+ MPL_white_paper:0 "Das Weißbuch herausgeben"
+ MPL_white_paper_desc:0 "Es ist klar, dass wir die jüdische Einwanderung in das Mandatsgebiet begrenzen müssen, um die Revolte zu stoppen. Dies sollte das Land hoffentlich vorerst stabilisieren."
+
+ MPL_british_military_support:0 "[[~MPL.overlord.GetAdjective~]] Militärische Unterstützung"
+ MPL_british_military_support_desc:0 "Unser Land ist zu klein, um unsere eigene Ausrüstung in großem Umfang zu produzieren. Wir müssen [[~MPL.overlord.GetNameDef~]] um Hilfe bitten, um unser Militär zu verstärken."
+
+ MPL_british_military_industry:0 "[[~MPL.overlord.GetAdjective~]] Militärische Industrie"
+ MPL_british_military_industry_desc:0 "Unsere lokale Industrie ist zu schwach, um sie für die Militärproduktion zu verschwenden. [[~MPL.overlord.GetNameDef~]] wird uns bei der Produktion unserer Ausrüstung unterstützen."
+
+ MPL_british_industrial_support:0 "[[~MPL.overlord.GetAdjective~]] Industrielle Unterstützung"
+ MPL_british_industrial_support_desc:0 "Unsere lokale Industrie braucht dringend eine Erweiterung, aber wir haben nicht die Ressourcen dafür. [[~MPL.overlord.GetNameDef~]] wird uns unterstützen."
+
+ MPL_mandatory_guard:0 "Mandatswache"
+ MPL_mandatory_guard_desc:0 "Um unser Mandat nach außen und nach innen zu schützen, müssen wir eine obligatorische Garde bilden, die der Krone nicht nur zur internen Aufstandsbekämpfung dient."
+
+ MPL_wauchope_resigns:0 "Wauchope zum Rücktritt zwingen"
+ MPL_wauchope_resigns_desc:0 "Nach seinem eindeutigen Versagen, die Katastrophe der letzten zwei Jahre zu verhindern, muss Wauchope von seinem Amt zurücktreten und Platz für den nächsten Kommissar machen."
+
+ MPL_collapse_focus:0 "Zusammenbruch des Mandats"
+ MPL_collapse_focus_desc:0 "Die britischen Unterdrücker haben gezeigt, dass sie keinen Plan für die Zukunft haben! Wir müssen uns erheben und unser Schicksal sichern!"
+
+ MPL_harold_government:0 "Die Regierung Harold MacMichael"
+ MPL_harold_government_desc:0 "Harold MacMichael ist ein sehr innenorientierter Kommissar, er will die Lebensqualität des Mandats verbessern und ist sehr entschieden in seiner Haltung gegen jüdisch-zionistische Milizen"
+
+ MPL_alan_government:0 "Alan Cunningham Regierung"
+ MPL_alan_government_desc:0 "Alan Cunningham, ehemaliger General des britischen Empires, ist ein brillanter Stratege, allerdings hat er nicht viel Erfahrung mit Politik, insbesondere mit Innenpolitik. Er möchte, dass das Mandat ein großes britisches Kolonialprotektorat wird, allerdings wird die Vernunft dieses Ziels stark in Frage gestellt."
+
+ #EVENT ""
+ mandate_palestine.1.t:0 "Arabischer Streik"
+ mandate_palestine.1.d:0 "Nach einer Reihe von Ereignissen, die im Zementzwischenfall von 1935 gipfelten, bei dem geschmuggelte Waffen in einem Frachtcontainer gefunden wurden, der für einen jüdischen Geschäftsmann bestimmt war, haben die Spannungen ihren Höhepunkt erreicht. Im ganzen Land streiken die arabischen Arbeiter in den Bereichen Arbeit, Transport und Handel. Dies hat die Wirtschaft und die Dienstleistungen in der Region völlig lahmgelegt. Die arabischen Führer fordern ein Ende der Abtretung arabischer Ländereien an den Yishuv und die Einsetzung einer nationalen Regierung, die einem repräsentativen Rat untersteht. Eine Revolte dieses Ausmaßes hat es seit der Gründung des Mandats nicht mehr gegeben, und viele sind unsicher, wie es weitergehen soll."
+ mandate_palestine.1.a:0 "Wir müssen das richtig angehen."
+
+ mandate_palestine.2.t:0 "Scheitern der Verhandlungen"
+ mandate_palestine.2.d:0 "Die arabischen Streikenden haben unsere Verhandlungsversuche abgelehnt und angekündigt, dass sie sich nicht mit weniger zufrieden geben werden, als sie fordern. Es gibt sogar Berichte, wonach sich einige Juden dem Streik angeschlossen haben und das Ende des Mandats fordern."
+ mandate_palestine.2.a:0 "Wir müssen uns entscheiden, wie wir weiter vorgehen wollen."
+
+ mandate_palestine.3.t:0 "Ergebnisse der Peel-Kommission"
+ mandate_palestine.3.d:0 "Die Ergebnisse der Peel-Kommission sind eingetroffen. Lord Peel sagte, er habe festgestellt, dass die Hauptursache für den Aufstand die Angst der Araber war, dass die Juden zu viel Einfluss im Mandat gewinnen und die Macht übernehmen würden, sowie die allgemeine Ungewissheit über die Zukunft des Mandats und die Ungleichheit der Chancen von Arabern und Juden. Er vertritt die Auffassung, dass die Entscheidung, die Region zu verlassen, richtig war, und er glaubt, dass:"
+ mandate_palestine.3.a:0 "Es sollte ein unabhängiger Unionsstaat der beiden Völker gebildet werden."
+ mandate_palestine.3.b:0 "Das Land sollte zwischen Juden und Arabern aufgeteilt werden."
+
+ mandate_palestine.4.t:0 "Auflösung des Mandats"
+ mandate_palestine.4.d:0 "Mit der Auflösung des Mandats hoffen viele, dass nun die Zeit des Friedens und der Zusammenarbeit gekommen ist. Der jüdische Staat im Norden bereitet sich auf die Aufnahme von Flüchtlingen aus aller Welt vor, während sich der arabische Staat im Süden darauf vorbereitet, seine Infrastruktur und Industrie auszubauen. In der Mitte liegt Jerusalem, das jetzt unter internationaler Kontrolle steht. Nur die Zukunft wird zeigen, ob der hoffnungsvolle Frieden von Dauer sein kann."
+ mandate_palestine.4.a:0 "(Spielen Sie als Jerusalem)"
+ mandate_palestine.4.b:0 "(Spielen Sie als Israel)"
+ mandate_palestine.4.c:0 "(Spielen Sie als Palästina)"
+
+ mandate_palestine.11.t:0 "Unabhängigkeit für [[~MPL.GetNameDef~]]?"
+ mandate_palestine.11.d:0 "Angesichts der jüngsten Aufstände in [[~MPL.GetNameDef~]] ist die lokale Verwaltung zu dem Schluss gekommen, dass wir die Region auf die Unabhängigkeit vorbereiten sollten. Viele in unserer Regierung sind jedoch der Meinung, dass der Standort zu wichtig ist, um ihn jetzt schon aufzugeben. Vielleicht können wir zu einem Kompromiss kommen?"
+ mandate_palestine.11.a:0 "Das war eine ausgemachte Sache. Bereiten Sie die Region auf die Unabhängigkeit vor."
+ mandate_palestine.11.b:0 "Wir können einem Kompromiss zustimmen. Sie sollen ein Herrschaftsgebiet des Commonwealth werden."
+ mandate_palestine.11.c:0 "Der Standort ist zu wichtig, um ihn aufzugeben. Das können wir nicht zulassen."
+
+ mandate_palestine.12.t:0 "[[~MPL.overlord.GetNameDefCap~]] Akzeptiert die Unabhängigkeit"
+ mandate_palestine.12.d:0 "[[~MPL.overlord.GetNameDefCap~]] hat unsere Vorbereitungen für die Unabhängigkeit akzeptiert. Sie werden unsere Versuche unterstützen, der Region Frieden zu bringen."
+ mandate_palestine.12.a:0 "Möge der Nahe Osten Frieden erfahren."
+
+ mandate_palestine.13.t:0 "[[~MPL.overlord.GetNameDefCap~]] Bietet Dominion-Kompromiss"
+ mandate_palestine.13.d:0 "[[~MPL.overlord.GetNameDefCap~]] hat auf unsere Vorbereitungen zur Unabhängigkeit mit einem Kompromissangebot geantwortet. Wir werden nach Abschluss unserer Vorbereitungen ein Dominion des Commonwealth werden, und sie werden uns in unserem Kampf unterstützen."
+ mandate_palestine.13.a:0 "Wir können diesen Kompromiss akzeptieren."
+ mandate_palestine.13.b:0 "Damit riskieren wir nur, das Volk weiter zu verärgern. Fahren Sie mit den Vorbereitungen fort."
+
+ mandate_palestine.14.t:0 "[[~MPL.overlord.GetNameDefCap~]] Verweigert die Unabhängigkeit"
+ mandate_palestine.14.d:0 "[[~MPL.overlord.GetNameDefCap~]] hat unsere Vorbereitungen für die Unabhängigkeit abgelehnt. Sie werden uns in keiner Weise unterstützen und behaupten, die Region sei zu wichtig, um sie aufzugeben."
+ mandate_palestine.14.a:0 "Wir haben keine andere Wahl, als das Mandat zu verlängern."
+ mandate_palestine.14.b:0 "Diese Angelegenheit geht sie nichts mehr an. Fahren Sie mit den Vorbereitungen fort."
+
+ mandate_palestine.23.t:0 "Das Mandat nimmt den Herrschaftskompromiss an"
+ mandate_palestine.23.d:0 "Die Führung hat den Herrschaftskompromiss akzeptiert. Wenn die Vorbereitungen abgeschlossen sind, werden sie ein Dominion werden."
+ mandate_palestine.23.a:0 "Ein Sieg für unsere beiden Völker."
+
+ mandate_palestine.24.t:0 "Das Mandat unterwirft sich"
+ mandate_palestine.24.d:0 "Die Führung hat sich unseren Forderungen unterworfen. Sie wird die Vorbereitungen für die Unabhängigkeit einstellen und sich auf die Niederschlagung der Revolten konzentrieren."
+ mandate_palestine.24.a:0 "Alles wie geplant."
+
+ mandate_palestine.25.t:0 "Das Mandat lehnt den Herrschaftskompromiss ab!"
+ mandate_palestine.25.d:0 "Die Mandatsführung hat den Herrschaftskompromiss abgelehnt. Sie behauptet, dass das Mandat für die Region abgelaufen ist und dass es jetzt keine andere Wahl als die Unabhängigkeit gibt."
+ mandate_palestine.25.a:0 "Verflucht seien sie!"
+
+ mandate_palestine.26.t:0 "Das Mandat lehnt unsere Forderungen ab!"
+ mandate_palestine.26.d:0 "Die Mandatsführung hat unsere Forderungen zurückgewiesen. Sie behauptet, das Mandat für die Region sei abgelaufen und es gäbe jetzt keine andere Wahl als die Unabhängigkeit."
+ mandate_palestine.26.a:0 "Zum Teufel mit ihnen!"
+
+ mandate_palestine.30.t:0 "Die Aliyah-Frage"
+ mandate_palestine.30.d:0 "Mit der Gründung des neuen Staates ist ein Schwarm jüdischer Einwanderer aus dem Ausland gekommen, die um die Aufhebung der Einwanderungsbeschränkungen bitten. Viele Gruppen im ganzen Land rufen zur Unterstützung der Forderungen auf, während andere meinen, dass dies zum Zusammenbruch der ohnehin schon schwachen Wirtschaft führen wird. Es ist klar, dass die Aufnahme dieser Einwanderer kurzfristig zu wirtschaftlichen Problemen führen wird, aber der langfristige Nutzen kann nicht unterschätzt werden."
+ mandate_palestine.30.a:0 "Niemand darf abgewiesen werden. Dies ist ein Land für alle."
+ mandate_palestine.30.b:0 "Wir sollten sie langsam hereinlassen. Eine Masseneinwanderung wird das Land zusammenbrechen lassen."
+ mandate_palestine.30.c:0 "Jede Einwanderung zum jetzigen Zeitpunkt würde unsere ohnehin schon schwache Wirtschaft zusammenbrechen lassen. Wir müssen abwarten."
+
+ mandate_palestine.40.t:0 "Wahltag"
+ mandate_palestine.40.d:0 "Zu Beginn der Wahlsaison strömt die Bevölkerung in Scharen zu den Wahllokalen. Die Hauptkandidaten für die Wahl sind die Unionistische Allianz der Levante, eine liberal-demokratische Koalition aus arabischen und jüdischen Parteien unter der Führung von [[~MPL.GetDemocraticLeader~]], und die Palästinensische Kommunistische Partei, eine leninistische Partei unter der Führung von [[~MPL.GetCommunistLeader~]]. Als die Ergebnisse näher rücken, ist der Gewinner offensichtlich:"
+ mandate_palestine.40.a:0 "Die Unionistische Allianz der Levante!"
+ mandate_palestine.40.b:0 "Die Palästinensische Kommunistische Partei!"
+
+ mandate_palestine.50.t:0 "[[~MPL.GetNameDefCap~]] Wünscht, unserer Fraktion beizutreten"
+ mandate_palestine.50.d:0 "Wir haben eine Anfrage von [[~MPL.GetNameDef~]] erhalten, um einen formalen Beitritt zu unserer Allianz zu erreichen. Obwohl sie vor nicht allzu langer Zeit ihre Unabhängigkeit von uns erlangt haben, könnte ein weiterer Verbündeter im Mittleren Osten nicht schaden."
+ mandate_palestine.50.a:0 "Wir begrüßen ihre Rückkehr."
+ mandate_palestine.50.b:0 "Sie sind Verräter."
+
+ mandate_palestine.51.t:0 "[[~ENG.GetNameDefCap~]] Hat unsere Anfrage akzeptiert"
+ mandate_palestine.51.d:0 "Unsere Abgesandten in [[~ENG.GetNameDef~]] haben eine positive Antwort auf unsere Bitte erhalten, ihrer Fraktion beizutreten. Wir sind nun wieder Verbündete."
+ mandate_palestine.51.a:0 "Perfekt!"
+
+ mandate_palestine.52.t:0 "[[~ENG.GetNameDefCap~]] hat unsere Anfrage abgelehnt"
+ mandate_palestine.52.d:0 "[[~ENG.GetNameDefCap~]] hat unsere Anfrage, ihrer Allianz beizutreten, abgelehnt und behauptet, wir hätten sie schon einmal verraten."
+ mandate_palestine.52.a:0 "Verflucht seien sie!"
+
+ mandate_palestine.60.t:0 "[[~MPL.GetNameDefCap~]] Wünscht, unserer Fraktion beizutreten"
+ mandate_palestine.60.d:0 "Wir haben eine Anfrage von [[~MPL.GetNameDef~]] erhalten, um einen Beitritt zu unserer Allianz zu formalisieren. Nach ihrer kürzlichen Unabhängigkeit könnten sie in Zukunft ein nützlicher Verbündeter werden."
+ mandate_palestine.60.a:0 "Wir heißen sie mit offenen Armen willkommen."
+ mandate_palestine.60.b:0 "Wir haben es nicht nötig, uns mit ihnen einzulassen."
+
+ mandate_palestine.71.t:0 "Harold MacMichael tritt zurück"
+ mandate_palestine.71.d:0 "Nach zahlreichen erfolglosen Attentatsversuchen ist Harold MacMichael von seinem Amt als Hochkommissar zurückgetreten. Alan Cunningham wird seinen Platz einnehmen."
+ mandate_palestine.71.a:0 "Wir werden sehen, wie er die Regierung führen kann."
+
+ mandate_palestine.73.t:0 "Avraham Stern ermordet"
+ mandate_palestine.73.d:0 "Heute früh stürmten drei Polizeibeamte das Tel Aviver Versteck, in dem der Terrorist Avraham Stern vermutet wurde. Er wurde dort gefunden und nach einem Fluchtversuch von der Polizei erschossen. Viele fragen sich, wie die Zukunft der Lehi-Gruppe ohne ihren Anführer aussehen wird."
+ mandate_palestine.73.a:0 "Gut, dass wir ihn los sind."
+
+ mandate_palestine.80.t:0 "Die Jerusalemer Prozesse beginnen"
+ mandate_palestine.80.d:0 "Nachdem wir unsere Unabhängigkeit erlangt haben, bleibt die Frage, was mit den vielen extremistischen Milizen in unserem Land geschehen soll. Viele Menschen sind der Meinung, dass sie in ihren Positionen bleiben sollten, während andere meinen, dass sie entweder ins Exil gehen oder zurücktreten und unter strenge Beobachtung gestellt werden müssen. Die Beseitigung jüdischer oder arabischer Führer wird mit Sicherheit unsere Unterstützung bei diesen Gruppen verringern, könnte aber unsere Unterstützung bei Minderheiten und gemäßigten Gemeinschaften erhöhen."
+ mandate_palestine.80.a:0 "Wir werden sehen, wie das Ergebnis aussehen wird."
+
+ mandate_palestine.81.t:0 "Der Fall von Fawzi Al-Qawuji"
+ mandate_palestine.81.d:0 "Fawzi Al-Qawuji ist der erste, der sich zu Wort meldet. Als Anführer der arabischen Heilsarmee hat er extreme Feindseligkeit gegenüber Juden und Minderheiten an den Tag gelegt. Viele fordern, ihn ins Exil zu schicken, während andere sagen, dass wir einen so wertvollen General wie ihn nicht verlieren dürfen."
+ mandate_palestine.81.a:0 "Er muss aus unserer Nation verbannt werden!"
+ mandate_palestine.81.b:0 "Nehmt ihm seinen militärischen Rang und stellt ihn unter Bewachung."
+ mandate_palestine.81.c:0 "Wir können es uns nicht leisten, einen so wertvollen General wie ihn zu verlieren."
+
+ mandate_palestine.82.t:0 "Der Fall von Avraham Stern"
+ mandate_palestine.82.d:0 "Avraham Stern ist der zweite. Er ist der Anführer der radikalen Fraktion der Irgun, seine Gruppe hat viele gewerkschaftsfeindliche Positionen vertreten und einen jüdisch dominierten Staat in der Region gefordert. Die Jury wird über sein Schicksal entscheiden."
+ mandate_palestine.82.a:0 "Verbannen Sie ihn. Dieser Extremismus darf nicht bleiben."
+ mandate_palestine.82.b:0 "Stellen Sie ihn unter Beobachtung."
+ mandate_palestine.82.c:0 "Er hat das Recht, seine Meinung zu äußern."
+
+ mandate_palestine.83.t:0 "Der Fall der Soldaten"
+ mandate_palestine.83.d:0 "In der letzten Verhandlung geht es um die Soldaten der extremistischen Gruppierungen. Viele sind der Meinung, dass sie aus ihren Rängen entfernt werden sollten, aber einige sagen, dass wir es uns nicht leisten können, Soldaten zu verlieren, da unser Militär sehr klein ist. Es ist unsere Entscheidung."
+ mandate_palestine.83.a:0 "Entfernt sie aus ihren Rängen. Sie werden nur Unruhe stiften."
+ mandate_palestine.83.b:0 "Sie können bleiben, solange sie loyal bleiben."
+
+ mandate_palestine.85.t:0 "[[~MPL.GetNameDefCap~]] Fordert jordanisches Referendum"
+ mandate_palestine.85.d:0 "Nach dem Vorstoß von [[~MPL.GetNameDef~]] für die levantinische Einheit haben sie sich an unsere Regierung gewandt und ein jordanisches Referendum zur Vereinigung mit ihrer Union gefordert. Es besteht die reale Möglichkeit, dass das Volk diese Bewegung unterstützen wird, also liegt es an uns, ob wir dieses Referendum zulassen."
+ mandate_palestine.85.a:0 "Sie können ihr Referendum abhalten."
+ mandate_palestine.85.b:0 "Wir werden die Ergebnisse ignorieren. Unsere territoriale Unabhängigkeit wird nicht unterminiert werden."
+
+ mandate_palestine.86.t:0 "Erfolgreiches jordanisches Referendum"
+ mandate_palestine.86.d:0 "Unser Referendum in Jordanien war erfolgreich, und das jordanische Volk hat für den Anschluss an uns gestimmt. Wir sind wieder geeint."
+ mandate_palestine.86.a:0 "Ein großer Sieg für die levantinische Einheit."
+
+ mandate_palestine.87.t:0 "Jordanisches Referendum gescheitert"
+ mandate_palestine.87.d:0 "Unser Referendum in Jordanien ist gescheitert. Das Volk hat gegen die Vereinigung gestimmt, und wir bleiben vorerst getrennt."
+ mandate_palestine.87.a:0 "Wir müssen ihre Entscheidung akzeptieren."
+ mandate_palestine.87.b:0 "Die Ergebnisse wurden gefälscht! Das werden wir nicht hinnehmen!"
+
+ mandate_palestine.101.t:0 "Zusammenbruch des Mandats"
+ mandate_palestine.101.d:0 "Das Mandat ist zusammengebrochen. Unseren Streitkräften ist es gelungen, viele Gebiete mit jüdischer Bevölkerungsmehrheit zu erobern, aber wir befinden uns derzeit in einem offenen Kampf mit arabischen Milizen. Wir müssen diesen Krieg schnell gewinnen, wenn wir unsere nationale Heimat sichern wollen."
+ mandate_palestine.101.a:0 "Wenn Sie es wollen, ist es kein Traum!"
+
+ mandate_palestine.102.t:0 "Zusammenbruch des Mandats"
+ mandate_palestine.102.d:0 "Das Mandat ist zusammengebrochen. Unseren Streitkräften ist es gelungen, viele Gebiete mit arabischer Bevölkerungsmehrheit einzunehmen, aber wir befinden uns derzeit in einem offenen Kampf mit israelischen Milizen. Wir müssen diesen Krieg schnell gewinnen, wenn wir unseren neuen Staat sichern wollen."
+ mandate_palestine.102.a:0 "Vom Fluss zum Meer!"
+
+ mandate_palestine.103.t:0 "Zusammenbruch der Union"
+ mandate_palestine.103.d:0 "Die Union ist zusammengebrochen. Unseren Streitkräften ist es gelungen, viele Gebiete mit jüdischer Bevölkerungsmehrheit einzunehmen, aber wir befinden uns derzeit in offenen Kämpfen mit arabischen Milizen. Wir müssen diesen Krieg schnell gewinnen, wenn wir unsere nationale Heimat sichern wollen."
+ mandate_palestine.103.a:0 "Wenn Sie es wollen, ist es kein Traum!"
+
+ mandate_palestine.104.t:0 "Zusammenbruch der Union"
+ mandate_palestine.104.d:0 "Die Union ist zusammengebrochen. Unseren Streitkräften ist es gelungen, viele Gebiete mit arabischer Bevölkerungsmehrheit einzunehmen, aber wir befinden uns derzeit in einem offenen Kampf mit israelischen Milizen. Wir müssen diesen Krieg schnell gewinnen, wenn wir unseren neuen Staat sichern wollen."
+ mandate_palestine.104.a:0 "Vom Fluss zum Meer!"
+
+
+
+ mandate_palestine.105.t.a:0 "Von der levantinischen Kommune unterstützter Coup"
+ mandate_palestine.105.d.a:0 "Nachdem [[~MPL.GetLeader~]] verkündet hat, dass die Levante unter einem einzigen sozialistischen Staat vereinigt werden muss, kam es im ganzen Land zu unterstützenden Unruhen. Heute ist ein massiver Sturm von Randalierern in den königlichen Palast eingedrungen und steht kurz davor, die lokale Regierung zu stürzen. Sollten wir nachgeben?"
+ mandate_palestine.105.t.b:0 "Von der levantinischen Kommune unterstützter Putsch in Jordanien"
+ mandate_palestine.105.d.b:0 "Nachdem [[~MPL.GetLeader~]] verkündet hatte, dass die Levante unter einem einzigen sozialistischen Staat vereinigt werden müsse, kam es in Jordanien zu zahlreichen unterstützenden Unruhen. Heute ist ein massiver Sturm von Randalierern in den königlichen Palast eingedrungen und steht kurz davor, die lokale Regierung zu stürzen. Sollten wir nachgeben?"
+ mandate_palestine.105.a:0 "Das ist die einzige Möglichkeit."
+ mandate_palestine.105.b:0 "Nein! Schickt die königliche Garde!"
+
+ mandate_palestine.106.t:0 "Pro-levantinischer Putsch in Jordanien"
+ mandate_palestine.106.d:0 "Nachdem die pro-levantinischen sozialistischen Gewerkschaften einen Staatsstreich gegen die jordanische Regierung gestartet haben, ist es ihnen gelungen, die königliche Garde zu überwältigen und die Kontrolle über den Staat zu übernehmen. Dies ist ein großer Sieg für die levantinische Einheit und ein großer Schritt in diese Richtung."
+ mandate_palestine.106.a:0 "Ausgezeichnet."
+
+ mandate_palestine.107.t:0 "Gescheiterter prolevantinischer Putsch in Jordanien"
+ mandate_palestine.107.d:0 "Nachdem der jüngste, von uns finanzierte pro-levantinische Putsch gegen die königliche Garde in Jordanien gescheitert ist, haben sie ein hartes Vorgehen gegen alle pro-levantinischen Parteien eingeleitet und dachten, wir müssten handeln."
+ mandate_palestine.107.a:0 "Es ist nicht mehr unsere Angelegenheit."
+ mandate_palestine.107.b:0 "Wir müssen sie selbst befreien."
+
+ mandate_palestine.110.t:0 "[[~MPL_borderwar_defender.GetName~]] Beschlagnahmt!"
+ mandate_palestine.110.d:0 "Unser kurzes Scharmützel mit den Truppen von [[~MPL_borderwar_defender.controller.GetNameDef~]] hat zu einem erbitterten Sieg geführt! Wir haben [[~MPL_borderwar_defender.GetName~]] der Unterdrückung durch [[~MPL_borderwar_defender.controller.GetAdjective~]] entrissen und sind der Rückeroberung unseres rechtmäßigen Territoriums einen Schritt näher gekommen!"
+ mandate_palestine.110.a:0 "Ein großer Sieg!"
+
+ mandate_palestine.111.t:0 "Verlust in [[~MPL_borderwar_defender.GetName~]]"
+ mandate_palestine.111.d:0 "Zu unserer Bestürzung hat das Scharmützel in [[~MPL_borderwar_defender.GetName~]] mit [[~MPL_borderwar_defender.controller.GetNameDef~]] zu einer demütigenden Niederlage geführt. Unsere Truppen wurden aufgerieben und wir konnten kein Gebiet sichern. Allerdings sind die [[~MPL_borderwar_defender.controller.GetAdjective~]]-Soldaten nicht in unser Gebiet eingedrungen. Vielleicht haben wir in der Zukunft eine weitere Chance."
+ mandate_palestine.111.a:0 "Wir werden uns auf das nächste Mal vorbereiten."
+
+ mandate_palestine.112.t:0 "Verlust in [[~MPL_borderwar_defender.GetName~]]"
+ mandate_palestine.112.d:0 "Zu unserer Bestürzung hat das Scharmützel in [[~MPL_borderwar_defender.GetName~]] mit [[~MPL_borderwar_defender.owner.GetNameDef~]] zu einer demütigenden Niederlage geführt. Unsere Truppen wurden aufgerieben und wir haben es nicht geschafft, die Region zu verteidigen."
+ mandate_palestine.112.a:0 "Lasst sie in Ruhe. Wir müssen uns um andere Dinge kümmern."
+ mandate_palestine.112.b:0 "Diesen Angriff werden wir nicht auf die leichte Schulter nehmen!"
+
+ mandate_palestine.113.t:0 "Sieg in [[~MPL_borderwar_defender.GetName~]]"
+ mandate_palestine.113.d:0 "Die törichten [[~MPL_borderwar_attacker.Controller.GetAdjective~]] dachten, sie könnten uns unser Territorium wegnehmen, aber wir haben ihre schwachen Kräfte leicht besiegt."
+ mandate_palestine.113.a:0 "Vielleicht wird ihnen das eine Lehre sein."
+
+ mandate_palestine.114.t:0 "[[~MPL_borderwar_attacker.controller.GetAdjective~]] Versammlung an der Grenze."
+ mandate_palestine.114.d:0 "Berichte über [[~MPL_borderwar_defender.controller.GetAdjective~]] Truppen, die sich an der Grenze mit [[~MPL_borderwar_defender.GetName~]] versammeln, haben das Oberkommando erreicht. Einige sagen, dass es sich um einen Bluff handelt, aber andere sagen, dass sie versuchen werden, die Kontrolle über die Region zu übernehmen."
+ mandate_palestine.114.a:0 "Wir sollten darauf vorbereitet sein, falls dies der Fall sein sollte."
+
+ mandate_palestine.120.t:0 "Instabilität in Jordanien"
+ mandate_palestine.120.d:0 "Mit dem jüngsten Verlust des Mandatsgebiets Palästina sieht sich das Emirat Transjordanien mit einer eigenen Instabilität konfrontiert. Noch weiter von unserer Kontrolle losgelöst, fordert das Volk mehr Autonomie innerhalb des Reiches. Wir können dieser Forderung entweder nachkommen oder Truppen entsenden, um die Ordnung wiederherzustellen."
+ mandate_palestine.120.a:0 "Der Nahe Osten erweist sich als ein Abflussrohr."
+
+ mandate_palestine.121.t:0 "Unruhen in Syrien"
+ mandate_palestine.121.d:0 "Nach der kürzlichen Unabhängigkeit der Mandatsgebiete Palästina und Jordanien ist eine lokale nationalistische Welle über Syrien hinweggefegt, die den Erfolg der Unabhängigkeitsbewegungen im gesamten Nahen Osten vor Augen hat. Wenn wir uns nicht bald darum kümmern, könnte dies sehr wohl zu einer ausgewachsenen Revolte führen."
+ mandate_palestine.121.a:0 "Wir müssen handeln."
+
+ mandate_palestine.122.t:0 "Niederlage in Syrien"
+ mandate_palestine.122.d:0 "Nach wiederholten Verlusten gegen die [[~SYR.GetAdjective~]]-Kräfte wird unsere Regierung unter Druck gesetzt, die Kriegsanstrengungen aufzugeben und den Syrern ihre Unabhängigkeit zu geben, da eine Fortsetzung des Krieges die Stabilität unseres Landes drastisch beeinträchtigen würde."
+ mandate_palestine.122.a:0 "Ziehen Sie unsere Truppen ab. Wir haben andere Dinge, um die wir uns kümmern müssen."
+ mandate_palestine.122.b:0 "Wir werden den totalen Sieg erringen!"
+
+ mandate_palestine.123.t:0 "Sieg!"
+ mandate_palestine.123.d:0 "Mit dem Rückzug der letzten [[~MPL_syria_war_owner.GetAdjective~]]-Kräfte ist es uns gelungen, die Kontrolle über alle unsere Territorien zu erlangen!"
+ mandate_palestine.123.a:0 "Die Unabhängigkeit ist erreicht!"
+
+ #mandate_palestine.150.t:0 "Unterstützung aus arabischen Ländern"
+ #mandate_palestine.150.d:0 "Nach unserer jüngsten Unabhängigkeitserklärung haben viele arabische Länder im Nahen Osten ihre Unterstützung für uns angekündigt und uns industrielle Unterstützung geschickt, damit wir mit den stärker industrialisierten jüdischen Gebieten mithalten können."
+ #mandate_palestine.150.a:0 "Wir begrüßen jede Unterstützung."
+
+ mandate_palestine.150.t:0 "Provisorischer Flugplatz in Umm Al-Rashrash"
+ mandate_palestine.150.d:0 "Wir haben einen provisorischen Luftwaffenstützpunkt in Umm Al-Rashrash eröffnet, damit wir im Ausland gekaufte Flugzeuge einsetzen können."
+ mandate_palestine.150.a:0 "Großartig!"
+
+ mandate_palestine.151.t:0 "Verlegung der Hauptstadt"
+ mandate_palestine.151.d:0 "Mit dem Ausbruch des Krieges hat die Führung unseres Landes beschlossen, dass das Zentrum der Operationen in Tel Aviv angesiedelt werden muss. Auch wenn wir Jerusalem als Hauptstadt beanspruchen, müssen wir unsere Regierung vorübergehend nach Tel Aviv verlegen, da die Stadt weniger gefährdet ist."
+ mandate_palestine.151.a:0 "Wir werden zurückkehren."
+
+ mandate_palestine.152.t:0 "Pinis Flucht"
+ mandate_palestine.152.d:0 "Als Pinchas Ben-Porat sich dem Landeplatz in Nevatim näherte, sah er den verzweifelten Zustand des Moshavs. Hunderte von arabischen Milizionären hatten das Dorf umstellt, und die Vorräte, die er eingeflogen hatte, würden nicht mehr lange reichen. Es musste etwas unternommen werden.[~[~\n~][~\n~]~]"Steigt ein!" brüllte Pinchas dem Palmach-Kommandanten zu, der die Siedlung verteidigte. Gemeinsam demontierten sie die rechte Seitentür seines armen RWD-13, legten ein Bren-Maschinengewehr an und packten so viele Granaten hinein, wie sie konnten. [Als sie wieder abhoben, entdeckten sie die arabischen Milizionäre, die auf die Stadt vorrückten, und begannen mit dem Bren-Gewehr auf sie zu schießen, warfen Granaten ab, während sie nachluden, und zwangen die Araber, ihren Vormarsch auf den Moshav abzubrechen."
+ mandate_palestine.152.a:0 "Die richtige Person zur richtigen Zeit."
+
+ mandate_palestine.201.t:0 "Zusammenbruch des Mandats für Palästina"
+ mandate_palestine.201.d:0 "Seit der Gründung des Mandats Palästina nach dem Ersten Weltkrieg war klar, dass ein solcher Staat angesichts zunehmender ethnischer Spannungen und regionaler Konflikte nicht lange bestehen konnte. [Es hat den Anschein, als hätten diese Konflikte nun eine Bruchstelle erreicht, da sich jüdische und arabische Milizen im ganzen Land erheben und die Briten beschlossen haben, dass der Konflikt nicht mehr unter ihrer Kontrolle steht, und damit begonnen haben, ihre Truppen abzuziehen. Nicht viele können vorhersagen, wie dieser Konflikt enden wird, aber eines ist sicher, dieses Ereignis wird den Verlauf des Nahen Ostens für immer verändern."
+ mandate_palestine.201.a:0 "Ein einzelner Vorfall? Oder der Beginn eines Trends?"
+
+ mandate_palestine.202.t:0 "Zusammenbruch von [[~MPL.GetNameDef~]]"
+ mandate_palestine.202.d:0 "Nachrichten aus der Levante berichten über den Zusammenbruch der unionistischen Autorität in der Region. Lokale jüdische und arabische Milizen haben sich gegeneinander erhoben, was zum vollständigen Zusammenbruch der fragilen Unionsregierung geführt hat. Obwohl die meisten Menschen dieses Ergebnis vorhergesagt haben, sind viele überrascht, dass so viele Fortschritte zunichte gemacht wurden. Vielleicht ist der Nahe Osten noch nicht bereit dafür."
+ mandate_palestine.202.a:0 "Aber was passiert mit einem aufgeschobenen Traum?"
+
+ mandate_palestine.203.t:0 "[~MPL.GetNameDefCap~]] Auf dem Weg zur Unabhängigkeit"
+ mandate_palestine.203.d:0 "[Schockierende Nachrichten aus Jerusalem: [[~MPL.GetLeader~]] hat angekündigt, dass das Mandat für Palästina zu Ende gehen wird. Er behauptet, der anhaltende arabische Aufstand habe der Führung gezeigt, dass das Mandat nicht haltbar sei und dass es bald zu einer Lösung kommen müsse. Die lokalen Behörden werden die Region auf die Unabhängigkeit vorbereiten.[~[~\n~][~\n~]~]Viele Menschen glauben, dass es keine Chance für eine friedliche Lösung in der Levante gibt, aber andere hoffen auf einen erfolgreichen Ausgang. Dennoch wollen die Mandatsbehörden weiter vorgehen."
+ mandate_palestine.203.a:0 "Ein Ertrinkender wird sich an einen Strohhalm klammern."
+
+ mandate_palestine.204.t:0 "[[~MPL.GetLeader~]] Erlässt Notverordnungen"
+ mandate_palestine.204.d:0 "[Da die arabischen Revolten im Mandat in vollem Gange sind, hat [[~MPL.GetLeader~]] Notstandsverordnungen erlassen. Er behauptet, dass die Revoluzzer Terroristen sind, gegen die vorgegangen werden muss, und dass es keine Verhandlungen mehr geben wird.[~[~\n~][~\n~]Aus London war zu diesem Zeitpunkt kein Kommentar zu erhalten."
+ mandate_palestine.204.a:0 "Ein Pessimist, der mit zwei schlechten Entscheidungen konfrontiert wird, entscheidet sich für beide."
+
+ mandate_palestine.205.t:0 "[[~JOR.GetNameDefCap~]] Erklärt die Unabhängigkeit"
+ mandate_palestine.205.d:0 "[[~JOR.GetLeader~]] erklärte heute, dass [[~JOR.GetNameDef~]] alle Verbindungen zu [[~MPL_JOR_ruler.GetNameDef~]] abbrechen wird, nachdem es ihnen nicht gelungen ist, das Land nach dem Verlust der Kontrolle durch [[~MPL_JOR_ruler.GetAdjective~]] im Mandat Palästina zu stabilisieren.[~[~\n~][~\n~]~]Nach dem Verlust des Mandats hielten viele dies für ein wahrscheinliches Ergebnis. Die Zukunft wird zeigen, ob sich das Zeitalter des Kolonialismus im Nahen Osten seinem Ende nähert."
+ mandate_palestine.205.a:0 "Ein Trend ist es."
+ mandate_palestine.205.b:0 "Eid Al Istiklal! (Spielen Sie als Jordanien)"
+
+ mandate_palestine.206.t:0 "[[~MPL.GetNameDefCap~]] Erklärt die Unabhängigkeit"
+ mandate_palestine.206.d:0 "Die provisorische Regierung von [[~MPL.GetNameDef~]] hat heute erklärt, dass das Land Palästina die Unabhängigkeit von [[~MPL_ruler.GetNameDef~]] erklären wird. Sie danken ihrem ehemaligen Oberherrn für seine Unterstützung bei der Vorbereitung der Region, glauben aber, dass es an der Zeit ist, die Verbindungen zu kappen.[~[~\n~][~\n~]~]Die neu gebildete Union besteht sowohl aus Arabern als auch aus Juden, die beide auf ein ähnliches Ziel hinzuarbeiten scheinen, vorerst. Angesichts der Instabilität in der Region kann kaum jemand vorhersagen, wie die Zukunft aussehen wird."
+ mandate_palestine.206.a:0 "Ein isolierter Vorfall? Oder der Beginn eines Trends?"
+
+ mandate_palestine.207.t:0 "Ende der Jerusalemer Konferenz"
+ mandate_palestine.207.d:0 "Nach einem langen Kampf um die Unabhängigkeit gaben [[~ISR.GetLeader~]] und [[~PAL.GetLeader~]] heute bekannt, dass das Mandat für Palästina aufgelöst wurde und eine unabhängige Föderation an seine Stelle treten wird. Für den Moment scheint es, dass der Frieden vorerst aufrechterhalten wird, obwohl es immer noch Spannungen gibt.[~[~\n~][~\n~]~]Dennoch scheint es, dass der Konflikt für die Region zu einem friedlichen Ende kommt. Nur die Zukunft kann zeigen, wie das Ergebnis aussehen wird."
+ mandate_palestine.207.a:0 "Ein Einzelfall? Oder der Beginn eines Trends?"
+
+ mandate_palestine.208.t.a:0 "[[~ISR.GetLeader~]] Proklamiert den Staat Israel"
+ mandate_palestine.208.t.b:0 "[[~ISR.GetLeader~]] Ruft die Republik Judäa aus"
+ mandate_palestine.208.t.c:0 "[[~ISR.GetLeader~]] Proklamiert das Königreich Israel"
+ mandate_palestine.208.d:0 "Schon vor Moses Hess und Theodore Herzl hatten viele über die Idee einer unabhängigen jüdischen Nation gespottet. Wie sollten sie sich denn nach 2000 Jahren im Exil jemals wieder vereinigen? Heute sind die Zweifler verstummt. In einer großen Rede im Haus von Meir Dizengoff, dem Gründer von Tel Aviv, die von Tausenden besucht wurde, hat [[~ISR.GetLeader~]] eine jüdische Nation im Land Israel proklamiert. [Dies hat bereits zu Spannungen im gesamten Nahen Osten geführt, und viele arabische Nationen erwägen bereits eine Intervention.[~[~\n~][~\n~]~]Was auch immer die Zukunft bringen mag, heute ist ein historischer Tag für die Juden weltweit."
+ mandate_palestine.208.a:0 "Heute macht sich derjenige lächerlich, der die Existenz einer jüdischen Nation leugnet."
+ mandate_palestine.208.b:0 "Wir werden unsere Rache haben!"
+ mandate_palestine.208.c:0 "Es ist kein Traum."
+
+ mandate_palestine.209.t:0 "[[~PAL.GetLeader~]] Proklamiert den Staat Palästina"
+ mandate_palestine.209.de:0 "[[~PAL.GetLeader~]] verkündete heute in Ramallah die Gründung des neuen palästinensischen Staates nach dem Sieg über die israelischen Streitkräfte. Er dankt allen Nationen, die die Palästinenser während des Krieges unterstützt haben, und erklärt, dass der Kampf noch nicht vorbei ist und noch viel Arbeit vor dem Wiederaufbau der neuen Nation liegt."
+ mandate_palestine.209.a:0 "Die Zukunft wird zeigen, welchen Weg der Nahe Osten einschlagen wird."
+ mandate_palestine.209.b:0 "Ruhm für [[~PAL.GetNameDef~]]!"
+
+ mandate_palestine.210.t.a:0 "Der Zweite Französisch-Syrische Krieg"
+ mandate_palestine.210.t.b:0 "Die syrische Revolution"
+ mandate_palestine.210.d:0 "20 Jahre nach dem ersten französisch-syrischen Krieg scheint es, als ob der Konflikt in Syrien erneut entbrannt ist. Nach der jüngsten Unabhängigkeitswelle im gesamten Nahen Osten, zunächst im Mandatsgebiet Palästina und dann in Jordanien, haben sich lokale syrische Rebellen gegen [[~MPL_syria_war_owner.GetNameDef~]] erhoben. [Viele Experten sagten voraus, dass mit dem vorzeitigen Ende der britischen Mandate auch das Mandat Syrien in Kürze zusammenbrechen würde - eine Vorhersage, die sich nun bewahrheitet hat. In jedem Fall scheint die europäische koloniale Herrschaft über den Nahen Osten und vielleicht über die ganze Welt in Gefahr zu sein."
+ mandate_palestine.210.a:0 "Die Dominosteine fallen um."
+ mandate_palestine.210.b:0 "Syrien wird frei sein! (Spielen Sie als Syrien)"
+
+ mandate_palestine.301.t:0 "[[~MPLGetRandomMilitiaJew~]] und [[~MPLGetRandomMilitiaArab~]] Clash in [[~MPLGetRandomCity~]]"
+ mandate_palestine.301.d:0 "Heute früh kam es in [[~MPLGetRandomCity~]] zu Zusammenstößen zwischen Gruppen von [[~MPLGetRandomMilitiaJew~]] und [[~MPLGetRandomMilitiaArab~]]. Zivilisten in der Gegend flohen, als die Kämpfe begannen, und die Polizei wurde entsandt. Den Polizisten gelang es, die Situation zu deeskalieren, aber es scheint, als hätten die [[~MPLGetRandomMilitiaJew~]] die Oberhand gewonnen."
+ mandate_palestine.301.a:0 "Der Frieden muss gewahrt werden."
+
+ mandate_palestine.302.t:0 "[[~MPLGetRandomMilitiaJew~]] und [[~MPLGetRandomMilitiaArab~]] Zusammenstoß in [[~MPLGetRandomCity~]]"
+ mandate_palestine.302.d:0 "Heute früh kam es in [[~MPLGetRandomCity~]] zu Zusammenstößen zwischen Gruppen von [[~MPLGetRandomMilitiaJew~]] und [[~MPLGetRandomMilitiaArab~]]. Zivilisten in der Gegend flohen, als die Kämpfe begannen, und die Polizei wurde entsandt. Den Polizisten gelang es, die Situation zu deeskalieren, aber es scheint, als hätten die [[~MPLGetRandomMilitiaArab~]] die Oberhand gewonnen."
+ mandate_palestine.302.a:0 "Der Frieden muss gewahrt werden."
+
+ mandate_palestine.303.t:0 "[[~MPLGetRandomCity~]] Garnison angegriffen von [[~MPLGetRandomMilitiaJew~]] Mitgliedern"
+ mandate_palestine.303.d:0 "Heute früh wurde eine unserer Garnisonen in [[~MPLGetRandomCity~]] von [[~MPLGetRandomMilitiaJew~]]-Mitgliedern angegriffen. Die Kämpfe waren recht kurz und unsere Soldaten konnten sie zurückschlagen, aber sie haben Verluste erlitten und das Garnisonsgebiet ist verwundbar."
+ mandate_palestine.303.a:0 "Dies darf nicht zugelassen werden."
+
+ mandate_palestine.304.t:0 "[[~MPLGetRandomCity~]] Garnison angegriffen von [[~MPLGetRandomMilitiaArab~]] Mitgliedern"
+ mandate_palestine.304.d:0 "Heute früh wurde eine unserer Garnisonen in [[~MPLGetRandomCity~]] von [[~MPLGetRandomMilitiaArab~]]-Mitgliedern angegriffen. Die Kämpfe waren recht kurz und unsere Soldaten konnten sie zurückschlagen, aber sie haben Verluste erlitten und das Garnisonsgebiet ist verwundbar."
+ mandate_palestine.304.a:0 "Dies darf nicht zugelassen werden."
+
+ mandate_palestine.305.t:0 "Waffentransport von [[~MPLGetRandomMilitiaJew~]] überfallen"
+ mandate_palestine.305.d:0 "Heute früh wurde einer unserer Waffentransporte von [[~MPLGetRandomMilitiaJew~]]-Mitgliedern überfallen. Der Fahrer und der Wachmann wurden verschont, aber wir konnten die Waffen nicht finden, was bedeutet, dass sie in feindliche Hände gefallen sein müssen."
+ mandate_palestine.305.a:0 "Wir müssen handeln."
+
+ mandate_palestine.306.t:0 "Waffentransport von [[~MPLGetRandomMilitiaArab~]] überfallen"
+ mandate_palestine.306.d:0 "Heute früh wurde einer unserer Waffentransporte von [[~MPLGetRandomMilitiaArab~]]-Mitgliedern überfallen. Der Fahrer und der Wachmann wurden verschont, aber wir konnten die Waffen nicht finden, was bedeutet, dass sie in feindliche Hände gefallen sein müssen."
+ mandate_palestine.306.a:0 "Wir müssen handeln."
+
+ mandate_palestine.401.t:0 "[[~ISR.GetNameDefCap~]] Bittet um unsere Unterstützung"
+ mandate_palestine.401.d:0 "Mit dem Ausbruch des Krieges im Nahen Osten hat sich [[~ISR.GetNameDef~]] an uns gewandt und uns um Unterstützung in ihrem Konflikt gebeten. Sie behaupten, dass es in unserem besten Interesse ist, [[~PAL.GetNameDef~]] zu besiegen, und dass ihre Unterstützung eine Ausweitung unseres Einflussbereichs bedeuten würde, sobald sie gewonnen haben. Einige Mitglieder unserer Regierung haben ihre Unterstützung zum Ausdruck gebracht, aber einige sind der Meinung, dass wir stattdessen [[~PAL.GetNameDef~]] unterstützen sollten, und andere meinen, dass wir neutral bleiben sollten."
+ mandate_palestine.401.a:0 "Wir werden sie unterstützen."
+ mandate_palestine.401.b:0 "Es war dumm von ihnen, überhaupt hierher zu kommen."
+
+ mandate_palestine.402.t:0 "[[~PAL.GetNameDefCap~]] bittet um unsere Unterstützung"
+ mandate_palestine.402.d:0 "Mit dem Ausbruch des Krieges im Nahen Osten ist [[~PAL.GetNameDef~]] zu uns gekommen und hat uns um Unterstützung in ihrem Konflikt gebeten. Sie behaupten, dass es in unserem besten Interesse ist, [[~ISR.GetNameDef~]] zu besiegen, und dass ihre Unterstützung eine Ausweitung unseres Einflussbereichs bedeuten würde, sobald sie gewonnen haben. Einige Mitglieder unserer Regierung haben ihre Unterstützung zum Ausdruck gebracht, einige sind jedoch der Meinung, dass wir stattdessen [[~ISR.GetNameDef~]] unterstützen sollten, und andere meinen, dass wir neutral bleiben sollten."
+ mandate_palestine.402.a:0 "Wir werden sie unterstützen."
+ mandate_palestine.402.b:0 "Es war dumm von ihnen, überhaupt hierher zu kommen."
+
+ mandate_palestine.403.t:0 "[[~event_target_support_MPL.GetNameDefCap~]] Stimmt zu, uns zu unterstützen"
+ mandate_palestine.403.d:0 "Unsere Mission bei [[~event_target_support_MPL.GetNameDef~]] war ein durchschlagender Erfolg, ihre Führung hat ihre Unterstützung für uns angekündigt und ist bereit, uns dringend benötigte Vorräte zu schicken."
+ mandate_palestine.403.a:0 "Sie werden dies nicht bereuen."
+
+ mandate_palestine.404.t:0 "[[~event_target_support_MPL.GetNameDefCap~]] Weigert sich, uns zu unterstützen."
+ mandate_palestine.404.d:0 "Unsere Mission bei [[~event_target_support_MPL.GetNameDef~]] endete mit einer demütigenden Ablehnung. Ihre Führung hat es rundweg abgelehnt, uns zu unterstützen und verhandelt derzeit mit unserem Feind."
+ mandate_palestine.404.a:0 "Verflucht seien sie!"
+
+ mandate_palestine.405.t:0 "Legionsoffiziere fordern Intervention"
+ mandate_palestine.405.d:0 "Aufgrund der jüngsten Beinahe-Zerstörung der palästinensischen Streitkräfte durch den neuen israelischen Staat haben viele unserer Offiziere gefordert, dass wir intervenieren und das Westjordanland übernehmen, um sie zu schützen. Es ist ein riskanter Schritt, aber er würde es uns ermöglichen, unseren Einflussbereich zu erweitern und unsere Stellung als neue Nation im Nahen Osten zu festigen."
+ mandate_palestine.405.a:0 "Mobilisieren Sie die Legion, wir werden unsere Brüder retten."
+ mandate_palestine.405.b:0 "Wir dürfen ihre Souveränität nicht verletzen."
+
+ mandate_palestine.406.t:0 "Chancen in unserem Osten"
+ mandate_palestine.406.d:0 "Aufgrund der jüngsten Beinahe-Zerstörung der palästinensischen Streitkräfte durch den neuen israelischen Staat hat sich in unserem Osten eine Gelegenheit eröffnet. Viele unserer Offiziere schlagen vor, den Gaza-Streifen zu besetzen, um unsere Kontrolle über den Nahen Osten weiter auszubauen. Es ist ein riskanter Schritt, aber er würde es uns ermöglichen, unseren Einflussbereich zu erweitern und die israelischen Streitkräfte zu schwächen."
+ mandate_palestine.406.a:0 "Starten Sie die Invasion."
+ mandate_palestine.406.b:0 "Wir dürfen ihre Souveränität nicht verletzen"
+
+ mandate_palestine.407.t:0 "Die Invasion der Jordanier"
+ mandate_palestine.407.d:0 "Unser katastrophaler Misserfolg bei der Zurückdrängung der zionistischen Invasoren und der Lähmung der Unabhängigkeit unserer Nation hat die Arabische Legion veranlasst, eine Invasion im Westjordanland in Erwägung zu ziehen; ihre Streitkräfte sind bereits in Marsch gesetzt, und es wird nicht mehr lange dauern, bis sie in Ramallah stehen."
+ mandate_palestine.407.a:0 "Warum haben Sie nichts gesagt? Und warum?"
+
+ mandate_palestine.408.t:0 "Gaza fällt"
+ mandate_palestine.408.d:0 "Unser katastrophales Versagen bei der Zurückdrängung der zionistischen Invasoren und der Untergrabung der Unabhängigkeit unserer Nation hat das ägyptische Oberkommando dazu veranlasst, eine Invasion in Gaza in Erwägung zu ziehen, ihre Streitkräfte sind in Marsch gesetzt, und es wird nicht mehr lange dauern, bis sie die Stadt vollständig unter Kontrolle haben."
+ mandate_palestine.408.a:0 "In den engen Gassen riecht es merkwürdig, nach Niederlage und Armut."
+
+ mandate_palestine.410.t:0 "Flüchtlingswelle von [[~MPL_target_refugees.GetNameDefCap~]]"
+ mandate_palestine.410.d:0 "Nach der faschistischen Machtergreifung in [[~MPL_target_refugees.GetNameDefCap~]] strömen Zehntausende von Flüchtlingen an unsere Grenzen, die einen sicheren Hafen suchen und uns für den Beschützer der Freiheit im Nahen Osten halten. Ihre Aufnahme in unser Land würde uns einen wertvollen Popularitätsschub verschaffen, könnte aber unsere staatlichen Dienste überfordern."
+ mandate_palestine.410.d.b:0 "Nach dem Ausbruch des Bürgerkriegs in [[~MPL_target_refugees.GetNameDefCap~]] strömen Zehntausende von Flüchtlingen an unsere Grenzen, die einen sicheren Zufluchtsort suchen und uns für den Beschützer der Freiheit im Nahen Osten halten. Ihre Aufnahme in unser Land würde uns einen wertvollen Popularitätsschub verschaffen, könnte aber unsere staatlichen Dienste überfordern."
+ mandate_palestine.410.d.c:0 "Nach der faschistischen Besetzung von [[~MPL_target_refugees.GetNameDefCap~]] strömen Zehntausende von Flüchtlingen an unsere Grenzen, die einen sicheren Zufluchtsort suchen und uns für den Beschützer der Freiheit des Nahen Ostens halten. Die Aufnahme dieser Menschen in unser Land würde uns einen wertvollen Popularitätsschub verschaffen, könnte aber unsere staatlichen Dienste überfordern."
+ mandate_palestine.410.a:0 "Eine Nation für alle."
+ mandate_palestine.410.b:0 "Das können wir nicht riskieren."
+
+ mandate_palestine.501.t:0 "Busmassaker in Kfar Sirkin"
+ mandate_palestine.501.d:0 "Als Reaktion auf die zunehmende Verschiebung des Kräfteverhältnisses in der Region wurde heute ein Anschlag auf einen Bus verübt, der auf dem Weg von Jerusalem nach Natanya in der Nähe der jüdischen Gemeinde Kfar Sirkin war. 8 arabische Bandenmitglieder aus Jaffa überfielen den Bus und töteten 5 Menschen und verletzten viele andere."
+ mandate_palestine.501.a:0 "In unserem Kindergarten befinden sich viele Kinder."
+
+ mandate_palestine.502.t:0 "Explosion im Haus der Familie Abu Laban"
+ mandate_palestine.502.d:0 "Als Reaktion auf die zunehmende Verschiebung des Machtgleichgewichts in der Region wurde heute ein Anschlag auf das Haus der Familie Abu Laban in der Nähe von Petah Tikva verübt. Bei dem Angriff, bei dem es sich vermutlich um einen Angriff der Haganah auf das mutmaßliche Hauptquartier einer arabischen Bande handelt, wurden 12 Bewohner getötet."
+ mandate_palestine.502.a:0 "In unserem Kindergarten befinden sich viele Kinder."
+
+ mandate_palestine.503.t:0 "Schüsse auf Bus bei Hadera abgefeuert"
+ mandate_palestine.503.d:0 "Kurz nach dem jüngsten Anschlag wurden in der Nähe der jüdischen Stadt Hadera Schüsse auf einen nach Süden fahrenden Bus abgefeuert. Bei dem Anschlag, der von einer arabischen Bande aus den umliegenden Dörfern verübt wurde, wurden 2 Menschen getötet."
+ mandate_palestine.503.a:0 "Einige von ihnen mag ich, andere kenne ich nicht gut."
+
+ mandate_palestine.504.t:0 "Bombenanschlag in der Ölraffinerie von Haifa"
+ mandate_palestine.504.d:0 "In Fortsetzung der jüngsten Terroranschläge wurde heute früh eine Bombe von Irgun-Mitgliedern in eine Menge arabischer Arbeiter in der Ölraffinerie von Haifa geworfen, wobei 6 Menschen getötet wurden. Soldaten wurden entsandt, um mit den Terroristen fertig zu werden, aber es gelang ihnen zu entkommen."
+ mandate_palestine.504.a:0 "Aber jeder weiß um Rans Tapferkeit,"
+
+ mandate_palestine.505.t:0 "Massaker in der Ölraffinerie von Haifa"
+ mandate_palestine.505.d:0 "Nach dem jüngsten Angriff der Irgun auf die Ölraffinerie in Haifa stürmten Hunderte von arabischen Arbeitern die Raffinerie mit Metallstangen, schlugen 39 jüdische Arbeiter zu Tode und verletzten 49 weitere. Die Polizei traf erst eine Stunde nach Beginn des Massakers ein und war bei der Bekämpfung der Unruhen weitgehend unwirksam."
+ mandate_palestine.505.a:0 "Allerdings gibt es ein Geheimnis, das er nur wenigen Menschen verraten würde,"
+
+ mandate_palestine.506.t:0 "Gemetzel in Balad Al-Shaykh"
+ mandate_palestine.506.d:0 "Nach dem Chaos in der Ölraffinerie von Haifa haben Mitglieder der Haganah Vergeltung an den Unruhestiftern geübt, indem sie deren Wohnsitz in Balad Al-Shaykh angriffen. In der Stadt kam es zu einer Schießerei, bei der Haganah-Kräfte gegen die örtliche arabische Miliz kämpften. Es wird vermutet, dass es zwischen 50 und 70 Tote gibt, zumeist erwachsene Männer."
+ mandate_palestine.506.a:0 "Wie er in eines der Mädchen verliebt ist."
+
+ mandate_palestine.507.t:0 "Amin Al-Husayni ordnet Blockade von Jerusalem an"
+ mandate_palestine.507.d:0 "Als ersten Akt der offenen Kriegsführung in dieser Krise hat der Mufti von Jerusalem, Amin Al-Husayni, eine vollständige Blockade der jüdischen Viertel in Jerusalem angeordnet. Haganah-Kämpfer haben bereits versucht, Nachschub ins Land zu bringen, wurden aber an den Toren von Westjerusalem angegriffen. Unsere Streitkräfte haben die Kontrolle über Nablus und Ramallah verloren."
+ mandate_palestine.507.a:0 "Also gesteht er ihr in einer kalten, dunklen Nacht seine Liebe,"
+
+ mandate_palestine.508.t:0 "Haganah beginnt mit der Zwangseinberufung"
+ mandate_palestine.508.d:0 "Nach der Belagerung Jerusalems durch die arabischen Streitkräfte führte der Haganah-Kommandeur Ya'akov Dori unter dem Kommando von Ben-Gurion die Wehrpflicht für alle arbeitsfähigen Männer und Frauen im Jischuw ein. Zehntausende meldeten sich bei den Rekrutierungsbüros, und die Stärke der Haganah übersteigt 20.000 Mann. Unsere Behörden können die Kontrolle über die Küstenebene nicht mehr garantieren."
+ mandate_palestine.508.a:0 "Sie weint, als er ihr anbietet, seine ganze Welt zu sein,"
+
+ mandate_palestine.509.t:0 "Gruppe der Muslimbrüder dringt aus Ägypten ein"
+ mandate_palestine.509.d:0 "Angesichts des drohenden Zusammenbruchs der britischen Behörden in der Region haben bewaffnete arabische Gruppen die Grenze von Ägypten aus überquert und die südlichen Regionen des Mandatsgebietes übernommen. Angesichts der dünnen Besiedlung und der fehlenden britischen Autorität in diesem Gebiet konnten sie den Süden mit Leichtigkeit überrennen. Es scheint, dass ein Krieg unvermeidlich ist."
+ mandate_palestine.509.a:0 "Die Nacht vor dem Krieg."
+
+ mandate_palestine.510.t.a:0 "Der Zusammenbruch des Mandats"
+ mandate_palestine.510.t.b:0 "Der Zusammenbruch der Union"
+ mandate_palestine.510.d.a:0 "Es war unvermeidlich. Nach dem kürzlichen völligen Zusammenbruch der britischen Autorität im Mandat hat die britische Regierung in London beschlossen, sich aus der Region zurückzuziehen.[~[~\n~][~\n~]~][[~ENG.GetLeader~]] hat sich heute an die Nation gewandt und gesagt, dass die Briten nichts mehr tun können und ihre Truppen mit sofortiger Wirkung abziehen werden.[~[~\n~][~\n~]~]Es gibt nichts mehr, was getan werden kann."
+ mandate_palestine.510.d.b:0 "Es war unvermeidlich. Nach dem kürzlichen völligen Zusammenbruch der Regierung im Mandat steht das King David Hotel leer.[~[~\n~][~\n~]Es gibt nichts mehr, was getan werden kann."
+ mandate_palestine.510.a:0 "In unserem Bataillon gibt es viele Kinder; einige mag ich;"
+
+
+ mandate_palestine.999.t:0 "[~§R~]Spielt dieses Land nicht im Ironman-Modus.[~§!~]"
+ mandate_palestine.999.d:0 "Aufgrund des beschissenen Spaghetti-Codes von Paradox unterbricht das Umschalten von Tags den Ironman-Modus und daher ist diese Nation im Ironman-Modus nicht spielbar.[~\n~]Bitte wechseln Sie zu einer anderen Nation oder deaktivieren Sie den Ironman-Modus.[~[~\n~][~\n~]~][~§R~]Sie wurden gewarnt.[~§!~]"
+ mandate_palestine.999.a:0 "Geben Sie Paradox die Schuld, nicht mir."
+
+ mandate_palestine.1001.t:0 "Nur ein weiterer Tag "
+ mandate_palestine.1001.d:0 "Es war nicht das erste Mal, dass Yair über den Markt von Haifa ging. Seit er Aliyah gemacht hatte, tat er sein Bestes, um über die Runden zu kommen. Es war zwar weit weniger komfortabel als sein Leben in Polen, aber wenigstens hatte er eine starke Gemeinschaft, die ihn beschützte. Außerdem war es für eine noble Sache, nicht wahr?[~[~\n~][~\n~]~]"Stopp!" Yair schaute zur Seite und sah, wie ein Kampf zwischen einem Juden und ein paar Arabern ausbrach. Er konnte die Ursache nicht feststellen, aber dieser Anblick war für ihn nichts Ungewöhnliches, also schenkte er ihm keine große Aufmerksamkeit. Vor seiner Alijah hatte er immer geglaubt, dass Juden und Araber miteinander auskommen könnten. In einigen Bereichen klappte es zwar, aber sein Leben in Haifa ließ seinen Glauben jeden Tag schwächer werden. "Eines Tages...", dachte er bei sich."
+ mandate_palestine.1001.a:0 "Eines Tages."
+
+ mandate_palestine.1002.t:0 "Ein bisschen Hoffnung"
+ mandate_palestine.1002.d:0 "Als Yair wieder einmal über den Markt von Haifa schlenderte, konnte er nicht umhin, den allgemeinen Stimmungswandel in der Stadt seit der jüngsten Ankündigung zu bemerken. Sicher, die Gewalt hatte nicht aufgehört, aber die allgemeine Stimmung hatte sich geändert. Es schien, als hätten die Menschen ein wenig Hoffnung geschöpft, Juden und Araber gleichermaßen. Niemand hatte erwartet, dass die Briten sich zurückziehen würden, es war für alle gleichermaßen ein Schock. Aber dennoch spürte Yair ein Gefühl der Zusammenarbeit unter den Menschen, etwas, das er seit seiner Ankunft nicht mehr erlebt hatte.[~[~\n~][~\n~]~]Vielleicht stand eine Veränderung bevor?"
+ mandate_palestine.1002.a:0 "Eine Reise von tausend Meilen beginnt mit einem einzigen Schritt."
+
+ mandate_palestine.1003.t:0 "Ein verwirklichter Traum"
+ mandate_palestine.1003.d:0 "Der Markt fühlte sich dieses Mal anders an. Zum ersten Mal sah Yair, wie Araber und Juden effektiv zusammenarbeiteten. Er sah Eltern mit ihren Kindern, die normalerweise zu viel Angst hatten, sie an solche Orte zu bringen. Er sah ältere Menschen, denen beim Tragen ihrer Einkäufe geholfen wurde. Was für ein Unterschied, dachte er bei sich.[~[~\n~][~\n~]~]Plötzlich wurde Yair durch ein krachendes Geräusch hinter ihm aufgeschreckt. Fast instinktiv versuchte er, sich abzustützen, weil er dachte, es sei ein weiterer Kampf, aber als er sich umdrehte, sah er, dass eines der Regale des Verkäufers zusammengebrochen war, und die Leute eilten herbei, um die Früchte aufzusammeln, die auf den Boden gefallen waren.[~[~\n~][~\n~]~]Yair lächelte."
+ mandate_palestine.1003.a:0 "Die Zeit heilt selbst die tiefsten Wunden."
+
+ mandate_palestine.1004.t:0 "Ein aufgeschobener Traum"
+ mandate_palestine.1004.d:0 "Als die Kugel ihn zu Boden warf, dachte Yair an all die Entscheidungen, die zu diesem Moment geführt hatten. Es hatte Hoffnung gegeben. Es hatte Anstrengungen gegeben. Aber es war alles umsonst. Als er verblutete, wünschte er sich nur, dass sein kleiner Sohn ein besseres Leben haben würde als er. Vielleicht gab es einen Grund für sein Opfer. Vielleicht gab es keinen anderen Weg. [~\n~][~\n~]Vielleicht."
+ mandate_palestine.1004.a:0 "Und unsere Plätze, die leer sind, rufen Tausende auf den Plan, die gekommen sind, um unseren Kampf fortzusetzen."
+
+ #TOOLTIP ""
+ r56_newline:0 " [~\n~]"
+ MPL_effect_later_maybe:0 "[~§Y~]Das könnte später eine Auswirkung haben.[~§!~]"
+ MPL_collapse_tt:0 "Um den Zusammenbruch auszulösen, musst du entweder [~§Y~]es versäumen, mit dem Widerstand fertig zu werden[~§!~] oder [~§Y~]das Gleichgewicht der Kräfte[~§!~] zu sehr auf eine Seite lenken."
+ MPL_collapse_tt_2:0 "Du wirst die Seite kontrollieren, die du beeinflusst hast."
+ MPL_collapse_tt_3:0 "Das [~§Y~]Mandat von Palästina[~§!~] wird [~§O~]zusammenbrechen[~§!~]."
+ MPL_arab_revolt_trigger:0 "Der arabische Aufstand von 1936 hat begonnen"
+ MPL_no_border_war:0 "Hat aktive Grenzkriege"
+ MPL_bop_warning:0 "[~§R~]Kippt dieses Gleichgewicht der Kräfte zu weit auf eine der beiden Seiten, könnte dies den Zusammenbruch des Mandats verursachen![~§!~]"
+ MPL_handle_strikes_tt:0 "Unmittelbare Auswirkung bei Fokusbeginn:[~\n~]Wir werden versuchen, die Streiks durch Verhandlungen zu bewältigen.[~[~\n~][~\n~]Auswirkungen bei Fokusabschluss:"
+ MPL_our_path:0 "[~§Y~]Es liegt an uns, unser nächstes Vorgehen zu wählen.[~§!~]"
+ MPL_jerusalem_trials_tt:0 "Unmittelbare Auswirkung bei Fokusbeginn:[~\n~]Erhält das Ereignis '[~§Y~]Die Jerusalemer Prozesse beginnen[~§!~]'[~\n~][~§O~]Eure Entscheidungen während des Prozesses werden sich auf eure Unterstützung durch die verschiedenen Fraktionen auswirken.[~§!~][~[~\n~][~\n~]~]Auswirkungen bei Fokusabschluss:"
+ MPL_negotiation_fail:0 "Die Verhandlungen sind gescheitert"
+ MPL_peel_commision_union_effect:0 "Sobald der [~§Y~][[~MPLGetUnion~]][~§!~] Fokus abgeschlossen ist, wird das Mandat zu einem unabhängigen [~§Y~]Unionsstaat[~§!~] geformt."
+ MPL_peel_commision_union:0 "Die Peel-Kommission hat einen [~§Y~]Unionsstaat[~§!~] unterstützt."
+ MPL_peel_commision_seperate_effect:0 "Sobald der [~§Y~][[~MPLGetUnion~]][~§!~] Fokus abgeschlossen ist, wird das Mandat in £GFX_gamerules_ISR_state [~§Y~][[~ISR.GetNameDef~]][~§! ~] und £GFX_gamerules_PAL_democratic [~§Y~][[~PAL.GetNameDef~]][~§!~], mit £GFX_gamerules_MPL_Jerusalem [~§Y~]Jerusalem[~§!~] als internationale Stadt."
+ MPL_peel_commision_seperate:0 "Die Peel-Kommission hat eine [~§Y~]friedliche Auflösung[~§!~] unterstützt."
+ MPL_choose_path:0 "[~§Y~]Wir müssen entscheiden, wie wir die Herausforderung der Unabhängigkeit angehen werden, bevor wir sehen können, was die Zukunft bringen wird[~§!~]."
+ MPL_warning_two_states:0 "[~§R~]Warnung: Die Wahl dieser Option wird den Spielspaß stark einschränken![~§!~]"
+ MPL_cannot_go_back:0 "[~§R~]Warnung! Du wirst nicht in der Lage sein, die verbleibenden Schwerpunkte oben abzuschließen![~§!~]"
+ MPL_may_reject:0 "[~§R~]Das Mandat könnte dies ablehnen![~§!~]"
+ MPL_selection_britain_event:0 "Unmittelbare Auswirkung bei Fokus-Start:[~\n~]([[~MPL.overlord.GetFlag~]][~§Y~][[~MPL.overlord.GetName~]][~§!~]) Erhält Ereignis '[~§Y~]Unabhängigkeit für das Mandat? [~§!~]'[~\n~][~§O~][[~MPL.overlord.GetNameDefCap~]] könnte versuchen, unsere Vorbereitungen abzulehnen.[~§!~][~[~\n~][~\n~]~]Auswirkungen nach Abschluss des Fokus:"
+ MPL_selection_lebanon_event:0 "Unmittelbare Auswirkung bei Fokusbeginn:[~\n~]([[~MPL_borderwar_defender.controller.GetFlag~]][~§Y~][[~MPL_borderwar_defender.controller.GetName~]][~§!~]) Erhält Ereignis '[~§Y~][[~MPL_borderwar_attacker.owner.GetAdjective~]] '[~§!~]'[~\n~][~§O~][[~MPL_borderwar_defender.controller.GetNameDefCap~]] könnte versuchen, sich an uns zu rächen.[~§!~][~[~\n~][~\n~]~]Auswirkungen nach Abschluss des Fokus:"
+ MPL_accepted_dominion:0 "[~§Y~]Ihr werdet zu einem Dominion, sobald der Fokus "Union zweier Völker" abgeschlossen ist.[~§!~]"
+ MPL_removes_strike:0 "[~§G~]Entfernt alle verbleibenden Schläge[~§!~]"
+ MPL_cores:0 "[~§G~]Gewinnt Kerne auf allen Staaten im Mandat.[~§!~]"
+ MPL_britain_stopped:0 "[[~MPL.overlord.GetNameDefCap~]] hat unsere Loyalität nicht erzwungen oder wir haben ihre Forderungen abgelehnt"
+ MPL_britain_stopped_event:0 "[~§R~]Wir werden nicht mehr in der Lage sein, die Unabhängigkeit anzustreben![~§!~]"
+ MPL_warning_aliyah:0 "[~§R~]Wir werden die Situation sorgfältig managen müssen.[~§!~]"
+ MPL_cannot_go_back_aliyah:0 "[~§R~]Wir werden nicht mehr in der Lage sein, die Einwanderung in vollem Umfang wieder aufzunehmen![~§!~]"
+ MPL_election_tt:0 "Wir haben unsere ersten Wahlen abgehalten"
+ MPL_create_commie_brigades_tt:0 "Gewinnen Sie 4 Einheiten mit [~§Y~]6 Infanterie[~§!~] Bataillonen."
+ MPL_final_crusade:0 "Erreicht [~§Y~]Sturz der Regierung[~§!~] Kriegsziel gegen [~§Y~]Alle nicht-demokratischen Nationen im Nahen Osten[~§!~]."
+ MPL_recently_puppeted_JOR:0 "Wir haben Jordanien als unsere Marionette für [~§Y~]180 [~§!~]Tage"
+ MPL_levantine_unifier_tt:0 "Täglicher Compliance-Gewinn im Umgang mit [~§Y~]Jordanien, Syrien [~§!~]und [~§Y~]Libanon[~§!~]: [~§G~]+0.10%[~§!~]"
+ MPL_slow_down:0 "[~§O~]Anmerkung des Entwicklers - Dieser Krieg sollte mit einer langsameren Geschwindigkeit (3-4) gespielt werden, um eine bessere Erfahrung zu machen.[~§!~]"
+ MPL_french_response:0 "[~§R~][[~MPL_borderwar_defender.owner.GetNameDefCap~]] könnte sich dafür revanchieren![~§!~]"
+ MPL_may_retaliate:0 "[~§R~][[~MPL.GetNameDefCap~]] könnte sich entscheiden, uns trotzdem anzugreifen![~§!~]"
+ MPL_unify_levant_tt:0 "Alle [~§Y~]palästinensischen, jordanischen, libanesischen[~§!~] und [~§Y~]syrischen[~§!~] Staaten mit Ausnahme von [~§Y~]Hatay[~§!~]:[~\n~] Eine der folgenden Bedingungen muss erfüllt sein:[~\n~] Die Konformität beträgt mehr als [~§Y~]40%[~§!~][~\n~] Ist Kern von [[~MPL.GetFlag~]] [~§Y~][[~MPL.GetNameDefCap~]][~§!~].[~\n~]Kontrolliert von [[~MPL.GetFlag~]] [~§Y~][[~MPL.GetNameDefCap~]][~§!~]"
+
+ PAL_arabs_will_annex:0 "[~§R~]Wenn wir nicht in der Lage sind, die Israelis direkt zu schlagen, könnten die benachbarten arabischen Nationen ein direktes Eingreifen erwägen...[~§!~]"
+ ISR_the_end:0 "[~§R~]Das wäre das Ende für uns...[~§!~]"
+ ISR_armageddon_coming:0 "[~§R~]Die benachbarten arabischen Nationen werden das vielleicht nicht so gut aufnehmen...[~§!~]"
+ MPL_ISR_will_capitulate:0 "[~§Y~][[~ISR.GetNameDefCap~]][~§!~] werden kapitulieren."
+
+ MPL_order_above_50:0 "[~§Y~]Auftragsebene[~§!~] ist über [~§Y~]50%[~§!~]"
+ MPL_order_above_75:0 "[~§Y~]Auftragsebene[~§!~] liegt über [~§Y~]75%[~§!~]"
+ MPL_order_100:0 "[~§Y~]Auftragsebene[~§!~] ist [~§Y~]100%[~§!~]"
+ MPL_order_down_5:0 "[~§Y~]Auftragsebene[~§!~] wird [~§R~]um 5%[~§!~] reduziert[~§!~]"
+ MPL_order_down_10:0 "[~§Y~]Auftragsebene[~§!~] wird [~§R~]reduziert[~§!~] um 10%[~§!~]"
+ MPL_order_down_20:0 "[~§Y~]Auftragsebene[~§!~] wird [~§R~]reduziert[~§!~] um [~§R~]20%[~§!~]"
+ MPL_order_up_5:0 "[~§Y~]Auftragsebene[~§!~] wird [~§G~]erhöht[~§!~] um [~§G~]5%[~§!~]"
+ MPL_order_up_10:0 "[~§Y~]Auftragsebene[~§!~] wird [~§G~]erhöht[~§!~] um [~§G~]10%[~§!~]"
+ MPL_order_up_15:0 "[~§Y~]Auftragsstufe[~§!~] wird [~§G~]erhöht[~§!~] um [~§G~]15%[~§!~]"
+ MPL_order_up_20:0 "[~§Y~]Auftragsstufe[~§!~] wird [~§G~]erhöht[~§!~] um [~§G~]20%[~§!~]"
+ MPL_order_up_30:0 "[~§Y~]Ordensstufe[~§!~] wird [~§G~]erhöht[~§!~] um [~§G~]30%[~§!~]"
+
+ MPL_will_reduce_raid_chance:0 "[~§G~]Reduziert die Chance auf Milizüberfälle[~§!~]"
+ MPL_will_reduce_raid_chance_big:0 "[~§G~]Verringert die Chance auf Milizüberfälle stark[~§!~]"
+
+ MPL_above_80:0 "[~§Y~]Ordensstufe[~§!~] ist über [~§Y~]80%[~§!~]"
+
+ MPL_order_level_red:0 "[~§R~][[~?MPL_order_level~]]%[~§!~]"
+ MPL_order_level_orange:0 "[~§O~][[~?MPL_order_level~]]%[~§!~]"
+ MPL_order_level_yellow:0 "[~§Y~][[~?MPL_order_level~]]%[~§!~]"
+ MPL_order_level_green:0 "[~§G~][[~?MPL_order_level~]]%[~§!~]"
+
+ MPL_jewish_support_green:0 "[~§G~][[~?MPL_jewish_support~]]%[~§!~]"
+ MPL_jewish_support_yellow:0 "[~§Y~][[~?MPL_jewish_support~]]%[~§!~]"
+ MPL_jewish_support_orange:0 "[~§O~][[~?MPL_jewish_support~]]%[~§!~]"
+ MPL_jewish_support_red:0 "[~§R~][[~?MPL_jewish_support~]]%[~§!~]"
+
+ MPL_arab_support_green:0 "[~§G~][[~?MPL_arab_support~]]%[~§!~]"
+ MPL_arab_support_yellow:0 "[~§Y~][[~?MPL_arab_support~]]%[~§!~]"
+ MPL_arab_support_orange:0 "[~§O~][[~?MPL_arab_support~]]%[~§!~]"
+ MPL_arab_support_red:0 "[~§R~][[~?MPL_arab_support~]]%[~§!~]"
+
+ MPL_minority_support_green:0 "[~§G~][[~?MPL_minority_support~]]%[~§!~]"
+ MPL_minority_support_yellow:0 "[~§Y~][[~?MPL_minority_support~]]%[~§!~]"
+ MPL_minority_support_orange:0 "[~§O~][[~?MPL_minority_support~]]%[~§!~]"
+ MPL_minority_support_red:0 "[~§R~][[~?MPL_minority_support~]]%[~§!~]"
+
+ MPL_jewish_up_5:0 "£GFX_gamerules_ISR_state [[~~[~§3~]~~]]Jewish[~§!~] support will be [~§G~]raised[~§!~] by [~§G~]5%[~§!~]"
+ MPL_jewish_up_10:0 "£GFX_gamerules_ISR_state [[~~[~§3~]~~]]Jewish[~§!~] support will be [~§G~]raised[~§!~] by [~§G~]10%[~§!~]"
+ MPL_jewish_up_15:0 "£GFX_gamerules_ISR_state [[~~[~§3~]~~]]Jewish[~§!~] support will be [~§G~]raised[~§!~] by [~§G~]15%[~§!~]"
+ MPL_jewish_up_20:0 "£GFX_gamerules_ISR_state [[~~[~§3~]~~]]Jewish[~§!~] support will be [~§G~]raised[~§!~] by [~§G~]20%[~§!~]"
+ MPL_jewish_up_25:0 "£GFX_gamerules_ISR_state [[~~[~§3~]~~]]Jewish[~§!~] support will be [~§G~]raised[~§!~] by [~§G~]25%[~§!~]"
+
+ MPL_jewish_down_5:0 "£GFX_gamerules_ISR_state [[~~[~§3~]~~]]Jewish[~§!~] support will be [~§R~]lowered[~§!~] by [~§R~]5%[~§!~]"
+ MPL_jewish_down_10:0 "£GFX_gamerules_ISR_state [[~~[~§3~]~~]]Jewish[~§!~] support will be [~§R~]lowered[~§!~] by [~§R~]10%[~§!~]"
+ MPL_jewish_down_15:0 "£GFX_gamerules_ISR_state [[~~[~§3~]~~]]Jewish[~§!~] support will be [~§R~]lowered[~§!~] by [~§R~]15%[~§!~]"
+ MPL_jewish_down_20:0 "£GFX_gamerules_ISR_state [[~~[~§3~]~~]]Jewish[~§!~] support will be [~§R~]lowered[~§!~] by [~§R~]20%[~§!~]"
+ MPL_jewish_down_25:0 "£GFX_gamerules_ISR_state [[~~[~§3~]~~]]Jewish[~§!~] support will be [~§R~]lowered[~§!~] by [~§R~]25%[~§!~]"
+
+ MPL_arab_up_5:0 "£GFX_gamerules_PAL_demokratische [~§G~]arabische[~§!~] Unterstützung wird [~§G~]erhöht[~§!~] um [~§G~]5%[~§!~]"
+ MPL_arab_up_10:0 "£GFX_gamerules_PAL_demokratische [~§G~]arabische[~§!~] Unterstützung wird [~§G~]angehoben[~§!~] um [~§G~]10%[~§!~]"
+ MPL_arab_up_15:0 "£GFX_gamerules_PAL_demokratische [~§G~]arabische[~§!~] Unterstützung wird [~§G~]angehoben[~§!~] um [~§G~]15%[~§!~]"
+ MPL_arab_up_20:0 "£GFX_gamerules_PAL_demokratische [~§G~]arabische[~§!~] Unterstützung wird [~§G~]angehoben[~§!~] um [~§G~]20%[~§!~]"
+ MPL_arab_up_25:0 "£GFX_gamerules_PAL_demokratische [~§G~]arabische[~§!~] Unterstützung wird [~§G~]angehoben[~§!~] um [~§G~]25%[~§!~]"
+
+ MPL_arab_down_5:0 "£GFX_gamerules_PAL_demokratische [~§G~]arabische[~§!~] Unterstützung wird [~§R~]gesenkt[~§!~] um [~§R~]5%[~§!~]"
+ MPL_arab_down_10:0 "£GFX_gamerules_PAL_demokratische [~§G~]arabische[~§!~] Unterstützung wird [~§R~]gesenkt[~§!~] um [~§R~]10%[~§!~]"
+ MPL_arab_down_15:0 "£GFX_gamerules_PAL_demokratische [~§G~]arabische[~§!~] Unterstützung wird [~§R~]gesenkt[~§!~] um [~§R~]15%[~§!~]"
+ MPL_arab_down_20:0 "£GFX_gamerules_PAL_demokratische [~§G~]arabische[~§!~] Unterstützung wird [~§R~]gesenkt[~§!~] um [~§R~]20%[~§!~]"
+ MPL_arab_down_25:0 "£GFX_gamerules_PAL_demokratische [~§G~]arabische[~§!~] Unterstützung wird [~§R~]gesenkt[~§!~] um [~§R~]25%[~§!~]"
+
+ MPL_minority_up_5:0 "£GFX_gamerules_MPL_Jerusalem [~§Y~]Minderheiten[~§!~] Unterstützung wird [~§G~]erhöht[~§!~] um [~§G~]5%[~§!~]"
+ MPL_minority_up_10:0 "£GFX_gamerules_MPL_Jerusalem [~§Y~]Minderheit[~§!~] Unterstützung wird [~§G~]erhöht[~§!~] um [~§G~]10%[~§!~]"
+ MPL_minority_up_15:0 "£GFX_gamerules_MPL_Jerusalem [~§Y~]Minderheit[~§!~] Unterstützung wird [~§G~]erhöht[~§!~] um [~§G~]15%[~§!~]"
+ MPL_minority_up_20:0 "£GFX_gamerules_MPL_Jerusalem [~§Y~]Minderheit[~§!~] Unterstützung wird [~§G~]erhöht[~§!~] um [~§G~]20%[~§!~]"
+ MPL_minority_up_25:0 "£GFX_gamerules_MPL_Jerusalem [~§Y~]Minderheit[~§!~] Unterstützung wird [~§G~]erhöht[~§!~] um [~§G~]25%[~§!~]"
+
+ MPL_minority_down_5:0 "£GFX_gamerules_MPL_Jerusalem [~§Y~]Die Unterstützung der Minderheit[~§!~] wird [~§R~]um [~§R~]5%[~§!~] gesenkt[~§!~]"
+ MPL_minority_down_10:0 "£GFX_gamerules_MPL_Jerusalem [~§Y~]Die Unterstützung der Minderheit[~§!~] wird [~§R~]um [~§R~]10%[~§!~] gesenkt[~§!~]"
+ MPL_minority_down_15:0 "£GFX_gamerules_MPL_Jerusalem [~§Y~]Minderheit[~§!~] Unterstützung wird [~§R~]gesenkt[~§!~] um [~§R~]15%[~§!~]"
+ MPL_minority_down_20:0 "£GFX_gamerules_MPL_Jerusalem [~§Y~]Die Unterstützung der Minderheit[~§!~] wird [~§R~]um [~§R~]20%[~§!~] gesenkt[~§!~]"
+ MPL_minority_down_25:0 "£GFX_gamerules_MPL_Jerusalem [~§Y~]Minderheit[~§!~] Unterstützung wird [~§R~]gesenkt[~§!~] um [~§R~]25%[~§!~]"
+
+ MPL_supports_above_50:0 "Die Unterstützung aller Gruppen liegt über [~§Y~]50%[~§!~]"
+ MPL_supports_above_70:0 "Die Unterstützung aller Gruppen liegt über [~§Y~]70%[~§!~]"
+ MPL_supports_above_90:0 "Die Unterstützung aller Gruppen liegt über [~§Y~]90%[~§!~]"
+
+
+
+ MPL_political_up_10:0 "[~§Y~]Die politische Unabhängigkeit[~§!~] wird [~§G~]um [~§G~]10%[~§!~] erhöht[~§!~]"
+ MPL_political_up_15:0 "[~§Y~]Die politische Unabhängigkeit[~§!~] wird [~§G~]um [~§G~]15%[~§!~] erhöht[~§!~]"
+ MPL_political_up_20:0 "[~§Y~]Die politische Unabhängigkeit[~§!~] wird [~§G~]um [~§G~]20%[~§!~] erhöht[~§!~]"
+ MPL_political_up_30:0 "[~§Y~]Die politische Unabhängigkeit[~§!~] wird [~§G~]um [~§G~]30%[~§!~] erhöht[~§G~]"
+ MPL_economic_up_5:0 "[~§Y~]Die wirtschaftliche Unabhängigkeit[~§!~] wird [~§G~]um [~§G~]5%[~§!~] erhöht[~§!~]"
+ MPL_economic_up_10:0 "[~§Y~]Die wirtschaftliche Unabhängigkeit[~§!~] wird [~§G~]um [~§G~]10%[~§!~] erhöht[~§!~]"
+ MPL_economic_up_15:0 "[~§Y~]Die wirtschaftliche Unabhängigkeit[~§!~] wird [~§G~]um [~§G~]15%[~§!~] erhöht[~§!~]"
+ MPL_economic_up_20:0 "[~§Y~]Die wirtschaftliche Unabhängigkeit[~§!~] wird [~§G~]um [~§G~]20%[~§!~] erhöht[~§!~]"
+ MPL_economic_up_30:0 "[~§Y~]Die wirtschaftliche Unabhängigkeit[~§!~] wird [~§G~]um [~§G~]30%[~§!~] erhöht[~§G~]"
+ MPL_military_up_10:0 "[~§Y~]Die militärische Unabhängigkeit[~§!~] wird [~§G~]um [~§G~]10%[~§!~] erhöht[~§!~]"
+ MPL_military_up_15:0 "[~§Y~]Die militärische Unabhängigkeit[~§!~] wird [~§G~]um [~§G~]15%[~§!~] erhöht[~§!~]"
+ MPL_military_up_20:0 "[~§Y~]Die militärische Unabhängigkeit[~§!~] wird [~§G~]um [~§G~]20%[~§!~] angehoben[~§G~]"
+ MPL_military_up_30:0 "[~§Y~]Die militärische Unabhängigkeit[~§!~] wird [~§G~]um [~§G~]30%[~§!~] angehoben[~§G~]"
+ MPL_military_up_40:0 "[~§Y~]Die militärische Unabhängigkeit[~§!~] wird [~§G~]um [~§G~]40%[~§!~] erhöht[~§!~]"
+
+ MPL_total_independence_60:0 "Der durchschnittliche Fortschritt der Unabhängigkeit liegt über [~§Y~]60%[~§!~]"
+ MPL_if_under_90_political:0 "Wenn die politische Unabhängigkeit unter [~§Y~]90%[~§!~] liegt:"
+ MPL_if_under_90_economy:0 "Wenn die wirtschaftliche Unabhängigkeit unter [~§Y~]90%[~§!~] liegt:"
+ MPL_if_under_90_military:0 "Wenn die militärische Unabhängigkeit unter [~§Y~]90%[~§!~] liegt:"
+
+ MPL_spawn_guard:0 "Erhöht 3 [~§Y~]Pflichtwachen[~§!~] Abteilungen"
+
+ MPL_decision_cost_command_power:0 "£command_power [~§Y~]15[~§!~]"
+ MPL_decision_cost_command_power_blocked:0 "£command_power [~§R~]15[~§!~]"
+ MPL_decision_cost_guns:0 "£infantry_equipment_text_icon [~§Y~]100[~§!~]"
+ MPL_decision_cost_guns_blocked:0 "£Infanterie_Ausrüstung_Text_Icon [~§R~]100[~§!~]"
+ MPL_decision_cost_guns_50:0 "£Infanterie_Ausrüstung_Text_icon [~§Y~]50[~§!~]"
+ MPL_decision_cost_guns_50_blocked:0 "£infantry_equipment_text_icon [~§R~]50[~§!~]"
+ MPL_decision_cost_men:0 "£GFX_manpower_texticon [~§Y~]200[~§!~]"
+ MPL_decision_cost_men_blocked:0 "£GFX_manpower_texticon [~§R~]200[~§!~]"
+
+ MPL_stabilize_syria_cost:0 "£command_power [~§Y~]30[~§!~] £infantry_equipment_text_icon [~§Y~]300[~§!~] £pol_power [~§Y~]40[~§!~]"
+ MPL_stabilize_syria_cost_blocked:0 "£command_power [~§R~]30[~§!~] £infantry_equipment_text_icon [~§R~]300[~§!~] £pol_power [~§R~]40[~§!~]"
+
+ MPL_we_support_ISR:0 "[[~ISR.GetNameDefCap~]] können bei uns Ausrüstung kaufen."
+ MPL_we_support_PAL:0 "[[~PAL.GetNameDefCap~]] wird in der Lage sein, Ausrüstung von uns zu kaufen."
+ MPL_request_support:0 "[~\n~]Schaltet [~§Y~]Ausländische Unterstützung rekrutieren[~§!~] Entscheidungen frei"
+
+ MPL_things_to_come:0 "[~§R~]Ein Zeichen der Dinge, die da kommen.[~§!~]"
+ MPL_it_begins:0 "[~§R~]Es beginnt.[~§!~]"
+ MPL_storm:0 "[~§R~]Der Sturm verdichtet sich.[~§!~]"
+ MPL_i_will_never_know:0 "[~§R~]Einige von ihnen werde ich nie kennenlernen.[~§!~]"
+
+
+
+ #BALANCE OF POWER ""
+ MPL_power_balance:0 "Arabisches Oberkomitee - Yishuv Machtgleichgewicht"
+ MPL_jewish_side:0 "Der Jischuw"
+ MPL_arab_side:0 "Das Arabische Oberkomitee"
+ MPL_balance_range:0 "Yishuv-Komitee Gleichgewicht"
+ MPL_arabs_small:0 "Leichte Komiteestärke"
+ MPL_arabs_high:0 "Großes Komitee Stärke"
+ MPL_arabs_revolt:0 "Jischuw-Revolte"
+ MPL_jews_small:0 "Leichte Jischuw-Stärke"
+ MPL_jews_high:0 "Große Yishuv-Stärke"
+ MPL_jews_revolt:0 "Komitee-Revolte"
+ MPL_hunt_down_black_hand:0 "Verfolgung von Al Muqaddass-Rebellen"
+ MPL_hunt_down_black_hand_desc:0 ""
+ MPL_hunt_down_irgun:0 "Verfolgung von Irgun-Zellen"
+ MPL_hunt_down_irgun_desc:0 ""
+ MPL_arm_arab_militias:0 "Arabische Milizen bewaffnen"
+ MPL_arm_arab_militias_desc:0 ""
+ MPL_arm_jewish_militias:0 "Jüdische Milizen bewaffnen"
+ MPL_arm_jewish_militias_desc:0 ""
+ MPL_increase_recruitment_efforts_arab:0 "Verstärkte arabische Rekrutierungsbemühungen"
+ MPL_increase_recruitment_efforts_arab_desc:0 ""
+ MPL_increase_recruitment_efforts_jew:0 "Verstärkte jüdische Rekrutierungsbemühungen"
+ MPL_increase_recruitment_efforts_jew_desc:0 ""
+ MPL_review_militia_structure_arab:0 "Überprüfung der arabischen Milizstruktur"
+ MPL_review_militia_structure_jew:0 "Überprüfung der jüdischen Milizstruktur"
+
+
+ #DECISION ""
+ MPL_arab_revolt_category:0 "Arabischer Streik droht"
+ MPL_arab_revolt_category_desc:0 "Das Völkerbundsmandat für Palästina wurde am 19. September 1923 unter der Zuständigkeit des Vereinigten Königreichs gegründet. Obwohl die Bevölkerung der Region nach den Zerstörungen des Ersten Weltkriegs stark verarmt war, war sie vorerst zufrieden und wartete ab, wie sich das neu gebildete Mandat von der osmanischen Herrschaft vor dem Ersten Weltkrieg unterscheiden würde. [Die dritte bis fünfte Aliyot und die daraus resultierende massenhafte jüdische Einwanderung seit 1919 haben die Beziehungen zwischen den arabischen und jüdischen Gemeinden noch weiter verschlechtert, als sie es ohnehin schon waren, und frühere kleinere jüdische Gemeinden wie Tel Aviv sind in den letzten zehn Jahren in schwindelerregendem Maße gewachsen und haben ihre arabischen Pendants wie Jaffa überflügelt. [Nach einem Vorfall, bei dem Waffen in Zementfässern an die Haganah-Milizen geschmuggelt wurden, sind die Spannungen so hoch wie nie zuvor, und wir können nur annehmen, dass das Schlimmste noch bevorsteht. Gerüchte über einen massiven Angriff auf die gesamte Region sind im Umlauf. Wir dürfen keine Zeit mit den Vorbereitungen verlieren."
+ MPL_arab_revolt_mission:0 "Drohende arabische Streiks"
+ MPL_union_stabilization_category:0 "Eine instabile Union"
+ MPL_union_stabilization_category_desc:0 "Unsere neu gegründete Union als instabil zu bezeichnen, wäre mehr als eine Untertreibung. Unsere neue Regierung kontrolliert Gebiete, die von Juden, Arabern und anderen Minderheiten wie den Drusen bewohnt werden, die alle versuchen, Einfluss im Land zu gewinnen. [Wenn wir den Frieden bewahren wollen, müssen wir sicherstellen, dass keine Gruppe außen vor bleibt, und unsere Unterstützung zwischen allen Parteien aufteilen, sonst könnte die Region in einem unumkehrbaren Konflikt kollabieren.[~[~\n~][~\n~]~]Die derzeitige £GFX_gamerules_ISR_state [[~~[~§3~]~~]]jüdische[~§!~] Unterstützung für die Regierung ist: [[~MPLGetJewSupport~]][~[~\n~][~\n~]~]Current [~§G~]£GFX_gamerules_PAL_democratic Arab[~§!~] support for the government is: [[~MPLGetArabSupport~]][~[~\n~][~\n~]~]Aktuell £GFX_gamerules_MPL_Jerusalem [~§Y~]Minderheit[~§!~] Die Unterstützung für die Regierung ist: [[~MPLGetMinoritySupport~]]"
+ MPL_stabilize_union_mission:0 "Stabilisierung der Union"
+ MPL_setup_national_fund:0 "Einrichtung eines Nationalfonds"
+ MPL_infrastructure_periphery:0 "Infrastruktur in der Peripherie ausbauen"
+ MPL_infrastructure_centre:0 "Ausbau der zentralen Infrastruktur"
+ MPL_support_urban_areas:0 "Unterstützung für städtische Gebiete"
+ MPL_support_rural_areas:0 "Unterstützung für ländliche Gebiete"
+ MPL_support_beersheba_area:0 "Entwicklung der Region Beersheba"
+ MPL_support_galilee:0 "Entwicklung von Galiläa"
+
+
+
+ MPL_foreign_support_category:0 "Gewinnung ausländischer Unterstützung"
+ MPL_foreign_support_category_desc:0 "Mit dem Ausbruch des Krieges im Land haben viele große Länder ein Auge auf die Region geworfen, da sie strategisch günstig liegt. Wir sollten dies zu unserem Vorteil nutzen, um uns die Unterstützung des Auslands für unseren gerechten Krieg zur Befreiung des Landes zu sichern. Unser Feind hat dies ebenfalls erkannt und trifft Vorbereitungen, um das Gleiche zu tun. Wir müssen sie ausmanövrieren und sicherstellen, dass wir so viel Unterstützung wie möglich erhalten.[~[~\n~][[~GER.GetFlag~]][[~GER.GetNameDefCap~]] - [[~MPLGetGER~]][~\n~][[~ITA.GetFlag~]][[~ITA.GetNameDefCap~]] - [[~MPLGetITA~]][~\n~][[~SOV.GetFlag~]][[~SOV.GetNameDefCap~]] - [[~MPLGetSOV~]][~\n~][[~ENG.GetFlag~]][[~ENG.GetNameDefCap~]] - [[~MPLGetENG~]][~\n~][[~FRA.GetFlag~]][[~FRA.GetNameDefCap~]] - [[~MPLGetFRA~]][~\n~][[~USA.GetFlag~]][[~USA.GetNameDefCap~]] - [[~MPLGetUSA~]][~\n~]"
+
+ MPL_undecided_support:0 "[~§Y~]Unentschieden[~§!~]"
+ MPL_ISR_support:0 "[[~~[~§3~]~~]][[~ISR.GetFlag~]][[~ISR.GetNameDefCap~]][~§!~]"
+ MPL_PAL_support:0 "[~§G~][[~PAL.GetFlag~]][[~PAL.GetNameDefCap~]][~§!~]"
+ MPL_neutral_support:0 "[~§O~]Neutral[~§!~]"
+
+ MPL_request_support_GER:0 "Unterstützung anfordern von [[~GER.GetNameDef~]] [[~GER.GetFlag~]]"
+ MPL_request_support_ITA:0 "Fordern Sie Unterstützung von [[~ITA.GetNameDef~]] [[~ITA.GetFlag~]]"
+ MPL_request_support_SOV:0 "Unterstützung anfordern von [[~SOV.GetNameDef~]] [[~SOV.GetFlag~]]"
+ MPL_request_support_ENG:0 "Unterstützung anfordern von [[~ENG.GetNameDef~]] [[~ENG.GetFlag~]]"
+ MPL_request_support_FRA:0 "Unterstützung anfordern von [[~FRA.GetNameDef~]] [[~FRA.GetFlag~]]"
+ MPL_request_support_USA:0 "Unterstützung anfordern von [[~USA.GetNameDef~]] [[~USA.GetFlag~]]"
+
+ MPL_buy_guns_GER:0 "Deutsche Infanterie-Ausrüstung kaufen [[~GER.GetFlag~]]"
+ MPL_buy_guns_ITA:0 "Italienische Infanterie-Ausrüstung kaufen [[~ITA.GetFlag~]]"
+ MPL_buy_guns_SOV:0 "Kaufen Sie [[~SOV.GetAdjective~]] Infanterie-Ausrüstung [[~SOV.GetFlag~]]"
+ MPL_buy_guns_ENG:0 "Britische Infanterie-Ausrüstung kaufen [[~ENG.GetFlag~]]"
+ MPL_buy_guns_FRA:0 "Französische Infanterie-Ausrüstung kaufen [[~FRA.GetFlag~]]"
+ MPL_buy_guns_USA:0 "Amerikanische Infanterie-Ausrüstung kaufen [[~USA.GetFlag~]]"
+ MPL_buy_support_GER:0 "Deutsche Unterstützungsausrüstung kaufen [[~GER.GetFlag~]]"
+ MPL_buy_support_ITA:0 "Italienische Unterstützungsausrüstung kaufen [[~ITA.GetFlag~]]"
+ MPL_buy_support_SOV:0 "Kaufen Sie [[~SOV.GetAdjective~]] Unterstützungsausrüstung [[~SOV.GetFlag~]]"
+ MPL_buy_support_ENG:0 "Britische Unterstützungsausrüstung kaufen [[~ENG.GetFlag~]]"
+ MPL_buy_support_FRA:0 "Französische Unterstützungsausrüstung kaufen [[~FRA.GetFlag~]]"
+ MPL_buy_support_USA:0 "Amerikanische Unterstützungsausrüstung kaufen [[~USA.GetFlag~]]"
+ MPL_buy_tanks_GER:0 "Deutsche Panzer kaufen [[~GER.GetFlag~]]"
+ MPL_buy_tanks_ITA:0 "Italienische Panzer kaufen [[~ITA.GetFlag~]]"
+ MPL_buy_tanks_SOV:0 "Kaufen Sie [[~SOV.GetAdjective~]] Panzer [[~SOV.GetFlag~]]"
+ MPL_buy_tanks_ENG:0 "Britische Panzer kaufen [[~ENG.GetFlag~]]"
+ MPL_buy_tanks_FRA:0 "Französische Panzer kaufen [[~FRA.GetFlag~]]"
+ MPL_buy_tanks_USA:0 "Amerikanische Panzer kaufen [[~USA.GetFlag~]]"
+ MPL_buy_planes_GER:0 "Deutsche Flugzeuge kaufen [[~GER.GetFlag~]]"
+ MPL_buy_planes_ITA:0 "Italienische Flugzeuge kaufen [[~ITA.GetFlag~]]"
+ MPL_buy_planes_SOV:0 "Kaufen Sie [[~SOV.GetAdjective~]] Flugzeuge [[~SOV.GetFlag~]]"
+ MPL_buy_planes_ENG:0 "Britische Flugzeuge kaufen [[~ENG.GetFlag~]]"
+ MPL_buy_planes_FRA:0 "Kaufen Sie französische Flugzeuge [[~FRA.GetFlag~]]"
+ MPL_buy_planes_USA:0 "Kaufen Sie amerikanische Flugzeuge [[~USA.GetFlag~]]"
+
+ MPL_wait_30_support:0 "Wir haben in den letzten 30 Tagen keine Unterstützung angefordert"
+ MPL_not_support_enemy:0 "Sie unterstützen unseren Feind nicht"
+ MPL_support_chance_always:0 "Akzeptanzwahrscheinlichkeit: [~§G~]Garantiert[~§!~]"
+ MPL_support_chance_high:0 "Akzeptanzwahrscheinlichkeit: [~§G~]Hoch[~§!~]"
+ MPL_support_chance_medium:0 "Akzeptanzwahrscheinlichkeit: [~§Y~]Mittel[~§!~]"
+ MPL_support_chance_low:0 "Akzeptanzwahrscheinlichkeit: [~§R~]Gering[~§!~]"
+
+
+ MPL_mandate_collapse_ISR_category:0 "Zusammenbruch des Mandats"
+ MPL_mandate_collapse_PAL_category:0 "Zusammenbruch des Mandats"
+ MPL_mandate_collapse_ISR_war_category:0 "Der Arabisch-Israelische Krieg"
+ MPL_mandate_collapse_ARAB_category:0 "Der Arabisch-Israelische Krieg"
+
+ MPL_mandate_collapse_ISR_category_desc:0 "Das Mandat ist zusammengebrochen.[~[~\n~][~\n~]Unsere Streitkräfte haben die Gebiete der Küstenebene und Westjerusalem erobert, während die Araber Judäa, Samaria und die Negev-Wüste besetzt haben. Das Festhalten an den Schlüsselgebieten könnte unsere Position stärken und unsere Unabhängigkeitserklärung vorzeitig herbeiführen.[~\n~][~\n~]Wenn du es willst, ist es kein Traum!"
+ MPL_mandate_collapse_PAL_category_desc:0 "Das Mandat ist zusammengebrochen.[~[~\n~][~\n~]Unsere Streitkräfte haben die Gebiete des Westjordanlandes, des Gazastreifens und An-Naqab erobert, während die Zionisten Westjerusalem und die Küstenebene besetzt haben. Die Einnahme von Schlüsselgebieten wird dazu beitragen, unsere Position zu stärken und die Bereitschaft der Zionisten zu schwächen, die Unabhängigkeit zu erklären."
+ MPL_mandate_collapse_ISR_war_category_desc:0 "Nach unserer Unabhängigkeitserklärung sind die arabischen Streitkräfte in die Mandatsgebiete eingedrungen und haben die Kämpfe von den Palästinensern übernommen. Sie sind uns zahlenmäßig weit überlegen, so dass wir uns zurückziehen und auf das Beste hoffen müssen."
+ MPL_mandate_collapse_ARAB_category_desc:0 "Da die Palästinenser es nicht geschafft haben, mit den israelischen Streitkräften fertig zu werden, waren wir gezwungen, einzumarschieren. Die Israelis haben viel Unterstützung aus dem Ausland und werden jeden Tag stärker, so dass wir gezwungen sind, sie schnell anzugreifen, um später nicht überwältigt zu werden."
+
+ ISR_mandate_collapse_mission:0 "Erklärung der Unabhängigkeit"
+ ISR_mandate_collapse_mission_desc:0 "Der Kampf um unsere Freiheit hat begonnen, aber wir dürfen nicht übermütig werden. Wir müssen noch eine Weile durchhalten, um eine formelle Unabhängigkeitserklärung vorzubereiten."
+ PAL_mandate_collapse_mission:0 "Zerschlagung der zionistischen Streitkräfte"
+ PAL_mandate_collapse_mission_desc:0 "Die Schlacht um unser Heimatland hat begonnen. Wir sind zahlenmäßig im Vorteil, aber die jüdischen Gebiete sind stärker industrialisiert, und deshalb müssen wir versuchen, sie schnell zu besiegen."
+ ISR_survival_mission:0 "Überlebe den Ansturm"
+ ISR_survival_mission_desc:0 "Die arabischen Streitkräfte sind eingedrungen. Sie sind uns zahlenmäßig weit überlegen, und deshalb müssen wir uns in Verteidigungspositionen begeben und die Linie halten. Sobald wir bereit sind, können wir in ihr Kerngebiet vordringen und sie sicherlich in Panik versetzen, damit sie einen Waffenstillstand unterzeichnen."
+ ARAB_destory_israel_mission:0 "Zerschlagung der israelischen Streitkräfte"
+ ARAB_destroy_israel_mission_desc:0 "Die arabischen Kräfte in Palästina haben ihre Schwäche gezeigt, und wir müssen eingreifen, um den israelischen Staat zu zerschlagen. Allerdings werden sie mit jedem Tag stärker, so dass wir es uns nicht leisten können, den Krieg noch lange fortzusetzen. Wir müssen unbedingt vorstoßen, denn ein Rückzug in unser eigenes Gebiet würde uns zwingen, einen Waffenstillstand zu unterzeichnen."
+
+ ISR_hold_haifa_mission:0 "Halten Sie Haifa"
+ ISR_hold_haifa_mission_desc:0 "Haifa ist der größte Hafen im ehemaligen Mandatsgebiet, und ihn zu halten, könnte sich als entscheidend für die Versorgung unserer Truppen erweisen. Wir müssen ihn um jeden Preis verteidigen."
+ PAL_take_haifa_mission:0 "Haifa einnehmen"
+ PAL_take_haifa_mission_desc:0 "Haifa ist der größte Hafen im ehemaligen Mandatsgebiet, und seine Einnahme könnte für die Versorgung unserer Truppen entscheidend sein. Wir müssen seine Einnahme planen."
+
+ ISR_hold_jerusalem_mission:0 "Halten Sie Jerusalem"
+ ISR_hold_jerusalem_mission_desc:0 "Jerusalem, die geistige Hauptstadt unseres Volkes, muss um jeden Preis gehalten werden. Ihr Verlust würde die Moral stark beeinträchtigen."
+ PAL_take_jerusalem_mission:0 "Jerusalem einnehmen"
+ PAL_take_jerusalem_mission_desc:0 "Jerusalem, die geistige Hauptstadt unseres Volkes, muss um jeden Preis eingenommen werden. Sie zu verlieren, würde der Moral der Israelis sehr schaden."
+
+ ISR_take_rashrash_mission:0 "Nehmt Umm Al-Rashrash"
+ ISR_take_rashrash_mission_desc:0 "Eine Zweiteilung der arabischen Streitkräfte würde unsere Siegchancen erheblich verbessern. Wir müssen nach Süden in Richtung Küste vorstoßen und ihre Kräfte teilen, wie Moses das Rote Meer."
+ PAL_hold_rashrash_mission:0 "Halten Sie Umm Al-Rashrash"
+ PAL_hold_rashrash_mission_desc:0 "Eine israelische Eroberung von Umm Al-Rashrash würde den Weg für eine Zweiteilung unserer Streitkräfte ebnen. Wir müssen die Linie halten und sicherstellen, dass dies nicht geschieht."
+
+
+ MPL_aliyah_category:0 "Die Aliyah-Krise"
+ MPL_aliyah_category_desc:0 "Nach unserer Unabhängigkeit hat sich eine Einwanderungskrise entwickelt. Auf der Flucht vor den Schrecken des Faschismus und Antisemitismus in Europa und dem Rest der Welt kommen Hunderttausende von jüdischen Flüchtlingen in unser Land, um Asyl zu beantragen. Es liegt in unserem besten Interesse, so viele Ankömmlinge wie möglich willkommen zu heißen, da unsere kleine Nation von einem Bevölkerungszustrom unglaublich profitieren würde. Viele Gruppen weigern sich jedoch, diesen Schritt zu unterstützen, da sie behaupten, dass er nur Chaos in die bereits instabile Nation bringen würde.[~\n~]Wir müssen vorsichtig sein, um keinen Teil der Bevölkerung zu verärgern."
+ MPL_scale_back_immigration:0 "Die Einwanderung zurückfahren"
+ MPL_setup_immigrant_camps_1:0 "Einrichtung kleinerer Einwandererlager"
+ MPL_setup_immigrant_camps_2:0 "Groß angelegte Einwanderungslager einrichten"
+ MPL_form_kibbutsim:0 "Die Bildung von Kibbuzim unterstützen"
+ MPL_support_existing_communities:0 "Unterstützung bestehender Gemeinschaften"
+ MPL_immigrant_workers:0 "Beschäftigung zugewanderter Arbeitskräfte"
+
+
+ MPL_mandate_resistance_category:0 "Stabilisierung des Mandats"
+ MPL_mandate_resistance_category_desc:0 "Der derzeitige Aufstand darf nicht weitergehen. Wir müssen alle Rebellen niederschlagen und die Ordnung im Mandat wiederherstellen.[~[~[~\n~][~\n~]~][~\n~]Der aktuelle Ordnungsgrad ist [[~MPLOrderLevelColour~]].[~\n~][~§R~]Wenn der Ordnungsgrad 0 erreicht, werden wir von einer Revolution heimgesucht!"
+ MPL_lower_strikes_1:0 "Befriedet die Streiks"
+ MPL_lower_strikes_2:0 "Befriedet die Streiks"
+ MPL_lower_strikes_3:0 "Befriedet die Streiks"
+ MPL_growing_resistance:0 "Wachsender Widerstand"
+ MPL_arrest_militia_leaders:0 "Verhaftet die Anführer der Miliz"
+ MPL_increase_police_patrols:0 "Verstärkung der Polizeipatrouillen"
+ MPL_raid_local_militias:0 "Razzien bei lokalen Milizen"
+ MPL_disrupt_militia_supplies:0 "Unterbrechung des Nachschubs für die Milizen"
+
+ MPL_stabilize_jordan_category:0 "Instabilität in Jordanien"
+ MPL_stabilize_jordan_category_desc:0 "Nach dem kürzlichen Verlust des Mandatsgebiets Palästina ist das Emirat Transjordanien mit einer eigenen Instabilität konfrontiert. Noch weiter von unserer Kontrolle losgelöst, fordert das Volk seine Unabhängigkeit. Wir können dieser Forderung entweder nachkommen oder Truppen entsenden, um die Ordnung wiederherzustellen."
+ MPL_stabilize_jordan_mission:0 "Jordanien stabilisieren"
+
+ MPL_stabilize_syria_category:0 "Syrische Unruhen"
+ MPL_stabilize_syria_category_desc:0 "Mit den jüngsten Unabhängigkeitswellen im Nahen Osten haben sich unsere Befürchtungen bewahrheitet, dass Syrien das nächste Land sein würde. Im gesamten Mandatsgebiet sind viele Syrer auf die Straße gegangen, um zu protestieren, und wir haben auch von der Bildung zahlreicher Milizen gehört. Wenn wir dem entgegenwirken wollen, müssen wir jetzt handeln."
+ MPL_stabilize_syria_mission:0 "Syrien stabilisieren"
+
+ MPL_syria_war_category:0 "Krieg der Befreiung"
+ MPL_syria_war_category_desc:0 "Obwohl es Saadeh gelungen ist, eine Koalition aller [[~SYR.GetAdjective~]]-Parteien gegen die [[~MPL_syria_war_owner.GetAdjective~]]-Unterdrücker zu bilden, ist diese Einheitsfront alles andere als stabil. Wenn wir nicht bald einen Sieg erringen, wird die Koalition wahrscheinlich zerbrechen."
+ MPL_syria_peace:0 "Sieg sichern"
+
+ MPL_independence_preparations:0 "Vorbereitungen für die Unabhängigkeit"
+ MPL_independence_preparations_desc:0 "Nach der Entscheidung, sich nach der jüngsten überwältigenden Welle von Streiks und Aufständen aus der Region zurückzuziehen, müssen wir sicherstellen, dass wir vor dem Rückzug alle notwendigen Vorbereitungen abschließen, um zu gewährleisten, dass die neue unabhängige Verwaltung nicht zusammenbricht.[~[~\n~][~\n~]~]Die aktuelle politische Unabhängigkeit ist: [~§Y~][[~?MPL_politische_Unabhängigkeit~]]%[~§!~][~[~\n~][~\n~]~]Die derzeitige wirtschaftliche Unabhängigkeit ist: [~§Y~][[~?MPL_economic_independence~]]%[~§!~][~[~\n~][~\n~]~]Gegenwärtige militärische Unabhängigkeit ist: [~§Y~][[~?MPL_militärische_Unabhängigkeit~]]%[~§!~][~[~\n~][~\n~]~][~§R~]WARNUNG: Die Erklärung der Unabhängigkeit ohne ausreichende Vorbereitung wird zu einer schweren administrativen Belastung führen![~§!~]"
+
+ MPL_develop_minority_communities:0 "Minderheitengemeinden entwickeln"
+ MPL_merge_local_governments:0 "Zusammenlegung der Kommunalverwaltungen"
+ MPL_upgrade_central_railway:0 "Ausbau der Zentralbahn"
+ MPL_upgrade_coastal_railway:0 "Ausbau der Küsteneisenbahn"
+ MPL_continue_haifa_construction:0 "Bau des Hafens von Haifa fortsetzen"
+ MPL_purchase_military_equipment:0 "Kauf von Militärausrüstung"
+ MPL_conduct_training:0 "Durchführung der Armeeausbildung"
+ MPL_centralize_command_structure:0 "Zentralisierung der Kommandostruktur der Armee"
+
+
+#MISC ""
+ MPL_zionist_leader:0 "Zionistischer Führer"
+ MPL_experienced_banker:0 "Erfahrener Bankier"
+ MPL_scientific_genius:0 "Wissenschaftliches Genie"
+ MPL_levantine_unifier:0 "Levantinischer Vereiniger"
+ MPL_levantine_unifier_2:0 "Levantinischer Vereiniger"
+ MPL_levantine_unification:0 "Levantinische Wiedervereinigung"
+ MPL_divided_government_trait:0 "Geteilte Regierung"
+ MPL_unified_government:0 "Vereinte Regierung"
+ MPL_zionist_sympathizer:0 "Zionistischer Sympathisant"
+ MPL_anti_zionist:0 "Antizionist"
+ MPL_wauchope_resigned:0 "Wauchope zurückgetreten"
+ ISR_shell_palestine:0 "Shell Palästina"
+ RULE_ALLOW_RELEASE_NATIONS_NOT_PALESTINE_TOOLTIP:0 "[~§Y~][[~MPL.GetNameDefCap~]][~§!~] kann weder [~§Y~]Israel[~§!~] noch [~§Y~]Palästina[~§!~] freigeben"
+ MPL_jerusalem_conference:0 "Die Jerusalemer Konferenz hat stattgefunden."
+ MPL_AI_BEHAVIOR:0 "£GFX_gamerules_MPL_mandate Mandat von Palästina"
+ RULE_OPTION_MPL_MANDATE_STAY:0 "£GFX_gamerules_MPL_mandate Das Mandat bleibt bestehen"
+ RULE_OPTION_MPL_MANDATE_STAY_AI_DESC:0 "Als Reaktion auf den arabischen Aufstand von 1936 erlässt Arthur Grenfell Wauchope Notstandsverordnungen und geht gegen jeglichen Widerstand von jüdischen oder arabischen Milizen vor."
+ RULE_OPTION_MPL_MANDATE_COLLAPSE:0 "£GFX_gamerules_ISR_state £GFX_gamerules_PAL_neutrality Das Mandat bricht zusammen"
+ RULE_OPTION_MPL_MANDATE_COLLAPSE_AI_DESC:0 "Als Reaktion auf den arabischen Aufstand von 1936 erlässt Arthur Grenfell Wauchope Notstandsverordnungen, wird aber nicht schnell genug mit dem jüdischen und arabischen Widerstand fertig, so dass das Mandat zusammenbricht."
+ RULE_OPTION_MPL_PREPARATIONS_COLLAPSE:0 "£GFX_gamerules_ISR_state £GFX_gamerules_PAL_neutrality Greifen nach einem Strohhalm"
+ RULE_OPTION_MPL_PREPARATIONS_COLLAPSE_AI_DESC:0 "Als Reaktion auf den arabischen Aufstand von 1936 erklärt Arthur Grenfell Wauchope das Ende des Mandats, schafft es aber nicht, das Kräfteverhältnis zwischen dem Jischuw und dem Arabischen Komitee zu regeln, was zum Zusammenbruch des Mandats führt."
+ RULE_OPTION_MPL_DISSOLVED:0 "£GFX_gamerules_ISR_state £GFX_gamerules_MPL_Jerusalem £GFX_gamerules_PAL_neutrality Eine friedliche Auflösung"
+ RULE_OPTION_MPL_DISSOLVED_AI_DESC:0 "Als Reaktion auf den arabischen Aufstand von 1936 wird Arthur Grenfell Wauchope das Ende des Mandats verkünden. Die Peel-Kommission wird erklären, dass die beste Lösung darin besteht, das Mandat in getrennte jüdische und arabische Staaten aufzulösen und das Gleichgewicht der Kräfte zu wahren."
+ RULE_OPTION_MPL_UNION_COM:0 "£GFX_gamerules_MPL_free_communism Eine levantinische Kommune"
+ RULE_OPTION_MPL_UNION_COM_AI_DESC:0 "Als Reaktion auf den arabischen Aufstand von 1936 wird Arthur Grenfell Wauchope das Ende des Mandats verkünden. Die Peel-Kommission erklärt, dass die beste Lösung die Bildung eines unabhängigen Unionsstaates aus Arabern und Juden wäre. Das Gleichgewicht der Kräfte bleibt erhalten, und die Palästinensische Kommunistische Partei wird die Wahlen gewinnen."
+ RULE_OPTION_MPL_UNION_DEM:0 "£GFX_gamerules_MPL_free_democratic Eine levantinische Konföderation"
+ RULE_OPTION_MPL_UNION_DEM_AI_DESC:0 "Als Reaktion auf den arabischen Aufstand von 1936 wird Arthur Grenfell Wauchope das Ende des Mandats erklären. Die Peel-Kommission erklärt, dass die beste Lösung die Bildung eines unabhängigen Unionsstaates aus Arabern und Juden wäre. Das Gleichgewicht der Kräfte bleibt erhalten, und die Unionistische Partei der Levante gewinnt die Wahlen."
+ RULE_OPTION_MPL_UNION_COLLAPSE:0 "£GFX_gamerules_ISR_state £GFX_gamerules_PAL_neutrality Ein aufgeschobener Traum"
+ RULE_OPTION_MPL_UNION_COLLAPSE_AI_DESC:0 "Als Reaktion auf die arabische Revolte von 1936 wird Arthur Grenfell Wauchope das Ende des Mandats erklären. Die Peel-Kommission wird erklären, dass die beste Lösung die Bildung eines unabhängigen Unionsstaates aus Arabern und Juden wäre. Das Gleichgewicht der Kräfte wird erhalten bleiben, aber die neu gebildete Union wird sich nicht stabilisieren können und zusammenbrechen."
+
+ ISR_AI_BEHAVIOR:0 "£GFX_gamerules_ISR_Staat Israel"
+ RULE_OPTION_ISR_MAPAI:0 "£GFX_gamerules_ISR_Staat Mapai zementiert"
+ RULE_OPTION_ISR_MAPAI_AI_DESC:0 "Während des Unabhängigkeitskrieges gelingt es den Haganah-Milizen, die Irgun zu säubern, und die arbeitszionistische Mapai gewinnt die Wahlen."
+ RULE_OPTION_ISR_HASHOMER:0 "£GFX_gamerules_ISR_state Hashomer Hatsair"
+ RULE_OPTION_ISR_HASHOMER_AI_DESC:0 "Während des Unabhängigkeitskrieges gelingt es den Haganah-Milizen, die Irgun zu säubern, und die sowjetischen Arbeitszionisten der Hashomer Hatsair gewinnen die Wahlen und bewegen sich zwischen den Radikalen und den Gemäßigten."
+ RULE_OPTION_ISR_MAKI:0 "£GFX_gamerules_MPL_free_communism Maki"
+ RULE_OPTION_ISR_MAKI_AI_DESC:0 "Während des Unabhängigkeitskrieges gelingt es den Haganah-Milizen, die Irgun zu säubern, und die sowjetisch-arbeitszionistische Hashomer Hatsair gewinnt die Wahlen, unterliegt aber der radikaleren Maki-Fraktion."
+ RULE_OPTION_ISR_PROGRESSIVE:0 "£GFX_gamerules_ISR_state Die neue Aliyah"
+ RULE_OPTION_ISR_PROGRESSIVE_AI_DESC:0 "Während des Unabhängigkeitskrieges gelingt es den Haganah-Milizen, die Irgun zu säubern, und der Zentrumsblock gewinnt die Wahlen, wobei die fortschrittliche Neue Alija schließlich zur einflussreichsten Partei des Blocks wird."
+ RULE_OPTION_ISR_GENERAL_ZIONISTS:0 "£GFX_gamerules_ISR_state Die Allgemeinen Zionisten"
+ RULE_OPTION_ISR_GENERAL_ZIONISTS_AI_DESC:0 "Während des Unabhängigkeitskrieges gelingt es den Haganah-Milizen, die Irgun zu säubern, und der Zentrumsblock gewinnt die Wahlen, wobei die liberalen Allgemeinen Zionisten die einflussreichste Partei im Block bleiben."
+ RULE_OPTION_ISR_HATZOHAR:0 "£GFX_gamerules_ISR_state Revisionistische Revolution"
+ RULE_OPTION_ISR_HATZOHAR_AI_DESC:0 "Während des Unabhängigkeitskrieges gelingt es den Haganah-Milizen nicht, die Irgun zu säubern. Die Irgun gibt jedoch nach und lässt demokratische Wahlen zu, die Jabotinsky schließlich gewinnt."
+ RULE_OPTION_ISR_IRGUN:0 "£GFX_gamerules_ISR_couped Feuer und Blut"
+ RULE_OPTION_ISR_IRGUN_AI_DESC:0 "Während des Unabhängigkeitskrieges scheitern die Haganah-Milizen bei der Säuberung der Irgun, die daraufhin die Regierung putschen wird. Die Irgun-Führung wird den Stern-Aufstand nach Jabotinskys Tod niederschlagen."
+ RULE_OPTION_ISR_FASCIST:0 "£GFX_gamerules_ISR_fascism Rache für die größten Tragödien"
+ RULE_OPTION_ISR_FASCIST_AI_DESC:0 "Während des Unabhängigkeitskrieges scheitern die Haganah-Milizen bei der Säuberung der Irgun, die daraufhin die Regierung stürzt. Die Irgun-Führung scheitert bei der Niederschlagung des Stern-Aufstandes, was zu einer ultranationalistischen Herrschaft in Israel führt."
+
+ PAL_AI_BEHAVIOR:0 "£GFX_gamerules_PAL_Neutralität Palästina"
+ RULE_OPTION_PAL_QADIR:0 "£GFX_gamerules_PAL_neutralität Abdul-Qadirs Vermächtnis"
+ RULE_OPTION_PAL_QADIR_AI_DESC:0 "Während des Unabhängigkeitskrieges wird der Plan von Abdul-Qadir gewählt, der gegen Andersdenkende vorgeht und ein Großpalästina errichtet."
+ RULE_OPTION_PAL_HASHEMITE:0 "£GFX_gamerules_PAL_hashemite Ein haschemitischer Monarch"
+ RULE_OPTION_PAL_HASHEMITE_AI_DESC:0 "Während des Unabhängigkeitskrieges wird Abdul-Qadirs Plan gewählt, aber er wird seine Herrschaft an König Zeid von der haschemitischen Dynastie abtreten."
+ RULE_OPTION_PAL_NLL:0 "£GFX_gamerules_PAL_communism Ein großes Heimatland"
+ RULE_OPTION_PAL_NLL_AI_DESC:0 "Während des Unabhängigkeitskrieges wird der Plan von Fawzi Al-Qawuqji gewählt, doch nach dem Krieg wird er von der Nationalen Befreiungsliga des Kommunisten Radwan Al-Hilu gestürzt, mit dem Ziel, einen panarabischen Staat zu errichten."
+ RULE_OPTION_PAL_NASHASHIBI:0 "£GFX_gamerules_PAL_demokratische Nashashibis übernehmen die Verantwortung"
+ RULE_OPTION_PAL_NASHASHIBI_AI_DESC:0 "Während des Unabhängigkeitskrieges wird der Plan von Fawzi Al-Qawuqji gewählt, doch nach dem Krieg wird er von der liberalen Nashashibi-Familie gestürzt, die einen demokratischen Staat mit Raghib Nashashibi als erstem Staatsoberhaupt errichten wird."
+ RULE_OPTION_PAL_SMC:0 "£GFX_gamerules_PAL_demokratisches SMC übernimmt die Verantwortung"
+ RULE_OPTION_PAL_SMC_AI_DESC:0 "Während des Unabhängigkeitskrieges wird der Plan von Fawzi Al-Qawuqji gewählt, doch nach dem Krieg wird er von den demokratischen Konservativen des SMC gestürzt, die daraufhin eine islamische Republik in Palästina errichten."
+ RULE_OPTION_PAL_ISLAM:0 "£GFX_gamerules_PAL_islam Al-Muqaddas Machtergreifung"
+ RULE_OPTION_PAL_ISLAM_AI_DESC:0 "Während des Unabhängigkeitskrieges wird der Plan von Abdul-Qadir gewählt, der jedoch von den islamistischen Kräften gestürzt wird. Es finden Wahlen für den Vorsitz statt, aus denen der radikale Amin Al-Husseini als Sieger hervorgeht."
+ RULE_OPTION_PAL_HUSSAM:0 "£GFX_gamerules_PAL_hussam Ein moderater islamischer Staat"
+ RULE_OPTION_PAL_HUSSAM_AI_DESC:0 "Während des Unabhängigkeitskrieges wird der Plan von Abdul-Qadir gewählt, der jedoch von den islamistischen Kräften gestürzt wird. Es werden Wahlen für den Vorsitz abgehalten, aus denen der gemäßigte Hussam Al-Din als Sieger hervorgeht."
+ RULE_OPTION_PAL_HASAN:0 "£GFX_gamerules_PAL_islam Der Putsch von Salama"
+ RULE_OPTION_PAL_HASAN_AI_DESC:0 "Während des Unabhängigkeitskrieges wird der Plan von Abdul-Qadir gewählt, der jedoch von den islamistischen Kräften gestürzt wird. Es werden Wahlen für den Vorsitz abgehalten, aus denen der gemäßigte Hussam Al-Din als Sieger hervorgeht. Aufgrund seiner gemäßigten Haltung wird er jedoch von dem faschistischen General Hasan Salama gestürzt werden."
+ RULE_OPTION_PAL_FAWZI:0 "£GFX_gamerules_PAL_golani Der Putsch von Fawzi"
+ RULE_OPTION_PAL_FAWZI_AI_DESC:0 "Während des Unabhängigkeitskrieges wird der Plan von Fawzi Al-Qawuqji gewählt, der die Macht der Zivilbevölkerung in der Regierung unterdrückt und einen Putsch der Opposition verhindert."
+ RULE_OPTION_PAL_GOLANI:0 "£GFX_gamerules_PAL_golani Golani kämpft um die Macht"
+ RULE_OPTION_PAL_GOLANI_AI_DESC:0 "Während des Unabhängigkeitskrieges wird der Plan von Fawzi Al-Qawuqji gewählt, aber er verliert die Macht an Abdulhalim Al-Golani, der ihn stürzt."
+
+
+#Modifers ""
+r56_MPL_mandate_area:0 "Mandat des Völkerbundes"
+r56_MPL_mandate_area_desc:0 "Aufgrund der Ausweisung als Mandatsgebiet durch den Völkerbund hat die britische Verwaltung eine stärkere Kontrolle über die lokale Industrie in der Region."

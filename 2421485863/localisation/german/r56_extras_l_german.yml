@@ -1,1 +1,28 @@
 ﻿l_german:
+
+l_english: ""
+
+ ###---> Meep <><> <><> <><> ""
+ r56_local_text_patreon_group: "Mich kollabieren"
+
+ ###---> Patreon Tooltips <><> <><> <><> ""
+ r56_tooltip_patreon_credits: "Zeigt die Credits für unser Patreon an und bedankt sich bei denjenigen, die dazu beigetragen haben."
+ r56_tooltip_patreon_easteregg: "Aktiviert die Easter Egg-Ereigniskette, die alle versteckten Inhalte freischaltet. Für faule Leute, die es nicht auf die harte Tour machen können."
+ r56_tooltip_patreon_turnedoff: "Dadurch wird das Extras-Menü deaktiviert, weil ihr so nett darum gebeten habt."
+ r56_tooltip_patreon_leaders: "Stellt alle unsere Patreon-Generäle und -Länderchefs für jeden zur Verfügung."
+
+ ###---> Patreon Events <><> <><> <><> ""
+ r56.event.patreon.01.title: "Die Liste der Soldaten"
+ r56.event.patreon.01.description: "Diese feinen Leute haben zu unseren Bemühungen beigetragen und ihnen muss gedankt werden! [~[~\n~][~\n~]~] CTomic, James Michael Smith, TastesLikeWall, John Stinde, Emily Zimmerman-Kościuszko, VisualVx, Spencer, Logan Calkins, Jystr, Max Putinsev, Wei, PacifistWargamer! [~[~\n~][~\n~]~] Ich danke euch vielmals. Ihr seid die Besten, und wir würden ohne eure süße Liebe sterben."
+ r56.event.01.default: "Sehr schön!"
+ r56.event.01.alternate: "Okay, aber zeig das nie wieder."
+
+ #---> Patreon Decisions <><> <><> <><> ""
+ r56_decision_category_patreon: "Road to 56 Extras"
+ r56_decision_category_patreon_desc: "Enthält einige zusätzliche Optionen und andere verrückte Extras!"
+ r56_decision_patreon_credits: "Mitwirkende"
+ r56_decision_patreon_easteregg: "Nekrowombaticon-Aktivierung"
+ r56_decision_patreon_turnedoff: "Ich verbanne dich!"
+ r56_decision_patreon_leaders: "Patreon Generäle und Anführer erstellen"
+
+#####-----> End of File <><> <><> <><> <><> <><> ""

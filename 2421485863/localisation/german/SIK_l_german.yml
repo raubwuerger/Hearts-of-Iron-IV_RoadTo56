@@ -1,1 +1,43 @@
 ﻿l_german:
+ r56_SIK_bring_kashgar_back_into_the_fold:0 "Bringt Kashgar zurück in die Herde"
+ r56_SIK_bring_kashgar_back_into_the_fold_desc:0 "Wir haben genug von der [[~TNG.getleader~]]-Scharade. Wir haben ihm zu viel Kontrolle über den Militärbezirk Kashgar erlaubt, und es ist an der Zeit, dass wir dieses Problem ein für alle Mal angehen. [[~TNG.getleader~]] stellt [[~TNG. getleader~]] ein Ultimatum zu stellen, bevor [[~SOV.getnamedef~]] sich zur Unterstützung von [[~SIK.getleader~]] verpflichtet, wird dazu führen, dass [[~SOV.getnamedef~]] uns im Krieg mit [[~TNG.getname~]] nicht unterstützt.[~§!~]"
+
+ #SIK ""
+  ""
+ r56_resolve_the_xinjiang_problem:0 "Lösen Sie das Xinjiang-Problem"
+
+ SIK_caught_off_guard:0 "Hat [[~TNG.getleader~]] überrumpelt"
+ SIK_caught_off_guard_desc:0 "Die 36. Division von [[~TNG.getleader~]] wurde von unseren jüngsten Forderungen und Eingriffen in ihre Angelegenheiten überrumpelt. Wir haben derzeit eine massive Oberhand bei der Auseinandersetzung mit ihren Streitkräften."
+
+ #TNG ""
+ SIK_TNG_defaction:0 "Defizite in der Führung"
+ SIK_TNG_defaction_decs:0 "Einige unserer Armeeführer beginnen, zur anderen Seite überzulaufen. Das schwächt unsere Entschlossenheit, weiter zu kämpfen. Wir werden Zeit brauchen, um uns von diesem Verrat zu erholen."
+
+ sik.1.t:0 "[[~SIK.getleader~]] verlangt die direkte Kontrolle über das Militär in Kashgar."
+ sik.1.desc:0 "Es scheint, dass [[~SIK.getleader~]] durch seine jüngsten politischen Siege ermutigt wurde. Er glaubt, dass er das Recht und die Pflicht hat, über alle Regionen Xinjiangs zu herrschen. Dazu gehört auch das Militärgebiet Kashgar, das unter unserer Kontrolle steht. Obwohl eine solche Aktion nur ein Schachzug ist, um [[~TNG.GetLeader~]] zu untergraben und zu entmachten. Ein Mann, den [[~SIK.GetLeader~]] als Rivalen um seine Macht in der Region betrachtet. Wie sollten wir auf eine solch unangemessene Forderung reagieren?"
+ sik.1.a:0 "Versammelt das Volk und kämpft gegen den verräterischen [[~SIK.GetLeader~]]!"
+ sik.1.b:0 "Wir haben keine andere Wahl, als uns zu fügen..."
+ sik.2.t:0 "[[~TNG.getleader~]] versammelt Truppen, um sich unseren Forderungen zu widersetzen!"
+ sik.2.desc:0 "[[~TNG.getleader~]] hat auf unsere Forderungen reagiert, indem er die Truppen unter seinem Kommando versammelt hat und sich auf einen Kampf vorbereitet. Dies ist eine Wiederherstellung seiner Kontrolle über die Region und eine direkte Beleidigung für [[~SIK.getleader~]]. Dies rechtfertigt eine schnelle und direkte Antwort!"
+ sik.2.a:0 "Rückt vor und schlagt sofort zu!"
+ sik.2.b:0 "Lasst uns Zeit gewinnen..."
+ sik.3.t:0 "[[~TNG.getleader~]] kapituliert!"
+ sik.3.desc:0 "Angesichts eines Kampfes, den er nicht gewinnen konnte, hat [[~TNG.getleader~]] die Kontrolle über die Kashgar Military distinct und seine Truppen an [[~SIK.getleader~]] abgegeben. Dies wird unsere Position in der Region Xinjiang und in ganz China erheblich stärken!"
+ sik.3.a:0 "Ein großer Sieg!"
+ sik.4.t:0 "[[~SIK.getleader~]] tritt zurück!"
+ sik.4.desc:0 "Sie wollen sich nicht einem Kampf mit [[~TNG.getleader~]] stellen. Die Armeen unter [[~SIK.getleader~]] haben ihre Forderungen nach Kontrolle über die Kashgar Military distinct zurückgezogen. Dies ist ein großer Sieg für das Volk von Kashgar! Damit wird unsere Kontrolle über unser Land und die Region Kashgar weiter gefestigt."
+ sik.4.a:0 "Ein großer Sieg!"
+ SIK_TNG_REBELS_tt:0 "Türkische Rebellendivision erscheint in Kashgar"
+
+ sik.6.t:0 "Das Xinjiang-Problem"
+ sik.6.desc:0 "Vor einigen Stunden wurden wir von dem [[~FROM.GetAdjective~]] Gesandten in [[~ROOT.GetNameDef~]] angesprochen, der von einem "Xinjiang-Problem" sprach. Offenbar bietet uns die [[~FROM.GetAdjective~]]-Regierung wirtschaftliche Vorteile und verstärkte Unterstützung sowie politische Zugeständnisse im Gegenzug dafür, dass [[~ROOT.GetNameDef~]] den militärischen Schutz von [[~SIK.GetNameDef~]] aufgibt. Sollen wir unsere östlichen Verbündeten im Stich lassen oder soll unsere scheinbar bedingungslose Unterstützung für [[~SIK.GetNameDef~]] weitergehen, das ist die Frage..."
+ sik.6.a:0 "Der [[~FROM.GetAdjective~]]-Gesandte ist ziemlich charmant, wissen Sie."
+ sik.6.b:0 "[[~SOV.GetLeader~]] ist ein Mann, der sein Wort hält!"
+
+ sik.7.t:0 "Das Xinjiang-Problem - [[~SOV.GetAdjective~]]s Annahme"
+ sik.7.desc:0 "Vor wenigen Stunden wurden wir vom [[~SOV.GetAdjective~]]s Gesandten in [[~ROOT.GetNameDef~]] informiert, dass die [[~SOV.GetAdjective~]]s unseren Vorschlag akzeptiert und ihren militärischen Schutz von [[~SIK.GetNameDef~]] eingestellt haben. Die [[~SOV.GetAdjective~]]-Kräfte haben bereits mit ihrem Rückzug aus [[~SIK.GetNameDef~]] begonnen."
+ sik.7.a:0 "[[~SIK.GetLeader~]] muss wütend sein!"
+
+ sik.8.t:0 "Das Xinjiang-Problem - [[~SOV.GetAdjective~]]s Niedergang"
+ sik.8.desc:0 "Vor wenigen Stunden wurden wir vom [[~SOV.GetAdjective~]]s Gesandten in [[~ROOT.GetNameDef~]] informiert, dass die [[~SOV.GetAdjective~]]s unseren Vorschlag abgelehnt und ihre Verpflichtungen im Osten sowie ihren militärischen Schutz von [[~SIK.GetNameDef~]] bekräftigt haben. Die [[~SOV.GetAdjective~]]-Kräfte werden in [[~SIK.GetNameDef~]] bleiben."
+ sik.8.a:0 "Verdammt seien diese [[~SOV.GetAdjective~]]s!"
