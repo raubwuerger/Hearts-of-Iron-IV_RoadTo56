@@ -21,7 +21,7 @@
   ""
  BHU_GATHERING_STORM_DESC:0 "Das isoliert im Himalaya gelegene Bhutan befindet sich an der Grenze der britischen Einflusssphäre. Das Land, das durch den Vertrag von Punakha an Großbritannien gebunden ist, hat auf seine Streitkräfte verzichtet und verlässt sich zu seinem Schutz auf die britisch-indische Armee."
   ""
- BRA_GATHERING_STORM_DESC:0 "1936 ist Brasilien gebrochen. Der Putsch von 1930 zerstörte unsere Traditionen und demokratischen Institutionen, und bald darauf legte ein Bürgerkrieg die Industrie und die Infrastruktur des wichtigsten brasilianischen Staates lahm, was unsere Nation zerbrechlich und instabil machte.[~[~\n~][~\n~]~]Während Brasilien eine solide Führung aufbaut, muss die Republik sich selbst wieder aufbauen, um ihre Zukunft zu sichern."
+ BRA_GATHERING_STORM_DESC:0 "1936 ist Brasilien gebrochen. Der Putsch von 1930 zerstörte unsere Traditionen und demokratischen Institutionen, und bald darauf legte ein Bürgerkrieg die Industrie und die Infrastruktur des wichtigsten brasilianischen Staates lahm, was unsere Nation zerbrechlich und instabil machte.[~\n\n~]Während Brasilien eine solide Führung aufbaut, muss die Republik sich selbst wieder aufbauen, um ihre Zukunft zu sichern."
   ""
  COG_GATHERING_STORM_DESC:0 "Belgisch-Kongo ist offiziell eine belgische Kolonie, die direkt von Brüssel aus regiert wird. In der Praxis genießt der Generalgouverneur Pierre Ryckmans jedoch aufgrund der Entfernung zu Europa ein gewisses Maß an Autonomie. Als Ausbeuterkolonie, zu der auch der "geologische Skandal" Katanga gehört, verfügt der Kongo über reichlich Bodenschätze. Logischerweise wird die Gewinnung dieser Ressourcen eine der Prioritäten der Kolonialverwaltung sein. Das Gebiet verfügt über zahlreiche Wolfram-, Kupfer- und Kautschukvorkommen und hat natürlich Zugang zur reichsten Uranerzmine der Welt."
   ""
@@ -43,7 +43,7 @@
   ""
  TIB_GATHERING_STORM_DESC:0 "Tibet mag als eine sehr stabile, isolierte, halbfeudale Theokratie erscheinen, aber das ist weit von der Wahrheit entfernt. Noch vor einigen Jahren wurden kommunistische und demokratische Bewegungen von der herrschenden religiösen und zivilen Aristokratie stark unterdrückt. Das Land muss seine Armee reformieren, aber gleichzeitig fürchten die Klöster eine sich modernisierende Armee, die ihre Position in Frage stellen würde. Nicht zuletzt regiert ein Regent das Land, und die Reinkarnation des Dalai Lama muss gefunden und gekrönt werden, um das theokratische System aufrechtzuerhalten."
   ""
- VIN_GATHERING_STORM_DESC:0 "[~§R~]Wählen Sie auf diesem Bildschirm nicht Vietnam aus! [~§!~][~[~\n~][~\n~][~\n~]Nachdem die französische Verwaltung mit Waffengewalt besiegt wurde, wurde Vietnam unabhängig und von jahrhundertelanger kolonialer Unterdrückung befreit.[~\n~]Der Abzug Frankreichs hinterlässt eine Nation, die noch immer voller Probleme ist, mit einer ungebildeten einheimischen Arbeiterschaft und von politischen Konflikten geplagt, während sie von Ländern umgeben ist, die ihr durchaus feindlich gesinnt sein könnten."
+ VIN_GATHERING_STORM_DESC:0 "§RWählen Sie auf diesem Bildschirm nicht Vietnam aus! §![~\n\n\nNachdem die französische Verwaltung mit Waffengewalt besiegt wurde, wurde Vietnam unabhängig und von jahrhundertelanger kolonialer Unterdrückung befreit.\nDer Abzug Frankreichs hinterlässt eine Nation, die noch immer voller Probleme ist, mit einer ungebildeten einheimischen Arbeiterschaft und von politischen Konflikten geplagt, während sie von Ländern umgeben ist, die ihr durchaus feindlich gesinnt sein könnten."
   ""
  SAU_GATHERING_STORM_DESC:0 "Nach der Niederlage von Sharif Hussein bin Ali, dem Emir des Hedschas, begann Abdulaziz ibn Abdul Rahman ibn Faisal ibn Faisal ibn Turki ibn Abdullah ibn Muhammad Al Saud einen mehr als fünfzehn Jahre dauernden Krieg zur Vereinigung eines großen Teils Arabiens unter der Dynastie der Saud, der 1932 endete und das Königreich Saudi-Arabien hervorbrachte. [Die saudische Wirtschaft ist nach wie vor sehr prekär, da ein Großteil der Staatseinnahmen aus den Pilgerfahrten zu den heiligen Städten Mekka und Medina stammt. In den Kellern könnte jedoch ein wahrer Schatz schlummern, der die wirtschaftliche und geopolitische Richtung Arabiens für immer verändern würde."
 
@@ -65,7 +65,7 @@
  OTHER_BLITZKRIEG_DESC:0 "Dieses Szenario wird von The Road to 56 nicht unterstützt. Stellen Sie sicher, dass Sie keine Mod-Konflikte haben; andernfalls melden Sie dies bitte in unserem Discord."
 
  FE_HISTORICAL:0 "Historische KI-Priorisierung"
- FE_HISTORICAL_TOOLTIP:0 "Die KI wählt [~§Y~]Nationale Schwerpunkte[~§!~] in historischer Reihenfolge neben der Auswahl historischer Entscheidungen in [~§Y~]Ereignisse[~§!~] und [~§Y~]Entscheidungen[~§!~]. Wählen Sie dies, wenn Sie möchten, dass andere Länder ihrem historischen Weg genauer folgen."
+ FE_HISTORICAL_TOOLTIP:0 "Die KI wählt §YNationale Schwerpunkte§! in historischer Reihenfolge neben der Auswahl historischer Entscheidungen in §YEreignisse§! und §YEntscheidungen§!. Wählen Sie dies, wenn Sie möchten, dass andere Länder ihrem historischen Weg genauer folgen."
   ""
- ACHIEVEMENTS_NOT_OK:1 "[~§R~]The Road to 56 unterstützt keine Erfolge[~§!~]."
+ ACHIEVEMENTS_NOT_OK:1 "§RThe Road to 56 unterstützt keine Erfolge§!."
  #####-----> End of File <><> <><> <><> <><> <><> ""

@@ -136,7 +136,7 @@ KOR_metallurgy:0 "Metallurgie"
 KOR_metallurgy_desc:0 "Der Ausbau unserer Industrie erfordert eine Quelle für verarbeitete Rohstoffe. Wir werden diese Anlagen bauen, um unseren Bedarf zu decken."
 KOR_state_heavy_industry:0 "Staatliche Schwerindustrie"
 KOR_state_heavy_industry_desc:0 "Um weiteres Wachstum zu fördern, werden wir in staatliche Schlüsselunternehmen investieren, die alles bauen werden, was unsere Industrie braucht."
-KOR_leader_technical_university:0 "[[~KOR.GetLeader~]] Technische Universität"
+KOR_leader_technical_university:0 "[KOR.GetLeader] Technische Universität"
 KOR_leader_technical_university_desc:0 "Unsere verbesserte Industrie benötigt eine kompetente Basis von Arbeitern und geschultem Personal. Die Einrichtung eines Forschungsinstituts und einer Universität wird einen doppelten Zweck erfüllen, nämlich die Ausbildung dieser zukünftigen Arbeitskräfte und die Entwicklung und Erprobung neuer Technologien."
 
 KOR_war_industry:0 "Kriegsindustrie"
@@ -150,9 +150,9 @@ KOR_supreme_leader_desc:0 "Es gibt nur eine Person in diesem Land, die weiß, wa
 KOR_great_banner_of_songun:0 "Großes Banner von Songun"
 KOR_great_banner_of_songun_desc:0 "In Korea ein großer Soldat. Nummer eins. Stetige Hand. Eines Tages braucht der Oberste Führer einen neuen Freund. Ich führe die Operation durch. Aber, Fehler! Freund stirbt! Oberster Führer glücklich! Jetzt habe ich Haus, Essen und schöne Frau. "
 KOR_loyalty_to_moscow:0 "Loyalität zu Moskau"
-KOR_loyalty_to_moscow_desc:0 "Nur am Geburtsort des Kommunismus können wir in dieser kapitalistisch geprägten Welt Schutz finden. Wir sollten uns mit dem [[~SOV.GetName~]] verbünden, um unseren Erfolg und unser Wohlergehen zu garantieren."
+KOR_loyalty_to_moscow_desc:0 "Nur am Geburtsort des Kommunismus können wir in dieser kapitalistisch geprägten Welt Schutz finden. Wir sollten uns mit dem [SOV.GetName] verbünden, um unseren Erfolg und unser Wohlergehen zu garantieren."
 KOR_adopt_maoism:0 "Übernehmen Sie den Maoismus"
-KOR_adopt_maoism_desc:0 "Unser nächster kommunistischer Nachbar, die [[~PRC.GetName~]], praktiziert eine einzigartige Form des Kommunismus, die für Korea besser geeignet ist. Wir sollten uns ihnen im glorreichen Kampf zur Verbreitung des Evangeliums des Kommunismus anschließen."
+KOR_adopt_maoism_desc:0 "Unser nächster kommunistischer Nachbar, die [PRC.GetName], praktiziert eine einzigartige Form des Kommunismus, die für Korea besser geeignet ist. Wir sollten uns ihnen im glorreichen Kampf zur Verbreitung des Evangeliums des Kommunismus anschließen."
 KOR_join_the_asian_communist_solidarity:0 "Schließen Sie sich der Kommunistischen Solidarität Asiens an"
 KOR_join_the_asian_communist_solidarity_desc:0 "Wir können keiner anderen Nation vertrauen als einer anderen Nation, die wie wir den Kommunismus praktiziert. Wir sollten ein Bündnis mit den kommunistischen Nationen Asiens eingehen, um unsere einzigartige Existenz zu schützen."
 
@@ -236,8 +236,8 @@ KOR_devotion_to_the_emperor_desc:0 "Nur durch Loyalität zu unserem Kaiser könn
 KOR_youth_units:0 "Radikalisierung der Jugend"
 KOR_youth_units_desc:0 "Die koreanische Jugend ist der reinste Vorrat an Arbeitskräften, die den Aufstieg des großen Korea vorantreiben werden!"
 
-KOR_invade_soviet_union:0 "Wettbewerb [[~SOV.getAdjective~]] Hegemonie"
-KOR_invade_soviet_union_desc:0 "[[~SOV.getnameDefcap~]] hat Asien jahrzehntelang unter Druck gesetzt, ihnen muss eine Lektion erteilt werden."
+KOR_invade_soviet_union:0 "Wettbewerb [SOV.getAdjective] Hegemonie"
+KOR_invade_soviet_union_desc:0 "[SOV.getnameDefcap] hat Asien jahrzehntelang unter Druck gesetzt, ihnen muss eine Lektion erteilt werden."
 
 KOR_invade_manchuria:0 "In die Mandschurei einmarschieren"
 KOR_invade_manchuria_desc:0 "Die mandschurische Regierung hat die Koreaner nördlich des Amrok schon viel zu lange unterdrückt. Tod den Qing!"

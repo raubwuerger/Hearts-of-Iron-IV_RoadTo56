@@ -4,8 +4,8 @@ r56_paraguay.1.d:0 "Nach dem Chaco-Krieg im letzten Jahr, den wir gewinnen konnt
 r56_paraguay.1.a:0 "Es lebe Oberst Franco!"
 r56_paraguay.2.a:0 "Wir müssen Widerstand leisten! Bildet eine Koalition mit der PCP und kämpft!"
 r56_PAR_franco_coup:0 "Bevorstehender Militärputsch"
-r56_PAR_franco_coup_desc:0 "Das Militär, das mit dem schwachen Regime von [[~PAR.getleader~]] unzufrieden ist, hat eine Verschwörung gebildet, um die derzeitige Regierung zu stürzen. Die Verschwörung wird von dem im Exil lebenden Oberst Franco angeführt. Wenn wir sie verhindern wollen, müssen wir schnell handeln."
-r56_PAR_coup_called_off:0 "Oberst Franco wurde [~§Y~]ermordet[~§!~]"
+r56_PAR_franco_coup_desc:0 "Das Militär, das mit dem schwachen Regime von [PAR.getleader] unzufrieden ist, hat eine Verschwörung gebildet, um die derzeitige Regierung zu stürzen. Die Verschwörung wird von dem im Exil lebenden Oberst Franco angeführt. Wenn wir sie verhindern wollen, müssen wir schnell handeln."
+r56_PAR_coup_called_off:0 "Oberst Franco wurde §Yermordet§!"
 r56_PAR_franco_coup_mission:0 "Colonel Francos Rückkehr"
 r56_PAR_franco_coup_mission_desc:0 "Es gibt Quellen, die sagen, dass die Rückkehr von Oberst Franco den Beginn des Militärputsches markieren wird."
 r56_PAR_military_concessions:0 "Zugeständnisse an Morinigos Fraktion"
@@ -15,8 +15,8 @@ r56_PAR_assassinate_franco_desc:0 "Die einzige Möglichkeit, den Putsch zu verhi
 
 
 #tt's ""
-r56_PAR_civil_war_choice_tt:0 "Schaltet die [~§Y~]Option[~§!~] frei, sich dem Militärputsch mit einem [~§R~]Bürgerkrieg[~§!~] zu widersetzen."
-r56_PAR_coup_called_off_tt:0 "Der Militärputsch wird [~§Y~]verhindert[~§!~]"
+r56_PAR_civil_war_choice_tt:0 "Schaltet die §YOption§! frei, sich dem Militärputsch mit einem §RBürgerkrieg§! zu widersetzen."
+r56_PAR_coup_called_off_tt:0 "Der Militärputsch wird §Yverhindert§!"
 
 
 PAR_fascism_party:0 "ANR - Colorado"

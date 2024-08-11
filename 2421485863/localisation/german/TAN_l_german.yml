@@ -35,10 +35,10 @@
  TAN_Soviet_Heavy_Industry:0 "Kommunistische Schwerindustrie"
  TAN_Soviet_Heavy_Industry_desc:0 "Unsere kommunistischen Freunde schlagen einen koordinierten Ausbau unserer Schwerindustrie vor."
  TAN_Automobile:0 "Autoindustrie"
- TAN_Automobile_tt:0 "Erhalten Sie eine kleine Menge [~§H~]Motorisierte Ausrüstung[~§!~] von eingeladenen Unternehmen."
+ TAN_Automobile_tt:0 "Erhalten Sie eine kleine Menge §HMotorisierte Ausrüstung§! von eingeladenen Unternehmen."
  TAN_Automobile_desc:0 "Die einheimischen Automobilhersteller werden derzeit ermutigt, sich mit ihren Kollegen aus dem Ausland abzustimmen."
  TAN_Licences:0 "Kaufen Sie ausländische Lizenzen"
- TAN_Licences_EXPL:0 "Schalten Sie [~§H~]Kauf ausländischer Rüstung[~§!~] Entscheidungen frei."
+ TAN_Licences_EXPL:0 "Schalten Sie §HKauf ausländischer Rüstung§! Entscheidungen frei."
  TAN_Licences_desc:0 "Da wir jetzt in der Lage sind, moderne Ausrüstung zu produzieren, können wir die modernsten Designs von anderen Nationen kaufen. Auch wenn dafür ein gewisser Preis gezahlt werden muss, wird es sich sicher lohnen."
 
  TAN_State_Matter:0 "Fokus auf interne Angelegenheiten"
@@ -80,7 +80,7 @@
  TAN_Anti_Invasion:0 "Festungen schützen die Nation"
  TAN_Anti_Invasion_desc:0 "Die Verteidigung der wichtigsten Industrie- und Forschungszentren ist effektiver, wenn die am meisten gefährdeten Standorte befestigt und ihre Garnison ausgebaut werden kann."
 
- GEN_red_army:0 "Die [[~ROOT.GetAdjective~]] Rote Armee"
+ GEN_red_army:0 "Die [ROOT.GetAdjective] Rote Armee"
  GEN_red_army_desc:0 "Nur die bewaffneten Massen werden in der Lage sein, sich selbst zu befreien"
 
 

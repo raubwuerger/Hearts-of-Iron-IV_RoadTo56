@@ -2,25 +2,25 @@
   ""
  #Decisions ""
  PER_restoring_the_lions_might:0 "Die Macht des Löwen wiederherstellen"
- PER_easier_integration_tt:0 "Alle [~§Y~]Wiederherstellung der Macht des Löwen[~§!~] Entscheidungen werden zu niedrigeren Konditionen verfügbar"
+ PER_easier_integration_tt:0 "Alle §YWiederherstellung der Macht des Löwen§! Entscheidungen werden zu niedrigeren Konditionen verfügbar"
  PER_restoring_the_lions_might_desc:0 "Der persische Löwe hatte sich einst seinen Weg zur Vorherrschaft in ganz Westasien gebahnt, doch unser Ruhm ertrank in den Tiefen des Bürgerkriegs und der Einmischung von außen. Mit einem Iran, der wieder eine starke Führung hat, werden wir einen neuen Weg einschlagen: die Rückkehr auf die Weltbühne!"
 
  PER_rescind_the_azerbaijan_concession:0 "Rücknahme der Konzession für Aserbaidschan"
  PER_rescind_the_azerbaijan_concession_desc:0 "Von unseren vielen historischen Gebietsverlusten war der Fall Aserbaidschans an die Russen vielleicht der vermeidbarste und tragischste von allen. Die Aserbaidschaner im Norden sind genauso Iraner wie die Bewohner unserer nordwestlichen Provinzen, ihre Besetzung wird nicht länger geduldet!"
- PER_rescind_the_azerbaijan_concession_tt:0 "Schaltet die Entscheidung frei: [~§Y~]Aserbaidschan reintegrieren[~§!~]"
+ PER_rescind_the_azerbaijan_concession_tt:0 "Schaltet die Entscheidung frei: §YAserbaidschan reintegrieren§!"
  PER_reintegrate_azerbaijan:0 "Aserbaidschan reintegrieren"
 
  PER_claim_iraqi_kurdistan:0 "Anspruch auf Irakisch-Kurdistan"
  PER_claim_iraqi_kurdistan_desc:0 "Kurdische Rebellengruppen im gesamten Nordirak haben jahrzehntelang für die Abspaltung ihres eigenen Staates von den irakischen Gebieten gekämpft und sind dabei immer wieder gescheitert. Das kurdische Volk ist unser Bruder, ein Erbe der imperialen Höhen Persiens. Die Kurden werden durch die Integration in den neuen Iran die Befreiung finden, nach der sie sich gesehnt haben!"
- PER_claim_iraqi_kurdistan1_tt:0 "Schaltet die Entscheidung frei: [~§Y~]Reintegration des östlichen Tigris-Deltas[~§!~]"
- PER_claim_iraqi_kurdistan2_tt:0 "Schaltet die Entscheidung frei: [~§Y~]Reintegration von Mosul[~§!~]"
+ PER_claim_iraqi_kurdistan1_tt:0 "Schaltet die Entscheidung frei: §YReintegration des östlichen Tigris-Deltas§!"
+ PER_claim_iraqi_kurdistan2_tt:0 "Schaltet die Entscheidung frei: §YReintegration von Mosul§!"
  PER_integrate_the_eastern_tigris_delta:0 "Integrieren Sie das östliche Tigris-Delta"
  PER_reintegrate_mosul:0 "Mosul reintegrieren"
 
  PER_claim_the_anatolian_far_east:0 "Beanspruche den anatolischen Fernen Osten"
  PER_claim_the_anatolian_far_east_desc:0 "Kurdische Rebellengruppen in ganz Anatolien haben sich im Namen eines kurdischen Staates durch die Hölle gekämpft, aber trotz allem haben ihre Bemühungen nichts gebracht. Die Kurden werden durch die Integration in den neuen Iran die Befreiung finden, nach der sie sich gesehnt haben!"
- PER_claim_the_anatolian_far_east1_tt:0 "Schaltet die Entscheidung frei: [~§Y~]Wiedereingliederung von Van[~§!~]"
- PER_claim_the_anatolian_far_east2_tt:0 "Schaltet die Entscheidung frei: [~§Y~]Hakkari reintegrieren[~§!~]"
+ PER_claim_the_anatolian_far_east1_tt:0 "Schaltet die Entscheidung frei: §YWiedereingliederung von Van§!"
+ PER_claim_the_anatolian_far_east2_tt:0 "Schaltet die Entscheidung frei: §YHakkari reintegrieren§!"
  PER_reintegrate_hakkari:0 "Hakkari reintegrieren"
  PER_reintegrate_van:0 "Van reintegrieren"
   ""
@@ -36,7 +36,7 @@
  PER_reza_shah_modernizer_new:0 "Oberflächlicher Modernisierer"
  PER_shah_of_iran_trait:0 "Schah von Iran"
  PER_reza_shah_cavalry_officer:0 "Veteran Kosakenoffizier"
- PER_reza_shah_cav_officer_tt:0 "  - Alle militärischen Mitarbeiter Kosten: [~§G~]-15%[~§!~]"
+ PER_reza_shah_cav_officer_tt:0 "  - Alle militärischen Mitarbeiter Kosten: §G-15%§!"
 
  ### SHIP NAMES ""
 
@@ -156,7 +156,7 @@
  PER_reaffirm_friendship_with_turkey:0 "Die Freundschaft mit der Türkei bekräftigen"
  PER_reaffirm_friendship_with_turkey_desc:0 "Angesichts des ähnlichen Hintergrunds unserer Länder und der fortschreitenden Türkisierung und Persisierung der Minderheiten sehen wir unsere gemeinsamen Ziele in der Schaffung eines starken und geeinten Landes im Nahen Osten. Zahlreiche diplomatische Besuche haben die freundschaftlichen Beziehungen zwischen unserer und der türkischen Regierung wiederhergestellt.  "
  PER_between_giants:0 "Zwischen Giganten"
- PER_between_giants_desc:0 "Unser großer und doch zerbrechlicher Staat liegt am Scheideweg der Welt: Mit [[~SOV.GetAdjective~]]s im Norden und [[~ENG.GetAdjective~]] im Süden sind wir von Großmächten umgeben, die die Politik unseres Landes und die Stabilität des Regimes eifrig beobachten. Vielleicht können wir unsere besondere Position zu unserem Vorteil nutzen?"
+ PER_between_giants_desc:0 "Unser großer und doch zerbrechlicher Staat liegt am Scheideweg der Welt: Mit [SOV.GetAdjective]s im Norden und [ENG.GetAdjective] im Süden sind wir von Großmächten umgeben, die die Politik unseres Landes und die Stabilität des Regimes eifrig beobachten. Vielleicht können wir unsere besondere Position zu unserem Vorteil nutzen?"
  PER_forced_secularization:0 "Erzwungene Säkularisierung"
  PER_forced_secularization_desc:0 "Der erste Schritt des Übergangs von der veralteten mittelalterlichen zur modernen Industriegesellschaft ist eine klare und sichtbare Trennung von Kirche und Staatsapparat. Der Islam ist tief verwurzelt und kulturell mit unserem Volk verbunden, doch wenn wir erfolgreich auf der Weltbühne auftreten wollen, müssen wir uns seinen Anforderungen anpassen, egal was es kostet und welche Opfer wir bringen."
  PER_trial_of_the_fifty_three:0 "Der Prozess der Dreiundfünfzig"
@@ -173,7 +173,7 @@
 
  ###Democratic## ""
  PER_restore_constitutionalism:0 "Wiederherstellung des Konstitutionalismus"
- PER_restore_constitutionalism_desc:0 "Der Absolutismus hat nur zu weit verbreiteter Korruption in der gesamten Verwaltung und zu einer tiefen Spaltung der Gesellschaft geführt. Die Macht muss an das Volk zurückgegeben werden, wenn [[~ROOT.GetNonIdeologyName~]] wirkliche Fortschritte machen soll."
+ PER_restore_constitutionalism_desc:0 "Der Absolutismus hat nur zu weit verbreiteter Korruption in der gesamten Verwaltung und zu einer tiefen Spaltung der Gesellschaft geführt. Die Macht muss an das Volk zurückgegeben werden, wenn [ROOT.GetNonIdeologyName] wirkliche Fortschritte machen soll."
  PER_prime_minister_foroughi:0 "Premierminister Foroughi"
  PER_prime_minister_foroughi_desc:0 "Die säkulare progressive Partei der Wiedergeburt des Iran, auch bekannt als Hezb-e Tajaddod, wird die neue Koalitionsregierung bilden, und einer ihrer Veteranen, Mohammad-Ali Foroughi, wird in der Übergangszeit das Amt des Premierministers übernehmen."
  PER_declare_the_shah_a_traitor:0 "Erklären Sie den Schah zum Verräter"
@@ -289,7 +289,7 @@
  PER_manufacture_planes:0 "Flugzeuge herstellen"
  PER_manufacture_planes_desc:0 "Unsere Luftwaffe ist stark von der Einfuhr ausländischer Flugzeugmodelle abhängig. Diese Maschinen können jedoch erfolgreich im eigenen Land hergestellt werden, wodurch die heimische Wirtschaft gestärkt und lokale Hersteller gefördert werden."
  PER_increase_research_funds:0 "Forschungsgelder erhöhen"
- PER_increase_research_funds_desc:0 "[[~PER.GetAdjective~]] Wissenschaftler und Intellektuelle verdienen viel mehr als die derzeitigen Haushaltsreste. Eine Erhöhung der Bildungs- und Forschungsausgaben wird unsere technologische Entwicklung erheblich verbessern. "
+ PER_increase_research_funds_desc:0 "[PER.GetAdjective] Wissenschaftler und Intellektuelle verdienen viel mehr als die derzeitigen Haushaltsreste. Eine Erhöhung der Bildungs- und Forschungsausgaben wird unsere technologische Entwicklung erheblich verbessern. "
 
  PER_taslihat_e_artesh:0 "Taslihat-e Artesh"
 
@@ -300,12 +300,12 @@
 
  #events ""
  r56_persia.1.t:0 "Tod des Schahs"
- r56_persia.1.desc:0 "Reza Schah Pahlavi, der Vertreter der Pahlavi-Monarchie, ist eines natürlichen Todes gestorben. Während sein Sohn seinen Platz als Repräsentant der Monarchie einnimmt, blickt [[~ROOT.GetNameDef~]] auf seine modernisierende Herrschaft zurück."
+ r56_persia.1.desc:0 "Reza Schah Pahlavi, der Vertreter der Pahlavi-Monarchie, ist eines natürlichen Todes gestorben. Während sein Sohn seinen Platz als Repräsentant der Monarchie einnimmt, blickt [ROOT.GetNameDef] auf seine modernisierende Herrschaft zurück."
  r56_persia.1.a:0 "Bedauernd"
 
  ### MISC ""
  PER_propaganda_campaigns:0 "Anti-Kommunistische Propaganda"
- PER_coalition_with_other_party:0 "Koalition mit der [[~PER.GetFascistParty~]]"
+ PER_coalition_with_other_party:0 "Koalition mit der [PER.GetFascistParty]"
  PER_improve_police_training:0 "Verbessern Sie die Polizeiausbildung"
- PER_anti_communist_crackdown:0 "Anti-Kommunistisches Durchgreifen in [[~FROM.GetName~]]"
+ PER_anti_communist_crackdown:0 "Anti-Kommunistisches Durchgreifen in [FROM.GetName]"
  PER_cracking_down:0 "Organisiert derzeit eine antikommunistische Razzia"

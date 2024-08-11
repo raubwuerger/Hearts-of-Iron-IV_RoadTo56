@@ -1,56 +1,56 @@
 ﻿l_german:
  ####################### TOOLTIPS ################ ""
- prc_sov_supply_tt:0 "Ist der Nachbar von einem der folgenden:[~\n~] [~§Y~]Sowjetunion[~§!~][~\n~] Fraktionsmitglied von [~§Y~]Sowjetunion[~§!~][~\n~] Kommunist [~§Y~]Sinkiang[~§!~] mit positiver Meinung gegenüber [~§Y~]Sowjetunion[~§!~]."
+ prc_sov_supply_tt:0 "Ist der Nachbar von einem der folgenden:\n §YSowjetunion§!\n Fraktionsmitglied von §YSowjetunion§!\n Kommunist §YSinkiang§! mit positiver Meinung gegenüber §YSowjetunion§!."
 
- prc_sov_supply_eff_tt:0 "[~§Y~]Sowjetische Verstärkungen und Vorräte werden in wenigen Tagen in Yan'an eintreffen[~§!~]."
+ prc_sov_supply_eff_tt:0 "§YSowjetische Verstärkungen und Vorräte werden in wenigen Tagen in Yan'an eintreffen§!."
 
- prc_long_march_tt:0 "[~§Y~]Wir werden uns früher von dem Langen Marsch erholen[~§!~][~[~\n~][~\n~]~]"
+ prc_long_march_tt:0 "§YWir werden uns früher von dem Langen Marsch erholen§![~\n\n~]"
 
- prc_west_expedition_tt:0 "Drei für die Expedition bestimmte Divisionen werden sich in Yan'an versammeln.[~[~\n~][~\n~]~]"
+ prc_west_expedition_tt:0 "Drei für die Expedition bestimmte Divisionen werden sich in Yan'an versammeln.[~\n\n~]"
 
- prc_east_expedition_tt:0 "Zwei für diese Operation vorgesehene Divisionen versammeln sich in Yan'an.[~[~\n~][~\n~]~]"
+ prc_east_expedition_tt:0 "Zwei für diese Operation vorgesehene Divisionen versammeln sich in Yan'an.[~\n\n~]"
 
- prc_front_infras_tt:0 "Fügen Sie 2 [~§Y~]Infrastrukturen[~§!~] in allen eigenen Staaten hinzu, die an [~§Y~]Japan[~§!~] und seine Marionetten grenzen."
+ prc_front_infras_tt:0 "Fügen Sie 2 §YInfrastrukturen§! in allen eigenen Staaten hinzu, die an §YJapan§! und seine Marionetten grenzen."
 
  prc_root_out_defeatism_tt:0 "Die Japaner sind vom Festland verjagt worden."
 
- prc_set_government_rank:0 "Ändern Sie den Namen des Landes in [~§Y~]Volksrepublik China[~§!~].[~\n~]"
+ prc_set_government_rank:0 "Ändern Sie den Namen des Landes in §YVolksrepublik China§!.\n"
 
  prc_eliminate_iliteracy_tt:0 "Wir werden nach und nach mehr qualifiziertes Personal erhalten."
 
- PRC_zxl_will_become_leader_if_agree:0 "[~§Y~]Zhang Xueliang wird der Führer der Großen Nordwestlichen Union werden, nachdem der entsprechende Fokus abgeschlossen ist.[~\n~][~§!~]"
+ PRC_zxl_will_become_leader_if_agree:0 "§YZhang Xueliang wird der Führer der Großen Nordwestlichen Union werden, nachdem der entsprechende Fokus abgeschlossen ist.\n§!"
 
- prc_preserve:0 "Aktiviert [~§H~]Selbsterhaltung[~§!~][~\n~]Alle Infanterie : [~\n~] Trickleback : [~§G~]+0.2%[~§!~][~\n~] Erfahrungsverlust : [~§G~]-1.0%[~§!~]"
+ prc_preserve:0 "Aktiviert §HSelbsterhaltung§!\nAlle Infanterie : \n Trickleback : §G+0.2%§!\n Erfahrungsverlust : §G-1.0%§!"
 
- PRC_mountain_training_tt:0 "Aktiviert [~§H~]Gebirgskrieg[~§!~][~\n~]Alle Infanterie : [~\n~] [~§H~]Gebirge[~§!~][~\n~] Bewegung: [~§G~]+10%[~§!~][~\n~] [~§H~]Hügel[~§!~][~\n~] Bewegung: [~§G~]+10%[~§!~][~[~\n~][~\n~]~][~§H~]Marines[~\n~] Mountain[~§!~][~\n~] Attack: [~§G~]+5%[~§!~][~\n~] [~§H~]Hügel[~§!~][~\n~] Attacke: [~§G~]+5%[~§!~][~\n~] [~\n~][~§H~]Bergsteiger[~\n~] Berg[~§!~][~\n~] Angriff: [~§G~]+5%[~§!~][~\n~] [~§H~]Hügel[~§!~][~\n~] Attacke: [~§G~]+5%[~§!~][~\n~] [~\n~][~§H~]Fallschirmjäger[~\n~] Berge[~§!~][~\n~] Angriff: [~§G~]+5%[~§!~][~\n~] [~§H~]Hügel[~§!~][~\n~] Attacke: [~§G~]+5%[~§!~][~[~\n~][~\n~]Gewinnen Sie 2 Elite-Bergsteiger-Divisionen.[~\n~]"
+ PRC_mountain_training_tt:0 "Aktiviert §HGebirgskrieg§!\nAlle Infanterie : \n §HGebirge§!\n Bewegung: §G+10%§!\n §HHügel§!\n Bewegung: §G+10%§![~\n\n~]§HMarines\n Mountain§!\n Attack: §G+5%§!\n §HHügel§!\n Attacke: §G+5%§!\n \n§HBergsteiger\n Berg§!\n Angriff: §G+5%§!\n §HHügel§!\n Attacke: §G+5%§!\n \n§HFallschirmjäger\n Berge§!\n Angriff: §G+5%§!\n §HHügel§!\n Attacke: §G+5%§![~\n\nGewinnen Sie 2 Elite-Bergsteiger-Divisionen.\n"
 
- PRC_yhc_join:0 "[~§Y~]Yang Hucheng[~§!~] wird unserer Armee beitreten[~\n~]"
+ PRC_yhc_join:0 "§YYang Hucheng§! wird unserer Armee beitreten\n"
 
- PRC_resore_dbj_glory_tt:0 "Besitze und kontrolliere die folgenden Staaten:[~\n~] [~§Y~]Jehol[~§!~][~\n~] [~§Y~]Liaotung[~§!~][~\n~] [~§Y~]Kirin[~§!~][~\n~] [~§Y~]Liaoning[~§!~][~\n~]"
+ PRC_resore_dbj_glory_tt:0 "Besitze und kontrolliere die folgenden Staaten:\n §YJehol§!\n §YLiaotung§!\n §YKirin§!\n §YLiaoning§!\n"
 
- PRC_create_wargoal_for_db_tt:0 "Erreiche ein Kriegsziel gegen den Besitzer oder Oberherrn des Besitzers der folgenden Staaten:[~\n~] [~§Y~]Liaotung[~§!~][~\n~] [~§Y~]Liaoning[~§!~][~\n~] [~§Y~]Jehol[~§!~][~\n~] [~§Y~]Kirin[~§!~][~\n~] [~§Y~]Sungkiang[~§! ~][~\n~] [~§Y~]Ost Hulunbuir[~§!~][~\n~] [~§Y~]Nord Xing'an[~§!~][~\n~] [~§Y~]Ost Xing'an[~§! ~][~\n~] [~§Y~]Kanto-shu[~§!~][~\n~] [~§Y~]Ost Hebei[~§!~][~\n~] [~§Y~]Cahar[~§!~][~\n~] [~§Y~]Süd Cahar[~§!~][~\n~]"
+ PRC_create_wargoal_for_db_tt:0 "Erreiche ein Kriegsziel gegen den Besitzer oder Oberherrn des Besitzers der folgenden Staaten:\n §YLiaotung§!\n §YLiaoning§!\n §YJehol§!\n §YKirin§!\n §YSungkiang[~§! ~]\n §YOst Hulunbuir§!\n §YNord Xing'an§!\n §YOst Xing'an[~§! ~]\n §YKanto-shu§!\n §YOst Hebei§!\n §YCahar§!\n §YSüd Cahar§!\n"
 
- PRC_xbj_join_tt:0 "Gewinnen Sie 3 Divisionen[~\n~]"
+ PRC_xbj_join_tt:0 "Gewinnen Sie 3 Divisionen\n"
 
- PRC_turn_fascist_when_select_tt:0 "Mao und einige der Kommunisten werden hingerichtet, wenn der Fokus gewählt wird[~\n~][~§R~]Die Wahl dieses Fokus führt auch dazu, dass die faschistische Partei zur Regierungspartei wird[~§!~][~[~\n~][~\n~]~]"
+ PRC_turn_fascist_when_select_tt:0 "Mao und einige der Kommunisten werden hingerichtet, wenn der Fokus gewählt wird\n§RDie Wahl dieses Fokus führt auch dazu, dass die faschistische Partei zur Regierungspartei wird§![~\n\n~]"
 
- PRC_same_ideology_with_jap:0 "Hat die gleiche Ideologie wie [[~JAP.GetName~]]"
+ PRC_same_ideology_with_jap:0 "Hat die gleiche Ideologie wie [JAP.GetName]"
 
- PRC_get_wargoal_for_fareast_tt:0 "Gewinnt Kriegsziel für Besitzer oder Oberherrn von Besitzer der folgenden Staaten :[~\n~] [~§Y~]Wladiwostok[~§!~][~\n~] [~§Y~]Chabarowsk[~§! ~][~\n~] [~§Y~]Birobidzhan[~§!~][~\n~] [~§Y~]Nikolayevsk[~§!~][~\n~] [~§Y~]Amur[~§!~][~\n~] [~§Y~]North Sakhalin[~§!~][~\n~]"
+ PRC_get_wargoal_for_fareast_tt:0 "Gewinnt Kriegsziel für Besitzer oder Oberherrn von Besitzer der folgenden Staaten :\n §YWladiwostok§!\n §YChabarowsk[~§! ~]\n §YBirobidzhan§!\n §YNikolayevsk§!\n §YAmur§!\n §YNorth Sakhalin§!\n"
 
- PRC_if_completed_pact_focus_tt:0 "[~\n~]Wenn der Fokus [~§Y~]Ein Pakt mit Japan[~§!~] abgeschlossen ist, wird der Effekt wie folgt:[~[~\n~][~\n~]~]"
+ PRC_if_completed_pact_focus_tt:0 "\nWenn der Fokus §YEin Pakt mit Japan§! abgeschlossen ist, wird der Effekt wie folgt:[~\n\n~]"
 
- PRC_if_completed_pact_focus_add_tt:0 "[~\n~]Wenn der Fokus [~§Y~]Ein Pakt mit Japan[~§!~] abgeschlossen wurde, gewährt dieser Fokus keinen nationalen Geist[~[~\n~][~\n~]~.]"
+ PRC_if_completed_pact_focus_add_tt:0 "\nWenn der Fokus §YEin Pakt mit Japan§! abgeschlossen wurde, gewährt dieser Fokus keinen nationalen Geist[~\n\n~.]"
 
- PRC_feng_clique_generals_join_tt:0 "[~§Y~]Ma Zhanshan[~§!~], [~§Y~]He Zhuguo[~§!~], [~§Y~]Yu Xuezhong[~§!~] und [~§Y~]Zhang Zuoxiang[~§!~] werden sich unserer Armee anschließen.[~[~\n~][~\n~]~]"
+ PRC_feng_clique_generals_join_tt:0 "§YMa Zhanshan§!, §YHe Zhuguo§!, §YYu Xuezhong§! und §YZhang Zuoxiang§! werden sich unserer Armee anschließen.[~\n\n~]"
 
- chi_accept_prc71_no_tt:0 "[[~CHI.GetName~]] hat unseren Vorschlag nicht angenommen"
+ chi_accept_prc71_no_tt:0 "[CHI.GetName] hat unseren Vorschlag nicht angenommen"
 
- PRC_flag_replacement_tt:0 "Kontrolliert die folgenden Staaten :[~\n~] [~§Y~]Jehol[~§!~][~\n~] [~§Y~]Liaotung[~§!~][~\n~] [~§Y~]Kirin[~§!~][~\n~] [~§Y~]Liaoning[~§!~][~\n~]"
+ PRC_flag_replacement_tt:0 "Kontrolliert die folgenden Staaten :\n §YJehol§!\n §YLiaotung§!\n §YKirin§!\n §YLiaoning§!\n"
 
- has_pact_with_jap_tt:0 "Hat Pakt mit [[~JAP.GetName~]]"
+ has_pact_with_jap_tt:0 "Hat Pakt mit [JAP.GetName]"
 
- prc_msp_tt:0 "Senkt die Strafe von [~§Y~]Mangel an Fachkräften[~§!~][~\n~]."
+ prc_msp_tt:0 "Senkt die Strafe von §YMangel an Fachkräften§!\n."
 
  prc_more_trade_deals_tt:0 "Der Handel ist jetzt bequemer"
 
@@ -58,13 +58,13 @@
 
  prc_more_trade_deals_and_construct_tt:0 "Unsere Industrie und unser Handel werden ein wenig stärker werden."
 
- prc_1_tt:0 "3 Infanteriedivisionen und 1 Panzerbrigade werden in Yan'an eintreffen.[~[~\n~][~\n~]~]"
+ prc_1_tt:0 "3 Infanteriedivisionen und 1 Panzerbrigade werden in Yan'an eintreffen.[~\n\n~]"
 
- prc_no_generals_transfer:0 "[~§R~]Die derzeitigen Generäle werden die Kommunisten nicht dulden und unser Militär verlassen.[~§!~]"
+ prc_no_generals_transfer:0 "§RDie derzeitigen Generäle werden die Kommunisten nicht dulden und unser Militär verlassen.§!"
 
- prc_sov_reinforcements:0 "Erhalten Sie 8 Divisionen von [[~SOV.GetName~]]"
+ prc_sov_reinforcements:0 "Erhalten Sie 8 Divisionen von [SOV.GetName]"
 
- PRC_dongbei_partisans_tt:0 "Werden Sie Kontrolleur aller Staaten im Besitz von [[~CHI.GetName~]] in der Mandschurei."
+ PRC_dongbei_partisans_tt:0 "Werden Sie Kontrolleur aller Staaten im Besitz von [CHI.GetName] in der Mandschurei."
 
  west_expedition_failed_msg:0 "Die Westexpedition der PRC ist gescheitert und die Operation wurde beendet."
 
@@ -72,33 +72,33 @@
 
  PRC_restart_CHI_war:0 "Entweder die VR China oder die Republik China haben sich gegenseitig den Krieg erklärt."
 
- PRC_no_wargoal_to_chi_when_ok_tt:0 "[~§R~]Wird kein Kriegsziel gegen [[~CHI.GetName~]] mit dem Fokus [~§Y~]Enforce Our Goal[~§!~] erreichen."
+ PRC_no_wargoal_to_chi_when_ok_tt:0 "§RWird kein Kriegsziel gegen [CHI.GetName] mit dem Fokus §YEnforce Our Goal§! erreichen."
 
- PRC_random_amount_of_partisan_tt:0 "[~§Y~]2 - 6 Guerillaeinheiten werden unsere Bestechung annehmen und sich unserer Armee anschließen[~§!~][~\n~]"
+ PRC_random_amount_of_partisan_tt:0 "§Y2 - 6 Guerillaeinheiten werden unsere Bestechung annehmen und sich unserer Armee anschließen§!\n"
 
- PRC_wait_for_civil_war_tt:0 "Dieses Ereignis wird erneut ausgelöst, wenn das Ereignis "Japanischer Bürgerkrieg" ausgelöst wird[~\n~]."
+ PRC_wait_for_civil_war_tt:0 "Dieses Ereignis wird erneut ausgelöst, wenn das Ereignis "Japanischer Bürgerkrieg" ausgelöst wird\n."
 
- PRC_takeover_dongbei_tt:0 "[[~PRC.GetName~]] übernimmt Staaten in der Mandschurei, die im Besitz von [[~JAP.GetName~]] oder ihren Marionetten sind.[~\n~]"
+ PRC_takeover_dongbei_tt:0 "[PRC.GetName] übernimmt Staaten in der Mandschurei, die im Besitz von [JAP.GetName] oder ihren Marionetten sind.\n"
 
- KMT_commie_generals_join_tt:0 "[~§Y~]Lin Biao[~§!~], [~§Y~]Zhu De[~§!~], [~§Y~]Chen Yi[~§!~] und [~§Y~]Peng Dehuai[~§!~] treten unserer Armee bei."
+ KMT_commie_generals_join_tt:0 "§YLin Biao§!, §YZhu De§!, §YChen Yi§! und §YPeng Dehuai§! treten unserer Armee bei."
 
- KMT_hundred_flowers_tt:0 "Dies ist ein Komplott, um die Übeltäter zu entlarven, aber ihre Kritik [~§R~]könnte den Willen unseres Volkes[~§!~] beeinflussen, da sie sich mehr zu anderen Parteien hingezogen fühlen können [~§G~]bevor wir diese Übeltäter verhaften[~§!~]."
+ KMT_hundred_flowers_tt:0 "Dies ist ein Komplott, um die Übeltäter zu entlarven, aber ihre Kritik §Rkönnte den Willen unseres Volkes§! beeinflussen, da sie sich mehr zu anderen Parteien hingezogen fühlen können §Gbevor wir diese Übeltäter verhaften§!."
 
- PRC_great_leap_timespan:0 "Der [~§Y~]Große Sprung nach vorn[~§!~] soll [~§G~]mehrere[~§!~] Jahre dauern, doch könnte er nach [~§R~]einem Jahr[~§!~] abgebrochen werden, sollte er für unsere Wirtschaft katastrophal sein..."
+ PRC_great_leap_timespan:0 "Der §YGroße Sprung nach vorn§! soll §Gmehrere§! Jahre dauern, doch könnte er nach §Reinem Jahr§! abgebrochen werden, sollte er für unsere Wirtschaft katastrophal sein..."
 
- KMT_leap_stop:0 "Die Politik des [~§Y~]Großen Sprungs nach vorn[~§!~] ist zu Ende gegangen."
+ KMT_leap_stop:0 "Die Politik des §YGroßen Sprungs nach vorn§! ist zu Ende gegangen."
 
 
 
 
  ############## DECISIONS ################## ""
  PRC_solidifying_our_revolution:0 "Festigung unserer Revolution"
- PRC_solidifying_our_revolution_desc:0 "[[~PRC.getNameDefCap~]] hatte in den letzten Jahren mit vielen Kämpfen zu kämpfen. Die verräterische Kuomintang hatte 1935 versucht, jede Art von sozialistischer Opposition zu vernichten, was unsere einst populäre Bewegung unter den Bauern dazu zwang, sich zu zerstreuen und über die ländlichen Gebiete der Zentralebene zu verstreuen. Es wird sicherlich Zeit und Mühe kosten, wieder zu Kräften zu kommen, aber wir werden als Siegermacht aus diesem Kampf hervorgehen!"
+ PRC_solidifying_our_revolution_desc:0 "[PRC.getNameDefCap] hatte in den letzten Jahren mit vielen Kämpfen zu kämpfen. Die verräterische Kuomintang hatte 1935 versucht, jede Art von sozialistischer Opposition zu vernichten, was unsere einst populäre Bewegung unter den Bauern dazu zwang, sich zu zerstreuen und über die ländlichen Gebiete der Zentralebene zu verstreuen. Es wird sicherlich Zeit und Mühe kosten, wieder zu Kräften zu kommen, aber wir werden als Siegermacht aus diesem Kampf hervorgehen!"
  PRC_question_of_our_capital_decision:0 "Klärt die Frage des Kapitals"
- PRC_question_of_our_capital_decision_desc:0 "Die Volksrevolution wird noch mehr Unterstützung unter den Arbeitern und Bauern gewinnen, wenn wir offiziell die Gründung der [[~PRC.getNameDef~]] in unserer neu gewonnenen Hauptstadt verkünden."
+ PRC_question_of_our_capital_decision_desc:0 "Die Volksrevolution wird noch mehr Unterstützung unter den Arbeitern und Bauern gewinnen, wenn wir offiziell die Gründung der [PRC.getNameDef] in unserer neu gewonnenen Hauptstadt verkünden."
 
  PRC_the_new_communist_beacon:0 "Das neue kommunistische Leuchtfeuer"
- PRC_the_new_communist_beacon_desc:0 "Der revolutionäre Kampf wird niemals enden, solange Unterdrücker, Kolonisatoren, Imperialisten und Feinde des Volkes existieren! [Mit ein paar schnellen Schlägen können wir regierungsfeindliche Zellen außerhalb und innerhalb von [[~ROOT.getNameDef~]] zerstören.] [Die Zeit ist gekommen, dass Da Zhonghua Diqu sich erhebt und gedeiht!"
+ PRC_the_new_communist_beacon_desc:0 "Der revolutionäre Kampf wird niemals enden, solange Unterdrücker, Kolonisatoren, Imperialisten und Feinde des Volkes existieren! [Mit ein paar schnellen Schlägen können wir regierungsfeindliche Zellen außerhalb und innerhalb von [ROOT.getNameDef] zerstören.] [Die Zeit ist gekommen, dass Da Zhonghua Diqu sich erhebt und gedeiht!"
  PRC_hundred_flowers_campaign_progress:0 "Fortschritt der Hundert-Blumen-Kampagne"
 
  PRC_offer_a_separate_peace_to_japan:0 "Biete Japan einen separaten Frieden an"
@@ -108,7 +108,7 @@
  PRC_sov_approve:0 "Sowjets haben unseren Vorschlag angenommen"
  lin_biao:0 "Lin Biao hat die Macht an sich gerissen"
  deng_xiao_ping:0 "Deng Xiaoping hat die Macht an sich gerissen"
- prc_capital_decided:0 "[~§Y~]Die Frage des Kapitals[~§!~] wurde beschlossen."
+ prc_capital_decided:0 "§YDie Frage des Kapitals§! wurde beschlossen."
  CR_ended:0 "Die Kulturrevolution ist beendet"
  death_of_zel:0 "Zhou Enlai ist verstorben"
  month_countercurrent:0 "Wurde während der Kulturrevolution kritisiert"
@@ -116,7 +116,7 @@
  PRC_enable_cdx:0 "Chen Duxiu ist zurückgekehrt"
  PRC_no_wargoal_to_chi_with_gnwu:0 "Hat das Anti-Chiang-Ziel aufgegeben"
  PRC_yhc_enable:0 "Eingegliedert"
- chi_accept_prc71_tt:0 "[[~CHI.GetNameDefCap~]] hat unseren Vorschlag angenommen"
+ chi_accept_prc71_tt:0 "[CHI.GetNameDefCap] hat unseren Vorschlag angenommen"
  no_rescue_zhang:0 "Rettet Zhang Xueliang nicht"
  xian_incident_started:0 "Xi'an Zwischenfall hat begonnen"
  cdx_returned:0 "Chen Duxiu ist zurückgekehrt"
@@ -147,7 +147,7 @@
  PRC_devastating_long_march_1_desc:0 "Wir sind nun wieder auf dem richtigen Weg, die Auswirkungen des Langen Marsches werden bald abgemildert sein."
 
  PRC_guerilla_warfare:0 "Guerilla-Kriegsführung"
- PRC_guerilla_warfare_desc:0 "Wir sind nicht einmal annähernd als "Nation" oder "Land" zu bezeichnen, unsere Bewegung ist lediglich eine Art Guerillakämpfer gegen die Kuomintang. [~\n~]"
+ PRC_guerilla_warfare_desc:0 "Wir sind nicht einmal annähernd als "Nation" oder "Land" zu bezeichnen, unsere Bewegung ist lediglich eine Art Guerillakämpfer gegen die Kuomintang. \n"
 
  PRC_lack_skilled_personnel:0 "Mangel an qualifiziertem Personal"
  PRC_lack_skilled_personnel_desc:0 "Viele unserer Kameraden sind während des Langen Marsches gestorben, was zu einem Mangel an qualifiziertem Personal in unseren Reihen geführt hat. Dies wird es uns erschweren, technologische Fortschritte zu erzielen."
@@ -191,10 +191,10 @@
  PRC_maybe_theory_is_ok_desc:0 "Die neu angenommene Doktrin hat sich als erfolgreich erwiesen, unsere Armee hat sich vollständig an den neuen Kampfstil gewöhnt. Wenn der Krieg nicht zu Ihren Gunsten verläuft, könnte Ihre Armee ihr Vertrauen in die Doktrin verlieren."
 
  PRC_enemy_partisan:0 "Feindliche Partisanen hinter unserer Frontlinie"
- PRC_enemy_partisan_desc:0 "Die Partisanen unseres Feindes haben sich tief hinter unserer Frontlinie festgesetzt und verursachen Schäden an den Nachschubwegen und verlangsamen unsere Truppen.[~§!~][~\n~][~\n~]Dieser Nationalgeist wird erlöschen, wenn der Krieg mit der VR China vorbei ist.[~§!~][~[~\n~][~\n~]~][~§R~]Periodische Gebäudeschäden in den von uns kontrollierten chinesischen Kernstaaten[~§!~]"
+ PRC_enemy_partisan_desc:0 "Die Partisanen unseres Feindes haben sich tief hinter unserer Frontlinie festgesetzt und verursachen Schäden an den Nachschubwegen und verlangsamen unsere Truppen.§!\n\nDieser Nationalgeist wird erlöschen, wenn der Krieg mit der VR China vorbei ist.§![~\n\n~]§RPeriodische Gebäudeschäden in den von uns kontrollierten chinesischen Kernstaaten§!"
 
  PRC_exploit_our_enemys_mistake_idea:0 "Den Fehler unseres Gegners ausnutzen"
- PRC_exploit_our_enemys_mistake_idea_desc:0 "Die gegnerische Operation an der Frontlinie ist nicht sehr gut koordiniert, wir können dies zu unserem Vorteil nutzen und es so gut wie möglich ausnutzen.[~[~\n~][~\n~]~][~§R~]Dieser Nationalgeist wird erlöschen, wenn der Krieg mit Japan vorbei ist.[~§!~]"
+ PRC_exploit_our_enemys_mistake_idea_desc:0 "Die gegnerische Operation an der Frontlinie ist nicht sehr gut koordiniert, wir können dies zu unserem Vorteil nutzen und es so gut wie möglich ausnutzen.[~\n\n~]§RDieser Nationalgeist wird erlöschen, wenn der Krieg mit Japan vorbei ist.§!"
 
  improper_frontline_command:0 "Schwachstellen in der Operation an der Front"
  improper_frontline_command_desc:0 "Die Schwachstellen in unserer Operation an der Front werden allmählich sichtbar, und unser Feind beginnt, sie zu seinem Vorteil zu nutzen."
@@ -209,10 +209,10 @@
  PRC_winter_training_idea:0 "Wintertraining"
 
  PRC_revanchism:0 "Revanchismus"
- PRC_revanchism_desc:0 "[~§R~]Erlischt, wenn kein Krieg mit Japan geführt wird[~§!~]"
+ PRC_revanchism_desc:0 "§RErlischt, wenn kein Krieg mit Japan geführt wird§!"
 
  PRC_anti_jap_sentiment:0 "Anti-japanische Gesinnung"
- PRC_anti_jap_sentiment_desc:0 "[~§Y~]Wird verstärkt, wenn im Krieg mit Japan [~§!~]"
+ PRC_anti_jap_sentiment_desc:0 "§YWird verstärkt, wenn im Krieg mit Japan §!"
 
  PRC_expanded_guerillas:0 "Erweiterte Guerilla-Operation"
 
@@ -252,7 +252,7 @@
  PRC_secret_police:0 "Geheimpolizei"
 
  PRC_enemy_partisan_1:0 "Feindliche Partisanen hinter unserer Frontlinie"
- PRC_enemy_partisan_1_desc:0 "Die Partisanen unseres Feindes haben sich tief hinter unserer Frontlinie festgesetzt und verursachen Schäden an den Nachschubwegen und verlangsamen unsere Truppen.[~[~\n~][~\n~]~][~§R~]Dieser Nationalgeist wird erlöschen, wenn der Krieg mit der VR China vorbei ist.[~§!~][~[~\n~][~\n~]~][~§R~]Periodische Gebäudeschäden in den von uns kontrollierten chinesischen Kernstaaten[~§!~]"
+ PRC_enemy_partisan_1_desc:0 "Die Partisanen unseres Feindes haben sich tief hinter unserer Frontlinie festgesetzt und verursachen Schäden an den Nachschubwegen und verlangsamen unsere Truppen.[~\n\n~]§RDieser Nationalgeist wird erlöschen, wenn der Krieg mit der VR China vorbei ist.§![~\n\n~]§RPeriodische Gebäudeschäden in den von uns kontrollierten chinesischen Kernstaaten§!"
 
  KMT_no_aid_famine_comm:0 "Weigern sich, Hilfe zu schicken"
 
@@ -347,12 +347,12 @@
  political_rivalry:0 "Politischer Rivale"
  revisionist_traitor:0 "Revisionistischer Verräter"
  PRC_swcc_1:0 "Besserer Handel"
- PRC_swcc_2:0 "[~\n~]Besserer Handel"
- PRC_swcc_3:0 "[~\n~]Besserer Handel"
- PRC_swcc_4:0 "[~\n~]Besserer Handel"
- PRC_swcc_5:0 "[~\n~]Besserer Handel"
- PRC_swcc_6:0 "[~\n~]Besserer Handel"
- PRC_swcc_7:0 "[~\n~]Besserer Handel"
+ PRC_swcc_2:0 "\nBesserer Handel"
+ PRC_swcc_3:0 "\nBesserer Handel"
+ PRC_swcc_4:0 "\nBesserer Handel"
+ PRC_swcc_5:0 "\nBesserer Handel"
+ PRC_swcc_6:0 "\nBesserer Handel"
+ PRC_swcc_7:0 "\nBesserer Handel"
  no_paycheck:0 "Weigerte sich, den Gehaltsscheck abzuliefern"
  sik_no_coop:0 "Weigerte sich zu kooperieren"
  prc_no_coop:0 "Weigerte sich zu kooperieren"
@@ -505,7 +505,7 @@
  PRC_institution_reorganization_desc:0 "Unser derzeitiges Bildungssystem ist nicht besonders gut, eine Umstrukturierung ist notwendig, wenn wir talentierte Menschen haben wollen."
 
  PRC_cult_of_personality:0 "Kult der Persönlichkeit"
- PRC_cult_of_personality_desc:0 "Jeder Bürger sollte unseren glorreichen Anführer [[~PRC.GetLeader~]] bewundern, und sonst nichts."
+ PRC_cult_of_personality_desc:0 "Jeder Bürger sollte unseren glorreichen Anführer [PRC.GetLeader] bewundern, und sonst nichts."
 
  PRC_eliminate_iliteracy:0 "Beseitigung des Analphabetismus"
  PRC_eliminate_iliteracy_desc:0 "Die Analphabetenrate in unserem Land ist viel zu hoch. Wenn wir weitere Fortschritte machen wollen, müssen wir dieses Problem beseitigen."
@@ -645,7 +645,7 @@
  PRC_study_kmt_equipment:0 "Studium der NRA-Ausrüstung"
  PRC_study_kmt_equipment_desc:0 "Die Ausrüstung der NRA ist zwar nicht von höchster Qualität, aber immer noch besser als die der meisten unserer Streitkräfte. Ihr Studium würde unser Wissen über Kleinwaffen erweitern."
 
- PRC_apologise_to_sov:0 "Wiederherstellung der [[~SOV.GetAdjective~]] Zusammenarbeit"
+ PRC_apologise_to_sov:0 "Wiederherstellung der [SOV.GetAdjective] Zusammenarbeit"
  PRC_apologise_to_sov_desc:0 "Trotz unseres Ungehorsams gegenüber dem sowjetischen Befehl zur Bildung einer neuen Regierung bilden wir nun doch eine Einheitsfront mit der KMT. Die sowjetischen Beamten können sicherlich über dieses kleine "Fehlverhalten" von uns hinwegsehen..."
 
  PRC_pressure_prince_dem:0 "Druck auf die Chahar-Regierung"
@@ -676,7 +676,7 @@
  KMT_great_leap_forawrd_desc:0 "Wir sind weit hinter den Westmächten und den Sowjets zurück. Um den wahren Kommunismus zu erreichen und das Volk zu schützen, müssen wir eine Massenkampagne starten, um den Rückstand in möglichst kurzer Zeit aufzuholen."
 
  PRC_begin_cultural_revolution:0 "Beginn der Kulturrevolution"
- PRC_begin_cultural_revolution_desc:0 "Die jüngsten Regierungswechsel in [[~SOV.getNameDef~]] haben ernsthafte Zweifel an der korrekten Auslegung des Kommunismus aufkommen lassen und daran, in welcher Form er [[~PRC.getNameDef~]] zu seinem gewünschten Wohlstand führen soll. Verschiedene Gruppen haben bereits einen Machtkampf begonnen, um an die Spitze unseres geliebten Vorsitzenden zu gelangen. Nur die Zeit wird zeigen, wohin er unser glorreiches Land führen wird."
+ PRC_begin_cultural_revolution_desc:0 "Die jüngsten Regierungswechsel in [SOV.getNameDef] haben ernsthafte Zweifel an der korrekten Auslegung des Kommunismus aufkommen lassen und daran, in welcher Form er [PRC.getNameDef] zu seinem gewünschten Wohlstand führen soll. Verschiedene Gruppen haben bereits einen Machtkampf begonnen, um an die Spitze unseres geliebten Vorsitzenden zu gelangen. Nur die Zeit wird zeigen, wohin er unser glorreiches Land führen wird."
 
  PRC_mongolia_issue:0 "Mongolei-Problem"
  PRC_mongolia_issue_desc:0 "Die Mongolei ist ein untrennbarer Teil Chinas, sie muss an uns zurückgegeben werden!"
@@ -866,8 +866,8 @@
 
 
  ################################# EVENTS ######################### ""
- prc.1.t:0 "Nachschub von [[~SOV.GetName~]]"
- prc.1.d:0 "Nachdem die Route für den sowjetischen Nachschub geöffnet wurde, sind Ausrüstungen und Freiwillige in Yan'an angekommen und warten auf die Inspektion durch [[~Root.GetLeader~]]."
+ prc.1.t:0 "Nachschub von [SOV.GetName]"
+ prc.1.d:0 "Nachdem die Route für den sowjetischen Nachschub geöffnet wurde, sind Ausrüstungen und Freiwillige in Yan'an angekommen und warten auf die Inspektion durch [Root.GetLeader]."
  prc.1.a:0 "Dies wird einen großen Beitrag zum Krieg gegen die Japaner leisten."
 
  prc.2.t:0 "Kommunistische Armee aufgenommen"
@@ -883,10 +883,10 @@
  prc.4.a:0 "Der Fortschritt wird niemals aufhören!"
 
  prc.5.t:0 "Stalin ist verstorben"
- prc.5.d:0 "Unser glorreicher Führer, Joseph Vissarionovich Stalin, wurde von Karl Marx eingeladen und hat uns gestern verlassen. Ein großer Verlust für das sowjetische Volk.[~[~\n~][~\n~]~]Ein Machtkampf hat begonnen, da mächtige Parteimitglieder um den von Stalin hinterlassenen freien Posten konkurrieren."
+ prc.5.d:0 "Unser glorreicher Führer, Joseph Vissarionovich Stalin, wurde von Karl Marx eingeladen und hat uns gestern verlassen. Ein großer Verlust für das sowjetische Volk.[~\n\n~]Ein Machtkampf hat begonnen, da mächtige Parteimitglieder um den von Stalin hinterlassenen freien Posten konkurrieren."
  prc.5.a:0 "Ein Stern fällt..."
 
- prc.6.t:0 "[[~GetMonat~]] Umriss"
+ prc.6.t:0 "[GetMonat] Umriss"
  prc.6.d:0 "Nachdem unser Großer Vorsitzender Mao das Drama "Hai Rui aus dem Amt entlassen" kritisiert hatte, bildete eine Gruppe von Leuten eine Gruppe, um die Auswirkungen der Aussage so weit wie möglich abzuschwächen, indem sie die Aussage des Großen Vorsitzenden Mao aus einer akademischen Perspektive definierten. Der Große Vorsitzende Mao hatte das Drama zuvor als eine schöne Darstellung des Klassenkonflikts im sozialistischen Staat gelobt. Dieser Rückzieher des Großen Vorsitzenden Mao hat in der Nation Aufsehen erregt, die gesamte Presse hat dieses Ereignis als Schlagzeile und berichtet in großem Umfang darüber."
  prc.6.a:0 "Hoffentlich kommt nichts dabei heraus..."
 
@@ -895,11 +895,11 @@
  prc.7.a:0 "Das sieht nicht gut aus..."
 
  prc.8.t:0 "Tod von Lin Biao"
- prc.8.d:0 "Lin Biao, der handverlesene Erbe des Großen Vorsitzenden Mao, ist bei einem Flugzeugabsturz in Öndörkhaan ums Leben gekommen. Die Dokumente im Flugzeug weisen darauf hin, dass es sich bei den Opfern um Lin und einige seiner Familienangehörigen handelt. Die genaue Ursache des Absturzes ist noch unbekannt.[~[~\n~][~\n~]Lins Verhältnis zum Großen Vorsitzenden Mao hat sich verschlechtert, seit sie unterschiedlicher Meinung über die Abschaffung des Amtes des Nationalen Vorsitzenden waren. Lin soll für einige Attentatsversuche auf den Großen Vorsitzenden Mao verantwortlich sein und ist vermutlich geflohen, weil er befürchtete, das nächste Ziel der Roten Garde zu sein."
+ prc.8.d:0 "Lin Biao, der handverlesene Erbe des Großen Vorsitzenden Mao, ist bei einem Flugzeugabsturz in Öndörkhaan ums Leben gekommen. Die Dokumente im Flugzeug weisen darauf hin, dass es sich bei den Opfern um Lin und einige seiner Familienangehörigen handelt. Die genaue Ursache des Absturzes ist noch unbekannt.[~\n\nLins Verhältnis zum Großen Vorsitzenden Mao hat sich verschlechtert, seit sie unterschiedlicher Meinung über die Abschaffung des Amtes des Nationalen Vorsitzenden waren. Lin soll für einige Attentatsversuche auf den Großen Vorsitzenden Mao verantwortlich sein und ist vermutlich geflohen, weil er befürchtete, das nächste Ziel der Roten Garde zu sein."
  prc.8.a:0 "Das gerät außer Kontrolle!"
 
- prc.10.t:0 "Lin Biao floh nach [[~PRC_linbiao_flee_target.GetName~]]"
- prc.10.d:0 "Lin Biao, der handverlesene Erbe des Großen Vorsitzenden Mao, war nach [[~PRC_linbiao_flee_target.GetName~]] geflohen und per Flugzeug in [[~PRC_linbiao_flee_target.Capital.GetName~]] angekommen. Die Partei und der Große Vorsitzende Mao gaben bekannt, dass Lin geflohen sei, weil er befürchtete, wegen versuchter Ermordung des Großen Vorsitzenden Mao strafrechtlich verfolgt zu werden, und deshalb in [[~PRC_linbiao_flee_target.GetName~]] Asyl gesucht habe. Die Rote Garde hat begonnen, Lin und seine Familienmitglieder, die nicht an der Flucht teilgenommen haben, zu kritisieren, und diese wurden anschließend von der Roten Garde zu Tode geprügelt."
+ prc.10.t:0 "Lin Biao floh nach [PRC_linbiao_flee_target.GetName]"
+ prc.10.d:0 "Lin Biao, der handverlesene Erbe des Großen Vorsitzenden Mao, war nach [PRC_linbiao_flee_target.GetName] geflohen und per Flugzeug in [PRC_linbiao_flee_target.Capital.GetName] angekommen. Die Partei und der Große Vorsitzende Mao gaben bekannt, dass Lin geflohen sei, weil er befürchtete, wegen versuchter Ermordung des Großen Vorsitzenden Mao strafrechtlich verfolgt zu werden, und deshalb in [PRC_linbiao_flee_target.GetName] Asyl gesucht habe. Die Rote Garde hat begonnen, Lin und seine Familienmitglieder, die nicht an der Flucht teilgenommen haben, zu kritisieren, und diese wurden anschließend von der Roten Garde zu Tode geprügelt."
  prc.10.a:0 "Es scheint, als würden Maos engste Vertraute langsam sein wahres Gesicht sehen."
 
  prc.11.t:0 "Tod von Zhou Enlai"
@@ -911,7 +911,7 @@
  prc.12.a:0 "Ein weiterer Verlust an Führungsstärke, das sieht nicht gut aus."
 
  prc.13.t:0 "Viererbande zerschlagen"
- prc.13.d:0 "[[~Root.GetLeader~]] hatte die "Viererbande" verhaftet, die für die meisten Bewegungen in der späteren Phase der "Kulturrevolution" verantwortlich war, einschließlich der Kritik an Konfuzius und Lin Biao. Die Anführerin der Bande, Jiang Qing, die Witwe Maos, erklärte, dass sie nur Maos Willen ausführen würden. Mao hatte jedoch versucht, die Macht der Bande zu unterdrücken, als er noch lebte. Mit dem Verschwinden der "Viererbande" sollte das Chaos, das fast ein Jahrzehnt lang anhielt, seinem Ende entgegengehen."
+ prc.13.d:0 "[Root.GetLeader] hatte die "Viererbande" verhaftet, die für die meisten Bewegungen in der späteren Phase der "Kulturrevolution" verantwortlich war, einschließlich der Kritik an Konfuzius und Lin Biao. Die Anführerin der Bande, Jiang Qing, die Witwe Maos, erklärte, dass sie nur Maos Willen ausführen würden. Mao hatte jedoch versucht, die Macht der Bande zu unterdrücken, als er noch lebte. Mit dem Verschwinden der "Viererbande" sollte das Chaos, das fast ein Jahrzehnt lang anhielt, seinem Ende entgegengehen."
  prc.13.a:0 "Sie hätten schon vor langer Zeit verhaftet und hingerichtet werden müssen!"
 
  prc.14.t:0 "Ausländische Investitionen"
@@ -931,7 +931,7 @@
  prc.22.a:0 "Hoffentlich ist er besser als Hua..."
 
  prc.23.t:0 "Lin Biao ergreift die Macht"
- prc.23.d:0 "Lin Biao, der während der Kulturrevolution nach [[~SOV.GetName~]] geflohen war, ist zurückgekehrt und ergreift die Macht, indem er mit seinen verbliebenen Untergebenen, die das Chaos-Jahrzehnt überlebt haben, einen Putsch startet, Hua Guofeng stürzt und den Sitz des Nationalen Vorsitzenden einnimmt."
+ prc.23.d:0 "Lin Biao, der während der Kulturrevolution nach [SOV.GetName] geflohen war, ist zurückgekehrt und ergreift die Macht, indem er mit seinen verbliebenen Untergebenen, die das Chaos-Jahrzehnt überlebt haben, einen Putsch startet, Hua Guofeng stürzt und den Sitz des Nationalen Vorsitzenden einnimmt."
  prc.23.a:0 "Ein Geist der Vergangenheit!"
 
  prc.24.t:0 "Die West-Expedition"
@@ -943,7 +943,7 @@
  prc.25.d:0 "Der kanadische Kommunist Norman Bethune, auch bekannt als Bai Qiuen, hat Mao gestern besucht. Bai bestand darauf, dass er Feldoperationen für unsere Soldaten durchführen wird, um unseren Krieg gegen die Japaner zu unterstützen."
  prc.25.a:0 "Wir brauchen einen Sanitäter!"
 
- prc.26.t:0 "[[~GetMonat~]] Gegenstrom"
+ prc.26.t:0 "[GetMonat] Gegenstrom"
  prc.26.d:0 "Der Konflikt zwischen einigen hochrangigen Parteimitgliedern und Jiang Qing wird immer deutlicher. Jiang Qings Gruppe hat die älteren Mitglieder als reaktionär dargestellt, was dazu geführt hat, dass einige von ihnen von Mao misstraut werden."
  prc.26.a:0 "Politik ist eine dunkle Angelegenheit."
 
@@ -959,41 +959,41 @@
  prc.29.d:0 "Nie Rong Zhen wurde auf Befehl von Mao zur Arbeit in einer Chemiefabrik in Han Dan degradiert."
  prc.29.a:0 "Politik ist eine dunkle Angelegenheit."
 
- prc.36.t:0 "[[~PRC.GetName~]] Planen die Invasion von [[~SIK.GetName~]]"
- prc.36.d:0 "Unser Informant in [[~PRC.GetName~]] hat bestätigt, dass sie planen, [[~SIK.GetName~]] mit Gewalt einzunehmen."
- prc.36.a:0 "Fordern Sie [[~SIK.GetLeader~]] zur Kooperation auf, um Blutvergießen zu vermeiden."
- prc.36.b:0 "Fordern Sie [[~PRC.GetLeader~]] auf, diese Idee aufzugeben."
+ prc.36.t:0 "[PRC.GetName] Planen die Invasion von [SIK.GetName]"
+ prc.36.d:0 "Unser Informant in [PRC.GetName] hat bestätigt, dass sie planen, [SIK.GetName] mit Gewalt einzunehmen."
+ prc.36.a:0 "Fordern Sie [SIK.GetLeader] zur Kooperation auf, um Blutvergießen zu vermeiden."
+ prc.36.b:0 "Fordern Sie [PRC.GetLeader] auf, diese Idee aufzugeben."
  prc.36.c:0 "Interessant..."
 
- prc.37.t:0 "Herold von [[~SOV.GetName~]]"
- prc.37.d:0 "[[~SOV.GetLeader~]] hat gefordert, dass wir uns [[~PRC.GetName~]] friedlich unterwerfen, um weiteres Blutvergießen zu vermeiden."
+ prc.37.t:0 "Herold von [SOV.GetName]"
+ prc.37.d:0 "[SOV.GetLeader] hat gefordert, dass wir uns [PRC.GetName] friedlich unterwerfen, um weiteres Blutvergießen zu vermeiden."
  prc.37.a:0 "Sie haben recht, es ist zum Wohle unseres Volkes."
  prc.37.b:0 "So ein Unsinn! Wir werden uns nicht kampflos geschlagen geben!"
 
- prc.38.d:0 "[[~SOV.GetLeader~]] hat verlangt, dass wir unseren Plan, in [[~SIK.GetName~]] einzumarschieren, aufgeben."
- prc.38.a:0 "Die Worte von [[~SOV.GetLeader~]] sind nicht die weisesten, die von [[~PRC.GetLeader~]] schon!"
+ prc.38.d:0 "[SOV.GetLeader] hat verlangt, dass wir unseren Plan, in [SIK.GetName] einzumarschieren, aufgeben."
+ prc.38.a:0 "Die Worte von [SOV.GetLeader] sind nicht die weisesten, die von [PRC.GetLeader] schon!"
  prc.38.b:0 "Ziehen Sie keine unerwünschte Aufmerksamkeit auf sich."
 
- prc.39.t:0 "[[~SOV.GetName~]] Intervention"
- prc.39.d:0 "Durch das Eingreifen von [[~SOV.GetName~]] hat sich [[~SIK.GetName~]] uns friedlich unterworfen."
+ prc.39.t:0 "[SOV.GetName] Intervention"
+ prc.39.d:0 "Durch das Eingreifen von [SOV.GetName] hat sich [SIK.GetName] uns friedlich unterworfen."
  prc.39.a:0 "So oder so, unser Ziel ist erreicht."
 
- prc.40.t:0 "[[~SIK.GetName~]] Trotzig"
- prc.40.d:0 "[[~SIK.GetLeader~]] hat sich geweigert, sich friedlich [[~PRC.GetName~]] zu unterwerfen!"
+ prc.40.t:0 "[SIK.GetName] Trotzig"
+ prc.40.d:0 "[SIK.GetLeader] hat sich geweigert, sich friedlich [PRC.GetName] zu unterwerfen!"
  prc.40.a:0 "Wie können sie es wagen, unsere Befehle nicht zu befolgen!"
 
- prc.41.t:0 "[[~PRC.GetName~]] Trotzig"
- prc.41.d:0 "[[~PRC.GetLeader~]] hat sich geweigert, ihren Plan zur Invasion von [[~SIK.GetName~]] aufzugeben!"
+ prc.41.t:0 "[PRC.GetName] Trotzig"
+ prc.41.d:0 "[PRC.GetLeader] hat sich geweigert, ihren Plan zur Invasion von [SIK.GetName] aufzugeben!"
 
- prc.42.t:0 "[[~PRC.GetLeader~]] Obeyed Our Order"
- prc.42.d:0 "[[~SIK.GetLeader~]] hat seinen Plan aufgegeben, in [[~SIK.GetName~]] einzumarschieren!"
+ prc.42.t:0 "[PRC.GetLeader] Obeyed Our Order"
+ prc.42.d:0 "[SIK.GetLeader] hat seinen Plan aufgegeben, in [SIK.GetName] einzumarschieren!"
  prc.42.a:0 "Wenigstens wissen sie noch, wo ihr Platz ist."
 
- prc.43.t:0 "[[~SOV.GetAdjective~]] Verstärkung"
- prc.43.d:0 "Im Hinblick auf [[~SIK.GetName~]]'s Unterwerfungswillen hat [[~SOV.GetName~]] Verstärkung geschickt, um uns zu helfen."
+ prc.43.t:0 "[SOV.GetAdjective] Verstärkung"
+ prc.43.d:0 "Im Hinblick auf [SIK.GetName]'s Unterwerfungswillen hat [SOV.GetName] Verstärkung geschickt, um uns zu helfen."
  prc.43.a:0 "Diese Kräfte werden für unsere Bemühungen unerlässlich sein!"
 
- prc.44.d:0 "Was die Kriegstreiberei von [[~PRC.GetName~]] betrifft, so hat [[~SOV.GetName~]] Verstärkung geschickt, um uns zu helfen."
+ prc.44.d:0 "Was die Kriegstreiberei von [PRC.GetName] betrifft, so hat [SOV.GetName] Verstärkung geschickt, um uns zu helfen."
 
  prc.46.t:0 "Ermordung von Mao Zedong"
  prc.46.d:0 "Unser Großer Vorsitzender, Mao Zedong, ist heute bei einem hinterhältigen Attentat getötet worden. Sein handverlesener Nachfolger im Amt, Lin Biao, hat beschlossen, die Kulturrevolution ein für alle Mal zu beenden. Alle Widerstände wurden rasch beseitigt, und unsere Nation erholt sich von den Schäden, die die Katastrophe angerichtet hat, zumindest einigermaßen. Obwohl einige Verschwörungen behaupten, dass Lin das Attentat inszeniert hat, damit er das Amt übernehmen kann, gibt es keine Beweise dafür."
@@ -1013,21 +1013,21 @@
 
  prc.50.t:0 "Abtrünnige von der NRA"
  prc.50.d:0 "Einige Soldaten der NRA haben beschlossen, auf unsere Seite überzulaufen."
- prc.50.a:0 "Die schlechte Entscheidung von [[~CHI.GetLeader~]] führt zu seinem Scheitern."
+ prc.50.a:0 "Die schlechte Entscheidung von [CHI.GetLeader] führt zu seinem Scheitern."
  prc.66.t:0 "Chen Duxiu"
- prc.66.d:0 "Mit der Rückkehr Trotzkis in [[~SOV.GetNameDEF~]] haben sich Anhänger des Trotzkismus auf der ganzen Welt erhoben und den "verdorbenen" Kommunismus, den Stalin geschaffen hat, kritisiert. Unter ihnen ist auch einer unserer ehemaligen Genossen - Chen Duxiu. Wenn wir ein gutes Verhältnis zu [[~SOV.GetNameDEF~]] behalten wollen, sollten wir Chen an die Macht bringen und Mao loswerden."
+ prc.66.d:0 "Mit der Rückkehr Trotzkis in [SOV.GetNameDEF] haben sich Anhänger des Trotzkismus auf der ganzen Welt erhoben und den "verdorbenen" Kommunismus, den Stalin geschaffen hat, kritisiert. Unter ihnen ist auch einer unserer ehemaligen Genossen - Chen Duxiu. Wenn wir ein gutes Verhältnis zu [SOV.GetNameDEF] behalten wollen, sollten wir Chen an die Macht bringen und Mao loswerden."
  prc.66.a:0 "Lasst uns die Idee der Permanenten Revolution vorantreiben!"
  prc.66.b:0 "Der Trotzkismus ist eine verräterische Ideologie in Verbindung mit dem Faschismus!"
 
- prc.54.t:0 "Vorschlag von [[~From.GetName~]]"
- prc.54.d:0 "Wir haben kürzlich einen Vorschlag vom Vertreter von [[~Von.GetLeader~]] erhalten. Darin heißt es, dass sie uns um Erlaubnis bitten möchten, eine weitere Regierung in der nordwestlichen Region Chinas zu errichten und mit unserer Unterstützung gegen die Japaner und die [[~CHI.GetRulingParty~]] zu kämpfen."
- prc.54.a:0 "Sagen Sie ihnen, sie sollen stattdessen mit der [[~CHI.GetRulingParty~]] zusammenarbeiten."
+ prc.54.t:0 "Vorschlag von [From.GetName]"
+ prc.54.d:0 "Wir haben kürzlich einen Vorschlag vom Vertreter von [Von.GetLeader] erhalten. Darin heißt es, dass sie uns um Erlaubnis bitten möchten, eine weitere Regierung in der nordwestlichen Region Chinas zu errichten und mit unserer Unterstützung gegen die Japaner und die [CHI.GetRulingParty] zu kämpfen."
+ prc.54.a:0 "Sagen Sie ihnen, sie sollen stattdessen mit der [CHI.GetRulingParty] zusammenarbeiten."
  prc.54.b:0 "Mal sehen, wie gut sie sich schlagen werden."
 
  prc.55.t:0 "Zhang Xueliang"
  prc.55.d:0 "Zhang hat sich geweigert, den Plan der Großen Nordwest-Union voranzutreiben. Jetzt, da wir die Dinge auf unserer Seite entschieden haben, sollten wir versuchen, Zhang davon zu überzeugen, dass alles gut vorbereitet ist."
  prc.55.a:0 "Werden Sie ihn einfach los, er wird unseren Fortschritt nur verlangsamen."
- prc.55.b:0 "Akzeptieren Sie seine Idee, sich nicht gegen die [[~CHI.GetRulingParty~]] zu stellen."
+ prc.55.b:0 "Akzeptieren Sie seine Idee, sich nicht gegen die [CHI.GetRulingParty] zu stellen."
  prc.55.c:0 "Drohen Sie damit, ihn wieder an die Kuomintang auszuliefern."
  prc.55.e:0 "Wir werden auch ohne ihn zurechtkommen."
 
@@ -1040,17 +1040,17 @@
  prc.57.d:0 "Nach reiflicher Überlegung hat Zhang Xueliang beschlossen, der Großen Nordwest-Union beizutreten. Er wird die Führung übernehmen, sobald wir die Provinz Gansu gesichert und die GNU offiziell gegründet haben."
  prc.57.a:0 "Wie erwartet."
 
- prc.59.t:0 "[[~From.GetName~]] Unser Vorschlag wurde abgelehnt"
- prc.59.d:0 "[[~From.GetLeader~]] hat unseren Vorschlag abgelehnt und erklärt, dass wir mit der [[~CHI.GetRulingParty~]] zusammenarbeiten sollten, anstatt gegen sie zu kämpfen."
+ prc.59.t:0 "[From.GetName] Unser Vorschlag wurde abgelehnt"
+ prc.59.d:0 "[From.GetLeader] hat unseren Vorschlag abgelehnt und erklärt, dass wir mit der [CHI.GetRulingParty] zusammenarbeiten sollten, anstatt gegen sie zu kämpfen."
  prc.59.a:0 "Wir werden die Sache selbst in die Hand nehmen!"
  prc.59.b:0 "Befolgen Sie den Befehl."
 
- prc.60.t:0 "[[~From.GetName~]] Unserem Vorschlag zugestimmt"
- prc.60.d:0 "Unser Vorschlag für die Große Nordwest-Union wurde von [[~From.GetNameDEF~]] genehmigt, wir sollten sofort daran arbeiten."
+ prc.60.t:0 "[From.GetName] Unserem Vorschlag zugestimmt"
+ prc.60.d:0 "Unser Vorschlag für die Große Nordwest-Union wurde von [From.GetNameDEF] genehmigt, wir sollten sofort daran arbeiten."
  prc.60.a:0 "Großartig!"
 
- prc.61.t:0 "[[~From.GetName~]] Unserem Befehl getrotzt"
- prc.61.d:0 "Trotz unserer guten Absicht hat sich [[~From.GetLeader~]] geweigert, unserem Befehl zu folgen, und beschlossen, die Große Nordwest-Union zu gründen."
+ prc.61.t:0 "[From.GetName] Unserem Befehl getrotzt"
+ prc.61.d:0 "Trotz unserer guten Absicht hat sich [From.GetLeader] geweigert, unserem Befehl zu folgen, und beschlossen, die Große Nordwest-Union zu gründen."
  prc.61.a:0 ""Son of a...!"  #Weil es vorher auf Russisch war..."
 
  prc.62.t:0 "Mao hingerichtet"
@@ -1072,17 +1072,17 @@
  prc.65.a:0 "Wir müssen unser Volk vor der roten Pest schützen!"
  prc.65.b:0 "Dafür gibt es keinen Grund."
 
- prc.67.t:0 "Nachricht von [[~From.GetName~]]"
- prc.67.d:0 "[[~Von.GetName~]] hat Vertreter zu einem Treffen mit [[~Root.GetLeader~]] geschickt und verlangt, dass wir Suiyuan an sie ausliefern. Im Gegenzug bieten sie uns an, der [[~Von.GetFactionName~]] beizutreten und ein wenig Unterstützung in der Industrie zu erhalten."
+ prc.67.t:0 "Nachricht von [From.GetName]"
+ prc.67.d:0 "[Von.GetName] hat Vertreter zu einem Treffen mit [Root.GetLeader] geschickt und verlangt, dass wir Suiyuan an sie ausliefern. Im Gegenzug bieten sie uns an, der [Von.GetFactionName] beizutreten und ein wenig Unterstützung in der Industrie zu erhalten."
  prc.67.a:0 "Klingt vernünftig."
  prc.67.b:0 "Nicht einmal in ihren kühnsten Träumen!"
 
- prc.68.t:0 "[[~From.GetName~]] Angenommen"
- prc.68.d:0 "[[~From.GetLeader~]] hat zugestimmt, Suiyuan an uns zu übergeben."
+ prc.68.t:0 "[From.GetName] Angenommen"
+ prc.68.d:0 "[From.GetLeader] hat zugestimmt, Suiyuan an uns zu übergeben."
  prc.68.a:0 "Ein kluger Schachzug"
 
- prc.69.t:0 "[[~From.GetName~]] Abgelehnt"
- prc.69.d:0 "[[~From.GetLeader~]] hat sich geweigert, uns Suiyuan zu übergeben."
+ prc.69.t:0 "[From.GetName] Abgelehnt"
+ prc.69.d:0 "[From.GetLeader] hat sich geweigert, uns Suiyuan zu übergeben."
  prc.69.a:0 "Vergeblicher Widerstand."
 
  prc.70.t:0 "Xu Lanzhou"
@@ -1090,21 +1090,21 @@
  prc.70.a:0 "Lasst ihn in Ruhe."
  prc.70.b:0 "Stellt ihn als unseren Kampfkunstlehrer ein."
 
- prc.71.t:0 "[[~From.GetName~]] Sucht die Allianz"
+ prc.71.t:0 "[From.GetName] Sucht die Allianz"
  prc.71.d:0 "Obwohl sie ihre Regierung in der nordwestlichen Region etabliert haben, scheint es, dass ihr Ziel in gewisser Weise mit dem unseren übereinstimmt. Wir könnten mit ihnen zusammenarbeiten und die Japaner zurück ins Meer jagen."
  prc.71.a:0 "Die Chinesen sollten sich gegen unsere gemeinsamen Feinde verbünden."
  prc.71.b:0 "Sie werden uns mit Sicherheit in den Rücken fallen!"
 
  prc.72.t:0 "Akzeptierte Allianz"
- prc.72.d:0 "[[~From.GetName~]] hat unseren Vorschlag für ein Bündnis angenommen."
+ prc.72.d:0 "[From.GetName] hat unseren Vorschlag für ein Bündnis angenommen."
  prc.72.a:0 "Tod den Invasoren!"
 
  prc.73.t:0 "Allianz abgelehnt"
- prc.73.d:0 "[[~From.GetName~]] hat unseren Vorschlag abgelehnt."
+ prc.73.d:0 "[From.GetName] hat unseren Vorschlag abgelehnt."
  prc.73.a:0 "Verdammt seien sie!"
 
- prc.74.t:0 "[[~From.GetName~]] Möchte militärisches Wissen austauschen"
- prc.74.d:0 "Da wir wissen, dass wir beide nicht lange überleben werden, wenn wir alleine kämpfen, hat [[~From.GetLeader~]] beschlossen, unsere Streitkräfte miteinander kooperieren zu lassen. Auf diese Weise könnten wir die Vorzüge ihrer Armee kennenlernen und sie die unsere."
+ prc.74.t:0 "[From.GetName] Möchte militärisches Wissen austauschen"
+ prc.74.d:0 "Da wir wissen, dass wir beide nicht lange überleben werden, wenn wir alleine kämpfen, hat [From.GetLeader] beschlossen, unsere Streitkräfte miteinander kooperieren zu lassen. Auf diese Weise könnten wir die Vorzüge ihrer Armee kennenlernen und sie die unsere."
  prc.74.a:0 "Annehmbar"
  prc.74.b:0 "Sie müssen etwas Böses planen..."
 
@@ -1113,105 +1113,105 @@
  prc.75.a:0 "Unsere vereinte Macht wird unsere Feinde in die Knie zwingen!"
 
  prc.76.t:0 "Vorschlag Abgelehnt"
- prc.76.d:0 "[[~From.GetName~]] hat unseren Vorschlag, militärisches Wissen auszutauschen, abgelehnt."
+ prc.76.d:0 "[From.GetName] hat unseren Vorschlag, militärisches Wissen auszutauschen, abgelehnt."
  prc.76.a:0 "Was denken die sich eigentlich?"
 
- prc.77.t:0 "[[~From.GetName~]] Schickt Entschuldigungen"
- prc.77.d:0 "Obwohl sie sich unserem Befehl widersetzt haben, indem sie die [[~From.GetFactionName~]] gegründet haben, sind sie jetzt technisch gesehen in einer Einheitsfront mit [[~CHI.GetNameDef~]], was wir von ihnen erwarten. Jetzt haben sie sich bei uns entschuldigt und wollen, dass wir über ihr früheres "Fehlverhalten" hinwegsehen."
+ prc.77.t:0 "[From.GetName] Schickt Entschuldigungen"
+ prc.77.d:0 "Obwohl sie sich unserem Befehl widersetzt haben, indem sie die [From.GetFactionName] gegründet haben, sind sie jetzt technisch gesehen in einer Einheitsfront mit [CHI.GetNameDef], was wir von ihnen erwarten. Jetzt haben sie sich bei uns entschuldigt und wollen, dass wir über ihr früheres "Fehlverhalten" hinwegsehen."
  prc.77.a:0 "Tja..."
  prc.77.b:0 "Ich habe noch nie so schamlose Leute gesehen!"
 
- prc.78.t:0 "[[~From.GetName~]] Nimmt unsere Entschuldigung an"
- prc.78.d:0 "Unsere Entschuldigung wurde von [[~From.GetName~]] angenommen."
+ prc.78.t:0 "[From.GetName] Nimmt unsere Entschuldigung an"
+ prc.78.d:0 "Unsere Entschuldigung wurde von [From.GetName] angenommen."
  prc.78.a:0 "Nett."
 
- prc.79.t:0 "[[~Von.GetName~]] Lehnt unsere Entschuldigung ab"
- prc.79.d:0 "Unsere Entschuldigung wurde von [[~From.GetName~]] abgelehnt."
+ prc.79.t:0 "[Von.GetName] Lehnt unsere Entschuldigung ab"
+ prc.79.d:0 "Unsere Entschuldigung wurde von [From.GetName] abgelehnt."
  prc.79.a:0 "Schade"
 
- prc.80.t:0 "Druck von [[~From.GetName~]]"
- prc.80.d:0 "[[~Von.GetName~]] hat in letzter Zeit Druck auf [[~Root.GetLeader~]] ausgeübt. Einige Beamte sagen [[~Root.GetLeader~]], er solle sich unterwerfen, bevor die Truppen von [[~From.GetName~]] in sein Haus eindringen und ihn in den Tod treiben."
+ prc.80.t:0 "Druck von [From.GetName]"
+ prc.80.d:0 "[Von.GetName] hat in letzter Zeit Druck auf [Root.GetLeader] ausgeübt. Einige Beamte sagen [Root.GetLeader], er solle sich unterwerfen, bevor die Truppen von [From.GetName] in sein Haus eindringen und ihn in den Tod treiben."
  prc.80.b:0 "Unterwerft euch, bevor es zu spät ist."
  prc.80.a:0 "Wir werden nicht auf solch naive Tricks hereinfallen."
 
- prc.81.t:0 "[[~From.GetName~]] Eingereicht"
- prc.81.d:0 "Da er unserem Druck nicht länger standhalten konnte, hat [[~From.GetLeader~]] beschlossen, sich unserer Regierung zu unterwerfen."
+ prc.81.t:0 "[From.GetName] Eingereicht"
+ prc.81.d:0 "Da er unserem Druck nicht länger standhalten konnte, hat [From.GetLeader] beschlossen, sich unserer Regierung zu unterwerfen."
  prc.81.a:0 "Eine weise Entscheidung."
 
- prc.82.t:0 "[[~From.GetName~]] Weigert sich, sich zu unterwerfen"
- prc.82.d:0 "Trotz unseres starken Drucks und der Überredungskünste der bestochenen Beamten bleibt [[~Von.GetLeader~]] standhaft. Er sagte unserem Vertreter, dass er sich niemals unserer tyrannischen Herrschaft unterwerfen wird."
+ prc.82.t:0 "[From.GetName] Weigert sich, sich zu unterwerfen"
+ prc.82.d:0 "Trotz unseres starken Drucks und der Überredungskünste der bestochenen Beamten bleibt [Von.GetLeader] standhaft. Er sagte unserem Vertreter, dass er sich niemals unserer tyrannischen Herrschaft unterwerfen wird."
  prc.82.a:0 "Sie werden bald erkennen, welchen Fehler sie gemacht haben."
 
- prc.83.t:0 "[[~From.GetName~]] Hat uns verraten"
- prc.83.d:0 "[[~Von.GetName~]] hat unsere Marionettenregierung gestürzt und ist nun loyal zu [[~PRC.GetName~]]!"
+ prc.83.t:0 "[From.GetName] Hat uns verraten"
+ prc.83.d:0 "[Von.GetName] hat unsere Marionettenregierung gestürzt und ist nun loyal zu [PRC.GetName]!"
  prc.83.a:0 "Wie können sie es wagen!"
 
- prc.84.t:0 "[[~From.GetName~]] Fordert, dass wir Territorium abtreten"
- prc.84.d:0 "[[~Von.GetName~]] erklärt, dass wir ihr rechtmäßiges Territorium schon zu lange besetzt haben und dass die Zeit gekommen ist, gegen diese Ungerechtigkeit vorzugehen."
+ prc.84.t:0 "[From.GetName] Fordert, dass wir Territorium abtreten"
+ prc.84.d:0 "[Von.GetName] erklärt, dass wir ihr rechtmäßiges Territorium schon zu lange besetzt haben und dass die Zeit gekommen ist, gegen diese Ungerechtigkeit vorzugehen."
  prc.84.a:0 "Wir wollen keinen Krieg mit ihnen beginnen."
  prc.84.b:0 "Soll das ein Scherz sein?"
 
- prc.85.t:0 "[[~From.GetName~]] Gibt Territorium zurück"
- prc.85.d:0 "[[~From.GetName~]] hat beschlossen, unser Territorium zurückzugeben."
+ prc.85.t:0 "[From.GetName] Gibt Territorium zurück"
+ prc.85.d:0 "[From.GetName] hat beschlossen, unser Territorium zurückzugeben."
  prc.85.a:0 "Gut für beide."
 
- prc.86.t:0 "[[~From.GetName~]] Weigert sich, Territorium zurückzugeben"
- prc.86.d:0 "[[~Von.GetName~]] hat beschlossen, unser rechtmäßiges Territorium zu behalten."
+ prc.86.t:0 "[From.GetName] Weigert sich, Territorium zurückzugeben"
+ prc.86.d:0 "[Von.GetName] hat beschlossen, unser rechtmäßiges Territorium zu behalten."
  prc.86.a:0 "Zeit, dies auf die harte Tour zu tun."
 
- prc.87.d:0 "Mit der ständig wachsenden Macht von [[~From.GetName~]] befürchtet unser Volk, dass unsere Nation schon bald untergehen könnte, wenn wir uns nicht auf eine Seite schlagen. Gerade gestern hat ein Ultimatum von [[~Von.GetName~]] den Schreibtisch von [[~Root.GetLeader~]] erreicht, in dem gefordert wird, dass [[~Root.GetName~]] ihr Protektorat wird."
+ prc.87.d:0 "Mit der ständig wachsenden Macht von [From.GetName] befürchtet unser Volk, dass unsere Nation schon bald untergehen könnte, wenn wir uns nicht auf eine Seite schlagen. Gerade gestern hat ein Ultimatum von [Von.GetName] den Schreibtisch von [Root.GetLeader] erreicht, in dem gefordert wird, dass [Root.GetName] ihr Protektorat wird."
  prc.87.a:0 "Feiglinge leben..."
  prc.87.b:0 "Wir werden uns niemals einem Tyrannen beugen!"
 
  prc.88.a:0 "Besetzen Sie das Gebiet."
 
- prc.89.t:0 "[[~From.GetName~]] Fordert Zugeständnisse"
+ prc.89.t:0 "[From.GetName] Fordert Zugeständnisse"
 
- prc.92.t:0 "[[~From.GetName~]] Versucht zu übernehmen"
- prc.92.d:0 "[[~From.GetName~]] hat heute Morgen Vertreter zu einem Treffen mit [[~Root.GetLeader~]] geschickt. Bei dem Treffen geht es vor allem darum, [[~Root.GetLeader~]] aufzufordern, seine Macht abzugeben und [[~From.GetName~]] die Übernahme zu überlassen. Nach reiflicher Überlegung von [[~Root.GetLeader~]] ist eine Lösung herausgekommen..."
- prc.92.a:0 "[[~Root.GetName~]] wird sich nicht dem Teufel unterwerfen!"
+ prc.92.t:0 "[From.GetName] Versucht zu übernehmen"
+ prc.92.d:0 "[From.GetName] hat heute Morgen Vertreter zu einem Treffen mit [Root.GetLeader] geschickt. Bei dem Treffen geht es vor allem darum, [Root.GetLeader] aufzufordern, seine Macht abzugeben und [From.GetName] die Übernahme zu überlassen. Nach reiflicher Überlegung von [Root.GetLeader] ist eine Lösung herausgekommen..."
+ prc.92.a:0 "[Root.GetName] wird sich nicht dem Teufel unterwerfen!"
  prc.92.b:0 "Gebt die Macht ab."
 
- prc.93.t:0 "[[~From.GetName~]] Rebellen"
- prc.93.d:0 "[[~From.GetLeader~]] hat beschlossen, gegen uns in den Krieg zu ziehen, anstatt sich uns zu unterwerfen."
+ prc.93.t:0 "[From.GetName] Rebellen"
+ prc.93.d:0 "[From.GetLeader] hat beschlossen, gegen uns in den Krieg zu ziehen, anstatt sich uns zu unterwerfen."
  prc.93.a:0 "Waffen können immer noch den Trick machen."
 
- prc.95.t:0 "[[~From.GetName~]] Strebt einen Pakt mit uns an"
- prc.95.d:0 "[[~Von.GetName~]] hat Vertreter entsandt, um uns um die Unterzeichnung ihres neu entworfenen Paktes zu bitten. Dieser Pakt würde sowohl als Freundschaftserklärung als auch als Nichtangriffspakt dienen."
+ prc.95.t:0 "[From.GetName] Strebt einen Pakt mit uns an"
+ prc.95.d:0 "[Von.GetName] hat Vertreter entsandt, um uns um die Unterzeichnung ihres neu entworfenen Paktes zu bitten. Dieser Pakt würde sowohl als Freundschaftserklärung als auch als Nichtangriffspakt dienen."
  prc.95.a:0 "Unterschreiben"
  prc.95.b:0 "Das muss ein naiver Trick sein."
 
  prc.96.t:0 "Unterzeichneter Pakt"
- prc.96.d:0 "[[~From.GetName~]] hat den Pakt unterzeichnet."
+ prc.96.d:0 "[From.GetName] hat den Pakt unterzeichnet."
  prc.96.a:0 "Ausgezeichnet!"
 
  prc.97.t:0 "Pakt Abgelehnt"
- prc.97.d:0 "[[~From.GetName~]] hat sich geweigert, den Pakt zu unterzeichnen."
+ prc.97.d:0 "[From.GetName] hat sich geweigert, den Pakt zu unterzeichnen."
  prc.97.a:0 "Was auch immer"
 
  prc.102.t:0 "WPPO-Vorschlag"
- prc.102.d:0 "[[~Von.GetName~]] hat uns einen Vorschlag geschickt, in dem er die Gründung der WPPO (West Pacific Pact Organization) für unerlässlich hält. Mit der Gründung der WPPO können wir uns gegenseitig den Rücken freihalten und alle Teufel abschrecken, die es auf unsere Territorien abgesehen haben."
+ prc.102.d:0 "[Von.GetName] hat uns einen Vorschlag geschickt, in dem er die Gründung der WPPO (West Pacific Pact Organization) für unerlässlich hält. Mit der Gründung der WPPO können wir uns gegenseitig den Rücken freihalten und alle Teufel abschrecken, die es auf unsere Territorien abgesehen haben."
  prc.102.a:0 "Das könnte unser Überleben sichern."
  prc.102.b:0 "Sore wa inbou desu."
 
- prc.103.t:0 "[[~From.GetFactionName~]] Gegründet"
- prc.103.d:0 "[[~From.GetName~]] hat zugestimmt, die WPPO zu gründen, wir stehen jetzt zusammen."
+ prc.103.t:0 "[From.GetFactionName] Gegründet"
+ prc.103.d:0 "[From.GetName] hat zugestimmt, die WPPO zu gründen, wir stehen jetzt zusammen."
  prc.103.a:0 "Glorious!"
 
- prc.104.t:0 "[[~From.GetName~]] Abgelehnt"
- prc.104.d:0 "[[~From.GetName~]] hat sich geweigert, die WPPO zu gründen."
+ prc.104.t:0 "[From.GetName] Abgelehnt"
+ prc.104.d:0 "[From.GetName] hat sich geweigert, die WPPO zu gründen."
  prc.104.a:0 "Schade"
 
- prc.105.t:0 "[[~From.GetFactionName~]] Unterstützter Putsch"
- prc.105.d:0 "Ein Putsch, der von [[~From.GetFactionName~]] unterstützt wird, hat gerade begonnen!"
+ prc.105.t:0 "[From.GetFactionName] Unterstützter Putsch"
+ prc.105.d:0 "Ein Putsch, der von [From.GetFactionName] unterstützt wird, hat gerade begonnen!"
  prc.105.a:0 "Verdammt sollen sie sein!"
 
- prc.106.t:0 "[[~From.GetName~]]'s Verrat"
- prc.106.d:0 "Trotz des Paktes, den wir unterzeichnet haben, zeigen [[~From.GetName~]] nun Feindseligkeit gegen uns. Sie haben alle [[~Root.GetAdjective~]] Beamten in ihrer Regierung hingerichtet und uns den Krieg erklärt!"
+ prc.106.t:0 "[From.GetName]'s Verrat"
+ prc.106.d:0 "Trotz des Paktes, den wir unterzeichnet haben, zeigen [From.GetName] nun Feindseligkeit gegen uns. Sie haben alle [Root.GetAdjective] Beamten in ihrer Regierung hingerichtet und uns den Krieg erklärt!"
  prc.106.a:0 "Yaban jin!"
 
  prc.108.t:0 "Rettet Zhang Xueliang?"
- prc.108.d:0 "Zhang wird nach dem Xi'an-Zwischenfall von der [[~CHI.GetRulingParty~]] gefangen gehalten. Ohne ihn kann der Plan für die Große Nordwest-Union nicht umgesetzt werden."
+ prc.108.d:0 "Zhang wird nach dem Xi'an-Zwischenfall von der [CHI.GetRulingParty] gefangen gehalten. Ohne ihn kann der Plan für die Große Nordwest-Union nicht umgesetzt werden."
  prc.108.a:0 "Rettet ihn!"
  prc.108.b:0 "Wir können auch ohne ihn weitermachen."
 
@@ -1221,20 +1221,20 @@
  prc.109.b:0 "Wir sollten auf eine geeignetere Situation warten."
  prc.109.c:0 "Was ist das für ein Blödsinn!"
 
- prc.110.t:0 "[[~From.GetName~]] Strebt nach Frieden"
+ prc.110.t:0 "[From.GetName] Strebt nach Frieden"
  prc.110.d:0 "Da sie ihr Ziel erreicht haben, suchen sie nun Frieden zwischen uns."
  prc.110.a:0 "Unsere Kräfte werden anderswo gebraucht..."
  prc.110.b:0 "Niemals!"
 
- prc.111.t:0 "Frieden mit [[~JAP.GetName~]]"
- prc.111.d:0 "[[~From.GetName~]] hat einem Frieden zwischen uns zugestimmt."
+ prc.111.t:0 "Frieden mit [JAP.GetName]"
+ prc.111.d:0 "[From.GetName] hat einem Frieden zwischen uns zugestimmt."
  prc.111.a:0 "Das beste Ergebnis"
 
- prc.112.t:0 "[[~From.GetName~]] Abgelehnter Frieden"
- prc.112.d:0 "[[~From.GetName~]] hat sich geweigert, Frieden zu schließen."
+ prc.112.t:0 "[From.GetName] Abgelehnter Frieden"
+ prc.112.d:0 "[From.GetName] hat sich geweigert, Frieden zu schließen."
  prc.112.a:0 "Sie weichen nur dem Unvermeidlichen aus."
 
- prc.114.d:0 "Wir haben [[~JAP.GetNameDef~]] und ihre Marionettenregime in der Mandschurei lange Zeit bekämpft. Nachdem unsere Streitkräfte die letzte Hochburg des kaiserlichen Reiches im Nordosten befreit haben, haben die Offiziellen von [[~JAP.GetAdjective~]], die befürchten, dass sich ihr Staat nie von dem langen Zermürbungskrieg gegen [[~PRC.GetNameDef~]] erholen wird, unseren Politikern ein Waffenstillstandsangebot und Kapitulationsbedingungen unterbreitet. [Das ist unsere Chance, Forderungen zu stellen!"
+ prc.114.d:0 "Wir haben [JAP.GetNameDef] und ihre Marionettenregime in der Mandschurei lange Zeit bekämpft. Nachdem unsere Streitkräfte die letzte Hochburg des kaiserlichen Reiches im Nordosten befreit haben, haben die Offiziellen von [JAP.GetAdjective], die befürchten, dass sich ihr Staat nie von dem langen Zermürbungskrieg gegen [PRC.GetNameDef] erholen wird, unseren Politikern ein Waffenstillstandsangebot und Kapitulationsbedingungen unterbreitet. [Das ist unsere Chance, Forderungen zu stellen!"
 
  prc.115.t:0 "Hungersnot in Henan"
  prc.115.d:0 "Der Krieg in Henan hat zu einer Hungersnot in der Region geführt, da das Ackerland durch den Krieg zerstört wurde. Die örtliche Regierung bittet nun um unsere Hilfe, um ihre Last zu lindern."
@@ -1246,35 +1246,35 @@
 
  prc.116.a:0 "Ein kluger Schritt."
 
- prc.117.t:0 "[[~XSM.GetName~]] Schließt sich [[~CHI.GetName~]] Gegen uns"
- prc.117.d:0 "[[~CHI.GetLeader~]] hat [[~XSM.GetLeader~]] befohlen, eine Offensive an unserer nordwestlichen Flanke zu starten!"
- prc.117.a:0 "Sie sollen zusammen mit [[~CHI.GetLeader~]] untergehen!"
+ prc.117.t:0 "[XSM.GetName] Schließt sich [CHI.GetName] Gegen uns"
+ prc.117.d:0 "[CHI.GetLeader] hat [XSM.GetLeader] befohlen, eine Offensive an unserer nordwestlichen Flanke zu starten!"
+ prc.117.a:0 "Sie sollen zusammen mit [CHI.GetLeader] untergehen!"
 
- prc.120.t:0 "Einladung von [[~From.GetLeader~]]"
- prc.120.d:0 "Mit der Gründung von [[~From.GetFactionName~]] hat [[~From.GetLeader~]] eine Einladung an [[~Root.GetLeader~]] geschickt, in der Hoffnung, dass wir uns ihrem Kurs anschließen können."
+ prc.120.t:0 "Einladung von [From.GetLeader]"
+ prc.120.d:0 "Mit der Gründung von [From.GetFactionName] hat [From.GetLeader] eine Einladung an [Root.GetLeader] geschickt, in der Hoffnung, dass wir uns ihrem Kurs anschließen können."
  prc.120.a:0 "Gute Idee."
  prc.120.b:0 "Wie wäre es mit nein?"
 
- prc.121.t:0 "[[~From.GetName~]] Schließt sich uns an"
- prc.121.d:0 "[[~From.GetLeader~]] hat beschlossen, unserem Kurs beizutreten."
+ prc.121.t:0 "[From.GetName] Schließt sich uns an"
+ prc.121.d:0 "[From.GetLeader] hat beschlossen, unserem Kurs beizutreten."
  prc.121.a:0 "Fantastisch!"
 
- prc.122.t:0 "[[~From.GetName~]] Abgelehnt"
- prc.122.d:0 "[[~Von.GetLeader~]] hat sich geweigert, [[~Root.GetFactionName~]] beizutreten, weil er sagt, dass er es alleine besser kann."
+ prc.122.t:0 "[From.GetName] Abgelehnt"
+ prc.122.d:0 "[Von.GetLeader] hat sich geweigert, [Root.GetFactionName] beizutreten, weil er sagt, dass er es alleine besser kann."
  prc.122.a:0 "Arroganter Abschaum!"
 
- prc.123.t:0 "Einladung an [[~SIK.GetLeader~]] senden?"
- prc.123.d:0 "Um Nachschub von [[~SOV.GetNameDef~]] zu bekommen, ist es wichtig, Zugang zur Sinkiang-Region zu erhalten. Wir könnten sie in unsere Fraktion einladen und ihr Vertrauen gewinnen."
+ prc.123.t:0 "Einladung an [SIK.GetLeader] senden?"
+ prc.123.d:0 "Um Nachschub von [SOV.GetNameDef] zu bekommen, ist es wichtig, Zugang zur Sinkiang-Region zu erhalten. Wir könnten sie in unsere Fraktion einladen und ihr Vertrauen gewinnen."
  prc.123.a:0 "Schickt es."
  prc.123.b:0 "Das ist unnötig."
 
- prc.124.t:0 "[[~From.GetLeader~]] Drängt zum Handeln"
- prc.124.d:0 "[[~From.GetLeader~]] hat Nachrichten geschickt, dass sie gut auf die Gründung der Nordwestlichen Nationalen Verteidigungsregierung vorbereitet sind und nun auf unser Handeln warten."
+ prc.124.t:0 "[From.GetLeader] Drängt zum Handeln"
+ prc.124.d:0 "[From.GetLeader] hat Nachrichten geschickt, dass sie gut auf die Gründung der Nordwestlichen Nationalen Verteidigungsregierung vorbereitet sind und nun auf unser Handeln warten."
  prc.124.a:0 "Wir sind bereit."
  prc.124.b:0 "Zu bald..."
 
  kns.4.t:0 "Der Tod von Iosif Stalin"
- kns.4.d:0 "Bei Iosif Stalin, dem ehemaligen Führer der Sowjetunion, wurden ein Schlaganfall, hoher Blutdruck und Magenblutungen diagnostiziert. Man fand ihn in seinem Schlafzimmer auf dem Boden liegend, bevor die Ärzte gerufen wurden. Nachdem die Behandlung mit Blutegeln erfolglos geblieben war, wurde Stalins Doppelgänger aus dem Urlaub zurückgerufen, um im Bedarfsfall als Stalin einzuspringen. Der Gesundheitszustand Stalins wurde jedoch später im ganzen Land ausführlich bekannt gegeben. Am nächsten Tag wurde Iosif Stalin für tot erklärt.[~[~\n~][~\n~]~]Es wird erwartet, dass Stalins Personenkult auch nach seinem Ableben weitergehen wird. Ein Machtkampf ist bereits im Gange, da mächtige Parteimitglieder begeistert sind, die von ihm hinterlassene vakante Position zu besetzen."
+ kns.4.d:0 "Bei Iosif Stalin, dem ehemaligen Führer der Sowjetunion, wurden ein Schlaganfall, hoher Blutdruck und Magenblutungen diagnostiziert. Man fand ihn in seinem Schlafzimmer auf dem Boden liegend, bevor die Ärzte gerufen wurden. Nachdem die Behandlung mit Blutegeln erfolglos geblieben war, wurde Stalins Doppelgänger aus dem Urlaub zurückgerufen, um im Bedarfsfall als Stalin einzuspringen. Der Gesundheitszustand Stalins wurde jedoch später im ganzen Land ausführlich bekannt gegeben. Am nächsten Tag wurde Iosif Stalin für tot erklärt.[~\n\n~]Es wird erwartet, dass Stalins Personenkult auch nach seinem Ableben weitergehen wird. Ein Machtkampf ist bereits im Gange, da mächtige Parteimitglieder begeistert sind, die von ihm hinterlassene vakante Position zu besetzen."
  kns.4.a:0 "Ein verheerender Verlust."
  kns.4.b:0 "Der Verlust eines großen Lehrers und eines großen Führers."
  kns.4.c:0 "Interessant"
@@ -1339,7 +1339,7 @@
 
 
  ## UNUSED ## ""
- #prc_continuous_partisan_tt:0 "[~§Y~]Partisanen werden sich im Abstand von 30 Tagen in unserem Kernstaat erheben, der von unserem Feind kontrolliert wird, der den [~§R~]Feindliche Partisanen hinter unserer Frontlinie[~§!~] nationalen Geist hat.[~§!~]"
+ #prc_continuous_partisan_tt:0 "§YPartisanen werden sich im Abstand von 30 Tagen in unserem Kernstaat erheben, der von unserem Feind kontrolliert wird, der den §RFeindliche Partisanen hinter unserer Frontlinie§! nationalen Geist hat.§!"
  #PRC_continuous_partisan:0 "Fußstapfen hinter der feindlichen Linie"
  #PRC_continuous_partisan_desc:0 "Unsere Partisanen richten nun hinter der feindlichen Frontlinie einige Verwüstungen an. Wir könnten ihren Einfluss verstärken, indem wir ihnen zusätzlichen Nachschub geben."
  #PRC_continuous_one_time_boost:0 "Planausarbeitung"

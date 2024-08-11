@@ -15,7 +15,7 @@
 #Rudra Rana another chief if staff, ""
 
  NEP_tribhuvan_idea:0 "Tribhuvan"
- NEP_tribhuvan_idea_desc:0 "Obwohl die Position des Königs von [[~ROOT.GetNonIdeologyName~]] nur noch zeremoniell ist, ist Tribhuvan immer noch eine beliebte Figur in der Bevölkerung von [[~NEP.GetAdjective~]]."
+ NEP_tribhuvan_idea_desc:0 "Obwohl die Position des Königs von [ROOT.GetNonIdeologyName] nur noch zeremoniell ist, ist Tribhuvan immer noch eine beliebte Figur in der Bevölkerung von [NEP.GetAdjective]."
 
 # NEP_kiran_rana:0 "Kiran Rana"
 # NEP_baber_rana:0 "Baber Rana"
@@ -45,7 +45,7 @@
  NEP_infantry_equipment_0:0 "Gahendra-Martini-Gewehr"
  NEP_infantry_equipment_0_short:0 "Gahendra-Martini"
 
- nepal.1.t:0 "[[~ENG.GetNameDefCap~]] ist in einen Kriegszustand eingetreten"
- nepal.1.d:0 "Vor einigen Tagen ist in Europa und möglicherweise in der ganzen Welt ein neuer Krieg ausgebrochen! Das Ergebnis dessen, was 'Der Große Krieg' genannt wird. [[~ROOT.GetNameDefCap~]] hat einen Grund, [[~ENG.GetNameDef~]] zu unterstützen, und ist in gewisser Weise durch den nepalesisch-britischen Vertrag von 1923 dazu verpflichtet, wobei unsere beiden Nationen die Souveränität des jeweils anderen anerkennen und schützen werden."
+ nepal.1.t:0 "[ENG.GetNameDefCap] ist in einen Kriegszustand eingetreten"
+ nepal.1.d:0 "Vor einigen Tagen ist in Europa und möglicherweise in der ganzen Welt ein neuer Krieg ausgebrochen! Das Ergebnis dessen, was 'Der Große Krieg' genannt wird. [ROOT.GetNameDefCap] hat einen Grund, [ENG.GetNameDef] zu unterstützen, und ist in gewisser Weise durch den nepalesisch-britischen Vertrag von 1923 dazu verpflichtet, wobei unsere beiden Nationen die Souveränität des jeweils anderen anerkennen und schützen werden."
  nepal.1.a:0 "Wir müssen unseren Verbündeten helfen. Erklären Sie sofort den Krieg!"
  nepal.1.b:0 "Die nationalen Interessen Nepals stehen an erster Stelle..."

@@ -35,7 +35,7 @@ hispano_america_tt:0 "Schließe die Entscheidung zur Vereinigung von Hispanoamé
 
 hibernia_rules_NAME:0 "Hibernia beherrscht die Wogen"
 hibernia_rules_DESC:0 "Baue als Irland ein Schlachtschiff und sorge dafür"
-hibernia_rules_tt:0 "Beliebiges Land:[~\n~]Ursprüngliches Land ist [[~ENG.GetName~]][~\n~]Maximal [~§Y~]0 Capital Ship[~§!~] Schiffe."
+hibernia_rules_tt:0 "Beliebiges Land:\nUrsprüngliches Land ist [ENG.GetName]\nMaximal §Y0 Capital Ship§! Schiffe."
 
 celtic_union_NAME:0 "Ceilteach go Brách"
 celtic_union_DESC:0 "Vereinigt als keltische Nation die keltische Welt."
@@ -180,7 +180,7 @@ guamtemala_DESC:0 "Als Guatemala oder Guam"
 
 necrowombaticon_NAME:0 "Das Necrowombaticon"
 necrowombaticon_DESC:0 "Entdeckt als Sowjetunion oder Deutschland das Necrowombaticon und werdet zum Zärtlich Liebenden Reich."
-r56_cflg_patreon_ee:0 "Hat [~§Y~]Necrowombaticon-Aktivierung[~§!~] Entscheidung verwendet"
+r56_cflg_patreon_ee:0 "Hat §YNecrowombaticon-Aktivierung§! Entscheidung verwendet"
 
 razboiul_fulgerului_NAME:0 "Razboiul Fulgerului"
 razboiul_fulgerului_DESC:0 "Gewinne den rumänischen kommunistisch-demokratischen Bürgerkrieg"

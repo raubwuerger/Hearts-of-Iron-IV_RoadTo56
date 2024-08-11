@@ -25,14 +25,14 @@
  men_own_desc:0 "Die Japaner und die Zentralregierung haben viele Probleme. Es ist das Beste, wenn wir versuchen, es allein zu schaffen."
 
  MEN_accept_chinese_suzerainty:0 "Chinesische Suzeränität akzeptieren"
- MEN_accept_chinese_suzerainty_desc:0 "Ein Bündnis mit [[~JAP.getName~]] wird die chinesischen Beamten verärgern und die Guerilla-Aktivitäten der kommunistischen Banditen, die unseren wehrlosen Staat überfallen, anheizen. Die Sicherung der chinesischen Herrschaft mag einigen Nationalisten des Landes widerstreben, doch ist sie das Einzige, was wir uns unter den derzeitigen Umständen leisten können."
+ MEN_accept_chinese_suzerainty_desc:0 "Ein Bündnis mit [JAP.getName] wird die chinesischen Beamten verärgern und die Guerilla-Aktivitäten der kommunistischen Banditen, die unseren wehrlosen Staat überfallen, anheizen. Die Sicherung der chinesischen Herrschaft mag einigen Nationalisten des Landes widerstreben, doch ist sie das Einzige, was wir uns unter den derzeitigen Umständen leisten können."
 
  ################# EVENTS ############################3 ""
 
- men.22.t:0 "[[~MEN.GetName~]] Gegründet"
- men.22.d:0 "Die [[~MEN.GetName~]] wurde von Demchugdongrub mit Hilfe der Japaner gegründet. Auch sie haben sich unserer Kontrolle entzogen. Verräter!"
+ men.22.t:0 "[MEN.GetName] Gegründet"
+ men.22.d:0 "Die [MEN.GetName] wurde von Demchugdongrub mit Hilfe der Japaner gegründet. Auch sie haben sich unserer Kontrolle entzogen. Verräter!"
  men.22.a:0 "Eine unangenehme Entwicklung"
 
- men.11.t:0 "[[~From.GetName~]] schließt sich uns an!"
- men.11.d:0 "Demchugdongrub hat der Gründung der [[~MEN.GetName~]] zugestimmt und [[~MEN.GetLeader~]] wurde zum Vorsitzenden ernannt. Sie sind nun loyal zu uns und haben sich von der [[~CHI.GetRulingParty~]] gelöst."
- men.11.a:0 "Dies wird die [[~CHI.GetRulingParty~]] stark schwächen!"
+ men.11.t:0 "[From.GetName] schließt sich uns an!"
+ men.11.d:0 "Demchugdongrub hat der Gründung der [MEN.GetName] zugestimmt und [MEN.GetLeader] wurde zum Vorsitzenden ernannt. Sie sind nun loyal zu uns und haben sich von der [CHI.GetRulingParty] gelöst."
+ men.11.a:0 "Dies wird die [CHI.GetRulingParty] stark schwächen!"

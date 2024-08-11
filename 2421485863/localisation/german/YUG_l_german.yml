@@ -1,8 +1,8 @@
 ﻿l_german:
  r56_YUG_little_entente:0 "Mitglied der Kleinen Entente"
- r56_YUG_if_we_go_to_war_with_HUN:0 "[~§R~]Wenn [[~HUN.GetNameDef~]] mit einem Mitglied der Kleinen Entente in den Krieg zieht, werden uns andere Mitglieder der Kleinen Entente zu Hilfe kommen.[~§!~]"
- r56_HUN_if_we_go_to_war:0 "[~\n~][~§R~]Andere Mitglieder der Kleinen Entente werden unseren Feinden zu Hilfe kommen.[~§!~]"
- r56_BUL_if_we_go_to_war:0 "[~\n~][~§R~]Andere Mitglieder des Balkanpaktes werden unseren Feinden zu Hilfe kommen.[~§!~]"
+ r56_YUG_if_we_go_to_war_with_HUN:0 "§RWenn [HUN.GetNameDef] mit einem Mitglied der Kleinen Entente in den Krieg zieht, werden uns andere Mitglieder der Kleinen Entente zu Hilfe kommen.§!"
+ r56_HUN_if_we_go_to_war:0 "\n§RAndere Mitglieder der Kleinen Entente werden unseren Feinden zu Hilfe kommen.§!"
+ r56_BUL_if_we_go_to_war:0 "\n§RAndere Mitglieder des Balkanpaktes werden unseren Feinden zu Hilfe kommen.§!"
  YUG_charismatic_opportunist:0 "Charismatischer Opportunist"
  chemical_concern:0 "Chemiekonzern"
  engine_factory:0 "Motorenhersteller"
@@ -54,17 +54,17 @@
 
  YUG_yugoslav_reunification_category:0 "Jugoslawische Wiedervereinigung"
  YUG_yugoslav_reunification_category_desc:0 "Jugoslawien ist durch zentrifugale Kräfte gespalten worden, aber die Idee einer Vereinigung der Südslawen lebt weiter."
- r56_unite_puppet_with_yug:0 "Vereinigen Sie [[~FROM.getNameDef~]] mit Jugoslawien"
+ r56_unite_puppet_with_yug:0 "Vereinigen Sie [FROM.getNameDef] mit Jugoslawien"
 
- YUG_very_strong_communists:0 ""[~§G~]Sehr stark[~§!~]" #Das Basisspiel versucht, eine nicht existierende Farbe zu verwenden."
+ YUG_very_strong_communists:0 ""§GSehr stark§!" #Das Basisspiel versucht, eine nicht existierende Farbe zu verwenden."
 
 
  YUG_construct_rupnik_line:0 "Konstruieren Sie die Rupnik-Linie"
- YUG_construct_rupnik_line_desc:0 "Die fortgesetzte Nazi-Expansion und [[~ITA.GetAdjective~]]-Aggression haben die Dinge schwierig gemacht. Wir müssen entlang der Grenze Verteidigungsanlagen errichten, um die Sicherheit zu gewährleisten."
+ YUG_construct_rupnik_line_desc:0 "Die fortgesetzte Nazi-Expansion und [ITA.GetAdjective]-Aggression haben die Dinge schwierig gemacht. Wir müssen entlang der Grenze Verteidigungsanlagen errichten, um die Sicherheit zu gewährleisten."
  YUG_dismantle_rupnik_line:0 "Demontieren Sie die Rupnik-Linie"
- YUG_construct_rupnik_line_tt:0 "Platziere [~§Y~]Landforts[~§!~] quer durch [~§Y~]Slowenien[~§!~]."
- YUG_construct_rupnik_line_warning_tt:0 "[~§R~]Nicht jede Provinz entlang der deutschen Grenze.[~§!~]"
- YUG_anti_german_coup:0 "[~§R~]Wenn [[~YUG.GetNameDef~]] sich der Achse anschließt, wird das Militär wahrscheinlich die Regierung stürzen![~§!~]"
+ YUG_construct_rupnik_line_tt:0 "Platziere §YLandforts§! quer durch §YSlowenien§!."
+ YUG_construct_rupnik_line_warning_tt:0 "§RNicht jede Provinz entlang der deutschen Grenze.§!"
+ YUG_anti_german_coup:0 "§RWenn [YUG.GetNameDef] sich der Achse anschließt, wird das Militär wahrscheinlich die Regierung stürzen!§!"
  YUG_local_self_management:0 "Lokale Selbstverwaltung"
 
  #YUG ""
@@ -130,29 +130,29 @@
  r56_yugoslavia_deaths.3.d:0 "Mehmed Spaho, Führer der Jugoslawischen Muslimischen Organisation und erster bosnisch-muslimischer Politiker im Königreich der Serben, Kroaten und Slowenen, war ein prominenter Befürworter der bosnisch-muslimischen Autonomie in Jugoslawien. Sein plötzlicher und mysteriöser Tod könnte die Spannungen zwischen Agnostikern und religiösen Menschen im ganzen Land verschärfen."
 
  r56_yugoslavia.3.t:0 "Das Schicksal von Banat und Vojvodina"
- r56_yugoslavia.3.d:0 "Das Schicksal des Banats kann nicht beiseite gelassen werden, wenn wir die ethnischen Konflikte in unserem Volk lösen wollen. Laut unseren Agenten in den höchsten Machtzirkeln haben sich die [[~HUN.getAdjective~]]s und [[~ROM.getAdjective~]]s unseren Feinden beunruhigend genähert. Schnelle Befestigungen im Norden werden von unserem Innenverteidigungsministerium vorgeschlagen, um Serbien und seine autonomen Protektorate zu schützen. Es ist jedoch kein Geheimnis, dass [[~HUN.getAdjective~]] und [[~ROM.getAdjective~]] Nationalisten versuchen, Nordserbien zu annektieren und diese Gebiete als ihre eigenen einzugliedern. Angesichts der fehlenden ausländischen Unterstützung für unseren Staat könnten wir diese Gebiete im Austausch für ein gewisses Maß an Anerkennung und Unterstützung abtreten.[~[~\n~][~\n~]~]Liberale Politiker befürworten die Gewährung von Autonomie und Selbstverwaltung für diese Regionen unter der Herrschaft von [[~YUG.getAdjective~]], wodurch die Ansprüche von [[~ROM.getAdjective~]] und [[~HUN.getAdjective~]] auf diese Regionen beendet würden. [~[~\n~][~\n~]~]Was sollen wir tun?"
+ r56_yugoslavia.3.d:0 "Das Schicksal des Banats kann nicht beiseite gelassen werden, wenn wir die ethnischen Konflikte in unserem Volk lösen wollen. Laut unseren Agenten in den höchsten Machtzirkeln haben sich die [HUN.getAdjective]s und [ROM.getAdjective]s unseren Feinden beunruhigend genähert. Schnelle Befestigungen im Norden werden von unserem Innenverteidigungsministerium vorgeschlagen, um Serbien und seine autonomen Protektorate zu schützen. Es ist jedoch kein Geheimnis, dass [HUN.getAdjective] und [ROM.getAdjective] Nationalisten versuchen, Nordserbien zu annektieren und diese Gebiete als ihre eigenen einzugliedern. Angesichts der fehlenden ausländischen Unterstützung für unseren Staat könnten wir diese Gebiete im Austausch für ein gewisses Maß an Anerkennung und Unterstützung abtreten.[~\n\n~]Liberale Politiker befürworten die Gewährung von Autonomie und Selbstverwaltung für diese Regionen unter der Herrschaft von [YUG.getAdjective], wodurch die Ansprüche von [ROM.getAdjective] und [HUN.getAdjective] auf diese Regionen beendet würden. [~\n\n~]Was sollen wir tun?"
  r56_yugoslavia.3.a:0 "Das Banat befestigen. Keiner soll passieren!"
  r56_yugoslavia.3.b:0 "Übergebt die Gebiete für ausländische Unterstützung."
  r56_yugoslavia.3.c:0 "Autonomie für die Massen und sonst nichts!"
 
  yugoslavia.25.t:0 "Kleine Entente unter Beschuss"
- yugoslavia.25.d:0 "Uns ist zu Ohren gekommen, dass unsere Verbündeten in [[~FROM.GetNameDefCap~]] vor einigen Tagen von [[~HUN.GetAdjective~]]-Kräften angegriffen bzw. überfallen worden sind! Aufgrund unserer Vereinbarungen mit der [[~FROM.GetAdjective~]]-Regierung wird von uns erwartet, dass wir uns dem Krieg anschließen und unseren [[~FROM.GetAdjective~]]-Verbündeten helfen. Das könnte jedoch nicht in unserem Sinne sein, wir müssen uns schnell entscheiden, die Zeit läuft uns davon."
+ yugoslavia.25.d:0 "Uns ist zu Ohren gekommen, dass unsere Verbündeten in [FROM.GetNameDefCap] vor einigen Tagen von [HUN.GetAdjective]-Kräften angegriffen bzw. überfallen worden sind! Aufgrund unserer Vereinbarungen mit der [FROM.GetAdjective]-Regierung wird von uns erwartet, dass wir uns dem Krieg anschließen und unseren [FROM.GetAdjective]-Verbündeten helfen. Das könnte jedoch nicht in unserem Sinne sein, wir müssen uns schnell entscheiden, die Zeit läuft uns davon."
  yugoslavia.25.a:0 "Wir haben sie einmal geschlagen, wir werden sie wieder schlagen!"
- yugoslavia.25.b:0 "Wir können es uns nicht leisten, noch einen weiteren Krieg mit den [[~HUN.GetAdjective~]]s zu führen..."
+ yugoslavia.25.b:0 "Wir können es uns nicht leisten, noch einen weiteren Krieg mit den [HUN.GetAdjective]s zu führen..."
 
- yugoslavia.26.t:0 "[[~FROM.GetNameDefCap~]] Rücktritt"
- yugoslavia.26.d:0 "Wir sind darauf aufmerksam geworden, dass unsere Verbündeten in [[~FROM.GetNameDefCap~]] sich geweigert haben, uns in unserem Krieg gegen die [[~HUN.GetAdjective~]]s zu unterstützen, trotz unserer Vereinbarungen mit ihnen. Sie sind nicht besser als der Feind, wie ein weiser Mann einmal sagte, ein falscher Freund ist schlimmer als ein echter Feind..."
+ yugoslavia.26.t:0 "[FROM.GetNameDefCap] Rücktritt"
+ yugoslavia.26.d:0 "Wir sind darauf aufmerksam geworden, dass unsere Verbündeten in [FROM.GetNameDefCap] sich geweigert haben, uns in unserem Krieg gegen die [HUN.GetAdjective]s zu unterstützen, trotz unserer Vereinbarungen mit ihnen. Sie sind nicht besser als der Feind, wie ein weiser Mann einmal sagte, ein falscher Freund ist schlimmer als ein echter Feind..."
  yugoslavia.26.a:0 "Wir werden uns erinnern..."
 
   ""
  yugoslavia.27.t:0 "Balkan-Pakt unter Beschuss"
- yugoslavia.27.d:0 "Wir haben erfahren, dass unsere Verbündeten in [[~FROM.GetNameDefCap~]] vor einigen Tagen von [[~BUL.GetAdjective~]]-Kräften angegriffen oder überfallen worden sind! Aufgrund unserer Vereinbarungen mit der [[~FROM.GetAdjective~]]-Regierung wird von uns erwartet, dass wir uns dem Krieg anschließen und unseren [[~FROM.GetAdjective~]]-Verbündeten helfen. Das könnte jedoch nicht in unserem Sinne sein, wir müssen uns schnell entscheiden, die Zeit läuft uns davon."
+ yugoslavia.27.d:0 "Wir haben erfahren, dass unsere Verbündeten in [FROM.GetNameDefCap] vor einigen Tagen von [BUL.GetAdjective]-Kräften angegriffen oder überfallen worden sind! Aufgrund unserer Vereinbarungen mit der [FROM.GetAdjective]-Regierung wird von uns erwartet, dass wir uns dem Krieg anschließen und unseren [FROM.GetAdjective]-Verbündeten helfen. Das könnte jedoch nicht in unserem Sinne sein, wir müssen uns schnell entscheiden, die Zeit läuft uns davon."
  yugoslavia.27.a:0 "Wir haben sie einmal geschlagen, wir werden sie wieder schlagen!"
- yugoslavia.27.b:0 "Wir können es uns nicht leisten, noch einen weiteren Krieg mit den [[~BUL.GetAdjective~]]s zu führen..."
+ yugoslavia.27.b:0 "Wir können es uns nicht leisten, noch einen weiteren Krieg mit den [BUL.GetAdjective]s zu führen..."
 
   ""
- yugoslavia.28.t:0 "[[~FROM.GetNameDefCap~]] Rücktritt"
- yugoslavia.28.d:0 "Wir sind darauf aufmerksam geworden, dass unsere Verbündeten in [[~FROM.GetNameDefCap~]] sich geweigert haben, uns in unserem Krieg gegen die [[~BUL.GetAdjective~]]s zu unterstützen, trotz unserer Vereinbarungen mit ihnen. Sie sind nicht besser als der Feind, wie ein weiser Mann einmal sagte, ein falscher Freund ist schlimmer als ein echter Feind..."
+ yugoslavia.28.t:0 "[FROM.GetNameDefCap] Rücktritt"
+ yugoslavia.28.d:0 "Wir sind darauf aufmerksam geworden, dass unsere Verbündeten in [FROM.GetNameDefCap] sich geweigert haben, uns in unserem Krieg gegen die [BUL.GetAdjective]s zu unterstützen, trotz unserer Vereinbarungen mit ihnen. Sie sind nicht besser als der Feind, wie ein weiser Mann einmal sagte, ein falscher Freund ist schlimmer als ein echter Feind..."
  yugoslavia.28.a:0 "Wir werden uns erinnern..."
 
  YUG_united_balkan_federation:0 "Vereinigte Balkanföderation"
@@ -160,7 +160,7 @@
  YUG_united_balkan_federation_ADJ:0 "Balkan"
 
  YUG_form_the_balkan_federation:0 "Die Balkanföderation gründen"
- YUG_form_the_balkan_federation_desc:0 "Der Aufstieg von [[~ROOT.getnamedef~]] zum politischen Führer des Balkans hat die Möglichkeit eröffnet, eine Utopie zu verwirklichen, die nur von wenigen Intellektuellen geträumt wurde: die Bildung einer Balkanföderation."
+ YUG_form_the_balkan_federation_desc:0 "Der Aufstieg von [ROOT.getnamedef] zum politischen Führer des Balkans hat die Möglichkeit eröffnet, eine Utopie zu verwirklichen, die nur von wenigen Intellektuellen geträumt wurde: die Bildung einer Balkanföderation."
 
  YUG_fate_of_banat:0 "Das Schicksal des Banats"
  YUG_fate_of_banat_desc:0 "In den Regionen Banat und Vojvodina leben Serben, Rumänen und Ungarn. Jüngste Berichte der lokalen Behörden deuten auf eine rasche Zunahme der Feindseligkeiten zwischen den verschiedenen Bevölkerungsgruppen und eine wachsende nationalistische und separatistische Stimmung in der Bevölkerung hin. Das Schicksal des Banats darf nicht außer Acht gelassen werden, wenn wir die ethnischen Konflikte unter unserer Bevölkerung lösen wollen. Was sollen wir tun?"

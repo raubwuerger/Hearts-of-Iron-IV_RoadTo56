@@ -4,7 +4,7 @@
  # Arthur Donaldson Scottish national party member willing a separate peace with Nazi Germany ""
  # Douglas Young, opposed to Scottish involvement in WWII ""
 
- disable_panceltism_tt:0 "[~§R~]Damit wird der Panceltismus blockiert.[~§!~]"
+ disable_panceltism_tt:0 "§RDamit wird der Panceltismus blockiert.§!"
 
  #Cardonald filling factory ""
  SCO_fascism_party:0 "SDFP"
@@ -20,8 +20,8 @@
  SCO_norman_macmillan:0 "Norman Macmillan"
  SCO_douglas_douglas_hamilton:0 "Douglas Douglas-Hamilton"
 
- SCO_cavalry:0 "[[~ROOT.getAdjective~]] Kavallerie"
- SCO_home_guard:0 "[[~ROOT.getAdjective~]] Infanterie"
+ SCO_cavalry:0 "[ROOT.getAdjective] Kavallerie"
+ SCO_home_guard:0 "[ROOT.getAdjective] Infanterie"
 
  SCO_idea_designers_innovations:0 "Konstrukteure Innovationen"
  SCO_idea_shipbuilding_contacts:0 "Schiffbau Kontakte"
@@ -268,29 +268,29 @@
  r56_scotland.1.b:0 "Heinrich, den zweiten Sohn von Rupprecht, stattdessen zu wählen"
  r56_scotland.1.c:0 "Wahl des Herzogs von Hamilton als Douglas I."
 
- r56_scotland.2.t:0 "Das [[~SCO.Getadjective~]] fordert die Rückgabe des Stone of Scone"
- r56_scotland.2.desc:0 "Die schottische Regierung von [[~SCO.GetLeader~]] hat uns gebeten, den Stone of Scone zu schicken, der seit seiner Erschaffung im Jahr 1307 unter dem Krönungsstuhl liegt."
+ r56_scotland.2.t:0 "Das [SCO.Getadjective] fordert die Rückgabe des Stone of Scone"
+ r56_scotland.2.desc:0 "Die schottische Regierung von [SCO.GetLeader] hat uns gebeten, den Stone of Scone zu schicken, der seit seiner Erschaffung im Jahr 1307 unter dem Krönungsstuhl liegt."
  r56_scotland.2.a:0 "Gut, es ist ja nur ein Stein..."
  r56_scotland.2.b:0 "Unerhört"
 
- r56_scotland.3.t:0 "Die [[~ENG.Getadjective~]] haben sich geweigert!"
- r56_scotland.3.desc:0 "Die [[~ENG.Getadjective~]]-Regierung ließ uns wissen, dass sie nicht bereit sei, uns den Stein des Schicksals zurückzugeben, da er ihnen seit Jahrhunderten gehöre, obwohl er uns vor Jahrhunderten als Symbol ihrer Herrschaft über uns genommen wurde. Sie haben die Monarchie eindeutig beleidigt, indem sie ein wesentliches Element der Legitimität der Krone einbehalten haben. Sie haben wieder einmal auf Schottland und seine Geschichte gespuckt."
+ r56_scotland.3.t:0 "Die [ENG.Getadjective] haben sich geweigert!"
+ r56_scotland.3.desc:0 "Die [ENG.Getadjective]-Regierung ließ uns wissen, dass sie nicht bereit sei, uns den Stein des Schicksals zurückzugeben, da er ihnen seit Jahrhunderten gehöre, obwohl er uns vor Jahrhunderten als Symbol ihrer Herrschaft über uns genommen wurde. Sie haben die Monarchie eindeutig beleidigt, indem sie ein wesentliches Element der Legitimität der Krone einbehalten haben. Sie haben wieder einmal auf Schottland und seine Geschichte gespuckt."
  r56_scotland.3.a:0 "Ruft alle Clans zusammen!"
  r56_scotland.3.b:0 "Krieg ist unnötig, ich habe einen Plan..."
 
- r56_scotland.4.t:0 "[[~ENG.GetNameDefCap~]] Gibt den Stein des Schicksals zurück"
- r56_scotland.4.desc:0 "Der [[~ENG.GetAdjective~]] Beauftragte hat uns wissen lassen, dass der Stein des Schicksals in der Tat ein wichtiges Artefakt für die Schotten war und für die Krönung unserer Monarchen benötigt wurde. Die Vorbereitungen für die Überführung des Steins unter Eskorte bis zur Grenze haben bereits begonnen. Wir müssen nur noch die Einzelheiten für die Empfangszeremonie besprechen."
+ r56_scotland.4.t:0 "[ENG.GetNameDefCap] Gibt den Stein des Schicksals zurück"
+ r56_scotland.4.desc:0 "Der [ENG.GetAdjective] Beauftragte hat uns wissen lassen, dass der Stein des Schicksals in der Tat ein wichtiges Artefakt für die Schotten war und für die Krönung unserer Monarchen benötigt wurde. Die Vorbereitungen für die Überführung des Steins unter Eskorte bis zur Grenze haben bereits begonnen. Wir müssen nur noch die Einzelheiten für die Empfangszeremonie besprechen."
  r56_scotland.4.a:0 "Ausgezeichnet!"
 
  r56_scotland.5.t:0 "Der Stein des Schicksals ist gestohlen worden!"
- r56_scotland.5.desc:0 "Eine Gruppe abscheulicher Diebe ist letzte Nacht in die Abtei von Westminter eingedrungen und hat den Stein des Schicksals gestohlen, der sich in seinem Fach unter dem Krönungsstuhl befand. In Anbetracht der früheren Forderungen der [[~SCO.Getadjective~]]-Regierung vermuten wir eindeutig deren Beteiligung. Die Sicherheitsvorkehrungen wurden verstärkt, aber die Einbrecher sind immer noch auf der Flucht und der Stein ist immer noch verschwunden."
+ r56_scotland.5.desc:0 "Eine Gruppe abscheulicher Diebe ist letzte Nacht in die Abtei von Westminter eingedrungen und hat den Stein des Schicksals gestohlen, der sich in seinem Fach unter dem Krönungsstuhl befand. In Anbetracht der früheren Forderungen der [SCO.Getadjective]-Regierung vermuten wir eindeutig deren Beteiligung. Die Sicherheitsvorkehrungen wurden verstärkt, aber die Einbrecher sind immer noch auf der Flucht und der Stein ist immer noch verschwunden."
  r56_scotland.5.a:0 "Was für ein Ärgernis!"
 
  r56_scotland.6.t:0 "Der Stein des Schicksals ist wieder da!"
- r56_scotland.6.desc:0 "Nach den kühnen Aktionen unserer Agenten ist der Stein des Schicksals endlich wieder in Schottland. Er hat sofort dazu gedient, die rechtmäßige Krönung unseres Monarchen zu bestätigen. Idealerweise sollte er zurück nach Scone gebracht werden, wo er hingehört, aber die Spannungen mit [[~ENG.GetNameDef~]] würden dies zu gefährlich machen. Wir haben jetzt einen rechtmäßigen Monarchen, den ersten König der Schotten, der seit vielen Jahrhunderten rechtmäßig in unserem Land gekrönt wurde."
+ r56_scotland.6.desc:0 "Nach den kühnen Aktionen unserer Agenten ist der Stein des Schicksals endlich wieder in Schottland. Er hat sofort dazu gedient, die rechtmäßige Krönung unseres Monarchen zu bestätigen. Idealerweise sollte er zurück nach Scone gebracht werden, wo er hingehört, aber die Spannungen mit [ENG.GetNameDef] würden dies zu gefährlich machen. Wir haben jetzt einen rechtmäßigen Monarchen, den ersten König der Schotten, der seit vielen Jahrhunderten rechtmäßig in unserem Land gekrönt wurde."
  r56_scotland.6.a:0 "Lang lebe der König!"
 
- SCO_unlocks_cunning_plan_tt:0 "Schaltet den Fokus [~§Y~]Gerissene Pläne[~§!~] frei, der es euch ermöglicht, den Stein zurückzubekommen und die Kontrolle über das Krönungszeremoniell durch gerissene Mittel zurückzuerlangen."
+ SCO_unlocks_cunning_plan_tt:0 "Schaltet den Fokus §YGerissene Pläne§! frei, der es euch ermöglicht, den Stein zurückzubekommen und die Kontrolle über das Krönungszeremoniell durch gerissene Mittel zurückzuerlangen."
 
  operation_steal_the_stone_of_scone:0 "Den Stein von Scone zurückgewinnen"
  operation_steal_the_stone_of_scone_desc:0 "Den Stein des Schicksals zu stehlen und nach Scone zurückzubringen, würde es uns ermöglichen, die Legitimität unserer Monarchie wiederherzustellen und gleichzeitig unnötige Opfer zu vermeiden."

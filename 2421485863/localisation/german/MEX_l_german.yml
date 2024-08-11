@@ -48,7 +48,7 @@
  MEX_negotiate_with_conservatives_desc:0 "Der einzige wirklich richtige Weg, die Probleme Mexikos zu lösen, ist eine wirklich demokratische Abstimmung, alles andere bedeutet, denselben Fehler zu wiederholen, den Mexiko immer wieder gemacht hat."
 
  MEX_consolidate_the_prm_grip:0 "Den Griff der PRM konsolidieren"
- MEX_consolidate_the_prm_grip_desc:0 "Die steigende Popularität der PRM lässt ihr keine andere Wahl, als die Stimme von ganz Mexiko zu werden. Alle vier Flügel der Partei müssen ihre Anstrengungen vereinen, um einen stabilen [[~ROOT.getAdjective~]] Staat zu errichten!"
+ MEX_consolidate_the_prm_grip_desc:0 "Die steigende Popularität der PRM lässt ihr keine andere Wahl, als die Stimme von ganz Mexiko zu werden. Alle vier Flügel der Partei müssen ihre Anstrengungen vereinen, um einen stabilen [ROOT.getAdjective] Staat zu errichten!"
 
  MEX_seize_strategic_businesses:0 "Strategische Unternehmen beschlagnahmen"
  MEX_seize_strategic_businesses_desc:0 "Artikel 33 besagt, dass nur mexikanische Staatsbürger Einfluss auf die mexikanische Innenpolitik nehmen dürfen. Derzeit gibt es viele Personen, die gegen dieses Gesetz verstoßen. Wir sollten es durchsetzen, um unsere politischen Feinde zu beseitigen und unser politisches Monopol zu erhalten."
@@ -67,7 +67,7 @@
  MEX_distance_from_europe_desc:0 "Während des Zweiten Weltkriegs schloss Mexiko einen Verteidigungsvertrag mit den USA unter dem Vorwand, dass die USA Mexiko militärische Ausrüstung leihen würden. Mexiko erhielt nur sehr wenig Unterstützung, und die Vereinbarung wurde nach dem Zweiten Weltkrieg schnell wieder aufgelöst."
 
  MEX_reintroduce_cientificos:0 "Wiedereinführung der Cientificos"
- MEX_reintroduce_cientificos_desc:0 "Die Cientificos waren eine Gruppe von technokratischen Beratern von Porfiro Diaz, die eng mit den reichen Eliten des Landes zusammenarbeiteten und den wachsenden [[~MEX.getAdjective~]]-Staat sowohl industriell als auch wissenschaftlich unterstützten."
+ MEX_reintroduce_cientificos_desc:0 "Die Cientificos waren eine Gruppe von technokratischen Beratern von Porfiro Diaz, die eng mit den reichen Eliten des Landes zusammenarbeiteten und den wachsenden [MEX.getAdjective]-Staat sowohl industriell als auch wissenschaftlich unterstützten."
 
  MEX_empower_the_caudillos:0 "Ermächtigung der Caudillos"
  MEX_empower_the_caudillos_desc:0 "Caudillos waren die starken Männer Mexikos, Militäroffiziere, die oft auch politische Ämter bekleideten. In einigen Fällen hatten die Caudillos in ihrem Heimatstaat mehr Macht als die Bundesregierung. Sie nutzten ihre Macht oft, um ihre persönlichen Ideale zu verfolgen, wie z. B. eine rechtsgerichtete Regierung durch Putsche oder Wünsche wie höhere Militärausgaben durch Abstimmungen im Kongress, um ihre Macht zu vergrößern."
@@ -187,11 +187,11 @@
  ###EVENTS ""
 
  mexico_calles.1.t:0 "Rebellen greifen einen zivilen Zug an!"
- mexico_calles.1.d:0 "Ein Zug aus Mexiko-Stadt und Veracruz wurde gestern von Dissidenten überfallen, wobei mehrere mexikanische Politiker der Partei PRM getötet wurden. [Der Zug wurde an einer Brücke überfallen, die mit Sprengstoff präpariert war, was einen Raubüberfall durch Banditen als Motiv für den Angriff ausschließt. Das von den Beamten entdeckte Wrack wurde durch Feuer vollständig zerstört, so dass für die Ermittler nur wenig übrig blieb. [[~ROOT.getNameDefCap~]] sah sich in den letzten Jahren mit einer zunehmenden politischen Polarisierung konfrontiert, und nun scheinen politische Extremisten zur Gewalt zu greifen."
+ mexico_calles.1.d:0 "Ein Zug aus Mexiko-Stadt und Veracruz wurde gestern von Dissidenten überfallen, wobei mehrere mexikanische Politiker der Partei PRM getötet wurden. [Der Zug wurde an einer Brücke überfallen, die mit Sprengstoff präpariert war, was einen Raubüberfall durch Banditen als Motiv für den Angriff ausschließt. Das von den Beamten entdeckte Wrack wurde durch Feuer vollständig zerstört, so dass für die Ermittler nur wenig übrig blieb. [ROOT.getNameDefCap] sah sich in den letzten Jahren mit einer zunehmenden politischen Polarisierung konfrontiert, und nun scheinen politische Extremisten zur Gewalt zu greifen."
  mexico_calles.1.a:0 "Tragisch, aber wer könnte dahinter stecken?"
 
  mexico_calles.2.t:0 "Calles gefangen genommen und ins Exil geschickt!"
- mexico_calles.2.d:0 "Der ehemalige Präsident Plutarco Elias Calles und 3 seiner rechten Hand wurden auf Befehl von Präsident [[~MEX.GetLeader~]] verhaftet. [Mexikos Linke haben Calles beschuldigt, zu versuchen, den rechten Flügel gegen Präsident Cardenas, den er als Kommunisten bezeichnet, aufzuwiegeln und das Land möglicherweise in einen Bürgerkrieg zu treiben. [Als die mexikanischen Behörden die Ranch stürmten, nahmen sie Calles fest, als er in seinem Bett lag und eine spanische Übersetzung von Hitlers Buch "Mein Kampf" las. Calles wurde dann mitten in der Nacht in ein Flugzeug gezwungen, das ihn nach Houston, Texas, bringen sollte, wo er am Morgen ankommen sollte, um nach San Diego zu fliegen, wo er mit seiner Schwester leben würde.[~\n~][~\n~]Ein Waffenlager, vermutlich für die Versorgung von Rebellen, wurde ebenfalls sichergestellt."
+ mexico_calles.2.d:0 "Der ehemalige Präsident Plutarco Elias Calles und 3 seiner rechten Hand wurden auf Befehl von Präsident [MEX.GetLeader] verhaftet. [Mexikos Linke haben Calles beschuldigt, zu versuchen, den rechten Flügel gegen Präsident Cardenas, den er als Kommunisten bezeichnet, aufzuwiegeln und das Land möglicherweise in einen Bürgerkrieg zu treiben. [Als die mexikanischen Behörden die Ranch stürmten, nahmen sie Calles fest, als er in seinem Bett lag und eine spanische Übersetzung von Hitlers Buch "Mein Kampf" las. Calles wurde dann mitten in der Nacht in ein Flugzeug gezwungen, das ihn nach Houston, Texas, bringen sollte, wo er am Morgen ankommen sollte, um nach San Diego zu fliegen, wo er mit seiner Schwester leben würde.\n\nEin Waffenlager, vermutlich für die Versorgung von Rebellen, wurde ebenfalls sichergestellt."
  mexico_calles.2.a:0 "Calles bekam die gleiche Behandlung, die er so vielen anderen zukommen ließ."
 
 
@@ -200,11 +200,11 @@
  mexico_calles.3.a:0 "Es ist an der Zeit, diese Farce zu beenden!"
 
  mexico_pemex.1.t:0 "Ölarbeiterstreiks"
- mexico_pemex.1.d:0 "Präsident [[~Root.GetLeader~]], die Arbeiter streiken gegen die ungerechte Behandlung durch die ausländischen Unternehmen, die die Ölgesellschaft Aguila aufgekauft haben. Sie haben schon früher eklatant gegen viele unserer Gesetze verstoßen, und ein Vorgehen gegen sie wird bei den Mexikanern wenig bis gar keine Gegenreaktion hervorrufen. Am besten wäre es, die Ölgesellschaft auf der Grundlage des Verfassungsgesetzes zu verstaatlichen, das uns das Eigentum an allen natürlichen Ressourcen zusichert. Die Verstaatlichung des Öls würde dazu beitragen, die Industrialisierung unseres Landes zu finanzieren, und im Falle eines Krieges würden wir einen erheblichen Gewinn erzielen."
+ mexico_pemex.1.d:0 "Präsident [Root.GetLeader], die Arbeiter streiken gegen die ungerechte Behandlung durch die ausländischen Unternehmen, die die Ölgesellschaft Aguila aufgekauft haben. Sie haben schon früher eklatant gegen viele unserer Gesetze verstoßen, und ein Vorgehen gegen sie wird bei den Mexikanern wenig bis gar keine Gegenreaktion hervorrufen. Am besten wäre es, die Ölgesellschaft auf der Grundlage des Verfassungsgesetzes zu verstaatlichen, das uns das Eigentum an allen natürlichen Ressourcen zusichert. Die Verstaatlichung des Öls würde dazu beitragen, die Industrialisierung unseres Landes zu finanzieren, und im Falle eines Krieges würden wir einen erheblichen Gewinn erzielen."
  mexico_pemex.1.a:0 "Machen wir ein Machtspiel."
 
  mexico_pemex.2.t:0 "Mexiko verstaatlicht die Ölgesellschaften!"
- mexico_pemex.2.d:0 "[[~MEX.GetLeader~]] hat die Verstaatlichung von Ölgesellschaften innerhalb Mexikos angekündigt. Die bisher ausländischen Unternehmen sollen beschlagnahmt und der staatlichen Ölgesellschaft PEMEX unterstellt werden. Dies trifft vor allem britische und niederländische Unternehmen, die ihre Regierungen auffordern, in den Krieg zu ziehen. Amerika ist sich weitgehend unsicher, ob es die Verstaatlichung gutheißen oder verurteilen soll, denn die Präsenz auf dem mexikanischen Ölmarkt war nicht nur vernachlässigbar, sondern die Verstaatlichung hilft ihrem Geschäft, indem sie die ausländische Konkurrenz ausschaltet."
+ mexico_pemex.2.d:0 "[MEX.GetLeader] hat die Verstaatlichung von Ölgesellschaften innerhalb Mexikos angekündigt. Die bisher ausländischen Unternehmen sollen beschlagnahmt und der staatlichen Ölgesellschaft PEMEX unterstellt werden. Dies trifft vor allem britische und niederländische Unternehmen, die ihre Regierungen auffordern, in den Krieg zu ziehen. Amerika ist sich weitgehend unsicher, ob es die Verstaatlichung gutheißen oder verurteilen soll, denn die Präsenz auf dem mexikanischen Ölmarkt war nicht nur vernachlässigbar, sondern die Verstaatlichung hilft ihrem Geschäft, indem sie die ausländische Konkurrenz ausschaltet."
  mexico_pemex.2.a:0 "Das ist Wahnsinn, Mexiko wird einen Krieg beginnen!"
  mexico_pemex.2.b:0 "Ungeheuerlich! Sie wagen es, unser Eigentum zu stehlen?!"
  mexico_pemex.2.c:0 "Jetzt warten wir ab, wie sie reagieren."
@@ -220,22 +220,22 @@
  mexico_pemex.4.e:0 "Sie aushungern."
 
  mexico_pemex.5.t:0 "Die USA verhängen ein Embargo gegen Mexiko!"
- mexico_pemex.5.d:0 "Präsident [[~USA.GetLeader~]] hat als Reaktion auf die Verstaatlichung amerikanischer Ölgesellschaften in Mexiko ein Embargo gegen Mexiko angekündigt. Politische Analysten bezeichnen dies als einen Versuch, die staatliche mexikanische Ölgesellschaft PEMEX auszuhungern und Mexiko zu zwingen, die verstaatlichten Vermögenswerte zurückzugeben."
+ mexico_pemex.5.d:0 "Präsident [USA.GetLeader] hat als Reaktion auf die Verstaatlichung amerikanischer Ölgesellschaften in Mexiko ein Embargo gegen Mexiko angekündigt. Politische Analysten bezeichnen dies als einen Versuch, die staatliche mexikanische Ölgesellschaft PEMEX auszuhungern und Mexiko zu zwingen, die verstaatlichten Vermögenswerte zurückzugeben."
  mexico_pemex.5.a:0 "Mal sehen, ob PEMEX das überlebt."
  mexico_pemex.5.b:0 "Sie versuchen, uns auszuhungern."
 
  mexico_pemex.6.t:0 "U.K. verhängt Embargo gegen Mexiko!"
- mexico_pemex.6.d:0 "[[~ENG.GetLeader~]] hat als Reaktion auf die Verstaatlichung der englischen und niederländischen Ölgesellschaften in Mexiko ein Embargo gegen Mexiko angekündigt. Politische Analysten bezeichnen dies als einen Versuch, die staatliche mexikanische Ölgesellschaft PEMEX auszuhungern und Mexiko zu zwingen, die verstaatlichten Vermögenswerte zurückzugeben."
+ mexico_pemex.6.d:0 "[ENG.GetLeader] hat als Reaktion auf die Verstaatlichung der englischen und niederländischen Ölgesellschaften in Mexiko ein Embargo gegen Mexiko angekündigt. Politische Analysten bezeichnen dies als einen Versuch, die staatliche mexikanische Ölgesellschaft PEMEX auszuhungern und Mexiko zu zwingen, die verstaatlichten Vermögenswerte zurückzugeben."
  mexico_pemex.6.a:0 "Mal sehen, ob PEMEX das überlebt."
  mexico_pemex.6.b:0 "Sie versuchen, uns auszuhungern."
 
  mexico_pemex.7.t:0 "Die USA erklären Mexiko den Krieg!"
- mexico_pemex.7.d:0 "Präsident [[~USA.GetLeader~]] hat aus Empörung über die Konfiszierung von Ölvorkommen amerikanischer Unternehmen eine Kriegserklärung an Mexiko angekündigt. [[~USA.GetLeader~]] hat erklärt, dass es die amerikanischen Interessen verteidigen muss und die mexikanische Haltung gegenüber amerikanischen Unternehmen nicht dulden wird. [[~MEX.GetLeader~]] entgegnete, dass ausländischer Besitz von Öl nach mexikanischem Recht von vornherein nicht legal sei und dass jeder zukünftige Präsident das Recht habe, das Gesetz durchzusetzen. [[~MEX.GetLeader~]] hat auch erklärt, dass sie dafür kämpfen werden, ihre Verfassung vor ausländischen Interessen zu schützen."
+ mexico_pemex.7.d:0 "Präsident [USA.GetLeader] hat aus Empörung über die Konfiszierung von Ölvorkommen amerikanischer Unternehmen eine Kriegserklärung an Mexiko angekündigt. [USA.GetLeader] hat erklärt, dass es die amerikanischen Interessen verteidigen muss und die mexikanische Haltung gegenüber amerikanischen Unternehmen nicht dulden wird. [MEX.GetLeader] entgegnete, dass ausländischer Besitz von Öl nach mexikanischem Recht von vornherein nicht legal sei und dass jeder zukünftige Präsident das Recht habe, das Gesetz durchzusetzen. [MEX.GetLeader] hat auch erklärt, dass sie dafür kämpfen werden, ihre Verfassung vor ausländischen Interessen zu schützen."
  mexico_pemex.7.a:0 "Mein Gott."
  mexico_pemex.7.b:0 "Dios Mio."
 
  mexico_pemex.8.t:0 "Großbritannien erklärt Mexiko den Krieg!"
- mexico_pemex.8.d:0 "Das Vereinigte Königreich hat Mexiko wegen der Verstaatlichung von Vermögenswerten in Höhe von über 130 Millionen Dollar den Kriegszustand erklärt. [[~ENG.GetLeader~]] erklärte: "Es spielt keine Rolle, ob Amerika mit uns oder gegen uns ist, das Vereinigte Königreich wird sich nicht herumschubsen lassen!" Es erübrigt sich zu sagen, dass Mexiko in einer sehr schwierigen Lage zu sein scheint."
+ mexico_pemex.8.d:0 "Das Vereinigte Königreich hat Mexiko wegen der Verstaatlichung von Vermögenswerten in Höhe von über 130 Millionen Dollar den Kriegszustand erklärt. [ENG.GetLeader] erklärte: "Es spielt keine Rolle, ob Amerika mit uns oder gegen uns ist, das Vereinigte Königreich wird sich nicht herumschubsen lassen!" Es erübrigt sich zu sagen, dass Mexiko in einer sehr schwierigen Lage zu sein scheint."
  mexico_pemex.8.a:0 "Mein Gott!"
  mexico_pemex.8.b:0 "Dios Mio."
 
@@ -250,7 +250,7 @@
  mexico_minor.2.b:0 "Wer? was?"
 
  mexico_minor.4.t:0 "Mexiko empfängt spanische Intellektuelle"
- mexico_minor.4.d:0 "[[~Root.GetLeader~]] hat angekündigt, dass er die Intellektuellen, die vor dem spanischen Bürgerkrieg fliehen, im mexikanischen Universitätssystem willkommen heißt. Ein neuer Campus mit dem Namen "Haus Spaniens" wird den Intellektuellen die Möglichkeit geben, ihre Arbeit fortzusetzen. Der Campus wurde von einer Koalition aus Banken, Bundesämtern und Sonderinteressen finanziert."
+ mexico_minor.4.d:0 "[Root.GetLeader] hat angekündigt, dass er die Intellektuellen, die vor dem spanischen Bürgerkrieg fliehen, im mexikanischen Universitätssystem willkommen heißt. Ein neuer Campus mit dem Namen "Haus Spaniens" wird den Intellektuellen die Möglichkeit geben, ihre Arbeit fortzusetzen. Der Campus wurde von einer Koalition aus Banken, Bundesämtern und Sonderinteressen finanziert."
  mexico_minor.4.b:0 "Wahrlich ein humanitärer Akt."
  mexico_minor.4.a:0 "Baut es, und sie werden kommen."
 
@@ -267,9 +267,9 @@
  mexico_article_30.2.c:0 "Alle Gesetzesbrecher ausweisen"
 
  mexico_article_30.3.t:0 "Geheimdienstbericht: William Jenkins "
- mexico_article_30.3.d:0 "Britische Diplomaten sind empört und fordern, dass wir William Jenkins wegen Verstoßes gegen Artikel 30 der Verfassung verhaften! Sie werfen ihm vor, sich in die mexikanische Politik einzumischen, indem er sein Medienmonopol nutzt, um die Mexikaner gegen [[~ENG.getNameDef~]] aufzubringen. [Aus einem aktuellen Bericht der DFS geht jedoch hervor, dass Jenkins mit Maximino Camacho in Verbindung steht und dieser Jenkins im Gegenzug für die Bereitstellung von Geschäftsmöglichkeiten politisch schützt. Maximino ist ein bekannter Sympathisant der Achsenmächte und soll ein Foto von Mussolini über seinem Bett in seiner Villa in Pueblo hängen haben. Es ist offensichtlich, dass Maximino seinen Einfluss auf Jenkins nutzt, um zu verhindern, dass nicht-faschistischer Einfluss in Mexiko Fuß fasst. [Pro-UK-Filme sind jedoch beim mexikanischen Publikum äußerst unbeliebt und haben mexikanische Kinos dazu veranlasst, sie in einigen Fällen nicht mehr zu zeigen. Die Entscheidung, pro-britische Filme zuzulassen, würde zwar [[~ENG.getNameDef~]] gefallen, nicht aber dem mexikanischen Kinopublikum. [Diese Situation könnte auch dazu genutzt werden, nicht nur Jenkins oder die [[~ENG.getAdjective~]] auszuweisen, sondern wir hätten einen Vorwand, alle Gesetzesbrecher des Landes auszuweisen, um das Gesicht zu wahren, da wir die Schuld nicht einer Partei zuschieben würden. Was sollten wir also tun?"
+ mexico_article_30.3.d:0 "Britische Diplomaten sind empört und fordern, dass wir William Jenkins wegen Verstoßes gegen Artikel 30 der Verfassung verhaften! Sie werfen ihm vor, sich in die mexikanische Politik einzumischen, indem er sein Medienmonopol nutzt, um die Mexikaner gegen [ENG.getNameDef] aufzubringen. [Aus einem aktuellen Bericht der DFS geht jedoch hervor, dass Jenkins mit Maximino Camacho in Verbindung steht und dieser Jenkins im Gegenzug für die Bereitstellung von Geschäftsmöglichkeiten politisch schützt. Maximino ist ein bekannter Sympathisant der Achsenmächte und soll ein Foto von Mussolini über seinem Bett in seiner Villa in Pueblo hängen haben. Es ist offensichtlich, dass Maximino seinen Einfluss auf Jenkins nutzt, um zu verhindern, dass nicht-faschistischer Einfluss in Mexiko Fuß fasst. [Pro-UK-Filme sind jedoch beim mexikanischen Publikum äußerst unbeliebt und haben mexikanische Kinos dazu veranlasst, sie in einigen Fällen nicht mehr zu zeigen. Die Entscheidung, pro-britische Filme zuzulassen, würde zwar [ENG.getNameDef] gefallen, nicht aber dem mexikanischen Kinopublikum. [Diese Situation könnte auch dazu genutzt werden, nicht nur Jenkins oder die [ENG.getAdjective] auszuweisen, sondern wir hätten einen Vorwand, alle Gesetzesbrecher des Landes auszuweisen, um das Gesicht zu wahren, da wir die Schuld nicht einer Partei zuschieben würden. Was sollten wir also tun?"
  mexico_article_30.3.a:0 "William Jenkins ausweisen"
- mexico_article_30.3.b:0 "Den [[~ENG.getAdjective~]] ausweisen"
+ mexico_article_30.3.b:0 "Den [ENG.getAdjective] ausweisen"
  mexico_article_30.3.c:0 "Alle Gesetzesbrecher ausweisen"
 
  mexico_zoot_suit.1.t:0 "Lagunen-Auslöser"
@@ -483,7 +483,7 @@
 
 
  MEX_maximato_legacy:0 "Maximato Vermächtnis"
- MEX_maximato_legacy_desc:0 "Die [[~ROOT.getAdjective~]]-Regierung ist durchdrungen von Loyalisten von Plutarco Calles, auch bekannt als "El Jefe Maximo". Er war von 1924 bis 1928 mexikanischer Präsident und kontrollierte Mexiko durch stellvertretende Präsidenten und Unterstützer in der PRM. Von 1924 bis 1936 war Calles derjenige, der die wahre Macht in Mexiko innehatte. Diese Periode in der mexikanischen Geschichte ist als Maximato bekannt."
+ MEX_maximato_legacy_desc:0 "Die [ROOT.getAdjective]-Regierung ist durchdrungen von Loyalisten von Plutarco Calles, auch bekannt als "El Jefe Maximo". Er war von 1924 bis 1928 mexikanischer Präsident und kontrollierte Mexiko durch stellvertretende Präsidenten und Unterstützer in der PRM. Von 1924 bis 1936 war Calles derjenige, der die wahre Macht in Mexiko innehatte. Diese Periode in der mexikanischen Geschichte ist als Maximato bekannt."
 
  MEX_recovering_from_maximato:0 "Überwindung der Maximato"
 
@@ -492,7 +492,7 @@
  MEX_political_union_support:0 "Unterstützung der politischen Union"
 
  MEX_funding_public_enterprises:0 "Finanzierung öffentlicher Unternehmen"
- MEX_funding_public_enterprises_desc:0 "[[~ROOT.getAdjective~]] leitet derzeit einen Teil der verfügbaren Mittel zur Unterstützung der Gründung öffentlicher Unternehmen um, wodurch sich die Lebensbedingungen der Bevölkerung erheblich verbessern."
+ MEX_funding_public_enterprises_desc:0 "[ROOT.getAdjective] leitet derzeit einen Teil der verfügbaren Mittel zur Unterstützung der Gründung öffentlicher Unternehmen um, wodurch sich die Lebensbedingungen der Bevölkerung erheblich verbessern."
 
  MEX_new_maximato:0 "Neue Maximato"
 
@@ -511,11 +511,11 @@
 
  #decisions ""
  MEX_foreign_affairs:0 "Außenpolitische Angelegenheiten"
- MEX_invite_FROM_to_the_treaty:0 "Einladen von [[~FROM.getNameDef~]] zum Vertrag"
- MEX_invite_FROM_to_the_treaty_tt:0 "Schaltet £decision_icon_small frei, um [~§Y~]unabhängige lateinamerikanische Länder in unser Bündnis einzuladen[~§!~]!"
+ MEX_invite_FROM_to_the_treaty:0 "Einladen von [FROM.getNameDef] zum Vertrag"
+ MEX_invite_FROM_to_the_treaty_tt:0 "Schaltet £decision_icon_small frei, um §Yunabhängige lateinamerikanische Länder in unser Bündnis einzuladen§!!"
 
  #tooltips ""
- MEX_pan_american_highway_tt:0 "Dieser Nationale Geist wird nach der mexikanischen Fertigstellung des Schwerpunkts '[~§Y~]Die Panamerikanische Autobahn[~§!~]' entfernt werden."
+ MEX_pan_american_highway_tt:0 "Dieser Nationale Geist wird nach der mexikanischen Fertigstellung des Schwerpunkts '§YDie Panamerikanische Autobahn§!' entfernt werden."
 
  fierro:0 "Roberto Fierro"
 
@@ -581,9 +581,9 @@
  MEX_expelled_diplomats:0 "Ausgewiesene Diplomaten"
 
  #tooltips ""
- MEX_oil_concessions_tt:0 "[~§Y~]Unsere Ölförderanlagen sind in den Händen ausländischer Konzerne![~§!~]"
+ MEX_oil_concessions_tt:0 "§YUnsere Ölförderanlagen sind in den Händen ausländischer Konzerne!§!"
 
- MEX_strength_of_the_civil_War_depends_on_low_stability_tt:0 "[~§G~]Geringe Stabilität[~§!~] sorgt dafür, dass [~§Y~]Rebellen[~§!~] weniger[~§G~]Kräfte[~§!~] erhalten!"
+ MEX_strength_of_the_civil_War_depends_on_low_stability_tt:0 "§GGeringe Stabilität§! sorgt dafür, dass §YRebellen§! weniger§GKräfte§! erhalten!"
 
  MEX_diplomatic_opportunity_tt:0 "Könnte einen Krieg mit den USA und dem Vereinigten Königreich beginnen, wenn die Spannungen zu niedrig sind, könnte es möglich sein, die USA und das Vereinigte Königreich gegeneinander auszuspielen, wenn der Zeitpunkt richtig ist."
 
@@ -598,41 +598,41 @@
  election_1940:0 "1940 Wahlsaison"
  riot:0 "Zoot-Suit-Aufstand findet statt"
 
- MEX_GATHERING_STORM_DESC:0 ""Mexiko befindet sich in den letzten Tagen des Maximato, der Zeit, in der der ehemalige Präsident Plutarco Elias Calles die wahre Macht in Mexiko innehatte, indem er rechte Loyalisten sowohl in der Politik als auch im Militär einsetzte. Seit 1934 führt Lázaro Cárdenas del Río einen politischen Krieg, um Plutarcos Kontrolle über das Land zu beenden und seine eigenen linken Reformen durchzusetzen. Mexiko steht an einem Scheideweg, während sich die Welt auf einen Krieg vorbereitet, da der linke und der rechte Flügel um die Kontrolle über die Zukunft des Landes und seinen Platz in der kommenden neuen Weltordnung kämpfen." #[[~KÜRZLICH AKTUALISIERT~]]"
- MEX_BLITZKRIEG_DESC:0 ""Die Maximato ist zu Ende und Calles ist weg, aber der Kampf zwischen dem linken und dem rechten Flügel tobt weiter. Ermutigt durch die wirtschaftliche Not, die durch die PEMEX-Embargos verursacht wurde, hat sich der rechte Flügel polarisiert und befindet sich nun in einem politischen Bürgerkrieg darüber, wer im nächsten Jahr der Kandidat des rechten Flügels für die Präsidentschaft sein wird. Die dominierende PRI hingegen steht nun vor der Wahl, entweder ihre Ideale mit dem gemäßigten Kandidaten Camacho zu kompromittieren oder sich auf den linken Kandidaten Mugica zu stützen." #[[~KÜRZLICH AKTUALISIERT~]]"
+ MEX_GATHERING_STORM_DESC:0 ""Mexiko befindet sich in den letzten Tagen des Maximato, der Zeit, in der der ehemalige Präsident Plutarco Elias Calles die wahre Macht in Mexiko innehatte, indem er rechte Loyalisten sowohl in der Politik als auch im Militär einsetzte. Seit 1934 führt Lázaro Cárdenas del Río einen politischen Krieg, um Plutarcos Kontrolle über das Land zu beenden und seine eigenen linken Reformen durchzusetzen. Mexiko steht an einem Scheideweg, während sich die Welt auf einen Krieg vorbereitet, da der linke und der rechte Flügel um die Kontrolle über die Zukunft des Landes und seinen Platz in der kommenden neuen Weltordnung kämpfen." #[KÜRZLICH AKTUALISIERT]"
+ MEX_BLITZKRIEG_DESC:0 ""Die Maximato ist zu Ende und Calles ist weg, aber der Kampf zwischen dem linken und dem rechten Flügel tobt weiter. Ermutigt durch die wirtschaftliche Not, die durch die PEMEX-Embargos verursacht wurde, hat sich der rechte Flügel polarisiert und befindet sich nun in einem politischen Bürgerkrieg darüber, wer im nächsten Jahr der Kandidat des rechten Flügels für die Präsidentschaft sein wird. Die dominierende PRI hingegen steht nun vor der Wahl, entweder ihre Ideale mit dem gemäßigten Kandidaten Camacho zu kompromittieren oder sich auf den linken Kandidaten Mugica zu stützen." #[KÜRZLICH AKTUALISIERT]"
 
  POLITICS_DIONISIO_ENCINA_DESC:0 "Dionisio wurde als polarisierende Figur beschrieben, und Historiker fanden oft nur sehr wenig Positives über seine Führung zu sagen. Dionisio war für die Zersplitterung der größten mexikanischen kommunistischen Partei, der PCM, verantwortlich. Er wurde von sowjetischen Agenten unterstützt, die mit der Verbreitung des Kommunismus in Mexiko betraut waren, und handelte nur auf Befehl, da er befürchtete, dass seine sowjetischen Vorgesetzten einen geeigneteren Führer für die PCM finden würden. Diese Angst veranlasste ihn, jeden, der über bessere Führungsqualitäten oder Charisma verfügte, aus der PCM zu entfernen, weil er befürchtete, von ihnen ersetzt zu werden, so dass die PCM einen schweren Mangel an guter Führung und proaktivem Denken aufwies."
 
 # New monarchist focuses ""
 
 MEX_rally_the_monarchists:0 "Versammlung der Monarchisten"
-MEX_rally_the_monarchists_desc:0 "Die kaiserliche Nostalgie hat in [[~MEX.GetNameDef~]] einen Aufschwung erlebt. Angesichts der anhaltenden politischen Instabilität in unserem Land ist es vielleicht überfällig, sich auf die alten Wege zu besinnen."
+MEX_rally_the_monarchists_desc:0 "Die kaiserliche Nostalgie hat in [MEX.GetNameDef] einen Aufschwung erlebt. Angesichts der anhaltenden politischen Instabilität in unserem Land ist es vielleicht überfällig, sich auf die alten Wege zu besinnen."
 MEX_royalist_coup:0 "Royalistischer Coup"
 MEX_royalist_coup_desc:0 "Die Zeit ist reif für die Wiedereinsetzung von Maria Josepha Sophia de Iturbide in ihre rechtmäßige Stellung als Kaiserin von Mexiko. Das Haus Iturbide wird wieder glorreich sein!"
 MEX_formalize_church_land_rights:0 "Formalisierung der kirchlichen Landrechte"
-MEX_formalize_church_land_rights_desc:0 "[[~ROOT.GetLeader~]], eine gläubige Katholikin, versteht mehr als die meisten anderen, wie wichtig die Sicherung der Landrechte für die Kirche in ihrem Land ist. Wir werden Schritte unternehmen, um ihre Situation zu formalisieren, und haben ihre Unterstützung."
+MEX_formalize_church_land_rights_desc:0 "[ROOT.GetLeader], eine gläubige Katholikin, versteht mehr als die meisten anderen, wie wichtig die Sicherung der Landrechte für die Kirche in ihrem Land ist. Wir werden Schritte unternehmen, um ihre Situation zu formalisieren, und haben ihre Unterstützung."
 MEX_papal_blessing_of_the_empress:0 "Päpstlicher Segen"
 MEX_papal_blessing_of_the_empress_desc:0 "Eine formelle Segnung durch den Papst selbst wird sicherlich alle verbleibenden Zweifel an der Legitimität der Kaiserin in den Augen der Kirche ausräumen."
-MEX_support_the_spanish_carlists:0 "Unterstützung der [[~SPB.GetAdjective~]] Karlisten"
+MEX_support_the_spanish_carlists:0 "Unterstützung der [SPB.GetAdjective] Karlisten"
 MEX_support_the_spanish_carlists_desc:0 ""
 MEX_focus_soldaderas_2:0 "Soldaderas"
-MEX_focus_soldaderas_2_desc:0 "[[~ROOT.GetAdjective~]] Die Gesellschaft verändert sich. Dank der gnädigen Kaiserin, die als große Einigerin fungiert, steigen die Frauen in der Gesellschaft rasch auf. So gibt es in der Armee immer mehr weibliche Freiwillige, von denen viele sogar den Offiziersstatus erreicht haben."
+MEX_focus_soldaderas_2_desc:0 "[ROOT.GetAdjective] Die Gesellschaft verändert sich. Dank der gnädigen Kaiserin, die als große Einigerin fungiert, steigen die Frauen in der Gesellschaft rasch auf. So gibt es in der Armee immer mehr weibliche Freiwillige, von denen viele sogar den Offiziersstatus erreicht haben."
 MEX_reform_the_imperial_army:0 "Reform der kaiserlichen Armee"
-MEX_reform_the_imperial_army_desc:0 "Obwohl die kaiserliche Armee von 1864 bis 1867 unter Maximilian I. grundsätzlich schwach und ineffektiv war, dient sie als großartige Grundlage für eine moderne [[~ROOT.GetAdjective~]] kaiserliche Armee. Dieses Mal wird sie stärker sein als je zuvor."
+MEX_reform_the_imperial_army_desc:0 "Obwohl die kaiserliche Armee von 1864 bis 1867 unter Maximilian I. grundsätzlich schwach und ineffektiv war, dient sie als großartige Grundlage für eine moderne [ROOT.GetAdjective] kaiserliche Armee. Dieses Mal wird sie stärker sein als je zuvor."
 MEX_navy_fit_for_an_empress:0 "Eine kaisertaugliche Marine"
 MEX_navy_fit_for_an_empress_desc:0 "Als Kaiserin eines riesigen Reiches ist es nur natürlich, eine prestigeträchtige Flotte zu haben, die dies begleitet."
 MEX_legacy_of_1864:0 "Das Erbe von 1864"
-MEX_legacy_of_1864_desc:0 "Ohne die Intervention von [[~FRA.GetAdjective~]] im Jahr 1863 hätte Maximilian I. nicht die Chance gehabt, die kaiserliche Autorität in [[~ROOT.GetNonIdeologyName~]] wiederherzustellen. Mit unserer neu gefundenen Stärke im Reich wäre es daher nur natürlich, dass wir unsere Beziehungen zu unserem einstigen Unterstützer wieder aufleben lassen."
+MEX_legacy_of_1864_desc:0 "Ohne die Intervention von [FRA.GetAdjective] im Jahr 1863 hätte Maximilian I. nicht die Chance gehabt, die kaiserliche Autorität in [ROOT.GetNonIdeologyName] wiederherzustellen. Mit unserer neu gefundenen Stärke im Reich wäre es daher nur natürlich, dass wir unsere Beziehungen zu unserem einstigen Unterstützer wieder aufleben lassen."
 MEX_mimic_the_grande_armee:0 "Die Grande Armée imitieren"
 MEX_mimic_the_grande_armee_desc:0 "In der jüngeren Geschichte hat sich die Grande Armée wiederholt als effektive Kampftruppe erwiesen. Wenn wir unsere eigenen Fähigkeiten verbessern würden, könnten wir viel von ihr lernen."
 MEX_the_new_continental_system:0 "Das neue kontinentale System"
 MEX_the_new_continental_system_desc:0 ""
 MEX_legacy_of_new_spain:0 "Das Erbe von Neuspanien"
-MEX_legacy_of_new_spain_desc:0 "Auch wenn die Erinnerungen an die [[~SPB.GetAdjective~]]-Kolonisierung unserer Heimat nicht immer angenehm sind, so lässt sich doch nicht leugnen, dass das Juwel des [[~SPB.GetAdjective~]] Reiches. Auch wenn es natürlich nicht dasselbe sein wird, können wir in einem formellen Bündnis mit unseren ehemaligen Oberherren einige alte Traditionen wieder aufleben lassen."
+MEX_legacy_of_new_spain_desc:0 "Auch wenn die Erinnerungen an die [SPB.GetAdjective]-Kolonisierung unserer Heimat nicht immer angenehm sind, so lässt sich doch nicht leugnen, dass das Juwel des [SPB.GetAdjective] Reiches. Auch wenn es natürlich nicht dasselbe sein wird, können wir in einem formellen Bündnis mit unseren ehemaligen Oberherren einige alte Traditionen wieder aufleben lassen."
 MEX_restore_the_viceroyalty_system:0 "Wiederherstellung des Systems der Vizekönigreiche"
 MEX_restore_the_viceroyalty_system_desc:0 "Das System der Vizekönigreiche war trotz seiner Mängel auf vielen Ebenen von gegenseitigem Nutzen. Jetzt, da wir uns mit unseren ehemaligen Oberherren verbündet haben, sollten wir eine Neo-Wiederherstellung dieses Systems anstreben."
-MEX_new_mexican_empire:0 "Neues [[~ROOT.GetAdjective~]] Imperium"
-MEX_new_mexican_empire_desc:0 "Unser Schicksal ist das Schicksal von [[~ROOT.GetNameDef~]], und nur das unsere. Wir werden einen Weg einschlagen, der uns nicht an das Leid des alten Reiches bindet, denn wir sind ein neues Reich, stärker als je zuvor."
+MEX_new_mexican_empire:0 "Neues [ROOT.GetAdjective] Imperium"
+MEX_new_mexican_empire_desc:0 "Unser Schicksal ist das Schicksal von [ROOT.GetNameDef], und nur das unsere. Wir werden einen Weg einschlagen, der uns nicht an das Leid des alten Reiches bindet, denn wir sind ein neues Reich, stärker als je zuvor."
 MEX_reconquer_the_viceroys:0 "Rückeroberung der Vizekönige"
 MEX_reconquer_the_viceroys_desc:0 ""
 MEX_reconquer_the_west_indies:0 "Rückeroberung der Westindischen Inseln"

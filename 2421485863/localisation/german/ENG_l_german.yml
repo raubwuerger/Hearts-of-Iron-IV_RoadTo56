@@ -19,7 +19,7 @@
   ENG_agents_of_the_revolution_desc:0 "Deckungsoperationen sind für den Schutz der Revolution unerlässlich."
 
   ENG_french_alliance:0 "Französische Allianz"
-  ENG_french_alliance_desc:0 "Von der alten Triple Entente mit Russland sind nur noch [[~ROOT.GetNameDef~]] und die [[~FRA.GetNameDef~]] übrig, die sich für immer verändert haben. Wenn sich die Geschichte nicht wiederholen soll, müssen wir dafür sorgen, dass diese beiden Nationen, Bastionen der Demokratie und Freiheit in Europa, Verbündete bleiben."
+  ENG_french_alliance_desc:0 "Von der alten Triple Entente mit Russland sind nur noch [ROOT.GetNameDef] und die [FRA.GetNameDef] übrig, die sich für immer verändert haben. Wenn sich die Geschichte nicht wiederholen soll, müssen wir dafür sorgen, dass diese beiden Nationen, Bastionen der Demokratie und Freiheit in Europa, Verbündete bleiben."
 
   ENG_the_home_army:0 "Die Heimatarmee"
   ENG_the_home_army_desc:0 "Da die Gefahr eines Konflikts in unserem Heimatland immer deutlicher wird, ist es ideal, eine Heimatmiliz zu bilden, die hauptsächlich aus Veteranen des Ersten Weltkriegs besteht, um ausländische Invasoren so lange aufzuhalten, bis professionelle Truppen sich reorganisieren und Vergeltung üben können."
@@ -27,11 +27,11 @@
  ENG_special_operations_executive:0 "Sondereinsatzkommando"
  ENG_special_operations_executive_desc:0 "Die Bildung einer speziellen Abteilung unseres Geheimdienstes zur Unterstützung ausländischer Widerstandsorganisationen und zur Infiltration feindlicher Einrichtungen wird uns bei unseren künftigen Operationen sehr helfen, die Oberhand zu gewinnen."
 
-  ENG_reconciliation_with_ussr:0 "Aussöhnung mit den [[~SOV.GetAdjective~]]s"
-  ENG_reconciliation_with_ussr_desc:0 "Trotz unserer Differenzen und unserer gegenseitigen Verachtung füreinander ist [[~SOV.GetNameDef~]] ein wichtiger Schritt, um der größeren Bedrohung für den Weltfrieden zu begegnen. Wir müssen unsere Differenzen beiseite lassen und lernen, zusammenzuarbeiten, um ein gemeinsames Ziel zu erreichen, vorerst."
+  ENG_reconciliation_with_ussr:0 "Aussöhnung mit den [SOV.GetAdjective]s"
+  ENG_reconciliation_with_ussr_desc:0 "Trotz unserer Differenzen und unserer gegenseitigen Verachtung füreinander ist [SOV.GetNameDef] ein wichtiger Schritt, um der größeren Bedrohung für den Weltfrieden zu begegnen. Wir müssen unsere Differenzen beiseite lassen und lernen, zusammenzuarbeiten, um ein gemeinsames Ziel zu erreichen, vorerst."
 
-  ENG_permit_plane_leasement:0 "Erlauben Sie [[~SOV.GetAdjective~]] Flugzeug-Leasing"
-  ENG_permit_plane_leasement_desc:0 "In unseren gemeinsamen Kriegsanstrengungen wird das Anmieten von Flugzeugen an [[~SOV.GetNameDef~]] diese im Kampf gegen unseren gemeinsamen Feind unterstützen."
+  ENG_permit_plane_leasement:0 "Erlauben Sie [SOV.GetAdjective] Flugzeug-Leasing"
+  ENG_permit_plane_leasement_desc:0 "In unseren gemeinsamen Kriegsanstrengungen wird das Anmieten von Flugzeugen an [SOV.GetNameDef] diese im Kampf gegen unseren gemeinsamen Feind unterstützen."
 
  ENG_cable_street:0 "Schlacht in der Cable Street"
  ENG_cable_street_desc:0 "Die Schlacht in der Cable Street hat gezeigt, dass sich die Mentalität des Landes geändert hat. Die kommunistischen Bewegungen und die Versäumnisse der Regierung haben eine große Gegenreaktion ausgelöst und die nationalistischen Gefühle verstärkt. Wir sollten uns enger an diese Bewegung anlehnen."
@@ -206,35 +206,35 @@
   englandmod.99.d:0 "General Archibald Wavell wurde kürzlich zum Befehlshaber der Britisch-Indischen Armee befördert und sollte in wenigen Tagen eintreffen."
   englandmod.99.a:0 "Verstanden."
 
-  britain.25.t:0 "Der [[~ENG.GetName~]] schlägt ein Bündnis vor"
-  britain.25.d:0 "Mit wachsenden Spannungen rund um den Globus und der Welt, die immer gefährlicher wird, sind die [[~ENG.GetAdjective~]] und die [[~FRA.GetAdjective~]] die wenigen verbliebenen Bastionen der Demokratie in Europa, nun hat [[~ENG.GetNameDef~]] eine Allianz zwischen unseren beiden Nationen vorgeschlagen.[~[~\n~][~\n~]~]Wie sollen wir antworten?"
+  britain.25.t:0 "Der [ENG.GetName] schlägt ein Bündnis vor"
+  britain.25.d:0 "Mit wachsenden Spannungen rund um den Globus und der Welt, die immer gefährlicher wird, sind die [ENG.GetAdjective] und die [FRA.GetAdjective] die wenigen verbliebenen Bastionen der Demokratie in Europa, nun hat [ENG.GetNameDef] eine Allianz zwischen unseren beiden Nationen vorgeschlagen.[~\n\n~]Wie sollen wir antworten?"
   britain.25.a:0 "Vereint stehen wir."
-  britain.25.b:0 "Wir brauchen die [[~ENG.GetAdjective~]] nicht."
+  britain.25.b:0 "Wir brauchen die [ENG.GetAdjective] nicht."
 
-  britain.26.t:0 "Die [[~FRA.GetName~]] nimmt unser Bündnis an"
-  britain.26.d:0 "Die Geschichte hat gezeigt, wie viel erreicht werden kann, wenn unsere großen Nationen Seite an Seite stehen. Im Geiste der Entente Cordiale sind wir stolz darauf, Sie nicht nur als Freunde, sondern als Verbündete begrüßen zu dürfen. Gemeinsam werden wir ein strahlendes Leuchtfeuer der Freiheit in einer Welt sein, die von der Dunkelheit der Unterdrückung heimgesucht wird!'[~[~\n~][~\n~]~]Unserem Antrag auf Beitritt zur [[~FRA.GetAdjective~]] wurde stattgegeben. Wir können in den kommenden turbulenten Zeiten auf ihre volle Unterstützung zählen."
+  britain.26.t:0 "Die [FRA.GetName] nimmt unser Bündnis an"
+  britain.26.d:0 "Die Geschichte hat gezeigt, wie viel erreicht werden kann, wenn unsere großen Nationen Seite an Seite stehen. Im Geiste der Entente Cordiale sind wir stolz darauf, Sie nicht nur als Freunde, sondern als Verbündete begrüßen zu dürfen. Gemeinsam werden wir ein strahlendes Leuchtfeuer der Freiheit in einer Welt sein, die von der Dunkelheit der Unterdrückung heimgesucht wird!'[~\n\n~]Unserem Antrag auf Beitritt zur [FRA.GetAdjective] wurde stattgegeben. Wir können in den kommenden turbulenten Zeiten auf ihre volle Unterstützung zählen."
   britain.26.a:0 "Gemeinsam werden wir die Linie halten!"
 
-  britain.27.t:0 "Die [[~FRA.GetName~]] lehnt unser Bündnis ab."
-  britain.27.d:0 "Obwohl wir in der Vergangenheit gute Beziehungen hatten, können wir eine Eskalation zwischen uns und den Deutschen an unserer Grenze nicht riskieren. Sollten wir in einen weiteren Konflikt verwickelt werden, wird dies zu einem weiteren verheerenden Krieg führen, den wir uns nicht leisten können. Frieden muss immer das Ziel jeder demokratischen Nation sein.'[~[~\n~][~\n~]~]Unser Antrag, der [[~FRA.GetAdjective~]] beizutreten, wurde abgelehnt. Die [[~FRA.GetAdjective~]]-Regierung ist nicht gewillt, [[~GER.GetNonIdeologyName~]] weiter zu verärgern, und wird den derzeitigen Frieden nicht gefährden."
+  britain.27.t:0 "Die [FRA.GetName] lehnt unser Bündnis ab."
+  britain.27.d:0 "Obwohl wir in der Vergangenheit gute Beziehungen hatten, können wir eine Eskalation zwischen uns und den Deutschen an unserer Grenze nicht riskieren. Sollten wir in einen weiteren Konflikt verwickelt werden, wird dies zu einem weiteren verheerenden Krieg führen, den wir uns nicht leisten können. Frieden muss immer das Ziel jeder demokratischen Nation sein.'[~\n\n~]Unser Antrag, der [FRA.GetAdjective] beizutreten, wurde abgelehnt. Die [FRA.GetAdjective]-Regierung ist nicht gewillt, [GER.GetNonIdeologyName] weiter zu verärgern, und wird den derzeitigen Frieden nicht gefährden."
   britain.27.a:0 "Ihr "Frieden" ist nur ein anderes Wort für "Kapitulation"."
 
-  britain.28.t:0 "[[~ENG.GetNameDefCap~]] sucht die diplomatische Versöhnung"
-  britain.28.d:0 "[[~ENG.GetNameDefCap~]] hat uns trotz unserer gegenseitigen Verachtung einen Versöhnungspakt mit uns vorgelegt. Die [[~ENG.GetAdjective~]] haben angeführt, dass es aufgrund unseres gemeinsamen Feindes unerlässlich ist, dass wir lernen, mit einem Nichtangriffspakt zu kooperieren und unsere Differenzen vorerst beiseite zu legen."
+  britain.28.t:0 "[ENG.GetNameDefCap] sucht die diplomatische Versöhnung"
+  britain.28.d:0 "[ENG.GetNameDefCap] hat uns trotz unserer gegenseitigen Verachtung einen Versöhnungspakt mit uns vorgelegt. Die [ENG.GetAdjective] haben angeführt, dass es aufgrund unseres gemeinsamen Feindes unerlässlich ist, dass wir lernen, mit einem Nichtangriffspakt zu kooperieren und unsere Differenzen vorerst beiseite zu legen."
   britain.28.a:0 "Wenn es das ist, was es braucht."
   britain.28.b:0 "Wir haben kein Interesse an solchen Abmachungen."
 
-  britain.29.t:0 "[[~SOV.GetNameDefCap~]] umarmt die diplomatische Versöhnung"
-  britain.29.d:0 "[[~SOV.GetNameDefCap~]] hat unserem Vorschlag für einen Versöhnungspakt zugestimmt, in dem vereinbart wird, dass unser gemeinsamer Feind Vorrang vor allen früheren Streitigkeiten zwischen unseren beiden Nationen hat, und sie erklären sich bereit, in Angelegenheiten, die sie betreffen, mit uns zusammenzuarbeiten, versprechen aber auch, dass es in der Zwischenzeit keine Feindseligkeiten zwischen unseren beiden Nationen geben wird."
+  britain.29.t:0 "[SOV.GetNameDefCap] umarmt die diplomatische Versöhnung"
+  britain.29.d:0 "[SOV.GetNameDefCap] hat unserem Vorschlag für einen Versöhnungspakt zugestimmt, in dem vereinbart wird, dass unser gemeinsamer Feind Vorrang vor allen früheren Streitigkeiten zwischen unseren beiden Nationen hat, und sie erklären sich bereit, in Angelegenheiten, die sie betreffen, mit uns zusammenzuarbeiten, versprechen aber auch, dass es in der Zwischenzeit keine Feindseligkeiten zwischen unseren beiden Nationen geben wird."
   britain.29.a:0 "Wir werden vorerst zusammenarbeiten müssen."
 
-  britain.30.t:0 "[[~SOV.GetNameDefCap~]] lehnt diplomatische Versöhnung ab"
-  britain.30.d:0 "[[~SOV.GetNameDefCap~]] hat unseren Vorschlag für einen Versöhnungspakt abgelehnt und ihn mit der Begründung zurückgewiesen, dass die gegenseitige Zerstörung zwischen unseren beiden Nationen eine Zusammenarbeit in gutem Glauben nicht zulassen wird. Die [[~SOV.GetAdjective~]]s wollen auch kein Interesse daran haben, dass es zu Feindseligkeiten zwischen unseren beiden Nationen kommt."
+  britain.30.t:0 "[SOV.GetNameDefCap] lehnt diplomatische Versöhnung ab"
+  britain.30.d:0 "[SOV.GetNameDefCap] hat unseren Vorschlag für einen Versöhnungspakt abgelehnt und ihn mit der Begründung zurückgewiesen, dass die gegenseitige Zerstörung zwischen unseren beiden Nationen eine Zusammenarbeit in gutem Glauben nicht zulassen wird. Die [SOV.GetAdjective]s wollen auch kein Interesse daran haben, dass es zu Feindseligkeiten zwischen unseren beiden Nationen kommt."
   britain.30.a:0 "Sie sind genauso schlimm, wie wir dachten."
 
   #Decisions ""
 
-  ENG_weapons_purchases_category:1 "Kauf von [[~USA.GetAdjective~]] Waffen"
+  ENG_weapons_purchases_category:1 "Kauf von [USA.GetAdjective] Waffen"
   ENG_weapons_purchases_category_desc:0 "Da unsere Industrie immer noch Nachholbedarf hat, könnte die Suche nach modernen Waffen im Ausland die einzige Möglichkeit sein, unsere Streitkräfte auf den neuesten Stand zu bringen."
   ENG_order_weapons_in_USA:0 "Kleinwaffen bestellen"
   ENG_order_support_equipment_in_USA:0 "Unterstützungsausrüstung bestellen"
@@ -243,11 +243,11 @@
   ENG_order_fighters_in_USA:0 "Bestellung Kampfflugzeuge"
   ENG_order_bombers_in_USA:0 "Bestellung Bomber"
 
-  var_ENG_count_blackshirt_marches:0 "Anzahl der organisierten [~§Y~]Blackshirt-Märsche[~§!~]"
- ENG_harold_harmsworth_tt:0 "Anzahl der organisierten [~§Y~]Blackshirt-Märsche[~§!~] > [~§Y~]4[~§!~]"
+  var_ENG_count_blackshirt_marches:0 "Anzahl der organisierten §YBlackshirt-Märsche§!"
+ ENG_harold_harmsworth_tt:0 "Anzahl der organisierten §YBlackshirt-Märsche§! > §Y4§!"
 
- ENG_embrace_royal_german_heritage:0 "Embrace Royal [[~GER.GetAdjective~]] Erbe"
- ENG_embrace_royal_german_heritage_desc:0 "Zu lange haben wir unsere königlichen Wurzeln zu [[~GER.GetNameDef~]] verleugnet, nun ist es an der Zeit, die Maske fallen zu lassen und zu dem ursprünglichen und einzig wahren Namen unseres Königshauses zurückzukehren."
+ ENG_embrace_royal_german_heritage:0 "Embrace Royal [GER.GetAdjective] Erbe"
+ ENG_embrace_royal_german_heritage_desc:0 "Zu lange haben wir unsere königlichen Wurzeln zu [GER.GetNameDef] verleugnet, nun ist es an der Zeit, die Maske fallen zu lassen und zu dem ursprünglichen und einzig wahren Namen unseres Königshauses zurückzukehren."
 
   ENG_speech_against_war:0 "Rede gegen den Krieg"
   ENG_speech_against_war_desc:0 "Das Blut unserer besten Jugend wird nicht vergeblich durch fremdes Gesindel vergossen werden. Großbritannien muss in Frieden bleiben, wenn es überleben soll. Unsere Stimme muss in jeder Straße zu hören sein. Wir fordern Frieden! Aber wir werden bereit sein, unseren Boden zu verteidigen und uns gegen die ausländischen Invasoren zu wappnen. Denjenigen, die behaupten, wir wollten Unruhe stiften und Kriege anzetteln, antworten wir mit einer einzigen Stimme: Großbritannien lebt und marschiert weiter, in Frieden!"
@@ -275,8 +275,8 @@
 
   #Misc ""
   british_alternate_focus:0 "British Empire Fokus-Baum"
-  british_alternate_focus_tt:0 "[~§R~]Ein weiterer Fokusbaum wird geladen, nachdem dieser Fokus abgeschlossen ist, der alle Road to 56-Faschisten-Fokusse enthält. Es gibt keinen Weg zurück! Wähle weise.[~§!~]"
-  ENG_anti_communist_commanders_exile_tt:0 "[~§R~]Aristokratische Befehlshaber werden verschwinden oder ins Exil gehen.[~§!~]"
+  british_alternate_focus_tt:0 "§REin weiterer Fokusbaum wird geladen, nachdem dieser Fokus abgeschlossen ist, der alle Road to 56-Faschisten-Fokusse enthält. Es gibt keinen Weg zurück! Wähle weise.§!"
+  ENG_anti_communist_commanders_exile_tt:0 "§RAristokratische Befehlshaber werden verschwinden oder ins Exil gehen.§!"
   revolutionary_scientific_congress_name:0 "Revolutionärer Wissenschaftlicher Kongress"
 
 
@@ -350,16 +350,16 @@
   ENG_british_agents_desc:0 "Einige dieser Flüchtlinge könnten kompetente Geheimagenten werden."
   ENG_landing_exercices:0 "Landeübungen"
   ENG_landing_exercices_desc:0 "Eine Invasion durch die Weiten des Meeres ist keine leichte Aufgabe, und wir müssen sicher sein, dass wir technologisch, logistisch und moralisch für dieses Unterfangen gerüstet sind."
-  ENG_reclaim_the_british_isles_exile:0 "Rückeroberung der [[~ENG.GetAdjective~]] Inseln"
-  ENG_reclaim_the_british_isles_exile_desc:0 "Revolutionäre haben die Monarchie und das Parlament entweiht und Tyrannei und Elend über das [[~ENG.GetAdjective~]] Volk gebracht. Als Mitglied des Commonwealth ist es unsere Pflicht, für die Wiederherstellung Großbritanniens zu kämpfen. Das Gerücht besagt, dass der König selbst gesagt hat, er wolle "sein Geburtsrecht zurückfordern"."
+  ENG_reclaim_the_british_isles_exile:0 "Rückeroberung der [ENG.GetAdjective] Inseln"
+  ENG_reclaim_the_british_isles_exile_desc:0 "Revolutionäre haben die Monarchie und das Parlament entweiht und Tyrannei und Elend über das [ENG.GetAdjective] Volk gebracht. Als Mitglied des Commonwealth ist es unsere Pflicht, für die Wiederherstellung Großbritanniens zu kämpfen. Das Gerücht besagt, dass der König selbst gesagt hat, er wolle "sein Geburtsrecht zurückfordern"."
 
   royal_ordinance_focus:0 "Nationale Ordonnanzfabriken"
 
  # New stuff ""
- ENG_northern_ireland_for_assistance:0 "[[~119.GetName~]] zur Unterstützung"
- ENG_northern_ireland_for_assistance_desc:0 "Angesichts der weltweiten Bedrohungen liegt es nicht in unserem Interesse, unseren Grenzstreit mit [[~IRE.GetNameDef~]] fortzusetzen. Vielleicht können wir das umstrittene Territorium den [[~IRE.GetAdjective~]] anbieten, wenn sie sich im Gegenzug verpflichten, uns bei unseren Bemühungen zu unterstützen."
- ENG_secure_ireland:0 "Sichere [[~IRE.GetNonIdeologyName~]]"
- ENG_secure_ireland_desc:0 "Ein [[~IRE.GetNonIdeologyName~]], das unter feindlicher Kontrolle oder Einflussnahme steht, dient als perfekter Aufmarschplatz für Angriffe auf unsere Landesgrenzen, was völlig inakzeptabel ist. Wir haben den [[~IRE.GetAdjective~]] ihre Unabhängigkeit zugestanden, könnten sie ihnen aber genauso gut wieder entziehen."
+ ENG_northern_ireland_for_assistance:0 "[119.GetName] zur Unterstützung"
+ ENG_northern_ireland_for_assistance_desc:0 "Angesichts der weltweiten Bedrohungen liegt es nicht in unserem Interesse, unseren Grenzstreit mit [IRE.GetNameDef] fortzusetzen. Vielleicht können wir das umstrittene Territorium den [IRE.GetAdjective] anbieten, wenn sie sich im Gegenzug verpflichten, uns bei unseren Bemühungen zu unterstützen."
+ ENG_secure_ireland:0 "Sichere [IRE.GetNonIdeologyName]"
+ ENG_secure_ireland_desc:0 "Ein [IRE.GetNonIdeologyName], das unter feindlicher Kontrolle oder Einflussnahme steht, dient als perfekter Aufmarschplatz für Angriffe auf unsere Landesgrenzen, was völlig inakzeptabel ist. Wir haben den [IRE.GetAdjective] ihre Unabhängigkeit zugestanden, könnten sie ihnen aber genauso gut wieder entziehen."
 
  ENG_the_wartime_cabinet_committee:0 "Der Kabinettsausschuss für Kriegszeiten"
  ENG_the_wartime_cabinet_committee_desc:0 "Wir stehen jetzt vor schweren Zeiten. Wir müssen alle notwendigen Schritte unternehmen, um sicherzustellen, dass unsere Streitkräfte so gut wie möglich organisiert und geführt sind."
@@ -368,7 +368,7 @@
  ENG_evacuate_colonial_assets_desc:0 "Nun, da unsere ehemaligen Kolonien auf dem Weg sind, ist es an der Zeit, unsere Investitionen in sie zurückzugeben."
 
  ENG_unify_the_isles:0 "Vereinigen Sie die Inseln"
- ENG_unify_the_isles_desc:0 "[[~ROOT.GetNonIdeologyName~]] soll eins sein! Direkte Herrschaft aus London!"
+ ENG_unify_the_isles_desc:0 "[ROOT.GetNonIdeologyName] soll eins sein! Direkte Herrschaft aus London!"
 
 
  ENG_elisabeth_ii:0 "Elisabeth II."
@@ -377,9 +377,9 @@
  r56_eng.5.a:0 "Lang lebe die Königin"
 
   r56_eng.6.t:0 "Die Zukunft von Neufundland in Frage gestellt"
-  r56_eng.6.desc:0 "Mit der Wiederaufnahme der wirtschaftlichen Aktivitäten in [[~NFL.GetNonIdeologyName~]] ist die Frage nach der Zukunft Neufundlands wieder in den Vordergrund gerückt. In den frühen 1930er Jahren wurde das Land von der großen Depression hart getroffen und forderte im Gegenzug für finanzielle Entlastung die Rückkehr zur direkten britischen Herrschaft. Dieses Ereignis beendete die Ära, die gemeinhin als "verantwortungsvolle Regierung" bekannt ist. Diese Debatte, die durch die Kriegsjahre unterbrochen wurde, wird nun wieder aufgenommen. Das Gebiet steht nun am Scheideweg, denn es könnte entweder ein eigenes Dominion werden oder mit Kanada föderiert werden, was in der Praxis nur dem Namen nach eine Annexion bedeuten würde."
+  r56_eng.6.desc:0 "Mit der Wiederaufnahme der wirtschaftlichen Aktivitäten in [NFL.GetNonIdeologyName] ist die Frage nach der Zukunft Neufundlands wieder in den Vordergrund gerückt. In den frühen 1930er Jahren wurde das Land von der großen Depression hart getroffen und forderte im Gegenzug für finanzielle Entlastung die Rückkehr zur direkten britischen Herrschaft. Dieses Ereignis beendete die Ära, die gemeinhin als "verantwortungsvolle Regierung" bekannt ist. Diese Debatte, die durch die Kriegsjahre unterbrochen wurde, wird nun wieder aufgenommen. Das Gebiet steht nun am Scheideweg, denn es könnte entweder ein eigenes Dominion werden oder mit Kanada föderiert werden, was in der Praxis nur dem Namen nach eine Annexion bedeuten würde."
   r56_eng.6.a:0 "Das Gebiet sollte von Kanada verwaltet werden"
-  r56_eng.6.b:0 "Wiederherstellung des [[~NFL.getAdjective~]] Dominion"
+  r56_eng.6.b:0 "Wiederherstellung des [NFL.getAdjective] Dominion"
 
   r56_eng.10.t:0 "Gilbert Stephenson"
   r56_eng.10.d:0 "Als Gilbert Stephenson 1929 als Konteradmiral aus der Royal Navy ausschied, war er einer ihrer besten Experten für die U-Boot-Bekämpfung. Als der Krieg wieder ausbrach, wurde er wieder in den Dienst gerufen. Trotz seines hohen Alters (er wurde 1878 geboren) blieb er fit, gesund und tatkräftig und war in der Lage, seinen scharfen Verstand für alle Aufgaben einzusetzen, die die Admiralität ihm zuteil werden ließ. Historisch gesehen war sein wichtigster Beitrag die Leitung der Eskortaufbereitungsanlage in Tobermory (das Bild zeigt die Tobermory Bay mit Stephenson), wo er und sein Team 911 Schiffe in 1.132 Trainingskursen ausbildeten. Er spielte auch eine Rolle bei der Koordinierung der Evakuierung von Dünkirchen im Jahr 1940 und begleitete als Kommodore eine Reihe von Konvois zu Beginn des Krieges. Tobermory spielte unter Stephensons Leitung eine wichtige Rolle in der Atlantikschlacht, indem es Geleitschiffe schnell und mit einer effektiven Ausbildung auf See brachte. Stephensons innovative, aber anspruchsvolle Techniken beeinflussten die Aufarbeitungsverfahren der Royal Navy in der Nachkriegszeit und brachten ihm auch den Spitznamen "Der Schrecken von Tobermory" ein."
@@ -387,7 +387,7 @@
   r56_eng.10.b:0 "Geben Sie Stephenson ein Kommando auf See"
 
  ENG_for_the_good_of_the_revolution_idea:1 "Für das Wohl der Revolution"
- ENG_for_the_good_of_the_revolution_idea_desc:1 "Alle müssen bereit sein, für das Wohl des Staates Opfer in Sachen Komfort zu bringen. Das [[~ROOT.getAdjective~]]-Volk wird angesichts der Rationierung den Kopf hochhalten, denn es ist zuversichtlich, dass dies unseren letztendlichen Sieg sichern wird."
+ ENG_for_the_good_of_the_revolution_idea_desc:1 "Alle müssen bereit sein, für das Wohl des Staates Opfer in Sachen Komfort zu bringen. Das [ROOT.getAdjective]-Volk wird angesichts der Rationierung den Kopf hochhalten, denn es ist zuversichtlich, dass dies unseren letztendlichen Sieg sichern wird."
 
   ""
  newsmod.3.t:0 "Deutschland nimmt das Britische Empire in die Achse auf"
@@ -396,7 +396,7 @@
  newsmod.3.b:0 "Wir heißen unsere britischen Freunde willkommen!"
  newsmod.3.c:0 "Wir sind damit nicht einverstanden!"
  newsmod.3.e:0 "Besorgniserregend." englandmod.1.t:0 "England Asks To Join Axis"
- englandmod.1.d:0 "Ein Vertreter von [[~ENG.GetName~]] ist soeben eingetroffen. [[~ENG.GetName~]] hat kürzlich eine starke ultranationalistische Bewegung erlebt und möchte sich dem Reich und der Achse anschließen, um die Zukunft der Welt zu lenken."
+ englandmod.1.d:0 "Ein Vertreter von [ENG.GetName] ist soeben eingetroffen. [ENG.GetName] hat kürzlich eine starke ultranationalistische Bewegung erlebt und möchte sich dem Reich und der Achse anschließen, um die Zukunft der Welt zu lenken."
  englandmod.1.a:0 "Annehmen"
  englandmod.1.b:0 "Ablehnen."
  englandmod.5.t:0 "Die Briten fordern unsere Annexion"

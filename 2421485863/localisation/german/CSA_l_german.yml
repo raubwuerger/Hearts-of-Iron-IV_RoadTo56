@@ -13,9 +13,9 @@
  CSA_generic_infantry_equipment_organization:0 "Lake City Ammunition Plant"
 
 
- CSA_restablish_the_confederate_army:0 "Wiedererrichtung der [[~CSA.GetAdjective~]] Armee"
+ CSA_restablish_the_confederate_army:0 "Wiedererrichtung der [CSA.GetAdjective] Armee"
  CSA_restablish_the_confederate_army_desc:0 ""
- CSA_rebuild_the_confederate_industry:0 "Wiederaufbau der [[~CSA.GetAdjective~]] Industrie"
+ CSA_rebuild_the_confederate_industry:0 "Wiederaufbau der [CSA.GetAdjective] Industrie"
  CSA_rebuild_the_confederate_industry_desc:0 ""
  CSA_rural_education_act:0 "Ländliches Bildungsgesetz"
  CSA_rural_education_act_desc:0 ""
@@ -48,7 +48,7 @@
 
  CSA_rebuild_industry:0 "Wiederaufbau der CSA"
 
- CSA_confederate_army:0 "Stellt bis zu [~§Y~]16 Infanteriedivisionen[~§!~] in den konföderierten Staaten auf."
+ CSA_confederate_army:0 "Stellt bis zu §Y16 Infanteriedivisionen§! in den konföderierten Staaten auf."
 
 
  CSA_kitty_obrien_joyner:0 "Kitty O'Brien Joyner"
@@ -58,13 +58,13 @@
  CSA_claim_the_caribbean:0 "Die Karibik für sich beanspruchen"
  CSA_claim_the_caribbean:0 "Diese Länder sind nicht nur unterentwickelt. Wir müssen sie erschließen und profitabel machen."
  CSA_secure_mexico:0 "Mexiko sichern"
- CSA_secure_mexico_desc:0 "Wir sind schon viel zu lange mit den [[~MEX.GetAdjective~]]s zerstritten."
+ CSA_secure_mexico_desc:0 "Wir sind schon viel zu lange mit den [MEX.GetAdjective]s zerstritten."
  CSA_secure_the_neutral_states:0 "Sichern Sie die neutralen Staaten"
  CSA_secure_the_neutral_states_desc:0 "Sie sind ein bisschen anders, genug, um sie zu Feinden zu machen!"
 
  TXS_cowboy_tradition:0 "Cowboy-Traditionen"
- TXS_cowboy_tradition_desc:0 "[[~ROOT.GetNonIdeologyName~]], das Land der Rancher und Revolverhelden. Jeder Mann, jede Frau und jedes Kind hält sein Gewehr an der Seite und reitet für sein Heimatland. Yeehaw!"
+ TXS_cowboy_tradition_desc:0 "[ROOT.GetNonIdeologyName], das Land der Rancher und Revolverhelden. Jeder Mann, jede Frau und jedes Kind hält sein Gewehr an der Seite und reitet für sein Heimatland. Yeehaw!"
 
  form_greater_texas:0 "Beanspruchen Sie Greater Texas"
- form_greater_texas_desc:0 "Stephen F. Austin, der als "Vater von Texas" gilt, hatte die Vision eines [[~TXS.GetAdjective~]]-Staates, der aus einem riesigen Gebiet im damaligen südlichen [[~MEX.GetNonIdeologyName~]] bestehen sollte. Es ist nun an der Zeit, diese Vision Wirklichkeit werden zu lassen."
+ form_greater_texas_desc:0 "Stephen F. Austin, der als "Vater von Texas" gilt, hatte die Vision eines [TXS.GetAdjective]-Staates, der aus einem riesigen Gebiet im damaligen südlichen [MEX.GetNonIdeologyName] bestehen sollte. Es ist nun an der Zeit, diese Vision Wirklichkeit werden zu lassen."
  TXS_formed_greater_texas:0 "Gegründet Greater Texas"

@@ -12,7 +12,7 @@ l_english: ""
 
 #The Necrowombaticon can be studied ""
  r56w.event.31.t:0 "Der Bericht unserer Gelehrten"
- r56w.event.31.d:0 "Nach einer gewissen Zeit des Studiums hat sich herausgestellt, dass das Buch ein ausgeklügeltes Ritual zur Erlangung großer Mengen an Macht beschreibt. Es erfordert große Mengen an Duftkerzen, eine schwarze Katze und eine große Menge an angereichertem Uran. Zusammen mit der Übersetzung für das Ritual kommt ein kryptischer Fluch: "Warnung! Wenn du damit weitermachst, wird das dein Spiel durcheinanderbringen und zu etwas sehr Dummen führen. Speichern Sie im Zweifelsfall jetzt.\" [~[~\n~][~\n~]~]Sollen wir weitermachen oder diesen Weg ganz aufgeben?"
+ r56w.event.31.d:0 "Nach einer gewissen Zeit des Studiums hat sich herausgestellt, dass das Buch ein ausgeklügeltes Ritual zur Erlangung großer Mengen an Macht beschreibt. Es erfordert große Mengen an Duftkerzen, eine schwarze Katze und eine große Menge an angereichertem Uran. Zusammen mit der Übersetzung für das Ritual kommt ein kryptischer Fluch: "Warnung! Wenn du damit weitermachst, wird das dein Spiel durcheinanderbringen und zu etwas sehr Dummen führen. Speichern Sie im Zweifelsfall jetzt.\" [~\n\n~]Sollen wir weitermachen oder diesen Weg ganz aufgeben?"
  r56w.event.31.a:0 "Ich esse Gefahr zum Frühstück."
  r56w.event.31.b:0 "...aber die historische!"
 
@@ -28,7 +28,7 @@ l_english: ""
 
 #How do we react to these events? ""
  r56w.event.34.t:0 "Eine diplomatische Ouvertüre"
- r56w.event.34.d:0 "Ein Vertreter der Monster ist an unserer Türschwelle angekommen und hat höflich darum gebeten, mit Euch zu sprechen. Obwohl ihre Sprache seltsam und kryptisch ist, konnten wir eine einzige Frage heraushören:[~[~\n~][~\n~]~]\"Can has?\" r56w.event.34.a:0 "Das ist alles sehr dumm. Sag nichts!"
+ r56w.event.34.d:0 "Ein Vertreter der Monster ist an unserer Türschwelle angekommen und hat höflich darum gebeten, mit Euch zu sprechen. Obwohl ihre Sprache seltsam und kryptisch ist, konnten wir eine einzige Frage heraushören:[~\n\n~]\"Can has?\" r56w.event.34.a:0 "Das ist alles sehr dumm. Sag nichts!"
  r56w.event.34.b:0 "Can hat... Krieg!"
  r56w.event.34.c:0 "Ja, klar. Wie auch immer."
 
@@ -107,12 +107,12 @@ l_english: ""
 
 #News of the British Takeover ""
  r56w.event.53.t:0 "Eine Hand an der Macht"
- r56w.event.53.d:0 "Aus völlig unverständlichen Gründen scheint die souveräne Regierung von [[~ENG.GetNameDef~]] beschlossen zu haben, alle Macht in die mit Filzspitzen versehenen Hände einer empfindungsfähigen Marionette zu legen. Gott schütze uns alle."
+ r56w.event.53.d:0 "Aus völlig unverständlichen Gründen scheint die souveräne Regierung von [ENG.GetNameDef] beschlossen zu haben, alle Macht in die mit Filzspitzen versehenen Hände einer empfindungsfähigen Marionette zu legen. Gott schütze uns alle."
  r56w.event.53.a:0 "Das ist Politik für dich."
 
 #Hitler and Baldur's Gate ""
  r56w.event.100.t:0 "Eine seltsame Tür"
- r56w.event.100.desc:0 "Baldur von Schirach hat dem Führer heute in der Reichskanzlei seinen eigenen Entwurf für den Bau von Germania vorgeschlagen.[~[~\n~][~\n~]~]Immer bereit, über kulturelle Fragen zu diskutieren, hat er im Geheimen eine neue Art von Tür entworfen, die in Hitlers innerem Kreis für Uneinigkeit sorgt. Die Motive werden von Albert Speer als unwürdig für die Hauptstadt Europas beurteilt. Gleichzeitig kursiert das Gerücht, Himmler bewundere die nordisch-mythologischen Bezüge und halte es für "authentisch deutsch". In der Reichskanzlei wird heute keine kritische Arbeit geleistet, da die NS-Führung zu sehr mit der Diskussion über Baldurs Tor beschäftigt ist."
+ r56w.event.100.desc:0 "Baldur von Schirach hat dem Führer heute in der Reichskanzlei seinen eigenen Entwurf für den Bau von Germania vorgeschlagen.[~\n\n~]Immer bereit, über kulturelle Fragen zu diskutieren, hat er im Geheimen eine neue Art von Tür entworfen, die in Hitlers innerem Kreis für Uneinigkeit sorgt. Die Motive werden von Albert Speer als unwürdig für die Hauptstadt Europas beurteilt. Gleichzeitig kursiert das Gerücht, Himmler bewundere die nordisch-mythologischen Bezüge und halte es für "authentisch deutsch". In der Reichskanzlei wird heute keine kritische Arbeit geleistet, da die NS-Führung zu sehr mit der Diskussion über Baldurs Tor beschäftigt ist."
  r56w.event.100.a:0 "Schicken Sie die Pläne an Arno Breker."
 
 #Comet Tank sighted ""
@@ -295,7 +295,7 @@ r56w.event.101.a:0 "Lass uns ein paar Anrufe tätigen."
 
 #Naval Commander Traits ""
  r56w_trait_navy_ocean_haiku:0 "Haiku"
- r56w_trait_navy_ocean_haiku_desc:0 "Ich mag Wasser [~\n~] Es ist so sehr dandy [~\n~] Dies ist ein Haiku"
+ r56w_trait_navy_ocean_haiku_desc:0 "Ich mag Wasser \n Es ist so sehr dandy \n Dies ist ein Haiku"
  r56w_trait_navy_hates_water:0 "Hasst Wasser"
  r56w_trait_navy_hates_water_desc:0 "Es ist mehr eine gegenseitige Missachtung."
  r56w_trait_navy_rubber_duck:0 "Gummi-Ente"

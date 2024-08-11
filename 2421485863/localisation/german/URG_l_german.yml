@@ -12,7 +12,7 @@
  URG_partido_nacional_party_long:0 "Partido Nacional"
 
  uruguay.1.t:0 "Wahlen 1938"
- uruguay.1.d:0 "Nach dem Staatsstreich von 1933 setzte Gabriel Terra für dieses Jahr Wahlen an. [Die Hauptkandidaten sind der General und Polizeichef Alfredo Baldomir, der bekannte Politiker Luis Alberto de Herrera und der sozialistische Dichter Emilio Frugoni. Einige radikalere Parteien haben jedoch ihre Chance in den unruhigen Zeiten genutzt, um ihren Einfluss zu vergrößern. Die bekannteste ist die Partido Comunista, aber auch einige nationalistische und faschistische Parteien haben ihre Chance genutzt, allen voran die Acción Revisionista del Uruguay.[~[~\n~][~\n~]Bei der Auszählung der Stimmen wird deutlich, dass die..."
+ uruguay.1.d:0 "Nach dem Staatsstreich von 1933 setzte Gabriel Terra für dieses Jahr Wahlen an. [Die Hauptkandidaten sind der General und Polizeichef Alfredo Baldomir, der bekannte Politiker Luis Alberto de Herrera und der sozialistische Dichter Emilio Frugoni. Einige radikalere Parteien haben jedoch ihre Chance in den unruhigen Zeiten genutzt, um ihren Einfluss zu vergrößern. Die bekannteste ist die Partido Comunista, aber auch einige nationalistische und faschistische Parteien haben ihre Chance genutzt, allen voran die Acción Revisionista del Uruguay.[~\n\nBei der Auszählung der Stimmen wird deutlich, dass die..."
  uruguay.1.a:0 "Partido Colorado gewinnt!"
  uruguay.1.b:0 "Partido Nacional gewinnt!"
  uruguay.1.c:0 "Partido Socialista gewinnt!"
@@ -238,4 +238,4 @@
  URG_montevideo_treaty:0 "Vertrag von Montevideo"
  URG_communist_faction:0 "Tupamaro-Befreiungsfront"
 
- URG_election_tt: "[~§Y~]Die Wahl von 1938 hat stattgefunden[~§!~]"
+ URG_election_tt: "§YDie Wahl von 1938 hat stattgefunden§!"

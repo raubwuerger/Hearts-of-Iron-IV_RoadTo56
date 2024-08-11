@@ -36,7 +36,7 @@
  SLO_found_the_nation:0 "Gründung der Nation"
  SLO_found_the_nation_desc:0 "1919 haben tschechische Nationalisten in unserem Namen verhandelt und uns zu einer unglücklichen Hochzeit gezwungen. Doch diese Verbindung ist nun vorbei und es ist an der Zeit zu zeigen, dass wir ein stolzes, freies und unabhängiges Volk sind."
  SLO_assert_control_over_southern_slovakia:0 "Kontrolle über die Südslowakei durchsetzen"
- SLO_assert_control_over_southern_slovakia_desc:0 "Unsere Kontrolle über die strategisch wichtige Industrieregion der Südslowakei ist nun erfolgreich wiederhergestellt. Lasst uns unsere Brüder und Schwestern unter dem Banner des großen [[~SLO.getAdjective~]]-Staates willkommen heißen."
+ SLO_assert_control_over_southern_slovakia_desc:0 "Unsere Kontrolle über die strategisch wichtige Industrieregion der Südslowakei ist nun erfolgreich wiederhergestellt. Lasst uns unsere Brüder und Schwestern unter dem Banner des großen [SLO.getAdjective]-Staates willkommen heißen."
  SLO_purge_fascists:0 "Säubert die Faschisten"
  SLO_purge_fascists_desc:0 "Die Zeiten der Unterdrückung sind endlich vorbei. Keine Hlinka-Milizen mehr, keine Schlepper, die Unschuldige ohne Gerichtsverfahren umbringen, kein fanatischer Antisemitismus mehr. Ein Hoch auf die Vernichtung des Faschismus!"
  SLO_technology_sharing:0 "Gemeinsame Nutzung von Technologie"
@@ -135,7 +135,7 @@
  SLO_committee_for_military_innovations_desc:0 "Die Entwicklung und Herstellung moderner militärischer Ausrüstung ist eine schwierige Aufgabe, die in einer Institution zusammengefasst werden muss. Diese Mitglieder wären in der Lage, den gesamten Prozess zu überwachen und hätten die Aufgabe, jedes Problem zwischen der Konzeption und den Produktionsschritten zu beseitigen."
 
  SLO_aviation_effort:0 "Organisieren Sie die Luftwaffe"
- SLO_aviation_effort_tt:0 "Nicht genug Bauplätze für [~§Y~]Air Base[~§!~]"
+ SLO_aviation_effort_tt:0 "Nicht genug Bauplätze für §YAir Base§!"
  SLO_aviation_effort_desc:0 "Nachdem wir nun unsere Unabhängigkeit erlangt und einige Avia-Doppeldecker erhalten haben, müssen wir eine kleine Luftwaffe organisieren und mit der Planung ihrer künftigen Verwendung und ihres Modernisierungspotenzials beginnen."
  SLO_fighter_focus:0 "Schwerpunkt Jagdflugzeuge"
  SLO_fighter_focus_desc:0 "Die Luftkämpfe des Großen Krieges sind noch nicht vorbei. Wenn wir bei der Entwicklung von Kampfflugzeugen die Nase vorn haben, werden wir in Zukunft einen Vorteil haben."
@@ -157,7 +157,7 @@
  SLO_NAV_effort:0 "Torpedo-Bomber"
  SLO_NAV_effort_desc:0 "So wie die neue Seekriegsführung unter der Wasseroberfläche stattfindet, so findet ein Teil davon in der Luft über dem Wasser statt."
  SLO_naval_effort:0 "Marinebau vorbereiten"
- SLO_naval_effort_tt:0 "Nicht genügend Bauplätze für [~§Y~]Marinewerften[~§!~]"
+ SLO_naval_effort_tt:0 "Nicht genügend Bauplätze für §YMarinewerften§!"
  SLO_naval_effort_desc:0 "Der Ausbau unserer Marine sollte unsere Priorität sein. Weisen Sie alle verfügbaren Ressourcen für neue Werften und die Erforschung von leichten Überwasserschiffen zu."
  SLO_flexible_navy:0 "Flexible Marine"
  SLO_flexible_navy_desc:0 "Die Neuerfindung der Seekriegsführung, um den Fortschritten in der U-Boot-Technologie Rechnung zu tragen, wird es uns ermöglichen, effizient gegen feindliche Konvois vorzugehen."
@@ -176,7 +176,7 @@
  SLO_industrial_effort_desc:0 "Konzentrieren Sie alle politischen Anstrengungen auf den Aufbau der zivilen Industrie in einem großen Sprung nach vorn."
  SLO_transslovak_railways:0 "Transslowakische Eisenbahnen"
  SLO_transslovak_railways_desc:0 "Die Geographie unseres Landes erfordert eine gute Infrastruktur, um eine schnelle Kommunikation und Bewegung von Bratislava im äußersten Westen bis zu den Ausläufern von Ruthenien im Osten zu ermöglichen."
- SLO_construction_effort_tt:0 "Nicht genügend Bauplätze für [~§Y~]Zivile Fabriken[~§!~]"
+ SLO_construction_effort_tt:0 "Nicht genügend Bauplätze für §YZivile Fabriken§!"
  SLO_bratislava_industrial_area:0 "Industriegebiet Bratislava"
  SLO_bratislava_industrial_area_desc:0 "Unsere Hauptstadt ist bereits unsere am stärksten industrialisierte Stadt, aber die Notwendigkeit erfordert, dass wir noch mehr produzieren. Aus diesem Grund muss schnell ein neues Industriegebiet errichtet werden, um den aktuellen Bedarf zu decken."
  SLO_extraction_focus:0 "Steigerung der Ressourcenproduktion"
@@ -193,7 +193,7 @@
  SLO_develop_kosice_desc:0 "Košice hat es genauso verdient, entwickelt zu werden, wie der Rest unseres Landes."
  SLO_zvolen_railway_factory:0 "Eisenbahnwerk Zvolen"
  SLO_zvolen_railway_factory_desc:0 "Die Eisenbahnfabrik in Zvolen muss unbedingt ausgebaut werden, da sie einer der wenigen Orte im Land ist, der über die für die Produktion von schwerem Kriegsmaterial wie Panzern, gepanzerten Zügen und schweren Artilleriegeschützen erforderlichen schweren Anlagen verfügt."
- SLO_synth_oil_effort_tt:0 "Nicht genügend Bauplätze für [~§Y~]Synthetische Raffinerie[~§!~]"
+ SLO_synth_oil_effort_tt:0 "Nicht genügend Bauplätze für §YSynthetische Raffinerie§!"
  SLO_continue_industrialization:0 "Fortfahren mit der Industrialisierung"
  SLO_continue_industrialization_desc:0 "Das erste Projekt war nur ein kleiner Schritt, um ein größeres Netzwerk von Fabriken zu errichten, die sicherstellen, dass wir genügend Waren produzieren können, um den Bedarf unserer Nation zu decken."
  SLO_military_developments:0 "Militärische Entwicklungen"
@@ -201,7 +201,7 @@
  SLO_civilian_developments:0 "Zivile Entwicklungen"
  SLO_civilian_developments_desc:0 "Die Zerstörungen des Krieges sind fast unvorstellbar, und wir müssen zivile Organisationen organisieren, um einen raschen Wiederaufbau zu gewährleisten."
 
- SLO_victory_against_hungary:0 "Sieg im "Kleinen Krieg" claim_eastern_slovak_border_tooltip:0"[~§R~]Wenn Sie mindestens eine Division an der Grenze zur Ostslowakei aufstellen, werden Sie einen kleinen Konflikt mit der Slowakei auslösen, um ganz Karpaten zurückzuerobern. Sie haben sehr gute Chancen zu gewinnen. Die Deutschen sind sehr hilfsbereit und werden nicht eingreifen, um die Slowaken zu schützen...zumindest vorerst."
+ SLO_victory_against_hungary:0 "Sieg im "Kleinen Krieg" claim_eastern_slovak_border_tooltip:0"§RWenn Sie mindestens eine Division an der Grenze zur Ostslowakei aufstellen, werden Sie einen kleinen Konflikt mit der Slowakei auslösen, um ganz Karpaten zurückzuerobern. Sie haben sehr gute Chancen zu gewinnen. Die Deutschen sind sehr hilfsbereit und werden nicht eingreifen, um die Slowaken zu schützen...zumindest vorerst."
 
  SLO_gw_tank_equipment:0 "Tancik vz. 33"
  SLO_gw_tank_equipment_short:0 "T vz. 33"
@@ -252,6 +252,6 @@
 
  SLO_generic_industrial_concern:0 "Vagónka"
 
- SLO_mechanized_corps:0 "[[~SLO.GetAdjectiveCap~]] Mechanisiertes Korps"
+ SLO_mechanized_corps:0 "[SLO.GetAdjectiveCap] Mechanisiertes Korps"
  SLO_transfer_german_tanks:0 "Deutsche Panzer transferieren"
  SLO_transfer_german_tanks_desc:0 "Unsere deutschen Beschützer könnten uns mit modernem Kriegsgerät und vielleicht sogar Lizenzen versorgen, um unsere eigene Kriegsmaschine zu bauen."

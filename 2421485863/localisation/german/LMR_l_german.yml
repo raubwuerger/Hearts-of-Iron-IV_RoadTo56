@@ -16,7 +16,7 @@
  excavation_effort_i_desc: "Wir werden spezialisierte Ausgrabungsteams bilden, die unsere Rohstoffproduktion verbessern und vielleicht sogar manchmal neue kleine Rohstoffvorkommen entdecken werden."
  ################################################## ""
  focus_event.1.t: "Jüngster Zustrom von Einwanderern"
- focus_event.1.d: "Die jüngste Politik und die guten Lebensbedingungen in [[~ROOT.Getname~]] haben in letzter Zeit einen Zustrom von Einwanderern verursacht. Sie siedeln sich nun in unserem Gebiet an. [[~ROOT.Getleader~]] hat kommentiert, dass dies zeigt, dass die Politik zur Förderung des Bevölkerungswachstums der Nation wie beabsichtigt funktioniert."
+ focus_event.1.d: "Die jüngste Politik und die guten Lebensbedingungen in [ROOT.Getname] haben in letzter Zeit einen Zustrom von Einwanderern verursacht. Sie siedeln sich nun in unserem Gebiet an. [ROOT.Getleader] hat kommentiert, dass dies zeigt, dass die Politik zur Förderung des Bevölkerungswachstums der Nation wie beabsichtigt funktioniert."
  focus_event.1.a: "Tolle Neuigkeiten!"
 
  focus_event.2.t: "Viele Einwanderer eingetroffen"

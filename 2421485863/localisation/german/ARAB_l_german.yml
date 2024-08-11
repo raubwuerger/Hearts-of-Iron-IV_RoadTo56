@@ -20,6 +20,6 @@
  ARAB_keep_after_war:0 "Dieser Geist wird auch nach dem Krieg mit Israel fortbestehen."
 
  ISR_ARAB_army_nepotism_1:0 "Zügellose Vetternwirtschaft in der Armee"
- ISR_ARAB_army_nepotism_1_desc:0 "Der derzeitige Krieg mit [[~ISR.GetNameDef~]] hat die schreckliche Vetternwirtschaft, die unsere Armee durchzieht, unglaublich deutlich gemacht. Wenn wir in der Lage sein wollen, einen weiteren Krieg zu führen, müssen wir uns entweder mit diesen Problemen auseinandersetzen, oder wir könnten sie ausnutzen..."
+ ISR_ARAB_army_nepotism_1_desc:0 "Der derzeitige Krieg mit [ISR.GetNameDef] hat die schreckliche Vetternwirtschaft, die unsere Armee durchzieht, unglaublich deutlich gemacht. Wenn wir in der Lage sein wollen, einen weiteren Krieg zu führen, müssen wir uns entweder mit diesen Problemen auseinandersetzen, oder wir könnten sie ausnutzen..."
  ISR_ARAB_army_nepotism_2:0 "Vetternwirtschaft in der Armee in Angriff nehmen"
  ISR_ARAB_army_nepotism_3:0 "Zügellose Vetternwirtschaft in der Armee"

@@ -192,7 +192,7 @@
  medium_aircraft_manufacturer_2:0 "Mittelgroßer Flugzeugkonstrukteur"
  heavy_aircraft_manufacturer_2:0 "Schwerer Flugzeugkonstrukteur"
 
- generic_train_equipment_manufacturer_r56:0 "[[~Root.Capital.GetName~]] Lokomotivwerk"
+ generic_train_equipment_manufacturer_r56:0 "[Root.Capital.GetName] Lokomotivwerk"
 
  #New MIO Localisation# ""
  generic_train_organization_r56_NSB:0 "Zughersteller"

@@ -5,12 +5,12 @@
  USA_william_c_lee:0 "William C. Lee"
  USA_elwood_richard_quesada:0 "Elwood R. Quesada"
  rt56_j_edgar_hoover:0 "J. Edgar Hoover"
- rt56_j_edgar_hoover_desc:0 "[~§L~]"Wir sind nur eine Organisation, die Fakten sammelt. Wir klären niemanden auf. Wir verurteilen niemanden."[~§!~]"
+ rt56_j_edgar_hoover_desc:0 "§L"Wir sind nur eine Organisation, die Fakten sammelt. Wir klären niemanden auf. Wir verurteilen niemanden."§!"
  rt56_j_edgar_hoover_mil:0 "J. Edgar Hoover"
- rt56_j_edgar_hoover_mil_desc:0 "[~§L~]"Gerechtigkeit ist eine Begleiterscheinung von Recht und Ordnung"[~§!~]"
+ rt56_j_edgar_hoover_mil_desc:0 "§L"Gerechtigkeit ist eine Begleiterscheinung von Recht und Ordnung"§!"
  rt56_john_j_pershing:0 "John J. Pershing"
  rt56_USA_cash_and_carry_away:0 "Bargeld und Mitnahme"
- rt56_USA_cash_and_carry_away_desc:0 "Die "Cash and Carry"-Änderung des Neutralitätsgesetzes erlaubt uns, Nicht-Kriegsmaterial von [[~USA.getnameDEF~]] zu kaufen, wenn wir im Voraus bezahlen. Auch wenn wir kein Geld zur Verfügung haben, können wir uns vom [[~USA.GETNAMEDEF~]] Geld aus der Staatskasse "leihen", das wir dann für die Bezahlung der Waren verwenden können."
+ rt56_USA_cash_and_carry_away_desc:0 "Die "Cash and Carry"-Änderung des Neutralitätsgesetzes erlaubt uns, Nicht-Kriegsmaterial von [USA.getnameDEF] zu kaufen, wenn wir im Voraus bezahlen. Auch wenn wir kein Geld zur Verfügung haben, können wir uns vom [USA.GETNAMEDEF] Geld aus der Staatskasse "leihen", das wir dann für die Bezahlung der Waren verwenden können."
  sons_of_liberty:0 "Söhne der Freiheit"
  sons_of_liberty_desc:0 "Wir haben die Tyrannei einmal bekämpft, wir werden sie wieder bekämpfen."
  deo_vindice:0 "Deo vidice"
@@ -22,10 +22,10 @@
  USA_office_of_strategic_services_desc:0 "Die Bildung einer speziellen Abteilung unseres Geheimdienstes zur Unterstützung ausländischer Widerstandsorganisationen und zur Infiltration feindlicher Einrichtungen wird uns bei unseren künftigen Operationen sehr helfen, die Oberhand zu gewinnen."
 
  general_motor_electrco_motive_loco_works:0 "General Motor Electro Motive Diesel"
- USA_the_worlds_loco_works_effect_tt:0 "[~§W~]Ermöglicht die Produktion von[~§!~] [~§Y~]USATC S100 Class[~§!~]"
+ USA_the_worlds_loco_works_effect_tt:0 "§WErmöglicht die Produktion von§! §YUSATC S100 Class§!"
 
- rt56_arnold_unlock_tt:0 "Die Luftwaffe hat durch die Einrichtung der [~§Y~]Air War Plans Division[~§!~] Autonomie erlangt."
- USA_NATO_overwatch_tt:0 "[~§R~]Sie werden nur die letzte ausgewählte Idee von denen behalten, die durch [~§!~][~§Y~]Overwatch the Pacific[~§!~][~§R~] und [~§!~][~§Y~]Return to Europe[~§!~] erhältlich sind."
+ rt56_arnold_unlock_tt:0 "Die Luftwaffe hat durch die Einrichtung der §YAir War Plans Division§! Autonomie erlangt."
+ USA_NATO_overwatch_tt:0 "§RSie werden nur die letzte ausgewählte Idee von denen behalten, die durch §!§YOverwatch the Pacific§!§R und §!§YReturn to Europe§! erhältlich sind."
 
 
  rt56_USA_cash_and_carry_home:0 "Das Cash-and-Carry-Schema"
@@ -40,8 +40,8 @@
  USA_lima_locomotive_works:0 "Lima-Lokomotivwerke"
 
  r56_USA_decision_the_jumping_general:0 "Fördern Sie den Springenden General"
- r56_USA_decision_join_us_research_collaboration_program:0 "Nehmen Sie am [[~USA.GetAdjective~]] Forschungskooperationsprogramm"
- r56_USA_decision_initiate_us_research_collaboration_program:0 "Setzen Sie sich für eine verstärkte Forschungszusammenarbeit mit [[~USA.GetNameDef~]] ein"
+ r56_USA_decision_join_us_research_collaboration_program:0 "Nehmen Sie am [USA.GetAdjective] Forschungskooperationsprogramm"
+ r56_USA_decision_initiate_us_research_collaboration_program:0 "Setzen Sie sich für eine verstärkte Forschungszusammenarbeit mit [USA.GetNameDef] ein"
 
  r56_USA_decision_rural_electrification_act:0 "Gesetz zur Elektrifizierung des ländlichen Raums"
  r56_USA_decision_flood_control_act:0 "Hochwasserkontrollgesetz"
@@ -74,7 +74,7 @@
  USA_over_there_desc:0 " "
  USA_tuskegee_airmen:0 "Die Tuskegee-Flieger"
  USA_tuskegee_airmen_desc:0 " "
- USA_tuskegee_airmen_tt:0 "Die [~§H~]332nd Fighter Group[~§!~] und die [~§H~]477th Bombardment Group (Medium)[~§!~] werden in Alabama aktiv."
+ USA_tuskegee_airmen_tt:0 "Die §H332nd Fighter Group§! und die §H477th Bombardment Group (Medium)§! werden in Alabama aktiv."
  USA_gi_bill:0 "G.I. Bill"
  USA_gi_bill_desc:0 " "
  USA_american_christian_identity:0 "Amerikanische christliche Identität"
@@ -91,23 +91,23 @@
  USA_the_worlds_loco_works_desc:0 "Während der Rest der Welt sich um die Produktion von Kriegsgütern sorgt. Wir müssen unsere zahlreichen heimischen Lokomotivwerke nutzen, um die Welt mit Lokomotiven zu versorgen."
  USA_bangalore_torpedo:0 "Bangalore-Torpedo"
  USA_bangalore_torpedo_desc:0 ""
- USA_bangalore_torpedo_tt:0 "Ermöglicht [~§H~]Bangalore Torpedo[~§!~][~\n~][~§H~]Ingenieure[~\n~] Harter Angriff: [~§G~]+15%[~§!~][~\n~] Breakthrough: [~§G~]+15%[~§!~][~§!~][~\n~]"
+ USA_bangalore_torpedo_tt:0 "Ermöglicht §HBangalore Torpedo§!\n§HIngenieure\n Harter Angriff: §G+15%§!\n Breakthrough: §G+15%§!§!\n"
  USA_army_rangers:0 "Army Rangers"
  USA_army_rangers_desc:0 ""
- USA_army_rangers_tt:0 "Aktiviert [~§H~]Army Rangers[~§!~][~\n~][~§H~]Infanterie[~\n~] Harter Angriff: [~§G~]+25%[~§!~][~\n~] Durchbruch: [~§G~]+25%[~§!~][~§!~][~\n~][~§H~]Motorisierter[~\n~] Harter Angriff: [~§G~]+25%[~§!~][~\n~] Durchbruch: [~§G~]+25%[~§!~][~§!~][~\n~][~§H~]Mechanisiert[~\n~] Harte Attacke: [~§G~]+25%[~§!~][~\n~] Durchbruch: [~§G~]+25%[~§!~][~§!~]"
+ USA_army_rangers_tt:0 "Aktiviert §HArmy Rangers§!\n§HInfanterie\n Harter Angriff: §G+25%§!\n Durchbruch: §G+25%§!§!\n§HMotorisierter\n Harter Angriff: §G+25%§!\n Durchbruch: §G+25%§!§!\n§HMechanisiert\n Harte Attacke: §G+25%§!\n Durchbruch: §G+25%§!§!"
  USA_coordinate_branch_logistics:0 "Koordinierungsstelle Logistik"
- USA_coordinate_branch_logistics_desc:0 "" r56_USA_koordinate_branch_logistics_tt:0"[~§R~]Dies hat nur Wirkung im Krieg![~§!~][~\n~]"
+ USA_coordinate_branch_logistics_desc:0 "" r56_USA_koordinate_branch_logistics_tt:0"§RDies hat nur Wirkung im Krieg!§!\n"
  USA_walkie_talkies:0 "Walkie-Talkies"
  USA_walkie_talkies_desc:0 ""
- USA_walkie_talkies_tt:0 "Aktiviert [~§H~]Walkie-Talkies[~§!~][~\n~]Bodenunterstützung: [~§G~]+5%[~§!~][~\n~]Verstärkungsrate: [~§G~]+5%[~§!~][~\n~]Coordination: [~§G~]+5%[~§!~]"
- #USA_tank_experiments_tt:0 "Wenn wir auch [~§H~]Verbessertes mittleres Panzerfahrgestell[~§!~] erforscht haben:[~\n~]"
- USA_armored_infantry_chaffee_tt:0 "Wenn wir ein [~§H~]Verbessertes Leichtes Panzerfahrgestell[~§!~] erforscht haben, erhalten wir das [~§H~]M24 Chaffee[~§!~] Leichte Panzerdesign.[~\n~]"
+ USA_walkie_talkies_tt:0 "Aktiviert §HWalkie-Talkies§!\nBodenunterstützung: §G+5%§!\nVerstärkungsrate: §G+5%§!\nCoordination: §G+5%§!"
+ #USA_tank_experiments_tt:0 "Wenn wir auch §HVerbessertes mittleres Panzerfahrgestell§! erforscht haben:\n"
+ USA_armored_infantry_chaffee_tt:0 "Wenn wir ein §HVerbessertes Leichtes Panzerfahrgestell§! erforscht haben, erhalten wir das §HM24 Chaffee§! Leichte Panzerdesign.\n"
  USA_90_division_gamble:0 "90-Division Gamble"
  USA_90_division_gamble_desc:0 ""
- r56_USA_90_division_gamble_tt:0 "Dieser Nationalgeist wird nur wirksam, wenn wir maximal [~§H~]160 HOI4[~§!~] Divisionen haben."
+ r56_USA_90_division_gamble_tt:0 "Dieser Nationalgeist wird nur wirksam, wenn wir maximal §H160 HOI4§! Divisionen haben."
  USA_victory_program:0 "Das Siegesprogramm"
  USA_victory_program_desc:0 ""
- USA_victory_program_focus_tt:0 "Wir befinden uns noch im Frieden, dieses Programm wird bei der Bevölkerung sehr unbeliebt sein![~\n~]"
+ USA_victory_program_focus_tt:0 "Wir befinden uns noch im Frieden, dieses Programm wird bei der Bevölkerung sehr unbeliebt sein!\n"
  USA_flying_fortress:0 "Fliegende Festungen"
  USA_flying_fortress_desc:0 " "
  USA_enter_the_jet_age:0 "Eintritt in das Jet-Zeitalter"
@@ -116,8 +116,8 @@
  USA_expand_shipyard_facilities_desc:0 ""
  USA_naval_air_coordination:0 "Marine-Luft-Koordination"
  USA_naval_air_coordination_desc:0 ""
- USA_expand_the_USMC_satan_tt:0 "Die Erforschung eines [~§H~]verbesserten leichten Panzerfahrgestells[~§!~] und eines [~§H~]Flammenwerfers[~§!~] wird uns die Konstruktion des [~§H~]M3A1 Satan[~§!~] leichten Flammenwerferpanzers ermöglichen.[~\n~]"
- USA_expand_the_USMC_zippo_tt:0 "Wenn ein [~§H~]Verbessertes Mittleres Panzerfahrgestell[~§!~] und ein [~§H~]Flammenwerfer[~§!~] erforscht sind, erhalten wir den [~§H~]M4 Zippo[~§!~] Mittleren Flammenwerfer-Panzerentwurf[~\n~]."
+ USA_expand_the_USMC_satan_tt:0 "Die Erforschung eines §Hverbesserten leichten Panzerfahrgestells§! und eines §HFlammenwerfers§! wird uns die Konstruktion des §HM3A1 Satan§! leichten Flammenwerferpanzers ermöglichen.\n"
+ USA_expand_the_USMC_zippo_tt:0 "Wenn ein §HVerbessertes Mittleres Panzerfahrgestell§! und ein §HFlammenwerfer§! erforscht sind, erhalten wir den §HM4 Zippo§! Mittleren Flammenwerfer-Panzerentwurf\n."
 
  USA_homeland_security:0 "Innere Sicherheit"
  USA_homeland_security_desc:0 "Eine Invasion des Festlandes der USA ist nicht länger ein Hirngespinst. Wir müssen uns auf das Schlimmste vorbereiten."
@@ -154,24 +154,24 @@
  r56_usa.3.desc:0 "Die Neuwahlen stehen an! Die Demokraten wählen Aldai Stevenson, um das Erbe von Roosevelt fortzusetzen, während die Republikaner keinen anderen als Dwight D. Eisenhower selbst wählen."
  r56_usa.3.a:0 "Stevenson gewinnt"
  r56_usa.3.b:0 "Eisenhower gewinnt"
- r56_usa.4.t:0 "[[~USA.GetNameDefCap~]] verpflichtet sich, seine Forschungsergebnisse zu teilen"
- r56_usa.4.desc:0 "In einem kürzlich veröffentlichten Memo der [[~USA.GetAdjective~]]-Regierung wurde angekündigt, dass sie ihre Forschungsergebnisse mit ihren Verbündeten teilen wird. Der Beitritt wird einige Umstrukturierungen erfordern, die wahrscheinlich zu anfänglichem Widerstand führen werden, aber wir haben nichts zu befürchten."
+ r56_usa.4.t:0 "[USA.GetNameDefCap] verpflichtet sich, seine Forschungsergebnisse zu teilen"
+ r56_usa.4.desc:0 "In einem kürzlich veröffentlichten Memo der [USA.GetAdjective]-Regierung wurde angekündigt, dass sie ihre Forschungsergebnisse mit ihren Verbündeten teilen wird. Der Beitritt wird einige Umstrukturierungen erfordern, die wahrscheinlich zu anfänglichem Widerstand führen werden, aber wir haben nichts zu befürchten."
  r56_usa.4.a:0 "Wir können es gemeinsam schaffen!"
  r56_usa.4.b:0 "Vielleicht später"
 
  r56_usa.7.t:0 "Die Präsidentschaftswahlen 1956"
- r56_usa.7.desc:0 "Wieder einmal ist das [[~USA.GetAdjective~]]-Volk zur Wahl aufgerufen, um über das Schicksal der Nation zu entscheiden."
+ r56_usa.7.desc:0 "Wieder einmal ist das [USA.GetAdjective]-Volk zur Wahl aufgerufen, um über das Schicksal der Nation zu entscheiden."
  r56_usa.7.a:0 "Ich mag Ike, du magst Ike, alle mögen Ike!"
  r56_usa.7.b:0 "Die Demokraten müssen siegen!"
 
  r56_usa.8.t:0 "Die Präsidentschaftswahlen 1956"
- r56_usa.8.desc:0 "Wieder einmal ist das [[~USA.GetAdjective~]]-Volk zur Wahl aufgerufen, um über das Schicksal der Nation zu entscheiden."
+ r56_usa.8.desc:0 "Wieder einmal ist das [USA.GetAdjective]-Volk zur Wahl aufgerufen, um über das Schicksal der Nation zu entscheiden."
  r56_usa.8.a:0 "Vier weitere Jahre"
  r56_usa.8.b:0 "Der gute Freund von Morbo gewinnt. Haroooooo!"
 
  r56_usa.9.t:0 "Der Parteitag 1952"
- r56_usa.9.desc:0 "Nach Jahren unermüdlicher Arbeit für das Glück des [[~USA.GetAdjective~]]-Volkes hat der Erste Sekretär der [[~USA.GetCommunistParty~]] beschlossen, von den meisten seiner Aufgaben zurückzutreten. Stattdessen wurde der Parteitag gebeten, zwischen James W. Ford, Browders Vizepräsident, und Francis X. Waldron, einem einflussreichen Führer innerhalb der Partei, zu wählen."
- r56_usa.9.a:0 "Ford wird das [[~USA.GetAdjective~]] Proletariat führen."
+ r56_usa.9.desc:0 "Nach Jahren unermüdlicher Arbeit für das Glück des [USA.GetAdjective]-Volkes hat der Erste Sekretär der [USA.GetCommunistParty] beschlossen, von den meisten seiner Aufgaben zurückzutreten. Stattdessen wurde der Parteitag gebeten, zwischen James W. Ford, Browders Vizepräsident, und Francis X. Waldron, einem einflussreichen Führer innerhalb der Partei, zu wählen."
+ r56_usa.9.a:0 "Ford wird das [USA.GetAdjective] Proletariat führen."
  r56_usa.9.b:0 "Der Erste Sekretär Waldron wird die Revolution leiten"
 
  r56_usa.13.t:0 "Hermann Göring bietet seine Dienste an"
@@ -190,16 +190,16 @@
  r56_USA_the_alaskan_trap_desc:0 "Indem wir Alaska als attraktiven Invasionspunkt für unsere östlichen Feinde erscheinen lassen und mit ein wenig Arbeit des USACE. Wir können Alaska in eine Todesfalle für eine Invasionsmacht verwandeln."
 
  rt56_far_left_suppression:0 "Linksradikale Unterdrückung"
- rt56_far_left_suppression_desc:0 "Die Rote Angst der 1920er Jahre hat einen bleibenden Eindruck bei Strafverfolgungsbehörden und der [[~ROOT.GetAdjective~]]-Öffentlichkeit gleichermaßen hinterlassen. Dieser Eindruck hat in ganz [[~ROOT.GetNameDef~]] zu Verfolgung und Schikanen gegen linksextreme Bewegungen geführt. In den letzten Jahren wurden die Unterdrückungsmaßnahmen gegen linksextreme Gruppen von J. Edgar Hoovers Federal Bureau of Investigation angeführt."
+ rt56_far_left_suppression_desc:0 "Die Rote Angst der 1920er Jahre hat einen bleibenden Eindruck bei Strafverfolgungsbehörden und der [ROOT.GetAdjective]-Öffentlichkeit gleichermaßen hinterlassen. Dieser Eindruck hat in ganz [ROOT.GetNameDef] zu Verfolgung und Schikanen gegen linksextreme Bewegungen geführt. In den letzten Jahren wurden die Unterdrückungsmaßnahmen gegen linksextreme Gruppen von J. Edgar Hoovers Federal Bureau of Investigation angeführt."
 
  rt56_USA_mobilize_the_national_guard:0 "Reserven mobilisieren"
- r56_USA_louisiana_maneuvers_oob_tt:0 "[~§W~]Schaltet drei kostenlose[~§!~] [~§Y~]Divisionsvorlagen[~§!~]"
+ r56_USA_louisiana_maneuvers_oob_tt:0 "§WSchaltet drei kostenlose§! §YDivisionsvorlagen§!"
 
  USA_carrier_1:0 "Langley-Klasse"
  USA_carrier_1_desc:0 "Der Flugzeugträger der Langley-Klasse wurde aus dem umgebauten Rumpf eines Colliers der Jupiter-Klasse entwickelt. Dadurch konnte sie die Beschränkungen des Washingtoner Flottenvertrags einhalten. Die Klasse war die erste einsatzbereite Trägerklasse der US Navy und verbrachte mehr als ein Jahrzehnt mit der Verbesserung der Trägeroperationen."
 
  r56_j_edgar_hoover_given_army_command:0 "Ist derzeit ein General"
- USA_three_dimensional_assault_force_tt:0 "[~§Y~]Holland Smith[~§!~] ist derzeit General."
+ USA_three_dimensional_assault_force_tt:0 "§YHolland Smith§! ist derzeit General."
 
  r56_USA_join_the_mexican_revolutionaries:0 "Schließen Sie sich den mexikanischen Revolutionären an"
  r56_USA_join_the_mexican_revolutionaries_desc:0 "Die Mexikaner zeigen uns, dass die Revolution auch anderswo auf dem amerikanischen Kontinent erfolgreich sein kann."
@@ -213,7 +213,7 @@
 
  USA_collaboration_with_the_mafia:0 "Kollaboration mit der Mafia"
  USA_collaboration_with_the_mafia_desc:0 "Obwohl wir uns gegen die Institutionen stellen, für die die Mafia lebt und kämpft, haben wir zweifellos einen gemeinsamen Feind. Es ist ideal, dass wir eine unwahrscheinliche Allianz bilden und miteinander kooperieren, für den Moment."
- USA_collaboration_with_the_mafia_tt:0 "Erhöht [~§Y~]5 Mafia-Divisionen[~§!~] in jedem Mafia-Zentralstaat, den wir bei Ausbruch des Bürgerkriegs kontrollieren."
+ USA_collaboration_with_the_mafia_tt:0 "Erhöht §Y5 Mafia-Divisionen§! in jedem Mafia-Zentralstaat, den wir bei Ausbruch des Bürgerkriegs kontrollieren."
 
  USA_cult_of_washington:0 "Der Kult von Washington"
  USA_cult_of_washington_desc:0 "Der Gründer unseres Landes muss für uns alle ein Vorbild sein. Als starker, zu Größe berufener Militär war er eindeutig der erste Faschist, der durch sein Geschick und seinen schieren Willen eine Republik für alle wahren Amerikaner errichtete."
@@ -224,17 +224,17 @@
  USA_raise_washington_to_general_of_the_armies:0 "Erhebt Washington in den Rang eines Generals der Armee"
 
  USA_combating_jim_crow:0 "Marginalisierung der Afroamerikaner im Süden "
- USA_combating_jim_crow_desc:0 "Die Niederlage der Südstaaten im Amerikanischen Bürgerkrieg und die selbst empfundene Demütigung in der Zeit des Wiederaufbaus waren zu viel für die südliche Pflanzerschicht. Sie kanalisierten ihre Frustration über die jüngste politische Entmachtung und nutzten sie, um sich gegen die neu befreite afroamerikanische Bevölkerung zu verschwören. Die politischen Intrigen der Südstaaten gipfelten in dem Kompromiss von 1877. Der Kompromiss bedeutete das formale Ende der Reconstruction im Süden und sah die Aufhebung des Schutzes für die afroamerikanischen Gemeinden und Politiker im Süden vor. Der Kompromiss war praktisch ein Verrat und eine Preisgabe der Afroamerikaner im Süden. Seitdem haben feindselige Gesetzgeber in den Südstaaten auf Betreiben einer noch feindseligeren Bevölkerung Gesetze erlassen, die Afroamerikaner ausgrenzen. Gesetze, die Afroamerikaner aufgrund ihrer Ethnie auf öffentlichen Plätzen vom Rest der Südstaatenbevölkerung trennen und ihr Wahlrecht unterdrücken. Gleichzeitig führt die Bevölkerung in diesen Staaten ihre eigenen außergerichtlichen Kampagnen durch, um Afroamerikaner zu terrorisieren und zu quälen. Diese Praktiken wurden als "Jim Crow" bezeichnet.[~[~\n~][~\n~]~]Auch wenn wir derzeit dringendere Probleme haben, können wir die Tatsache nicht ignorieren, dass die Praxis von "Jim Crow" unser Land weiterhin belastet. Ein Land, das "Freiheit und Gerechtigkeit für alle" verspricht."
+ USA_combating_jim_crow_desc:0 "Die Niederlage der Südstaaten im Amerikanischen Bürgerkrieg und die selbst empfundene Demütigung in der Zeit des Wiederaufbaus waren zu viel für die südliche Pflanzerschicht. Sie kanalisierten ihre Frustration über die jüngste politische Entmachtung und nutzten sie, um sich gegen die neu befreite afroamerikanische Bevölkerung zu verschwören. Die politischen Intrigen der Südstaaten gipfelten in dem Kompromiss von 1877. Der Kompromiss bedeutete das formale Ende der Reconstruction im Süden und sah die Aufhebung des Schutzes für die afroamerikanischen Gemeinden und Politiker im Süden vor. Der Kompromiss war praktisch ein Verrat und eine Preisgabe der Afroamerikaner im Süden. Seitdem haben feindselige Gesetzgeber in den Südstaaten auf Betreiben einer noch feindseligeren Bevölkerung Gesetze erlassen, die Afroamerikaner ausgrenzen. Gesetze, die Afroamerikaner aufgrund ihrer Ethnie auf öffentlichen Plätzen vom Rest der Südstaatenbevölkerung trennen und ihr Wahlrecht unterdrücken. Gleichzeitig führt die Bevölkerung in diesen Staaten ihre eigenen außergerichtlichen Kampagnen durch, um Afroamerikaner zu terrorisieren und zu quälen. Diese Praktiken wurden als "Jim Crow" bezeichnet.[~\n\n~]Auch wenn wir derzeit dringendere Probleme haben, können wir die Tatsache nicht ignorieren, dass die Praxis von "Jim Crow" unser Land weiterhin belastet. Ein Land, das "Freiheit und Gerechtigkeit für alle" verspricht."
  USA_combating_jim_crow_map:0 "In diesen Staaten gelten derzeit "Jim Crow"-Gesetze"
  USA_pass_a_new_civil_rights_bill:0 "Verabschiedung eines neuen Bürgerrechtsgesetzes"
- USA_pass_a_new_civil_rights_bill_tt:0 "Einer der uns gehörenden Staaten hat [~§R~]'Jim Crow'[~§!~] Gesetze"
- USA_pass_a_new_civil_rights_bill_effect_tt:0 "Schaltet Beschlüsse zur Bekämpfung von [~§R~]'Jim Crow'[~§!~] in Staaten frei."
- r56_jim_crow_removed_tt:0 "[~§G~]beseitigt[~§!~] Jim Crow im Staat"
- r56_jim_crow_lowered_tt:0 "[~§G~]senkt[~§!~] die Intensität von Jim Crow im Staat"
- r56_jim_crow_state:0 "hat derzeit [~§R~]'Jim Crow'[~§!~] Gesetze."
- USA_pass_a_new_civil_rights_bill_flag:0 "Wir haben [~§G~]ein neues Bürgerrechtsgesetz verabschiedet[~§!~]"
+ USA_pass_a_new_civil_rights_bill_tt:0 "Einer der uns gehörenden Staaten hat §R'Jim Crow'§! Gesetze"
+ USA_pass_a_new_civil_rights_bill_effect_tt:0 "Schaltet Beschlüsse zur Bekämpfung von §R'Jim Crow'§! in Staaten frei."
+ r56_jim_crow_removed_tt:0 "§Gbeseitigt§! Jim Crow im Staat"
+ r56_jim_crow_lowered_tt:0 "§Gsenkt§! die Intensität von Jim Crow im Staat"
+ r56_jim_crow_state:0 "hat derzeit §R'Jim Crow'§! Gesetze."
+ USA_pass_a_new_civil_rights_bill_flag:0 "Wir haben §Gein neues Bürgerrechtsgesetz verabschiedet§!"
  USA_pass_a_new_civil_rights_bill_flag_desc:0 "Ein neues Bürgerrechtsgesetz ist ein guter erster Schritt im Kampf gegen Jim Crow im gesamten Süden."
- USA_fight_jim_crow_in_from:0 "Kampf gegen Jim Crow in [[~FROM.GetName~]]"
+ USA_fight_jim_crow_in_from:0 "Kampf gegen Jim Crow in [FROM.GetName]"
 
  USA_population_migration:0 "Bevölkerungswanderungen"
  USA_population_migration_desc:0 "Die derzeitigen Bemühungen um einen wirtschaftlichen Aufschwung haben zwar vielen geholfen. Es gab auch einige spürbare Nachteile. Der größte Nachteil unserer Politik ist die sich verschlimmernde Notlage der kleinen Landwirte im Süden. Viele von ihnen können ihren Lebensunterhalt nicht mehr bestreiten und müssen sich selbst entwurzeln und dorthin ziehen, wo es Arbeit gibt. Das sind im Moment die Industriestädte des Nordens."
@@ -243,7 +243,7 @@
  USA_war_plan_blue_cat:0 "Kriegsplan Blau"
  r56_USA_unite_congress:0 "Kongress vereinigen"
  r56_USA_desperate_measures:0 "Verzweifelte Maßnahmen"
- r56_USA_desperate_measures_tt:0 "[~§W~]Schaltet mehr frei[~§!~] [~§Y~]Kriegsplan Blau[~§!~] [~§W~]Entscheidungen[~§!~]"
+ r56_USA_desperate_measures_tt:0 "§WSchaltet mehr frei§! §YKriegsplan Blau§! §WEntscheidungen§!"
  r56_USA_sieze_cilivian_firearms:0 "Cilivianische Feuerwaffen beschlagnahmen"
  r56_USA_sieze_cilivian_trucks:0 "Cilivianische Lastwagen beschlagnahmen"
  USA_staggered_retreat:0 "Gestaffelter Rückzug"
@@ -257,8 +257,8 @@
  r56_usa.5.desc:0 "Auf den Straßen des amerikanischen Südens konnte man ein Zeichen der sich ändernden Zeiten sehen. Viele Farmpächter und Landarbeiter haben ihre Häuser verkauft und alle ihre Sachen ins Auto gepackt, um nach Norden zu fahren. Diese plötzliche Abwanderung wurde durch die sich verschlechternden Lebensbedingungen im ländlichen Süden ausgelöst, da viele Familien nicht mehr über die Runden kommen. Das Ziel vieler dieser Migranten ist es, in den Industriezentren des Nordens Arbeit zu finden."
  r56_usa.5.a:0 "In Detroit kann man alles haben!"
 
- USA_shifting_sands_tt:0 "[~§Y~]Random Southern State[~§!~] [~§W~]Manpower:[~§!~][~§R~]-10000[~§!~][~§W~].[~§!~]"
- USA_shifting_sands_2_tt:0 "[~§Y~]Zufälliger Nordstaat[~§!~] [~§W~]Arbeitskräfte:[~§!~][~§G~]+10000[~§!~][~§W~].[~§!~]"
+ USA_shifting_sands_tt:0 "§YRandom Southern State§! §WManpower:§!§R-10000§!§W.§!"
+ USA_shifting_sands_2_tt:0 "§YZufälliger Nordstaat§! §WArbeitskräfte:§!§G+10000§!§W.§!"
 
  #CHARACTERS ""
  USA_malin_craig:0 "Malin Craig"
@@ -275,7 +275,7 @@
 
  ##### NATO ##### by Fantom ""
  USA_nato_faction:0 "NATO"
- USA_dissolve_allies_found_nato_tt:0 "Die [~§Y~]Alliierten[~§!~] werden nach Abschluss dieses Schwerpunkts in die [~§Y~]NATO[~§!~] umgewandelt!"
+ USA_dissolve_allies_found_nato_tt:0 "Die §YAlliierten§! werden nach Abschluss dieses Schwerpunkts in die §YNATO§! umgewandelt!"
  r56_USA_invest_in_our_weaker_allies_tt:0 "Wir werden 3 Militärfabriken und 3 Werften in jedem unserer Verbündeten bauen, vorausgesetzt sie haben weniger Fabriken als wir."
  #ideas# ""
  rt56_USA_founder_of_nato_idea:0 "Begründer der NATO"
@@ -285,104 +285,104 @@
  r56_financing_marshall_plan:0 "Finanzierung des Marshallplans"
 
  #tooltip ""
- r56_USA_Korea_controls_peninsula:0 "[~§Y~][[~KOR.getNameDefCap~]][~§!~] kontrolliert alle Staaten der koreanischen Halbinsel."
- r56_USA_legislation_drafted_days_tt:0 "Die aktuellen Tage sind: [[~?USA_new_legislation_drafed_flag:days|Y0~]]"
+ r56_USA_Korea_controls_peninsula:0 "§Y[KOR.getNameDefCap]§! kontrolliert alle Staaten der koreanischen Halbinsel."
+ r56_USA_legislation_drafted_days_tt:0 "Die aktuellen Tage sind: [?USA_new_legislation_drafed_flag:days|Y0]"
  USA_new_legislation_drafed_flag:0 "Letzter Regierungsakt wurde verfasst"
- r56_zippo_satan:0 "Erstellen Sie [~§Y~]M3A1[~§!~] Leichte Flammenpanzervariante auf der Grundlage der Erforschung von [~§Y~]Flammenwerfer[~§!~], [~§Y~]Ingenieurkompanie II[~§!~] und [~§Y~]Verbessertem Leichtem Panzerfahrgestell[~§! ~] [~[~\n~][~\n~]Erstelle [~§Y~]M4 Zippo[~§!~] Mittlere Flammenpanzervariante auf der Grundlage von [~§Y~]Flammenwerfer[~§!~], [~§Y~]Engineer Company II[~§!~] und [~§Y~]Verbessertem Mittleren Panzerfahrgestell[~§!~][~[~\n~][~\n~]~]"
+ r56_zippo_satan:0 "Erstellen Sie §YM3A1§! Leichte Flammenpanzervariante auf der Grundlage der Erforschung von §YFlammenwerfer§!, §YIngenieurkompanie II§! und §YVerbessertem Leichtem Panzerfahrgestell[~§! ~] [~\n\nErstelle §YM4 Zippo§! Mittlere Flammenpanzervariante auf der Grundlage von §YFlammenwerfer§!, §YEngineer Company II§! und §YVerbessertem Mittleren Panzerfahrgestell§![~\n\n~]"
 
  #focuses# ""
  r56_USA_form_united_nations:0 "Charta der Vereinten Nationen"
  r56_USA_foundation_of_NATO:0 "Gründung der NATO"
- r56_USA_foundation_of_NATO_desc:0 "Die Welt um uns herum verändert sich rasant: Viele der ehemaligen Großmächte liegen in Trümmern, nachdem ein verheerender Krieg über die Kontinente hinweggefegt ist. Den [[~USA.getNameDefCap~]] ist es gelungen, ihren Status als Supermacht der Welt nicht nur zu bewahren, sondern sogar zu stärken. Es ist an der Zeit, die Angelegenheit direkt in die Hand zu nehmen."
+ r56_USA_foundation_of_NATO_desc:0 "Die Welt um uns herum verändert sich rasant: Viele der ehemaligen Großmächte liegen in Trümmern, nachdem ein verheerender Krieg über die Kontinente hinweggefegt ist. Den [USA.getNameDefCap] ist es gelungen, ihren Status als Supermacht der Welt nicht nur zu bewahren, sondern sogar zu stärken. Es ist an der Zeit, die Angelegenheit direkt in die Hand zu nehmen."
 
  r56_USA_overwatch_the_pacific:0 "Überwachen Sie den Pazifik"
- r56_USA_overwatch_the_pacific_desc:0 "Weite Gebiete des Pazifischen Ozeans sind nach wie vor nur schwach geschützt, da sich unsere industriellen und militärischen Kapazitäten auf den Krieg auf dem Festland konzentriert haben. Die Verbesserung unserer Kontrolle über den Pazifik wird die Vorherrschaft der [[~USA.getAdjective~]] in diesem Gebiet sicherstellen."
+ r56_USA_overwatch_the_pacific_desc:0 "Weite Gebiete des Pazifischen Ozeans sind nach wie vor nur schwach geschützt, da sich unsere industriellen und militärischen Kapazitäten auf den Krieg auf dem Festland konzentriert haben. Die Verbesserung unserer Kontrolle über den Pazifik wird die Vorherrschaft der [USA.getAdjective] in diesem Gebiet sicherstellen."
 
  r56_USA_liberty_for_the_pacific:0 "Freiheit für den Pazifik"
  r56_USA_liberty_for_the_pacific_desc:0 "Wenn wir der Welt zeigen wollen, dass wir wahre Beschützer der Freiheit sind, ist eine rasche und schnelle Dekolonisierung des Pazifiks ein Muss! Nur so können wir die Stabilität und den Wohlstand in dieser Region sichern!"
 
  r56_USA_withdraw_from_philippines:0 "Rückzug aus den Philippinen"
- r56_USA_withdraw_from_philippines_desc:0 "Der Imperialismus hat seinen Zweck als wirtschaftliches und politisches Konzept überlebt. Indem wir einer unserer Kolonien, [[~PHI.getNamedef~]], die gewünschte Unabhängigkeit gewähren, können wir einen mächtigen Verbündeten in der ostasiatischen Region gewinnen und nationalistische und separatistische Rhetorik der lokalen Bevölkerung stark einschränken."
+ r56_USA_withdraw_from_philippines_desc:0 "Der Imperialismus hat seinen Zweck als wirtschaftliches und politisches Konzept überlebt. Indem wir einer unserer Kolonien, [PHI.getNamedef], die gewünschte Unabhängigkeit gewähren, können wir einen mächtigen Verbündeten in der ostasiatischen Region gewinnen und nationalistische und separatistische Rhetorik der lokalen Bevölkerung stark einschränken."
 
  r56_USA_fate_of_hawaii:0 "Das Schicksal von Hawaii"
  r56_USA_fate_of_hawaii_desc:0 "Hawaii mit seiner strategischen Lage in der Mitte des Pazifiks ist für unsere Kriegsanstrengungen von entscheidender Bedeutung. Aber auch wenn wir dieses Land für uns selbst begehren, dürfen wir niemals unsere Versprechen an das hawaiianische Volk vergessen. Lassen Sie sie wissen, was unsere Pläne für ihre Inseln sind."
 
  r56_USA_korean_issue:0 "Koreanische Frage"
- r56_USA_korean_issue_desc:0 "Hervorgegangen aus der Entkolonialisierung von [[~JAP.getAdjective~]], hat sich [[~KOR.getNameDef~]] von den Grundsätzen der Freiheit, die wir verfolgen, abgewandt. Das neue Regime im Land ist äußerst zerbrechlich, was ein Fenster für einige Möglichkeiten öffnet..."
+ r56_USA_korean_issue_desc:0 "Hervorgegangen aus der Entkolonialisierung von [JAP.getAdjective], hat sich [KOR.getNameDef] von den Grundsätzen der Freiheit, die wir verfolgen, abgewandt. Das neue Regime im Land ist äußerst zerbrechlich, was ein Fenster für einige Möglichkeiten öffnet..."
 
  r56_USA_assistance_in_chinese_struggle:0 "Unterstützung des chinesischen Kampfes"
- r56_USA_assistance_in_chinese_struggle_desc:0 "Der [[~CHI.getAdjective~]]-Bürgerkrieg beherrscht wieder einmal die Zentralebene. Und auch wenn [[~CHI.getNameDef~]] nicht den gleichen Prinzipien folgt wie wir, werden wir dafür sorgen, dass das Paris des Orients nicht von der Roten Gefahr beherrscht wird."
+ r56_USA_assistance_in_chinese_struggle_desc:0 "Der [CHI.getAdjective]-Bürgerkrieg beherrscht wieder einmal die Zentralebene. Und auch wenn [CHI.getNameDef] nicht den gleichen Prinzipien folgt wie wir, werden wir dafür sorgen, dass das Paris des Orients nicht von der Roten Gefahr beherrscht wird."
 
  r56_USA_intervention_in_vietnam:0 "Intervention in Vietnam"
- r56_USA_intervention_in_vietnam_desc:0 "Freiheit und Freiheit können nicht mit der Unterdrückung des Volkes koexistieren, ganz gleich, wer sie ausübt - die ehemalige Kolonialverwaltung von [[~FRI.getNameDef~]] oder die roten Tyrannen von [[~VIN.getNameDef~]]. Wir werden jeder Art von roten Ambitionen in Indochina ein Ende setzen."
+ r56_USA_intervention_in_vietnam_desc:0 "Freiheit und Freiheit können nicht mit der Unterdrückung des Volkes koexistieren, ganz gleich, wer sie ausübt - die ehemalige Kolonialverwaltung von [FRI.getNameDef] oder die roten Tyrannen von [VIN.getNameDef]. Wir werden jeder Art von roten Ambitionen in Indochina ein Ende setzen."
 
  r56_USA_strike_the_prc:0 "Streik gegen die PRC"
  r56_USA_strike_the_prc_desc:0 "So sehr wir uns auch bemühen, die rote Pest befällt immer mehr Teile Ostasiens. Doch bevor wir sie an der Wurzel packen können, werden wir dafür sorgen, dass unsere Verbündeten den Kampf um das chinesische Festland gewinnen."
 
  r56_USA_guide_true_democracies:0 "Wahre Demokratien führen"
- r56_USA_guide_true_democracies_desc:0 "Viele Länder haben sich mit [[~ENG.getNameDef~]] und [[~FRA.getNameDef~]] in ihrem Kampf für Freiheit und Unabhängigkeit verbündet, doch einige von ihnen entsprechen bei weitem nicht der Definition eines demokratischen Regimes. Als verantwortungsbewusste und den Grundsätzen der Gründerväter treu ergebene Bürger werden wir diejenigen nicht länger tolerieren, die ihrem Volk Freiheiten verweigern."
+ r56_USA_guide_true_democracies_desc:0 "Viele Länder haben sich mit [ENG.getNameDef] und [FRA.getNameDef] in ihrem Kampf für Freiheit und Unabhängigkeit verbündet, doch einige von ihnen entsprechen bei weitem nicht der Definition eines demokratischen Regimes. Als verantwortungsbewusste und den Grundsätzen der Gründerväter treu ergebene Bürger werden wir diejenigen nicht länger tolerieren, die ihrem Volk Freiheiten verweigern."
 
  r56_USA_coordinate_research_effort:0 "Forschungsanstrengungen koordinieren"
  r56_USA_coordinate_research_effort_desc:0 "Um der roten Bedrohung, die sich über der Welt abzeichnet, zu begegnen, müssen wir alle unsere Forschungsanstrengungen bündeln. Forschung und Technologie sind der Schlüssel zum Endsieg. Nur gemeinsam werden wir in diesem Kampf siegen!"
 
  r56_USA_return_to_europe:0 "Rückkehr nach Europa"
- r56_USA_return_to_europe_desc:0 "Nur das Eingreifen von [[~USA.getAdjective~]] hat Europa vor der Besetzung durch [[~GER.getAdjective~]] während des Großen Krieges bewahrt. [[~ENG.getNameDefCap~]] und [[~FRA.getNameDef~]] werden sicherlich unsere Hilfe benötigen, wenn wir sicherstellen wollen, dass der von den [[~SOV.getAdjective~]]s geschaffene Eiserne Vorhang nicht nach Westen wandert."
+ r56_USA_return_to_europe_desc:0 "Nur das Eingreifen von [USA.getAdjective] hat Europa vor der Besetzung durch [GER.getAdjective] während des Großen Krieges bewahrt. [ENG.getNameDefCap] und [FRA.getNameDef] werden sicherlich unsere Hilfe benötigen, wenn wir sicherstellen wollen, dass der von den [SOV.getAdjective]s geschaffene Eiserne Vorhang nicht nach Westen wandert."
 
  r56_USA_enact_marshall_plan:0 "Erlass des Marshallplans"
- r56_USA_enact_marshall_plan_desc:0 "Das zerstörte und entvölkerte Europa liegt in Trümmern, nachdem es erneut in einen Krieg verwickelt wurde. [[~USA.getAdjective~]]s Investitionen werden den neu entstandenen Demokratien helfen, das Verlorene wiederzugewinnen und das Gewonnene zu stärken, wenn wir einer weiteren Krise entgegentreten wollen."
+ r56_USA_enact_marshall_plan_desc:0 "Das zerstörte und entvölkerte Europa liegt in Trümmern, nachdem es erneut in einen Krieg verwickelt wurde. [USA.getAdjective]s Investitionen werden den neu entstandenen Demokratien helfen, das Verlorene wiederzugewinnen und das Gewonnene zu stärken, wenn wir einer weiteren Krise entgegentreten wollen."
 
  r56_USA_support_eastern_democrats:0 "Östliche Demokratien unterstützen"
  r56_USA_support_eastern_democrats_desc:0 "Durch den Verrat des Westens sind viele osteuropäische Länder der Roten Bedrohung zum Opfer gefallen. Dennoch gibt es immer noch viele Menschen, die nach Freiheit und Befreiung von den Fesseln des Kommunismus streben. Unsere Agenten sind bereit, einige wenige Proteste und Demonstrationen zu unterstützen, vielleicht können dadurch noch mehr Menschen für unsere Ideen gewonnen werden?"
 
  r56_USA_secure_iberia:0 "Iberia sichern"
- r56_USA_secure_iberia_desc:0 "Der [[~SPR.getAdjective~]] Kampf hat zu raschen Veränderungen im Gleichgewicht der Mächte in Europa geführt. Und während wir die Rote Bedrohung einkreisen, könnte uns jede Großmacht der Iberischen Halbinsel in den Rücken fallen. [[~SPR.getAdjective~]] Loyalität zur Sache muss auf die eine oder andere Weise erzwungen werden."
+ r56_USA_secure_iberia_desc:0 "Der [SPR.getAdjective] Kampf hat zu raschen Veränderungen im Gleichgewicht der Mächte in Europa geführt. Und während wir die Rote Bedrohung einkreisen, könnte uns jede Großmacht der Iberischen Halbinsel in den Rücken fallen. [SPR.getAdjective] Loyalität zur Sache muss auf die eine oder andere Weise erzwungen werden."
 
  r56_USA_ensure_greek_freedom:0 "Gewährleistung der griechischen Freiheit"
- r56_USA_ensure_greek_freedom_desc:0 "Die Rhetorik der [[~GRE.getAdjective~]] Behörden wird von Tag zu Tag feindseliger. Unsere Diplomaten, die um ihr Leben fürchten, wurden bereits aus dem Land evakuiert. Die Regierungskrise in [[~GRE.getNameDef~]] könnte eine perfekte Gelegenheit sein, um sicherzustellen, dass der Kommunismus im Mittelmeerraum keine Anhänger hat."
+ r56_USA_ensure_greek_freedom_desc:0 "Die Rhetorik der [GRE.getAdjective] Behörden wird von Tag zu Tag feindseliger. Unsere Diplomaten, die um ihr Leben fürchten, wurden bereits aus dem Land evakuiert. Die Regierungskrise in [GRE.getNameDef] könnte eine perfekte Gelegenheit sein, um sicherzustellen, dass der Kommunismus im Mittelmeerraum keine Anhänger hat."
 
  r56_USA_greek_membership:0 "Griechische Mitgliedschaft"
- r56_USA_greek_membership_desc:0 "Die demokratische Gesinnung und die militärische Unterstützung für unsere Sache durch [[~GRE.getNameDef~]] wird sicherlich nützlich sein, wenn wir irgendeine Art von Operation in der Balkanregion beginnen wollen. Wir sollten ihre Vertreter zu den Verhandlungen einladen."
+ r56_USA_greek_membership_desc:0 "Die demokratische Gesinnung und die militärische Unterstützung für unsere Sache durch [GRE.getNameDef] wird sicherlich nützlich sein, wenn wir irgendeine Art von Operation in der Balkanregion beginnen wollen. Wir sollten ihre Vertreter zu den Verhandlungen einladen."
 
  r56_USA_turkish_membership:0 "Türkische Mitgliedschaft"
- r56_USA_turkish_membership_desc:0 "Es ist nur eine Frage der Zeit, wann die [[~SOV.getAdjective~]]s die Frage der [[~TUR.getAdjective~]] Meerengen von Bosporus und Dardanellen unter der Prämisse "Freier Handel und Gewerbe" aufwerfen werden. Wir werden schnell handeln und sicherstellen, dass der neue [[~TUR.getAdjective~]] Staat mit uns verbündet ist und unsere volle Unterstützung erhält. "
+ r56_USA_turkish_membership_desc:0 "Es ist nur eine Frage der Zeit, wann die [SOV.getAdjective]s die Frage der [TUR.getAdjective] Meerengen von Bosporus und Dardanellen unter der Prämisse "Freier Handel und Gewerbe" aufwerfen werden. Wir werden schnell handeln und sicherstellen, dass der neue [TUR.getAdjective] Staat mit uns verbündet ist und unsere volle Unterstützung erhält. "
 
  r56_USA_secure_yugoslavia:0 "Jugoslawien sichern"
- r56_USA_secure_yugoslavia_desc:0 "Drohende Bestrebungen, kommunistische Bewegungen auf dem gesamten Balkan zu einem [[~YUG.getAdjective~]]-Gebilde zu vereinen, sind eine Bedrohung für den Weltfrieden und ein klarer Verstoß gegen die Selbstbestimmungsprinzipien. Wir werden eine solch aggressive Rhetorik nicht dulden: Von nun an werden die [[~YUG.getAdjective~]]-Behörden als Feinde der Demokratie betrachtet!"
+ r56_USA_secure_yugoslavia_desc:0 "Drohende Bestrebungen, kommunistische Bewegungen auf dem gesamten Balkan zu einem [YUG.getAdjective]-Gebilde zu vereinen, sind eine Bedrohung für den Weltfrieden und ein klarer Verstoß gegen die Selbstbestimmungsprinzipien. Wir werden eine solch aggressive Rhetorik nicht dulden: Von nun an werden die [YUG.getAdjective]-Behörden als Feinde der Demokratie betrachtet!"
 
  r56_USA_ally_yugoslavia:0 "Verbündeter Jugoslawien"
- r56_USA_ally_yugoslavia_desc:0 "Obwohl es nicht wirklich demokratisch ist, hat [[~YUG.getNameDef~]] ausgedehnte gemeinsame Grenzen mit anderen Balkanländern. Ein Bündnis mit diesen Ländern wird uns eine große Operationsbasis in Europa verschaffen. Diplomaten verhandeln bereits über die Bedingungen für das offizielle Bündnis."
+ r56_USA_ally_yugoslavia_desc:0 "Obwohl es nicht wirklich demokratisch ist, hat [YUG.getNameDef] ausgedehnte gemeinsame Grenzen mit anderen Balkanländern. Ein Bündnis mit diesen Ländern wird uns eine große Operationsbasis in Europa verschaffen. Diplomaten verhandeln bereits über die Bedingungen für das offizielle Bündnis."
 
  r56_USA_prepare_allies_for_the_inevitable:0 "Bereiten Sie unsere Verbündeten auf das Unvermeidliche vor"
- r56_USA_prepare_allies_for_the_inevitable_desc:0 "Der Abschluss unserer Verteidigungsverträge lässt sich am besten durch eine gemeinsame industrielle Entwicklung erreichen. Wir verfügen über genügend Mittel, um schnelle Industrialisierungs- und Aufrüstungsprogramme für unsere Verbündeten zu unterstützen. Lassen Sie die [[~SOV.getAdjective~]]s wissen, dass wir mehr als bereit sind, ihre so genannte "Revolution" mit einem raschen Schlag zu besiegen."
+ r56_USA_prepare_allies_for_the_inevitable_desc:0 "Der Abschluss unserer Verteidigungsverträge lässt sich am besten durch eine gemeinsame industrielle Entwicklung erreichen. Wir verfügen über genügend Mittel, um schnelle Industrialisierungs- und Aufrüstungsprogramme für unsere Verbündeten zu unterstützen. Lassen Sie die [SOV.getAdjective]s wissen, dass wir mehr als bereit sind, ihre so genannte "Revolution" mit einem raschen Schlag zu besiegen."
 
  r56_USA_a_cold_war:0 "Ein Kalter Krieg"
  r56_USA_a_cold_war_desc:0 "Da die Welt in zwei Machtblöcke gespalten ist, wird noch deutlicher, dass ein offener Krieg katastrophale Auswirkungen auf den Planeten und die Zukunft der menschlichen Zivilisation haben würde. Wir werden unsere Anstrengungen auf den Wiederaufbau unserer Nation konzentrieren und die Kommunisten in Wissenschaft und Produktion übertreffen, während wir im Geheimen demokratische Regime auf der ganzen Welt unterstützen."
 
- r56_USA_commence_the_unthinkable:0 "Beginnen Sie das "Undenkbare" r56_USA_commence_the_unthinkable_desc:0 "Wie sehr wir uns auch bemühen, die Rote Bedrohung schwebt weiterhin über der Welt. Wenn wir die Rote Morgenröte verhindern wollen, müssen wir an der Quelle des Problems ansetzen - [[~SOV.getNameDef~]]. Zittere, kommunistische Bedrohung, der Glanz von Freiheit und Freiheit wird bald die ganze Welt umarmen!"
+ r56_USA_commence_the_unthinkable:0 "Beginnen Sie das "Undenkbare" r56_USA_commence_the_unthinkable_desc:0 "Wie sehr wir uns auch bemühen, die Rote Bedrohung schwebt weiterhin über der Welt. Wenn wir die Rote Morgenröte verhindern wollen, müssen wir an der Quelle des Problems ansetzen - [SOV.getNameDef]. Zittere, kommunistische Bedrohung, der Glanz von Freiheit und Freiheit wird bald die ganze Welt umarmen!"
 
- USA_guantanamo_bay_forward_base:0 "[[~1050.GetName~]] Forward Base"
- USA_guantanamo_bay_forward_base_desc:0 "Der [[~1050.GetName~]] Marinestützpunkt ist von großem strategischen Nutzen für unsere Operationen in der Karibik. Der Ausbau des Stützpunktes würde es uns ermöglichen, unsere Operationen weiter zu verstärken."
+ USA_guantanamo_bay_forward_base:0 "[1050.GetName] Forward Base"
+ USA_guantanamo_bay_forward_base_desc:0 "Der [1050.GetName] Marinestützpunkt ist von großem strategischen Nutzen für unsere Operationen in der Karibik. Der Ausbau des Stützpunktes würde es uns ermöglichen, unsere Operationen weiter zu verstärken."
 
 
  #events# ""
  r56_usa.6.t:0 "Das Schicksal von Hawaii"
- r56_usa.6.desc:0 "Der Ausblick der Staatsbeamten hat den bevölkerungsreichsten Teil unserer Besitztümer im Pazifikraum erreicht: Hawaii. [Das ehemalige Königreich Hawaii geriet in den 1850er Jahren unter den Einfluss von [[~USA.getNameDef~]], als unsere Diplomaten und Kaufleute mehrere Freundschafts- und gegenseitige Schutzverträge mit der örtlichen Regierung abschlossen. Die besagten Gebiete wurden im Rahmen eines Annexionsvertrags in unsere Nation eingegliedert, wobei den hawaiianischen Politikern eine angemessene Vertretung im Kongress versprochen wurde. [Bisher waren wir nicht in der Lage, die Versprechen an die Bevölkerung zu erfüllen, was bedeutet, dass unser politisches Credo "Freiheit und Gerechtigkeit für alle" für die örtliche Bevölkerung nichts als ein leeres Wort ist. [~\n~][~\n~]Die Zeit ist gekommen, dies ein für alle Mal zu ändern, von nun an soll Hawaii... "
+ r56_usa.6.desc:0 "Der Ausblick der Staatsbeamten hat den bevölkerungsreichsten Teil unserer Besitztümer im Pazifikraum erreicht: Hawaii. [Das ehemalige Königreich Hawaii geriet in den 1850er Jahren unter den Einfluss von [USA.getNameDef], als unsere Diplomaten und Kaufleute mehrere Freundschafts- und gegenseitige Schutzverträge mit der örtlichen Regierung abschlossen. Die besagten Gebiete wurden im Rahmen eines Annexionsvertrags in unsere Nation eingegliedert, wobei den hawaiianischen Politikern eine angemessene Vertretung im Kongress versprochen wurde. [Bisher waren wir nicht in der Lage, die Versprechen an die Bevölkerung zu erfüllen, was bedeutet, dass unser politisches Credo "Freiheit und Gerechtigkeit für alle" für die örtliche Bevölkerung nichts als ein leeres Wort ist. \n\nDie Zeit ist gekommen, dies ein für alle Mal zu ändern, von nun an soll Hawaii... "
  r56_usa.6.a:0 "... ihre gewünschte Freiheit genießen."
  r56_usa.6.b:0 "... die lokale Autonomie erhalten."
  r56_usa.6.c:0 "... als neuer Staat integriert werden."
 
- r56_usa.10.t:0 "[[~USA.getNameDefCap~]] Schlägt ein Bündnis vor"
- r56_usa.10.desc:0 "Der [[~USA.getAdjective~]]-Botschafter hat eine dringende geheime Botschaft an unsere Regierung übermittelt, um zu erfahren, ob wir an einem Bündnis interessiert sind. Die Botschaft besagt, dass unsere Regierung gemeinsam kämpfen könnte, wie es Washington und Lafayette zu ihrer Zeit getan haben."
+ r56_usa.10.t:0 "[USA.getNameDefCap] Schlägt ein Bündnis vor"
+ r56_usa.10.desc:0 "Der [USA.getAdjective]-Botschafter hat eine dringende geheime Botschaft an unsere Regierung übermittelt, um zu erfahren, ob wir an einem Bündnis interessiert sind. Die Botschaft besagt, dass unsere Regierung gemeinsam kämpfen könnte, wie es Washington und Lafayette zu ihrer Zeit getan haben."
  r56_usa.10.a:0 "Großartig!"
  r56_usa.10.b:0 "Das ist nicht in unserem Interesse."
 
- r56_usa.11.t:0 "Die [[~FRA.getAdjective~]] Regierung hat unserem Bündnisvorschlag zugestimmt!"
- r56_usa.11.desc:0 "Als Antwort auf unsere vorherige Nachricht hat der [[~FRA.getAdjective~]]-Botschafter soeben die Antwort der [[~FRA.getAdjective~]]-Regierung übermittelt. Sie hat unserem Vorschlag mit sofortiger Wirkung zugestimmt. Der französische Militärattaché ist bereits bereit, wichtige militärische Informationen zu übermitteln, und er erwartet, dass wir dasselbe tun."
+ r56_usa.11.t:0 "Die [FRA.getAdjective] Regierung hat unserem Bündnisvorschlag zugestimmt!"
+ r56_usa.11.desc:0 "Als Antwort auf unsere vorherige Nachricht hat der [FRA.getAdjective]-Botschafter soeben die Antwort der [FRA.getAdjective]-Regierung übermittelt. Sie hat unserem Vorschlag mit sofortiger Wirkung zugestimmt. Der französische Militärattaché ist bereits bereit, wichtige militärische Informationen zu übermitteln, und er erwartet, dass wir dasselbe tun."
  r56_usa.11.a:0 "Großartig!"
  r56_usa.11.b:0 "Das ist nicht in unserem Interesse."
 
- r56_usa.12.t:0 "[[~FRA.getLeader~]] Er hat unseren Bündnisvorschlag abgelehnt!"
- r56_usa.12.desc:0 "Der [[~FRA.getAdjective~]] hat die Antwort seiner Regierung übermittelt. Zu unserem Leidwesen hat sie unseren Bündnisvorschlag abgelehnt."
+ r56_usa.12.t:0 "[FRA.getLeader] Er hat unseren Bündnisvorschlag abgelehnt!"
+ r56_usa.12.desc:0 "Der [FRA.getAdjective] hat die Antwort seiner Regierung übermittelt. Zu unserem Leidwesen hat sie unseren Bündnisvorschlag abgelehnt."
  r56_usa.12.a:0 "Welch eine Enttäuschung"
 
  r56_usa_deaths.1.t:0 "Tod von Chaffee"
