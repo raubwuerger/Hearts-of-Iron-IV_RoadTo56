@@ -1,1 +1,37 @@
 ﻿l_german:
+
+#leaders ""
+GRL_eske_brun:0 "Eske Brun"
+GRL_aksel_svane:0 "Aksel Svane"
+GRL_greenland_worker_councils:0 "Grönländische Betriebsräte"
+
+#ideas ""
+GRL_knud_oldendow:0 "Knud Oldendow"
+GRL_eli_knudsen:0 "Eli Knudsen"
+GRL_christian_arke:0 "Christian Arke"
+GRL_willhelm_dege:0 "Willhem Dege"
+GRL_malekalet_arke:0 "Malekalet Arke"
+GRL_aage_de_lemos:0 "Aage de Lemos"
+GRL_edward_h_smith:0 "Edward H. Smith"
+GRL_ib_poulsen:0 "Ib Poulsen"
+GRL_jens_marius_jensen:0 "Jens Marius Jensen"
+GRL_peter_nielsen:0 "Peter Nielsen"
+GRL_kurt_olsen:0 "Kurt Olsen"
+
+#GRL_aksel_svane:0 "Philip R. Rosendahl"
+
+#events ""
+grl.1:0 "Das Hull-Kauffmann-Abkommen"
+grl.1.t:0 "Das Hull-Kauffmann-Abkommen"
+grl.1.d:0 "Die [[~DEN.GetADjective~]]-Regierung ist vor kurzem von faschistischen Armeen besiegt worden, aber das Kolonialgebiet Grönland bleibt frei von faschistischer Einmischung. Ein [[~DEN.GetADjective~]] Diplomat namens Henrik Kauffmann hat sich kürzlich wegen der Situation in Grönland an uns gewandt. Er handelt 'im Namen des Königs' und der Autorität der kürzlich ins Exil gegangenen [[~DEN.GetADjective~]]-Regierung. Die Beamten von Nuuk haben sich mit dieser Bitte an Kauffmann gewandt, da sie eine Besetzung durch [[~USA.GetADjective~]] einer möglichen Besetzung durch [[~ENG.GetNameDef~]] oder [[~CAN.GetNameDef~]] vorziehen würden. Oder noch schlimmer, einer faschistischen Macht. Dieses Abkommen mag rechtlich zweifelhaft sein, was das internationale Recht angeht... Aber wir haben die Verantwortung, alles Land und die Menschen der Neuen Welt vor faschistischen Bedrohungen zu schützen; das schließt Grönland ein.[~[~\n~][~\n~]~]Wie sollten wir dabei vorgehen?"
+grl.1.a:0 "Stellen Sie Grönland sofort unter unsere direkte Kontrolle."
+grl.1.b:0 "Lassen Sie die lokale Regierung in Nuuk die Kontrolle übernehmen. Aber wir müssen für ihre Sicherheit sorgen."
+grl.1.c:0 "Wir sollten uns nicht einmischen."
+
+#parties ""
+GRL_communism_party_long:0 "Inuit Ataqatigiit/Folkets Samfund"
+GRL_communism_party:0 "IA"
+GRL_democratic_party_long:0 "Siumut/Frem"
+GRL_democratic_party:0 "Siumut"
+GRL_fascism_party:0 "Kalaallit Katersat"
+GRL_neutrality_party:0 "Grönländisches Inspektorat"

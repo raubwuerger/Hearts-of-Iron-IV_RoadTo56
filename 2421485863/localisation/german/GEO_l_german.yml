@@ -1,1 +1,20 @@
 ﻿l_german:
+ fate_of_georgia_category:0 "Das Schicksal Georgiens"
+ fate_of_georgia_category_desc:0 "Georgien, ein altes Königreich mit einer reichen Geschichte, die bis ins Mittelalter zurückreicht, konnte sich nach dem Großen Krieg kurzzeitig vom russischen Joch befreien. Mit den Bolschewiken kam eine andere Art der russischen Herrschaft. Mit Hilfe von Freiwilligen aus dem eigenen Land und im Exil lebenden Mitgliedern der alten Elite konnten wir die Freiheit des Landes Tamara wiederherstellen."
+ GEO_liberators:0 "Befreier Georgiens"
+
+ GEO_form_georgian_national_council:0 "Bildung eines georgischen Nationalrats"
+ GEO_establish_georgian_legion:0 "Rekrutieren Sie eine georgische Legion"
+ GEO_establish_georgian_legion_cost:0 "£Armee_Erfahrung [~§H~]10[~§!~] £Pol_Stärke [~§H~]25[~§!~] £Kommando_Stärke [~§H~]25[~§!~]"
+ GEO_establish_georgian_legion_cost_blocked:0 "£army_experience [~§R~]10[~§!~] £pol_power [~§R~]25[~§!~] £command_power [~§R~]25[~§!~]"
+ GEO_establish_georgian_legion_cost_tooltip:0 "Es kostet £army_experience 10, £pol_power 25 und £command_power 25 um dies zu wählen."
+ GEO_establish_national_georgian_government:0 "Errichte eine nationale georgische Regierung"
+
+ GEO_event.1.t:0 "Die Freiwilligen wollen nach Hause gehen!"
+ GEO_event.1.desc:0 "Die Freiwilligeneinheiten wurden gebildet, um gegen [[~SOV.GetName~]] zu kämpfen und Georgien zu befreien. Nach der Niederlage des [[~SOV.GetAdjective~]]-Staates sind diese Freiwilligen der Meinung, dass ihre Mission erfüllt ist, und wollen nach Hause geschickt werden."
+ GEO_event.1.a:0 "Überzeugen Sie sie, noch ein wenig zu bleiben."
+ GEO_event.1.b:0 "Lösen Sie ihre Einheit auf."
+
+
+ GEO_generic_light_aircraft_manufacturer:0 "Tifliser Verband der Luftstreitkräfte"
+ GEO_artillery_manufacturer:0 "Aleksandr Nadiradze's Design Bureau"
