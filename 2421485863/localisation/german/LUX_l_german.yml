@@ -185,7 +185,7 @@
  luxembourg.110.d:0 "[GER.Getname] hat unser Angebot einer Personalunion mit unserer Regierung abgelehnt.  Die [LUX.Getleader] sind heute Morgen mit dieser schrecklichen Nachricht aus Berlin zurückgekehrt. Wer weiß, wie wir die Beziehungen mit dem [GER.Getname] fortsetzen sollen, nachdem dieses Abkommen geplatzt ist."
  luxembourg.110.a:0 "Verdammt seien sie"
  luxembourg.111.t:0 "[LUX.Getname] geht Personalunion mit [GER.Getname] ein."
- luxembourg.111.d:0 "[Heute Morgen haben sich Vertreter der Regierung von [LUX.Getleader] auf den Weg nach [GER.Capital.Getname] gemacht, um sich auf eine erwartungsgemäß ereignislose diplomatische Reise zu begeben. Allerdings wurde dieser Besuch von vielen Ländern in Europa mit Überraschung aufgenommen, als der Vertreter von [LUX.Getleader] ein Abkommen zur Personalunion mit [GER.Getname] vorschlug. [Nach ein paar Stunden, in denen die Details des endgültigen Abkommens besprochen wurden, unterzeichneten beide Seiten den Vertrag. Dieser Vertrag unterstellt Luxemburg effektiv der deutschen Unterwerfung."
+ luxembourg.111.d:0 "\nHeute Morgen haben sich Vertreter der Regierung von [LUX.Getleader] auf den Weg nach [GER.Capital.Getname] gemacht, um sich auf eine erwartungsgemäß ereignislose diplomatische Reise zu begeben. Allerdings wurde dieser Besuch von vielen Ländern in Europa mit Überraschung aufgenommen, als der Vertreter von [LUX.Getleader] ein Abkommen zur Personalunion mit [GER.Getname] vorschlug. \nNach ein paar Stunden, in denen die Details des endgültigen Abkommens besprochen wurden, unterzeichneten beide Seiten den Vertrag. Dieser Vertrag unterstellt Luxemburg effektiv der deutschen Unterwerfung."
  luxembourg.111.a:0 "Das bedeutet Ärger"
 
 

@@ -107,7 +107,7 @@
  SUD_modern_infantry_desc:0 ""
 
  SUD_unstable_nation:0 "Geteilte Nation"
- SUD_unstable_nation_desc:0 "[Die Politik des Landes ist alles andere als stabil. Aufgrund von Faktoren wie verarmten Lebensbedingungen und ethnischen Konflikten ist es für eine starke Regierung äußerst schwierig, sich zu etablieren."
+ SUD_unstable_nation_desc:0 "\nDie Politik des Landes ist alles andere als stabil. Aufgrund von Faktoren wie verarmten Lebensbedingungen und ethnischen Konflikten ist es für eine starke Regierung äußerst schwierig, sich zu etablieren."
  SUD_religious_militarism:0 "Religiöser Militarismus"
  SUD_religious_militarism_2:0 "Religiöser Militarismus"
 

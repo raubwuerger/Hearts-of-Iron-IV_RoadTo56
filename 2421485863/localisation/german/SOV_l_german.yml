@@ -274,7 +274,7 @@
  SOV_iron_curtain_idea:0 "Eiserner Vorhang"
  SOV_iron_curtain_idea_desc:0 "Wir sind dabei, unsere Herrschaft über die assoziierten Klientelstaaten zu festigen und zu verschärfen."
  SOV_defense_of_the_motherland:0 "Verteidigung des Vaterlandes"
- SOV_defense_of_the_motherland_desc:0 "Unser großes Land wird niemals fallen oder kapitulieren, es ist unsere Pflicht, das Mutterland zu schützen, koste es, was es wolle! [Dieser Nationale Geist wird erlöschen, sobald der Krieg vorbei ist."
+ SOV_defense_of_the_motherland_desc:0 "Unser großes Land wird niemals fallen oder kapitulieren, es ist unsere Pflicht, das Mutterland zu schützen, koste es, was es wolle! \nDieser Nationale Geist wird erlöschen, sobald der Krieg vorbei ist."
  SOV_comecon_support:0 "Comecon-Unterstützung"
  SOV_comecon_support_desc:0 "Sowjetische zivile und militärische Spezialisten unterstützen unser Land durch ideologische Erziehung und wirtschaftliche Hilfe."
  SOV_comecon_idea:0 "Comecon"

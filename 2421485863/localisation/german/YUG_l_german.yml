@@ -56,7 +56,7 @@
  YUG_yugoslav_reunification_category_desc:0 "Jugoslawien ist durch zentrifugale Kräfte gespalten worden, aber die Idee einer Vereinigung der Südslawen lebt weiter."
  r56_unite_puppet_with_yug:0 "Vereinigen Sie [FROM.getNameDef] mit Jugoslawien"
 
- YUG_very_strong_communists:0 ""§GSehr stark§!" #Das Basisspiel versucht, eine nicht existierende Farbe zu verwenden."
+ YUG_very_strong_communists:0 "§GSehr stark§!"
 
 
  YUG_construct_rupnik_line:0 "Konstruieren Sie die Rupnik-Linie"

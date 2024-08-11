@@ -108,7 +108,7 @@
  axis_minors_slovakia.2.a:0 ""
 
  axis_minors_slovakia.3.t:0 "Nach unseren erfolgreichen Operationen im östlichen Teil der Slowakei hat [GER.GetNameDef] einen Waffenstillstand geschlossen und die Grenze zu unseren Gunsten neu gezogen! Wir kontrollieren nun die gesamte Karpatija und haben sogar ein paar ungarische Dörfer befreit. Die Soldaten singen, um diesen glorreichen Schritt auf unserem Weg zur Wiederherstellung von Nagy-Magyarország/Großungarn zu feiern."
- axis_minors_slovakia.3.desc:0 ""Wir sind alle Soldaten von [HUN.GetLeader]"."
+ axis_minors_slovakia.3.desc:0 "ir sind alle Soldaten von [HUN.GetLeader]"."
  axis_minors_slovakia.3.a:0 ""
 
  axis_minors_slovakia.4.t:0 "Es scheint, dass wir die Armee von [SLO.GetAdjective] unterschätzt haben. Sie reagierten heftig auf unsere Offensive, die die ganze Woche andauerte. Während wir Fortschritte machten, beschloss [GER.GetNameDef] einzugreifen und verhängte einen Waffenstillstand zu Gunsten von [SLO.GetNameDef]."
@@ -180,7 +180,7 @@
  axis_minors_vichy_france.11.a:0 ""
 
  axis_minors_vichy_france.12.t:0 "Im Laufe des Krieges können neue Talente ihre Führungsqualitäten auf dem Schlachtfeld unter Beweis stellen. Einer dieser talentierten Offiziere wurde kürzlich in den Rang eines Generals befördert. Seine kühnen Ideen werden von einigen der älteren Generation abgelehnt, aber er scheint zu verstehen, dass moderne Waffen, wenn sie richtig eingesetzt werden, die massiven Verluste des Großen Krieges vermeiden können."
- axis_minors_vichy_france.12.desc:0 ""Vive la Classe" axis_minors_vichy_france.13.t:0 "Talentierter Offizier befördert"
+ axis_minors_vichy_france.12.desc:0 "ive la Classe" axis_minors_vichy_france.13.t:0 "Talentierter Offizier befördert"
  axis_minors_vichy_france.12.a:0 "Begabter Offizier befördert"
  axis_minors_vichy_france.14.t:0 "Bestätigung der französischen Besatzungszone"
  axis_minors_vichy_france.17.t:0 "Gemäß Artikel II der Konvention des Waffenstillstands zwischen dem französischen Staat und [GER.GetNameDef]: "Zur Wahrung der Interessen von [GER.GetNameDef] wird das französische Staatsgebiet nördlich und westlich der auf der beigefügten Karte eingezeichneten Linie von [GER.GetAdjective]-Truppen besetzt. Soweit die zu besetzenden Teile noch nicht unter der Kontrolle von [GER.GetAdjective]-Truppen stehen, wird diese Besetzung sofort nach Abschluss dieses Vertrages durchgeführt."\n\nDaher muss jedes Gebiet, das sich unrechtmäßig unter der Kontrolle der französischen Regierung befindet, unter die Kontrolle des Militärbefehlshabers in Frankreich gestellt werden."

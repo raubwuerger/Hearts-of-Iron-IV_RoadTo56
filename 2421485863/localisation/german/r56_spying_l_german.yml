@@ -35,46 +35,46 @@ lar_operative_event.8.t:0 "Rettungseinsatz abgeschlossen"
 lar_operative_event.8.desc:0 "Unsere Agenten haben ihren Auftrag zur Rettung eines gefangenen verbündeten Agenten abgeschlossen. Die Kontakte zu den Betreuern wurden hergestellt, und es werden Berichte verfasst. Die Agenten werden so bald wie möglich für neue Operationen bereit sein."
 
 lar_operative_event.9.t:0 "Auftrag abgeschlossen: Verwaltung infiltriert"
-lar_operative_event.9.desc:0 "[Nach der Kontaktaufnahme mit kooperativen Beamten ist es unseren Agenten der [ROOT.GetAgency] gelungen, Kontakte innerhalb der ausländischen bürokratischen Struktur zu knüpfen."
+lar_operative_event.9.desc:0 "\nNach der Kontaktaufnahme mit kooperativen Beamten ist es unseren Agenten der [ROOT.GetAgency] gelungen, Kontakte innerhalb der ausländischen bürokratischen Struktur zu knüpfen."
 
 lar_operative_event.10.t:0 "Geheime Mission abgeschlossen: Foreign Armed Forces Infiltrated"
-lar_operative_event.10.desc:0 "[Nachdem unsere Agenten der [ROOT.GetAgency] Kontakte zu leicht zu beeinflussenden Soldaten und Offizieren geknüpft haben, ist es ihnen gelungen, Kontakte innerhalb der militärischen Kommandostruktur herzustellen."
+lar_operative_event.10.desc:0 "\nNachdem unsere Agenten der [ROOT.GetAgency] Kontakte zu leicht zu beeinflussenden Soldaten und Offizieren geknüpft haben, ist es ihnen gelungen, Kontakte innerhalb der militärischen Kommandostruktur herzustellen."
 
 lar_operative_event.11.t:0 "Geheime Mission abgeschlossen: Fremde Marine infiltriert"
-lar_operative_event.11.desc:0 "[Nach der Kontaktaufnahme mit leicht beeinflussbaren Matrosen und Offizieren ist es unseren Agenten der [ROOT.GetAgency] gelungen, Kontakte innerhalb der Kommandostruktur ihrer Marine zu knüpfen."
+lar_operative_event.11.desc:0 "\nNach der Kontaktaufnahme mit leicht beeinflussbaren Matrosen und Offizieren ist es unseren Agenten der [ROOT.GetAgency] gelungen, Kontakte innerhalb der Kommandostruktur ihrer Marine zu knüpfen."
 
 lar_operative_event.12.t:0 "Geheime Mission abgeschlossen: Fremde Luftwaffe infiltriert"
-lar_operative_event.12.desc:0 "[Nachdem unsere Agenten der [ROOT.GetAgency] Kontakte zu leicht beeinflussbaren Piloten und Mechanikern geknüpft haben, ist es ihnen gelungen, Kontakte innerhalb der Kommandostruktur ihrer Luftwaffe herzustellen."
+lar_operative_event.12.desc:0 "\nNachdem unsere Agenten der [ROOT.GetAgency] Kontakte zu leicht beeinflussbaren Piloten und Mechanikern geknüpft haben, ist es ihnen gelungen, Kontakte innerhalb der Kommandostruktur ihrer Luftwaffe herzustellen."
 
 lar_operative_event.13.t:0 "Geheime Mission abgeschlossen: Kollaborateure gestärkt"
-lar_operative_event.13.desc:0 "[Unsere Agenten haben ihren Auftrag erfüllt. Es wurden Kontakte zu Sympathisanten geknüpft und Beamte beeinflußt. Waffen und Geld wurden verteilt, um ihren politischen Einfluss zu sichern, wenn der Tag der Abrechnung für sie kommt. Dies ist ein weiterer Erfolg für die [ROOT.GetAgency]."
+lar_operative_event.13.desc:0 "\nUnsere Agenten haben ihren Auftrag erfüllt. Es wurden Kontakte zu Sympathisanten geknüpft und Beamte beeinflußt. Waffen und Geld wurden verteilt, um ihren politischen Einfluss zu sichern, wenn der Tag der Abrechnung für sie kommt. Dies ist ein weiterer Erfolg für die [ROOT.GetAgency]."
 
 lar_operative_event.14.t:0 "Geheime Mission abgeschlossen: Cipher gefangen genommen"
-lar_operative_event.14.desc:0 "[Das jüngste Projekt der [ROOT.GetAgency] zur Ergreifung ausländischer Chiffren ist abgeschlossen. Die erbeuteten Daten werden nun analysiert, um deren kryptographische Systeme zu knacken."
+lar_operative_event.14.desc:0 "\nDas jüngste Projekt der [ROOT.GetAgency] zur Ergreifung ausländischer Chiffren ist abgeschlossen. Die erbeuteten Daten werden nun analysiert, um deren kryptographische Systeme zu knacken."
 
 lar_operative_event.15.t:0 "Geheime Mission abgeschlossen: Gefälschte Informationen platziert"
-lar_operative_event.15.desc:0 "[Das neueste Projekt der [ROOT.GetAgency] zur Täuschung des Feindes durch die Einschleusung falscher Informationen ist abgeschlossen."
+lar_operative_event.15.desc:0 "\nDas neueste Projekt der [ROOT.GetAgency] zur Täuschung des Feindes durch die Einschleusung falscher Informationen ist abgeschlossen."
 
 lar_operative_event.16.t:0 "Geheime Mission abgeschlossen: Coup eingeleitet"
 lar_operative_event.16.desc:0 "[Den Agenten der [ROOT.GetAgency] ist es gelungen, eine ideologisch motivierte Revolte unter den ausländischen Anhängern von [ROOT.GetRulingIdeologyNoun] zu starten.]"
 
 lar_operative_event.17.t:0 "Geheime Mission abgeschlossen: Widerstandskämpfer beliefert"
-lar_operative_event.17.desc:0 "[Die [ROOT.GetAgency] hat Partisanen mit Kleinwaffen und Sprengstoff versorgt, um ihre Aktivitäten zu stimulieren und wenn möglich einen allgemeinen Aufstand anzuzetteln."
+lar_operative_event.17.desc:0 "\nDie [ROOT.GetAgency] hat Partisanen mit Kleinwaffen und Sprengstoff versorgt, um ihre Aktivitäten zu stimulieren und wenn möglich einen allgemeinen Aufstand anzuzetteln."
 
 lar_operative_event.18.t:0 "Geheime Mission abgeschlossen: Widerstandsgruppen kontaktiert"
 lar_operative_event.18.desc:0 "[Bereitschaft zur Unterstützung von Partisanenaktivitäten im Ausland. Die [ROOT.GetAgency] hat mit den Anführern des Widerstands Kontakt aufgenommen, um die Koordinierung der Bemühungen zu planen."
 
 lar_operative_event.19.t:0 "Geheime Mission abgeschlossen: Koordinierter Streik geplant"
-lar_operative_event.19.desc:0 "[Die [ROOT.GetAgency] hat sich mit unseren Streitkräften abgestimmt, um die feindlichen Stellungen zu dokumentieren und sicherzustellen, dass ein Überraschungsangriff auf ihre Einrichtungen maximalen Schaden anrichten würde."
+lar_operative_event.19.desc:0 "\nDie [ROOT.GetAgency] hat sich mit unseren Streitkräften abgestimmt, um die feindlichen Stellungen zu dokumentieren und sicherzustellen, dass ein Überraschungsangriff auf ihre Einrichtungen maximalen Schaden anrichten würde."
 
 lar_operative_event.20.t:0 "Geheime Mission abgeschlossen: Innovative Technologie erlangt"
-lar_operative_event.20.desc:0 "[Unsere Agenten sind mit guten Nachrichten zurückgekehrt: Der [ROOT.GetAgency] ist es gelungen, über ihre ausländischen Netzwerke Elemente einer Schlüsselinnovation zu erwerben."
+lar_operative_event.20.desc:0 "\nUnsere Agenten sind mit guten Nachrichten zurückgekehrt: Der [ROOT.GetAgency] ist es gelungen, über ihre ausländischen Netzwerke Elemente einer Schlüsselinnovation zu erwerben."
 
 lar_operative_event.21.t:0 "Geheime Mission abgeschlossen: Fabrik sabotiert"
-lar_operative_event.21.desc:0 "[Um das gegnerische Wirtschaftspotenzial zu schwächen, haben Agenten der [ROOT.GetAgency] Sprengstoff in einer wichtigen Fabrik platziert und diese erheblich beschädigt."
+lar_operative_event.21.desc:0 "\nUm das gegnerische Wirtschaftspotenzial zu schwächen, haben Agenten der [ROOT.GetAgency] Sprengstoff in einer wichtigen Fabrik platziert und diese erheblich beschädigt."
 
 lar_operative_event.22.t:0 "Geheime Mission abgeschlossen: Ressourcenabbau sabotiert"
-lar_operative_event.22.desc:0 "[Um das gegnerische Wirtschaftspotenzial zu schwächen, haben Agenten der [ROOT.GetAgency] deren Ressourcenproduktionskapazitäten beschädigt."
+lar_operative_event.22.desc:0 "\nUm das gegnerische Wirtschaftspotenzial zu schwächen, haben Agenten der [ROOT.GetAgency] deren Ressourcenproduktionskapazitäten beschädigt."
 
 lar_operative_event.23.t:0 "Geheime Mission abgeschlossen: Militärtechnologie gestohlen"
 lar_operative_event.23.desc:0 "[Militärische Innovationen können einen entscheidenden Vorteil auf dem Schlachtfeld verschaffen und viele Leben retten, während der Feind das seine verliert. Aus diesem Grund hat die [ROOT.GetAgency] ausländische Militärhersteller infiltriert, um technische Informationen über deren neueste experimentelle Waffentechnik zu erhalten."
@@ -86,7 +86,7 @@ lar_operative_event.25.t:0 "Geheime Mission abgeschlossen: Aeronautical Technolo
 lar_operative_event.25.desc:0 "[Aeronautische Innovationen können einen entscheidenden Vorteil bringen, indem sie die Tödlichkeit vergangener Kriege in die Lüfte bringen. Getreu ihrem Auftrag, [ROOT.GetNameDef] zu dienen, hat sich die [ROOT.GetAgency] in die ausländische Militärluftfahrt eingeschleust, um aus erster Hand Informationen über die Beschaffung von Luftfahrttechnik zu erhalten."
 
 lar_operative_event.26.t:0 "Geheime Mission abgeschlossen: Infrastruktur sabotiert"
-lar_operative_event.26.desc:0 "[Um das wirtschaftliche Potenzial des Gegners zu schwächen, haben Agenten der [ROOT.GetAgency] dessen Kommunikationsinfrastruktur beschädigt."
+lar_operative_event.26.desc:0 "\nUm das wirtschaftliche Potenzial des Gegners zu schwächen, haben Agenten der [ROOT.GetAgency] dessen Kommunikationsinfrastruktur beschädigt."
 
 r56_spying_event.9.t:0 "Ein fähiger Rekrut"
 r56_spying_event.9.desc:0 "Ein Kandidat wurde von Ausbildern der [ROOT.GetAgency] empfohlen. Seine Infiltrationsfähigkeiten wurden als "fast magisch" beschrieben und er zeigte etwas schauspielerisches Talent, bevor er seinen Ausbilder in einem hoffentlich vorgetäuschten Angriff brutal angriff. In seinem Dossier wird erwähnt, dass er zunächst versucht hat, Pilot zu werden, dies aber aufgrund einer Schädigung eines seiner Augen nicht tun konnte. Als der Rekrutierer dies las, soll er gesagt haben: "Du wirst nicht fliegen, du Narr!" Seinen Ausbildern ist ein merkwürdiges Detail aufgefallen. Bevor er jemanden angreift, ruft er oft "En guarde!", sehr zum Ärger seiner Kameraden."

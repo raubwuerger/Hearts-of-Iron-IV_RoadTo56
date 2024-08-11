@@ -160,7 +160,7 @@
  GRE_political_opposition:0 "Asphaleia"
  GRE_political_opposition_desc:0 "Unser Fundament ist zwar politisch solide und stabil, doch die Opposition lauert weiterhin im Verborgenen und plant unseren Untergang. Wenn wir unseren rechtschaffenen Weg fortsetzen wollen, müssen wir diese Elemente notfalls mit Gewalt zum Schweigen bringen."
  GRE_dominant_ideology:0 "Schaffen Sie die YPE"
- GRE_dominant_ideology_desc:0 "Ioannis Metaxas ist der Retter von [GRE.GetnameDef]~, seinem Volk und der hellenischen Kultur. Wir werden seine Errungenschaften verewigen, und die Oppositionskräfte werden es schwer haben, etwas Substanzielles zu erfinden, um die von uns unterstützte Darstellung zu widerlegen."
+ GRE_dominant_ideology_desc:0 "Ioannis Metaxas ist der Retter von [GRE.GetnameDef], seinem Volk und der hellenischen Kultur. Wir werden seine Errungenschaften verewigen, und die Oppositionskräfte werden es schwer haben, etwas Substanzielles zu erfinden, um die von uns unterstützte Darstellung zu widerlegen."
  GRE_metaxas_line:0 "Bau der Metaxas-Linie"
  GRE_metaxas_line_desc:0 "Unsere Nordgrenze ist in diesen turbulenten Zeiten am stärksten gefährdet. Metaxas hat einen Plan zur Verstärkung und Befestigung der Nordgrenze ausgearbeitet und gebilligt, obwohl einige argumentieren, dass dies ein zu kostspieliges Unterfangen sei."
  GRE_world_stage:0 "Metaxas' Ausblick"
@@ -390,7 +390,7 @@
  GRE_metaxas_pm:0 "Metaxas ist zum Premierminister ernannt worden."
  GRE_democratic_party_appointed:0 "Panagis Tsaldaris wurde zum Ministerpräsidenten ernannt."
  GRE_divided_nation_tt:0 "§WSchaltet eine§! §YEreignisoption§! §Wfrei, um zu verhindern, dass die§! §RGewerkschaftsstreiks§! §Win einen§! §YBürgerkrieg ausarten.§!"
- GRE_divided_no_commie_cw_tt:"§WOn Focus Selection:§! §RRemoves§! §Wthe§! §YEvent Option§! §Wthat allows the§! §RUnion Strikes§! §Wto deteriorate into a§! §YCivil War.§!" ""
+ GRE_divided_no_commie_cw_tt: "§WBei Fokusauswahl:§! Wird die §YEreignis Option§! §Rentfernt§! §Wwelche§! §RGewerkschaftsstreiks§! §Werlaubt§! erhöht sich die Gefahr für einen §YBürgerkrieg.§!"
 
  #Decisions ""
  GRE_divided_nation_category:0 "Nation in Aufruhr"

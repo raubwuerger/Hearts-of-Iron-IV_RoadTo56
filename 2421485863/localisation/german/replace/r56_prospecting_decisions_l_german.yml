@@ -4,7 +4,7 @@
  generic_resource_extraction_effort:0 "Ersetzen Sie Bakus Öl durch das Wolga-Ural-Becken"
 
  SOV_replace_baku_with_volga_ural_basin:0 ""
- prospect_volga_ural_basin:0 ""Eröffne die Kajaran-Mine" #Änderungseffekt, wenn Kupfer hinzugefügt wird"
+ prospect_volga_ural_basin:0 "röffne die Kajaran-Mine" #Änderungseffekt, wenn Kupfer hinzugefügt wird"
  budafapuszta_oil_exploited:0 "Ausbeutung von Nordarmeniens Aluminium"
 
  open_kajaran_mine:0 "Erschließung des Sherwood Forest Ölfeldes"
@@ -169,7 +169,7 @@
  expand_formosan_oil_extraction:0 "Negev-Ölförderung"
  prekmurje_oil_extraction:0 "Emba Bassin Ölförderung"
  guyana_oil_extraction:0 ""
- negev_oil_extraction:0 ""Öffnung der Kajaran-Mine" #Änderungseffekt, wenn Kupfer hinzugefügt wird"
+ negev_oil_extraction:0 "ffnung der Kajaran-Mine" #Änderungseffekt, wenn Kupfer hinzugefügt wird"
  emba_bassin_oil_extraction:0 "Ausbeutung des nordarmenischen Aluminiums"
 
  open_kajaran_mine_wtt:0 "Erschließung des Sherwood Forest Ölfeldes"

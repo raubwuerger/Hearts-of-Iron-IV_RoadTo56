@@ -273,7 +273,7 @@
  r56_japan.2.a:0 "Ausgezeichnet."
 
  r56_japan.10.t:0 "Gastgeberwahlen"
- r56_japan.10.desc:0 "Mehrere Jahrzehnte lang hatten die Militaristen einen großen Einfluss auf die politische Sphäre und die diplomatische Ausrichtung des Landes. Die neue provisorische Regierung hat aus den Fehlern der Vergangenheit gelernt und nach der Festigung der Kontrolle über das Land landesweite Wahlen für diesen Monat angekündigt. [Angesichts der eindeutigen Prävalenz liberaler Vorstellungen unter den höchsten Beamten des Staates ist es mehr als klar, dass eine demokratische Koalition die Mehrheit der Unterstützung erhalten wird. Wir sind immer noch in der Lage, einige Unterstützungskampagnen zu starten, um sicherzustellen, dass der gewünschte Block die Wahlen gewinnen wird."
+ r56_japan.10.desc:0 "Mehrere Jahrzehnte lang hatten die Militaristen einen großen Einfluss auf die politische Sphäre und die diplomatische Ausrichtung des Landes. Die neue provisorische Regierung hat aus den Fehlern der Vergangenheit gelernt und nach der Festigung der Kontrolle über das Land landesweite Wahlen für diesen Monat angekündigt. \nAngesichts der eindeutigen Prävalenz liberaler Vorstellungen unter den höchsten Beamten des Staates ist es mehr als klar, dass eine demokratische Koalition die Mehrheit der Unterstützung erhalten wird. Wir sind immer noch in der Lage, einige Unterstützungskampagnen zu starten, um sicherzustellen, dass der gewünschte Block die Wahlen gewinnen wird."
  r56_japan.10.a:0 "Rikken Minseito, Partei der konstitutionellen Demokratie!"
  r56_japan.10.b:0 "Rikken Seiyukai, Vereinigung der Freunde der konstitutionellen Regierung!"
 
@@ -365,7 +365,7 @@
 
  sfl.12.t:0 "Mandschurei-Problem wird ignoriert"
  sfl.12.d:0 "Die japanische Regierung hat angekündigt, dass sie die Debatte über die Mandschurei auf unbestimmte Zeit verschoben hat. Sie wollen diese Gebiete nicht zurückgeben!"
- sfl.12.a:0 ""Wenn dies toleriert werden kann, was sonst nicht?" #是可忍,孰不可忍!"
+ sfl.12.a:0 "enn dies toleriert werden kann, was sonst nicht?" #是可忍,孰不可忍!"
 
  sfl.13.t:0 "Korea"
  sfl.13.d:0 "Sollten wir die Koreaner befreien und sie in Ruhe lassen?"
@@ -421,7 +421,7 @@
  sfl.24.t:0 "[CHI.GetNameDefCap] Erklären Sie uns den Krieg!"
  sfl.24.d:0 "Die Chinesen haben ihren Waffenstillstand aufgekündigt und uns den Krieg erklärt!"
  sfl.24.a:0 "Hinterhältiger Abschaum!"
- sfl_cant_peace_with_axis_later:0 "[§R] Sie werden in Zukunft keinen separaten Frieden mit der Achse schließen können."
+ sfl_cant_peace_with_axis_later:0 "§R Sie werden in Zukunft keinen separaten Frieden mit der Achse schließen können."
 
  sfl.25.t:0 "Besitz von Indochina"
  sfl.25.d:0 "Wie sollten wir in der Indochina-Frage handeln?"

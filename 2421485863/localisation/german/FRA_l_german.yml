@@ -636,7 +636,7 @@
  FRA_compromise_with_germany_desc:0 "Vielleicht können wir eine Vereinbarung mit [GER.GetLeader] treffen, um unsere Einflusszonen zu sichern und uns auf unsere Probleme zu konzentrieren."
  FRA_approach_poland_and_romania:0 "Annäherung an [POL.GetAdjective] und [ROM.GetAdjective] Regierungen"
  FRA_approach_poland_and_romania_desc:0 "[POL.GetNameDefCap] und [ROM.GetNameDef] sind essentiell für die Sicherheit Osteuropas; sie sind daher entscheidend für das Gleichgewicht des Kontinentalsystems."
- FRA_obtain_polish_cryptological_data:0 ""Obtain Polish Cryptological Data" #Dieser Fokus existiert im ungarischen Baum und im französischen Baum."
+ FRA_obtain_polish_cryptological_data:0 "btain Polish Cryptological Data" #Dieser Fokus existiert im ungarischen Baum und im französischen Baum."
  FRA_obtain_polish_cryptological_data_desc:0 "Unsere großen polnischen Verbündeten haben einen Durchbruch auf dem Gebiet der maschinengestützten Entschlüsselung erzielt. Durch enge Zusammenarbeit könnten wir uns ihre Technologien zunutze machen."
 
 
@@ -1083,7 +1083,7 @@
  france.158.a:0 "Ja, es ist nicht nur unsere Eroberung."
  france.158.b:0 "Es gehört alles uns."
  france.159.t:0 "Das französische Reich nähert sich Polen und Rumänien"
- france.159.desc:0 "In einem Versuch, den französischen Einfluss zu festigen und wahrscheinlich einer deutschen oder [SOV.GetAdjective]-Expansion zuvorzukommen, hat [FRA.GetLeader] die Wiederherstellung eines kontinentalen Systems angekündigt, das die französischen Interessen in ganz Europa verteidigen würde. [\n]~]Französische Diplomaten wurden kürzlich in [POL.Capital.GetCapitalVictoryPointName] und in [ROM.Capital.GetCapitalVictoryPointName] gesehen. Dieses neue Bündnis könnte Deutschland in einen schwierigen Zweifrontenkrieg zwingen und sichert Frankreich den Zugang zu den wertvollen rumänischen Ölexporten."
+ france.159.desc:0 "In einem Versuch, den französischen Einfluss zu festigen und wahrscheinlich einer deutschen oder [SOV.GetAdjective]-Expansion zuvorzukommen, hat [FRA.GetLeader] die Wiederherstellung eines kontinentalen Systems angekündigt, das die französischen Interessen in ganz Europa verteidigen würde. \n]Französische Diplomaten wurden kürzlich in [POL.Capital.GetCapitalVictoryPointName] und in [ROM.Capital.GetCapitalVictoryPointName] gesehen. Dieses neue Bündnis könnte Deutschland in einen schwierigen Zweifrontenkrieg zwingen und sichert Frankreich den Zugang zu den wertvollen rumänischen Ölexporten."
  france.159.a:0 "Das Kaiserreich wird die dominierende Macht in Europa sein."
  france.159.b:0 "Es ist beruhigend, einen so starken Verbündeten zu haben."
  france.159.c:0 "Ist dies eine neue napoleonische Ära?"

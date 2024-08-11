@@ -98,7 +98,7 @@
  PRC_question_of_our_capital_decision_desc:0 "Die Volksrevolution wird noch mehr Unterstützung unter den Arbeitern und Bauern gewinnen, wenn wir offiziell die Gründung der [PRC.getNameDef] in unserer neu gewonnenen Hauptstadt verkünden."
 
  PRC_the_new_communist_beacon:0 "Das neue kommunistische Leuchtfeuer"
- PRC_the_new_communist_beacon_desc:0 "Der revolutionäre Kampf wird niemals enden, solange Unterdrücker, Kolonisatoren, Imperialisten und Feinde des Volkes existieren! [Mit ein paar schnellen Schlägen können wir regierungsfeindliche Zellen außerhalb und innerhalb von [ROOT.getNameDef] zerstören.] [Die Zeit ist gekommen, dass Da Zhonghua Diqu sich erhebt und gedeiht!"
+ PRC_the_new_communist_beacon_desc:0 "Der revolutionäre Kampf wird niemals enden, solange Unterdrücker, Kolonisatoren, Imperialisten und Feinde des Volkes existieren! \nMit ein paar schnellen Schlägen können wir regierungsfeindliche Zellen außerhalb und innerhalb von [ROOT.getNameDef] zerstören.] \nDie Zeit ist gekommen, dass Da Zhonghua Diqu sich erhebt und gedeiht!"
  PRC_hundred_flowers_campaign_progress:0 "Fortschritt der Hundert-Blumen-Kampagne"
 
  PRC_offer_a_separate_peace_to_japan:0 "Biete Japan einen separaten Frieden an"
@@ -1051,7 +1051,7 @@
 
  prc.61.t:0 "[From.GetName] Unserem Befehl getrotzt"
  prc.61.d:0 "Trotz unserer guten Absicht hat sich [From.GetLeader] geweigert, unserem Befehl zu folgen, und beschlossen, die Große Nordwest-Union zu gründen."
- prc.61.a:0 ""Son of a...!"  #Weil es vorher auf Russisch war..."
+ prc.61.a:0 "Son of a...!"  #Weil es vorher auf Russisch war..."
 
  prc.62.t:0 "Mao hingerichtet"
  prc.62.d:0 "Nach einer nächtlichen Razzia im Hauptquartier und im Haus von Mao und seinen treuen Anhängern wurden viele Kommunisten verhaftet und kurzerhand hingerichtet. Ihre Leichen werden an einigen Stellen aufgehängt, um die Menschen an die Konsequenzen zu erinnern, wenn sie dem verdammten Kommunismus folgen."
@@ -1234,7 +1234,7 @@
  prc.112.d:0 "[From.GetName] hat sich geweigert, Frieden zu schließen."
  prc.112.a:0 "Sie weichen nur dem Unvermeidlichen aus."
 
- prc.114.d:0 "Wir haben [JAP.GetNameDef] und ihre Marionettenregime in der Mandschurei lange Zeit bekämpft. Nachdem unsere Streitkräfte die letzte Hochburg des kaiserlichen Reiches im Nordosten befreit haben, haben die Offiziellen von [JAP.GetAdjective], die befürchten, dass sich ihr Staat nie von dem langen Zermürbungskrieg gegen [PRC.GetNameDef] erholen wird, unseren Politikern ein Waffenstillstandsangebot und Kapitulationsbedingungen unterbreitet. [Das ist unsere Chance, Forderungen zu stellen!"
+ prc.114.d:0 "Wir haben [JAP.GetNameDef] und ihre Marionettenregime in der Mandschurei lange Zeit bekämpft. Nachdem unsere Streitkräfte die letzte Hochburg des kaiserlichen Reiches im Nordosten befreit haben, haben die Offiziellen von [JAP.GetAdjective], die befürchten, dass sich ihr Staat nie von dem langen Zermürbungskrieg gegen [PRC.GetNameDef] erholen wird, unseren Politikern ein Waffenstillstandsangebot und Kapitulationsbedingungen unterbreitet. \nDas ist unsere Chance, Forderungen zu stellen!"
 
  prc.115.t:0 "Hungersnot in Henan"
  prc.115.d:0 "Der Krieg in Henan hat zu einer Hungersnot in der Region geführt, da das Ackerland durch den Krieg zerstört wurde. Die örtliche Regierung bittet nun um unsere Hilfe, um ihre Last zu lindern."

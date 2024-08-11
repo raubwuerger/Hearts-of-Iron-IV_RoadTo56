@@ -429,8 +429,8 @@
  ARG_francisco_m_velez:0 "Francisco M. Vélez"
  ARG_thomas_martinez:0 "Thomas Martínez"
  ARG_uribaldi_diaz_brittenberg:0 "Uribaldi Díaz Brittenberg"
- ARG_francisco_de_arteaga:0 ""Francisco de Arteaga" ## Begründer der argentinischen Militärflugzeugfabrik (FMA), der ersten in Südamerika."
- ARG_julian_irizar:0 ""Julián Irízar" ## Starb 1935 und wird daher als Was-wäre-wenn-Option verwendet, da er ein sehr berühmter argentinischer Marineadmiral war."
+ ARG_francisco_de_arteaga:0 "rancisco de Arteaga" ## Begründer der argentinischen Militärflugzeugfabrik (FMA), der ersten in Südamerika."
+ ARG_julian_irizar:0 "ulián Irízar" ## Starb 1935 und wird daher als Was-wäre-wenn-Option verwendet, da er ein sehr berühmter argentinischer Marineadmiral war."
 
 
  #threats ""

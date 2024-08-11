@@ -198,7 +198,7 @@
   siam.28.t:0 "Die Sowjetunion weigert sich, Ausrüstung zu schicken"
   siam.28.d:0 "Die Sowjetunion hat erklärt, dass sie es sich aufgrund der Situation, in der sie sich befindet, vorerst nicht leisten kann, sich von jeglicher militärischer Ausrüstung zu trennen, und hat sich darauf beschränkt, uns Erfolg bei unserem Aufstand zu wünschen.\nEs ist klar, dass wir in dieser Sache allein dastehen werden."
   siam.28.a:0 "Wenigstens bleiben sie bei ihrem \"Sozialismus in einem Land\" siam.29.t:0 "Prozess gegen Phraya Phahonphonphayuhasena"
-  siam.29.d:0 "Das erste Mitglied der Khana Ratsadon, das vor Gericht gestellt wird, ist Phraya Phahonphonphayuhasena, der frühere Premierminister, der beschuldigt wird, republikanische Gefühle gehabt zu haben und seine Position als Regierungschef dazu nutzen zu wollen, die Monarchie abzuschaffen. [Ein solches Verbrechen würde als Hochverrat nicht nur gegen den König, sondern gegen das gesamte Königreich Siam gelten, und die Todesstrafe scheint die logische Wahl zu sein.\nAber wir dürfen nicht vergessen, dass er auch ein sehr fähiger Soldat ist und angesichts der bevorstehenden Konflikte für die Zukunft sehr wichtig werden könnte..."
+  siam.29.d:0 "Das erste Mitglied der Khana Ratsadon, das vor Gericht gestellt wird, ist Phraya Phahonphonphayuhasena, der frühere Premierminister, der beschuldigt wird, republikanische Gefühle gehabt zu haben und seine Position als Regierungschef dazu nutzen zu wollen, die Monarchie abzuschaffen. \nEin solches Verbrechen würde als Hochverrat nicht nur gegen den König, sondern gegen das gesamte Königreich Siam gelten, und die Todesstrafe scheint die logische Wahl zu sein.\nAber wir dürfen nicht vergessen, dass er auch ein sehr fähiger Soldat ist und angesichts der bevorstehenden Konflikte für die Zukunft sehr wichtig werden könnte..."
   siam.29.a:0 "Er verdient nur den Tod"
   siam.29.b:0 "Wir brauchen ihn noch."
 
@@ -558,7 +558,7 @@
  SIA_conservatives_win_election:0 "Die Konservativen haben die Wahl gewonnen"
  SIA_second_siamese_revolution_flag:0 "§RNoch nicht fertig§!"
  SIA_phibun_killed_during_revolution:0 "Phibun wurde während der Revolution getötet"
- #SIA_phibun_convicted_of_treason:0 ""Phibun wurde des Verrats überführt und zum Tode verurteilt" #unused"
+ #SIA_phibun_convicted_of_treason:0 "Phibun wurde des Verrats überführt und zum Tode verurteilt" #unused"
 
  #Focus Tooltips ""
  SIA_buy_ships_tooltip:0 "§YSchaltet frei§! £decision_icon_small Entscheidungen, Boote von unseren Verbündeten zu kaufen"

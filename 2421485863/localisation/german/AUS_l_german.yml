@@ -581,7 +581,7 @@ AUS_full_czech_citizenship_desc:0 "Die Tschechoslowakei war einst österreichisc
 AUS_annex_bohemia_and_moravia:0 "Anhang Böhmen und Mähren"
 AUS_annex_bohemia_and_moravia_desc:0 "Böhmen und Mähren standen einst unter unserer Kontrolle und werden es wieder sein. Wir werden ihre Annexion ankündigen und wehe dem, der uns herausfordert."
 
-AUS_seek_closer_ties_to_yugoslavia:0 ""Suche engere Beziehungen zu [YUG.GetNonIdeologyNameDef]" #mit Ideologie passt nicht"
+AUS_seek_closer_ties_to_yugoslavia:0 "uche engere Beziehungen zu [YUG.GetNonIdeologyNameDef]" #mit Ideologie passt nicht"
 AUS_seek_closer_ties_to_yugoslavia_desc:0 "[YUG.GetNameDefCap] ist kein gefährlicher Feind, aber ihre Position macht sie zu potentiell wertvollen Verbündeten. Eine Einladung zu dem Verteidigungspakt, den wir bilden, wird unsere Positionen stärken."
 
 AUS_demand_slovenia:0 "Fordern Sie Slowenien"

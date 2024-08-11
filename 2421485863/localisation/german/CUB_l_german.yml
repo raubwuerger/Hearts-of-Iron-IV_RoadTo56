@@ -99,7 +99,7 @@
  cuba.17.b:0 "Zucker ist der Reichtum der Alten."
 
  cuba.18.t:0 "Die [SOV.GetAdjective] akzeptieren unseren Vorschlag"
- cuba.18.d:0 "Unser Botschafter in Moskau hatte eine Antwort vom Zentralsekretär der Kommunistischen Partei erhalten und telegrafierte sofort über die [SOV.getAdjective] Bereitschaft zur Zusammenarbeit auf den internationalen Rohstoffmärkten! [Die ersten 200 000 Tonnen Zucker können sofort geliefert werden, eine weitere Million ist auf dem Weg zu den Häfen unseres Landes."
+ cuba.18.d:0 "Unser Botschafter in Moskau hatte eine Antwort vom Zentralsekretär der Kommunistischen Partei erhalten und telegrafierte sofort über die [SOV.getAdjective] Bereitschaft zur Zusammenarbeit auf den internationalen Rohstoffmärkten! \nDie ersten 200 000 Tonnen Zucker können sofort geliefert werden, eine weitere Million ist auf dem Weg zu den Häfen unseres Landes."
  cuba.18.a:0 "Ein lukratives Geschäft."
 
  cuba.19.t:0 "Die [SOV.GetAdjective] lehnen unseren Vorschlag ab"
@@ -107,7 +107,7 @@
  cuba.19.a:0 "Das ist bedauerlich."
 
  cuba.20.t:0 "[CUB.GetName] Ergreift [1050.GetName]"
- cuba.20.d:0 "[CUB.GetAdjective]-Kräfte haben einen ehrgeizigen Angriff auf den Marinestützpunkt von [1050.GetName] gestartet und sind erfolgreich gelandet und haben einen Brückenkopf errichtet, die kleine dortige Garnison schnell überwältigt und später den Hauptmarinestützpunkt erobert. [In einer Pressekonferenz erklärte der Anführer von [CUB.GetAdjective], [CUB.GetLeader], dass [1050.GetName] ein rechtmäßiger Teil von [CUB.GetNonIdeologyName] sei und alle Imperialisten vom [CUB.GetAdjective]-Festland vertreiben wolle. Natürlich ist das absurd, aber so reagieren wir auf die Angelegenheit. Einige Leute rufen zum Krieg gegen [CUB.GetNonIdeologyName] auf, während andere skeptisch sind, wenn es darum geht, wegen eines kleinen Marinestützpunktes Leben zu verschwenden."
+ cuba.20.d:0 "[CUB.GetAdjective]-Kräfte haben einen ehrgeizigen Angriff auf den Marinestützpunkt von [1050.GetName] gestartet und sind erfolgreich gelandet und haben einen Brückenkopf errichtet, die kleine dortige Garnison schnell überwältigt und später den Hauptmarinestützpunkt erobert. \nIn einer Pressekonferenz erklärte der Anführer von [CUB.GetAdjective], [CUB.GetLeader], dass [1050.GetName] ein rechtmäßiger Teil von [CUB.GetNonIdeologyName] sei und alle Imperialisten vom [CUB.GetAdjective]-Festland vertreiben wolle. Natürlich ist das absurd, aber so reagieren wir auf die Angelegenheit. Einige Leute rufen zum Krieg gegen [CUB.GetNonIdeologyName] auf, während andere skeptisch sind, wenn es darum geht, wegen eines kleinen Marinestützpunktes Leben zu verschwenden."
  cuba.20.a:0 "Wir lassen uns nicht auf diese Weise auf die Füße treten!"
  cuba.20.b:0 "Wir können daraus eine Menge lernen."
  cuba.20.c:0 "Ein großer Sieg!"
@@ -298,9 +298,9 @@
 
 
  ###Related Events### ""
- cuba.11.t:0 ""[CUB.GetNameDef] Fordert unsere Territorien" #Territoriale Forderungen gegen Hispaniola"
- cuba.11.d:0 ""Nun, da die [ROOT.GetAdjective] Bewegung der Falangisten es geschafft hat, das Land zu übernehmen, haben sie damit begonnen, ihr Territorium zu erweitern, das nun die Insel Hispaniola umfasst. \n\nMit diesem neuen Weg der Expansion kommen nun Forderungen an unsere Regierung, die Unterwerfung und Integration in Kuba zu akzeptieren. Was soll unsere Antwort sein?" #Territoriale Forderungen gegen Hispaniola"
- cuba.10.d:0 "Kuba, einst unsere geschätzte Kolonie in der Karibik, hat sich mit einem überraschenden Vorschlag an uns gewandt. Sie schlagen ein formelles Bündnis zwischen unseren beiden Nationen vor, in der Hoffnung, stärkere Beziehungen zwischen unseren beiden Ländern zu fördern. [Das kommt zwar etwas überraschend, aber es ist sicherlich eine Idee, die es wert ist, in Erwägung gezogen zu werden, und die uns neuen Einfluss auf dem amerikanischen Kontinent verschaffen würde."
+ cuba.11.t:0 "CUB.GetNameDef] Fordert unsere Territorien" #Territoriale Forderungen gegen Hispaniola"
+ cuba.11.d:0 "un, da die [ROOT.GetAdjective] Bewegung der Falangisten es geschafft hat, das Land zu übernehmen, haben sie damit begonnen, ihr Territorium zu erweitern, das nun die Insel Hispaniola umfasst. \n\nMit diesem neuen Weg der Expansion kommen nun Forderungen an unsere Regierung, die Unterwerfung und Integration in Kuba zu akzeptieren. Was soll unsere Antwort sein?" #Territoriale Forderungen gegen Hispaniola"
+ cuba.10.d:0 "Kuba, einst unsere geschätzte Kolonie in der Karibik, hat sich mit einem überraschenden Vorschlag an uns gewandt. Sie schlagen ein formelles Bündnis zwischen unseren beiden Nationen vor, in der Hoffnung, stärkere Beziehungen zwischen unseren beiden Ländern zu fördern. \nDas kommt zwar etwas überraschend, aber es ist sicherlich eine Idee, die es wert ist, in Erwägung gezogen zu werden, und die uns neuen Einfluss auf dem amerikanischen Kontinent verschaffen würde."
  cuba.12.t:0 "Das nationalistische Spanien nimmt unseren Vorschlag an!"
  cuba.12.d:0 "Unser kürzlich an Spanien gerichtetes Angebot für ein Bündnis wurde angenommen!"
  cuba.13.t:0 "Spanien lehnt unseren Vorschlag ab!"
@@ -559,6 +559,6 @@
  r56_is_caribbean_country:0 "Ist Karibik"
 
  ###News & Events### ""
- cuba.100.d:0 "Gerardo Machado, ehemaliger Präsident von Kuba, der von 1925 bis 1933 amtierte, ist im Alter von 69 Jahren in Miami Beach, Florida, verstorben, während er sich einer Operation unterzog, um sein Schicksal an den Händen des Krebses aufzuhalten. [Die meisten hielten ihn für einen Diktator, der sich weigerte, sein Amt aufzugeben, und sich an seine Macht klammerte, während er mehrere Jahre lang aufständische Gruppen abwehrte. [Trotz des Eingreifens der US-Regierung, um einen friedlichen Regimewechsel auszuhandeln, setzte Machado seinen Widerstand fort, bis die [ROOT.GetAdjective]-Armee revoltierte und ihn zwang, aus dem Land zu fliehen."
+ cuba.100.d:0 "Gerardo Machado, ehemaliger Präsident von Kuba, der von 1925 bis 1933 amtierte, ist im Alter von 69 Jahren in Miami Beach, Florida, verstorben, während er sich einer Operation unterzog, um sein Schicksal an den Händen des Krebses aufzuhalten. \nDie meisten hielten ihn für einen Diktator, der sich weigerte, sein Amt aufzugeben, und sich an seine Macht klammerte, während er mehrere Jahre lang aufständische Gruppen abwehrte. \nTrotz des Eingreifens der US-Regierung, um einen friedlichen Regimewechsel auszuhandeln, setzte Machado seinen Widerstand fort, bis die [ROOT.GetAdjective]-Armee revoltierte und ihn zwang, aus dem Land zu fliehen."
  cuba.101.t:0 "Ankunft der MS St. Louis in Havanna"
- cuba.101.d:0 "Das deutsche Passagierschiff MS St. Louis ist heute in den Hafen von Havanna eingelaufen. An Bord befinden sich 973 Passagiere, von denen viele Flüchtlinge sind, die vor dem Naziregime in Deutschland hier in Kuba Asyl suchen. [Wenn wir sie jetzt abweisen, könnten wir sie dazu zwingen, nach Deutschland und in ein sicheres Verderben zurückzukehren. \n\nWas sollen wir tun?"
+ cuba.101.d:0 "Das deutsche Passagierschiff MS St. Louis ist heute in den Hafen von Havanna eingelaufen. An Bord befinden sich 973 Passagiere, von denen viele Flüchtlinge sind, die vor dem Naziregime in Deutschland hier in Kuba Asyl suchen. \nWenn wir sie jetzt abweisen, könnten wir sie dazu zwingen, nach Deutschland und in ein sicheres Verderben zurückzukehren. \n\nWas sollen wir tun?"

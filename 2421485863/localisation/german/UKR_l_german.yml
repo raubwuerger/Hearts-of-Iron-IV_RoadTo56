@@ -191,7 +191,7 @@
  UKR_revolt:0 "[UKR.GetNonIdeologyAdjectiveCap] Revolte"
 
  ukraine.1.t:0 "[UKR.GetNonIdeologyName] Erklärt die Unabhängigkeit"
- ukraine.1.d:0 "Während die Rote Armee vollständig mobilisiert wurde, um den Aufstand von Wlassows weißen Truppen niederzuschlagen, wurde die Ukraine als wenig wichtig angesehen und es war unwahrscheinlich, dass sie aufgrund der zahlreichen Befriedungen in der Region zu einem Aufstand in der Lage war. [Es scheint, dass wir die Auswirkungen des Aufstandes auf die Region unterschätzt haben, da die sowjetischen Flaggen bereits abgenommen und durch die blau-gelbe Flagge ersetzt wurden und eine Notstandsregierung, die in [UKR. Capital.GetCapitalVictoryPointName] versammelt hat, hat einseitig die Wiederherstellung von [UKR.GetNameDef] erklärt."
+ ukraine.1.d:0 "Während die Rote Armee vollständig mobilisiert wurde, um den Aufstand von Wlassows weißen Truppen niederzuschlagen, wurde die Ukraine als wenig wichtig angesehen und es war unwahrscheinlich, dass sie aufgrund der zahlreichen Befriedungen in der Region zu einem Aufstand in der Lage war. \nEs scheint, dass wir die Auswirkungen des Aufstandes auf die Region unterschätzt haben, da die sowjetischen Flaggen bereits abgenommen und durch die blau-gelbe Flagge ersetzt wurden und eine Notstandsregierung, die in [UKR. Capital.GetCapitalVictoryPointName] versammelt hat, hat einseitig die Wiederherstellung von [UKR.GetNameDef] erklärt."
  ukraine.1.a:0 "Diese Verräter werden zu Fall gebracht werden!"
  ukraine.1.b:0 "Frieden zu schließen ist die beste Wahl."
 

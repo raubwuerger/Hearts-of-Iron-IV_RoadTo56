@@ -196,10 +196,10 @@ MAN_operation_kantokuen:0 "Operation Kantokuen"
 MAN_operation_kantokuen_desc:0 "Es ist an der Zeit, den größten Feind unserer Neuen Ordnung in Asien zu besiegen. Die Russen haben jahrhundertelang asiatische Gebiete besetzt und beanspruchen sie für sich. Ihre Arroganz wird durch eine vereinte Allianz der asiatischen Nationen ein weiteres Mal zerschlagen werden! Wir müssen unsere Streitkräfte auf einen langen Marsch nach Sibirien vorbereiten, um die europäischen Streitkräfte ein für alle Mal zu vertreiben."
 
 MAN_greater_manchuria:0 "Die Großmandschurei"
-MAN_greater_manchuria_desc:0 "Die [MAN.GetName] muss das Ziel haben, die von den Russen 1858 und 1860 gestohlenen Gebiete der Äußeren Mandschurei zurückzuerobern. [Die Inanspruchnahme von Gebieten, die so lange nicht mehr unter unserer Kontrolle waren, wird unsere Nation destabilisieren, aber die Befreiung Asiens wird jeden Tropfen Blut wert sein!"
+MAN_greater_manchuria_desc:0 "Die [MAN.GetName] muss das Ziel haben, die von den Russen 1858 und 1860 gestohlenen Gebiete der Äußeren Mandschurei zurückzuerobern. \nDie Inanspruchnahme von Gebieten, die so lange nicht mehr unter unserer Kontrolle waren, wird unsere Nation destabilisieren, aber die Befreiung Asiens wird jeden Tropfen Blut wert sein!"
 
 MAN_beyond_baikal:0 "Jenseits des Baikalsees"
-MAN_beyond_baikal_desc:0 "Um der Welt wahrhaftig unser Paradies der panasiatischen Völker zu zeigen, werden unsere Ansprüche über den Baikalsee hinausgehen und alle Mongolen, Burjaten und mehr einschließen! [Die Inanspruchnahme solch großer Gebiete wird unsere Nation schwer destabilisieren, aber wir müssen unserer Sache des Panasiatismus treu bleiben!"
+MAN_beyond_baikal_desc:0 "Um der Welt wahrhaftig unser Paradies der panasiatischen Völker zu zeigen, werden unsere Ansprüche über den Baikalsee hinausgehen und alle Mongolen, Burjaten und mehr einschließen! \nDie Inanspruchnahme solch großer Gebiete wird unsere Nation schwer destabilisieren, aber wir müssen unserer Sache des Panasiatismus treu bleiben!"
 
 MAN_revise_imperial_treaties:0 "Imperiale Verträge revidieren"
 MAN_revise_imperial_treaties_desc:0 "Unsere Vorbereitungen sind abgeschlossen und die Zeit ist reif! Die Verträge von Aigun und Peking werden revidiert, und unsere Gebiete werden zurückerobert! Die europäischen Kolonisatoren werden über den Ural verbannt werden! [Einer überlegenen Nation den Krieg zu erklären, wird in der Armee Defätismus hervorrufen."
@@ -245,7 +245,7 @@ manchukuo_events.5.d:0 "Die mandschurische Delegation hat um die Abtretung des g
  r56_manchuria.28.d:0 "Durch das Mandat des Himmels verfügt der Kaiser hiermit,\n\nDein Königreich ist nun eingeladen, ein Vasall unter dem glorreichen Großen Qing-Reich zu werden. Gehorche. Andernfalls gehst du unter der Macht des Himmlischen Reiches unter.\n\nRespektiere dies. "
  r56_manchuria.28.a:0 "Das Edikt ist empfangen."
  r56_manchuria.28.b:0 "So ein Quatsch!"
- r56_manchuria.29.t:0 "[[From.GetName] Wird zu unserem Vasallen"
+ r56_manchuria.29.t:0 "[From.GetName] Wird zu unserem Vasallen"
  r56_manchuria.29.d:0 "Durch den Erlass des Imperators ist [From.GetName] ein ehrenvoller Vasall unter [MAN.GetNameDEF] geworden."
  r56_manchuria.29.a:0 "Die Welt wird sich wieder einmal vor dem mächtigen Qing-Reich verneigen!"
  r56_manchuria.29.b:0 "Sie werden besser dran sein, wenn sie ein Teil des Reiches sind."

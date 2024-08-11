@@ -26,7 +26,7 @@
  treaty_org.3.desc:0 "Die Regierungen der [USA.GetNameDef] und [FROM.GetNameDef] haben gestern Abend in einem lang erwarteten diplomatischen Manöver die Gründung der Nordatlantikvertrags-Organisation bekannt gegeben. Die Entscheidung, die eine vielversprechende Ära der zivilen, militärischen und geheimdienstlichen Zusammenarbeit versprach, wurde von den oberen Rängen der [SOV.GetNameDef] schlecht aufgenommen. Der Frieden scheint eine flüchtige Angelegenheit zu sein."
  treaty_org.3.a:0 "Interessant."
  treaty_org.3.b:0 "Verachtenswert."
- treaty_org.4.desc:0 "Die Regierung von [FROM.GetNameDef] hat gestern Abend in einem lang erwarteten, aber etwas zahnlosen diplomatischen Manöver die Gründung der Nordatlantikvertrags-Organisation angekündigt. Die Entscheidung, die eine vielversprechende Ära der zivilen, militärischen und geheimdienstlichen Zusammenarbeit verspricht, wurde von den oberen Rängen der [[SOV.GetNameDef] schlecht aufgenommen. Der Frieden, so scheint es, könnte eine flüchtige Angelegenheit sein."
+ treaty_org.4.desc:0 "Die Regierung von [FROM.GetNameDef] hat gestern Abend in einem lang erwarteten, aber etwas zahnlosen diplomatischen Manöver die Gründung der Nordatlantikvertrags-Organisation angekündigt. Die Entscheidung, die eine vielversprechende Ära der zivilen, militärischen und geheimdienstlichen Zusammenarbeit verspricht, wurde von den oberen Rängen der [SOV.GetNameDef] schlecht aufgenommen. Der Frieden, so scheint es, könnte eine flüchtige Angelegenheit sein."
  treaty_org.4.a:0 "Interessant."
  treaty_org.4.b:0 "Das sieht nicht sehr nordatlantisch aus."
  TO_nato_ratified:0 "Nordatlantikvertrag"

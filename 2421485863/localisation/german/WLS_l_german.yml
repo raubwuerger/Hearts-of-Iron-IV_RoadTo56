@@ -68,9 +68,9 @@
  WLS_generic_artillery_manufacturer:0 "ROF Newport"
  WLS_generic_infantry_equipment_manufacturer:0 "ROF Hirwaun"
  WLS_generic_tank_manufacturer:0 "ROF Cardiff"
- WLS_generic_heavy_aircraft_manufacturer:0 ""ROF Glascoed" #was: mittleres Flugzeug"
+ WLS_generic_heavy_aircraft_manufacturer:0 "OF Glascoed" #was: mittleres Flugzeug"
  WLS_generic_light_aircraft_manufacturer:0 "Accles & Pollock"
- WLS_generic_medium_aircraft_manufacturer:0 ""Vickers Hawarden Factory" #war: schwere Flugzeuge"
+ WLS_generic_medium_aircraft_manufacturer:0 "ickers Hawarden Factory" #war: schwere Flugzeuge"
  WLS_generic_naval_manufacturer:0 "Marine-Treibstoff-Fabrik, Caerwent"
 
  WLS_generic_infantry_equipment_organization:0 "ROF Hirwaun"

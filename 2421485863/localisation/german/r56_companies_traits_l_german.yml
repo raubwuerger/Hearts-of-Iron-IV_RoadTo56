@@ -196,7 +196,7 @@
 
  #New MIO Localisation# ""
  generic_train_organization_r56_NSB:0 "Zughersteller"
- generic_train_organization_r56_NSB_initial_trait:0 ""Lokomotiv- und Waggonhersteller" #Unter Verwendung britischer/europäischer Eisenbahnbegriffe"
+ generic_train_organization_r56_NSB_initial_trait:0 "Lokomotiv- und Waggonhersteller" #Unter Verwendung britischer/europäischer Eisenbahnbegriffe"
  mio_header_r56_trains:0 "Lokomotivwerkstatt"
  mio_header_r56_support:0 "Waggon & Versandabteilung"
  r56_train_production_efficiency_cap_train_t:0 "Größenvorteile"

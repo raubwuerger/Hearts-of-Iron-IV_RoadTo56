@@ -1,7 +1,7 @@
 ﻿l_german:
 Guatemala_Focus:0 "Nationaler Fokus Guatemala"
 #Focuses ""
-GUA_GATHERING_STORM_DESC:0 "Nach seinem Wahlsieg, bei dem er der einzige Kandidat war, wurde Jorge Ubico zum Herrscher Guatemalas. Er zeichnete sich durch die Militarisierung zahlreicher Institutionen, einschließlich der Post, und die Einsetzung von Militärs in hohen Positionen aus, während er eine zunehmend pro-amerikanische Politik verfolgte und die United Fruit Company stärkte, die einen großen Teil des Landes, die einzige Eisenbahn und die Stromerzeugung kontrollierte. [Seine Bewunderung für Napoleon könnte Ubico jedoch dazu veranlassen, seine pro-amerikanische und für den Status quo eintretende Politik zu überdenken und eine stärker nationalistische und pan-zentralamerikanische Politik zu entwickeln."
+GUA_GATHERING_STORM_DESC:0 "Nach seinem Wahlsieg, bei dem er der einzige Kandidat war, wurde Jorge Ubico zum Herrscher Guatemalas. Er zeichnete sich durch die Militarisierung zahlreicher Institutionen, einschließlich der Post, und die Einsetzung von Militärs in hohen Positionen aus, während er eine zunehmend pro-amerikanische Politik verfolgte und die United Fruit Company stärkte, die einen großen Teil des Landes, die einzige Eisenbahn und die Stromerzeugung kontrollierte. \nSeine Bewunderung für Napoleon könnte Ubico jedoch dazu veranlassen, seine pro-amerikanische und für den Status quo eintretende Politik zu überdenken und eine stärker nationalistische und pan-zentralamerikanische Politik zu entwickeln."
 GUA_march_towards_civilization:0 "Den Marsch in die Zivilisation verstärken"
 GUA_march_towards_civilization_desc:0 "Die Amtszeit von Präsident Ubico war eine Zeit der Modernisierung und Verbesserung in der Geschichte Guatemalas; wir sollten seine Herrschaft verstärken."
 GUA_strengthen_militant_society:0 "Stärkung der militanten Gesellschaft"
@@ -78,7 +78,7 @@ GUA_napoleon_2:0 "Reinkarnation von Napoleón"
 
 #Events ""
 r56_guatemala.1.t:0 "[GUA.GetNameDefCap] Bittet darum, unserer Fraktion beizutreten"
-r56_guatemala.1.d:0 "[GUA.GetNameDefCap]] hat darum gebeten, unserem Bündnis beizutreten und im Gegenzug den Krieg gegen [GER.GetNameDef] aufzunehmen."
+r56_guatemala.1.d:0 "[GUA.GetNameDefCap] hat darum gebeten, unserem Bündnis beizutreten und im Gegenzug den Krieg gegen [GER.GetNameDef] aufzunehmen."
 r56_guatemala.1.a:0 "Ja, natürlich."
 r56_guatemala.1.b:0 "Nein."
 

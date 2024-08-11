@@ -2363,7 +2363,7 @@
  UAE_ADJ:0 "Emirate"
 
  #UZB ""
- UZB_fascism:2 ""Usbekisches Khanat" #Änderung von Buchara, da Buchara dem Spiel hinzugefügt wurde"
+ UZB_fascism:2 "sbekisches Khanat" #Änderung von Buchara, da Buchara dem Spiel hinzugefügt wurde"
  UZB_fascism_DEF:2 "das usbekische Khanat"
  UZB_democratic:1 "Republik Usbekistan"
  UZB_democratic_DEF:1 "die Republik Usbekistan"

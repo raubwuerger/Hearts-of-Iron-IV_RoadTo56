@@ -1,7 +1,7 @@
 ﻿l_german:
 
  #Generic ""
- is_controlled_by_ROOT_or_subject:0 ""Wird von §Y[Root.GetName]§! oder einem der Subjekte von §Y[Root.GetName]§! kontrolliert." # Seltsamerweise ist dies ein Paradoxon, aber sie haben es nie lokalisiert"
+ is_controlled_by_ROOT_or_subject:0 "Wird von §Y[Root.GetName]§! oder einem der Subjekte von §Y[Root.GetName]§! kontrolliert."
  EYE_enough_production_tt:0 "Genug Gebäudeslots für §YMilitärfabrik§!."
  EYE_construction_effort_tt:0 "Genug Gebäudeslots für §YZivile Fabrik§!."
  EYE_overlord_neutral_tt:0 "Overlord ist bündnisfrei"
@@ -253,7 +253,7 @@
  neutral_influence:0 "Blockfreier Einfluss"
  neutral_leanings:0 "Blockfreie Tendenzen"
  SWI_a_land_of_mountains:0 "Das Zentrum der Alpen"
- SWI_a_land_of_mountains_desc:0 "-Wie war Helvetien?\n\n~]- Flach!"
+ SWI_a_land_of_mountains_desc:0 "-Wie war Helvetien?\n\n]- Flach!"
  SWI_mountain_artillery:0 "Berg Artillerie"
  SWI_mountain_artillery_desc:0 "Piou piou peak go boom."
 

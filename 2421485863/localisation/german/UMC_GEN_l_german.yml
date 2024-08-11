@@ -239,10 +239,10 @@
  GEN_red_army_desc:0 "Nur die bewaffneten Massen werden sich selbst befreien können"
 
  ARCTIC_winter_readiness:0 "Winter-Bereitschaft"
- ARCTIC_recruit_penguins:0 ""Rekrutiere Pinguine" #das ist ein supergeheimer, versteckter Scherzgeist"
+ ARCTIC_recruit_penguins:0 "Rekrutiere Pinguine"
  ARCTIC_recruit_penguins_desc:0 "Da es in der Arktis nur wenige Männer gibt, müssen wir unsere bestgekleideten Landsleute rekrutieren: Zwergalken. Ich weiß, dass man dir Pinguine versprochen hat, aber auch der Große Tümmler (Pinguinus impennis) lebte früher in der Arktis und beide werden auf Französisch "pingouin" genannt. Im Englischen leben Pinguine auf der Südhalbkugel. Arktische Vögel sind niedlich und kriegerisch, während Sprachen kompliziert sind."
  ARCTIC_the_day_before_the_storm_hit:0 "Der Tag vor dem Sturm"
- ARCTIC_the_day_before_the_storm_hit_desc:0 ""Die Pinguin-Supermacht ist seit fast zwei Jahrzehnten, seit dem Ende des letzten Krieges, bereit, in China einzumarschieren, und jetzt, wo die ganze Welt wieder in heißes Wasser getaucht ist, hat es nicht lange gedauert, bis alles ans Licht kam." # kopiert aus dem schlecht übersetzten HOI4-Video, das ohnehin ein versteckter Witz ist"
+ ARCTIC_the_day_before_the_storm_hit_desc:0 "Die Pinguin-Supermacht ist seit fast zwei Jahrzehnten, seit dem Ende des letzten Krieges, bereit, in China einzumarschieren, und jetzt, wo die ganze Welt wieder in heißes Wasser getaucht ist, hat es nicht lange gedauert, bis alles ans Licht kam."
  ARCTIC_organize_army_structure:0 "Organisieren Sie die Armeestruktur"
  ARCTIC_organize_army_structure_desc:0 "Wir werden die neue Armee reorganisieren, um die Kommunikation zu straffen und die Macht des Generalstabs zu zentralisieren."
  ARCTIC_winter_training:0 "Wintertraining"

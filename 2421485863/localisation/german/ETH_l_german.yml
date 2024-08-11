@@ -33,7 +33,7 @@
  ETH_promote_infrastructure_development_in_from:0 "Förderung der Infrastrukturentwicklung in [FROM.GetName]"
  ETH_promote_construction_development_in_from:0 "Förderung der Bauentwicklung in [FROM.GetName]"
  ETH_state_development_production_speed_tt:0 "§YMax Fabriken im Staat§! §G+10%§!"
- ETH_state_development_local_building_tt:0 ""§YLokale Baugeschwindigkeit§! §G+10%§!" #ETH_staatliche_Entwicklung_lokaler_Aufbau_tt"
+ ETH_state_development_local_building_tt:0 "YLokale Baugeschwindigkeit§! §G+10%§!" #ETH_staatliche_Entwicklung_lokaler_Aufbau_tt"
 
 
  italo_ethiopian_war:0 "Italien unterzeichnete den Frieden unter Androhung der diplomatischen Isolation."
@@ -161,7 +161,7 @@
  ETH_oil_industry_desc:0 "Eine moderne Marine benötigt eine ständige Ölquelle, die wir durch weitere Investitionen erschließen können."
  ETH_black_lions:0 "Gründung der Black Lions"
  ETH_black_lions_desc:0 "Eine antifaschistische Bewegung, die zum Widerstand gegen die italienische Besatzung Äthiopiens gegründet wurde. "
- ETH_modern_airforce:0"Modernize Airforce" ""
+ ETH_modern_airforce:0 "Modernize Airforce"
  ETH_modern_airforce_desc:0 "Mit ein wenig Mühe können wir unsere Luftwaffe gründlich modernisieren."
  ETH_airbase_eritea:0 "Luftwaffenstützpunkt in Eritrea"
  ETH_airbase_eritea_desc:0 "Um unsere Streitkräfte in Eritrea angemessen abdecken zu können, müssen wir unsere Basen dort ausbauen."

@@ -387,7 +387,7 @@
  VEN_attack_south_south_america_desc:0 ""
 
  VEN_intervention_in_brazil:0 "Intervention in Brasilien"
- VEN_intervention_in_brazil_desc:0 "Unsere Reintegrationskampagne ist von unseren Nachbarn nicht unbemerkt geblieben. [Die brasilianische Regierung hat ihren Einfluss auf die indigene Bevölkerung des Amazonasgebiets verstärkt. Einige der Zufluchtsorte berichten von unbeschreiblichen Gräueltaten, die dort begangen werden. Wir werden intervenieren, um diese Menschen zu retten!"
+ VEN_intervention_in_brazil_desc:0 "Unsere Reintegrationskampagne ist von unseren Nachbarn nicht unbemerkt geblieben. \nDie brasilianische Regierung hat ihren Einfluss auf die indigene Bevölkerung des Amazonasgebiets verstärkt. Einige der Zufluchtsorte berichten von unbeschreiblichen Gräueltaten, die dort begangen werden. Wir werden intervenieren, um diese Menschen zu retten!"
 
  VEN_attack_america:0 "Schlagt den Giganten"
  VEN_attack_america_desc:0 "Jenseits des karibischen Meeres liegt ein Riese, der jetzt wach ist und aktiv nach Beute sucht. Auf seinem Weg zur Vorherrschaft in der Hemisphäre hat er schon viele verschlungen. Von nun an werden wir ihnen unsere eigene Monroe-Doktrin aufzwingen!"
@@ -483,7 +483,7 @@
  VEN_latin_america_guardian_desc:0 "[VEN.GetName] ist ein leuchtendes Beispiel für Lateinamerikas Freiheit und starke Demokratie, und es ist unsere Pflicht, unsere Mitmenschen vor radikalen und unterdrückerischen Regimen zu schützen, nicht nur im Namen der Freiheit, sondern des ewigen Friedens für uns alle!"
 
  VEN_attack_japan:0 "Bringt den Kampf nach Osten"
- VEN_attack_japan_desc:0 "[Die Bedrohung durch die JAP wächst weiter. Sicherlich werden sie den Schlag nicht von uns erwarten, da die neue Sonne über dem Pazifik aufgehen wird!"
+ VEN_attack_japan_desc:0 "\nDie Bedrohung durch die JAP wächst weiter. Sicherlich werden sie den Schlag nicht von uns erwarten, da die neue Sonne über dem Pazifik aufgehen wird!"
 
  VEN_attack_germany:0 "Eliminieren Sie die europäische Bedrohung"
  VEN_attack_germany_desc:0 "Die Bedrohung durch [GER.getNameDef] ist zu weit gegangen, es ist klar, dass Europa ein für alle Mal befreit werden muss, wenn wir die Demokratie in der Welt sichern wollen!"
@@ -649,7 +649,7 @@
  VEN_explosive_factories_desc:0 "Der Mangel an militärischen Fähigkeiten könnte unseren potenziellen Feinden zum Vorteil gereichen. Diesen darf man auf dem Schlachtfeld keinen Vorteil verschaffen! Alles für unsere Truppen, koste es, was es wolle!"
 
  VEN_nuclear_power:0 "Atomkraft studieren"
- VEN_nuclear_power_desc:0 ""Eine Bombe dieser Stärke kann leicht einen Hafen und die umliegenden Städte zerstören", schrieb Albert Einstein, der große deutsche Wissenschaftler, an Franklin Roosevelt in Amerika. Die Art und Weise, wie er diese neue Kraft beschrieb, ist unglaublich. Wenn wir diese Energie für uns nutzbar machen könnten, würde uns das nicht nur helfen, auf der internationalen Bühne anerkannt zu werden, sondern es würde auch sicherstellen, dass ausländische Bedrohungen in Schach gehalten werden."
+ VEN_nuclear_power_desc:0 "ine Bombe dieser Stärke kann leicht einen Hafen und die umliegenden Städte zerstören", schrieb Albert Einstein, der große deutsche Wissenschaftler, an Franklin Roosevelt in Amerika. Die Art und Weise, wie er diese neue Kraft beschrieb, ist unglaublich. Wenn wir diese Energie für uns nutzbar machen könnten, würde uns das nicht nur helfen, auf der internationalen Bühne anerkannt zu werden, sondern es würde auch sicherstellen, dass ausländische Bedrohungen in Schach gehalten werden."
 
  VEN_rural_schools:0 "Ländliche Schulen bauen"
  VEN_rural_schools_desc:0 "Ein großer Teil unseres Landes ist unterentwickelt und vielerorts, insbesondere in ländlichen Regionen, fehlt es an grundlegenden Bildungssystemen. Mit unseren neuen industriellen Fortschritten ist es an der Zeit, dass wir uns auf die Menschen konzentrieren und ihnen Bildung bieten."
@@ -783,7 +783,7 @@
  venezuela.3.a:0 "Nun gut."
 
  venezuela.4.t:0 "1935 [VEN.GetAdjective] Wahlen"
- venezuela.4.d:0 "Nach dem Tod von Juan Vicente Gómez Ende 1935 entbrannte innerhalb der [VEN.GetAdjective]-Politik ein großer Machtkampf um einen geeigneten Nachfolger für seine Herrschaft. Gómez hatte zuvor mit eiserner Faust regiert, um seine Macht und Autorität zu festigen. [Eleazar López Contreras, ein Mitarbeiter und enger Freund von Gómez, übernahm nach dessen Tod die Macht, doch schon während seiner Regierungszeit stand Contreras der Politik von Gómez äußerst kritisch gegenüber und beabsichtigte, die Nation zu reformieren und zu modernisieren. [Es gibt jedoch mehrere politische Führer in Venezuela wie Rómulo Gallegos und Isaías Medina Angarita, die der Meinung sind, dass Venezuela zu einer freien Demokratie westlichen Stils reformiert werden sollte. Aber auch extremere Gruppen wie General Marcos Pérez Jiménez unterstützen die Politik von Gómez und wollen sie fortsetzen. Jiménez war bisher jede nennenswerte politische Präsenz verwehrt worden, aber jetzt, im Zuge des Machtkampfes, könnte sich für ihn die perfekte Gelegenheit bieten, die Macht zu übernehmen."
+ venezuela.4.d:0 "Nach dem Tod von Juan Vicente Gómez Ende 1935 entbrannte innerhalb der [VEN.GetAdjective]-Politik ein großer Machtkampf um einen geeigneten Nachfolger für seine Herrschaft. Gómez hatte zuvor mit eiserner Faust regiert, um seine Macht und Autorität zu festigen. [Eleazar López Contreras, ein Mitarbeiter und enger Freund von Gómez, übernahm nach dessen Tod die Macht, doch schon während seiner Regierungszeit stand Contreras der Politik von Gómez äußerst kritisch gegenüber und beabsichtigte, die Nation zu reformieren und zu modernisieren. \nEs gibt jedoch mehrere politische Führer in Venezuela wie Rómulo Gallegos und Isaías Medina Angarita, die der Meinung sind, dass Venezuela zu einer freien Demokratie westlichen Stils reformiert werden sollte. Aber auch extremere Gruppen wie General Marcos Pérez Jiménez unterstützen die Politik von Gómez und wollen sie fortsetzen. Jiménez war bisher jede nennenswerte politische Präsenz verwehrt worden, aber jetzt, im Zuge des Machtkampfes, könnte sich für ihn die perfekte Gelegenheit bieten, die Macht zu übernehmen."
  venezuela.4.a:0 "Eleazar Contreras wird Venezuela reformieren und modernisieren."
  venezuela.4.b:0 "Isaías Angarita ist ein konservativer Reformer, genau das, was Venezuela braucht."
  venezuela.4.c:0 "Rómulo Gallegos weiß, was richtig ist für das [VEN.GetAdjective] Volk."
@@ -807,7 +807,7 @@
  venezuela.8.a:0 "Wir haben keine Wahl."
  venezuela.8.b:0 "Eine lächerliche Behauptung!"
 
- venezuela.9.t:0 "[~687.Owner.GetNameDefCap~] Reicht  ein."
+ venezuela.9.t:0 "[687.Owner.GetNameDefCap] Reicht  ein."
  venezuela.9.d:0 "Angesichts der Androhung militärischer Maßnahmen hat [687.Owner.GetNameDefCap] unseren Forderungen nachgegeben, und das Gebiet von Guyana wird an Venezuela zurückgegeben."
  venezuela.9.a:0 "So wie es sein sollte."
 
@@ -869,7 +869,7 @@
  venezuela.23.b:0 "Er ist eine Belastung, er muss weg."
 
  venezuela.24.t:0 "[VEN.GetName] Ergreift Trinidad"
- venezuela.24.d:0 "Die [VEN.GetAdjective]-Kräfte haben einen amphibischen Angriff auf die Insel Trinidad gestartet, sind erfolgreich gelandet und haben einen Brückenkopf errichtet. Sie haben die kleine Garnison vor Ort schnell überwältigt und später die Hauptstadt Port of Spain erobert. [In einer Pressekonferenz erklärte der Anführer der [VEN.GetAdjective], [VEN.GetLeader], dass Trinidad und Tobago rechtmäßige Teile Venezuelas seien und man alle Imperialisten aus der Karibik vertreiben wolle. Das ist natürlich absurd, aber so reagieren wir auf die Angelegenheit. Einige Leute rufen zum Krieg gegen [VEN.GetNonIdeologyName] auf, während andere skeptisch sind, wenn es um die Verschwendung von Leben wegen 2 kleiner Inseln geht."
+ venezuela.24.d:0 "Die [VEN.GetAdjective]-Kräfte haben einen amphibischen Angriff auf die Insel Trinidad gestartet, sind erfolgreich gelandet und haben einen Brückenkopf errichtet. Sie haben die kleine Garnison vor Ort schnell überwältigt und später die Hauptstadt Port of Spain erobert. \nIn einer Pressekonferenz erklärte der Anführer der [VEN.GetAdjective], [VEN.GetLeader], dass Trinidad und Tobago rechtmäßige Teile Venezuelas seien und man alle Imperialisten aus der Karibik vertreiben wolle. Das ist natürlich absurd, aber so reagieren wir auf die Angelegenheit. Einige Leute rufen zum Krieg gegen [VEN.GetNonIdeologyName] auf, während andere skeptisch sind, wenn es um die Verschwendung von Leben wegen 2 kleiner Inseln geht."
  venezuela.24.a:0 "Wir lassen uns nicht einfach so überrumpeln!"
  venezuela.24.b:0 "Es sind nur 2 kleine Inseln, lasst sie in Ruhe."
 
@@ -890,7 +890,7 @@
  venezuela.28.a:0 "Nun gut."
 
  venezuela.29.t:0 "Pattsituation bei Trinidad"
- venezuela.29.d:0 "Der erste Angriff der [VEN.getAdjective] Streitkräfte wurde von den tapferen Verteidigern von Port of Spain zurückgeschlagen, was zur Vernichtung der ersten Welle von Angreifern in einem Nahkampf führte. Die verbliebenen Verteidiger trugen die Verwundeten in die ausgebrochene Stadtbefestigung, während die Toten verbrannt wurden, um die Gefahr von Seuchen in der belagerten Stadt zu vermeiden. [Den angreifenden Truppen gelang es, einige Strandköpfe in der Nähe von Manzanilla, Mayaro und Matura zu sichern, wo eine lokale Pro-[VEN.getAdjective]-Verwaltung eingerichtet wurde, um die legitime Herrschaft der offiziellen Inselverwaltung zu bekämpfen. [Noch immer sind in verschiedenen Teilen der Inseln Artilleriegeschütze und Schüsse zu hören, doch unter diesen Umständen wird klar: Der Konflikt soll nicht mit den Streitkräften, sondern auf diplomatischem Wege gelöst werden. [Einige Politiker diskutieren bereits über Regelungen für einen offiziellen Waffenstillstand zwischen beiden Nationen."
+ venezuela.29.d:0 "Der erste Angriff der [VEN.getAdjective] Streitkräfte wurde von den tapferen Verteidigern von Port of Spain zurückgeschlagen, was zur Vernichtung der ersten Welle von Angreifern in einem Nahkampf führte. Die verbliebenen Verteidiger trugen die Verwundeten in die ausgebrochene Stadtbefestigung, während die Toten verbrannt wurden, um die Gefahr von Seuchen in der belagerten Stadt zu vermeiden. [Den angreifenden Truppen gelang es, einige Strandköpfe in der Nähe von Manzanilla, Mayaro und Matura zu sichern, wo eine lokale Pro-[VEN.getAdjective]-Verwaltung eingerichtet wurde, um die legitime Herrschaft der offiziellen Inselverwaltung zu bekämpfen. [Noch immer sind in verschiedenen Teilen der Inseln Artilleriegeschütze und Schüsse zu hören, doch unter diesen Umständen wird klar: Der Konflikt soll nicht mit den Streitkräften, sondern auf diplomatischem Wege gelöst werden. \nEinige Politiker diskutieren bereits über Regelungen für einen offiziellen Waffenstillstand zwischen beiden Nationen."
  venezuela.29.a:0 "Wir lassen uns nicht einfach so über den Tisch ziehen!"
  venezuela.29.b:0 "Lasst sie in Ruhe, diese Inseln sind nicht wichtig."
 
@@ -900,7 +900,7 @@
  venezuela.30.b:0 "Audelino Moreno ist ein würdiger Kandidat."
 
  venezuela.31.t:0 "Präsidentschaftswahlen 1941"
- venezuela.31.d:0 "Die erste Amtszeit von [VEN.GetLeader] ist fast vorbei, so dass bald neue Präsidentschaftswahlen stattfinden werden. [VEN.GetLeader] tritt zur Wiederwahl als Präsident Venezuelas an, allerdings gegen den Anwalt und Diplomaten Germán Suárez Flamerich, der in den letzten Jahren viel politischen Einfluss hatte und deutlich macht, dass er die Absicht hat, in die Fußstapfen seines Vorgängers zu treten. [\n]\n~]Wen soll das Volk wählen?"
+ venezuela.31.d:0 "Die erste Amtszeit von [VEN.GetLeader] ist fast vorbei, so dass bald neue Präsidentschaftswahlen stattfinden werden. [VEN.GetLeader] tritt zur Wiederwahl als Präsident Venezuelas an, allerdings gegen den Anwalt und Diplomaten Germán Suárez Flamerich, der in den letzten Jahren viel politischen Einfluss hatte und deutlich macht, dass er die Absicht hat, in die Fußstapfen seines Vorgängers zu treten. \n\n]Wen soll das Volk wählen?"
  venezuela.31.a:0 "Angarita hat der Nation bisher gut gedient."
  venezuela.31.b:0 "Germán Flamerich ist ein würdiger Kandidat."
 

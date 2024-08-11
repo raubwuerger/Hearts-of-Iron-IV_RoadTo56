@@ -16,7 +16,7 @@ operation_outcome_officers_assassinated_tt:0 "Ein zufälliger [FROM.GetNameWithF
 operation_targeted_plant_false_new_order_intel:0 "Gefälschte deutsche Karte platzieren"
 operation_targeted_plant_false_new_order_intel_desc:0 "Indem wir die Entdeckung einer gefälschten Karte erzwingen, die die deutschen Pläne für die westliche Hemisphäre darstellen soll, können wir [USA.GetLeader] irritieren und ihn zwingen, eine stärkere Haltung gegenüber [GER.getNameDef] einzunehmen."
 
-operation_outcome_new_order_map_planted_tt:0 "[§Y~][FROM.GetNameWithFlag]§! wird §G+5%§! Kriegsunterstützung gewinnen und seine Meinung über [§Y~][GER.GetNameDef]§! senken!"
+operation_outcome_new_order_map_planted_tt:0 "§Y[FROM.GetNameWithFlag]§! wird §G+5%§! Kriegsunterstützung gewinnen und seine Meinung über §Y[GER.GetNameDef]§! senken!"
 
  r56_leader_events.1.t:0 "[From.GetNameDefCap] Auf wundersame Weise entkommen"
  r56_leader_events.1.desc:0 "Während er seine Truppen befehligte, konnte [From.GetRank] [From.GetName] brachte [From.GetHerselfHimself] in Gefahr, und für kurze Zeit wurde befürchtet, dass [From.GetSheHe] persönlich getroffen wurde. Doch trotz der Versuche des Feindes hatte das Schicksal andere Pläne für [From.GetRank] [From.GetName], der unversehrt ist und bereit, den Krieg fortzusetzen."

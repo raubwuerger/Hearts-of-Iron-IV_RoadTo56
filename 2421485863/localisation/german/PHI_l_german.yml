@@ -213,7 +213,7 @@
  phil.10.d:0 "[FROM.GetNameDefCap] hat den Antrag unserer Regierung auf ein Referendum in Guam akzeptiert und erklärt, dass es tatsächlich kurzfristig abgehalten wird. Nach ihrer ursprünglichen Ankündigung wurde die Bevölkerung von Guam über das Referendum informiert, das in einiger Zeit stattfinden wird. Glücklicherweise stimmte die Mehrheit für die Übernahme der vollen administrativen und militärischen Kontrolle der Insel durch [ROOT.GetNameDef] und die anschließende Eingliederung von Guam in [ROOT.GetNameDeF]."
  phil.10.a:0 "Eine wahrhaft demokratische Art, wichtige Angelegenheiten zu lösen!"
 
- PHI_generic_industrial_concern:0 ""ANSCOR" #Unternehmensgruppe, die von dem Mann gegründet wurde, der auch ein spanischer Falangist war und dann der rechtmäßigen Regierung beitrat"
+ PHI_generic_industrial_concern:0 "ANSCOR" #Unternehmensgruppe, die von dem Mann gegründet wurde, der auch ein spanischer Falangist war und dann der rechtmäßigen Regierung beitrat"
  PHI_china_banking_corporation:0 "China Banking Corporation"
  PHI_philippine_oil_development_company:0 "[PHI.GetAdjective] Oil Development Company"
  PHI_masbate_consolidated_mining_company:0 "Masbate Consolidated Mining Company"
@@ -328,4 +328,4 @@
   PHI_father_of_the_national_language:0 "Vater der Nationalsprache"
   PHI_jack_of_all_trades:0 "Tausendsassa, Meister in keinem Fach"
 
-#PHI_generic_artillery_manufacturer:0 ""Atlasdünger" #Dünger aus Pyrit ist wahrscheinlich explosiv, ich hoffe, er existierte schon damals und ist keine Nachkriegskreation, anscheinend war er doch nach dem Krieg"
+#PHI_generic_artillery_manufacturer:0 "Atlasdünger" #Dünger aus Pyrit ist wahrscheinlich explosiv, ich hoffe, er existierte schon damals und ist keine Nachkriegskreation, anscheinend war er doch nach dem Krieg"

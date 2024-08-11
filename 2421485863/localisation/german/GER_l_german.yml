@@ -64,7 +64,7 @@
  GER_build_panzer_quantity:0 "Quantität bevorzugen"
  GER_build_panzer_quantity_desc:0 " "
  GER_captured_heavy_weapons:0 "Erbeutete schwere Waffen wiederverwenden"
- GER_captured_heavy_weapons_desc:0 ""Trotz unserer überlegenen Ausrüstungsproduktion dürfen wir die Möglichkeiten der von uns erbeuteten feindlichen Ausrüstung nicht vernachlässigen."  #Guter Kandidat für einen geskripteten Ort auf der Grundlage der obigen Schwerpunktauswahl"
+ GER_captured_heavy_weapons_desc:0 "rotz unserer überlegenen Ausrüstungsproduktion dürfen wir die Möglichkeiten der von uns erbeuteten feindlichen Ausrüstung nicht vernachlässigen."  #Guter Kandidat für einen geskripteten Ort auf der Grundlage der obigen Schwerpunktauswahl"
  GER_superior_firepower:0 "Die moderne Armee"
  GER_superior_firepower_desc:0 "[GER.GetNameDefCap] sollte als erstes zeigen, wie vorteilhaft eine gut organisierte Unterstützung in ihren Einheiten ist."
  GER_elite_units:0 "Spezialisierte Einheiten"
@@ -507,7 +507,7 @@
  GER_establishing_the_reichskommissar:0 "Einsetzung des Reichskommissars"
 
  GER_eastern_campaign:0 "Ost-Kampagne"
- GER_eastern_campaign_desc:0 "Staatlich finanzierte Propagandakampagnen haben selbst den stärksten Kriegsgegnern im Osten versichert, dass die Siegesbedingungen zu [GER.getAdjective]-Bedingungen diktiert werden und keine Verhandlungen die Erfolge der Wehrmacht behindern werden. [Dieser Nationale Geist wird entfernt, wenn [SOV.getAdjective]-verursachte [GER.getAdjective]-Verluste eine Schwelle von 4 Millionen erreichen oder ein eigener [SOV.getAdjective]-Kernstaat mehr als 50% Zustimmung hat.§!"
+ GER_eastern_campaign_desc:0 "Staatlich finanzierte Propagandakampagnen haben selbst den stärksten Kriegsgegnern im Osten versichert, dass die Siegesbedingungen zu [GER.getAdjective]-Bedingungen diktiert werden und keine Verhandlungen die Erfolge der Wehrmacht behindern werden. \nDieser Nationale Geist wird entfernt, wenn [SOV.getAdjective]-verursachte [GER.getAdjective]-Verluste eine Schwelle von 4 Millionen erreichen oder ein eigener [SOV.getAdjective]-Kernstaat mehr als 50% Zustimmung hat.§!"
 
  erwache.1.t:0 "Ernennung von Wirtschaftspositionen"
  erwache.1.desc:0 "Für die Ämter des Reichsbankpräsidenten und des Wirtschaftsministers gibt es zwei Ernennungsmöglichkeiten. Einer der möglichen Kandidaten, Hjalmar Schacht, ist sehr gut darin, mit den Unternehmen von [GER.GetNameDef] zusammenzuarbeiten und die zivile Infrastruktur zu entwickeln. Seine mangelnde Loyalität gegenüber der NSDAP und seine Verachtung für Militärausgaben machen ihn jedoch zu einer bedenklichen Wahl. Unser zweiter möglicher Kandidat, Walther Funk, ist der NSDAP gegenüber sehr loyal und ein großer Befürworter von Militärausgaben. Wenn wir beim Aufschwung vernünftig vorankommen wollen, müssen wir einen dieser beiden Männer an die Spitze unserer Wirtschaft stellen."
@@ -549,7 +549,7 @@
  GER_war_with_hungary:0 "Krieg mit [HUN.getnamedef]"
  GER_war_with_hungary_desc:0 "[HUN.getnamedef] besetzen eine kritische südliche Flanke unseres Landes, die gesichert werden muss, notfalls mit Gewalt."
  GER_city_besiegement:0 "Belagerungsartillerie"
- siege_artillery:0 ""Belagerungsartillerie" #Tech"
+ siege_artillery:0 "elagerungsartillerie" #Tech"
  GER_city_besiegement_desc:0 "Da massive Befestigungen auf dem modernen Schlachtfeld wieder auf dem Vormarsch zu sein scheinen, müssen wir unsere Feldgeschütze aufrüsten, damit sie besser durch befestigte Verteidigungsanlagen und städtische Gebiete dringen können."
  GER_city_besiegement_tt:0 "§WErmöglicht:§! §YBelagerungsartillerie§!, §Wdie§!\n§WArtillerie:§!\n§YUrban§!\n§WAttack:§! §G+5%§!\n§YFort§!\n§WAttack:§! §G+5%§!\n\n§WMotorized Artillery:§!\n§YUrban§!\n§WAttack:§! §G+5%§!\n§YFort§!\n§WAttack:§! §G+5%§!\n\n"
  GER_shock_troops_tech_bonus:0 "Forschungsbonus für Schocktruppen"
@@ -625,7 +625,7 @@
  GER_flak_towers_tt:0 "$GER_modify_the_the_heer$ \nStatischer Anti-Luft-Schadensfaktor: §G+10%§!\n\n"
 
  GER_mefo_bills_modifier:0 "MEFO-Scheine"
- GER_mefo_bills_modifier_desc:0 "MEFO-Wechsel waren Schuldscheine, die von Hjalmar Schacht geschaffen wurden, um die Regierung in die Lage zu versetzen, die Wiederbewaffnung zu finanzieren, wobei sie über die Bilanzgesellschaft Metallurgische Forschungsgesellschaft handelte, um diese Wiederbewaffnung vor den Augen der Franzosen und Briten zu verbergen. Diese Rechnungen müssen um sechs Monate verlängert werden, oder ihre Empfänger müssen bei Fälligkeit bezahlt werden. [Der Kriegseintritt wird die Abhängigkeit von den MEFO-Rechnungen beseitigen und die Zahlung bis zum Ende des Krieges hinauszögern."
+ GER_mefo_bills_modifier_desc:0 "MEFO-Wechsel waren Schuldscheine, die von Hjalmar Schacht geschaffen wurden, um die Regierung in die Lage zu versetzen, die Wiederbewaffnung zu finanzieren, wobei sie über die Bilanzgesellschaft Metallurgische Forschungsgesellschaft handelte, um diese Wiederbewaffnung vor den Augen der Franzosen und Briten zu verbergen. Diese Rechnungen müssen um sechs Monate verlängert werden, oder ihre Empfänger müssen bei Fälligkeit bezahlt werden. \nDer Kriegseintritt wird die Abhängigkeit von den MEFO-Rechnungen beseitigen und die Zahlung bis zum Ende des Krieges hinauszögern."
 
  GER_modify_mefo_bills_modifier:0 "Ändern Sie §Y$GER_mefo_bills_modifier$§! durch"
  GER_mefo_bills_increase_pp_cost_effect_tt:0 "$GER_modify_mefo_bills_modifier$ \n$MODIFIER_POLITICAL_POWER_COST$: §R-0.15§!\n\n"
@@ -844,7 +844,7 @@
  r56.ger.36.desc:0 "Vertreter der [FROM.GetAdjective]-Regierung haben uns mitgeteilt, dass sie nicht beabsichtigen, die in unserem Integrationsvorschlag vorgesehenen Maßnahmen durchzuführen. Obwohl sie uns versichern, dass sie unsere Handelsbeziehungen fortsetzen wollen, weigern sie sich, dass wir unseren politischen Einfluss auf sie ausweiten."
  r56.ger.36.a:0 "Da kann man leider nichts machen."
  r56.ger.36.b:0 "Wir werden sehen, wie sie ohne uns zurechtkommen."
- r56.ger.36.c:0 ""Not an option".  #Kriegsziel gewähren oder Regierung stürzen"
+ r56.ger.36.c:0 "ot an option".  #Kriegsziel gewähren oder Regierung stürzen"
 
 #39 and 40 are AI only events, title is only for Germany to see, rest is just placeholder ""
  r56.ger.39.t:0 "[FROM.GetName] Stürzt die Regierung"
@@ -876,7 +876,7 @@
  ger.renegotiate_versailles.1.b:0 "Wir haben kein Interesse an den Verträgen von einst."
 
  ger.renegotiate_versailles.2.t:0 "[FROM.GetNameDefCap] erklärt sich bereit, den Vertrag von Versailles neu zu verhandeln"
- ger.renegotiate_versailles.2.d:0 "[FROM.GetNameDefCap] hat unser Angebot, den Vertrag von Versailles mit uns neu zu verhandeln, gnädig angenommen und stimmt mit unserer Haltung überein, dass eine solche Aktion notwendig ist, um den Frieden in unserer Zeit zu erhalten. [Die Auswirkungen des Vertrages sind nun nachträglich eingetreten, wir werden nicht mehr in der Lage sein, einen großen Teil unserer Streitkräfte einzusetzen, aber [FROM.GetNameDef] hat sich bereit erklärt, unsere Nation stattdessen gegen fremde Aggressionen zu verteidigen."
+ ger.renegotiate_versailles.2.d:0 "[FROM.GetNameDefCap] hat unser Angebot, den Vertrag von Versailles mit uns neu zu verhandeln, gnädig angenommen und stimmt mit unserer Haltung überein, dass eine solche Aktion notwendig ist, um den Frieden in unserer Zeit zu erhalten. \nDie Auswirkungen des Vertrages sind nun nachträglich eingetreten, wir werden nicht mehr in der Lage sein, einen großen Teil unserer Streitkräfte einzusetzen, aber [FROM.GetNameDef] hat sich bereit erklärt, unsere Nation stattdessen gegen fremde Aggressionen zu verteidigen."
  ger.renegotiate_versailles.2.a: "Frieden in unserer Zeit."
 
  ger.renegotiate_versailles.3.t:0 "[FROM.GetNameDefCap] weigert sich, den Vertrag von Versailles neu zu verhandeln"
@@ -902,10 +902,10 @@
  GER_totaler_krieg_desc:0 "Um unseren Feinden einen entscheidenden Schlag zu versetzen, dürfen wir uns nicht zurückhalten, sondern müssen unsere ganze Kraft einsetzen, um den endgültigen Sieg zu erringen, koste es, was es wolle!"
 
  #R56 tree restructure/expansion marijn211 ""
- ger_anti_colonial:0 ""Antikolonialismus" #Meinungsmodifikator"
- ger_anti_colonial2:0 ""Antikolonialismus" #Meinungsmodifikator, aber umgekehrte Wirkung für andere Antikolonialisten"
- GER_protector_of_peace:0 ""Beschützer des Friedens" #Idee"
- GER_flak_towers: ""Flakturm-Projekt" #Idee, Zweigstelle der Armee"
+ ger_anti_colonial:0 "ntikolonialismus" #Meinungsmodifikator"
+ ger_anti_colonial2:0 "ntikolonialismus" #Meinungsmodifikator, aber umgekehrte Wirkung für andere Antikolonialisten"
+ GER_protector_of_peace:0 "eschützer des Friedens" #Idee"
+ GER_flak_towers: "lakturm-Projekt" #Idee, Zweigstelle der Armee"
  GER_tank_quantity: "Beschleunigte Panzerproduktion"
  GER_tank_quality: "Hochwertige Panzer"
  WIP_flag:0 "Dieser Teil des Baums befindet sich noch in der Entwicklung und kann nur über Konsolenbefehle freigeschaltet werden."
@@ -916,7 +916,7 @@
  GER_help_SOV_revolutionaries_desc:0 "Die Unterstützung des revolutionären Kampfes gegen (die Überreste) des stalinistischen Regimes könnte dazu führen, dass die Welt vom Kommunismus gerettet wird!"
  GER_inter_communist_fighting_tt:0 "Gewinnt Kriegsziele auf die §HEuropäische Opposition§!."
  kpd_gets_opposition:0 "§RDie Rechte Opposition wird sich bilden§!."
- r56_german_cw_ongoing:0 ""[GER.GetNameDefCap] befindet sich in einem Bürgerkrieg." #globalflag"
+ r56_german_cw_ongoing:0 "GER.GetNameDefCap] befindet sich in einem Bürgerkrieg." #globalflag"
  GER_recruit_officers_com_tt:0 "\nWir werden §HBerater§! und §HKommandanten§! von der besiegten §HDemokratischen§! Seite rekrutieren. Allerdings gibt es immer noch §HOpposition§! für unsere Sache."
  GER_AUS_wont_get_annexed_tt:0 "§RDas Ereignis zur Annexion Österreichs, wenn es eurer Allianz beitritt, wird blockiert§!."
  GER_dem_ITA_pact_tt:0 "§HDemokratisches§! oder §HMonarchistisches Italien§! wird eurer Allianz beitreten. Wenn §HItalien§! §Hfaschistisch§! und §HJugoslawien§! §Hkommunistisch§! ist, könnt ihr sie gemeinsam bekämpfen.\n\n"
@@ -1060,13 +1060,13 @@
 
  r56.ger.20.t:0 "Deutschland schlägt Wiedervereinigung vor"
  r56.ger.20.d:0 "Deutschland schlägt Wiedervereinigung vor"
- r56.ger.20.d2:0 ""Deutschland schlägt Wiedervereinigung vor" #viel kommunistische Unterstützung -> Referendum würde nicht angenommen"
+ r56.ger.20.d2:0 "eutschland schlägt Wiedervereinigung vor" #viel kommunistische Unterstützung -> Referendum würde nicht angenommen"
  r56.ger.20.a:0 "Das Volk soll gehört werden."
  r56.ger.20.b:0 "Wir machen da nicht mit."
 
  r56.ger.21.t:0 "Österreich lehnt die Wiedervereinigung ab!"
- r56.ger.21.d1:0 ""Die österreichische Regierung hat heute angekündigt, dass sie eine Volksabstimmung über die Vereinigung Österreichs mit Deutschland nicht zulassen wird. Trotz der Unterstützung der Bevölkerung und des öffentlichen Aufschreis haben die Unabhängigkeitsbefürworter in der Regierung den Kurs ihres Landes festgelegt." #Scheitern im Block"
- r56.ger.21.d2:0 ""Das österreichische Volk hat heute, angeheizt durch kommunistische Pro-Unabhängigkeits-Stimmungen, gegen die Vereinigung Österreichs mit Deutschland gestimmt." #Versagen des Kommunismus, Feuer auch für Österreich"
+ r56.ger.21.d1:0 "ie österreichische Regierung hat heute angekündigt, dass sie eine Volksabstimmung über die Vereinigung Österreichs mit Deutschland nicht zulassen wird. Trotz der Unterstützung der Bevölkerung und des öffentlichen Aufschreis haben die Unabhängigkeitsbefürworter in der Regierung den Kurs ihres Landes festgelegt." #Scheitern im Block"
+ r56.ger.21.d2:0 "as österreichische Volk hat heute, angeheizt durch kommunistische Pro-Unabhängigkeits-Stimmungen, gegen die Vereinigung Österreichs mit Deutschland gestimmt." #Versagen des Kommunismus, Feuer auch für Österreich"
  r56.ger.21.a:0 "Ein Verrat an der Demokratie."
  r56.ger.21.b:0 "Wir sollten sie im Auge behalten."
 
@@ -1087,11 +1087,11 @@
  r56.ger.24.a:0 "Zwei Fliegen mit einer Klappe."
  r56.ger.24.b:0 "Die Litauer gehören auf sich selbst gestellt."
 
- r56.ger.25.d:0 "Nach der Ermordung Hitlers und einem Rückgang der Popularität ist die Situation der Nazi-Regierung nun endgültig zusammengebrochen. Überall im Land sind antinazistische Elemente aufgetaucht, im industriellen Kern und durch die separatistische Politik Bayerns hat sich eine neue konservative Demokratie gebildet. Rund um die kommunistischen Hochburgen, darunter auch Berlin, haben die Menschen ebenfalls rebelliert, die Städte selbst werden vorerst von Nazi-Garnisonen geschützt. [Jetzt liegt es an uns, zu entscheiden, wen wir unterstützen."
+ r56.ger.25.d:0 "Nach der Ermordung Hitlers und einem Rückgang der Popularität ist die Situation der Nazi-Regierung nun endgültig zusammengebrochen. Überall im Land sind antinazistische Elemente aufgetaucht, im industriellen Kern und durch die separatistische Politik Bayerns hat sich eine neue konservative Demokratie gebildet. Rund um die kommunistischen Hochburgen, darunter auch Berlin, haben die Menschen ebenfalls rebelliert, die Städte selbst werden vorerst von Nazi-Garnisonen geschützt. \nJetzt liegt es an uns, zu entscheiden, wen wir unterstützen."
  r56.ger.25.a:0 "Sich auf die Seite der Konservativen zu stellen, ist die sichere Option."
  r56.ger.25.b:0 "Die Kommunisten werden dem Volk eine echte Veränderung bringen."
  GER_communists_are_pretty_hard_tt: "\n§RDie Chancen zu gewinnen werden gegen uns gestapelt sein!§!"
- GER_communists_are_pretty_hard_tt_tip:0 "\n\n§HTipp:§! Obwohl du dich auf die Nazis konzentrieren und einige Staaten bekommen oder sogar kapitulieren könntest, wird die §HKonservative Seite§! dich wahrscheinlich §Hschlagen[~§! ~Durch die Aufstellung einer §HKleinen Mobilen Division§! können Sie vielleicht §Hdie §HEntscheidenden Städte§! der Konservativen §Hstürmen§!, während diese gegen die Nazis kämpfen."
+ GER_communists_are_pretty_hard_tt_tip:0 "\n\n§HTipp:§! Obwohl du dich auf die Nazis konzentrieren und einige Staaten bekommen oder sogar kapitulieren könntest, wird die §HKonservative Seite§! dich wahrscheinlich §Hschlagen§! Durch die Aufstellung einer §HKleinen Mobilen Division§! können Sie vielleicht §Hdie §HEntscheidenden Städte§! der Konservativen §Hstürmen§!, während diese gegen die Nazis kämpfen."
 #Democratic anschluss, reuses most elements except image, description and Germany's answer ""
  r56.ger.26.d:0 "Österreich hat in einem Referendum für die Vereinigung mit Deutschland gestimmt, das Fehlen einer starken nationalen Identität und die allgemeine pro-deutsche Stimmung haben eine große Veränderung in Europa bewirkt. Es bleibt abzuwarten, wie die Großmächte auf diesen demokratischen Bruch des Versailler Vertrages reagieren werden."
  r56.ger.26.b:0 "Ich liebe die Demokratie."
@@ -1221,7 +1221,7 @@
 #Some on_action events by Fantom ""
 
 r56_on_action_event.1.t:0 "[GER.GetNameDefCap] ändert seine politischen Direktiven!"
-r56_on_action_event.1.d:0 "Die Veränderungen in der politischen Landschaft von [GER.GetNameDef] haben zur Bildung des neuen Regierungssystems geführt, das eine ganz andere Innenpolitik als seine Vorgänger verfolgen will, wo man sich bemüht, soziale Streitigkeiten zu lösen und die Ordnung im neuen Staat zu sichern. [Ihre Diplomaten haben bereits angekündigt, dass auch die außenpolitische Agenda des [GER.GetAdjective]staates stark beeinträchtigt werden wird, einschließlich der Neuverhandlung früherer Wirtschaftsabkommen, der Revision von Verträgen und der Aufkündigung diplomatischer Allianzen auf verschiedenen Machtebenen. [Es gibt immer wieder Stimmen innerhalb unserer Verwaltung, die sich fragen, ob [ROOT.getLeader] die Meinung von [ROOT.GetHerHis] in Richtung [GER.GetNameDef] umlenken oder [ROOT.GetSheHe] sie lieber beibehalten wird, solange die Situation unklar bleibt?"
+r56_on_action_event.1.d:0 "Die Veränderungen in der politischen Landschaft von [GER.GetNameDef] haben zur Bildung des neuen Regierungssystems geführt, das eine ganz andere Innenpolitik als seine Vorgänger verfolgen will, wo man sich bemüht, soziale Streitigkeiten zu lösen und die Ordnung im neuen Staat zu sichern. [Ihre Diplomaten haben bereits angekündigt, dass auch die außenpolitische Agenda des [GER.GetAdjective]staates stark beeinträchtigt werden wird, einschließlich der Neuverhandlung früherer Wirtschaftsabkommen, der Revision von Verträgen und der Aufkündigung diplomatischer Allianzen auf verschiedenen Machtebenen. \nEs gibt immer wieder Stimmen innerhalb unserer Verwaltung, die sich fragen, ob [ROOT.getLeader] die Meinung von [ROOT.GetHerHis] in Richtung [GER.GetNameDef] umlenken oder [ROOT.GetSheHe] sie lieber beibehalten wird, solange die Situation unklar bleibt?"
 r56_on_action_event.1.a:0 "Wir werden unsere Haltung ihnen gegenüber aufgeben."
 r56_on_action_event.1.b:0 "Ein Regimewechsel bedeutet nichts, wenn die Herzen der Menschen korrumpiert sind!"
 
@@ -1340,7 +1340,7 @@ r56_on_action_event.1.b:0 "Ein Regimewechsel bedeutet nichts, wenn die Herzen de
 
  r56.ger.61.t:0 "Otto Wels stirbt im Alter von 66 Jahren"
  r56.ger.61.desc:0 "Otto Wels, eine der letzten Bastionen des Faschismus, ist im Alter von 66 Jahren endgültig verstorben. Er war 20 Jahre lang Vorsitzender der SPD und regierte das Land seit dem Sturz des Faschismus im Bürgerkrieg. Die Bedeutung dieser Persönlichkeit in der [ROOT.GetAdjectiveCap]-Politik kann man gar nicht hoch genug einschätzen. Es wird nur wenige Menschen geben, die seinem Erbe gerecht werden können. Sein Nachfolger, Hans Vogel, wird das Land von nun an führen. Hoffen wir, dass er eine Präsidentschaft haben wird, die der von Wels entspricht.\n\nOtto Wels wird in den nächsten Tagen zu Grabe getragen, während das Land noch um ihn trauert. Auf seinem Grabstein wird ein Zitat aus seiner letzten Rede im Jahr 1933 stehen, bevor das Ermächtigungsgesetz in Kraft gesetzt wurde:"
- r56.ger.61.a:0 ""Ihr könnt uns die Freiheit und das Leben nehmen, aber niemals unsere Würde!" r56.ger.63.t:0 "Hans Vogel stirbt im Alter von 58 Jahren"
+ r56.ger.61.a:0 "hr könnt uns die Freiheit und das Leben nehmen, aber niemals unsere Würde!" r56.ger.63.t:0 "Hans Vogel stirbt im Alter von 58 Jahren"
  r56.ger.63.desc:0 "Der Bundespräsident ist tot. Er ist im Alter von 58 Jahren friedlich im Schlaf gestorben. Obwohl er noch relativ jung war, hatte er ein erfülltes Leben, in dem er sich für Deutschland und seinen Wohlstand einsetzte. Er war schon in jungen Jahren gewerkschaftspolitisch aktiv und seit mehreren Jahrzehnten eine feste Größe in der deutschen Politik. Zusammen mit Otto Wels und Arthur Crispien wurde er 1931 Co-Vorsitzender der SPD. Nach dem Tod von Wels im Jahr 1939 wurde er selbst Bundespräsident und führte Deutschland in eine glänzende Zukunft. Sein Nachfolger Kurt Schumacher wird in den nächsten Tagen offiziell zum Bundespräsidenten ernannt, während der ehemalige Bundespräsident auf einem Friedhof in Berlin beigesetzt wird."
  r56.ger.63.a:0 "Ruhe in Frieden! Schumacher wird ein würdiger Nachfolger sein."
 
@@ -1357,4 +1357,4 @@ r56_on_action_event.1.b:0 "Ein Regimewechsel bedeutet nichts, wenn die Herzen de
  GER_neutral_gov_long:0 "Übergangspartei"
 
  # tooltips ""
- gov_count_middle:0 "[Die Wiederwahl der gleichen Regierung wird unsere Demokratie destabilisieren!"
+ gov_count_middle:0 "\nDie Wiederwahl der gleichen Regierung wird unsere Demokratie destabilisieren!"

@@ -330,7 +330,7 @@
  ######## LOYA JIRGA EVENTS ######## ""
 
  AFG_loya_jirga.1.t:0 "Die [GetYear] Loya Jirga beginnt"
- AFG_loya_jirga.1.desc:0 "Jahrhundertelang diktierte der paschtunische Gesellschaftskodex die kulturellen und sozialen Normen für das einfache Volk und die privilegierten Mitglieder der Gesellschaft. Gemäß ihrem Statut halten die Staatsoberhäupter zusammen mit den Stammesführern jährlich eine Versammlung der Loya Jirga ab, um den Weg des Landes in diesen unruhigen Zeiten zu diskutieren. [Es wird erwartet, dass sich die diesjährige Jirga vor allem mit dem sozialen Status der Frauen, der Industrialisierung Kābuls und den kürzlich eingeführten Schulreformen sowie der Außenpolitik des Landes befassen wird. Der König wird in Begleitung seiner Kabinettsmitglieder in wenigen Stunden eintreffen. Wir haben Informationen erhalten, dass einige der Bauern aus Nimruz und Farah mit der Umverteilung der Vorräte unzufrieden sind, während die Bewohner des Nordens von Takhar über die jüngsten Basmachi-Angriffe in ihrem Kernland besorgt sind. Es wird erwartet, dass auch einige Armeeangehörige ihre Unzufriedenheit mit dem aktuellen Modernisierungsplan zum Ausdruck bringen werden. Auf der anderen Seite rechnen wir mit einer überwältigenden Unterstützung aus Kābul, wo erst kürzlich die erste Universität des Landes eröffnet wurde. Dem König wurde geraten, in der Frage der Armee eine feste Haltung einzunehmen, aber bereit zu sein, einige Zugeständnisse zu machen, wenn die Diskussion zu hitzig wird. Alles in allem wollen wir die Fehler der Loya Jirga von 1928 nicht wiederholen."
+ AFG_loya_jirga.1.desc:0 "Jahrhundertelang diktierte der paschtunische Gesellschaftskodex die kulturellen und sozialen Normen für das einfache Volk und die privilegierten Mitglieder der Gesellschaft. Gemäß ihrem Statut halten die Staatsoberhäupter zusammen mit den Stammesführern jährlich eine Versammlung der Loya Jirga ab, um den Weg des Landes in diesen unruhigen Zeiten zu diskutieren. \nEs wird erwartet, dass sich die diesjährige Jirga vor allem mit dem sozialen Status der Frauen, der Industrialisierung Kābuls und den kürzlich eingeführten Schulreformen sowie der Außenpolitik des Landes befassen wird. Der König wird in Begleitung seiner Kabinettsmitglieder in wenigen Stunden eintreffen. Wir haben Informationen erhalten, dass einige der Bauern aus Nimruz und Farah mit der Umverteilung der Vorräte unzufrieden sind, während die Bewohner des Nordens von Takhar über die jüngsten Basmachi-Angriffe in ihrem Kernland besorgt sind. Es wird erwartet, dass auch einige Armeeangehörige ihre Unzufriedenheit mit dem aktuellen Modernisierungsplan zum Ausdruck bringen werden. Auf der anderen Seite rechnen wir mit einer überwältigenden Unterstützung aus Kābul, wo erst kürzlich die erste Universität des Landes eröffnet wurde. Dem König wurde geraten, in der Frage der Armee eine feste Haltung einzunehmen, aber bereit zu sein, einige Zugeständnisse zu machen, wenn die Diskussion zu hitzig wird. Alles in allem wollen wir die Fehler der Loya Jirga von 1928 nicht wiederholen."
  AFG_loya_jirga.1.a:0 "Wir werden darauf achten, dass wir sie nicht verpassen."
 
  AFG_loya_jirga.2.t:0 "Die Stellung der Frauen"
@@ -356,14 +356,14 @@
  AFG_loya_jirga_bad:0 "Während der Jirga nahmen der König und seine Regierung eine aggressive und unfreundliche Haltung gegenüber Reformen und den Mitgliedern der Jirga ein, was bei den Mitgliedern der Jirga auf großen Widerstand stieß und von der Kābul Times und vielen anderen Nachrichtenagenturen heftig kritisiert wurde."
 
  AFG_loya_jirga.10.t:0 "Der Verlauf der Loya Jirga von 1936"
- AFG_loya_jirga.10.d:0 "Die Loya Jirga wird in Kürze beginnen, was uns genügend Zeit gibt, den politischen Kurs der diesjährigen Jirga zu bestimmen. Die Regentschaft, bestehend aus Premierminister Mohammad Hashim Khan und Kriegsminister Shah Mahmud Khan, hat dem König geraten, die Politik der Zentralisierung und Reform fortzusetzen. Dies stößt auf den Widerstand vieler Stammesangehöriger, die den durchgesetzten Reformen, die dem Paschtunwali, dem paschtunischen Lebenskodex, entgegenstehen, ablehnend gegenüberstehen. [Diese einfachen Leute wollen nur, dass die Stabilität Afghanistans und ihre kulturellen Bräuche respektiert werden. Wenn wir ihnen Zugeständnisse wie lokale Autonomie und die Ratifizierung des Hasht Nafari anbieten, werden sie vielleicht bereit sein, mit der Regierung zusammenzuarbeiten."
+ AFG_loya_jirga.10.d:0 "Die Loya Jirga wird in Kürze beginnen, was uns genügend Zeit gibt, den politischen Kurs der diesjährigen Jirga zu bestimmen. Die Regentschaft, bestehend aus Premierminister Mohammad Hashim Khan und Kriegsminister Shah Mahmud Khan, hat dem König geraten, die Politik der Zentralisierung und Reform fortzusetzen. Dies stößt auf den Widerstand vieler Stammesangehöriger, die den durchgesetzten Reformen, die dem Paschtunwali, dem paschtunischen Lebenskodex, entgegenstehen, ablehnend gegenüberstehen. \nDiese einfachen Leute wollen nur, dass die Stabilität Afghanistans und ihre kulturellen Bräuche respektiert werden. Wenn wir ihnen Zugeständnisse wie lokale Autonomie und die Ratifizierung des Hasht Nafari anbieten, werden sie vielleicht bereit sein, mit der Regierung zusammenzuarbeiten."
  AFG_loya_jirga.10.a:0 "Setzen Sie sich für Reformen ein!"
  AFG_loya_jirga.10.b:0 "Vielleicht können wir einen Kompromiss erreichen."
 
  ######## OTHER EVENTS ######## ""
 
  afghanistan.1.t:0 "Lokale Stämme bieten Hilfe an"
- afghanistan.1.d:0 "In dieser Zeit der Not ist ein lokaler Stamm an uns herangetreten und hat uns seine militärische Unterstützung angeboten. Der Stamm, der für seine Kampfkraft und Loyalität bekannt ist, ist bereit, Soldaten zu stellen, um die Reihen unserer Armee zu verstärken \n\n~]Dieses Angebot hat jedoch mögliche Konsequenzen. Der Stamm wird eine bevorzugte Behandlung erwarten und könnte eine größere Rolle in unseren militärischen Operationen verlangen. Sollte dies der Fall sein, könnte dies dazu führen, dass unsere Armee stärker von diesen Stämmen abhängig wird, was zu Spannungen mit anderen Fraktionen im Land führen könnte."
+ afghanistan.1.d:0 "In dieser Zeit der Not ist ein lokaler Stamm an uns herangetreten und hat uns seine militärische Unterstützung angeboten. Der Stamm, der für seine Kampfkraft und Loyalität bekannt ist, ist bereit, Soldaten zu stellen, um die Reihen unserer Armee zu verstärken \n\n]Dieses Angebot hat jedoch mögliche Konsequenzen. Der Stamm wird eine bevorzugte Behandlung erwarten und könnte eine größere Rolle in unseren militärischen Operationen verlangen. Sollte dies der Fall sein, könnte dies dazu führen, dass unsere Armee stärker von diesen Stämmen abhängig wird, was zu Spannungen mit anderen Fraktionen im Land führen könnte."
  afghanistan.1.a:0 "Wir können jede Hilfe gebrauchen, die wir bekommen können."
  afghanistan.1.b:0 "Wir benötigen diese Hilfe nicht."
 
@@ -450,7 +450,7 @@
  afghanistan.23.a:0 "Die Zukunft Afghanistans sieht rosig aus!"
 
  afghanistan.24.t:0 "Muhammad Amin Bughra kommt auf uns zu"
- afghanistan.24.d:0 "Über dem üppigen Wakhan-Korridor ist ein Krieg in einem fernen Land ausgebrochen. Gerade heute in der Morgendämmerung ritten etwa vierzig Männer zu Pferd in Kābul ein, es scheint, als kämen sie aus dem Osten, aus der nun vom Krieg zerrissenen Region Tunganistan. Erschöpft vom tagelangen Ritt, aber immer noch mit viel zu vermittelnden Informationen, baten sie sofort darum, mit [AFG.GetLeader] zu sprechen. Nachdem sie festgestellt hatten, wer diese Männer wirklich waren, wurde ihrer Bitte entsprochen. [Der Anführer dieser Expedition war kein anderer als Muhammad Amin Bughra, der Führer der Republik Ostturkestan im Exil. Er und einige seiner Gefolgsleute waren Hunderte von Meilen gereist, um die Nachricht vom Kashgar-Aufstand nach Kābul zu bringen. Dabei hatten sie auch um militärische Unterstützung für Tunganistan gebeten. [Nachdem sie dies gehört hatten, rieten viele Generäle und hochrangige Offiziere der [AFG.GetAdjective]-Armee [AFG.GetLeaderbb, den Expeditionsreisenden nachzugeben, da unsere Unterstützung für sie von großer Bedeutung sein könnte, da sie die einzige ist, die sie haben."
+ afghanistan.24.d:0 "Über dem üppigen Wakhan-Korridor ist ein Krieg in einem fernen Land ausgebrochen. Gerade heute in der Morgendämmerung ritten etwa vierzig Männer zu Pferd in Kābul ein, es scheint, als kämen sie aus dem Osten, aus der nun vom Krieg zerrissenen Region Tunganistan. Erschöpft vom tagelangen Ritt, aber immer noch mit viel zu vermittelnden Informationen, baten sie sofort darum, mit [AFG.GetLeader] zu sprechen. Nachdem sie festgestellt hatten, wer diese Männer wirklich waren, wurde ihrer Bitte entsprochen. Der Anführer dieser Expedition war kein anderer als Muhammad Amin Bughra, der Führer der Republik Ostturkestan im Exil. Er und einige seiner Gefolgsleute waren Hunderte von Meilen gereist, um die Nachricht vom Kashgar-Aufstand nach Kābul zu bringen. Dabei hatten sie auch um militärische Unterstützung für Tunganistan gebeten. Nachdem sie dies gehört hatten, rieten viele Generäle und hochrangige Offiziere der [AFG.GetAdjective]-Armee [AFG.GetLeaderbb, den Expeditionsreisenden nachzugeben, da unsere Unterstützung für sie von großer Bedeutung sein könnte, da sie die einzige ist, die sie haben."
  afghanistan.24.a:0 "Unsere volle Unterstützung steht Ihnen zu."
  afghanistan.24.b:0 "Lasst nur die eifrigsten Männer gehen."
  afghanistan.24.c:0 "Wachen! Schmeißt diese Männer raus!"
@@ -561,7 +561,7 @@
  afghanistan.46.a:0 "Ausgezeichnet!"
 
  afghanistan.47.t:0 "Die [GER.GetAdjective]s lehnen ab"
- afghanistan.47.d:0 "Die [GER.GetAdjective]s haben es unter Hinweis auf ihre Priorität der Verteidigung des [GER.GetAdjective]bb-Territoriums abgelehnt, Truppen zur Verteidigung von [AFG.GetNameDef] zu entsenden."
+ afghanistan.47.d:0 "Die [GER.GetAdjective]s haben es unter Hinweis auf ihre Priorität der Verteidigung des [GER.GetAdjective]-Territoriums abgelehnt, Truppen zur Verteidigung von [AFG.GetNameDef] zu entsenden."
  afghanistan.47.a:0 "Einmal mehr ein einsamer Wolf."
 
  afghanistan.48.t:0 "Kommunisten stürmen [266.GetName]"
@@ -662,7 +662,7 @@
  afghanistan.72.a:0 "Wir müssen herzliche Beziehungen zu Afghanistan aufrechterhalten."
  afghanistan.72.b:0 "Das geht nicht, alter Freund."
 
- afghanistan.73.t:0 "[AFG_country_for_pakistan_press.GetNameDefCapbb Akzeptiert"
+ afghanistan.73.t:0 "[AFG_country_for_pakistan_press.GetNameDefCap] Akzeptiert"
  afghanistan.73.d:0 "Die Regierung von [AFG_country_for_pakistan_press.GetAdjective] hat eine strategische Entscheidung getroffen, uns die Kontrolle über [444.GetName], [442.GetName] und [445.GetName] zu übertragen. Sie haben den Wunsch nach weiterer Zusammenarbeit mit Afghanistan geäußert und angeführt, dass die Regierung von [AFG_country_for_pakistan_press.GetAdjective] Afghanistan eher als Verbündeten denn als Feind sieht."
  afghanistan.73.a:0 "Wunderbar!"
 
@@ -694,7 +694,7 @@
  afghanistan.79.a:0 "Wir müssen auf der Hut sein!"
 
  afghanistan.80.t:0 "Der Limonadenverkäufer"
- afghanistan.80.d:0 "Für Ayub war es ein ganz normaler Tag. Er war durch die engen Gassen von Kābul gelaufen und hatte seine Limonade verkauft: "Limonade! Kauft sie hier, Leute! Nur 30 Afghanis!". Als der Tag langsam verging, konnte Ayub nicht umhin zu bemerken, dass er fast seine gesamte Limonade verkauft hatte, was nicht alltäglich war. Als die Sonne hinter dem fernen Horizont unterging, war es für ihn an der Zeit, nach Hause zu gehen. Auf dem Heimweg fragte er sich jedoch, ob die Menschen in Afghanistan tatsächlich reicher werden, oder ob der heutige Tag nur ein Zufall war? [Als er durch das Fenster seines Zimmers auf die Anfänge blickte, begann er langsam in das Reich der Träume abzudriften. So lösten sich diese Gedanken allmählich in die dichte und heiße Luft auf... morgen ist nur ein weiterer Tag..."
+ afghanistan.80.d:0 "Für Ayub war es ein ganz normaler Tag. Er war durch die engen Gassen von Kābul gelaufen und hatte seine Limonade verkauft: "Limonade! Kauft sie hier, Leute! Nur 30 Afghanis!". Als der Tag langsam verging, konnte Ayub nicht umhin zu bemerken, dass er fast seine gesamte Limonade verkauft hatte, was nicht alltäglich war. Als die Sonne hinter dem fernen Horizont unterging, war es für ihn an der Zeit, nach Hause zu gehen. Auf dem Heimweg fragte er sich jedoch, ob die Menschen in Afghanistan tatsächlich reicher werden, oder ob der heutige Tag nur ein Zufall war? \nAls er durch das Fenster seines Zimmers auf die Anfänge blickte, begann er langsam in das Reich der Träume abzudriften. So lösten sich diese Gedanken allmählich in die dichte und heiße Luft auf... morgen ist nur ein weiterer Tag..."
  afghanistan.80.a:0 "Sehr interessant..."
 
  afghanistan.81.t:0 "Subbhas Chandra Bose verschwindet"
@@ -727,7 +727,7 @@
  afghanistan.86.b:0 "Verdammt sei er!"
 
  afghanistan.87.t:0 "Die interne Krise"
- afghanistan.87.d:0 "Mit jedem Tag, der vergeht, wird die Situation in Afghanistan immer besorgniserregender. Mit Protesten im ganzen Land und öffentlichen Verurteilungen der Regierung und des Königs scheint das Land auf einen gefährlichen Weg des Krieges und des Blutvergießens zuzusteuern. Viele Stammesangehörige, insbesondere Hazaras, sind sehr unzufrieden mit der hohen Besteuerung, die ihnen auferlegt wird, und mit der zunehmenden Mobilisierung ihrer Stammesgenossen. Dies scheint in der Tat der Tropfen zu sein, der das Fass zum Überlaufen bringt. [Die Frage ist, ob es Afghanistan gelingen wird, sich irgendwie zu erholen und unnötiges Blutvergießen zu vermeiden, oder ob sich die Geschichte noch einmal wiederholen wird..."
+ afghanistan.87.d:0 "Mit jedem Tag, der vergeht, wird die Situation in Afghanistan immer besorgniserregender. Mit Protesten im ganzen Land und öffentlichen Verurteilungen der Regierung und des Königs scheint das Land auf einen gefährlichen Weg des Krieges und des Blutvergießens zuzusteuern. Viele Stammesangehörige, insbesondere Hazaras, sind sehr unzufrieden mit der hohen Besteuerung, die ihnen auferlegt wird, und mit der zunehmenden Mobilisierung ihrer Stammesgenossen. Dies scheint in der Tat der Tropfen zu sein, der das Fass zum Überlaufen bringt. \nDie Frage ist, ob es Afghanistan gelingen wird, sich irgendwie zu erholen und unnötiges Blutvergießen zu vermeiden, oder ob sich die Geschichte noch einmal wiederholen wird..."
  afghanistan.87.a:0 "Ein Sturm zieht auf..."
 
  afghanistan.88.t:0 "Bewaffnete Zusammenstöße in [1009.GetName]"
@@ -743,7 +743,7 @@
  afghanistan.90.a:0 "Ein Lichtblick?"
 
  afghanistan.91.t:0 "Die Loyalität von Daoud Khan?"
- afghanistan.91.d:0 "Die Unterstützung des Königs hat in allen politischen Bereichen Afghanistans nachgelassen. Das Militär, das einst eine Hochburg der Bārakzai war, hat sich politisiert und eine erhebliche Autonomie gegenüber der Zentralregierung und dem König erlangt. Damit stellt sich die Frage nach seiner Loyalität... Viele [AFG.GetAdjective]Militäroffiziere und Generäle haben Beziehungen zur lokalen Bevölkerung und zu Stammesangehörigen und sind leicht zu kaufen oder zu überreden. Es gibt Gerüchte, dass Mohammad Daoud Khan, der Gouverneur von Nangahar und General der königlichen [AFG.GetAdjective]bb-Armee, einen Sturz der Regierung plant. Ist das Militär vertrauenswürdig?"
+ afghanistan.91.d:0 "Die Unterstützung des Königs hat in allen politischen Bereichen Afghanistans nachgelassen. Das Militär, das einst eine Hochburg der Bārakzai war, hat sich politisiert und eine erhebliche Autonomie gegenüber der Zentralregierung und dem König erlangt. Damit stellt sich die Frage nach seiner Loyalität... Viele [AFG.GetAdjective]Militäroffiziere und Generäle haben Beziehungen zur lokalen Bevölkerung und zu Stammesangehörigen und sind leicht zu kaufen oder zu überreden. Es gibt Gerüchte, dass Mohammad Daoud Khan, der Gouverneur von Nangahar und General der königlichen [AFG.GetAdjective]-Armee, einen Sturz der Regierung plant. Ist das Militär vertrauenswürdig?"
  afghanistan.91.a:0 "Endet der Sturm?"
 
  afghanistan.92.t:0 "Allianz mit Pakistan?"
@@ -819,7 +819,7 @@
  AFG_begin_westernization:0 "Beginn der Industrialisierung"
  AFG_begin_westernization_desc:0 "Die Wirtschaft Afghanistans ist eine sehr einfache Wirtschaft, die aus dem Handel mit Rohstoffen und Materialien besteht. [AFG.GetNameDefCap] muss in das neue Zeitalter eintreten und den Prozess der Industrialisierung einleiten."
  AFG_import_electronics:0 "Elektronik importieren"
- AFG_import_electronics_desc:0 "[AFG.GetNameDefCap] muss viel Elektronik aus anderen Nationen wie [GER.GetName]bb oder [SOV.GetName]bb importieren, wenn wir unsere öffentlichen Arbeiten und unsere Verwaltung verbessern und von der uns gegebenen Technologie lernen wollen."
+ AFG_import_electronics_desc:0 "[AFG.GetNameDefCap] muss viel Elektronik aus anderen Nationen wie [GER.GetName] oder [SOV.GetName] importieren, wenn wir unsere öffentlichen Arbeiten und unsere Verwaltung verbessern und von der uns gegebenen Technologie lernen wollen."
  AFG_rural_schools:0 "Ländliche Schulen bauen"
  AFG_rural_schools_desc:0 "Die ländlichen Regionen, die von Kābul und der zentralen Verwaltung von [AFG.GetNameDefCap] abgekoppelt sind, tragen am meisten zu dem Analphabetenproblem bei, mit dem [AFG.GetNameDefCap] derzeit konfrontiert ist. Wir müssen unsere Bildungsmethoden auf dem Land verbessern."
  AFG_rural_development:0 "Ländliche Entwicklung"
@@ -892,7 +892,7 @@
  AFG_destroyers:0 "Entwicklung einer Zerstörerflotte"
  AFG_destroyers_desc:0 "[AFG.GetNameDefCap] braucht eine Flotte von Zerstörern, die zum Minenlegen und für Nahkämpfe eingesetzt werden können."
  AFG_cruisers:0 "Kreuzer entwickeln"
- AFG_cruisers_desc:0 "[AFG.GetNameDefCapbb braucht eine Flotte von leichten Kreuzern, die zum Schutz unserer anderen Seestreitkräfte und im Nahkampf eingesetzt werden können."
+ AFG_cruisers_desc:0 "[AFG.GetNameDefCap] braucht eine Flotte von leichten Kreuzern, die zum Schutz unserer anderen Seestreitkräfte und im Nahkampf eingesetzt werden können."
  AFG_battleships:0 "Schlachtschiffe entwickeln"
  AFG_battleships_desc:0 "[AFG.GetNameDefCap] braucht eine Flotte von Schlachtschiffen, die zum Schutz unserer anderen Seestreitkräfte und für Fernkämpfe eingesetzt werden können."
  AFG_naval_building:0 "Förderung des Schiffbaus"
@@ -1196,7 +1196,7 @@
  ######## FASCIST FOCUSES ######## ""
 
  AFG_contact_faqir:0 "Das Vermächtnis der Rebellion von Chost"
- AFG_contact_faqir_desc:0 "In den letzten zwei Jahrzehnten der Unabhängigkeit von [AFG.GetAdjective]bb von der [ENG.GetAdjective] gab es in Afghanistan viele Rebellionen, Aufstände und Putsche. Einer davon war der Aufstand von Khost im Jahr 1924 gegen die radikalen Reformen von König Amanullah, der damals zwar niedergeschlagen wurde, dessen Geist aber weiterlebt."
+ AFG_contact_faqir_desc:0 "In den letzten zwei Jahrzehnten der Unabhängigkeit von [AFG.GetAdjective] von der [ENG.GetAdjective] gab es in Afghanistan viele Rebellionen, Aufstände und Putsche. Einer davon war der Aufstand von Khost im Jahr 1924 gegen die radikalen Reformen von König Amanullah, der damals zwar niedergeschlagen wurde, dessen Geist aber weiterlebt."
  AFG_waaidu:0 "Wa'aidu"
  AFG_waaidu_desc:0 "Wa'aidu ist ein Zitat aus dem Koran, das einfach übersetzt so viel wie "Sei bereit" bedeutet. Wir haben lange genug auf diesen Moment gewartet! Jetzt ist er endlich da, das Volk wird sich gegen die Diktatur unserer Tyrannen erheben, und der König wird nicht mehr herrschen, Inshallah!"
  AFG_contact_tribes:0 "Kontakt zu den Stämmen"
@@ -1299,7 +1299,7 @@
  AFG_infiltrate_baluchistan:0 "Infiltrieren Sie Belutschistan"
  AFG_infiltrate_peshawar:0 "Infiltrieren Sie Peshawar"
  AFG_infiltrate_quetta:0 "Infiltriert Quetta"
- AFG_infiltrating_tt:0 "[Wenn wir diesen Staat besetzen, werden wir von der einheimischen Bevölkerung unterstützt."
+ AFG_infiltrating_tt:0 "\nWenn wir diesen Staat besetzen, werden wir von der einheimischen Bevölkerung unterstützt."
  AFG_declare_war:0 "4. [GetRajAdjective]-[AFG.GetAdjective] Krieg"
  AFG_second_loya_jirga_mission:0 "Mohammad Gul Khan Momand anheuern"
  AFG_third_loya_jirga_mission:0 "Ländliche Provinzen entwickeln"
@@ -1520,7 +1520,7 @@
  AFG_loya_jirga_desc:0 "Die Loya Jirga, was soviel wie "Großer Rat" bedeutet, ist eine sehr prominente Art und Weise, wie sich Stammesführer und die Könige und Herrscher von [AFG.GetNameDefCap] treffen und wichtige Themen besprechen. Diese Loya Jirga wird nicht anders sein, denn es gibt eine Vielzahl von Themen zu besprechen!"
  AFG_purged_bourgeoisie_tt:0 "§OAlle Loyalisten und Unterstützer des Königs werden zusammen mit hochrangigen Mitgliedern der [AFG.GetAdjective]-Gesellschaft gesäubert.§!"
  AFG_soviet_expedition_tt:0 "§RDas Einladen von [SOV.GetAdjective] Gesandten wird höchstwahrscheinlich dazu führen, dass [AFG.GetNameDef] zu einer Marionette von [SOV.GetNameDef] wird!§!"
- AFG_get_tajikistan_tt:0 "§Y[AFG.GetNameDefCap]§! wird §G[742.GetName]bb bekommen§!."
+ AFG_get_tajikistan_tt:0 "§Y[AFG.GetNameDefCap]§! wird §G[742.GetName] bekommen§!."
  AFG_operation_coutenance_tt:0 "§GWir werden dem [SOV.GetNameDef]§! eine gemeinsame Invasion von [PER.GetNameDef]§! vorschlagen."
  AFG_soviet_trade_agreement_tt:0 "§OWenn der Fokus [SOV.GetAdjective] Gesandte einladen abgeschlossen ist, erhalten wir erhebliche Boni.§!"
  AFG_become_ssr:0 "§Y[AFG.GetNameDefCap]§! wird eine §Yintegrierte Marionette§! von §Y[SOV.GetNameDef]§! und erhält Kontrolle und Kerne über Staaten in §Y[SOV.GetAdjective] Zentralasien§!."
@@ -1529,7 +1529,7 @@
  AFG_soviet_infiltration_tt:0 "Bei Beginn des §Y[SOV.GetAdjective]§!-§Y[AFG.GetAdjective]§! Krieges werden Gebäude in diesem Staat §Rbeschädigt werden.§!"
  AFG_soviet_infiltration_railways_tt:0 "Bei Beginn des §Y[SOV.GetAdjective]§!-§Y[AFG.GetAdjective]§! Krieges werden Eisenbahnen in diesem Staat §Rbeschädigt.§!"
  AFG_soviet_infiltration_garissons_tt:0 "Bei Beginn des §Y[SOV.GetAdjective]§!-§Y[AFG.GetAdjective]§! Krieges, werden wir in diesem Staat eine §YAnti-[SOV.GetAdjective] Garisson-Einheit§! erhalten."
- AFG_declare_independence_tt:0 "§Y[AFG.GetNameDefCap]§! erklärt seine Unabhängigkeit.\n\n§Y[AFG.GetNameDefCap]§! erklärt den Krieg gegen die §Y[SOV.GetNameDefCap]§!\n\nFür jeden §Y[SOV.GetAdjective]bb Garisson Infiltrated§! Staat, erschaffe eine §YAnti-Soviet Garisson Unit§! in jedem Staat.\n\nFür jeden §Y[SOV. GetAdjective] Factories Infiltrated§! Staat, beschädige §YMilitary Factories§!, §YCivilian Factories§! und §YDockyards§! in den Staaten. \n\nFür jeden §Y[SOV.GetAdjective] Eisenbahnen sabotiert§! Staat, beschädige §YInfrastruktur§!, §YEisenbahnen§! und §YNachschubknotenpunkte§! in den Staaten."
+ AFG_declare_independence_tt:0 "§Y[AFG.GetNameDefCap]§! erklärt seine Unabhängigkeit.\n\n§Y[AFG.GetNameDefCap]§! erklärt den Krieg gegen die §Y[SOV.GetNameDefCap]§!\n\nFür jeden §Y[SOV.GetAdjective] Garisson Infiltrated§! Staat, erschaffe eine §YAnti-Soviet Garisson Unit§! in jedem Staat.\n\nFür jeden §Y[SOV. GetAdjective] Factories Infiltrated§! Staat, beschädige §YMilitary Factories§!, §YCivilian Factories§! und §YDockyards§! in den Staaten. \n\nFür jeden §Y[SOV.GetAdjective] Eisenbahnen sabotiert§! Staat, beschädige §YInfrastruktur§!, §YEisenbahnen§! und §YNachschubknotenpunkte§! in den Staaten."
  AFG_declare_independence_tt_2:0 "§Y[AFG.GetNameDefCap]§! erklärt dem §Y[SOV.GetNameDefCap]§!\n\nKrieg für jeden §Y[SOV.GetAdjective] Garisson Infiltrated§! Staat eine §YAntisowjetische Garisson-Einheit§! in jedem Staat.\n\nFür jede §Y[SOV.GetAdjective] Fabriken Infiltriert§! Staat, beschädigt §YMilitärische Fabriken§!, §YZivile Fabriken§! und §YWerften§! in den Staaten.\n\nFür jeden §Y[SOV. GetAdjective] Railways Sabotaged§! state, damage §YInfrastructure§!, §YRailways§! and §YSupply Hubs§! in the states."
  AFG_persia_communist_state_tt:0 "Dieser Staat wird sich bei Beginn des Bürgerkriegs der §Y[PER.GetCommunistParty]§! Seite anschließen."
  AFG_persia_anti_communist_state_tt:0 "Wir werden die kommunistische Unterstützung in diesem Staat löschen, er wird bei Beginn des Bürgerkriegs auf unserer Seite bleiben."

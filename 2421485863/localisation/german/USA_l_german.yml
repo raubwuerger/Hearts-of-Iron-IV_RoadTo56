@@ -14,7 +14,7 @@
  sons_of_liberty:0 "Söhne der Freiheit"
  sons_of_liberty_desc:0 "Wir haben die Tyrannei einmal bekämpft, wir werden sie wieder bekämpfen."
  deo_vindice:0 "Deo vidice"
- deo_vindice_desc:0 ""Unter Gott, unserem Vindicator" rt56_office_of_econimic_warfare_idea:0 "Office of Economic Warfare"
+ deo_vindice_desc:0 "nter Gott, unserem Vindicator" rt56_office_of_econimic_warfare_idea:0 "Office of Economic Warfare"
  rt56_office_of_econimic_warfare_idea_desc:0 ""
  r56_USA_world_loco_motive_works:0 "Die Lokomotivwerke der Welt"
  r56_USA_world_loco_motive_works_desc:0 "Während der Rest der Welt mit der Produktion von Kriegsgütern beschäftigt ist. Wir haben die Industrie, um die Flaute in der Weltproduktion von Lokomotiven auszugleichen."
@@ -96,7 +96,8 @@
  USA_army_rangers_desc:0 ""
  USA_army_rangers_tt:0 "Aktiviert §HArmy Rangers§!\n§HInfanterie\n Harter Angriff: §G+25%§!\n Durchbruch: §G+25%§!§!\n§HMotorisierter\n Harter Angriff: §G+25%§!\n Durchbruch: §G+25%§!§!\n§HMechanisiert\n Harte Attacke: §G+25%§!\n Durchbruch: §G+25%§!§!"
  USA_coordinate_branch_logistics:0 "Koordinierungsstelle Logistik"
- USA_coordinate_branch_logistics_desc:0 "" r56_USA_koordinate_branch_logistics_tt:0"§RDies hat nur Wirkung im Krieg!§!\n"
+ USA_coordinate_branch_logistics_desc:0 "" 
+ r56_USA_koordinate_branch_logistics_tt:0 "§RDies hat nur Wirkung im Krieg!§!\n"
  USA_walkie_talkies:0 "Walkie-Talkies"
  USA_walkie_talkies_desc:0 ""
  USA_walkie_talkies_tt:0 "Aktiviert §HWalkie-Talkies§!\nBodenunterstützung: §G+5%§!\nVerstärkungsrate: §G+5%§!\nCoordination: §G+5%§!"
@@ -366,7 +367,7 @@
 
  #events# ""
  r56_usa.6.t:0 "Das Schicksal von Hawaii"
- r56_usa.6.desc:0 "Der Ausblick der Staatsbeamten hat den bevölkerungsreichsten Teil unserer Besitztümer im Pazifikraum erreicht: Hawaii. [Das ehemalige Königreich Hawaii geriet in den 1850er Jahren unter den Einfluss von [USA.getNameDef], als unsere Diplomaten und Kaufleute mehrere Freundschafts- und gegenseitige Schutzverträge mit der örtlichen Regierung abschlossen. Die besagten Gebiete wurden im Rahmen eines Annexionsvertrags in unsere Nation eingegliedert, wobei den hawaiianischen Politikern eine angemessene Vertretung im Kongress versprochen wurde. [Bisher waren wir nicht in der Lage, die Versprechen an die Bevölkerung zu erfüllen, was bedeutet, dass unser politisches Credo "Freiheit und Gerechtigkeit für alle" für die örtliche Bevölkerung nichts als ein leeres Wort ist. \n\nDie Zeit ist gekommen, dies ein für alle Mal zu ändern, von nun an soll Hawaii... "
+ r56_usa.6.desc:0 "Der Ausblick der Staatsbeamten hat den bevölkerungsreichsten Teil unserer Besitztümer im Pazifikraum erreicht: Hawaii. \nDas ehemalige Königreich Hawaii geriet in den 1850er Jahren unter den Einfluss von [USA.getNameDef], als unsere Diplomaten und Kaufleute mehrere Freundschafts- und gegenseitige Schutzverträge mit der örtlichen Regierung abschlossen. Die besagten Gebiete wurden im Rahmen eines Annexionsvertrags in unsere Nation eingegliedert, wobei den hawaiianischen Politikern eine angemessene Vertretung im Kongress versprochen wurde. \nBisher waren wir nicht in der Lage, die Versprechen an die Bevölkerung zu erfüllen, was bedeutet, dass unser politisches Credo "Freiheit und Gerechtigkeit für alle" für die örtliche Bevölkerung nichts als ein leeres Wort ist. \n\nDie Zeit ist gekommen, dies ein für alle Mal zu ändern, von nun an soll Hawaii... "
  r56_usa.6.a:0 "... ihre gewünschte Freiheit genießen."
  r56_usa.6.b:0 "... die lokale Autonomie erhalten."
  r56_usa.6.c:0 "... als neuer Staat integriert werden."
@@ -393,7 +394,7 @@
  r56_usa_deaths.2.a:0 "Der Vater der Panzertruppe wird nie vergessen werden."
 
  #Vanilla Overrides ""
- USA_manifest_destiny_r56:0 ""The New Manifest Destiny" #Rückbesinnung mit besserem Namen. Notbehelf"
+ USA_manifest_destiny_r56:0 "The New Manifest Destiny"
  USA_manifest_destiny_r56_desc:0 "Unser Land wurde durch die Politik der aggressiven Expansion unserer Nation groß. Es ist an der Zeit, dass wir zu dieser Politik zurückkehren."
 
  mtg_usa_civil_war_fascists.20.b:0 "Dixie muss verteidigt werden!"

@@ -109,7 +109,7 @@
  LAT_naval_contract_tt:0 "Habe mit einem §Yausländischen Attaché§! zweimal diskutiert"
 
  LAT_mobilization_plans:0 "Lettische Mobilisierungspläne"
- LAT_mobilization_plans_desc:0 "Die verschiedenen Mobilisierungspläne, die von unserem Generalstab ausgearbeitet wurden, werden uns in die Lage versetzen, auf eine ausländische Aggression effizient zu reagieren. Drei große Pläne sind vorbereitet worden:\n\nDer §YPlan A§! sieht einen Angriff der UdSSR von Osten und eventuell von Norden vor.\n\nDer §YPlan D[~§! ~Der §YPlan K§!, der als äußerst unwahrscheinlich gilt, postuliert einen gleichzeitigen Angriff Deutschlands und der Sowjetunion."
+ LAT_mobilization_plans_desc:0 "Die verschiedenen Mobilisierungspläne, die von unserem Generalstab ausgearbeitet wurden, werden uns in die Lage versetzen, auf eine ausländische Aggression effizient zu reagieren. Drei große Pläne sind vorbereitet worden:\n\nDer §YPlan A§! sieht einen Angriff der UdSSR von Osten und eventuell von Norden vor.\n\nDer §YPlan D§! Der §YPlan K§!, der als äußerst unwahrscheinlich gilt, postuliert einen gleichzeitigen Angriff Deutschlands und der Sowjetunion."
  LAT_plan_A:0 "Plan A"
  LAT_plan_D:0 "Plan D"
  LAT_plan_K:0 "Plan K"
@@ -372,4 +372,4 @@
  LAT_event.8.a:0 "Fricis Menders wird die Präsidentschaft übernehmen."
  LAT_event.8.b:0 "Lacis Villis wird stattdessen als Staatsoberhaupt fungieren."
 
- LAT_suspend_the_constitution:0 ""Verfassung aussetzen" #inkonsistenter Name der dritten Person im Fokus"
+ LAT_suspend_the_constitution:0 "erfassung aussetzen" #inkonsistenter Name der dritten Person im Fokus"

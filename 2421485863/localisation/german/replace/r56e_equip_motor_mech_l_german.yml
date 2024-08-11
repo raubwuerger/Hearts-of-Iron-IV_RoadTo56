@@ -84,7 +84,7 @@
 
 
  #Railway gun ""
- railway_gun:0 ""Railway Gun" #Tech-Name, wird im Fokus nicht richtig angezeigt JAP_divert_naval_guns_to_the_army"
+ railway_gun:0 "ailway Gun" #Tech-Name, wird im Fokus nicht richtig angezeigt JAP_divert_naval_guns_to_the_army"
 
  AFG_motorized_rocket_equipment_1:0 "BM-24-12 Katjuschka"
  AFG_motorized_rocket_equipment_1_short:0 "BM-24-12"
@@ -101,7 +101,7 @@
  AFG_mechanized_equipment_x_2:0 "Bronetransportyor BTR-50P"
  AFG_mechanized_equipment_x_2_short:0 "BTR-50P"
 
- ALB_train_equipment_1:0 ""HSH J11" #gemacht"
+ ALB_train_equipment_1:0 "SH J11" #gemacht"
  ALB_train_equipment_1_short:0 "HSH J11 "
 
  ARG_motorized_rocket_equipment_1:0 "Lanzacohetes 127mm M1943"
@@ -138,11 +138,11 @@
  AUS_amphibious_mechanized_equipment_2_short:0 "LWS II"
  AUS_train_equipment_1:0 "BBÖ 81 "
  AUS_train_equipment_1_short:0 "BBÖ 81"
- AUS_train_equipment_2:0 ""BBÖ 520" #Konfektioniert"
+ AUS_train_equipment_2:0 "BÖ 520" #Konfektioniert"
  AUS_train_equipment_2_short:0 "BBÖ 520"
- AUS_train_equipment_4:0 ""BBÖ 614" #Made up"
+ AUS_train_equipment_4:0 "BÖ 614" #Made up"
  AUS_train_equipment_4_short:0 "BBÖ 614"
- AUS_train_equipment_5:0 ""BBÖ 2143" ##Erfunden, aber basierend auf der realen Klasse, aber 20 Jahre voraus. Besser als nichts"
+ AUS_train_equipment_5:0 "BÖ 2143" ##Erfunden, aber basierend auf der realen Klasse, aber 20 Jahre voraus. Besser als nichts"
  AUS_train_equipment_5_short:0 "BBÖ 2143"
 
  BEL_motorized_rocket_equipment_1:0 "Fusée 110 modèle 1942"
@@ -162,9 +162,9 @@
  BEL_amphibious_mechanized_equipment_1_short:0 "LVT-2"
  BEL_amphibious_mechanized_equipment_2:0 "Landefahrzeug Raupenfahrzeug 4"
  BEL_amphibious_mechanized_equipment_2_short:0 "LVT-4"
- BEL_train_equipment_1:0 ""SNCFB Type 1" #wenn Sie eine bessere Lösung finden, ersetzen Sie sie-> Französisch ist dominant, also verwenden Sie SNCB anstelle von NMBS (Entschuldigung für alle niederländischsprachigen Leser) (eigentlich SNCFB zu der Zeit) Typ 10 von 1910-14 wurde durch Typ 1 von 1935-38 ersetzt. Der Typ 1 ist der Nachfolger des Modells 35, weil die Zählung 1931 wieder aufgenommen wurde...einfach."
+ BEL_train_equipment_1:0 "NCFB Type 1" #wenn Sie eine bessere Lösung finden, ersetzen Sie sie-> Französisch ist dominant, also verwenden Sie SNCB anstelle von NMBS (Entschuldigung für alle niederländischsprachigen Leser) (eigentlich SNCFB zu der Zeit) Typ 10 von 1910-14 wurde durch Typ 1 von 1935-38 ersetzt. Der Typ 1 ist der Nachfolger des Modells 35, weil die Zählung 1931 wieder aufgenommen wurde...einfach."
  BEL_train_equipment_1_short:0 "SNCFB Typ 1"
- BEL_train_equipment_2:0 ""SNCB Type 29" #eigentlich Marshall-Plan-Lokomotiven, aber besser als nichts."
+ BEL_train_equipment_2:0 "NCB Type 29" #eigentlich Marshall-Plan-Lokomotiven, aber besser als nichts."
  BEL_train_equipment_2_short:0 "SNCB Typ 29 "
 
  COG_motorized_rocket_equipment_1:0 "Fusée 110 modèle 1942"
@@ -184,7 +184,7 @@
  COG_amphibious_mechanized_equipment_1_short:0 "LVT-2"
  COG_amphibious_mechanized_equipment_2:0 "Landefahrzeug Raupenfahrzeug 4"
  COG_amphibious_mechanized_equipment_2_short:0 "LVT-4"
- COG_train_equipment_1:0 ""SNCFB Typ 1 #Gleich wie BEL"
+ COG_train_equipment_1:0 "NCFB Typ 1 #Gleich wie BEL"
  COG_train_equipment_1_short:0 "SNCFB-Typ 1"
 
  FLA_motorized_rocket_equipment_1:0 "Fusée 110 modèle 1942"
@@ -204,9 +204,9 @@
  FLA_amphibious_mechanized_equipment_1_short:0 "LVT-2"
  FLA_amphibious_mechanized_equipment_2:0 "Landefahrzeug Raupenfahrzeug 4"
  FLA_amphibious_mechanized_equipment_2_short:0 "LVT-4"
- FLA_train_equipment_1:0 ""NMBS Typ 1" #Angepasst von Belgien."
+ FLA_train_equipment_1:0 "MBS Typ 1" #Angepasst von Belgien."
  FLA_train_equipment_1_short:0 "NMBS Typ 1"
- FLA_train_equipment_2:0 ""NMBS Type 29" #Eigentlich Marshall-Plan-Lokomotiven, aber besser als nichts."
+ FLA_train_equipment_2:0 "MBS Type 29" #Eigentlich Marshall-Plan-Lokomotiven, aber besser als nichts."
  FLA_train_equipment_2_short:0 "NMBS Typ 29 "
 
  WLL_motorized_rocket_equipment_1:0 "Fusée 110 modèle 1942"
@@ -226,9 +226,9 @@
  WLL_amphibious_mechanized_equipment_1_short:0 "LVT-2"
  WLL_amphibious_mechanized_equipment_2:0 "Landefahrzeug Raupenfahrzeug 4"
  WLL_amphibious_mechanized_equipment_2_short:0 "LVT-4"
- WLL_train_equipment_1:0 ""SNCFW Typ 1" #Angepasst von Belgien"
+ WLL_train_equipment_1:0 "NCFW Typ 1" #Angepasst von Belgien"
  WLL_train_equipment_1_short:0 "SNCFW Bauart 1"
- WLL_train_equipment_2:0 ""SNCW Type 29" #eigentlich Marshall-Plan-Lokomotiven, aber besser als nichts."
+ WLL_train_equipment_2:0 "NCW Type 29" #eigentlich Marshall-Plan-Lokomotiven, aber besser als nichts."
  WLL_train_equipment_2_short:0 "SNCW Typ 29  "
 
  BOL_motorized_rocket_equipment_1:0 "Lanzacohetes 127mm M1943"
@@ -485,8 +485,8 @@
  ENG_amphibious_mechanized_equipment_2_desc:0 "Ein verbesserter Nachfolger des Terrapin Mk.1, der deutlich länger war und einen vorderen Fahrerplatz hatte."
  ENG_r56_gw_railway_gun_equipment:0 "BL 9,2-Zoll Mk. III"
  ENG_r56_gw_railway_gun_equipment_short:0 "BL 9,2-Zoll Mk. III"
- ENG_railway_gun_equipment:0 ""BL 9,2-Zoll MK. XIII" #Vanille Überbrückung"
- ENG_railway_gun_equipment_short:0 ""BL 9,2-Zoll MK. XIII " #vanilla override"
+ ENG_railway_gun_equipment:0 "L 9,2-Zoll MK. XIII" #Vanille Überbrückung"
+ ENG_railway_gun_equipment_short:0 "L 9,2-Zoll MK. XIII " #vanilla override"
  ENG_train_equipment_side_tanks:0 "WD USA Panzer"
  ENG_train_equipment_side_tanks_short:0 "WD USA Panzer"
  ENG_train_equipment_4:0 "WD Klasse Q1"
@@ -688,7 +688,7 @@
  FRA_mechanized_equipment_x_short:0 "TT 12 CH 56"
  FRA_mechanized_equipment_x_2:0 "Truppentransporter Chenillé modèle M75"
  FRA_mechanized_equipment_x_2_short:0 "TT M75"
- FRA_r56_gw_railway_gun_equipment:0 ""Canon de modele 520 1916" #PDX Namensschema für französische Geschütze ist schlecht, aber es funktioniert"
+ FRA_r56_gw_railway_gun_equipment:0 "anon de modele 520 1916" #PDX Namensschema für französische Geschütze ist schlecht, aber es funktioniert"
  FRA_r56_gw_railway_gun_equipment_short:0 "Kanone de 520"
  FRA_r56_railway_mortar_equipment:0 "Canon de modele 200 'Pérou'"
  FRA_r56_railway_mortar_equipment_short:0 "Kanone modèle 200"
@@ -747,7 +747,7 @@
  GER_r56_railway_mortar_equipment_short:0 "Nathan"
  GER_train_equipment_4:0 "DRB 42 Klasse"
  GER_train_equipment_4_short:0 "DRB 42er Klasse"
- GER_train_equipment_5:0 ""DRB 10000 Klasse" #made up "
+ GER_train_equipment_5:0 "RB 10000 Klasse" #made up "
  GER_train_equipment_5_short:0 "DRB 10000 Klasse"
 
 
@@ -820,7 +820,7 @@
  HOL_amphibious_mechanized_equipment_1_short:1 "DAF MC-139"
  HOL_amphibious_mechanized_equipment_2:0 "DAF YE500 Porter"
  HOL_amphibious_mechanized_equipment_2_short:0 "DAF Porter"
- HOL_train_equipment_1:0 ""NS 3700 Class" #beste Passform "
+ HOL_train_equipment_1:0 "S 3700 Class" #beste Passform "
  HOL_train_equipment_1_short:0 "NS 3700 Klasse"
 
  INS_motorized_rocket_equipment_1:0 "12,7cm Rakete M.43"
@@ -840,7 +840,7 @@
  INS_amphibious_mechanized_equipment_1_short:1 "DAF MC-139"
  INS_amphibious_mechanized_equipment_2:0 "DAF YE500 Porter"
  INS_amphibious_mechanized_equipment_2_short:0 "DAF Porter"
- INS_train_equipment_1:0 ""Class D50" #bessere Passform existiert. War zu faul für diese"
+ INS_train_equipment_1:0 "lass D50" #bessere Passform existiert. War zu faul für diese"
  INS_train_equipment_1_short:0 "Klasse D50"
 
  HUN_motorized_rocket_equipment_1:0 "Páncélozott Rakéta Nimród"
@@ -975,7 +975,7 @@
  LAT_mechanized_equipment_x_2:0 "Bruņotā Transportlīdzeklī M53"
  LAT_mechanized_equipment_x_2_short:0 "BT M53"
  LAT_train_equipment_1:0 "LRC 0-4-0T"
- LAT_train_equipment_1_short:0 ""LRC 0-4-0T" #made up"
+ LAT_train_equipment_1_short:0 "RC 0-4-0T" #made up"
 
  LIT_motorized_rocket_equipment_1:0 "150mm Raketa 42m."
  LIT_motorized_rocket_equipment_1:0 "150mm Raketa 42m."
@@ -991,7 +991,7 @@
  LIT_mechanized_equipment_x_2:0 "Bruņotā Transportlīdzeklī 53m."
  LIT_mechanized_equipment_x_2_short:0 "BT 53m."
  LIT_train_equipment_1:0 "LRA 0-8-2F"
- LIT_train_equipment_1_short:0 ""LRA 0-8-2F" #made up"
+ LIT_train_equipment_1_short:0 "RA 0-8-2F" #made up"
 
  MEX_motorized_rocket_equipment_1:0 "Lanzacohetes 127mm M1943"
  MEX_motorized_rocket_equipment_1_short:0 "127mm M1943"
@@ -1070,7 +1070,7 @@
  POR_mechanized_equipment_x_short:0 "VBL m/949"
  POR_mechanized_equipment_x_2:0 "Blindschleiche von Lagartas m/953"
  POR_mechanized_equipment_x_2_short:0 "VBL m/953"
- POR_train_equipment_1:0 ""BA 103" #bessere Passform vorhanden "
+ POR_train_equipment_1:0 "A 103" #bessere Passform vorhanden "
  POR_train_equipment_1_short:0 "BA 103"
 
  ROM_motorized_rocket_equipment_1:0 "Rachetă Blindate Kal. 150mm Md.1942"
@@ -1086,7 +1086,7 @@
  ROM_mechanized_equipment_x_short:0 "TP Md.1949"
  ROM_mechanized_equipment_x_2:0 "Transportoare Blindate Md.1953"
  ROM_mechanized_equipment_x_2_short:0 "TP Md.1953"
- ROM_train_equipment_1:0 ""CFR 230 Series" #bessere Passform könnte existieren"
+ ROM_train_equipment_1:0 "FR 230 Series" #bessere Passform könnte existieren"
  ROM_train_equipment_1_short:0 "CFR 230-Reihe"
 
  SOV_motorized_rocket_equipment_1:0 "BM-24-12 Katjuschka"
@@ -1125,7 +1125,7 @@
  MON_mechanized_equipment_x_2:0 "Bronetransportyor BTR-50P"
  MON_mechanized_equipment_x_2_short:0 "BTR-50P"
 
- MAL_train_equipment_1:0 ""SSR 2-8-0 Vulcan" #bessere Passform vorhanden"
+ MAL_train_equipment_1:0 "SR 2-8-0 Vulcan" #bessere Passform vorhanden"
  MAL_train_equipment_1_short:0 "SSR 2-8-0 Vulkan"
 
  PRC_motorized_rocket_equipment_1:0 "BM-24-12 Katjuschka"
@@ -1202,7 +1202,7 @@
  SPR_mechanized_equipment_x_short:0 "TBP M1949"
  SPR_mechanized_equipment_x_2:0 "Personenbeförderung in Blindform, Modell 1953"
  SPR_mechanized_equipment_x_2_short:0 "TBP M1953 "
- SPR_train_equipment_1:0 ""LDV G 4/5" #bessere Passform vorhanden "
+ SPR_train_equipment_1:0 "DV G 4/5" #bessere Passform vorhanden "
  SPR_train_equipment_1_short:0 "LDV G 4/5"
 
  SWE_motorized_rocket_equipment_1:0 "15cm Rakete m/42"
@@ -1286,7 +1286,7 @@
  USA_amphibious_mechanized_equipment_2_short:0 "LVT-4"
  USA_r56_gw_railway_gun_equipment:0 "Navy Railway Mount 14-Zoll Mk. IV "
  USA_r56_gw_railway_gun_equipment_short:0 "14-Zoll Mk. IV "
- USA_r56_railway_mortar_equipment:0 ""M1918-Waffen" #Die von uns verwendete Referenz wird auch M1888 genannt"
+ USA_r56_railway_mortar_equipment:0 "1918-Waffen" #Die von uns verwendete Referenz wird auch M1888 genannt"
  USA_r56_railway_mortar_equipment_short:0 "M1918"
  USA_train_equipment_side_tanks:0 "USATC S100 Klasse"
  USA_train_equipment_side_tanks_short:0 "USATC S100 Klasse"
@@ -1330,8 +1330,8 @@
  YUG_train_equipment_1_short:0 "JŽ 83 Klasse"
  YUG_train_equipment_2:0 "JŽ 32 Klasse"
  YUG_train_equipment_2_short:0 "JŽ 32 Klasse"
- YUG_train_equipment_3:0 ""JŽ 76A Klasse" #erfunden "
- YUG_train_equipment_3_short:0 ""JŽ 76A Klasse" #gebaut "
+ YUG_train_equipment_3:0 "Ž 76A Klasse" #erfunden "
+ YUG_train_equipment_3_short:0 "Ž 76A Klasse" #gebaut "
 
  BOS_motorized_rocket_equipment_1:0 "150mm Raketa M.42"
  BOS_motorized_rocket_equipment_1_short:0 "150mm Raketa M.42"

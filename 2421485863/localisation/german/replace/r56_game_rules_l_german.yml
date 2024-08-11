@@ -63,7 +63,7 @@
  RULE_OPTION_NEUTRALITY_SPANISH_GUARANTEE_ADR:0 "Neutralität - Spanische Garantie"
  RULE_OPTION_NEUTRALITY_SPANISH_GUARANTEE_ADR_AI_DESC:0 "Die andorranische KI wird den Weg der Neutralität fortsetzen und sich bei der spanischen Regierung um eine Garantie bemühen."
  RULE_OPTION_FLEXIBLE_FOREIGN_POLICY_ADR:0 "Flexible Außenpolitik"
- RULE_OPTION_FLEXIBLE_FOREIGN_POLICY_ADR_AI_DESC:0 "Die andorranische KI wird den Weg der Neutralität verlassen und eine neue Außenpolitik einführen, die das Land in eine neue Richtung führt. [Dieser Weg wird dazu führen, dass Andorra den generischen Fokusbaum erhält, der es ihm ermöglicht, stärker als üblich zu werden."
+ RULE_OPTION_FLEXIBLE_FOREIGN_POLICY_ADR_AI_DESC:0 "Die andorranische KI wird den Weg der Neutralität verlassen und eine neue Außenpolitik einführen, die das Land in eine neue Richtung führt. \nDieser Weg wird dazu führen, dass Andorra den generischen Fokusbaum erhält, der es ihm ermöglicht, stärker als üblich zu werden."
  RULE_OPTION_FRENCH_PROTECTORATE_ADR:0 "Französisches Protektorat"
  RULE_OPTION_FRENCH_PROTECTORATE_ADR_AI_DESC:0 "Die andorranische KI wird den Weg der Neutralität verlassen und die Integration in Frankreich als Protektorat anstreben."
 
@@ -378,7 +378,7 @@
  RULE_OPTION_COMMUNIST_YUG_AI_DESC:0 "Die jugoslawische KI wird unter Tito zum Kommunismus übergehen und der Komintern beitreten."
 
  ###---> Map Setup <><> <><> <><> ""
- RULE_GROUP_GAME_SETUP:0 ""Map Setup" #nicht nur Fragmentierung (mehr)"
+ RULE_GROUP_GAME_SETUP:0 "ap Setup" #nicht nur Fragmentierung (mehr)"
  RULE_GROUP_STARTING_CORES_SETUP:0 "Freisetzbare Kerne"
 
  #-> Remore some Releasables <><> ""
@@ -713,4 +713,4 @@
  RULE_OPTION_R56_LOOTBOX_OFF:0 "Keine Lootboxen"
  RULE_OPTION_R56_LOOTBOX_OFF_DESC:0 "Alfie's Lootboxen-Emporium bleibt geschlossen."
  RULE_OPTION_R56_LOOTBOX_ON:0 "Lootboxen einschalten"
- RULE_OPTION_R56_LOOTBOX_ON_DESC:0 "Alfie's Lootbox Emporium wird geöffnet und bietet Lootboxen an, mit verschiedenen Vorteilen, die man ernten kann! Bitte beachte, dass die KI dieses System nicht nutzen wird. [Das Road to 56 Team verherrlicht oder befürwortet weder das Glücksspiel noch das Ausgeben hoher Beträge für digitale Güter. Diese Funktion ist nur als Parodie gedacht.§!\n\n"
+ RULE_OPTION_R56_LOOTBOX_ON_DESC:0 "Alfie's Lootbox Emporium wird geöffnet und bietet Lootboxen an, mit verschiedenen Vorteilen, die man ernten kann! Bitte beachte, dass die KI dieses System nicht nutzen wird. \nDas Road to 56 Team verherrlicht oder befürwortet weder das Glücksspiel noch das Ausgeben hoher Beträge für digitale Güter. Diese Funktion ist nur als Parodie gedacht.§!\n\n"

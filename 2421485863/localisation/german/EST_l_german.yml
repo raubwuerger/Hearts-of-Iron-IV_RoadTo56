@@ -11,7 +11,7 @@
  est.11.t:0 "[From.GetName] Fordert [Root.GetAdjective] Teilnahme an der Baltischen Entente"
  est.11.d:0 "Mit der Unterzeichnung eines Freundschaftsvertrags zwischen unseren Nationen hat [From.GetName] darum gebeten, dass [Root.GetName] sich ihnen in ihrer [From.GetFactionName] anschließt, um sich gegen die wachsenden Bedrohungen zu vereinen, die unsere Nationen umgeben. Ob kommunistisch oder faschistisch, [From.GetName] verspricht, sich für die Interessen von [Root.GetAdjective] einzusetzen."
  est.11.a:0 "[Root.GetName] steht an der Seite seiner Brüder."
- est.11.b:0 "[Wurzel.GetName] kann nur alleine überleben."
+ est.11.b:0 "[Root.GetName] kann nur alleine überleben."
  est.12.t:0 "[From.GetName] Schließt sich der [Root.GetFactionName] an!"
  est.12.d:0 "In Anerkennung der Notwendigkeit der Einigkeit gegen die Bedrohungen, die unsere Länder von allen Seiten umgeben, hat [From.GetLeader] heute der Welt verkündet, dass [From.GetName] mit [Root.GetName] einen Vertrag geschlossen hat, um unsere gegenseitige Sicherheit zu gewährleisten."
  est.12.a:0 "[Root.GetName] und [From.GetName] stehen heute als Brüder da."

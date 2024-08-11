@@ -751,7 +751,7 @@
  #events ""
 
  egypt.1.t:0 "Tod von Fuad I."
- egypt.1.d:0 "Fuad I., der 5 Jahre lang als Sultan unserer Nation und dann weitere 14 Jahre als König diente, ist im königlichen Koubbeh-Palast im Schlaf gestorben. Er wurde 68 Jahre alt.\n\nFuad I. führte unsere Nation durch die späteren Phasen des Großen Krieges und überwachte die [EGY.GetAdjective]-Revolution von 1919 und die letztendliche Unabhängigkeitserklärung von [ENG.GetNameDef] im Jahr 1922, er fuhr dann fort, die Position von [EGY.GetNameDef] weltweit zu stärken und reformierte und formte das Königreich, wie wir es kennen. [Mit Fuads Tod wird sein Sohn Farouk als Farouk I. unmittelbarer Thronfolger. Da Farouk jedoch noch nicht volljährig ist, wird er bis zu seiner Volljährigkeit in einigen Jahren von Aziz Ezzat und mehreren anderen Prinzen regiert."
+ egypt.1.d:0 "Fuad I., der 5 Jahre lang als Sultan unserer Nation und dann weitere 14 Jahre als König diente, ist im königlichen Koubbeh-Palast im Schlaf gestorben. Er wurde 68 Jahre alt.\n\nFuad I. führte unsere Nation durch die späteren Phasen des Großen Krieges und überwachte die [EGY.GetAdjective]-Revolution von 1919 und die letztendliche Unabhängigkeitserklärung von [ENG.GetNameDef] im Jahr 1922, er fuhr dann fort, die Position von [EGY.GetNameDef] weltweit zu stärken und reformierte und formte das Königreich, wie wir es kennen. \nMit Fuads Tod wird sein Sohn Farouk als Farouk I. unmittelbarer Thronfolger. Da Farouk jedoch noch nicht volljährig ist, wird er bis zu seiner Volljährigkeit in einigen Jahren von Aziz Ezzat und mehreren anderen Prinzen regiert."
  egypt.1.a:0 "Ein Nationalheld verloren."
 
  egypt.2.t:0 "[getYear] Anglo-[EGY.GetAdjective] Konferenz"
@@ -777,7 +777,7 @@
  egypt.6.a:0 "Das hätte besser laufen können."
 
  egypt.7.t:0 "Vorschlag der [EGY.getAdjective] Unabhängigkeit"
- egypt.7.d:0 "Während der Verhandlungen mit unserer Delegation auf der Konferenz mit [EGY.GetNameDef] kamen die [EGY.GetAdjective]s direkt auf uns zu und fragten uns, was wir von ihrer vollständigen Unabhängigkeit hielten, ohne großen Einfluss oder Unterstützung von [ENG.GetAdjective]. [Obwohl wir erhebliche Interessen innerhalb von [EGY.GetNameDef] haben, ist es wichtig, dass wir eine klare Haltung zu dem Vorschlag einnehmen, sie vollständig auszuschließen, und inwieweit wir sie wirklich "unabhängig" sein lassen sollten."
+ egypt.7.d:0 "Während der Verhandlungen mit unserer Delegation auf der Konferenz mit [EGY.GetNameDef] kamen die [EGY.GetAdjective]s direkt auf uns zu und fragten uns, was wir von ihrer vollständigen Unabhängigkeit hielten, ohne großen Einfluss oder Unterstützung von [ENG.GetAdjective]. \nObwohl wir erhebliche Interessen innerhalb von [EGY.GetNameDef] haben, ist es wichtig, dass wir eine klare Haltung zu dem Vorschlag einnehmen, sie vollständig auszuschließen, und inwieweit wir sie wirklich "unabhängig" sein lassen sollten."
  egypt.7.a:0 "Wir sind nicht gegen eine vollständige [EGY.GetAdjective] Unabhängigkeit."
  egypt.7.b:0 "Ägypten ist zu wichtig, um es aufzugeben."
 
@@ -786,7 +786,7 @@
  egypt.8.a:0 "Eine höchst willkommene Neuigkeit."
 
  egypt.9.t:0 "[ENG.getNameDefCap] ist gegen unsere Unabhängigkeit."
- egypt.9.d:0 "[Die Delegation von [ENG.GetNameDefCap] in der Konferenz hat auf unsere Anfrage zur Aussicht auf unsere volle Unabhängigkeit geantwortet und unmissverständlich klar gemacht, dass sie unsere volle Unabhängigkeit verhindern wollen, da sie darin eine große Bedrohung für ihre Interessen und strategischen Ziele in unserem Land sehen. Mit einer solch arroganten Ansicht über die rechtmäßige Unabhängigkeit unseres Landes könnte es zunehmend schwieriger werden, mit [ENG.GetAdjective] effektiv zu verhandeln."
+ egypt.9.d:0 "\nDie Delegation von [ENG.GetNameDefCap] in der Konferenz hat auf unsere Anfrage zur Aussicht auf unsere volle Unabhängigkeit geantwortet und unmissverständlich klar gemacht, dass sie unsere volle Unabhängigkeit verhindern wollen, da sie darin eine große Bedrohung für ihre Interessen und strategischen Ziele in unserem Land sehen. Mit einer solch arroganten Ansicht über die rechtmäßige Unabhängigkeit unseres Landes könnte es zunehmend schwieriger werden, mit [ENG.GetAdjective] effektiv zu verhandeln."
  egypt.9.a:0 "Arrogante Narren."
 
  egypt.10.t:0 "[ENG.getNameDefCap] schickt uns industrielle Zugeständnisse"
@@ -815,7 +815,7 @@
  egypt.15.a:0 "Die Konferenz ist beendet."
 
  egypt.16.t:0 "Konferenz endet zu Gunsten von [ENG.getNameDef]"
- egypt.16.d:0 "Mit dem Ende der Konferenz ist klar, dass [ENG.GetNameDef] klar die Oberhand gegen [EGY.GetNameDef] gewonnen hat. Es ist klar, dass die [EGY.GetAdjective]s dazu bestimmt sind, den [ENG.GetAdjective]s untertan zu bleiben und dass ihre Idee der Unabhängigkeit lediglich eine Formalität ist, um die globalen Beziehungen zu stärken und die Menschen zu beschwichtigen. [Die Interessen von [ENG.GetAdjective] in [EGY.GetNameDef] sind nun mit eisernem Griff gestärkt worden. Mit dieser Entwicklung könnten jedoch die Unruhen innerhalb der Nation aufgrund von Anti-[ENG.GetAdjective]-Stimmungen zunehmen, und nur die Zeit wird zeigen, wie die Zukunft der Nation aussieht."
+ egypt.16.d:0 "Mit dem Ende der Konferenz ist klar, dass [ENG.GetNameDef] klar die Oberhand gegen [EGY.GetNameDef] gewonnen hat. Es ist klar, dass die [EGY.GetAdjective]s dazu bestimmt sind, den [ENG.GetAdjective]s untertan zu bleiben und dass ihre Idee der Unabhängigkeit lediglich eine Formalität ist, um die globalen Beziehungen zu stärken und die Menschen zu beschwichtigen. \nDie Interessen von [ENG.GetAdjective] in [EGY.GetNameDef] sind nun mit eisernem Griff gestärkt worden. Mit dieser Entwicklung könnten jedoch die Unruhen innerhalb der Nation aufgrund von Anti-[ENG.GetAdjective]-Stimmungen zunehmen, und nur die Zeit wird zeigen, wie die Zukunft der Nation aussieht."
  egypt.16.a:0 "Die Konferenz ist beendet."
 
  egypt.17.t:0 "Konferenz endet ergebnislos"
@@ -860,7 +860,7 @@
  egypt.25.a:0 "Sie weigern sich, das zurückzugeben, was uns rechtmäßig gehört."
 
  egypt.26.t:0 "Farouk I. erhebt sich auf den Thron"
- egypt.26.d:0 "Als Farouk volljährig wurde, fand seine Krönung im königlichen Palast in Kairo statt. Er wurde von der Kairoer Polizei und der königlichen Garde eskortiert und bei seiner Ankunft von mehreren Mitgliedern der [EGY.GetAdjective]-Regierung und Mitgliedern seines Kabinetts begrüßt. Nach seiner Ankunft wurde er als König von [EGY.GetNameDef] gekrönt und bestieg den Thron als Farouk I.\n\n~]Farouk ist der jüngste gekrönte Monarch in der Geschichte unseres Landes, und es bleibt abzuwarten, ob er in der Lage sein wird, das gleiche Prestige und Erbe seines Vaters zu halten."
+ egypt.26.d:0 "Als Farouk volljährig wurde, fand seine Krönung im königlichen Palast in Kairo statt. Er wurde von der Kairoer Polizei und der königlichen Garde eskortiert und bei seiner Ankunft von mehreren Mitgliedern der [EGY.GetAdjective]-Regierung und Mitgliedern seines Kabinetts begrüßt. Nach seiner Ankunft wurde er als König von [EGY.GetNameDef] gekrönt und bestieg den Thron als Farouk I.\n\n]Farouk ist der jüngste gekrönte Monarch in der Geschichte unseres Landes, und es bleibt abzuwarten, ob er in der Lage sein wird, das gleiche Prestige und Erbe seines Vaters zu halten."
  egypt.26.a:0 "Lang lebe Farouk I.!"
 
  egypt.27.t:0 "[getYear] Anglo-[EGY.GetAdjective] Konferenz"
@@ -942,7 +942,7 @@
  egypt.45.b:0 "Das wird es ihnen zeigen."
 
  egypt.46.t:0 "[EGY.GetAdjective]s Sieg bei [911.GetName]"
- egypt.46.d:0 "[Die [EGY.GetAdjective]-Kräfte haben es erfolgreich geschafft, in den [911.GetName]-Kanal vorzudringen und Port Said zu sichern und haben nun praktisch die absolute Kontrolle über den Kanal und seine Operationen. Das ist eine klare Bedrohung unserer Interessen in der Region, aber wie sollen wir darauf reagieren?"
+ egypt.46.d:0 "\nDie [EGY.GetAdjective]-Kräfte haben es erfolgreich geschafft, in den [911.GetName]-Kanal vorzudringen und Port Said zu sichern und haben nun praktisch die absolute Kontrolle über den Kanal und seine Operationen. Das ist eine klare Bedrohung unserer Interessen in der Region, aber wie sollen wir darauf reagieren?"
  egypt.46.a:0 "Es ist töricht, das Unvermeidliche hinauszuzögern."
  egypt.46.b:0 "Das ist inakzeptabel, wir müssen den Kanal zurückerobern!"
 
@@ -976,12 +976,12 @@
  egypt.52.b:0 "Wenn nicht durch Frieden, dann werden wir durch Krieg geeint!"
 
  egypt.53.t:0 "[EGY.GetNameDefCap] fordert die Kontrolle über [LBA.GetNonIdeologyName]"
- egypt.53.d:0 "[EGY.GetNameDefCap] hat uns ein Ultimatum gestellt, gewähren Sie die sofortige Unabhängigkeit von [LBA.GetNameDef] und ziehen Sie alle unsere Vermögenswerte aus der Nation ab, die ausschließlich unter der Aufsicht von [EGY.GetAdjective] steht, oder riskieren Sie einen Krieg. [Dies steht im Einklang mit dem Wunsch von [EGY.GetLeader], den Einfluss auf die arabische Welt auszuweiten und sie schließlich zu vereinen, aber wollen wir wirklich einen Krieg um diese Gebiete riskieren?"
+ egypt.53.d:0 "[EGY.GetNameDefCap] hat uns ein Ultimatum gestellt, gewähren Sie die sofortige Unabhängigkeit von [LBA.GetNameDef] und ziehen Sie alle unsere Vermögenswerte aus der Nation ab, die ausschließlich unter der Aufsicht von [EGY.GetAdjective] steht, oder riskieren Sie einen Krieg. \nDies steht im Einklang mit dem Wunsch von [EGY.GetLeader], den Einfluss auf die arabische Welt auszuweiten und sie schließlich zu vereinen, aber wollen wir wirklich einen Krieg um diese Gebiete riskieren?"
  egypt.53.a:0 "Wir sind nicht in der Lage, dies zu verteidigen."
  egypt.53.b:0 "Es wäre töricht zu glauben, wir würden etwas so Wichtiges aufgeben."
 
  egypt.54.t:0 "[EGY.GetNameDefCap] fordert die Kontrolle über [ALG.GetNonIdeologyName]"
- egypt.54.d:0 "[EGY.GetNameDefCap] hat uns ein Ultimatum gestellt, gewähren Sie die sofortige Unabhängigkeit von [ALG.GetNameDef] und ziehen Sie alle unsere Vermögenswerte aus der Nation ab, die ausschließlich unter der Aufsicht von [EGY.GetAdjective] steht, oder riskieren Sie einen Krieg. [Dies steht im Einklang mit dem Wunsch von [EGY.GetLeader], den Einfluss auf die arabische Welt auszuweiten und sie schließlich zu vereinen, aber wollen wir wirklich einen Krieg um diese Gebiete riskieren?"
+ egypt.54.d:0 "[EGY.GetNameDefCap] hat uns ein Ultimatum gestellt, gewähren Sie die sofortige Unabhängigkeit von [ALG.GetNameDef] und ziehen Sie alle unsere Vermögenswerte aus der Nation ab, die ausschließlich unter der Aufsicht von [EGY.GetAdjective] steht, oder riskieren Sie einen Krieg. \nDies steht im Einklang mit dem Wunsch von [EGY.GetLeader], den Einfluss auf die arabische Welt auszuweiten und sie schließlich zu vereinen, aber wollen wir wirklich einen Krieg um diese Gebiete riskieren?"
  egypt.54.a:0 "Wir sind nicht in der Lage, dies zu verteidigen."
  egypt.54.b:0 "Es wäre töricht zu glauben, wir würden etwas so Wichtiges aufgeben."
 
@@ -1004,7 +1004,7 @@
  egypt.58.a:0 "Ihr Verlust."
 
  egypt.59.t:0 "Politische Fraktionen untergraben [EGY.GetLeader]s' Macht"
- egypt.59.d:0 "Sowohl das Volk als auch die Regierung von [EGY.GetAdjective] zweifeln nach wiederholten Misserfolgen in der Verwaltung und im Management stark an der Führungsfähigkeit von [EGY.GetLeader], und mehr denn je gibt es eine beträchtliche Anzahl von Politikern und Armeeoffiziellen, die seine Macht beschneiden oder ihn ganz stürzen wollen. [Die Wafd-Partei, die zu Zeiten der Monarchie lange an der Macht war, unterstützt die Idee, Farouks Macht auf die einer konstitutionellen Monarchie zu reduzieren und sich selbst als stärkste Partei in [EGY. GetNameDef], während prominente Armeeangehörige wie Gamal Abdel Nasser und Mohammed Naguib seinen Sturz und die Schaffung einer arabischen Republik fordern, um die Tage des ausländischen Imperialismus hinter sich zu lassen. Sollte nicht bald eine Lösung gefunden werden, könnte die Situation außer Kontrolle geraten."
+ egypt.59.d:0 "Sowohl das Volk als auch die Regierung von [EGY.GetAdjective] zweifeln nach wiederholten Misserfolgen in der Verwaltung und im Management stark an der Führungsfähigkeit von [EGY.GetLeader], und mehr denn je gibt es eine beträchtliche Anzahl von Politikern und Armeeoffiziellen, die seine Macht beschneiden oder ihn ganz stürzen wollen. \nDie Wafd-Partei, die zu Zeiten der Monarchie lange an der Macht war, unterstützt die Idee, Farouks Macht auf die einer konstitutionellen Monarchie zu reduzieren und sich selbst als stärkste Partei in [EGY. GetNameDef], während prominente Armeeangehörige wie Gamal Abdel Nasser und Mohammed Naguib seinen Sturz und die Schaffung einer arabischen Republik fordern, um die Tage des ausländischen Imperialismus hinter sich zu lassen. Sollte nicht bald eine Lösung gefunden werden, könnte die Situation außer Kontrolle geraten."
  egypt.59.a:0 "Farouks Position steht auf dem Spiel."
 
  egypt.60.t:0 "[EGY.GetNameDefCap] schickt uns eine diplomatische Mission"
@@ -1070,8 +1070,8 @@
  EGY_moderate_sudanese_separatism:0 "Mäßiger sudanesischer Separatismus"
  EGY_fierce_sudanese_separatism:0 "Scharfer sudanesischer Separatismus"
 
- EGY_lower_sudanese_separatism_tt:0"§Glowers§! the §Y[SUD.GetAdjective] Separatism§! in the state" ""
- EGY_raise_sudanese_separatism_tt:0"§Rraises§! the §Y[SUD.GetAdjective] Separatism§! in the state" ""
+ EGY_lower_sudanese_separatism_tt:0 "§Gsenkt§! den §Y[SUD.GetAdjective] Separatismus§! im Staat"
+ EGY_raise_sudanese_separatism_tt:0 "§Erhöht§! den §Y[SUD.GetAdjective] Separatismus§! im Staat"
  EGY_remove_sudanese_separatism_tt:0 "§GEntfernt§! den §Y[SUD.GetAdjective] Separatismus§! im Staat"
 
  #custom ""
@@ -1202,7 +1202,7 @@
  EGY_RULE_OPTION_GOV_GENERAL:0 "Ermächtigung des Generalgouverneurs"
  EGY_RULE_OPTION_GOV_GENERAL_AI_DESC:0 "Großbritannien wird bei der anglo-ägyptischen Konferenz bevorzugt, und der Generalgouverneur wird ermächtigt, was zu einem Bürgerkrieg im Land führen könnte."
  EGY_RULE_OPTION_NASSERIST:0 "Coup der freien Offiziere"
- EGY_RULE_OPTION_NASSERIST_AI_DESC:0" "Egypt will be favoured in the Anglo-Egyptian conference, and after gaining independence and the death of Faud I, the new king Farouk will be couped by the Free Officers led by Gamal Abdel Nasser." ""
+ EGY_RULE_OPTION_NASSERIST_AI_DESC:0 "Ägypten wird bei der anglo-ägyptischen Konferenz bevorzugt, und nach der Erlangung der Unabhängigkeit und dem Tod von Faud I. wird der neue König Farouk von den Freien Offizieren unter der Führung von Gamal Abdel Nasser gestürzt."
  EGY_RULE_OPTION_DEMOCRATIC:0 "Das Mansoura-Abkommen"
  EGY_RULE_OPTION_DEMOCRATIC_AI_DESC:0 "Ägypten wird in der anglo-ägyptischen Konferenz bevorzugt, und nach Erlangung der Unabhängigkeit werden demokratische und monarchistische Fraktionen einen Kompromiss schließen und eine konstitutionelle Monarchie errichten."
  EGY_RULE_OPTION_KHEDIVE:0 "Wiedereinsetzung des Khedive"

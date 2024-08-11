@@ -11,7 +11,7 @@
  SPR_join_the_little_entente:0 "Der Kleinen Entente beitreten"
  SPR_align_with_the_us:0 "Verbünden Sie sich mit den Vereinigten Staaten"
  SPR_draw_closer_to_italy:0 "Näher an Italien heranrücken"
- r56_scw_our_own_ending_check:0 "[Der Spanische Bürgerkrieg ist zu Ende§!"
+ r56_scw_our_own_ending_check:0 "\nDer Spanische Bürgerkrieg ist zu Ende§!"
 
  #characters ""
  SPA_military_junta:0 "Militärjunta"
@@ -99,7 +99,7 @@
  SPR_izquierda_republicana_party:0 "IR"
  SPR_izquierda_republicana_party_long:0 "Izquierda Republicana"
 
- SPR_GATHERING_STORM_DESC:0 "Die spanische Republik ist erst fünf Jahre alt, sah sich aber schon mit Instabilität auf beiden Seiten des politischen Spektrums konfrontiert. Das Scheitern des asturischen Aufstandes im Jahr 1934 hat in der spanischen Gesellschaft viele Spuren hinterlassen, und die Korruption der Regierung von Alejandro Lerroux hat das Vertrauen der Bevölkerung in die Regierung nur noch mehr geschwächt und zu einer Radikalisierung der Bevölkerung geführt. [Auf der linken Seite steht die Volksfront, vereint in ihrem Antifaschismus und ihrem Wunsch nach einer Reform der Republik, während auf der rechten Seite die CEDA sich immer mehr dem Autoritarismus und Korporatismus annähert und die Falange immer bedrohlicher wird."
+ SPR_GATHERING_STORM_DESC:0 "Die spanische Republik ist erst fünf Jahre alt, sah sich aber schon mit Instabilität auf beiden Seiten des politischen Spektrums konfrontiert. Das Scheitern des asturischen Aufstandes im Jahr 1934 hat in der spanischen Gesellschaft viele Spuren hinterlassen, und die Korruption der Regierung von Alejandro Lerroux hat das Vertrauen der Bevölkerung in die Regierung nur noch mehr geschwächt und zu einer Radikalisierung der Bevölkerung geführt. \nAuf der linken Seite steht die Volksfront, vereint in ihrem Antifaschismus und ihrem Wunsch nach einer Reform der Republik, während auf der rechten Seite die CEDA sich immer mehr dem Autoritarismus und Korporatismus annähert und die Falange immer bedrohlicher wird."
 
  SPR_spain.1.t:0 "Die Reaktionäre wurden zerschlagen!"
  SPR_spain.1.desc:0 "Nach heldenhaften Anstrengungen hat das spanische Volk mit Hilfe von Antifaschisten aus der ganzen Welt die faschistischen Rebellen niedergeschlagen und den Triumph der Volksfront sichergestellt. Unser Sieg sichert uns die Freiheit von der Tyrannei der Reaktionäre, aber die Kämpfe und die notwendigen Sicherheitsmaßnahmen haben die Wirtschaft stark beeinträchtigt. Nach all diesem Leid ist klar, dass unsere Bevölkerung nur einen Wunsch hat: Frieden."

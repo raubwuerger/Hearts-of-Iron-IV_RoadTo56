@@ -179,7 +179,7 @@
  custom_diff_strong_lie:0 "@LIE Stärkung von Liechtenstein"
  custom_diff_strong_lit:0 "@LIT Stärkung von Litauen"
  custom_diff_strong_lbv:0 "@LBV Lombardei-Venetien stärken"
- custom_diff_strong_loi:0 ""@LOI Lordship of the Isles stärken" #Unbekannt"
+ custom_diff_strong_loi:0 "LOI Lordship of the Isles stärken" #Unbekannt"
  custom_diff_strong_lux:0 "@LUX Luxemburg stärken"
 
  ###---> Minors: M <><> <><> <><> ""
@@ -330,8 +330,8 @@
  custom_diff_strong_vol:0 "@VOL Obervolta stärken"
 
  ###---> Minors: W <><> <><> <><> ""
- custom_diff_strong_waf:0 ""@WAF Cingdom of Cat stärken" #Unbekannt "
- custom_diff_strong_why:0 ""@WHY Tender Loving Empire stärken" #Unbekannt "
+ custom_diff_strong_waf:0 "WAF Cingdom of Cat stärken" #Unbekannt "
+ custom_diff_strong_why:0 "WHY Tender Loving Empire stärken" #Unbekannt "
  custom_diff_strong_wls:0 "@WLS Wales stärken"
  custom_diff_strong_wll:0 "@WLL Wallonien stärken"
  custom_diff_strong_wes:0 "@WES Westsahara stärken"
