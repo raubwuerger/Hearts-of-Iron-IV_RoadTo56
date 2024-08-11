@@ -78,7 +78,7 @@
  BHU_establish_an_army_under_foreign_supervision:0 "Aufstellen einer Armee unter Aufsicht von [From.GetAdjective]"
  #flags ""
  denounced_punakha_treaty:0 "Kündigte den Vertrag von Punakha"
- bhutan_improved_military_standards:0 "Die [§Y~]Militärischen Standards[~§!] sind verbessert worden."
+ bhutan_improved_military_standards:0 "Die [§Y~]Militärischen Standards§! sind verbessert worden."
  army_establishment_decision:0 "Aufbau der Armee im Gange"
 
 

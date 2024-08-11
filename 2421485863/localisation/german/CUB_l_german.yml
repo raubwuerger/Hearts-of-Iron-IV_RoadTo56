@@ -299,7 +299,7 @@
 
  ###Related Events### ""
  cuba.11.t:0 ""[CUB.GetNameDef] Fordert unsere Territorien" #Territoriale Forderungen gegen Hispaniola"
- cuba.11.d:0 ""Nun, da die [ROOT.GetAdjective] Bewegung der Falangisten es geschafft hat, das Land zu übernehmen, haben sie damit begonnen, ihr Territorium zu erweitern, das nun die Insel Hispaniola umfasst. [~\n\n~]Mit diesem neuen Weg der Expansion kommen nun Forderungen an unsere Regierung, die Unterwerfung und Integration in Kuba zu akzeptieren. Was soll unsere Antwort sein?" #Territoriale Forderungen gegen Hispaniola"
+ cuba.11.d:0 ""Nun, da die [ROOT.GetAdjective] Bewegung der Falangisten es geschafft hat, das Land zu übernehmen, haben sie damit begonnen, ihr Territorium zu erweitern, das nun die Insel Hispaniola umfasst. \n\nMit diesem neuen Weg der Expansion kommen nun Forderungen an unsere Regierung, die Unterwerfung und Integration in Kuba zu akzeptieren. Was soll unsere Antwort sein?" #Territoriale Forderungen gegen Hispaniola"
  cuba.10.d:0 "Kuba, einst unsere geschätzte Kolonie in der Karibik, hat sich mit einem überraschenden Vorschlag an uns gewandt. Sie schlagen ein formelles Bündnis zwischen unseren beiden Nationen vor, in der Hoffnung, stärkere Beziehungen zwischen unseren beiden Ländern zu fördern. [Das kommt zwar etwas überraschend, aber es ist sicherlich eine Idee, die es wert ist, in Erwägung gezogen zu werden, und die uns neuen Einfluss auf dem amerikanischen Kontinent verschaffen würde."
  cuba.12.t:0 "Das nationalistische Spanien nimmt unseren Vorschlag an!"
  cuba.12.d:0 "Unser kürzlich an Spanien gerichtetes Angebot für ein Bündnis wurde angenommen!"
@@ -550,7 +550,7 @@
  CUB_guantanamo_border_war_start:0 "Drohender Grenzkonflikt bei [1050.GetName]"
 
  ###Custom Tooltips### ""
- CUB_amphibious_training_tt:0 "§HInfanterie§! \n §HAmphibisch§! \n §WAngriff:§! §G+10%§! \n §WVerteidigung:§! §G+5%§! \n §HFluss§! \n §WBewegung:[~§! ~] §G+10%§! \n §WAngriff:§! §G+5%§! \n \n§HKavallerie§! \n §HAmphibisch§! \n §WAngriff:§! §G+10%§! \n §WVerteidigung:[~§! ~] §G+5%§! \n §HFluss§! \n §WBewegung:§! §G+10%§! \n §WAngriff:§! §G+5%§! \n \n§HMarines§! \n §HAmphibisch[~§! ~] \n §WAngriff:§! §G+5%§! \n §WVerteidigung:§! §G+5%§! \n §HFluss[~§! ~] \n §WBewegung:§! §G+5%§! \n §WAngriff:§! §G+5%§!"
+ CUB_amphibious_training_tt:0 "§HInfanterie§! \n §HAmphibisch§! \n §WAngriff:§! §G+10%§! \n §WVerteidigung:§! §G+5%§! \n §HFluss§! \n §WBewegung:§! §G+10%§! \n §WAngriff:§! §G+5%§! \n \n§HKavallerie§! \n §HAmphibisch§! \n §WAngriff:§! §G+10%§! \n §WVerteidigung:§! §G+5%§! \n §HFluss§! \n §WBewegung:§! §G+10%§! \n §WAngriff:§! §G+5%§! \n \n§HMarines§! \n §HAmphibisch§! \n §WAngriff:§! §G+5%§! \n §WVerteidigung:§! §G+5%§! \n §HFluss§! \n §WBewegung:§! §G+5%§! \n §WAngriff:§! §G+5%§!"
  CUB_island_fortification_tt:0 "§HVerbessert die wichtigsten Marinestützpunkte in der Karibik, fügt jedem Staat 1 Stufe AA hinzu und fügt den verbesserten Stützpunkten Küstenbefestigungen hinzu.§!"
  CUB_zemurray_legitimized_tt:0 "Schaltet §H[HON.GetNameDef]§! auf einen speziellen kooperativen Fokusbaum um."
  CUB_suggest_operation_hemingway_tt:0 "Wir werden unseren §YFraktionsführer§! bitten, dem §YNationalistischen Spanien§! den Krieg zu erklären.\n"
@@ -561,4 +561,4 @@
  ###News & Events### ""
  cuba.100.d:0 "Gerardo Machado, ehemaliger Präsident von Kuba, der von 1925 bis 1933 amtierte, ist im Alter von 69 Jahren in Miami Beach, Florida, verstorben, während er sich einer Operation unterzog, um sein Schicksal an den Händen des Krebses aufzuhalten. [Die meisten hielten ihn für einen Diktator, der sich weigerte, sein Amt aufzugeben, und sich an seine Macht klammerte, während er mehrere Jahre lang aufständische Gruppen abwehrte. [Trotz des Eingreifens der US-Regierung, um einen friedlichen Regimewechsel auszuhandeln, setzte Machado seinen Widerstand fort, bis die [ROOT.GetAdjective]-Armee revoltierte und ihn zwang, aus dem Land zu fliehen."
  cuba.101.t:0 "Ankunft der MS St. Louis in Havanna"
- cuba.101.d:0 "Das deutsche Passagierschiff MS St. Louis ist heute in den Hafen von Havanna eingelaufen. An Bord befinden sich 973 Passagiere, von denen viele Flüchtlinge sind, die vor dem Naziregime in Deutschland hier in Kuba Asyl suchen. [Wenn wir sie jetzt abweisen, könnten wir sie dazu zwingen, nach Deutschland und in ein sicheres Verderben zurückzukehren. [~\n\nWas sollen wir tun?"
+ cuba.101.d:0 "Das deutsche Passagierschiff MS St. Louis ist heute in den Hafen von Havanna eingelaufen. An Bord befinden sich 973 Passagiere, von denen viele Flüchtlinge sind, die vor dem Naziregime in Deutschland hier in Kuba Asyl suchen. [Wenn wir sie jetzt abweisen, könnten wir sie dazu zwingen, nach Deutschland und in ein sicheres Verderben zurückzukehren. \n\nWas sollen wir tun?"

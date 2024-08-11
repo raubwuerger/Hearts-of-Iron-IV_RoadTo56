@@ -124,7 +124,7 @@ operation_infiltrate_armed_forces_airforce_risk:0 "Infiltrieren Luftwaffe Risiko
 operation_targeted_sabotage_industry_risk:0 "Risiko Sabotage in der Industrie"
 linguist_trait_chance_factor:0 "Chance auf Rekrutierung eines Agenten mit der Eigenschaft §HLinguist§!"
 upgrade_linguistic_training:0 "Linguistische Ausbildung"
-linguistic_training_enabled_tt:0 "Chance, einen Operative mit der Eigenschaft §YLinguist§! zu rekrutieren: §G+100%§!\nChance für Operative mit der Eigenschaft §YLinguist§!, bei Missionserfolg neue Nationalitäten zu erhalten §G+50%[~§! ~]\nOperative mit der Eigenschaft §YLinguist§! beginnen mit einer zufälligen Nationalität eines großen Landes, eines Nachbarlandes oder eines Landes, das sich mit Ihnen im Krieg befindet."
+linguistic_training_enabled_tt:0 "Chance, einen Operative mit der Eigenschaft §YLinguist§! zu rekrutieren: §G+100%§!\nChance für Operative mit der Eigenschaft §YLinguist§!, bei Missionserfolg neue Nationalitäten zu erhalten §G+50%§!\nOperative mit der Eigenschaft §YLinguist§! beginnen mit einer zufälligen Nationalität eines großen Landes, eines Nachbarlandes oder eines Landes, das sich mit Ihnen im Krieg befindet."
 
 
 idea_resistance_network_operative_1:0 "Unterstützung von Widerstandsagenten"

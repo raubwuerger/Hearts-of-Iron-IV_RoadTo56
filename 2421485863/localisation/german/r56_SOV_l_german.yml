@@ -291,7 +291,7 @@
  r56.soviet.94.a:0 "Gut für uns beide"
 
  r56.soviet.95.t:0 "Kuba lehnt ab"
- r56.soviet.95.d:0 "Unsere Agenten in [CUB.getName] haben sich nicht mehr im Mutterland zurückgemeldet, seit unser Ultimatum Havanna offiziell erreicht hat. [In einer offiziellen Ansprache heute Morgen erklärte [CUB.getLeader]: "In den vergangenen Tagen wurde die große Verschwörung zum Sturz der rechtmäßigen Regierung von [CUB.getName] aufgedeckt und ihre wichtigsten Führer verhaftet. Es wurde herausgefunden, dass der Putschversuch von den Agenten von [SOV.GetNameDef] inszeniert und unterstützt wurde." [~\n\n~]Unsere Pläne sind aufgedeckt worden. Es gibt nur noch eine Möglichkeit, unsere Forderungen gegenüber [CUB.GetNameDef] durchzusetzen."
+ r56.soviet.95.d:0 "Unsere Agenten in [CUB.getName] haben sich nicht mehr im Mutterland zurückgemeldet, seit unser Ultimatum Havanna offiziell erreicht hat. [In einer offiziellen Ansprache heute Morgen erklärte [CUB.getLeader]: "In den vergangenen Tagen wurde die große Verschwörung zum Sturz der rechtmäßigen Regierung von [CUB.getName] aufgedeckt und ihre wichtigsten Führer verhaftet. Es wurde herausgefunden, dass der Putschversuch von den Agenten von [SOV.GetNameDef] inszeniert und unterstützt wurde." \n\nUnsere Pläne sind aufgedeckt worden. Es gibt nur noch eine Möglichkeit, unsere Forderungen gegenüber [CUB.GetNameDef] durchzusetzen."
  r56.soviet.95.a:0 "Wir werden sie dann mit Gewalt ausrichten."
  r56.soviet.95.b:0 "Es ist besser, die Situation nicht eskalieren zu lassen."
 
@@ -300,7 +300,7 @@
  r56.soviet.96.a:0 "Vorwärts!"
 
  r56.soviet.97.t:0 "China geht unter"
- r56.soviet.97.d:0 "Unsere leichten ideologischen Differenzen und die unzufriedene Außenpolitik der letzten Jahre wurden von [PRC.getLeader] offenbar nicht als gesunde Basis für eine zukünftige Zusammenarbeit angesehen. [Nach einem langen und ermüdenden Telefongespräch direkt zwischen den Großen Revolutionären musste [PRC.getLeader] unsere Einladung höflich ablehnen und erklärte, dass "[PRC.GetNameDef] und seine Regierung in ihrer gegenwärtigen Situation es vorziehen werden, sich auf die Innenpolitik zu konzentrieren, während sie die Bündnisse, die das Land bereits hat, sichern und verfolgen." [~\n\n~]Vielleicht hilft uns ein gemeinsamer Feind, [PRC.getAdjective] Respekt und Sympathie zurückzugewinnen?"
+ r56.soviet.97.d:0 "Unsere leichten ideologischen Differenzen und die unzufriedene Außenpolitik der letzten Jahre wurden von [PRC.getLeader] offenbar nicht als gesunde Basis für eine zukünftige Zusammenarbeit angesehen. [Nach einem langen und ermüdenden Telefongespräch direkt zwischen den Großen Revolutionären musste [PRC.getLeader] unsere Einladung höflich ablehnen und erklärte, dass "[PRC.GetNameDef] und seine Regierung in ihrer gegenwärtigen Situation es vorziehen werden, sich auf die Innenpolitik zu konzentrieren, während sie die Bündnisse, die das Land bereits hat, sichern und verfolgen." \n\nVielleicht hilft uns ein gemeinsamer Feind, [PRC.getAdjective] Respekt und Sympathie zurückzugewinnen?"
  r56.soviet.97.a:0 "Eine Schande"
 
  r56.soviet.98.t:0 "Die Frage nach einer Balkanföderation"
@@ -743,10 +743,10 @@
 
  SOV_molotov_line_forts_1:0 "Hinzufügen von §Y1 Landforts§! $SOV_molotov_line_forts_where$"
 
- SOV_pc_of_mechanical_engineering_ns_tt:0 "$SOV_modify_defense_industry_ns_intro$ \n £prod_eff_cap Produktionseffizienz-Obergrenze: §G+5.00%§! [~\n\n~]"
+ SOV_pc_of_mechanical_engineering_ns_tt:0 "$SOV_modify_defense_industry_ns_intro$ \n £prod_eff_cap Produktionseffizienz-Obergrenze: §G+5.00%§! \n\n"
 
- SOV_third_five_year_plan_ns_tt:0 "$SOV_modify_fyp_ns_intro$ \n£prod_eff Production Efficiency growth: §G+5,00%§! \nKonsumgüterfabriken: §Y-5.0%§![~\n\n~]"
- SOV_reorganize_the_pc_of_heavy_industry_ns_tt:0 "$SOV_modify_fyp_ns_intro$ \nKonsumgüterfabriken: §Y-3.0%§! [~\n\n~]"
+ SOV_third_five_year_plan_ns_tt:0 "$SOV_modify_fyp_ns_intro$ \n£prod_eff Production Efficiency growth: §G+5,00%§! \nKonsumgüterfabriken: §Y-5.0%§!\n\n"
+ SOV_reorganize_the_pc_of_heavy_industry_ns_tt:0 "$SOV_modify_fyp_ns_intro$ \nKonsumgüterfabriken: §Y-3.0%§! \n\n"
 
  #mio trait ""
 

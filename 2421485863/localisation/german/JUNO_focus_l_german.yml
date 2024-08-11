@@ -329,7 +329,7 @@
 
  #### Chile ##### ""
   ""
- CHL_expand_mining_prospection_tt: "Erhöht die Produktion von §Y4£Ressourcen_streifen|5 §Y$Staatsressource_Stahl$§!, £Ressourcen_streifen|6 §Y$Staatsressource_Chrom$§!, £Ressourcen_streifen|4 §Y$Staatsressource_Wolfram$[~§! ~] oder £resources_strip|2 §Y$state_resource_aluminium$§! §!in jedem Kernstaat, der bereits einen dieser Bodenschätze bereitstellt. \nAktuelle Auswirkungen:"
+ CHL_expand_mining_prospection_tt: "Erhöht die Produktion von §Y4£Ressourcen_streifen|5 §Y$Staatsressource_Stahl$§!, £Ressourcen_streifen|6 §Y$Staatsressource_Chrom$§!, £Ressourcen_streifen|4 §Y$Staatsressource_Wolfram$§! oder £resources_strip|2 §Y$state_resource_aluminium$§! §!in jedem Kernstaat, der bereits einen dieser Bodenschätze bereitstellt. \nAktuelle Auswirkungen:"
  CHL_skip_one_line_tt: "" \n"  #Es gibt eine R56-Version, aber behalte dies einfach für nicht importiertes Vanilla-Material"
  chilean_trade_deals_opinion_modifier: "Vorteilhafte Handelsgeschäfte"
 
@@ -1306,7 +1306,7 @@
  BRA_war_bonds_desc: "Wir können nicht ausschließen, dass wir militärisch oder durch wirtschaftliche Unterstützung anderer Nationen in einen Konflikt hineingezogen werden, daher sollten wir ein Programm zum Verkauf von Kriegsanleihen starten, um unsere Aufrüstung zu finanzieren."
  BRA_invite_foreign_companies: "Ausländische Konzerne einladen"
  BRA_invite_foreign_companies_desc: "Es ist an der Zeit, die Türen für ausländisches Kapital zu öffnen. Wir werden dies tun, indem wir Anreize für ausländische Unternehmen schaffen, sich in [BRA.GetNonIdeologyName] niederzulassen, was wiederum die Arbeitslosigkeit senken und die Steuereinnahmen erhöhen wird."
- BRA_invite_foreign_companies_tt: "Schalten Sie §Y$BRA_invite_foreign_companies_cat$§! Entscheidungen frei, die es uns ermöglichen, §YMilitary Industrial Organizations§! nach [BRA. GetNonIdeologyName] von §Y[ENG.GetFlag][ENG.GetName]§!, §Y[USA.GetFlag][USA.GetName]§!, §Y[FRA.GetFlag][FRA. GetName]§! oder §Y[SWE.GetFlag][SWE.GetName]§! \n§GGewinnen Sie 1 Militärfabrik oder Werft pro MIO, die zu [BRA. GetNonIdeologyName]§! \n§RWir werden nur 1 MIO aus jedem Land einladen können!§! [~\n\n~]§GAuswahl von 4 aus den folgenden:§!"
+ BRA_invite_foreign_companies_tt: "Schalten Sie §Y$BRA_invite_foreign_companies_cat$§! Entscheidungen frei, die es uns ermöglichen, §YMilitary Industrial Organizations§! nach [BRA. GetNonIdeologyName] von §Y[ENG.GetFlag][ENG.GetName]§!, §Y[USA.GetFlag][USA.GetName]§!, §Y[FRA.GetFlag][FRA. GetName]§! oder §Y[SWE.GetFlag][SWE.GetName]§! \n§GGewinnen Sie 1 Militärfabrik oder Werft pro MIO, die zu [BRA. GetNonIdeologyName]§! \n§RWir werden nur 1 MIO aus jedem Land einladen können!§! \n\n§GAuswahl von 4 aus den folgenden:§!"
  BRA_pro_labor_agreement: "Pro-Arbeiter-Politik"
 
  BRA_romanticize_the_old_empire: "Romantisierung der imperialen Geschichte"
@@ -1474,7 +1474,7 @@
  BRA_unify_south_america_tt: "Entschlüsse zur Gewinnung von §YKernen§! auf eigenem Gebiet in §YSüdamerika§!"
  BRA_sway_the_cangaco: "Überzeuge die Cangaço für unsere Sache"
  BRA_sway_the_cangaco_desc: "Die Cangaço haben jahrelang gegen die verschiedenen Regime gekämpft, die das Land beherrschten. Obwohl sie kaum Marxisten sind, haben diese Banditen eine starke Unterstützung der Landbevölkerung für die Umverteilung des lokalen Reichtums. Vielleicht können wir sie und ihre Erfahrungen in unsere revolutionäre Bewegung einbringen?"
- BRA_sway_the_cangaco_tt: "§REntferne§! §Y$BRA_cangaceiro_decision_cat$§! §REntscheidungen, die uns daran hindern, in den betroffenen Staaten gegen den Cangaço vorzugehen! §! [~\n\nGewinnen Sie §G3§! Einheiten der Cangaço-Miliz, wenn ein Bürgerkrieg ausgelöst wird oder die Regierung §Ykommunistisch wird§!"
+ BRA_sway_the_cangaco_tt: "§REntferne§! §Y$BRA_cangaceiro_decision_cat$§! §REntscheidungen, die uns daran hindern, in den betroffenen Staaten gegen den Cangaço vorzugehen! §! \n\nGewinnen Sie §G3§! Einheiten der Cangaço-Miliz, wenn ein Bürgerkrieg ausgelöst wird oder die Regierung §Ykommunistisch wird§!"
  BRA_cangaco_coup: "Cangaço-Putsch"
  BRA_cangaco_coup_desc: "Trotz der Versprechungen der Revolution ist die Führung der Bewegung unentschlossen und verstrickt sich in dogmatische Debatten über die richtigen Doktrinen, an die sie sich halten soll. Es ist an der Zeit, dass der Cangaço das Kommando über die Nation übernimmt und die Korruption im Herzen des Landes ein für alle Mal ausmerzt, denn er hat mehr Rückhalt im Volk als je zuvor. "
  BRA_south_american_defense_cooperation: "Gemeinsame Militärübungen in Südamerika"

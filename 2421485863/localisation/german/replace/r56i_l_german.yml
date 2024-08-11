@@ -1,6 +1,5 @@
 ﻿l_german:
 
-l_english: ""
 #Flags ""
  rt56_old_school:0 ""
 
@@ -186,11 +185,11 @@ l_english: ""
   r56i.event.14.a:0 "Wir müssen Vergeltung üben!"
 
   r56i.event.15.title:0 "[From.GetNameDefCap] Löst seine Faction auf!"
-  r56i.event.15.description:0 "[Da die [FROM.GetAdjective]-Regierung nicht in der Lage ist, diplomatische Partner zu finden, hat sie angekündigt, dass sie nicht länger versuchen wird, eine internationale Koalition anzuführen. Sie ist daher offen für diplomatische Möglichkeiten, sich einem stärkeren Bündnis anzuschließen.[~\n\nDiese Entwicklung wird zweifellos die Aufmerksamkeit verschiedener Kanzleien auf sich ziehen. Ausländische Diplomaten sind wahrscheinlich bereits am Werk, um [FROM.GetLeader] und seine Regierung zu beeinflussen."
+  r56i.event.15.description:0 "[Da die [FROM.GetAdjective]-Regierung nicht in der Lage ist, diplomatische Partner zu finden, hat sie angekündigt, dass sie nicht länger versuchen wird, eine internationale Koalition anzuführen. Sie ist daher offen für diplomatische Möglichkeiten, sich einem stärkeren Bündnis anzuschließen.\n\nDiese Entwicklung wird zweifellos die Aufmerksamkeit verschiedener Kanzleien auf sich ziehen. Ausländische Diplomaten sind wahrscheinlich bereits am Werk, um [FROM.GetLeader] und seine Regierung zu beeinflussen."
   r56i.event.15.a:0 "Interessant."
 
   r56i.event.16.t:0 "Die [Alliance_inviter.GetFactionName] und die [Alliance_applicant.GetAdjective] Faction vereinigen sich zu einer einzigen Allianz!"
-  r56i.event.16.d:0 "[Die Weltpolitik ändert sich in rasantem Tempo, und deshalb haben die Anführer der [alliance_inviter.GetFactionName] und [alliance_applicant.GetLeader] erkannt, dass es sinnlos ist, als getrennte Koalitionen aufzutreten. Stattdessen haben sie beschlossen, Seite an Seite zu kämpfen.[~\n\n~]Dies wird wahrscheinlich ausländische Kanzleien beunruhigen, da ihre kombinierte Stärke viel bedrohlicher werden könnte."
+  r56i.event.16.d:0 "[Die Weltpolitik ändert sich in rasantem Tempo, und deshalb haben die Anführer der [alliance_inviter.GetFactionName] und [alliance_applicant.GetLeader] erkannt, dass es sinnlos ist, als getrennte Koalitionen aufzutreten. Stattdessen haben sie beschlossen, Seite an Seite zu kämpfen.\n\nDies wird wahrscheinlich ausländische Kanzleien beunruhigen, da ihre kombinierte Stärke viel bedrohlicher werden könnte."
   r56i.event.16.a:0 "Gemeinsam sind wir stärker."
   r56i.event.16.b:0 "Sie suchen die Stärke in der Zahl."
   r56i.event.16.c:0 "Es wird ihnen nichts nützen!"
@@ -198,7 +197,7 @@ l_english: ""
   r56i.event.16.f:0 "Unser Bündnis wird stärker. "
 
   r56i.event.17.t:0 "Feindliche Truppen sind gelandet!"
-  r56i.event.17.desc:0 "[Heute Morgen sind Berichte von Portalbooten der Küstenwache und vielen Seebeobachtungsposten eingetroffen, dass sich eine Flotte feindlicher Schiffe vor der Küste von [ROOT.getnameDef] versammelt hat.] Viele Bespoke-Schiffe haben die feindliche Flotte abgeteilt und sich unserer Küste genähert, um eine Landung durchzuführen.[~\n\nAus den Geheimdienstberichten, die jetzt schnell eintreffen, geht hervor, dass die Größe der Landung zu groß für einen Überfall ist, da die feindlichen Kräfte die kleine Garnison, auf die sie gestoßen sind, schnell überwältigt haben. Die feindlichen Truppen errichten schnell einen kleinen Landekopf und bringen eine Menge Ausrüstung an Land."
+  r56i.event.17.desc:0 "[Heute Morgen sind Berichte von Portalbooten der Küstenwache und vielen Seebeobachtungsposten eingetroffen, dass sich eine Flotte feindlicher Schiffe vor der Küste von [ROOT.getnameDef] versammelt hat.] Viele Bespoke-Schiffe haben die feindliche Flotte abgeteilt und sich unserer Küste genähert, um eine Landung durchzuführen.\n\nAus den Geheimdienstberichten, die jetzt schnell eintreffen, geht hervor, dass die Größe der Landung zu groß für einen Überfall ist, da die feindlichen Kräfte die kleine Garnison, auf die sie gestoßen sind, schnell überwältigt haben. Die feindlichen Truppen errichten schnell einen kleinen Landekopf und bringen eine Menge Ausrüstung an Land."
   r56i.event.17.a:0 "Wir müssen schnell reagieren!"
 
   r56i.event.18.t:0 "Feindliche Fallschirmjäger sind gelandet!"
@@ -210,7 +209,7 @@ l_english: ""
  r56i.event.19.a:0 "Lassen Sie uns etwas daraus machen!"
 
   r56i.event.20.t:0 "Bericht des Marineforschungslabors"
-  r56i.event.20.desc:0 "Der jüngste Bericht unseres Marineforschungslabors ist heute Morgen im Büro der Regierung eingetroffen. In dem Bericht heißt es, dass der derzeitige bürokratische Apparat eine mögliche Modernisierung alter Waffensysteme und die Anwendung neuer Marinetechnologien stark einschränkt.[~\n\n~]Die [ROOT.GetAdjective] F&E-Abteilung kann die derzeitige Menge an Berichten, die von unseren Flottenkommandeuren gesendet werden, nicht verarbeiten. Auch eine Erhöhung dieser Berichte wäre nutzlos, da sie einander zu ähnlich sind. Sie schlagen vor, ein Budget für die Verbesserung der Marineausrüstung bereitzustellen, in Anbetracht der riesigen Menge an Daten, die durch Kampferfahrungen generiert werden.[~\n\n~]Die Admiralität ist ebenfalls für eine solche Entwicklung, da sie anerkennt, dass dies sicherlich die Kampffähigkeiten der [Root.GetAdjective] Marine."
+  r56i.event.20.desc:0 "Der jüngste Bericht unseres Marineforschungslabors ist heute Morgen im Büro der Regierung eingetroffen. In dem Bericht heißt es, dass der derzeitige bürokratische Apparat eine mögliche Modernisierung alter Waffensysteme und die Anwendung neuer Marinetechnologien stark einschränkt.\n\nDie [ROOT.GetAdjective] F&E-Abteilung kann die derzeitige Menge an Berichten, die von unseren Flottenkommandeuren gesendet werden, nicht verarbeiten. Auch eine Erhöhung dieser Berichte wäre nutzlos, da sie einander zu ähnlich sind. Sie schlagen vor, ein Budget für die Verbesserung der Marineausrüstung bereitzustellen, in Anbetracht der riesigen Menge an Daten, die durch Kampferfahrungen generiert werden.\n\nDie Admiralität ist ebenfalls für eine solche Entwicklung, da sie anerkennt, dass dies sicherlich die Kampffähigkeiten der [Root.GetAdjective] Marine."
   r56i.event.20.a:0 "Lasst uns etwas daraus machen!"
 
   r56i.event.21.t:0 "Hohe aeronautische Erfahrung"
@@ -219,7 +218,7 @@ l_english: ""
 #####---------------------------------------------------------------------> End ""
 
 #  r56i.event.16.t:0 "Die [HUN.GetFactionName] absorbiert die [YUG.GetAdjective]-Fraktion in einer einzigen Allianz!"
-#  r56i.event.16.d:0 "[~\n\n~] Die Weltpolitik ändert sich in rasantem Tempo, und deshalb haben die Anführer der [HUN.GetFactionName] und [YUG.GetLeader] erkannt, dass es sinnlos ist, als getrennte Koalitionen zu kämpfen, anstatt eine vereinte Koalition zu bilden, die für den Triumph ihrer Ideologie kämpft."
+#  r56i.event.16.d:0 "\n\n Die Weltpolitik ändert sich in rasantem Tempo, und deshalb haben die Anführer der [HUN.GetFactionName] und [YUG.GetLeader] erkannt, dass es sinnlos ist, als getrennte Koalitionen zu kämpfen, anstatt eine vereinte Koalition zu bilden, die für den Triumph ihrer Ideologie kämpft."
 #  r56i.event.16.a:0 "Interessant."
 #  r56i.event.16.a:0 "Gemeinsam sind wir stärker."
 #  r56i.event.16.b:0 "Sie suchen die Stärke in der Zahl."

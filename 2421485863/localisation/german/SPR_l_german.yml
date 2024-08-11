@@ -26,7 +26,7 @@
 
  #Non dlc prelude focues and tt's ""
  SPR_back_the_ceda:0 "Unterstützt die CEDA"
- SPR_back_the_ceda_tt:0 "§WDie§! §YNationalisten§! §Wwerden den Bürgerkrieg um §G75§! §Wpolitische Macht beginnen.[~§! ~] §WDie§! §YRepublikaner§! §Wwerden den Bürgerkrieg bei §! §Y0§! §WPolitischer Macht beginnen.§!\n "
+ SPR_back_the_ceda_tt:0 "§WDie§! §YNationalisten§! §Wwerden den Bürgerkrieg um §G75§! §Wpolitische Macht beginnen.§! §WDie§! §YRepublikaner§! §Wwerden den Bürgerkrieg bei §! §Y0§! §WPolitischer Macht beginnen.§!\n "
  SPR_back_the_ceda_2_tt:0 "§RWir werden die§! §YNationalisten§! §Runterstützen, wenn der Bürgerkrieg beginnt§!\n "
  SPR_civil_war_load_tt:0 "§WBürgerkrieg§! §YBrennpunkte§! §Wwerden§! §Gverfügbar§!\n "
  SPR_back_the_ceda_desc:0 "Unterstützt die CEDA. Für Spanien!"
@@ -39,7 +39,7 @@
  SPR_r56_strike_first_desc:0 "Wir haben zuerst gehandelt und haben vorübergehend die Oberhand über unsere Feinde!"
  SPR_maintain_the_popular_front:0 "Unterstützt die Volksfront"
  SPR_maintain_the_popular_front_desc:0 "Unterstützt die Volksfront. Für Spanien!"
- SPR_maintain_the_popular_front_tt:0 "§WDie§! §YRepublikaner§! §Wwerden den Bürgerkrieg um §G75§! §Wpolitische Macht beginnen.[~§! ~] §WDie§! §YNationalisten§! §Wwerden den Bürgerkrieg bei §Y0§! §WPolitische Macht.§!\n "
+ SPR_maintain_the_popular_front_tt:0 "§WDie§! §YRepublikaner§! §Wwerden den Bürgerkrieg um §G75§! §Wpolitische Macht beginnen.§! §WDie§! §YNationalisten§! §Wwerden den Bürgerkrieg bei §Y0§! §WPolitische Macht.§!\n "
  SPR_maintain_the_popular_front_2_tt:0 "§RWir werden die§! §YRepublikaner§! §Runterstützen, wenn der Bürgerkrieg beginnt§!\n "
  SPR_the_army_of_africa_connection:0 "Die Armee von Afrika Verbindung"
  SPR_the_army_of_africa_connection_desc:0 "Die am besten ausgebildeten Truppen Spaniens werden uns im Kampf gegen die Republikaner helfen. Sie werden die militärische Konspiration unterstützen."

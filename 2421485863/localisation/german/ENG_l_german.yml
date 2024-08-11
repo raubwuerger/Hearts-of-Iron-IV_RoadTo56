@@ -207,16 +207,16 @@
   englandmod.99.a:0 "Verstanden."
 
   britain.25.t:0 "Der [ENG.GetName] schlägt ein Bündnis vor"
-  britain.25.d:0 "Mit wachsenden Spannungen rund um den Globus und der Welt, die immer gefährlicher wird, sind die [ENG.GetAdjective] und die [FRA.GetAdjective] die wenigen verbliebenen Bastionen der Demokratie in Europa, nun hat [ENG.GetNameDef] eine Allianz zwischen unseren beiden Nationen vorgeschlagen.[~\n\n~]Wie sollen wir antworten?"
+  britain.25.d:0 "Mit wachsenden Spannungen rund um den Globus und der Welt, die immer gefährlicher wird, sind die [ENG.GetAdjective] und die [FRA.GetAdjective] die wenigen verbliebenen Bastionen der Demokratie in Europa, nun hat [ENG.GetNameDef] eine Allianz zwischen unseren beiden Nationen vorgeschlagen.\n\nWie sollen wir antworten?"
   britain.25.a:0 "Vereint stehen wir."
   britain.25.b:0 "Wir brauchen die [ENG.GetAdjective] nicht."
 
   britain.26.t:0 "Die [FRA.GetName] nimmt unser Bündnis an"
-  britain.26.d:0 "Die Geschichte hat gezeigt, wie viel erreicht werden kann, wenn unsere großen Nationen Seite an Seite stehen. Im Geiste der Entente Cordiale sind wir stolz darauf, Sie nicht nur als Freunde, sondern als Verbündete begrüßen zu dürfen. Gemeinsam werden wir ein strahlendes Leuchtfeuer der Freiheit in einer Welt sein, die von der Dunkelheit der Unterdrückung heimgesucht wird!'[~\n\n~]Unserem Antrag auf Beitritt zur [FRA.GetAdjective] wurde stattgegeben. Wir können in den kommenden turbulenten Zeiten auf ihre volle Unterstützung zählen."
+  britain.26.d:0 "Die Geschichte hat gezeigt, wie viel erreicht werden kann, wenn unsere großen Nationen Seite an Seite stehen. Im Geiste der Entente Cordiale sind wir stolz darauf, Sie nicht nur als Freunde, sondern als Verbündete begrüßen zu dürfen. Gemeinsam werden wir ein strahlendes Leuchtfeuer der Freiheit in einer Welt sein, die von der Dunkelheit der Unterdrückung heimgesucht wird!'\n\nUnserem Antrag auf Beitritt zur [FRA.GetAdjective] wurde stattgegeben. Wir können in den kommenden turbulenten Zeiten auf ihre volle Unterstützung zählen."
   britain.26.a:0 "Gemeinsam werden wir die Linie halten!"
 
   britain.27.t:0 "Die [FRA.GetName] lehnt unser Bündnis ab."
-  britain.27.d:0 "Obwohl wir in der Vergangenheit gute Beziehungen hatten, können wir eine Eskalation zwischen uns und den Deutschen an unserer Grenze nicht riskieren. Sollten wir in einen weiteren Konflikt verwickelt werden, wird dies zu einem weiteren verheerenden Krieg führen, den wir uns nicht leisten können. Frieden muss immer das Ziel jeder demokratischen Nation sein.'[~\n\n~]Unser Antrag, der [FRA.GetAdjective] beizutreten, wurde abgelehnt. Die [FRA.GetAdjective]-Regierung ist nicht gewillt, [GER.GetNonIdeologyName] weiter zu verärgern, und wird den derzeitigen Frieden nicht gefährden."
+  britain.27.d:0 "Obwohl wir in der Vergangenheit gute Beziehungen hatten, können wir eine Eskalation zwischen uns und den Deutschen an unserer Grenze nicht riskieren. Sollten wir in einen weiteren Konflikt verwickelt werden, wird dies zu einem weiteren verheerenden Krieg führen, den wir uns nicht leisten können. Frieden muss immer das Ziel jeder demokratischen Nation sein.'\n\nUnser Antrag, der [FRA.GetAdjective] beizutreten, wurde abgelehnt. Die [FRA.GetAdjective]-Regierung ist nicht gewillt, [GER.GetNonIdeologyName] weiter zu verärgern, und wird den derzeitigen Frieden nicht gefährden."
   britain.27.a:0 "Ihr "Frieden" ist nur ein anderes Wort für "Kapitulation"."
 
   britain.28.t:0 "[ENG.GetNameDefCap] sucht die diplomatische Versöhnung"

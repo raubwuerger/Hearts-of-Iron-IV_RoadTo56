@@ -4,7 +4,7 @@
  GRE_legislative_elections:0 "Legislative Wahlen"
  GRE_demertzis_illing_health:0 "Demertzis' schwächelnde Gesundheit"
  GRE_communist_insurrection:0 "Drohende Gewerkschaftsstreiks"
- GRE_communist_insurrection_desc:0 "Die derzeitige schwache Regierung hat die Bedingungen für die Arbeitnehmer verschlechtert, was zu Streiks oder vielleicht sogar zu etwas Schlimmerem, wie einem Bürgerkrieg, führen wird. Wenn unsere Regierungssituation nicht geklärt ist, können wir nur vom schlimmsten Fall ausgehen.[~\n\n~]§RSich auf die Seite der Streikenden zu stellen, wird zu einem Bürgerkrieg führen.§!"
+ GRE_communist_insurrection_desc:0 "Die derzeitige schwache Regierung hat die Bedingungen für die Arbeitnehmer verschlechtert, was zu Streiks oder vielleicht sogar zu etwas Schlimmerem, wie einem Bürgerkrieg, führen wird. Wenn unsere Regierungssituation nicht geklärt ist, können wir nur vom schlimmsten Fall ausgehen.\n\n§RSich auf die Seite der Streikenden zu stellen, wird zu einem Bürgerkrieg führen.§!"
 
  #Politics ""
  GRE_despotism_desc:0 "§YMetaxismus§! ist eine totalitäre nationalistische Ideologie, die mit dem griechischen Politiker §WIoannis Metaxas§! verbunden ist. Er fordert die §YRegeneration§! der griechischen Nation und die Errichtung eines §Hmodernen, kulturell homogenen Griechenlands§!. Der Metaxismus verunglimpft den Liberalismus und ordnet die individuellen Interessen denen des Landes unter und versucht, das griechische Volk als disziplinierte Masse im Dienste der Schaffung eines §Bneuen Griechenlands§! zu mobilisieren."
@@ -426,7 +426,7 @@
 
  #Events ""
  greece.5.t:0 "Demertzis ist verstorben"
- greece.5.d:0 "Unser Premierminister Konstantinos Demertzis ist an einem Herzinfarkt verstorben. Während seiner Amtszeit als Ministerpräsident verhalf er der Wirtschaft des Landes zu Wachstum und war besonders beliebt. Sein Nachfolger ist der alternde General Ioannis Metaxas, der die Aufgabe hat, das Erbe von Demertzis fortzuführen und Griechenland in diesen unruhigen Zeiten zu bewahren.[~\n\n~](Um §RKommunist§! zu werden, wähle einen beliebigen Premierminister, aber gehe nicht durch seine Schwerpunkte. Warten Sie stattdessen auf Streiks.)"
+ greece.5.d:0 "Unser Premierminister Konstantinos Demertzis ist an einem Herzinfarkt verstorben. Während seiner Amtszeit als Ministerpräsident verhalf er der Wirtschaft des Landes zu Wachstum und war besonders beliebt. Sein Nachfolger ist der alternde General Ioannis Metaxas, der die Aufgabe hat, das Erbe von Demertzis fortzuführen und Griechenland in diesen unruhigen Zeiten zu bewahren.\n\n(Um §RKommunist§! zu werden, wähle einen beliebigen Premierminister, aber gehe nicht durch seine Schwerpunkte. Warten Sie stattdessen auf Streiks.)"
  greece.5.a:0 "Metaxas wird zum Premierminister ernannt."
  greece.5.b:0 "Der König ergreift die Macht."
  greece.5.c:0 "Wir brauchen eine radikalere Führung."
@@ -711,7 +711,7 @@
  greece.87.d:0 "Die [ITA.getadjective]-Regierung scheint sich sogar geweigert zu haben, unseren Vorschlag für einen Pakt zu prüfen, was unseren Botschafter verärgert hat."
  greece.87.a:0 "Was für eine Schande."
  greece.88.t:0 "[GRE.GetNameDefCap] Schlägt ein Bündnis vor"
- greece.88.d:0 "In einem langen Brief, den uns der [GRE.getadjective]-Botschafter geschickt hat, schlug [GRE.getleader] vor, dass [GRE.getnamedef] dem [ITA.GetFactionName] beitreten könnte, wenn unsere Regierung akzeptiert, den Dodekanes aufzugeben. Sie versicherten uns auch, dass wir die Andockrechte auf den Inseln behalten könnten und dass sie das Recht der einheimischen Kolonisten garantieren würden, um den Übergang zu erleichtern.[~\n\n~]Darüber hinaus fügte der Brief hinzu, dass [ITA.GetAdjective] wirtschaftliche Investitionen in das Land einen solchen Vertrag verstärken könnten."
+ greece.88.d:0 "In einem langen Brief, den uns der [GRE.getadjective]-Botschafter geschickt hat, schlug [GRE.getleader] vor, dass [GRE.getnamedef] dem [ITA.GetFactionName] beitreten könnte, wenn unsere Regierung akzeptiert, den Dodekanes aufzugeben. Sie versicherten uns auch, dass wir die Andockrechte auf den Inseln behalten könnten und dass sie das Recht der einheimischen Kolonisten garantieren würden, um den Übergang zu erleichtern.\n\nDarüber hinaus fügte der Brief hinzu, dass [ITA.GetAdjective] wirtschaftliche Investitionen in das Land einen solchen Vertrag verstärken könnten."
  greece.88.a:0 "Verbündete sind immer willkommen."
  greece.88.b:0 "Sie sind töricht."
  greece.89.t:0 "[ITA.getleader] Begrüßt uns in der [ITA.GetFactionName]"

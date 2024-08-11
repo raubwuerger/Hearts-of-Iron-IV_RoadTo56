@@ -115,7 +115,7 @@
  control_ai_allies_category:0 "Verbündete Koordinierung"
  ROOT_hide_ai_allies_decisions:0 "KI-Verbündete Entscheidungen ausblenden"
  ROOT_show_ai_allies_decisions:0 "KI-Verbündete-Entscheidungen anzeigen"
- control_ai_allies_category_desc:0 "Indem wir unseren Verbündeten klare Befehle erteilen, erhöhen wir unsere Chancen, unsere Aktionen zu koordinieren und unsere Feinde zu besiegen.[~\n\n~]§RDiese Entscheidungen beeinflussen nur das Verhalten der KI§! "
+ control_ai_allies_category_desc:0 "Indem wir unseren Verbündeten klare Befehle erteilen, erhöhen wir unsere Chancen, unsere Aktionen zu koordinieren und unsere Feinde zu besiegen.\n\n§RDiese Entscheidungen beeinflussen nur das Verhalten der KI§! "
  ai_ally_favor_navy:0 "Bitten Sie die [FROM.GetAdjective] Regierung, sich auf ihre Marine zu konzentrieren"
  drop_ai_ally_favor_navy:0 "Fordern Sie die Aufgabe der [FROM.GetAdjective]-Marine-Initiative."
  ai_ally_favor_aviation:0 "Fordern Sie die [FROM.GetAdjective]-Regierung auf, sich auf ihre Luftfahrt zu konzentrieren"
@@ -298,7 +298,7 @@ decision_cost_CP_10_pp_10_tooltip:0 "Es kostet £command_power §H10§! und £po
 
  #Vanilla overide Germany GER GER_reichskommissariats ""
  GER_reichskommissariats:0 "Reichskommissariate einrichten"
- GER_reichskommissariats_desc:0 "Mit dem Wachstum des von uns kontrollierten Landes wird die Verwaltung von Berlin aus zu einer kostspieligen Angelegenheit, sowohl materiell als auch für die Strafverfolgungsbehörden, die vor Ort für Ordnung sorgen. Die Schaffung kleinerer Verwaltungseinheiten, um einige unserer neu erworbenen Ländereien zu verwalten und Kollaborateure davon zu überzeugen, in ihrem neuen 'Staat' für Ordnung zu sorgen, könnte der einzige nachhaltige Weg nach vorne sein.[~\n\n~]Jedes [ROOT.GetFlag]§YReichskommissariats[~§! ~] oder [D10.GetFlag]§YReichsprotektorat§!, das wir errichten, gewährt uns §G3§! Off-Map-§YMilitärfabriken§! Die [ROOT.GetFlag]§YReichskommissariate§! werden auch versuchen, den Widerstand in den Staaten zu bekämpfen, die sie für uns betreuen. Es sollte jedoch erwähnt werden, dass die Auslagerung des Kampfes gegen den Widerstand an [ROOT.GetFlag]§YReichskommissariate§! mit der Zeit zu mehr §RAufständen§! und §RWiderstandswachstum§! in den von ihnen kontrollierten Staaten führen könnte."
+ GER_reichskommissariats_desc:0 "Mit dem Wachstum des von uns kontrollierten Landes wird die Verwaltung von Berlin aus zu einer kostspieligen Angelegenheit, sowohl materiell als auch für die Strafverfolgungsbehörden, die vor Ort für Ordnung sorgen. Die Schaffung kleinerer Verwaltungseinheiten, um einige unserer neu erworbenen Ländereien zu verwalten und Kollaborateure davon zu überzeugen, in ihrem neuen 'Staat' für Ordnung zu sorgen, könnte der einzige nachhaltige Weg nach vorne sein.\n\nJedes [ROOT.GetFlag]§YReichskommissariats§! oder [D10.GetFlag]§YReichsprotektorat§!, das wir errichten, gewährt uns §G3§! Off-Map-§YMilitärfabriken§! Die [ROOT.GetFlag]§YReichskommissariate§! werden auch versuchen, den Widerstand in den Staaten zu bekämpfen, die sie für uns betreuen. Es sollte jedoch erwähnt werden, dass die Auslagerung des Kampfes gegen den Widerstand an [ROOT.GetFlag]§YReichskommissariate§! mit der Zeit zu mehr §RAufständen§! und §RWiderstandswachstum§! in den von ihnen kontrollierten Staaten führen könnte."
 
  assimilate_chiapas:0 "Chiapas assimilieren"
  assimilate_yucatan:0 "Assimilieren Sie [474.GetName]"

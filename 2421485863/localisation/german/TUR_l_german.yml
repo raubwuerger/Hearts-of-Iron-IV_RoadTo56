@@ -197,7 +197,7 @@
  TUR_amend_the_montreux_convention:0 "Änderung des Montreux-Abkommens"
  TUR_amend_the_montreux_convention_desc:0 "Die Sowjets haben ihr Interesse an den Meerengen des Schwarzen Meeres deutlich gemacht. Vielleicht können wir der Sowjetunion im Gegenzug für industrielle Hilfe und engere Beziehungen weitere Zugeständnisse machen."
  TUR_renew_the_soviet_non_aggression_pact_focus_days_tt:0 "Es sind 105 oder mehr Tage vergangen, seit der Fokus §YErneuerung des sowjetischen Nichtangriffspakts§! abgeschlossen wurde."
- TUR_renew_the_soviet_non_aggression_pact_current_days_tt:0 "Die aktuellen Tage sind: [?TUR_erneuern_den_sowjetischen_Nichtangriffspakt_flagge:Tage|Y0]"
+ TUR_renew_the_soviet_non_aggression_pact_current_days_tt:0 "Die aktuellen Tage sind: [?TUR_erneuern_den_sowjetischen_Nichtangriffspakt_flagge:days|Y0]"
  turkey.117.t:0 "Änderung des Übereinkommens von Montreux?"
  turkey.117.a:0 "Diese Initiative gefällt uns, wir sind einverstanden!"
  turkey.117.b:0 "Glauben die Türken, dass dies ihre Rettung ist?"
@@ -1035,11 +1035,11 @@
  turkey_sadabat.1.b:0 "Daran haben wir kein Interesse."
 
  turkey_sadabat.2.t:0 "[From.GetNameDef] Stimmt dem Pakt zu"
- turkey_sadabat.2.d:0 "[Von.GetNameDef] hat den Bedingungen des Saadabad-Paktes zugestimmt und Nichtangriff zwischen unseren Nationen versprochen."
+ turkey_sadabat.2.d:0 "[From.GetNameDef] hat den Bedingungen des Saadabad-Paktes zugestimmt und Nichtangriff zwischen unseren Nationen versprochen."
  turkey_sadabat.2.a:0 "Möge für immer Frieden zwischen uns herrschen."
 
  turkey_sadabat.3.t:0 "[From.GetNameDef] Lehnt den Pakt ab"
- turkey_sadabat.3.d:0 "Trotz unserer besten Bemühungen hat [Von.GetNameDef] die Gespräche im Saadabad-Palast verlassen, ohne den Nichtangriffspakt zu unterzeichnen."
+ turkey_sadabat.3.d:0 "Trotz unserer besten Bemühungen hat [From.GetNameDef] die Gespräche im Saadabad-Palast verlassen, ohne den Nichtangriffspakt zu unterzeichnen."
  turkey_sadabat.3.a:0 "Hoffen wir, dass sie nichts Verrücktes anstellen."
 
  turkey.100.t:0 "Ausweitung des anglo-türkischen Handels?"
@@ -1144,7 +1144,7 @@
  turkey.20.b:0 "Wir werden den Nahen Osten nicht an die Türken abtreten."
 
  turkey.21.t:0 "[From.GetNameDef] Rückzug aus dem Nahen Osten"
- turkey.21.d:0 "Heute früh haben sich die letzten Truppen und Regierungsbeamten von [Von.GetNameDef] aus ihren Gebieten im Nahen Osten zurückgezogen. Die Menschen vor Ort haben sich bereits erhoben und ihre eigenen Regierungen eingesetzt, von denen einige sogar uns gegenüber loyal sind."
+ turkey.21.d:0 "Heute früh haben sich die letzten Truppen und Regierungsbeamten von [From.GetNameDef] aus ihren Gebieten im Nahen Osten zurückgezogen. Die Menschen vor Ort haben sich bereits erhoben und ihre eigenen Regierungen eingesetzt, von denen einige sogar uns gegenüber loyal sind."
  turkey.21.a:0 "Dies ist ein Sieg für alle freien Völker."
 
  turkey.22.t:0 "[From.GetNameDef] Rückzug aus dem Nahen Osten"
@@ -1216,11 +1216,11 @@ TUR_fuat_agrali:0 ""Fuat Ağralı" # Finanzminister"
 
  ### Armed forces dynamic modifier ""
  TUR_disorganized_armed_forces_dynamic_modifier:0 "Desorganisierte Streitkräfte"
- TUR_modernize_our_tactics_effect_tt:0 "Modifiziere §Y$TUR_desorganisierte_bewaffnete_Kräfte_dynamischer_Modifikator$§! um:\n$MODIFIER_ARMY_ORG_FACTOR$: §G+10.0%§![~\n\n~]"
- TUR_use_modern_infrastructure_effect_tt:0 "Ändere §Y$TUR_disorganized_armed_forces_dynamic_modifier$§! um:\n$MODIFIER_ARMY_SPEED_FACTOR$: §G+10.00%§![~\n\n~]"
- TUR_overhaul_training_methods_effect_tt:0 "Modifiziere §Y$TUR_disorganized_armed_forces_dynamic_modifier$§! um: \n$MODIFIER_TRAINING_TIME_FACTOR$: §G-25. 00%§!\n$MODIFIER_MINIMUM_TRAINING_LEVEL$: §R+10%§![~\n\n~]"
- TUR_streamline_communication_methods_effect_tt:0 "Modifiziere §Y$TUR_disorganized_armed_forces_dynamic_modifier$§! um: \n$MODIFIER_NAVAL_COORDINATION$: §G+15%§![~\n\n~]"
- TUR_air_safety_regulations_effect_tt:0 "Modifizieren Sie §Y$TUR_disorganized_armed_forces_dynamic_modifier$§! um: \n$MODIFIER_AIR_ACCIDENTS_FACTOR$: §G-15.0%§![~\n\n~]"
+ TUR_modernize_our_tactics_effect_tt:0 "Modifiziere §Y$TUR_desorganisierte_bewaffnete_Kräfte_dynamischer_Modifikator$§! um:\n$MODIFIER_ARMY_ORG_FACTOR$: §G+10.0%§!\n\n"
+ TUR_use_modern_infrastructure_effect_tt:0 "Ändere §Y$TUR_disorganized_armed_forces_dynamic_modifier$§! um:\n$MODIFIER_ARMY_SPEED_FACTOR$: §G+10.00%§!\n\n"
+ TUR_overhaul_training_methods_effect_tt:0 "Modifiziere §Y$TUR_disorganized_armed_forces_dynamic_modifier$§! um: \n$MODIFIER_TRAINING_TIME_FACTOR$: §G-25. 00%§!\n$MODIFIER_MINIMUM_TRAINING_LEVEL$: §R+10%§!\n\n"
+ TUR_streamline_communication_methods_effect_tt:0 "Modifiziere §Y$TUR_disorganized_armed_forces_dynamic_modifier$§! um: \n$MODIFIER_NAVAL_COORDINATION$: §G+15%§!\n\n"
+ TUR_air_safety_regulations_effect_tt:0 "Modifizieren Sie §Y$TUR_disorganized_armed_forces_dynamic_modifier$§! um: \n$MODIFIER_AIR_ACCIDENTS_FACTOR$: §G-15.0%§!\n\n"
 
  r56_tur_invest_reward_tt:0 "§YUnsere Investitionen in [TUR.GetnameDEF] werden uns gewähren: §!§WEinen zeitlich begrenzten Nationalgeist, der entweder§! §GVorteile§! §Woder§! §RNachteile§! §Wenthält, je nachdem, wie gut die Investition gelaufen ist.§!"
  TUR_investment_pursued:0 "Derzeit verfolgte Investitionen"
@@ -1235,7 +1235,7 @@ TUR_fuat_agrali:0 ""Fuat Ağralı" # Finanzminister"
  bftb_turkey.145.d:0 "[From.GetNameDefCap] hat unsere strategische Bedeutung erkannt und ist bereit, unsere Souveränität zu garantieren."
  bftb_turkey.145.a:0 "Dies wird unsere Feinde in Schach halten."
  bftb_turkey.146.t:0 "[From.GetNameDefCap] Weigert sich, unsere Freiheit zu garantieren"
- bftb_turkey.146.d:0 "[Von.GetNameDefCap] hat beschlossen, uns keine Garantien zu geben, da sie dies in der derzeitigen Weltlage als zu riskant ansehen."
+ bftb_turkey.146.d:0 "[From.GetNameDefCap] hat beschlossen, uns keine Garantien zu geben, da sie dies in der derzeitigen Weltlage als zu riskant ansehen."
  bftb_turkey.146.a:0 "Sie werden das bereuen."
  ottoman_info:0 "[§!~]§CDie [§!~]§YDemokratische Parti§!§C hat §Ymehr als 40% Unterstützung§! und ist gewählt worden, um die osmanische Stimmung wiederzubeleben§!\n"
 

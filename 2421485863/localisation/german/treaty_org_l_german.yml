@@ -16,7 +16,7 @@
  TO_left_faction:0 "Hat [FROM.GetFactionName] verlassen."
  TO_signed_brussels:0 "Unterzeichneter Brüsseler Vertrag"
  treaty_org.2.t:0 "Unterzeichneter Brüsseler Vertrag"
- treaty_org.2.desc:0 "In einem Schritt, der die Welt daran erinnert, dass das Schlimmste noch nicht hinter uns liegt, kündigten mehrere der ehemals verbündeten Mächte heute in Brüssel die Unterzeichnung eines neuen Vertrags an. Obwohl es sich angeblich um einen Vertrag über die gegenseitige zivile und militärische Zusammenarbeit handelt, zweifelt kaum jemand an der Botschaft, die damit an die Führer und Verbündeten der [SOV. GetNameDef].[~\n\nMehrere Staaten, die sich inmitten dieser geopolitischen Spannungen befinden, haben die Gelegenheit ergriffen, einen Grundsatz der formellen Neutralität zu erklären."
+ treaty_org.2.desc:0 "In einem Schritt, der die Welt daran erinnert, dass das Schlimmste noch nicht hinter uns liegt, kündigten mehrere der ehemals verbündeten Mächte heute in Brüssel die Unterzeichnung eines neuen Vertrags an. Obwohl es sich angeblich um einen Vertrag über die gegenseitige zivile und militärische Zusammenarbeit handelt, zweifelt kaum jemand an der Botschaft, die damit an die Führer und Verbündeten der [SOV. GetNameDef].\n\nMehrere Staaten, die sich inmitten dieser geopolitischen Spannungen befinden, haben die Gelegenheit ergriffen, einen Grundsatz der formellen Neutralität zu erklären."
  treaty_org.2.a:0 "Eine beunruhigende Entwicklung."
  treaty_org.2.b:0 "Eine kaltschnäuzige Provokation."
  NATO_form_nato_properly:0 "Ratifizierung der Nordatlantikvertrags-Organisation"

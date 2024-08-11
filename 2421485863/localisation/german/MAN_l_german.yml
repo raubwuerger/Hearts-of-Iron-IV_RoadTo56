@@ -242,11 +242,11 @@ manchukuo_events.4.d:0 "Dass Aisin Gioro Puyi, der derzeitige Kaiser der Mandsch
 manchukuo_events.5.d:0 "Die mandschurische Delegation hat um die Abtretung des gesamten chinesischen Festlandterritoriums gebeten, das sich in unserem Besitz befindet, und hat uns im Gegenzug versichert, dass die [MAN.GetName] nicht versuchen wird, ganz China für sich zu beanspruchen."
 
  r56_manchuria.28.t:0 "[From.GetNameDEF] Angebote zur Vasallisierung"
- r56_manchuria.28.d:0 "Durch das Mandat des Himmels verfügt der Kaiser hiermit,[~\n\n~]Dein Königreich ist nun eingeladen, ein Vasall unter dem glorreichen Großen Qing-Reich zu werden. Gehorche. Andernfalls gehst du unter der Macht des Himmlischen Reiches unter.[~\n\nRespektiere dies. "
+ r56_manchuria.28.d:0 "Durch das Mandat des Himmels verfügt der Kaiser hiermit,\n\nDein Königreich ist nun eingeladen, ein Vasall unter dem glorreichen Großen Qing-Reich zu werden. Gehorche. Andernfalls gehst du unter der Macht des Himmlischen Reiches unter.\n\nRespektiere dies. "
  r56_manchuria.28.a:0 "Das Edikt ist empfangen."
  r56_manchuria.28.b:0 "So ein Quatsch!"
- r56_manchuria.29.t:0 "[[Von.GetName] Wird zu unserem Vasallen"
- r56_manchuria.29.d:0 "Durch den Erlass des Imperators ist [Von.GetName] ein ehrenvoller Vasall unter [MAN.GetNameDEF] geworden."
+ r56_manchuria.29.t:0 "[[From.GetName] Wird zu unserem Vasallen"
+ r56_manchuria.29.d:0 "Durch den Erlass des Imperators ist [From.GetName] ein ehrenvoller Vasall unter [MAN.GetNameDEF] geworden."
  r56_manchuria.29.a:0 "Die Welt wird sich wieder einmal vor dem mächtigen Qing-Reich verneigen!"
  r56_manchuria.29.b:0 "Sie werden besser dran sein, wenn sie ein Teil des Reiches sind."
  r56_manchuria.30.t:0 "[From.GetName] Verweigert die Vasallisierung"
@@ -350,7 +350,7 @@ MAN_resource_manchu_idea:0 "Japanische Ausbeutung"
 
 #Tooltip text: ""
  asian_war:0 "§GAllen Nationen, die zuvor entkernte Territorien besitzen, wird der Krieg erklärt!§!"
- MAN_vassal_tt:0 "Besitzt alle Staaten in der folgenden Region :\n §YMandschurei (außer Auserwählte Halbinsel)§!\n §YNordchina[~§! ~]\n §YOstchina§!\n §YWestchina§!\n §YSüdchina (außer Guangzhouwan, Macau und Hongkong)§!"
+ MAN_vassal_tt:0 "Besitzt alle Staaten in der folgenden Region :\n §YMandschurei (außer Auserwählte Halbinsel)§!\n §YNordchina§!\n §YOstchina§!\n §YWestchina§!\n §YSüdchina (außer Guangzhouwan, Macau und Hongkong)§!"
 
 ### opinions ### ""
  helped_to_arrest_konstantin:0 "Hilft bei der Verhaftung von Konstantin"

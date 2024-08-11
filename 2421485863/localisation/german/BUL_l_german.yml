@@ -4,7 +4,6 @@
 # Държавната самолетна фабрика (ДСФ) DSF;State Aircraft Factory (commie?) ""
 #August 1941. The state enterprise "Sea Coastal Navigation" was established, with its branches in Varna and Bourgas. In September 1943 these branches merged under the name "Navigation Maritime Bulgare". ""
 
-l_english: ""
  BUL_generic_train_organization_r56_NSB:0 "Koralovag Unternehmen"
 
  # characters ""
@@ -16,7 +15,7 @@ bulgarian_focus:0 "Bulgarian National Focus"
 BUL_support_yugoslavian_seperatists:0 "Unterstützung [YUG.GetAdjective] Separatisten"
 BUL_support_yugoslavian_seperatists_desc:0 "[YUG.GetNameDefCap]. Eine Abscheulichkeit, die aus dem Vertrag von Versailles hervorgegangen ist. Viele in unserer Nachbarschaft wollen ihr Heimatland schaffen, das nach den Bedürfnissen des Staates verdreht werden könnte. Wir werden sie mit Waffen versorgen, damit sie sich "befreien" können."
 BUL_support_yugoslavian_seperatists_category:0 "Unterstützt Separatisten"
-BUL_support_yugoslavian_seperatists_category_desc:0 "Viele [YUG.GetAdjective]-Minderheiten streben nach Unabhängigkeit, darunter auch die Vardar-Mazedonier an unserer Grenze. Wenn wir sie finanzieren können, können sie sich erheben und unsere wertvollen Verbündeten auf dem Balkan werden.\nUnterstützung von Separatisten in Mazedonien: §Y[?BUL.macedonian_support]%§![~\n\n~]Unterstützung von Separatisten in Kroatien: §Y[? BUL.croatian_support]%§![~\n\n~]Separatistische Unterstützung in Slowenien: §Y[?BUL.slovenian_support]%§![~\n\n~]Separatistische Unterstützung in Bosnien: §Y[?BUL.bosnian_support]%§!"
+BUL_support_yugoslavian_seperatists_category_desc:0 "Viele [YUG.GetAdjective]-Minderheiten streben nach Unabhängigkeit, darunter auch die Vardar-Mazedonier an unserer Grenze. Wenn wir sie finanzieren können, können sie sich erheben und unsere wertvollen Verbündeten auf dem Balkan werden.\nUnterstützung von Separatisten in Mazedonien: §Y[?BUL.macedonian_support]%§!\n\nUnterstützung von Separatisten in Kroatien: §Y[? BUL.croatian_support]%§!\n\nSeparatistische Unterstützung in Slowenien: §Y[?BUL.slovenian_support]%§!\n\nSeparatistische Unterstützung in Bosnien: §Y[?BUL.bosnian_support]%§!"
 BUL_support_imro:0 "Unterstützung IMRO: \n§R+100% Unterstützung in Mazedonien§!"
 BUL_support_slovene_seperatists:0 "Unterstützung slowenischer Separatisten:\n§R+100% Unterstützung in Slowenien§!"
 BUL_support_croatian_seperatists:0 "Unterstützung kroatischer Separatisten:\n§R+100% Unterstützung in Kroatisch§!"

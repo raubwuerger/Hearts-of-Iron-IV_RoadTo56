@@ -21,7 +21,7 @@
   SIA_communism_party_long:0 "Kommunistische Partei von Siam"
   # Decisions ""
   SIA_peaceful_pan_thaiism_category:0 "Friedlicher Pan-Thaiismus"
-  SIA_peaceful_pan_thaiism_category_desc:0 "Die verschiedenen thailändischen Völker, die zwischen den Staaten Siam, Laos und Kambodscha verstreut leben, wurden nach den Kolonialkriegen getrennt. Nun, da jeder der drei Staaten eine gewisse Unabhängigkeit wiedererlangt hat, müssen große Anstrengungen unternommen werden, um die Bevölkerung davon zu überzeugen, dass eine Vereinigung unserer drei Nationen zum Wohle unseres Volkes notwendig ist.[~\n\n~]Pan-Thaiismus Popularität in Laos: §Y[?SIA.laos_pan_thai_popularity]%§![~\n\n~]Pan-Thaiismus Beliebtheit in Kambodscha: §Y[?SIA.cambodia_pan_thai_popularity]%§!"
+  SIA_peaceful_pan_thaiism_category_desc:0 "Die verschiedenen thailändischen Völker, die zwischen den Staaten Siam, Laos und Kambodscha verstreut leben, wurden nach den Kolonialkriegen getrennt. Nun, da jeder der drei Staaten eine gewisse Unabhängigkeit wiedererlangt hat, müssen große Anstrengungen unternommen werden, um die Bevölkerung davon zu überzeugen, dass eine Vereinigung unserer drei Nationen zum Wohle unseres Volkes notwendig ist.\n\nPan-Thaiismus Popularität in Laos: §Y[?SIA.laos_pan_thai_popularity]%§!\n\nPan-Thaiismus Beliebtheit in Kambodscha: §Y[?SIA.cambodia_pan_thai_popularity]%§!"
   SIA_hold_a_pan_thai_exposition:0 "Eine Pan-Thai-Ausstellung abhalten §G+7% für alle"
   SIA_glorify_thai_culture:0 "Verherrlichung der thailändischen Kultur §G+5% für alle"
   SIA_support_pan_thaiists_in_laos:0 "Unterstützt Pan-Thaiisten in Laos §G+5%§! in Laos"
@@ -36,7 +36,7 @@
 
 
   SIA_disturbing_indochina_decision:0 "Unruhe in Indochina"
-  SIA_disturbing_indochina_decision_desc:0 "Unsere indochinesischen Kameraden leiden weiterhin unter dem Joch der französischen Kolonisten. Sie brauchen unsere Hilfe, und wir sind für sie da! Sobald sie ausreichend vorbereitet sind, können wir den endgültigen Aufstand starten, der Indochina von der imperialistischen Kontrolle befreien wird![~\n\n~]Agitation in Vietnam: §Y[?SIA.vietnam_agitation]%§![~\n\n~]Agitation in Laos: §Y[?SIA.laos_agitation]%§![~\n\n~]Unruhen in Kambodscha: §Y[?SIA.cambodia_agitation]%§!"
+  SIA_disturbing_indochina_decision_desc:0 "Unsere indochinesischen Kameraden leiden weiterhin unter dem Joch der französischen Kolonisten. Sie brauchen unsere Hilfe, und wir sind für sie da! Sobald sie ausreichend vorbereitet sind, können wir den endgültigen Aufstand starten, der Indochina von der imperialistischen Kontrolle befreien wird!\n\nAgitation in Vietnam: §Y[?SIA.vietnam_agitation]%§!\n\nAgitation in Laos: §Y[?SIA.laos_agitation]%§!\n\nUnruhen in Kambodscha: §Y[?SIA.cambodia_agitation]%§!"
   SIA_smuggle_weapons_in_vietnam:0 "Waffenschmuggel in Vietnam: \n§R+10% Aufruhr in Vietnam§!"
   SIA_smuggle_weapons_in_laos:0 "Waffenschmuggel in Laos:\n§R+10% Unruhen in Laos§!"
   SIA_smuggle_weapons_in_cambodia:0 "Waffenschmuggel in Kambodscha:\n§R+10% Aufruhr in Kambodscha§!"

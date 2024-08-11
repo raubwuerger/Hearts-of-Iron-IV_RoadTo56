@@ -14,7 +14,7 @@
  PAK_Curb_Extremist_Influence:0 "Eindämmung des extremistischen Einflusses"
 
  pak_support:0 "Unterstützt jetzt unsere neue Regierung"
- reintegrate_states:0 "Reintegrieren Sie [Von.GetName]"
+ reintegrate_states:0 "Reintegrieren Sie [From.GetName]"
 
  communist_power_base:0 "Kommunistischer Einfluss in [From.GetName]"
  communist_revolution:0 "Kommunistische Revolution"
@@ -31,7 +31,7 @@
  PAK_Mian_Iftikharuddin:0 "Mian Iftikharuddin"
 
  bangladesh_liberation:0 "Die Befreiung Bangladeschs"
- bangladesh_liberation_desc:0 "Die Bengalen in Ostpakistan fühlen sich desillusioniert und in Karatschi unterrepräsentiert. Nationalistische Kräfte beginnen sich zu formieren und gewinnen in besorgniserregendem Maße an Rückhalt in der Bevölkerung.[~\n\nDie indische Haltung zur Unabhängigkeit Bangladeschs ist [Root.PAK_indian_support]\nDer gegenwärtige §YFreiheitsdrang§! Bangladeschs ist: §R[?bangladesh_freedom]§!\nDiese Zahl kann durch §YBuilding Infrastructure§!, §YBuilding Civilian Factories[~§! ~], §YTruppenpräsenz§! oder §YEreignisse und Entscheidungen§!\nWenn §YFreiheitsdrang§! in die Nähe von §R100§! kommt, bricht ein Bürgerkrieg aus."
+ bangladesh_liberation_desc:0 "Die Bengalen in Ostpakistan fühlen sich desillusioniert und in Karatschi unterrepräsentiert. Nationalistische Kräfte beginnen sich zu formieren und gewinnen in besorgniserregendem Maße an Rückhalt in der Bevölkerung.\n\nDie indische Haltung zur Unabhängigkeit Bangladeschs ist [Root.PAK_indian_support]\nDer gegenwärtige §YFreiheitsdrang§! Bangladeschs ist: §R[?bangladesh_freedom]§!\nDiese Zahl kann durch §YBuilding Infrastructure§!, §YBuilding Civilian Factories§!, §YTruppenpräsenz§! oder §YEreignisse und Entscheidungen§!\nWenn §YFreiheitsdrang§! in die Nähe von §R100§! kommt, bricht ein Bürgerkrieg aus."
  pak_mus_unity:0 "Erlaubt die §YEntkernung eines jeden Staates§!, der ein Kern eines §Ymuslimischen Landes§! ist."
  support_loyalist_militias:0 "Loyalistische Milizen unterstützen"
  support_loyalist_militias_desc:0 "Die Lage im östlichen Teil unseres Landes verschlechtert sich, und Gewalt scheint jetzt die einzige Maßnahme zu sein, die einen Aufstand niederschlagen kann."

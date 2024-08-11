@@ -1396,7 +1396,7 @@
  BBA_italy_bop.1.t:1 "Der Fall von [?ITA.ITA_lost_core.GetName]"
  BBA_italy_bop.1.desc:1 "Wir haben [?ITA.ITA_lost_core.GetName] an den Feind verloren! Dies hat natürlich das Vertrauen des italienischen Volkes in unsere Kriegsanstrengungen erschüttert und sogar Stimmen für Friedensgespräche laut werden lassen. Diese Ereignisse haben, gelinde gesagt, viele verärgert, und die Menschen suchen nach einem Schuldigen, irgendjemandem. Wir müssen wieder die Initiative ergreifen und die feindlichen Kräfte aus Italien vertreiben!"
  BBA_italy_bop.1.a:1 "Dies ist eine Katastrophe!"
- ITA_losing_cores_tt:0 "Jedes Mal, wenn [ROOT.GetName] die Kontrolle über einen [§Y~]Kernstaat[~§!] an einen Feind verliert, werden die Effekte angewendet."
+ ITA_losing_cores_tt:0 "Jedes Mal, wenn [ROOT.GetName] die Kontrolle über einen [§Y~]Kernstaat§! an einen Feind verliert, werden die Effekte angewendet."
  BBA_italy_bop.2.t:1 "Der Fall von [?ITA.ITA_lost_colony.GetName]"
  BBA_italy_bop.2.desc:1 "Feindliche Kräfte haben die Kontrolle über [?ITA.ITA_lost_colony.GetName] übernommen und die Italiener überall schockiert! Die Menschen hatten den Eindruck, dass der Krieg zu unseren Gunsten entschieden wurde oder zumindest bald entschieden sein würde. Auch wenn dies definitiv ein Rückschlag ist, werden wir mit guter Planung und Stärke sicherlich [?ITA.ITA_lost_colony.GetName] zurückerobern!"
  BBA_italy_bop.2.a:1 "Wir werden uns wieder erheben!"
@@ -2119,7 +2119,7 @@
  BBA_switzerland_ger.15.tt:0 "Wird einen lokalen Mitarbeiter der Nationalität §Y[GER.GetAdjectiveCap]§! und §Y[SWI.GetAdjectiveCap]§! gewinnen"
 
  BBA_switzerland.16.t:0 "[FROM.GetNameDefCap] sucht geheimen Pakt"
- BBA_switzerland.16.desc:1 "Einer unserer verdeckten Agenten, der in [FROM.GetCapitalVictoryPointName] stationiert ist, wurde von der [FROM.GetAdjective]-Regierung mit einem Vorschlag konfrontiert: Ein Geheimpakt zwischen unserer Fraktion und [FROM. GetNameDef], was bedeutet, dass sie uns helfen werden, unsere Feinde in Europa zu unterminieren, während sie den Anschein der Neutralität aufrechterhalten und diese sogar zu unseren Gunsten aufgeben werden, wenn die Zeit gekommen ist.[~\n\n~]Es wird auch bedeuten, dass wir in ihre Verteidigung gehen werden, wenn sie in Gefahr sind, überfallen zu werden."
+ BBA_switzerland.16.desc:1 "Einer unserer verdeckten Agenten, der in [FROM.GetCapitalVictoryPointName] stationiert ist, wurde von der [FROM.GetAdjective]-Regierung mit einem Vorschlag konfrontiert: Ein Geheimpakt zwischen unserer Fraktion und [FROM. GetNameDef], was bedeutet, dass sie uns helfen werden, unsere Feinde in Europa zu unterminieren, während sie den Anschein der Neutralität aufrechterhalten und diese sogar zu unseren Gunsten aufgeben werden, wenn die Zeit gekommen ist.\n\nEs wird auch bedeuten, dass wir in ihre Verteidigung gehen werden, wenn sie in Gefahr sind, überfallen zu werden."
  BBA_switzerland.16.a:0 "Sie werden ein großer Gewinn sein."
  BBA_switzerland.16.b:0 "Wir brauchen ihre Hilfe nicht"
 
@@ -2174,11 +2174,11 @@
  #### Election Stuff ### ""
 
  BBA_SWI_annual_election.1.t:0 "Wahlen zum Bundespräsidenten der Schweizerischen Eidgenossenschaft"
- BBA_SWI_annual_election.1.desc:1 "Jedes Jahr wählt die Schweizerische Bundesversammlung einen der Bundesräte zum Präsidenten der Schweizerischen Eidgenossenschaft, zuerst unter Gleichen, [?ROOT.SWI_confederation_president.GetSheHe] wird [?ROOT.SWI_confederation_president. GetHerHis] begrenzte Befugnisse, um den Rat zu repräsentieren und jegliche Bindungen im Rat zu brechen, um den Rat sanft in Richtung Sicherheit oder Ruhm zu lenken.[~\n\n~][SWI_get_extra_election_paragraph]Wen sollte die Versammlung wählen, um das Gesicht der Schweizerischen Eidgenossenschaft in diesem Jahr zu sein?"
+ BBA_SWI_annual_election.1.desc:1 "Jedes Jahr wählt die Schweizerische Bundesversammlung einen der Bundesräte zum Präsidenten der Schweizerischen Eidgenossenschaft, zuerst unter Gleichen, [?ROOT.SWI_confederation_president.GetSheHe] wird [?ROOT.SWI_confederation_president. GetHerHis] begrenzte Befugnisse, um den Rat zu repräsentieren und jegliche Bindungen im Rat zu brechen, um den Rat sanft in Richtung Sicherheit oder Ruhm zu lenken.\n\n[SWI_get_extra_election_paragraph]Wen sollte die Versammlung wählen, um das Gesicht der Schweizerischen Eidgenossenschaft in diesem Jahr zu sein?"
  BBA_SWI_annual_election.1.a:0 "Wähle [SWI_GetCouncilor1name]"
  BBA_SWI_annual_election.1.b:0 "Wähle [SWI_GetCouncilor2name]"
  BBA_SWI_annual_election.1.c:0 "Wähle [SWI_GetCouncilor3name]"
- SWI_first_election_text:0 "Sobald ein Ratsmitglied Präsident der Konföderation wird, kann er nicht mehr als politischer Berater eingesetzt werden, aber er hat eine mächtige Entscheidung zur Verfügung. Wenn ein Platz für einen politischen Berater zu lange unbesetzt bleibt, erleidet ihr Strafen, also stellt sicher, dass die Position schnell besetzt wird.[~\n]"
+ SWI_first_election_text:0 "Sobald ein Ratsmitglied Präsident der Konföderation wird, kann er nicht mehr als politischer Berater eingesetzt werden, aber er hat eine mächtige Entscheidung zur Verfügung. Wenn ein Platz für einen politischen Berater zu lange unbesetzt bleibt, erleidet ihr Strafen, also stellt sicher, dass die Position schnell besetzt wird.\n]"
 
  BBA_SWI_annual_election.2.t:0 "Dringlichkeitswahl zum Präsidenten der Konföderation!"
  BBA_SWI_annual_election.2.desc:0 "Nach der beispiellosen Absetzung von [?SWI_ousted_president.GetName] und einer Periode politischer Instabilität im Bundesrat ist es an der Zeit, einen neuen Präsidenten der Konföderation zu wählen. Hoffen wir, dass er den Kurs von [SWI.GetNameDef] korrigieren kann und dass er nicht der letzte ist, der dieses Amt bekleidet."
@@ -2201,19 +2201,19 @@
  BBA_switzerland_trade.2.b:0 "Wir werden uns nicht noch einmal täuschen lassen"
 
  BBA_switzerland_trade.3.t:0 "Unser laufendes Handelsabkommen mit [FROM.GetName]"
- BBA_switzerland_trade.3.desc:0 "Das Handelsabkommen, das wir seit einem Jahr mit [FROM.GetNameDef] haben, war für [ROOT.GetName] sehr fruchtbar, und nun ist es an der Zeit zu entscheiden, ob wir es verlängern sollten oder nicht. [~\n\n~] Trotz der Vorteile eines solchen bilateralen Abkommens und der Tatsache, wie sehr eine Nation wie die unsere es braucht, sollten wir uns darüber im Klaren sein, dass es von einigen Ländern als eine weitere Verletzung unserer Neutralität angesehen werden könnte. Wir sollten sicherstellen, dass die Entfremdung dieser Länder sowohl verkraftbar als auch lohnenswert ist."
+ BBA_switzerland_trade.3.desc:0 "Das Handelsabkommen, das wir seit einem Jahr mit [FROM.GetNameDef] haben, war für [ROOT.GetName] sehr fruchtbar, und nun ist es an der Zeit zu entscheiden, ob wir es verlängern sollten oder nicht. \n\n Trotz der Vorteile eines solchen bilateralen Abkommens und der Tatsache, wie sehr eine Nation wie die unsere es braucht, sollten wir uns darüber im Klaren sein, dass es von einigen Ländern als eine weitere Verletzung unserer Neutralität angesehen werden könnte. Wir sollten sicherstellen, dass die Entfremdung dieser Länder sowohl verkraftbar als auch lohnenswert ist."
  BBA_switzerland_trade.3.a:0 "Ja, wir brauchen diese Lieferungen für unser Überleben"
  BBA_switzerland_trade.3.b:0 "Nein, es ist zu riskant"
 
  BBA_switzerland_trade.4.t:0 "[FROM.GetName] möchte unser Handelsabkommen erneuern"
- BBA_switzerland_trade.4.desc:0 "Es scheint, dass [FROM.GetName]'s Handelsabkommen mit uns sehr vorteilhaft für sie war, da sie bereit sind, eine erneute Verletzung der Neutralität zu riskieren, um sich Lieferungen von uns zu sichern. [~\n\n~] Dieses Abkommen hat nicht viele Nachteile für uns, es sei denn, wir stellen ihnen die Mittel für ihre Verteidigung gegen unsere mögliche Invasion von [FROM.GetName] zur Verfügung."
+ BBA_switzerland_trade.4.desc:0 "Es scheint, dass [FROM.GetName]'s Handelsabkommen mit uns sehr vorteilhaft für sie war, da sie bereit sind, eine erneute Verletzung der Neutralität zu riskieren, um sich Lieferungen von uns zu sichern. \n\n Dieses Abkommen hat nicht viele Nachteile für uns, es sei denn, wir stellen ihnen die Mittel für ihre Verteidigung gegen unsere mögliche Invasion von [FROM.GetName] zur Verfügung."
  BBA_switzerland_trade.4.a:0 "Lassen Sie uns das Abkommen erneuern"
  BBA_switzerland_trade.4.b:0 "Ändern Sie den Schwerpunkt auf die zivile Produktion"
  BBA_switzerland_trade.4.c:0 "Ändern Sie den Schwerpunkt auf die militärische Produktion"
  BBA_switzerland_trade.4.d:0 "Es ist unsere Mühe nicht mehr wert"
 
  BBA_switzerland_trade.5.t:0 "[FROM.GetName] hat unser Handelsabkommen verfallen lassen"
- BBA_switzerland_trade.5.desc:0 "Trotz der großzügigen Bedingungen, die wir [FROM.GetName] in unserem gegenseitigen Handelsabkommen eingeräumt haben, haben sie beschlossen, es nicht zu erneuern und es stattdessen vorzuziehen, es alleine zu machen. [~\n\n~] Es ist uns ein Rätsel, warum sie sich zu so etwas entschlossen haben, aber vielleicht ist es das Beste."
+ BBA_switzerland_trade.5.desc:0 "Trotz der großzügigen Bedingungen, die wir [FROM.GetName] in unserem gegenseitigen Handelsabkommen eingeräumt haben, haben sie beschlossen, es nicht zu erneuern und es stattdessen vorzuziehen, es alleine zu machen. \n\n Es ist uns ein Rätsel, warum sie sich zu so etwas entschlossen haben, aber vielleicht ist es das Beste."
  BBA_switzerland_trade.5.a:0 "Es ist ihr Verlust!"
 
  BBA_switzerland_trade.6.t:0 "[FROM.GetNameDefCap] hat unseren Vorschlag für ein Handelsabkommen angenommen!"
@@ -2287,7 +2287,7 @@
 
 
  BBA_switzerland_fascist.6.t:0 "[SWI.GetName] bittet um Erweiterung ihres Territoriums"
- BBA_switzerland_fascist.6.desc:0 "Nach dem offensichtlichen Erfolg der [FROM.GetAdjective]-Besetzung von [848.GetName], bietet [FROM.GetNameDef] an, unsere [SWI_requested_territory.GetAdjective]-Gebiete in unserem Namen zu verteidigen. [~\n\n~] Natürlich bedeutet das auch, dass wir ihnen die Kontrolle über das Gebiet überlassen, also sollten wir ihre Loyalität vorsichtig einschätzen."
+ BBA_switzerland_fascist.6.desc:0 "Nach dem offensichtlichen Erfolg der [FROM.GetAdjective]-Besetzung von [848.GetName], bietet [FROM.GetNameDef] an, unsere [SWI_requested_territory.GetAdjective]-Gebiete in unserem Namen zu verteidigen. \n\n Natürlich bedeutet das auch, dass wir ihnen die Kontrolle über das Gebiet überlassen, also sollten wir ihre Loyalität vorsichtig einschätzen."
  BBA_switzerland_fascist.6.a:0 "Sie haben sich bewährt."
  BBA_switzerland_fascist.6.b:0 "$BBA_switzerland_fascist.3.b$"
 
@@ -2302,11 +2302,11 @@
  BBA_swiss_expansion.1.a:0 "Wir werden unsere Mission nicht aufgeben"
 
  BBA_swiss_expansion.2.t:0 "Dank unseres Einflusses will sich der [SWI_beeinflusster_Staat] uns anschließen"
- BBA_swiss_expansion.2.desc:0 "Nach einer umfangreichen Propagandakampagne befürwortet die Bevölkerung von [?SWI.SWI_beeinflusst_Zielstaat.GetName] mit überwältigender Mehrheit den Beitritt zum [ROOT.GetNameDef]. Das bedeutet, dass [?SWI.SWI_beeinflusst_Zielstaat.GetName], wäre es eine Demokratie wie die unsere, Teil unseres Landes wäre. Leider ist das nicht der Fall, also brauchen sie unsere Hilfe, um [SWI.GetName]'s neueste Kantone zu werden.[~\n\n~]Wir können nun auf ein Referendum im Staat drängen, um über ihre Mitgliedschaft in [ROOT.GetNameDef] zu entscheiden."
+ BBA_swiss_expansion.2.desc:0 "Nach einer umfangreichen Propagandakampagne befürwortet die Bevölkerung von [?SWI.SWI_beeinflusst_Zielstaat.GetName] mit überwältigender Mehrheit den Beitritt zum [ROOT.GetNameDef]. Das bedeutet, dass [?SWI.SWI_beeinflusst_Zielstaat.GetName], wäre es eine Demokratie wie die unsere, Teil unseres Landes wäre. Leider ist das nicht der Fall, also brauchen sie unsere Hilfe, um [SWI.GetName]'s neueste Kantone zu werden.\n\nWir können nun auf ein Referendum im Staat drängen, um über ihre Mitgliedschaft in [ROOT.GetNameDef] zu entscheiden."
  BBA_swiss_expansion.2.a:0 "Wir müssen ihnen wahre Demokratie bringen"
 
  BBA_swiss_expansion.3.t:0 "[FROM.GetNameDefCap] setzt sich für [SWI_pressed_state] ein"
- BBA_swiss_expansion.3.desc:0 "Diese angeblich neutralen Schurken in [FROM.GetName] haben die Frechheit, [?SWI.SWI_state_being_claimed.GetName] als ihren eigenen zu beanspruchen. Sie behaupten, dass die Unterstützung für den Beitritt zu [FROM.GetNameDef] groß genug ist, dass ein Referendum über diese Frage zu ihren Gunsten ausfallen würde, wodurch der Staat rechtmäßig ihnen gehören würde.[~\n\n~]Wir können [?SWI.SWI_state_being_claimed.GetName] ein Referendum durchführen lassen, das wir definitiv verlieren werden, oder einen Krieg mit ihnen riskieren, wenn wir uns weigern."
+ BBA_swiss_expansion.3.desc:0 "Diese angeblich neutralen Schurken in [FROM.GetName] haben die Frechheit, [?SWI.SWI_state_being_claimed.GetName] als ihren eigenen zu beanspruchen. Sie behaupten, dass die Unterstützung für den Beitritt zu [FROM.GetNameDef] groß genug ist, dass ein Referendum über diese Frage zu ihren Gunsten ausfallen würde, wodurch der Staat rechtmäßig ihnen gehören würde.\n\nWir können [?SWI.SWI_state_being_claimed.GetName] ein Referendum durchführen lassen, das wir definitiv verlieren werden, oder einen Krieg mit ihnen riskieren, wenn wir uns weigern."
  BBA_swiss_expansion.3.a:0 "Wir lassen uns nicht einschüchtern!"
  BBA_swiss_expansion.3.b:0 "Ein Referendum ist es also"
 
@@ -2315,11 +2315,11 @@
  BBA_swiss_expansion.4.a:0 "Unsere Konföderation expandiert!"
 
  BBA_swiss_expansion.5.t:0 "[FROM.GetNameDef] ignoriert Forderungen nach einem Referendum!"
- BBA_swiss_expansion.5.desc:0 "Trotz der Unterstützung der Bevölkerung für die Demokratie und [ROOT.GetNameDef], hat [FROM.GetName] beschlossen, die Bevölkerung von [?SWI.SWI_state_being_claimed. GetName] in ihrem Streben nach einem Referendum über ihre Mitgliedschaft in der Eidgenossenschaft zu ignorieren.[~\n\nDies ist ein klarer Aufruf an uns, zu den Waffen zu greifen und unsere besetzten Kantone gegen die Tyrannei von [FROM.GetNameDef] zu verteidigen.]"
+ BBA_swiss_expansion.5.desc:0 "Trotz der Unterstützung der Bevölkerung für die Demokratie und [ROOT.GetNameDef], hat [FROM.GetName] beschlossen, die Bevölkerung von [?SWI.SWI_state_being_claimed. GetName] in ihrem Streben nach einem Referendum über ihre Mitgliedschaft in der Eidgenossenschaft zu ignorieren.\n\nDies ist ein klarer Aufruf an uns, zu den Waffen zu greifen und unsere besetzten Kantone gegen die Tyrannei von [FROM.GetNameDef] zu verteidigen.]"
  BBA_swiss_expansion.5.a:0 "Unser Eid verlangt es!"
 
  BBA_swiss_expansion.6.t:0 "[FROM.GetNameDefCap] Möchte [848.GetName] als Kanton"
- BBA_swiss_expansion.6.desc:0 "Es scheint, dass [FROM.GetName] verlangt, dass der Staat [848.GetName] ihrer Konföderation beitritt. Sie berufen sich auf ein Referendum im Jahr 1919, bei dem der Staat mit überwältigender Mehrheit für den Beitritt als Kanton von [FROM.GetNameDef] gestimmt hat, aber von den [FROM.GetAdjective] selbst abgelehnt wurde. Es scheint, dass sie nun ihre Meinung geändert haben.[~\n\n~]Ob wir nun akzeptieren oder nicht, es ist offensichtlich, dass sie auf Expansion aus sind, also sollten wir vorsichtig sein und bereit sein, unser Gebiet zu verteidigen, selbst wenn wir ihre Forderungen akzeptieren."
+ BBA_swiss_expansion.6.desc:0 "Es scheint, dass [FROM.GetName] verlangt, dass der Staat [848.GetName] ihrer Konföderation beitritt. Sie berufen sich auf ein Referendum im Jahr 1919, bei dem der Staat mit überwältigender Mehrheit für den Beitritt als Kanton von [FROM.GetNameDef] gestimmt hat, aber von den [FROM.GetAdjective] selbst abgelehnt wurde. Es scheint, dass sie nun ihre Meinung geändert haben.\n\nOb wir nun akzeptieren oder nicht, es ist offensichtlich, dass sie auf Expansion aus sind, also sollten wir vorsichtig sein und bereit sein, unser Gebiet zu verteidigen, selbst wenn wir ihre Forderungen akzeptieren."
  BBA_swiss_expansion.6.a:0 "Das Risiko ist einen so kleinen Staat nicht wert"
  BBA_swiss_expansion.6.b:0 "[ROOT.GetName] wird niemals ein Gebiet abtreten!"
  BBA_swiss_expansion.6.c:0 "Wir lassen uns nicht von dem Pickel im Gesicht Europas einschüchtern."
@@ -2334,7 +2334,7 @@
  BBA_swiss_expansion.8.a:0 "Dies ist für die Demokratie!"
 
  BBA_swiss_expansion.9.t:0 "[FROM.GetName] Bietet ihren Schutz an"
- BBA_swiss_expansion.9.desc:0 "Nachdem [FROM.GetName] die Auslieferung von [848.GetName] unter fragwürdigen Vorwänden gefordert hat, bietet [FROM.GetNameDef] an, unsere Territorien zu übernehmen, um uns angeblich vor [GER.GetNameDef] zu schützen, von dem sie behaupten, dass er wahrscheinlich versuchen wird, [ROOT.GetNameDef] bald zu annektieren. [~\n\n~]Das klingt zwar relativ plausibel und gemeinsam hätten wir eine bessere Chance, eine Invasion abzuwehren, aber mit unserer Souveränität zu bezahlen, könnte ein zu hoher Preis sein.[~\n\n~]Natürlich können wir erwarten, dass sie uns angreifen, wenn wir uns weigern."
+ BBA_swiss_expansion.9.desc:0 "Nachdem [FROM.GetName] die Auslieferung von [848.GetName] unter fragwürdigen Vorwänden gefordert hat, bietet [FROM.GetNameDef] an, unsere Territorien zu übernehmen, um uns angeblich vor [GER.GetNameDef] zu schützen, von dem sie behaupten, dass er wahrscheinlich versuchen wird, [ROOT.GetNameDef] bald zu annektieren. \n\nDas klingt zwar relativ plausibel und gemeinsam hätten wir eine bessere Chance, eine Invasion abzuwehren, aber mit unserer Souveränität zu bezahlen, könnte ein zu hoher Preis sein.\n\nNatürlich können wir erwarten, dass sie uns angreifen, wenn wir uns weigern."
  BBA_swiss_expansion.9.a:0 "Das könnte unsere einzige Chance zu überleben sein."
  BBA_swiss_expansion.9.b:0 "Das ist ein Preis, den wir nicht zu zahlen bereit sind!"
 
@@ -2380,7 +2380,7 @@
  BBA_swiss_expansion.17.a:0 "Was kommt als nächstes für [ROOT.GetNonIdeologyName]?"
 
  BBA_swiss_expansion.18.t:0 "[FROM.GetNameDefCap] Gewährt uns und den Alpen unsere Unabhängigkeit"
- BBA_swiss_expansion.18.desc:0 "Unsere Entwürfe kommen endlich zusammen. [ROOT.GetNonIdeologyName] bekommt endlich seine Unabhängigkeit zurück, und mit ihr die Gebiete, die früher als [FROM.GetAdjective] Alpen.[~\n\n~]Während wir nicht mehr mit dem Schutz unseres alten Oberherrn rechnen, wird das Land, das wir gerade erworben haben, unser Überleben sicherer machen."
+ BBA_swiss_expansion.18.desc:0 "Unsere Entwürfe kommen endlich zusammen. [ROOT.GetNonIdeologyName] bekommt endlich seine Unabhängigkeit zurück, und mit ihr die Gebiete, die früher als [FROM.GetAdjective] Alpen.\n\nWährend wir nicht mehr mit dem Schutz unseres alten Oberherrn rechnen, wird das Land, das wir gerade erworben haben, unser Überleben sicherer machen."
  BBA_swiss_expansion.18.a:0 "[ROOT.GetNameDefCap] erhebt sich!"
 
  BBA_swiss_expansion.19.t:0 "[FROM.GetName] Wird nicht zulassen, dass [ROOT.GetNonIdeologyName] Unabhängig sein!"

@@ -70,7 +70,7 @@
  BRI_special_forces:0 "Spezialtruppen"
  BRI_special_forces_desc:0 "Wir brauchen Elitetruppen; Gebirgsjäger und Fallschirmjäger sollten unsere Priorität sein."
  BRI_aviation_effort:0 "Wir haben die [BRI.GetAdjective] Flugschule"
- BRI_aviation_effort_tt:0 "Nicht genügend Gebäudeslots für die [§Y~]Air Base[~§!]"
+ BRI_aviation_effort_tt:0 "Nicht genügend Gebäudeslots für die [§Y~]Air Base§!"
  BRI_aviation_effort_desc:0 "Nirgendwo ist der technologische Fortschritt so rasant wie in der Luftkriegsführung. Die Luftfahrt ist ein Bereich, den jede moderne Nation beherrschen muss."
  BRI_fighter_focus:0 "Schwerpunkt Kampfflugzeuge"
  BRI_fighter_focus_desc:0 "Die Luftkämpfe des Großen Krieges sind noch nicht vorbei. Wenn wir bei der Entwicklung von Kampfflugzeugen die Nase vorn haben, werden wir auch in Zukunft im Vorteil sein."

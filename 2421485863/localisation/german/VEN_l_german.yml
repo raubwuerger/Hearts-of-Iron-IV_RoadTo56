@@ -771,11 +771,11 @@
  #events ""
 
  venezuela.1.t:0 "[VEN.GetNameDefCap] Setzt ihren Anspruch auf Curaçao durch"
- venezuela.1.d:0 "Der [VEN.GetAdjective]-Führer [VEN.GetLeader] hat deutlich gemacht, dass die Insel Curaçao, die nur 60 km vor der Küste Venezuelas liegt, ein rechtmäßiger Teil der Nation ist und zurückgegeben werden sollte. Selbst wenn das mit Gewalt geschieht.[~\n\n~]Das könnte eine Rechtfertigung für eine Invasion der Insel sein, also müssen wir auf das Schlimmste vorbereitet sein."
+ venezuela.1.d:0 "Der [VEN.GetAdjective]-Führer [VEN.GetLeader] hat deutlich gemacht, dass die Insel Curaçao, die nur 60 km vor der Küste Venezuelas liegt, ein rechtmäßiger Teil der Nation ist und zurückgegeben werden sollte. Selbst wenn das mit Gewalt geschieht.\n\nDas könnte eine Rechtfertigung für eine Invasion der Insel sein, also müssen wir auf das Schlimmste vorbereitet sein."
  venezuela.1.a:0 "Wir müssen etwas tun."
 
  venezuela.2.t:0 "[VEN.GetName] Sieg auf Curaçao"
- venezuela.2.d:0 "Nach erbitterten Kämpfen gelang es den [VEN.GetAdjective] Invasoren, auf Curaçao zu landen und die [695.Owner.getAdjective] Verteidiger zu überwältigen. Später eroberten sie die Hauptstadt Willemstad.[~\n\n~]Wo dies zu einem weiteren größeren Konflikt in der Region führen könnte, kann man mit Sicherheit sagen, dass die Insel fest in der Hand Venezuelas ist."
+ venezuela.2.d:0 "Nach erbitterten Kämpfen gelang es den [VEN.GetAdjective] Invasoren, auf Curaçao zu landen und die [695.Owner.getAdjective] Verteidiger zu überwältigen. Später eroberten sie die Hauptstadt Willemstad.\n\nWo dies zu einem weiteren größeren Konflikt in der Region führen könnte, kann man mit Sicherheit sagen, dass die Insel fest in der Hand Venezuelas ist."
  venezuela.2.a:0 "Nun gut."
 
  venezuela.3.t:0 "[695.Owner.GetName] Sieg auf Curaçao"
@@ -835,7 +835,7 @@
  venezuela.15.b:0 "Vielleicht können wir dies zu unserem Vorteil nutzen."
 
  venezuela.16.t:0 "Amtseinführung von Eleazar Contreras"
- venezuela.16.d:0 "Heute wurde offiziell bekannt gegeben, dass Eleazar López Contreras aufgrund seiner großen Beliebtheit bei der Regierung und dem Volk einen entscheidenden Wahlsieg errungen hat.[~\n\nEs ist geplant, dass er im Laufe des Tages vor dem Kongress des Legislativpalastes der Union als 45. [Contreras' Versprechen, das venezolanische Gesundheitswesen, die Infrastruktur und die Streitkräfte zu modernisieren und gleichzeitig einen langsamen Übergang zur Demokratie einzuleiten, lässt viele [VEN.GetAdjective]s dieses Ereignis als den Beginn eines neuen Zeitalters für ihre Nation sehen."
+ venezuela.16.d:0 "Heute wurde offiziell bekannt gegeben, dass Eleazar López Contreras aufgrund seiner großen Beliebtheit bei der Regierung und dem Volk einen entscheidenden Wahlsieg errungen hat.\n\nEs ist geplant, dass er im Laufe des Tages vor dem Kongress des Legislativpalastes der Union als 45. [Contreras' Versprechen, das venezolanische Gesundheitswesen, die Infrastruktur und die Streitkräfte zu modernisieren und gleichzeitig einen langsamen Übergang zur Demokratie einzuleiten, lässt viele [VEN.GetAdjective]s dieses Ereignis als den Beginn eines neuen Zeitalters für ihre Nation sehen."
  venezuela.16.a:0 "Ein Held für [VEN.GetNameDef]."
 
  venezuela.17.t:0 "[VEN.GetName] bittet um Nicht-Aggression"
@@ -864,7 +864,7 @@
  venezuela.22.a:0 "Das Volk hat gesprochen."
 
  venezuela.23.t:0 "Das Schicksal von Marcos Jiménez"
- venezuela.23.d:0 "General Marcos Pérez Jiménez war in letzter Zeit ein Problem für die [VEN.GetAdjective]-Regierung, da er das Militär zu Gunsten der Politik des alten Diktators Juan Vicente Gómez abtrünnig machte. Die Nation ist in Bezug auf Jiménez geteilter Meinung: Entweder hält man ihn für einen talentierten General und eine starke Führungspersönlichkeit oder für einen inkompetenten Politiker, der verzweifelt versucht, an einer überholten Politik festzuhalten.[~\n\n~]In letzter Zeit haben viele Politiker begonnen, die Rolle von Jiménez im Militär und in der Regierung in Frage zu stellen. Soll er beim Militär bleiben und sich möglicherweise zu einer politischen Bedrohung entwickeln lassen? Oder ihn aus dem Militär entlassen und sicherstellen, dass er nie wieder eine Bedrohung darstellt?"
+ venezuela.23.d:0 "General Marcos Pérez Jiménez war in letzter Zeit ein Problem für die [VEN.GetAdjective]-Regierung, da er das Militär zu Gunsten der Politik des alten Diktators Juan Vicente Gómez abtrünnig machte. Die Nation ist in Bezug auf Jiménez geteilter Meinung: Entweder hält man ihn für einen talentierten General und eine starke Führungspersönlichkeit oder für einen inkompetenten Politiker, der verzweifelt versucht, an einer überholten Politik festzuhalten.\n\nIn letzter Zeit haben viele Politiker begonnen, die Rolle von Jiménez im Militär und in der Regierung in Frage zu stellen. Soll er beim Militär bleiben und sich möglicherweise zu einer politischen Bedrohung entwickeln lassen? Oder ihn aus dem Militär entlassen und sicherstellen, dass er nie wieder eine Bedrohung darstellt?"
  venezuela.23.a:0 "Behalten Sie ihn, er ist nur eine Schachfigur."
  venezuela.23.b:0 "Er ist eine Belastung, er muss weg."
 
@@ -878,11 +878,11 @@
  venezuela.25.a:0 "Ein trauriger Tag für Venezuela."
 
  venezuela.26.t:0 "[VEN.GetNameDefCap] Setzt ihren Anspruch auf Trinidad durch"
- venezuela.26.d:0 "Der [VEN.GetAdjective]-Führer [VEN.GetLeader] hat klargestellt, dass die Insel Trinidad, die nur 11 km vor der Küste Venezuelas liegt, ein rechtmäßiger Teil der Nation ist und zurückgegeben werden sollte. Selbst wenn das mit Gewalt geschieht.[~\n\n~]Das könnte eine Rechtfertigung für eine Invasion der Insel sein, also müssen wir auf das Schlimmste gefasst sein."
+ venezuela.26.d:0 "Der [VEN.GetAdjective]-Führer [VEN.GetLeader] hat klargestellt, dass die Insel Trinidad, die nur 11 km vor der Küste Venezuelas liegt, ein rechtmäßiger Teil der Nation ist und zurückgegeben werden sollte. Selbst wenn das mit Gewalt geschieht.\n\nDas könnte eine Rechtfertigung für eine Invasion der Insel sein, also müssen wir auf das Schlimmste gefasst sein."
  venezuela.26.a:0 "Wir müssen etwas tun."
 
  venezuela.27.t:0 "[VEN.GetName] Sieg bei Trinidad"
- venezuela.27.d:0 "Nach erbitterten Kämpfen gelang es den [VEN.GetAdjective] Invasoren, auf Curaçao zu landen und die [695.Owner.getAdjective] Verteidiger zu überwältigen. Später eroberten sie die Hauptstadt Port of Spain.[~\n\n~]Auch wenn dies zu einem weiteren größeren Konflikt in der Region führen könnte, kann man mit Sicherheit sagen, dass die Insel fest in der Hand Venezuelas ist."
+ venezuela.27.d:0 "Nach erbitterten Kämpfen gelang es den [VEN.GetAdjective] Invasoren, auf Curaçao zu landen und die [695.Owner.getAdjective] Verteidiger zu überwältigen. Später eroberten sie die Hauptstadt Port of Spain.\n\nAuch wenn dies zu einem weiteren größeren Konflikt in der Region führen könnte, kann man mit Sicherheit sagen, dass die Insel fest in der Hand Venezuelas ist."
  venezuela.27.a:0 "Nun gut."
 
  venezuela.28.t:0 "[691.Owner.GetName] Sieg bei Trinidad"
@@ -895,7 +895,7 @@
  venezuela.29.b:0 "Lasst sie in Ruhe, diese Inseln sind nicht wichtig."
 
  venezuela.30.t:0 "1941 Präsidentschaftswahlen"
- venezuela.30.d:0 "Die erste Amtszeit von [VEN.GetLeader] ist fast abgelaufen, so dass bald neue Präsidentschaftswahlen stattfinden werden. [VEN.GetLeader] tritt zur Wiederwahl als Präsident von Venezuela an, allerdings gegen den jungen, erfahrenen und vielversprechenden Offizier Gral. Audelino Moreno, der deutlich macht, dass er die Absicht hat, in die Fußstapfen seines Vorgängers zu treten.[~\n]Wen soll das Volk wählen?"
+ venezuela.30.d:0 "Die erste Amtszeit von [VEN.GetLeader] ist fast abgelaufen, so dass bald neue Präsidentschaftswahlen stattfinden werden. [VEN.GetLeader] tritt zur Wiederwahl als Präsident von Venezuela an, allerdings gegen den jungen, erfahrenen und vielversprechenden Offizier Gral. Audelino Moreno, der deutlich macht, dass er die Absicht hat, in die Fußstapfen seines Vorgängers zu treten.\n]Wen soll das Volk wählen?"
  venezuela.30.a:0 "Contreras hat der Nation bisher gut gedient."
  venezuela.30.b:0 "Audelino Moreno ist ein würdiger Kandidat."
 
@@ -909,7 +909,7 @@
  venezuela.32.a:0 "Wir werden der Tyrannei ein für alle Mal ein Ende setzen."
 
  venezuela.33.t:0 "Aufstand der ARDI-Kräfte"
- venezuela.33.d:0 "Die ARDI-Kräfte haben sich in einer gewalttätigen Rebellion in den großen Städten des Landes erhoben und viele Schlüsselpositionen in der Region eingenommen, die Garnisonsdivisionen in der Region wurden zum Rückzug gezwungen. Nach dieser demütigenden Niederlage wurde Eleazar López Contreras unter Druck gesetzt, sein Amt niederzulegen und den jungen Offizier Gral. Audelino Moreno ersetzt, der einen radikaleren Ansatz im Umgang mit der Rebellion verfolgt.[~\n\nTrotz des Vorteils der ARDI ist es klar, dass ein ausgewachsener Bürgerkrieg kurz bevorsteht."
+ venezuela.33.d:0 "Die ARDI-Kräfte haben sich in einer gewalttätigen Rebellion in den großen Städten des Landes erhoben und viele Schlüsselpositionen in der Region eingenommen, die Garnisonsdivisionen in der Region wurden zum Rückzug gezwungen. Nach dieser demütigenden Niederlage wurde Eleazar López Contreras unter Druck gesetzt, sein Amt niederzulegen und den jungen Offizier Gral. Audelino Moreno ersetzt, der einen radikaleren Ansatz im Umgang mit der Rebellion verfolgt.\n\nTrotz des Vorteils der ARDI ist es klar, dass ein ausgewachsener Bürgerkrieg kurz bevorsteht."
  venezuela.33.a:0 "Schluss mit der Tyrannei!"
 
  venezuela.34.t:0 "PCV ergreift die Macht"
@@ -917,24 +917,24 @@
  venezuela.34.a:0 "Venezuela wird jetzt von den Arbeitern regiert."
 
  venezuela.35.t:0 "AD konsolidiert Macht"
- venezuela.35.d:0 "Die Acción Democrática (AD) hat es mit größerer Unterstützung der Arbeiterschaft und des breiteren politischen Spektrums geschafft, sich eine große Mehrheit in der ARDI zu sichern und damit die Kontrolle über das Land zu erlangen, was zu einer gemischten Unterstützung im eigenen Land geführt hat. Andere, vor allem in der extremen Rechten, sind jedoch der Meinung, dass die AD viel zu sehr mit den Kommunisten verbündet ist und dass man ihr nicht zutrauen kann, diese Versprechen zu halten.[~\n\nDas wird die Zeit zeigen."
+ venezuela.35.d:0 "Die Acción Democrática (AD) hat es mit größerer Unterstützung der Arbeiterschaft und des breiteren politischen Spektrums geschafft, sich eine große Mehrheit in der ARDI zu sichern und damit die Kontrolle über das Land zu erlangen, was zu einer gemischten Unterstützung im eigenen Land geführt hat. Andere, vor allem in der extremen Rechten, sind jedoch der Meinung, dass die AD viel zu sehr mit den Kommunisten verbündet ist und dass man ihr nicht zutrauen kann, diese Versprechen zu halten.\n\nDas wird die Zeit zeigen."
  venezuela.35.a:0 "Lieber Sozialisten als Kommunisten."
 
  venezuela.36.t:0 "Präsident Betancourts Vermächtnis"
- venezuela.36.d:0 "Präsident Betancourt hat in nur kurzer Zeit die [VEN.GetAdjective]-Wirtschaft vollständig umgestaltet und den Wohlstand und den Lebensstandard des Volkes drastisch verbessert, es ist klar, dass der Barranquilla-Plan erfolgreich war, Betancourt wird jetzt als Held gesehen.[~\n\n~]Der einzige Teil, der noch aussteht, ist Artikel 9 des Plans, nämlich die Reorganisation der Streitkräfte, mit dem Präsidenten an der Spitze."
+ venezuela.36.d:0 "Präsident Betancourt hat in nur kurzer Zeit die [VEN.GetAdjective]-Wirtschaft vollständig umgestaltet und den Wohlstand und den Lebensstandard des Volkes drastisch verbessert, es ist klar, dass der Barranquilla-Plan erfolgreich war, Betancourt wird jetzt als Held gesehen.\n\nDer einzige Teil, der noch aussteht, ist Artikel 9 des Plans, nämlich die Reorganisation der Streitkräfte, mit dem Präsidenten an der Spitze."
  venezuela.36.a:0 "Venezuela, geeint unter einem gemeinsamen Ziel."
 
  venezuela.37.t:0 "[VEN.GetNameDef] Fordert den Beitritt zu [SOV.GetNameDefCap]"
- venezuela.37.d:0 "Das neue kommunistische [VEN.GetAdjective]-Regime, die PCV, hat uns heute ein formelles Ersuchen um den Beitritt zur UdSSR geschickt und bietet uns ihre bedingungslose Unterstützung in allen Belangen an.[~\n\n~]Obwohl dies ein verlockendes Angebot ist, könnte es in Anbetracht der geographischen und strategischen Lage Venezuelas problematisch sein."
+ venezuela.37.d:0 "Das neue kommunistische [VEN.GetAdjective]-Regime, die PCV, hat uns heute ein formelles Ersuchen um den Beitritt zur UdSSR geschickt und bietet uns ihre bedingungslose Unterstützung in allen Belangen an.\n\nObwohl dies ein verlockendes Angebot ist, könnte es in Anbetracht der geographischen und strategischen Lage Venezuelas problematisch sein."
  venezuela.37.a:0 "Alles für unsere Kameraden."
  venezuela.37.b:0 "[VEN.GetNameDefCap]? Das ist gut."
 
  venezuela.38.t:0 "[SOV.GetNameDefCap] Genehmigt unsere Mitgliedschaft"
- venezuela.38.d:0 "Der sowjetische Führer [SOV.GetLeader] hat unser Angebot mit offenen Armen angenommen und nimmt uns formell in die UdSSR auf.[~\n\n~]Gemeinsam ist der Kommunismus stark."
+ venezuela.38.d:0 "Der sowjetische Führer [SOV.GetLeader] hat unser Angebot mit offenen Armen angenommen und nimmt uns formell in die UdSSR auf.\n\nGemeinsam ist der Kommunismus stark."
  venezuela.38.a:0 "Wir fühlen uns geehrt, Genossinnen und Genossen."
 
  venezuela.39.t:0 "[SOV.GetNameDefCap] Lehnt unsere Mitgliedschaft ab"
- venezuela.39.d:0 "Die Sowjetunion hat unser Angebot, der UdSSR beizutreten, empört abgelehnt und sogar zum Ausdruck gebracht, dass sie kein Interesse daran hat, nach Lateinamerika zu gehen.[~\n\nEs scheint, dass die "Heimat der Revolution" nichts als eine Lüge ist."
+ venezuela.39.d:0 "Die Sowjetunion hat unser Angebot, der UdSSR beizutreten, empört abgelehnt und sogar zum Ausdruck gebracht, dass sie kein Interesse daran hat, nach Lateinamerika zu gehen.\n\nEs scheint, dass die "Heimat der Revolution" nichts als eine Lüge ist."
  venezuela.39.a:0 "Verräter."
 
  venezuela.40.t:0 "Kreolische Anarchisten inszenieren Putsch"

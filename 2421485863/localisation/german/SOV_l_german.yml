@@ -291,7 +291,7 @@
  SOV_siberian_forest_soldiers_focus:0 "Durch die Tundren und Wälder..."
  SOV_siberian_forest_soldiers_focus_desc:0 "Zwischen uns und dem Herzen des maroden Sowjetregimes liegt ein riesiger Streifen kalter Wälder und Tundra-Ödland. Unsere tapferen Helden müssen bereit sein, sich der Herausforderung zu stellen, die das Überleben in diesen Zwischengebieten erfordert."
  SOV_siberian_forest_soldiers_idea:0 "Sibirische Waldsoldaten"
- SOV_okhrana_focus_tt:0 "Erschaffe den Geheimdienst: §YOkhrana§!.[~\n\n~]"
+ SOV_okhrana_focus_tt:0 "Erschaffe den Geheimdienst: §YOkhrana§!.\n\n"
  SOV_russia_okhrana_idea:0 "Okhrana wiederhergestellt"
  SOV_consolidate_power_tt_2:0 "Entfernen Sie Ideen §Y$SOV_the_true_tsars_idea$§!, §Y$SOV_fascist_womens_movement_idea$§!, §Y$SOV_siberian_forest_soldiers_idea$§!"
 

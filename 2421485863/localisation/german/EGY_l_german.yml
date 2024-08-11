@@ -74,7 +74,7 @@
  EGY_an_agrarian_society_desc:0 ""
  EGY_education_for_the_poor:0 "Bildung für die Armen"
  EGY_education_for_the_poor_desc:0 ""
- EGY_education_for_the_poor_tt:0 "$EGY_modify_islamic_fiscal_intro$ \nForschungsgeschwindigkeit §G+5.00%§![~\n\n~]"
+ EGY_education_for_the_poor_tt:0 "$EGY_modify_islamic_fiscal_intro$ \nForschungsgeschwindigkeit §G+5.00%§!\n\n"
  EGY_islamic_fiscal_theory:0 "Islamische Fiskaltheorie"
  EGY_islamic_fiscal_theory_desc:0 ""
  EGY_disband_sudanese_partisans:0 "Auflösen [SUD.GetAdjective] Partisanen"
@@ -82,7 +82,7 @@
  EGY_disband_sudanese_partisans_tt:0 "Löst alle [SUD.GetAdjective]-Partisanen auf und stellt §YArbeitskräfte§! und §YInfanterie-Ausrüstung§! zur Verfügung, während gleichzeitig Entscheidungen zur Befriedung der [SUD.GetAdjective]-Staaten und zur Beseitigung des §Ysudanesischen Separatismus§! für diejenigen freigeschaltet werden, die sich uns nicht angeschlossen haben."
  EGY_national_healthcare:0 "Nationale Gesundheitsversorgung"
  EGY_national_healthcare_desc:0 ""
- EGY_national_healthcare_tt:0 "$EGY_modify_islamic_fiscal_intro$ \nDivision Attrition §G-10%§![~\n\n~]"
+ EGY_national_healthcare_tt:0 "$EGY_modify_islamic_fiscal_intro$ \nDivision Attrition §G-10%§!\n\n"
  EGY_integrate_the_green_shirts:0 "Integrieren Sie die Grünhemden"
  EGY_integrate_the_green_shirts_desc:0 ""
  EGY_guns_for_the_people:0 "Gewehre für das Volk"
@@ -456,16 +456,16 @@
  EGY_the_egyptian_army_idea_desc:0 "Jahre der Vernachlässigung durch die Regierung und die Wirtschaft haben die Armee in einen schlechten Zustand versetzt, eine Modernisierung und Reform ist im Falle eines neuen Konflikts erforderlich."
  EGY_the_egyptian_army_modifier:0 "Die ägyptische Armee"
  EGY_modify_the_egyptian_army_intro:0 "Ändern Sie §YDie [EGY.GetAdjective] Armee§! durch"
- EGY_egyptian_military_academy_tt:0 "$EGY_modify_the_egyptian_army_intro$ \nMilitärische Anführerkosten: §G-50%§!\nLanddoktrin Kosten: §G-10%§!\nTäglicher Kommando Machtgewinn Multiplikator: §G+10%§![~\n\n~]"
- EGY_new_military_institute_tt:0 "$EGY_modify_the_egyptian_army_intro$ \nMilitärische Anführerkosten: §G-50%§!\nLanddoktrin Kosten: §G-10%§![~\n\n~]"
- EGY_field_piece_research_tt:0 "$EGY_modify_the_egyptian_army_intro$ \nDivision Attack: §G+10.0%§![~\n\n~]"
- EGY_logistical_brigades_tt:0 "$EGY_modify_the_egyptian_army_intro$ \nDivision Organisation: §G+10.0%§![~\n\n~]"
- EGY_desert_camoflauge_tt:0 "$EGY_modify_the_egyptian_army_intro$ \nSchadensreduzierung gegen CAS: §G+10.0%§![~\n\n~]"
- EGY_continue_motorization_of_the_army_tt:0 "$EGY_modify_the_egyptian_army_intro$ \nAbteilungsgeschwindigkeit: §G+5%§![~\n\n~]"
- EGY_sudanese_volunteers_tt:0 "$EGY_modify_the_egyptian_army_intro$ \nNon-core Manpower: §G+10.0%§![~\n\n~]"
- EGY_continue_army_segregation_tt:0 "$EGY_modify_the_egyptian_army_intro$ \nRekrutierbare Bevölkerung: §Y+1.00%§!\nDivision Organisation: §G+5.00%§![~\n\n~]"
- EGY_expand_the_defence_department_tt:0 "$EGY_modify_the_egyptian_army_intro$ \nMax Entrenchment: §G+5.0§!\n§YLandfort§! Baugeschwindigkeit: §G+10.00%§![~\n\n~]"
- EGY_unit_777_tt:0 "$EGY_modify_the_egyptian_army_intro$ \nWärmeabnutzung: §G-10.0%§![~\n\n~]"
+ EGY_egyptian_military_academy_tt:0 "$EGY_modify_the_egyptian_army_intro$ \nMilitärische Anführerkosten: §G-50%§!\nLanddoktrin Kosten: §G-10%§!\nTäglicher Kommando Machtgewinn Multiplikator: §G+10%§!\n\n"
+ EGY_new_military_institute_tt:0 "$EGY_modify_the_egyptian_army_intro$ \nMilitärische Anführerkosten: §G-50%§!\nLanddoktrin Kosten: §G-10%§!\n\n"
+ EGY_field_piece_research_tt:0 "$EGY_modify_the_egyptian_army_intro$ \nDivision Attack: §G+10.0%§!\n\n"
+ EGY_logistical_brigades_tt:0 "$EGY_modify_the_egyptian_army_intro$ \nDivision Organisation: §G+10.0%§!\n\n"
+ EGY_desert_camoflauge_tt:0 "$EGY_modify_the_egyptian_army_intro$ \nSchadensreduzierung gegen CAS: §G+10.0%§!\n\n"
+ EGY_continue_motorization_of_the_army_tt:0 "$EGY_modify_the_egyptian_army_intro$ \nAbteilungsgeschwindigkeit: §G+5%§!\n\n"
+ EGY_sudanese_volunteers_tt:0 "$EGY_modify_the_egyptian_army_intro$ \nNon-core Manpower: §G+10.0%§!\n\n"
+ EGY_continue_army_segregation_tt:0 "$EGY_modify_the_egyptian_army_intro$ \nRekrutierbare Bevölkerung: §Y+1.00%§!\nDivision Organisation: §G+5.00%§!\n\n"
+ EGY_expand_the_defence_department_tt:0 "$EGY_modify_the_egyptian_army_intro$ \nMax Entrenchment: §G+5.0§!\n§YLandfort§! Baugeschwindigkeit: §G+10.00%§!\n\n"
+ EGY_unit_777_tt:0 "$EGY_modify_the_egyptian_army_intro$ \nWärmeabnutzung: §G-10.0%§!\n\n"
 
 
  #airforce tree ""
@@ -622,29 +622,29 @@
 
  EGY_exert_royal_influence_description:0 "Da der königliche Einfluss in den letzten Jahren in den [SUD.GetAdjective]-Staaten geschwunden ist, werden wir eine Propagandakampagne durchführen, um die Menschen in dieser Region daran zu erinnern, wem sie treu sind."
  EGY_exert_royal_influence_in_khartoum_region:0 "Königlichen Einfluss in der Region Khartoum ausüben"
- EGY_exert_royal_influence_in_khartoum_region_desc:0 "$EGY_royal_influence_description$[~\n\n~]$EGY_high_compliance_reminder$"
+ EGY_exert_royal_influence_in_khartoum_region_desc:0 "$EGY_royal_influence_description$\n\n$EGY_high_compliance_reminder$"
  EGY_exert_royal_influence_in_darfur_region:0 "Königlichen Einfluss in der Region Darfur ausüben"
- EGY_exert_royal_influence_in_darfur_region_desc:0 "$EGY_exert_royal_influence_description$[~\n\n~]$EGY_high_compliance_reminder$"
+ EGY_exert_royal_influence_in_darfur_region_desc:0 "$EGY_exert_royal_influence_description$\n\n$EGY_high_compliance_reminder$"
  EGY_exert_royal_influence_in_upper_nile_region:0 "Königlichen Einfluss in der Region Oberer Nil ausüben"
- EGY_exert_royal_influence_in_upper_nile_region_desc:0 "$EGY_exert_royal_influence_description$[~\n\n~]$EGY_high_compliance_reminder$"
+ EGY_exert_royal_influence_in_upper_nile_region_desc:0 "$EGY_exert_royal_influence_description$\n\n$EGY_high_compliance_reminder$"
 
  EGY_standard_pacify_description:0 "Da wir nun über die entsprechende Organisation verfügen, können wir unsere Bemühungen nutzen, um einen Keil in den organisierten Widerstand zu treiben und die [SUD.GetAdjective]-Region endlich wieder unter unumstrittene Kontrolle zu bringen."
  EGY_pacify_separatists_in_khartoum:0 "Befriedung der Separatisten in [551.GetName]"
- EGY_pacify_separatists_in_khartoum_desc:0 "$EGY_standard_pacify_description$[~\n\n~]$EGY_high_compliance_reminder$"
+ EGY_pacify_separatists_in_khartoum_desc:0 "$EGY_standard_pacify_description$\n\n$EGY_high_compliance_reminder$"
  EGY_pacify_separatists_in_kassala:0 "Befriedet Separatisten in [883.GetName]"
- EGY_pacify_separatists_in_kassala_desc:0 "$EGY_standard_pacify_description$[~\n\n~]$EGY_high_compliance_reminder$"
+ EGY_pacify_separatists_in_kassala_desc:0 "$EGY_standard_pacify_description$\n\n$EGY_high_compliance_reminder$"
  EGY_pacify_separatists_in_south_darfur:0 "Befriedet Separatisten in [887.GetName]"
- EGY_pacify_separatists_in_south_darfur_desc:0 "$EGY_standard_pacify_description$[~\n\n~]$EGY_high_compliance_reminder$"
+ EGY_pacify_separatists_in_south_darfur_desc:0 "$EGY_standard_pacify_description$\n\n$EGY_high_compliance_reminder$"
  EGY_pacify_separatists_in_kurdufan:0 "Befriedet Separatisten in [549.GetName]"
- EGY_pacify_separatists_in_kurdufan_desc:0 "$EGY_standard_pacify_description$[~\n\n~]$EGY_high_compliance_reminder$"
+ EGY_pacify_separatists_in_kurdufan_desc:0 "$EGY_standard_pacify_description$\n\n$EGY_high_compliance_reminder$"
  EGY_pacify_separatists_in_blue_nile:0 "Befriedet Separatisten in [886.GetName]"
- EGY_pacify_separatists_in_blue_nile_desc:0 "$EGY_standard_pacify_description$[~\n\n~]$EGY_high_compliance_reminder$"
+ EGY_pacify_separatists_in_blue_nile_desc:0 "$EGY_standard_pacify_description$\n\n$EGY_high_compliance_reminder$"
  EGY_pacify_separatists_in_upper_nile:0 "Befriedet Separatisten in [884.GetName]"
- EGY_pacify_separatists_in_upper_nile_desc:0 "$EGY_standard_pacify_description$[~\n\n~]$EGY_high_compliance_reminder$"
+ EGY_pacify_separatists_in_upper_nile_desc:0 "$EGY_standard_pacify_description$\n\n$EGY_high_compliance_reminder$"
  EGY_pacify_separatists_in_bahr_al_ghazal:0 "Befriedet Separatisten in [885.GetName]"
- EGY_pacify_separatists_in_bahr_al_ghazal_desc:0 "$EGY_standard_pacify_description$[~\n\n~]$EGY_high_compliance_reminder$"
+ EGY_pacify_separatists_in_bahr_al_ghazal_desc:0 "$EGY_standard_pacify_description$\n\n$EGY_high_compliance_reminder$"
  EGY_pacify_separatists_in_jonglei:0 "Befriedet Separatisten in [884.GetName]"
- EGY_pacify_separatists_in_jonglei_desc:0 "$EGY_standard_pacify_description$[~\n\n~]$EGY_high_compliance_reminder$"
+ EGY_pacify_separatists_in_jonglei_desc:0 "$EGY_standard_pacify_description$\n\n$EGY_high_compliance_reminder$"
  EGY_pacification_cost_change:0 "§YÄndert sich je nach Grad des Separatismus§!\n"
 
  EGY_sudanese_elections_category:0 "[SUD.GetAdjective] Wahlen"
@@ -751,7 +751,7 @@
  #events ""
 
  egypt.1.t:0 "Tod von Fuad I."
- egypt.1.d:0 "Fuad I., der 5 Jahre lang als Sultan unserer Nation und dann weitere 14 Jahre als König diente, ist im königlichen Koubbeh-Palast im Schlaf gestorben. Er wurde 68 Jahre alt.[~\n\nFuad I. führte unsere Nation durch die späteren Phasen des Großen Krieges und überwachte die [EGY.GetAdjective]-Revolution von 1919 und die letztendliche Unabhängigkeitserklärung von [ENG.GetNameDef] im Jahr 1922, er fuhr dann fort, die Position von [EGY.GetNameDef] weltweit zu stärken und reformierte und formte das Königreich, wie wir es kennen. [Mit Fuads Tod wird sein Sohn Farouk als Farouk I. unmittelbarer Thronfolger. Da Farouk jedoch noch nicht volljährig ist, wird er bis zu seiner Volljährigkeit in einigen Jahren von Aziz Ezzat und mehreren anderen Prinzen regiert."
+ egypt.1.d:0 "Fuad I., der 5 Jahre lang als Sultan unserer Nation und dann weitere 14 Jahre als König diente, ist im königlichen Koubbeh-Palast im Schlaf gestorben. Er wurde 68 Jahre alt.\n\nFuad I. führte unsere Nation durch die späteren Phasen des Großen Krieges und überwachte die [EGY.GetAdjective]-Revolution von 1919 und die letztendliche Unabhängigkeitserklärung von [ENG.GetNameDef] im Jahr 1922, er fuhr dann fort, die Position von [EGY.GetNameDef] weltweit zu stärken und reformierte und formte das Königreich, wie wir es kennen. [Mit Fuads Tod wird sein Sohn Farouk als Farouk I. unmittelbarer Thronfolger. Da Farouk jedoch noch nicht volljährig ist, wird er bis zu seiner Volljährigkeit in einigen Jahren von Aziz Ezzat und mehreren anderen Prinzen regiert."
  egypt.1.a:0 "Ein Nationalheld verloren."
 
  egypt.2.t:0 "[getYear] Anglo-[EGY.GetAdjective] Konferenz"
@@ -764,7 +764,7 @@
  egypt.3.b:0 "Ägypten ist zu wichtig, das darf nicht passieren."
 
  egypt.4.t:0 "[EGY.GetNameDefCap] droht uns mit [ITA.GetNameDef]"
- egypt.4.d:0 "[EGY.getNameDefCap] hat unserer Delegation vor kurzem deutlich gemacht, dass sie diplomatische Beziehungen mit [ITA.getNameDef] aufzunehmen gedenkt, wenn die Verhandlungen über die Unabhängigkeit von [EGY.GetAdjective] nicht deutlich vorankommen. getNameDef] aufzunehmen, um zu sehen, ob sie durch Bündnisse mit anderen europäischen Nationen mehr erreichen können.[~\n\n~]Während dies möglicherweise ein Bluff sein könnte, um uns zu Zugeständnissen zu zwingen, könnte die Vorstellung, die [EGY.GetAdjective]s so drastisch aus unserem Einflussbereich zu verlieren, ein zu großes Risiko darstellen."
+ egypt.4.d:0 "[EGY.getNameDefCap] hat unserer Delegation vor kurzem deutlich gemacht, dass sie diplomatische Beziehungen mit [ITA.getNameDef] aufzunehmen gedenkt, wenn die Verhandlungen über die Unabhängigkeit von [EGY.GetAdjective] nicht deutlich vorankommen. getNameDef] aufzunehmen, um zu sehen, ob sie durch Bündnisse mit anderen europäischen Nationen mehr erreichen können.\n\nWährend dies möglicherweise ein Bluff sein könnte, um uns zu Zugeständnissen zu zwingen, könnte die Vorstellung, die [EGY.GetAdjective]s so drastisch aus unserem Einflussbereich zu verlieren, ein zu großes Risiko darstellen."
  egypt.4.a:0 "Diese Drohung sollte ernst genommen werden."
  egypt.4.b:0 "Ein reiner Bluff."
 
@@ -782,7 +782,7 @@
  egypt.7.b:0 "Ägypten ist zu wichtig, um es aufzugeben."
 
  egypt.8.t:0 "[ENG.getNameDefCap] hat keine Einwände gegen unsere Unabhängigkeit."
- egypt.8.d:0 "Die Delegation von [ENG.GetNameDefCap] in der Konferenz hat auf unsere Anfrage bezüglich der Aussicht auf unsere vollständige Unabhängigkeit geantwortet und erklärt, dass sie bereit ist, keine Einwände zu erheben, wenn ihre Interessen in unserem Land geschützt und gesichert würden, während sie bei Bedarf auch als strategischer Knotenpunkt erhalten bliebe.[~\n\n~]Zweifellos hat diese Unterstützung ihren Preis, aber sie ist ein guter Schritt in die richtige Richtung."
+ egypt.8.d:0 "Die Delegation von [ENG.GetNameDefCap] in der Konferenz hat auf unsere Anfrage bezüglich der Aussicht auf unsere vollständige Unabhängigkeit geantwortet und erklärt, dass sie bereit ist, keine Einwände zu erheben, wenn ihre Interessen in unserem Land geschützt und gesichert würden, während sie bei Bedarf auch als strategischer Knotenpunkt erhalten bliebe.\n\nZweifellos hat diese Unterstützung ihren Preis, aber sie ist ein guter Schritt in die richtige Richtung."
  egypt.8.a:0 "Eine höchst willkommene Neuigkeit."
 
  egypt.9.t:0 "[ENG.getNameDefCap] ist gegen unsere Unabhängigkeit."
@@ -929,7 +929,7 @@
  egypt.42.a:0 "Die Streitkräfte werden immer rebellischer."
 
  egypt.43.t:0 "[EGY.GetNameDefCap] versucht, den [911.GetName] einzunehmen. Kanal"
- egypt.43.d:0 "Der [EGY.GetAdjective]-Führer, [EGY.GetLeader] hat deutlich gemacht, dass der [911.GetName] Kanal ein rechtmäßiger Teil der Nation ist und zurückgegeben werden sollte. Selbst wenn dies mit Gewalt geschieht.[~\n\n~]Dies könnte eine Rechtfertigung des Kanals sein, also müssen wir auf das Schlimmste vorbereitet sein."
+ egypt.43.d:0 "Der [EGY.GetAdjective]-Führer, [EGY.GetLeader] hat deutlich gemacht, dass der [911.GetName] Kanal ein rechtmäßiger Teil der Nation ist und zurückgegeben werden sollte. Selbst wenn dies mit Gewalt geschieht.\n\nDies könnte eine Rechtfertigung des Kanals sein, also müssen wir auf das Schlimmste vorbereitet sein."
  egypt.43.a:0 "Wir müssen etwas tun."
 
  egypt.44.t:0 "[EGY.GetAdjective] Sieg bei [911.GetName]"
@@ -951,7 +951,7 @@
  egypt.47.a:0 "Nun gut."
 
  egypt.48.t:0 "Putsch der Freien Offiziere"
- egypt.48.d:0 "Am frühen Morgen begannen nationalistische Polizisten damit, Widerstand und Angriffe auf königliche Einheiten in [GetCapitalVictoryPointName] zu schützen und zu fördern. In der Folge zettelten Zellen der Bewegung Freier Offiziere Unruhen an, die zu Brandstiftungen führten. Die Unzufriedenheit innerhalb der Armee hat sie an den Rand des Abgrunds getrieben. Kurz darauf stürmten Bataillone das königliche Offiziersgebäude und alle darin befindlichen Kommandeure.[~\n\nMohamed Naguib und Gamal Abdel Nasser proklamierten gemeinsam die Absetzung Farouks und die Gründung der ägyptischen Republik, mit Nasser als erstem Präsidenten. Farouk wurde bald darauf zur Abdankung gezwungen und ist seitdem im Exil.[~\n\n~]Nasser verspricht die Vertreibung des ausländischen Einflusses in [ROOT.GetNonIdeologyName], um das Land wieder als Macht zu etablieren und als einigende Kraft für die arabische Welt zu wirken."
+ egypt.48.d:0 "Am frühen Morgen begannen nationalistische Polizisten damit, Widerstand und Angriffe auf königliche Einheiten in [GetCapitalVictoryPointName] zu schützen und zu fördern. In der Folge zettelten Zellen der Bewegung Freier Offiziere Unruhen an, die zu Brandstiftungen führten. Die Unzufriedenheit innerhalb der Armee hat sie an den Rand des Abgrunds getrieben. Kurz darauf stürmten Bataillone das königliche Offiziersgebäude und alle darin befindlichen Kommandeure.\n\nMohamed Naguib und Gamal Abdel Nasser proklamierten gemeinsam die Absetzung Farouks und die Gründung der ägyptischen Republik, mit Nasser als erstem Präsidenten. Farouk wurde bald darauf zur Abdankung gezwungen und ist seitdem im Exil.\n\nNasser verspricht die Vertreibung des ausländischen Einflusses in [ROOT.GetNonIdeologyName], um das Land wieder als Macht zu etablieren und als einigende Kraft für die arabische Welt zu wirken."
  egypt.48.a:0 "Jetzt können wir ihnen zeigen, was wir wirklich sind."
 
  egypt.49.t:0 "Mitgliedschaft in der Anti-[ISR.GetAdjective]-Koalition"
@@ -960,7 +960,7 @@
  egypt.49.b:0 "Wir sind nicht interessiert."
 
  egypt.50.t:0 "[EGY.GetNameDefCap] fordert die Kontrolle über [SYR.GetNonIdeologyName] und [LEB.GetNonIdeologyName]"
- egypt.50.d:0 "[EGY.GetNameDefCap] hat uns ein Ultimatum gestellt, die sofortige Unabhängigkeit von [SYR.GetNameDef] und [LEB.GetNameDef] zu gewähren und alle unsere Vermögenswerte aus der Nation ausschließlich unter [EGY. GetAdjective] beaufsichtigt werden, oder wir riskieren einen Krieg.[~\n\nDies steht im Einklang mit dem Wunsch von [EGY.GetLeader], den Einfluss auf die arabische Welt auszuweiten und sie schließlich zu vereinen, aber wollen wir wirklich einen Krieg um diese Gebiete riskieren?"
+ egypt.50.d:0 "[EGY.GetNameDefCap] hat uns ein Ultimatum gestellt, die sofortige Unabhängigkeit von [SYR.GetNameDef] und [LEB.GetNameDef] zu gewähren und alle unsere Vermögenswerte aus der Nation ausschließlich unter [EGY. GetAdjective] beaufsichtigt werden, oder wir riskieren einen Krieg.\n\nDies steht im Einklang mit dem Wunsch von [EGY.GetLeader], den Einfluss auf die arabische Welt auszuweiten und sie schließlich zu vereinen, aber wollen wir wirklich einen Krieg um diese Gebiete riskieren?"
  egypt.50.a:0 "Wir sind nicht in der Lage, dies zu verteidigen."
  egypt.50.b:0 "Es wäre töricht zu glauben, wir würden etwas so Wichtiges aufgeben."
 
@@ -986,7 +986,7 @@
  egypt.54.b:0 "Es wäre töricht zu glauben, wir würden etwas so Wichtiges aufgeben."
 
  egypt.55.t:0 "[EGY.GetNameDefCap] schlägt die Einigung in einem vereinigten arabischen Staat vor"
- egypt.55.d:0 "Heute hat uns [EGY.GetNameDefCap] einen formellen Vorschlag zur Vereinigung in einem einzigen arabischen Staat mit ihnen an der Spitze übermittelt. Sie behaupten, dass die arabische Welt schon zu lange von Imperialisten niedergehalten und durch Rivalitäten gespalten wurde und dass es nun an der Zeit ist, dass wir uns endlich vereinigen und einen rechtmäßig mächtigen arabischen Staat gründen, von dem aus die [ROOT. GetAdjective]s bei der Bildung helfen können.[~\n\n~]Während dies nach einem edlen und verlockenden Vorschlag klingt, ist zu vermuten, dass dies nur ein Mittel ist, um den Einfluss und die Macht von [EGY.GetAdjective] zu ihrem eigenen Vorteil auszuweiten."
+ egypt.55.d:0 "Heute hat uns [EGY.GetNameDefCap] einen formellen Vorschlag zur Vereinigung in einem einzigen arabischen Staat mit ihnen an der Spitze übermittelt. Sie behaupten, dass die arabische Welt schon zu lange von Imperialisten niedergehalten und durch Rivalitäten gespalten wurde und dass es nun an der Zeit ist, dass wir uns endlich vereinigen und einen rechtmäßig mächtigen arabischen Staat gründen, von dem aus die [ROOT. GetAdjective]s bei der Bildung helfen können.\n\nWährend dies nach einem edlen und verlockenden Vorschlag klingt, ist zu vermuten, dass dies nur ein Mittel ist, um den Einfluss und die Macht von [EGY.GetAdjective] zu ihrem eigenen Vorteil auszuweiten."
  egypt.55.a:0 "Gemeinsam sind wir stärker."
  egypt.55.b:0 "Wir werden nicht noch ein weiterer Polizeistaat werden."
 
@@ -1021,7 +1021,7 @@
  egypt.62.a:0 "Es war ein törichtes Unterfangen."
 
  egypt.63.t:0 "[EGY.GetNameDefCap] schickt uns materielle Hilfe"
- egypt.63.d:0 "Heute hat [EGY.GetNameDefCap] angekündigt, dass sie beabsichtigen, unsere Unabhängigkeit zu schützen und bieten uns bedingungslose Unterstützung an, um jegliche ausländische Bedrohung abzuwehren, die uns möglicherweise droht. Sie haben auch angekündigt, dass sie uns eine große Summe an Ausrüstung als 'Modernisierungspaket' schicken werden, um die Entwicklung unserer Armee zu unterstützen.[~\n\n~]Obwohl dies eine großzügige und willkommene Unterstützung ist, könnte es mehr dazu dienen, die Interessen der [EGY.GetAdjective] zu schützen, als uns selbst."
+ egypt.63.d:0 "Heute hat [EGY.GetNameDefCap] angekündigt, dass sie beabsichtigen, unsere Unabhängigkeit zu schützen und bieten uns bedingungslose Unterstützung an, um jegliche ausländische Bedrohung abzuwehren, die uns möglicherweise droht. Sie haben auch angekündigt, dass sie uns eine große Summe an Ausrüstung als 'Modernisierungspaket' schicken werden, um die Entwicklung unserer Armee zu unterstützen.\n\nObwohl dies eine großzügige und willkommene Unterstützung ist, könnte es mehr dazu dienen, die Interessen der [EGY.GetAdjective] zu schützen, als uns selbst."
  egypt.63.a:0 "Wie großzügig von den [EGY.GetAdjective]s."
 
  egypt.64.t:0 "[EGY.GetNameDefCap] bittet die Berater"
@@ -1188,7 +1188,7 @@
 
  #game starts & rules ""
 
- EGY_GATHERING_STORM_DESC:0 "Das Königreich Ägypten befindet sich weiterhin im Stillstand. Fast 15 Jahre sind seit der einseitigen Unabhängigkeitserklärung vom Britischen Empire vergangen, doch dieses ist immer noch fest entschlossen, das Land als ständigen Militärstützpunkt zu behalten, um sein globales Imperium zu sichern. Das immer kriegerischere Italien im Westen bestärkt diese Idee nur noch.[~\n\nÄgyptens Hauptziel war es immer, die volle Unabhängigkeit zu erlangen und sich als dominierende Macht in der Region zu etablieren. Vielleicht ist es jetzt an der Zeit, die gewünschten Träume ein für alle Mal zu verwirklichen?"
+ EGY_GATHERING_STORM_DESC:0 "Das Königreich Ägypten befindet sich weiterhin im Stillstand. Fast 15 Jahre sind seit der einseitigen Unabhängigkeitserklärung vom Britischen Empire vergangen, doch dieses ist immer noch fest entschlossen, das Land als ständigen Militärstützpunkt zu behalten, um sein globales Imperium zu sichern. Das immer kriegerischere Italien im Westen bestärkt diese Idee nur noch.\n\nÄgyptens Hauptziel war es immer, die volle Unabhängigkeit zu erlangen und sich als dominierende Macht in der Region zu etablieren. Vielleicht ist es jetzt an der Zeit, die gewünschten Träume ein für alle Mal zu verwirklichen?"
 
  EGY_FRAGMENTATION_STATUS:0 "@EGY Ägypten Fragmentierungsstatus"
  RULE_OPTION_EGY_FRAGMENTED:0 "Ägypten Fragmentiert"

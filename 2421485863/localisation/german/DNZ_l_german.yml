@@ -158,11 +158,11 @@
 
  #new ""
  Military_Police_Paramilitarization:0 "Militärpolizei Paramilitarisierung"
- DNZ_Schutzpolizei_Paramilitarization_tt:0 "Ermöglicht §HMilitärpolizei-Paramilitarisierung§!\n§HMilitärpolizei§!:\n Durchbruch: §G+25%§!\n Max Organisation: §G+3§![~\n\n~]"
- DNZ_Special_Forces_Focus_tt:0 "Aktiviert §HSpezialkräfte Fokus§!\n Spezialkräfte Kapazitätsmultiplikator: §G+10%§![~\n\n~]"
+ DNZ_Schutzpolizei_Paramilitarization_tt:0 "Ermöglicht §HMilitärpolizei-Paramilitarisierung§!\n§HMilitärpolizei§!:\n Durchbruch: §G+25%§!\n Max Organisation: §G+3§!\n\n"
+ DNZ_Special_Forces_Focus_tt:0 "Aktiviert §HSpezialkräfte Fokus§!\n Spezialkräfte Kapazitätsmultiplikator: §G+10%§!\n\n"
  DNZ_economic_aid:0 "Außenwirtschaftshilfe"
  danzig.5.t:0 "Danzig hat seine Unabhängigkeit erklärt"
- danzig.5.d:0 "Heute machte [DNZ.Getleader] eine schockierende Ankündigung, als er die Regierung der Stadt für unabhängig von [POL.GetNameDef] erklärte und behauptete, Danzig sei die Fortsetzung von Preußen. Es bleibt abzuwarten, ob dieses verrückte Experiment von Dauer sein wird oder ob irgendwelche Nachbarländer eingreifen werden.[~\n\n~]Vorerst steht die kleine Stadt alleine da. Das Schicksal von Danzig ist ungewiss."
+ danzig.5.d:0 "Heute machte [DNZ.Getleader] eine schockierende Ankündigung, als er die Regierung der Stadt für unabhängig von [POL.GetNameDef] erklärte und behauptete, Danzig sei die Fortsetzung von Preußen. Es bleibt abzuwarten, ob dieses verrückte Experiment von Dauer sein wird oder ob irgendwelche Nachbarländer eingreifen werden.\n\nVorerst steht die kleine Stadt alleine da. Das Schicksal von Danzig ist ungewiss."
  danzig.5.a:0 "Sind sie verrückt geworden?"
  danzig.5.b:0 "Wir gehen weiter."
 

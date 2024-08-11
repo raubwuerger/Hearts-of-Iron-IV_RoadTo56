@@ -36,7 +36,7 @@ r56.news_event.7.b:0 "Independência ou Morte!"
 
 #Paraguay coup ""
 r56.news_event.8.t:0 "Militärputsch in Paraguay"
-r56.news_event.8.d:0 "Nach dem Chaco-Krieg im letzten Jahr, den Paraguay gewinnen konnte. Die paraguayische Regierung hatte noch immer die schwache Führung von Eusebio Ayala, aber [PAR.GetLeader] hat einen Staatsstreich inszeniert, nachdem er einige Zeit im Exil verbracht hatte. [PAR.GetLeader] hat schnell ein viel stärkeres Militärregime errichtet.[~\n\n~]Die paraguayische Regierung wird sich nun wahrscheinlich neu organisieren müssen, nachdem viele Ayala-Loyalisten entlassen wurden."
+r56.news_event.8.d:0 "Nach dem Chaco-Krieg im letzten Jahr, den Paraguay gewinnen konnte. Die paraguayische Regierung hatte noch immer die schwache Führung von Eusebio Ayala, aber [PAR.GetLeader] hat einen Staatsstreich inszeniert, nachdem er einige Zeit im Exil verbracht hatte. [PAR.GetLeader] hat schnell ein viel stärkeres Militärregime errichtet.\n\nDie paraguayische Regierung wird sich nun wahrscheinlich neu organisieren müssen, nachdem viele Ayala-Loyalisten entlassen wurden."
 r56.news_event.8.a:0 "Interessante Entwicklung."
 r56.news_event.8.b:0 "Es musste getan werden."
 
@@ -202,7 +202,7 @@ r56.news_event.28.c:0 "Es gibt keinen schrecklicheren Krieg als den Bürgerkrieg
 r56.news_event.28.e:0 "Es gibt keinen schrecklicheren Krieg als den Bürgerkrieg."
 
  r56.news_event.29.title:0 "Die Spannungen zwischen [VEN.GetName] und [695.Owner.GetName] nehmen zu."
- r56.news_event.29.desc:0 "[Die Spannungen sind hoch, da der venezolanische Führer, [VEN.GetLeader], deutlich gemacht hat, dass die Insel Curaçao, die nur 60 km von der Küste Venezuelas entfernt liegt, ein rechtmäßiger Teil der Nation ist und zurückgegeben werden sollte. Selbst wenn das mit Gewalt geschieht.[~\n\n~]Wenn es nicht gelingt, eine friedliche Einigung zwischen den beiden Nationen über den Streit zu erzielen, könnte ein Konflikt um die Insel ausbrechen."
+ r56.news_event.29.desc:0 "[Die Spannungen sind hoch, da der venezolanische Führer, [VEN.GetLeader], deutlich gemacht hat, dass die Insel Curaçao, die nur 60 km von der Küste Venezuelas entfernt liegt, ein rechtmäßiger Teil der Nation ist und zurückgegeben werden sollte. Selbst wenn das mit Gewalt geschieht.\n\nWenn es nicht gelingt, eine friedliche Einigung zwischen den beiden Nationen über den Streit zu erzielen, könnte ein Konflikt um die Insel ausbrechen."
  r56.news_event.29.a:0 "Unbedeutend"
  r56.news_event.29.b:0 "Sie gehört uns von Rechts wegen"
  #Extra yalta stuff marijn211 ""
@@ -324,7 +324,7 @@ r56.news_event.28.e:0 "Es gibt keinen schrecklicheren Krieg als den Bürgerkrieg
 
 
  r56.news_event.1116.t:0 "Krise in [901.GetName]"
- r56.news_event.1116.d:0 ""Wir haben den Kanal mit unserem Leben, unseren Knochen und unserem Blut gegraben. Der Suezkanal gehört rechtmäßig uns", erklärt [EGY.GetAdjective]-Führer [EGY.GetLeader], als er die sofortige Verstaatlichung der Suezkanal-Gesellschaft ankündigt, mit dem Ziel, jeglichen ausländischen Einfluss aus dem Gebiet zu vertreiben und es ausschließlich unter die Kontrolle von [EGY.GetAdjective] zu bringen. Die [901.Owner. GetName] hat diesen Schritt zu einer Bedrohung ihrer Interessen in der Region erklärt und eine strenge Warnung an [EGY.GetNameDef] ausgesprochen, dass sie bereit sind, militärische Gewalt anzuwenden, um ihren Einfluss auf den Kanal durchzusetzen, sollten sie sich nicht zurückhalten.[~\n\n~]Da die beiden Seiten an einer Bruchstelle stehen, könnte es bald zu einem Konflikt kommen."
+ r56.news_event.1116.d:0 ""Wir haben den Kanal mit unserem Leben, unseren Knochen und unserem Blut gegraben. Der Suezkanal gehört rechtmäßig uns", erklärt [EGY.GetAdjective]-Führer [EGY.GetLeader], als er die sofortige Verstaatlichung der Suezkanal-Gesellschaft ankündigt, mit dem Ziel, jeglichen ausländischen Einfluss aus dem Gebiet zu vertreiben und es ausschließlich unter die Kontrolle von [EGY.GetAdjective] zu bringen. Die [901.Owner. GetName] hat diesen Schritt zu einer Bedrohung ihrer Interessen in der Region erklärt und eine strenge Warnung an [EGY.GetNameDef] ausgesprochen, dass sie bereit sind, militärische Gewalt anzuwenden, um ihren Einfluss auf den Kanal durchzusetzen, sollten sie sich nicht zurückhalten.\n\nDa die beiden Seiten an einer Bruchstelle stehen, könnte es bald zu einem Konflikt kommen."
  r56.news_event.1116.a:0 "Der Kanal gehört rechtmäßig uns."
  r56.news_event.1116.b:0 "Ein Schritt für die arabische Welt."
  r56.news_event.1116.c:0 "Die [EGY.GetAdjective]s müssen befriedet werden."

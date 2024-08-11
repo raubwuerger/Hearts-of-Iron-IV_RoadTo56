@@ -264,17 +264,17 @@
  LIE_spirit_of_the_liechtenstein_army_modifier:0 "Geist der [ROOT.GetAdjective] Armee"
  LIE_modify_army_spirit_intro:0 "Modify §YThe Spirit of the [ROOT.GetAdjective] Armee§! durch"
 
- LIE_on_the_back_tt:0 "$LIE_modify_army_spirit_intro$ \nDivision Defence: §G+10.0%§![~\n\n~]"
- LIE_liechtenstein_on_the_offensive_tt:0 "$LIE_modify_army_spirit_intro$ \nDivision Angriff: §G+10.0%§![~\n\n~]"
- LIE_shock_tactics_tt:0 "$LIE_modify_army_spirit_intro$ \nPlanungsgeschwindigkeit: §G+25.0%§! \nDivisionsgeschwindigkeit: §G+10.0%§![~\n\n~]"
- LIE_liechtenstein_military_academy_tt:0 "$LIE_modify_army_spirit_intro$ \nLand Doctrine Cost: §G-10%§![~\n\n~]"
- LIE_the_rhine_gunboat_tt:0 "$LIE_modify_army_spirit_intro$ \nDivisionsverteidigung im Kerngebiet: §G+5.0%§![~\n\n~]"
- LIE_defence_in_depth_tt:0 "$LIE_modify_army_spirit_intro$ \nSchanzentempo: §G+15.0%§!\nMaximale Schanzentempo: §G+5.0§![~\n\n~]"
- LIE_national_fortifications_tt:0 "$LIE_modify_army_spirit_intro$ \n§YLandfort§! Baugeschwindigkeit: §G+15.0%§! \n§YKüstenfort§! Baugeschwindigkeit: §G+15.0%§![~\n\n~]"
- LIE_liechtenstein_naval_academy_tt:0 "$LIE_modify_army_spirit_intro$ \nNaval Doctrine Cost: §G-10%§![~\n\n~]"
- LIE_shooting_clubs_tt:0 "$LIE_modify_army_spirit_intro$ \nDivision Organisation: §G+10.0%§![~\n\n~]"
- LIE_national_motorization_tt:0 "$LIE_modify_army_spirit_intro$ \nNachschub-Effizienz: §G+10.0%§![~\n\n~]"
- LIE_ski_infantry_tt:0 "$LIE_modify_army_spirit_intro$ \nWinterverschleiß: §G-15.0%§! \nSchadensreduzierung gegen CAS: §G+10.0%§![~\n\n~]"
+ LIE_on_the_back_tt:0 "$LIE_modify_army_spirit_intro$ \nDivision Defence: §G+10.0%§!\n\n"
+ LIE_liechtenstein_on_the_offensive_tt:0 "$LIE_modify_army_spirit_intro$ \nDivision Angriff: §G+10.0%§!\n\n"
+ LIE_shock_tactics_tt:0 "$LIE_modify_army_spirit_intro$ \nPlanungsgeschwindigkeit: §G+25.0%§! \nDivisionsgeschwindigkeit: §G+10.0%§!\n\n"
+ LIE_liechtenstein_military_academy_tt:0 "$LIE_modify_army_spirit_intro$ \nLand Doctrine Cost: §G-10%§!\n\n"
+ LIE_the_rhine_gunboat_tt:0 "$LIE_modify_army_spirit_intro$ \nDivisionsverteidigung im Kerngebiet: §G+5.0%§!\n\n"
+ LIE_defence_in_depth_tt:0 "$LIE_modify_army_spirit_intro$ \nSchanzentempo: §G+15.0%§!\nMaximale Schanzentempo: §G+5.0§!\n\n"
+ LIE_national_fortifications_tt:0 "$LIE_modify_army_spirit_intro$ \n§YLandfort§! Baugeschwindigkeit: §G+15.0%§! \n§YKüstenfort§! Baugeschwindigkeit: §G+15.0%§!\n\n"
+ LIE_liechtenstein_naval_academy_tt:0 "$LIE_modify_army_spirit_intro$ \nNaval Doctrine Cost: §G-10%§!\n\n"
+ LIE_shooting_clubs_tt:0 "$LIE_modify_army_spirit_intro$ \nDivision Organisation: §G+10.0%§!\n\n"
+ LIE_national_motorization_tt:0 "$LIE_modify_army_spirit_intro$ \nNachschub-Effizienz: §G+10.0%§!\n\n"
+ LIE_ski_infantry_tt:0 "$LIE_modify_army_spirit_intro$ \nWinterverschleiß: §G-15.0%§! \nSchadensreduzierung gegen CAS: §G+10.0%§!\n\n"
 
  LIE_form_the_military_budget:0 "Bilden Sie das Militärbudget"
  LIE_form_the_military_budget_desc:0 ""
@@ -380,15 +380,15 @@
  LIE_offer_communist_to_trade_gold:0 "Öffne die Banken für kommunistische Länder"
  LIE_sever_gold_trade_with_country:0 "Abbrechen des Goldhandels mit der Nation"
 
- LIE_start_gold_trade_with_liechtenstein_dynamic_mod_TT:0 "Füge §Y$LIE_gold_trade_with_liechtenstein$§! hinzu, das gewährt:\n $MODIFIER_CONSUMER_GOODS_FACTOR$: §Y-2.5%§!\n $MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §G +5%[~§! ~]\n $MODIFIER_RESEARCH_SPEED_FACTOR$: §G +1%§!\n $MODIFIER_PRODUCTION_LACK_OF_RESOURCE_PENALTY_FACTOR$: §G -5%[~§! ~]\n $MODIFIER_PRODUCTION_FACTORY_MAX_EFFICIENCY$: §G +2.5%§!"
+ LIE_start_gold_trade_with_liechtenstein_dynamic_mod_TT:0 "Füge §Y$LIE_gold_trade_with_liechtenstein$§! hinzu, das gewährt:\n $MODIFIER_CONSUMER_GOODS_FACTOR$: §Y-2.5%§!\n $MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §G +5%§!\n $MODIFIER_RESEARCH_SPEED_FACTOR$: §G +1%§!\n $MODIFIER_PRODUCTION_LACK_OF_RESOURCE_PENALTY_FACTOR$: §G -5%§!\n $MODIFIER_PRODUCTION_FACTORY_MAX_EFFICIENCY$: §G +2.5%§!"
 
- LIE_end_gold_trade_with_liechtenstein_dynamic_mod_TT:0 "Entfernen Sie §Y$LIE_gold_trade_with_liechtenstein$§!, das gewährt:\n $MODIFIER_CONSUMER_GOODS_FACTOR$: §Y-2.5%§!\n $MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §G +5%[~§! ~]\n $MODIFIER_RESEARCH_SPEED_FACTOR$: §G +1%§!\n $MODIFIER_PRODUCTION_LACK_OF_RESOURCE_PENALTY_FACTOR$: §G -5%[~§! ~]\n $MODIFIER_PRODUCTION_FACTORY_MAX_EFFICIENCY$: §G +2.5%§!"
+ LIE_end_gold_trade_with_liechtenstein_dynamic_mod_TT:0 "Entfernen Sie §Y$LIE_gold_trade_with_liechtenstein$§!, das gewährt:\n $MODIFIER_CONSUMER_GOODS_FACTOR$: §Y-2.5%§!\n $MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §G +5%§!\n $MODIFIER_RESEARCH_SPEED_FACTOR$: §G +1%§!\n $MODIFIER_PRODUCTION_LACK_OF_RESOURCE_PENALTY_FACTOR$: §G -5%§!\n $MODIFIER_PRODUCTION_FACTORY_MAX_EFFICIENCY$: §G +2.5%§!"
 
- LIE_start_liechtenstein_benefits_gold_trade_with_dynamic_mod_TT:0 "Addiere §Y$LIE_liechtenstein_gold_market$§! was gewährt:\n $MODIFIER_CONSUMER_GOODS_FACTOR$: §Y-2.5%§!\n $MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §G +5%[~§! ~]\n $MODIFIER_RESEARCH_SPEED_FACTOR$: §G +1%§!\n $MODIFIER_PRODUCTION_LACK_OF_RESOURCE_PENALTY_FACTOR$: §G -5%[~§! ~]\n $MODIFIER_PRODUCTION_FACTORY_MAX_EFFICIENCY$: §G +2.5%§!"
+ LIE_start_liechtenstein_benefits_gold_trade_with_dynamic_mod_TT:0 "Addiere §Y$LIE_liechtenstein_gold_market$§! was gewährt:\n $MODIFIER_CONSUMER_GOODS_FACTOR$: §Y-2.5%§!\n $MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §G +5%§!\n $MODIFIER_RESEARCH_SPEED_FACTOR$: §G +1%§!\n $MODIFIER_PRODUCTION_LACK_OF_RESOURCE_PENALTY_FACTOR$: §G -5%§!\n $MODIFIER_PRODUCTION_FACTORY_MAX_EFFICIENCY$: §G +2.5%§!"
 
- LIE_modify_liechtenstein_benefits_gold_trade_with_dynamic_mod_TT:0 "Ändere §Y$LIE_liechtenstein_gold_market$§! um:\n $MODIFIER_CONSUMER_GOODS_FACTOR$: §Y-2.5%§!\n $MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §G +5%[~§! ~]\n $MODIFIER_RESEARCH_SPEED_FACTOR$: §G +1%§!\n $MODIFIER_PRODUCTION_LACK_OF_RESOURCE_PENALTY_FACTOR$: §G -5%[~§! ~]\n $MODIFIER_PRODUCTION_FACTORY_MAX_EFFICIENCY$: §G +2.5%§!"
+ LIE_modify_liechtenstein_benefits_gold_trade_with_dynamic_mod_TT:0 "Ändere §Y$LIE_liechtenstein_gold_market$§! um:\n $MODIFIER_CONSUMER_GOODS_FACTOR$: §Y-2.5%§!\n $MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §G +5%§!\n $MODIFIER_RESEARCH_SPEED_FACTOR$: §G +1%§!\n $MODIFIER_PRODUCTION_LACK_OF_RESOURCE_PENALTY_FACTOR$: §G -5%§!\n $MODIFIER_PRODUCTION_FACTORY_MAX_EFFICIENCY$: §G +2.5%§!"
 
- LIE_end_liechtenstein_benefits_gold_trade_with_dynamic_mod_TT: "Ändere §Y$LIE_liechtenstein_gold_market$§! um:\n $MODIFIER_CONSUMER_GOODS_FACTOR$: §Y+2.5%§!\n $MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §R -5%[~§! ~]\n $MODIFIER_RESEARCH_SPEED_FACTOR$: §R -1%§!\n $MODIFIER_PRODUCTION_LACK_OF_RESOURCE_PENALTY_FACTOR$: §R +5%[~§! ~]\n $MODIFIER_PRODUCTION_FACTORY_MAX_EFFICIENCY$: §R -2.5%§!"
+ LIE_end_liechtenstein_benefits_gold_trade_with_dynamic_mod_TT: "Ändere §Y$LIE_liechtenstein_gold_market$§! um:\n $MODIFIER_CONSUMER_GOODS_FACTOR$: §Y+2.5%§!\n $MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §R -5%§!\n $MODIFIER_RESEARCH_SPEED_FACTOR$: §R -1%§!\n $MODIFIER_PRODUCTION_LACK_OF_RESOURCE_PENALTY_FACTOR$: §R +5%§!\n $MODIFIER_PRODUCTION_FACTORY_MAX_EFFICIENCY$: §R -2.5%§!"
 
  LIE_support_monarchy_in_AUS_category:0 "Unterstützung der Monarchie in [AUS.GetNonIdeologyName]"
  LIE_monarchist_propaganda_in_AUS:0 "Monarchistische Propaganda in [AUS.GetNonIdeologyName]"
@@ -403,7 +403,7 @@
  #events ""
 
  liechtenstein.1.t:0 "Tod von Franz I."
- liechtenstein.1.d:0 "Das Volk von [ROOT.GetNonIdeologyName] trauert nach dem frühen Tod unseres geliebten Monarchen Franz I. Die Nachricht von seinem Ableben hat sich schnell im ganzen Land verbreitet, und die Straßen sind voll von Menschen, die ihm die letzte Ehre erweisen und ihre Trauer zum Ausdruck bringen. Als Führer unseres Landes für fast ein Jahrzehnt war Franz I. eine Säule der Stärke und Stabilität, die uns durch einige unserer schwierigsten Zeiten führte, ähnlich wie sein Vorgänger Johann II. Sein Ableben hinterlässt eine Lücke in unseren Herzen und in unserer Regierung, die nicht leicht zu füllen sein wird.[~\n\nFranz' Großneffe, Franz Joseph, wird ab sofort als Franz Joseph II. seine Nachfolge antreten und die Aufgaben seines Vaters entsprechend weiterführen."
+ liechtenstein.1.d:0 "Das Volk von [ROOT.GetNonIdeologyName] trauert nach dem frühen Tod unseres geliebten Monarchen Franz I. Die Nachricht von seinem Ableben hat sich schnell im ganzen Land verbreitet, und die Straßen sind voll von Menschen, die ihm die letzte Ehre erweisen und ihre Trauer zum Ausdruck bringen. Als Führer unseres Landes für fast ein Jahrzehnt war Franz I. eine Säule der Stärke und Stabilität, die uns durch einige unserer schwierigsten Zeiten führte, ähnlich wie sein Vorgänger Johann II. Sein Ableben hinterlässt eine Lücke in unseren Herzen und in unserer Regierung, die nicht leicht zu füllen sein wird.\n\nFranz' Großneffe, Franz Joseph, wird ab sofort als Franz Joseph II. seine Nachfolge antreten und die Aufgaben seines Vaters entsprechend weiterführen."
  liechtenstein.1.a:0 "Es lebe Franz Joseph II!"
 
  liechtenstein.2.t:0 "[FROM.GetNameDefCap] schlägt weitere Zusammenarbeit vor"
@@ -412,7 +412,7 @@
  liechtenstein.2.b:0 "Die Situation ist so, wie sie ist, stabil."
 
  liechtenstein.3.t:0 "[FROM.GetNameDefCap] akzeptiert die weitere Zusammenarbeit"
- liechtenstein.3.d:0 "Die [FROM.GetAdjective]-Regierung hat zugestimmt, die militärische Zusammenarbeit mit uns zu verstärken, um unsere gemeinsame Neutralität und Unabhängigkeit besser gegen potenzielle ausländische Bedrohungen zu verteidigen. Sie erkennt die Vorteile einer Zusammenarbeit mit uns an, um die Sicherheit und Stabilität unserer Region zu gewährleisten. Im Rahmen dieses neuen Abkommens werden unsere beiden Länder ihre gemeinsamen Militärübungen, den Austausch von Informationen und die koordinierte Verteidigungsplanung verstärken. Wir werden auch daran arbeiten, unsere Kommunikation und Koordination in Krisenzeiten oder bei potenziellen Bedrohungen zu verbessern.[~\n\n~]Die [SWI.GetAdjective]-Regierung ist der Ansicht, dass diese verstärkte Zusammenarbeit dazu beitragen wird, unsere kollektive Verteidigung gegenüber potenziellen Gegnern zu stärken und der internationalen Gemeinschaft zu zeigen, dass wir in der Lage sind, unsere Neutralität und Souveränität zu verteidigen."
+ liechtenstein.3.d:0 "Die [FROM.GetAdjective]-Regierung hat zugestimmt, die militärische Zusammenarbeit mit uns zu verstärken, um unsere gemeinsame Neutralität und Unabhängigkeit besser gegen potenzielle ausländische Bedrohungen zu verteidigen. Sie erkennt die Vorteile einer Zusammenarbeit mit uns an, um die Sicherheit und Stabilität unserer Region zu gewährleisten. Im Rahmen dieses neuen Abkommens werden unsere beiden Länder ihre gemeinsamen Militärübungen, den Austausch von Informationen und die koordinierte Verteidigungsplanung verstärken. Wir werden auch daran arbeiten, unsere Kommunikation und Koordination in Krisenzeiten oder bei potenziellen Bedrohungen zu verbessern.\n\nDie [SWI.GetAdjective]-Regierung ist der Ansicht, dass diese verstärkte Zusammenarbeit dazu beitragen wird, unsere kollektive Verteidigung gegenüber potenziellen Gegnern zu stärken und der internationalen Gemeinschaft zu zeigen, dass wir in der Lage sind, unsere Neutralität und Souveränität zu verteidigen."
  liechtenstein.3.a:0 "Gemeinsam bleiben wir stark."
 
  liechtenstein.4.t:0 "[FROM.GetNameDefCap] lehnt weitere Zusammenarbeit ab"
@@ -502,7 +502,7 @@
  liechtenstein.23.a:0 "Ausgezeichnet"
 
  liechtenstein.25.t:0 "[ROOT.GetFascistParty] Putschversuch"
- liechtenstein.25.d:0 "Am frühen Abend marschierten ca. 40 Mitglieder der [ROOT.GetFascistParty] von Nendeln aus in Richtung Vaduz und versuchten, die Regierung zu stürzen. Ihr eigentlicher Plan war der Versuch, die Regierung zu stürzen, was zu Zusammenstößen zwischen ihnen und der Regierung führen würde. [GER.GetAdjective] Truppen aus Feldkirch würden dann auf einen Hilferuf hin in Liechtenstein einmarschieren und das Land in die [GER.GetNameDef] eingliedern.[~\n]\n~]Glücklicherweise ist der Plan jedoch gescheitert. Außerhalb von Schaan hatten sich Gegner versammelt, um die [ROOT.GetFascistParty] zu stoppen, und sie wurden von Anton Frommelt, der auch ihre Telefonleitungen blockierte, zur Umkehr bewegt. Infolgedessen wurden 76 Personen verhaftet.[~\n\nDie allgemeine Bevölkerung steht unter Schock wegen der Ereignisse, die zusätzlich zu der immer schlimmer werdenden Situation in der ganzen Welt die Moral auf einen Tiefpunkt gebracht haben. Andererseits haben sie aber auch viele Menschen dazu veranlasst, offen eine härtere Gangart gegenüber dem Faschismus zu fordern."
+ liechtenstein.25.d:0 "Am frühen Abend marschierten ca. 40 Mitglieder der [ROOT.GetFascistParty] von Nendeln aus in Richtung Vaduz und versuchten, die Regierung zu stürzen. Ihr eigentlicher Plan war der Versuch, die Regierung zu stürzen, was zu Zusammenstößen zwischen ihnen und der Regierung führen würde. [GER.GetAdjective] Truppen aus Feldkirch würden dann auf einen Hilferuf hin in Liechtenstein einmarschieren und das Land in die [GER.GetNameDef] eingliedern.\n]\n~]Glücklicherweise ist der Plan jedoch gescheitert. Außerhalb von Schaan hatten sich Gegner versammelt, um die [ROOT.GetFascistParty] zu stoppen, und sie wurden von Anton Frommelt, der auch ihre Telefonleitungen blockierte, zur Umkehr bewegt. Infolgedessen wurden 76 Personen verhaftet.\n\nDie allgemeine Bevölkerung steht unter Schock wegen der Ereignisse, die zusätzlich zu der immer schlimmer werdenden Situation in der ganzen Welt die Moral auf einen Tiefpunkt gebracht haben. Andererseits haben sie aber auch viele Menschen dazu veranlasst, offen eine härtere Gangart gegenüber dem Faschismus zu fordern."
  liechtenstein.25.a:0 "Dies ist sehr besorgniserregend."
 
  liechtenstein.26.t:0 "[FROM.GetNameDefCap] Strebt Handelsabkommen an"

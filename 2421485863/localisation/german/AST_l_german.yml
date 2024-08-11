@@ -35,10 +35,10 @@
  r56_australia.australia_first_win:0 "Australia First gewinnt die Wahl."
 
  r56_australia.1.t:0 "Ernennung des neuen Generalgouverneurs"
- r56_australia.1.d:0 "Die Amtszeit von Isaac Isaacs als Generalgouverneur ist beendet. Er wird als erster australischer Generalgouverneur und für seine herausragende Sparsamkeit in Erinnerung bleiben.[~\n\nVon den für seine Nachfolge vorgeschlagenen Kandidaten hat der Premierminister beschlossen, zu einem britischen Generalgouverneur zurückzukehren, und Alexander Hore-Ruthven vorgeschlagen.[~\n\nEr war zuvor Gouverneur von New South Wales und Südaustralien, wo er seinen Einfluss nutzte, um dem Staat während des Beginns der Großen Depression zu helfen."
+ r56_australia.1.d:0 "Die Amtszeit von Isaac Isaacs als Generalgouverneur ist beendet. Er wird als erster australischer Generalgouverneur und für seine herausragende Sparsamkeit in Erinnerung bleiben.\n\nVon den für seine Nachfolge vorgeschlagenen Kandidaten hat der Premierminister beschlossen, zu einem britischen Generalgouverneur zurückzukehren, und Alexander Hore-Ruthven vorgeschlagen.\n\nEr war zuvor Gouverneur von New South Wales und Südaustralien, wo er seinen Einfluss nutzte, um dem Staat während des Beginns der Großen Depression zu helfen."
  r56_australia.1.a:0 "Lord Gowrie wird ein guter Generalgouverneur sein."
 
- r56_australia.2.d:0 "Die Amtszeit von Alexander Hore-Ruthven als Generalgouverneur ist beendet. Der König hat ihm in Anerkennung seiner Verdienste den Titel Earl of Gowrie verliehen und ihn mit dem neuen Amt des Deputy Constable und Lieutenant-Governor von Windsor Castle betraut. Sein Einfluss während der vergangenen neun Jahre wird sicher in Erinnerung bleiben.[~\n\n~]Prinz Henry, Herzog von Gloucester, der dritte Sohn von König Georg V., wurde aus den vorgestellten Kandidaten für seine Nachfolge ausgewählt."
+ r56_australia.2.d:0 "Die Amtszeit von Alexander Hore-Ruthven als Generalgouverneur ist beendet. Der König hat ihm in Anerkennung seiner Verdienste den Titel Earl of Gowrie verliehen und ihn mit dem neuen Amt des Deputy Constable und Lieutenant-Governor von Windsor Castle betraut. Sein Einfluss während der vergangenen neun Jahre wird sicher in Erinnerung bleiben.\n\nPrinz Henry, Herzog von Gloucester, der dritte Sohn von König Georg V., wurde aus den vorgestellten Kandidaten für seine Nachfolge ausgewählt."
  r56_australia.2.a:0 "HRH The Duke of Gloucester wird ein guter Generalgouverneur sein."
 
  r56_australia.4.t:0 "Der Tod von Joseph Lyons"
@@ -52,7 +52,7 @@
 
  r56_australia.7.t:0 "Der Tod von John Curtin"
  r56_australia.7.uap:0 "Der Vorsitzende der Labor Party, John Curtin, ist heute im Alter von 60 Jahren gestorben. Sein Gesundheitszustand hatte sich in den letzten Monaten verschlechtert, und im Jahr zuvor erlitt er einen Herzinfarkt. Der langjährige Vorsitzende der Labor Party hatte jahrelang mit der UPA gekämpft, und seine sozialistische Politik führte häufig zu Meinungsverschiedenheiten. Er wird als große Führungspersönlichkeit und als ein Mann in Erinnerung bleiben, der sein Bestes tat, um Australien und seinem Volk zu dienen."
- r56_australia.7.labor:0 "Premierminister John Curtin ist heute im Alter von 60 Jahren verstorben. Sein Gesundheitszustand hatte sich in den letzten Monaten verschlechtert, und im Jahr zuvor erlitt er einen Herzinfarkt. Der langjährige Vorsitzende der Labor Party hat sich als populär erwiesen und das Land geeint, um große Fortschritte bei der Verringerung der Arbeitslosigkeit und der Überwindung der Großen Depression in Australien zu erzielen.[~\n\n~]Man wird sich zweifellos an ihn als einen großen Führer erinnern."
+ r56_australia.7.labor:0 "Premierminister John Curtin ist heute im Alter von 60 Jahren verstorben. Sein Gesundheitszustand hatte sich in den letzten Monaten verschlechtert, und im Jahr zuvor erlitt er einen Herzinfarkt. Der langjährige Vorsitzende der Labor Party hat sich als populär erwiesen und das Land geeint, um große Fortschritte bei der Verringerung der Arbeitslosigkeit und der Überwindung der Großen Depression in Australien zu erzielen.\n\nMan wird sich zweifellos an ihn als einen großen Führer erinnern."
  r56_australia.7.a:0 "Er hat seinem Land gut gedient."
 
  r56_australia.8.t:0 "Bundestagswahl 1937"
@@ -134,7 +134,7 @@
  r56_australia.24.a:0 "Was für eine wunderbare Insel!"
 
  r56_australia.25.t:0 "[From.GetNameDef] Weist unsere Bitte zurück"
- r56_australia.25.d:0 "Trotz unseres Entschädigungsangebots hat sich [Von.GetNameDef] geweigert, uns die Weihnachtsinsel zu übertragen."
+ r56_australia.25.d:0 "Trotz unseres Entschädigungsangebots hat sich [From.GetNameDef] geweigert, uns die Weihnachtsinsel zu übertragen."
  r56_australia.25.a:0 "Weihnachten ist überbewertet."
 
  r56_australia.26.t:0 "[AST.GetNameDefCap] Fragt nach einem Nichtangriffsvertrag"
@@ -500,7 +500,7 @@
  AST_R56_great_depression:0 "Große Depression"
  AST_R56_great_depression_desc:0 ""
  AST_R56_memories_of_gallipoli:0 "Erinnerungen an Gallipoli"
- AST_R56_memories_of_gallipoli_desc:0 "§RSie können die Wehrpflichtgesetze nicht erhöhen, bevor die entsprechenden Schwerpunkte gesetzt wurden. Das [§!][~\n\n~]Das [AST.GetAdjective] Volk hat nicht vergessen, wie australisches Blut auf den Schlachtfeldern des Großen Krieges vergossen wurde. Daher gibt es erheblichen Widerstand gegen die Idee, [AST.GetAdjective]s für den Kampf in Übersee zu rekrutieren, sollte ein weiterer Krieg ausbrechen."
+ AST_R56_memories_of_gallipoli_desc:0 "§RSie können die Wehrpflichtgesetze nicht erhöhen, bevor die entsprechenden Schwerpunkte gesetzt wurden. \n\nDas [AST.GetAdjective] Volk hat nicht vergessen, wie australisches Blut auf den Schlachtfeldern des Großen Krieges vergossen wurde. Daher gibt es erheblichen Widerstand gegen die Idee, [AST.GetAdjective]s für den Kampf in Übersee zu rekrutieren, sollte ein weiterer Krieg ausbrechen."
  AST_R56_department_of_defence_coordination_idea:0 "Koordinierung des Verteidigungsministeriums"
  AST_R56_department_of_defence_coordination_idea_desc:0 ""
  AST_R56_south_west_pacific_area_command_idea:0 "Gebietskommando Südwestpazifik"

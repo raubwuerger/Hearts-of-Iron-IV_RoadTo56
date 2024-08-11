@@ -271,7 +271,7 @@
  VIN_the_greater_vietnam_concept_desc:0 "Um das Überleben des vietnamesischen Volkes zu sichern, muss es seine Grenzen so weit zurückverlegen, dass sie die gesamte indochinesische Halbinsel umfassen. Darüber hinaus leben bereits vietnamesische Mühlen in Laos und Kambodscha."
  VIN_cross_the_cangshan_desc:0 "Ein Angriff auf [CHI.GetNameDef] durch die Berge von Yunnan wird sie überraschen, zumal unsere Soldaten für dieses Terrain viel besser ausgerüstet sind."
  VIN_cross_the_cangshan:0 "Überquere den Cangshan"
- VIN_cross_the_cangshan_tt:0 "Aktiviert §HGebirgskrieg§!\nAlle Infanterie : \n §HGebirge§!\n Bewegung: §G+10%§!\n §HHügel§!\n Bewegung: §G+10%§![~\n\n~]§HMarines\n Mountain§!\n Attack: §G+5%§!\n §HHügel§!\n Attacke: §G+5%§!\n \n§HBergsteiger\n Berg§!\n Angriff: §G+5%§!\n §HHügel§!\n Attacke: §G+5%§!\n \n§HFallschirmjäger\n Berge§!\n Angriff: §G+5%§!\n §HHügel§!\n Attacke: §G+5%§!\n"
+ VIN_cross_the_cangshan_tt:0 "Aktiviert §HGebirgskrieg§!\nAlle Infanterie : \n §HGebirge§!\n Bewegung: §G+10%§!\n §HHügel§!\n Bewegung: §G+10%§!\n\n§HMarines\n Mountain§!\n Attack: §G+5%§!\n §HHügel§!\n Attacke: §G+5%§!\n \n§HBergsteiger\n Berg§!\n Angriff: §G+5%§!\n §HHügel§!\n Attacke: §G+5%§!\n \n§HFallschirmjäger\n Berge§!\n Angriff: §G+5%§!\n §HHügel§!\n Attacke: §G+5%§!\n"
  VIN_trade_with_the_reorganised_government:0 "Handel mit [CHI.GetNameDef]"
  VIN_trade_with_the_reorganised_government_desc:0 "Die neue [CHI.GetNameDef]-Regierung, die mit der Unterstützung von [JAP.GetNameDef] eingesetzt wurde, stellt eine perfekte Gelegenheit für die Zusammenarbeit zwischen unseren beiden Nationen dar, die sich schon lange nahe stehen. Wir werden ein Handelsabkommen mit ihnen unterzeichnen."
  VIN_rule_the_thais:0 "Herrsche über die Thais"

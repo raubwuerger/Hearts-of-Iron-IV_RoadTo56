@@ -108,7 +108,7 @@
  plane_armor_upgrade:0 "Panzerung"
  plane_armor_upgrade_desc:0 "Selbstdichtende Treibstofftanks und Panzerplatten verbessern die Überlebensfähigkeit."
  plane_motor_efficiency_upgrade:0 "Motor-Effizienz"
- ACTUAL_EQUIPMENT_HEADER:0 "[~\n\n~]Equipment:\n"
+ ACTUAL_EQUIPMENT_HEADER:0 "\n\nEquipment:\n"
  ACTUAL_EQUIPMENT_ENTRY:0 " - $NUM|Y0$ von $NAME|Y$"
  ACTUAL_EQUIPMENT_ENTRY_STRING:0 " - $NUM|Y$ von $NAME|Y$"
  ACTUAL_EQUIPMENT_ENTRY_PERCENT:0 " - $NUM|Y0%$ aus ihrer Produktion von $NAME|Y$"

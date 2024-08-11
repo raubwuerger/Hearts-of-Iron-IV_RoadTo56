@@ -113,7 +113,7 @@ AUS_dubova_chromium_mine_desc:0 "Die Erde von Dubova wurde untersucht und enthä
 
 AUS_balkan_highways_project:0 "Balkan Highways Projekt"
 AUS_balkan_highways_project_desc:0 "[YUG.GetNameDefCap] hat schlechte Arbeit geleistet, um für sich selbst zu sorgen. Da wir jetzt ihr Land besitzen, sollten wir versuchen, einige der Fehler zu beheben, die sie gemacht haben."
-AUS_balkan_highways_project_tt:0 "Füge §Y1 Infrastruktur§! in §YSlowenien§!, §YKroatien§! und §YBosnien§! hinzu und besitze §YDalmatien[~§! ~], §YVojvodina§!, §YSerbien§!, §YMontenegro§!, §YMorava§! oder §YMazedonien§! besitzen, werden den Bau ausweiten."
+AUS_balkan_highways_project_tt:0 "Füge §Y1 Infrastruktur§! in §YSlowenien§!, §YKroatien§! und §YBosnien§! hinzu und besitze §YDalmatien§!, §YVojvodina§!, §YSerbien§!, §YMontenegro§!, §YMorava§! oder §YMazedonien§! besitzen, werden den Bau ausweiten."
 
 AUS_exploit_the_romanian_oil_fields:0 "Ausbeutung der rumänischen Ölfelder"
 AUS_exploit_the_romanian_oil_fields_desc:0 "Rumänien verfügt im Vergleich zu den umliegenden Regionen über enorme Ölvorkommen. Die Reserven sind zwar beträchtlich, aber der Förderprozess ist bisher ineffizient. Es gibt Maßnahmen, die wir ergreifen können, um die Ausbeute zu erhöhen."
@@ -1073,7 +1073,7 @@ AUS_security_measures_desc:0 "Es ist unerlässlich, [AUS.GetNameDef] gegen ausl�
  austria.5023.a:0 "Wieder eine Provinz des Reiches!"
 
  austria.5034.t:0 "Die Ermordung von Kurt Schuschnigg"
- austria.5034.d:0 "Laut einer offiziellen Erklärung der Regierung von [AUS.GetNameDefCap] wurde Bundeskanzler Kurt Schuschnigg heute Morgen ermordet. Es ist noch unklar, wie sich der Mord zugetragen hat, aber Quellen deuten darauf hin, dass es einem kommunistischen Sympathisanten gelungen ist, sich in sein Privathaus zu schleichen und ihn mit einem Eispickel zu überfallen. Bisher konnte keine Verbindung zwischen ihm und organisierten politischen Gruppen festgestellt werden, aber die Tatsache, dass er nach seiner Festnahme mit versteckten Zyanidpillen Selbstmord beging, deutet auf Hilfe von außen hin.[~\n\n~]Nicht wenige einflussreiche kommunistische Führer feierten offen den Tod von Schushnigg. In Wien kam es zu Jubelmärschen mit anschließenden gewalttätigen Ausschreitungen, und es hat sich gezeigt, dass politische Gewalt nicht mehr tabu ist. Ausländische Beobachter befürchten eine rasche Eskalation, die zu weit Schlimmerem führen könnte, da [AUS.GetNameDefCap] nun ohne eine standhafte antikommunistische Persönlichkeit im höchsten Amt dasteht."
+ austria.5034.d:0 "Laut einer offiziellen Erklärung der Regierung von [AUS.GetNameDefCap] wurde Bundeskanzler Kurt Schuschnigg heute Morgen ermordet. Es ist noch unklar, wie sich der Mord zugetragen hat, aber Quellen deuten darauf hin, dass es einem kommunistischen Sympathisanten gelungen ist, sich in sein Privathaus zu schleichen und ihn mit einem Eispickel zu überfallen. Bisher konnte keine Verbindung zwischen ihm und organisierten politischen Gruppen festgestellt werden, aber die Tatsache, dass er nach seiner Festnahme mit versteckten Zyanidpillen Selbstmord beging, deutet auf Hilfe von außen hin.\n\nNicht wenige einflussreiche kommunistische Führer feierten offen den Tod von Schushnigg. In Wien kam es zu Jubelmärschen mit anschließenden gewalttätigen Ausschreitungen, und es hat sich gezeigt, dass politische Gewalt nicht mehr tabu ist. Ausländische Beobachter befürchten eine rasche Eskalation, die zu weit Schlimmerem führen könnte, da [AUS.GetNameDefCap] nun ohne eine standhafte antikommunistische Persönlichkeit im höchsten Amt dasteht."
  austria.5034.a:0 "Tod allen Unterdrückern!"
 
  austria.5035.t:0 "Bundesheer-Deserteure"
@@ -1152,7 +1152,7 @@ AUS_security_measures_desc:0 "Es ist unerlässlich, [AUS.GetNameDef] gegen ausl�
 
  AUS_bunkers_1:0 "Vorbereitungen für die Grenze"
 
- POLITICS_ERNST_RUDIGER_STARHEMBERG_DESC:0 "Mitglied des Bundesrates und prominenter Politiker in Österreich seit den 1920er Jahren, ist dieser Mann auch für seine Verbindungen zu Faschisten aus [GER.getNameDef] bekannt.[~\n\n~]Seine Unterstützung des Bierhallenputsches 1923 und die Gründung der "Vaterländischen Front" 1933 zeigen deutlich seine Interessen und Verbindungen zu autoritären Strukturen und paramilitärischen Organisationen."
+ POLITICS_ERNST_RUDIGER_STARHEMBERG_DESC:0 "Mitglied des Bundesrates und prominenter Politiker in Österreich seit den 1920er Jahren, ist dieser Mann auch für seine Verbindungen zu Faschisten aus [GER.getNameDef] bekannt.\n\nSeine Unterstützung des Bierhallenputsches 1923 und die Gründung der "Vaterländischen Front" 1933 zeigen deutlich seine Interessen und Verbindungen zu autoritären Strukturen und paramilitärischen Organisationen."
 
  austrian_focus:0 "Österreichischer Nationaler Fokus"
 
