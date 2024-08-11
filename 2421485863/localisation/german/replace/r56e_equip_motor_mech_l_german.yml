@@ -820,7 +820,7 @@
  HOL_amphibious_mechanized_equipment_1_short:1 "DAF MC-139"
  HOL_amphibious_mechanized_equipment_2:0 "DAF YE500 Porter"
  HOL_amphibious_mechanized_equipment_2_short:0 "DAF Porter"
- HOL_train_equipment_1:0 "S 3700 Class" #beste Passform "
+ HOL_train_equipment_1:0 "S 3700 Klasse" #beste Passform "
  HOL_train_equipment_1_short:0 "NS 3700 Klasse"
 
  INS_motorized_rocket_equipment_1:0 "12,7cm Rakete M.43"
@@ -1221,7 +1221,7 @@
  SWE_mechanized_equipment_x_2_short:0 "Pbv m/53"
  SWE_train_equipment_1:0 "SJ B-Klasse"
  SWE_train_equipment_1_short:0 "SJ B-Klasse"
-   ""
+
 
  SWI_motorized_rocket_equipment_1:0 "15cm Rakete 42"
  SWI_motorized_rocket_equipment_1_short:0 "15cm Rakete 42"

@@ -482,7 +482,7 @@
  r56_CAN_invasion_transports:0 "Invasionstransporte"
  r56_CAN_invasion_transports_desc:0 "Die feindlichen Seewege zu belagern, würde nicht ausreichen, um die Bedrohung für [CAN.GetNameDef] zu verringern. Wir müssen zuerst zuschlagen und zwar schnell und mit der richtigen Ausrüstung für unsere Truppen."
 
- r56_CAN_rural_class_carriers:0 "Träger der Rural-Class"
+ r56_CAN_rural_class_carriers:0 "Träger der Rural-Klasse"
  r56_CAN_rural_class_carriers_desc:0 "Es steht außer Frage, dass wir uns in einer einzigartigen geografischen Lage befinden, zwischen zwei Meeren und einer Großmacht an der Grenze. Um unsere Seedominanz zu sichern, müssen wir mit dem Bau von Flugzeugträgern beginnen, die in der Lage sind, Flugzeuge in die Schlacht zu transportieren und unsere Seewege zu schützen."
 
  r56_CAN_trust_in_the_commonwealth:0 "Vertrauen in das Commonwealth"

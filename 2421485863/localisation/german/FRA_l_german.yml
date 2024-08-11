@@ -77,7 +77,7 @@
  FRA_national_department_state_market:0 "Nationale Abteilung für staatliche Märkte"
  FRA_national_department_state_market_desc:0 "Dieses neue Amt wird die öffentlichen Aufträge zentralisieren und die Kredite für Unternehmen flexibler gestalten."
 
-  "#### VERSTAATLICHUNG ####"
+ #### VERSTAATLICHUNG ####
  FRA_nationalisation:0 "Aktionen zur Verstaatlichung"
  FRA_nationalisation_desc:0 "Mit dem Budget des Nationalen Verteidigungsfonds können wir die Verstaatlichung von Unternehmen erzwingen, um die Produktionseffizienz zu steigern. Dies wird jedoch unsere Beziehungen zu den Industrieunternehmen verschlechtern, und §Rwir werden nicht in der Lage sein, dies während eines Krieges zu tun§!."
  FRA_nationalize_industy:0 "Integration von Industriekonzernen"
@@ -97,7 +97,7 @@
  FRA_nationalize_aircraft_3:0 ""
  FRA_nationalisation_cd:0 "Aktuelle Verstaatlichung"
 
-  "#### ORGANISIEREN INTERNATIONALE ####"
+ #### ORGANISIEREN INTERNATIONALE ####
  FRA_4th_international:0 "4. Internationale"
  FRA_support_ENG:0 "Unterstützen Sie den Kommunismus in [ENG.getnameDEF]"
  FRA_support_communism_FROM:0 "Unterstützt den Kommunismus in [FROM.getnameDEF]"
@@ -163,7 +163,7 @@
  FRA_consolidating_power:0 "Konsolidierung der Macht"
 
 
-   "############################"
+ ############################"
  #### TRAITS #### ""
 
 
@@ -1122,7 +1122,7 @@
 
 
 
-   "############################"
+ ############################"
  #### EVENTS #### ""
 
 
@@ -1132,7 +1132,7 @@
  indochina.1.b:0 "Wir müssen den Befehl ausführen."
 
 
-  "#### IDEEN ####"
+ #### IDEEN ####"
 
 
  FRI_voong_huu_trieu:0 "Voong Huu Trieu"

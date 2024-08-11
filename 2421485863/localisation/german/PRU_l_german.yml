@@ -1147,7 +1147,7 @@ PRU_america_imperial_desc:0 "Unsere Bestimmung ist es, Amerika in eine Ära der 
 
  PRU_popular_congress:0 "Volkskongress"
  peruvian_bolivian_joint_command:0 "Gemeinsames Kommando der Andenstaaten"
-   ""
+
  r56_support_democratic_sentiment_in_FROM_tt:0 "Fasst Beschlüsse zur Unterstützung demokratischer Bestrebungen in südamerikanischen Ländern."
  r56_support_democratic_sentiment_in_FROM:0 "Liberalisierung des [FROM.getAdjective]-Regimes"
  r56_end_radicalism_in_FROM:0 "Beenden Sie den Radikalismus in [FROM.getNameDef]"
@@ -1766,7 +1766,7 @@ PRU_america_imperial_desc:0 "Unsere Bestimmung ist es, Amerika in eine Ära der 
  PRU_our_industry:0 "Unsere Industrie"
  PRU_BCR:0 "BCR"
  PRU_external_debt:0 "Externe Verschuldung"
- PRU_forced_industria:"Forced Industria" ""
+ PRU_forced_industria:"Forcierte Industrie"
 
  PRU_inca_army:0 "Inka-Armee"
 

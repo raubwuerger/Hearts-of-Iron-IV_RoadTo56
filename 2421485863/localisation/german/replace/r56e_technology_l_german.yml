@@ -231,7 +231,7 @@
  rubber_plant_c_desc:0 "Mit unseren fortschrittlichen Anlagen können wir nun enorme Mengen an Kautschuk zu einem sehr günstigen Preis produzieren."
  rubber_plant_d:0 "Modernes Kautschukwerk"
  rubber_plant_d_desc:0 "Mit unseren modernen Anlagen können wir nun enorme Mengen an Kautschuk zu einem sehr günstigen Preis produzieren."
-   ""
+ 
 
 ###------> Landing Craft   <><> <><> <><> <><> <><> ""
  semi_modern_landing_craft:0 "Semi-Modernes Landungsboot"
@@ -472,8 +472,8 @@
  jungletroops6:0 "Dschungel-Infanterie VI" 
  jungletroops6_desc:0 "Dschungelspezialisten sind darauf trainiert, den harten Bedingungen des Dschungelkriegs standzuhalten und mit dem häufigen Mangel an Nachschub umzugehen. \n \n§Dieser Einheitentyp zählt nicht auf die Obergrenze für Spezialeinheiten, sondern erfordert 5 Unterstützungsausrüstung pro Bataillon§!" 
 
- shocktroops:0 "Schocktruppen I" 
- shocktroops_desc:0 "Schocktruppen werden eingesetzt, um die Verteidigungslinien des Gegners massiv anzugreifen und an bestimmten Stellen einen Durchbruch zu erzielen. Diese Einheiten haben eine höhere Durchbruchsfähigkeit und einen härteren Angriff als normale Infanterie. Schocktruppen oder Stoßtruppen haben jedoch auch einen höheren Nachschubverbrauch und eine längere Erholungszeit." 
+ shocktroops:0 "Stoßtruppen I" 
+ shocktroops_desc:0 "Stoßtruppen werden eingesetzt, um die Verteidigungslinien des Gegners massiv anzugreifen und an bestimmten Stellen einen Durchbruch zu erzielen. Diese Einheiten haben eine höhere Durchbruchsfähigkeit und einen härteren Angriff als normale Infanterie. Schocktruppen oder Stoßtruppen haben jedoch auch einen höheren Nachschubverbrauch und eine längere Erholungszeit." 
  shocktroops2:0 "Stoßtruppen II" 
  shocktroops2_desc:0 "Stoßtruppen werden eingesetzt, um die Verteidigungslinien des Gegners massiv anzugreifen und an bestimmten Stellen einen Durchbruch zu erzielen. Diese Einheiten haben eine höhere Durchschlagskraft und einen härteren Angriff als die normale Infanterie. Schocktruppen oder Stoßtruppen haben jedoch auch einen höheren Nachschubverbrauch und eine längere Erholungszeit." 
  shocktroops3:0 "Stoßtruppen III" 
@@ -482,7 +482,7 @@
  shocktroops4_desc:0 "Stoßtruppen werden eingesetzt, um die Verteidigungslinien des Gegners massiv anzugreifen und an bestimmten Stellen einen Durchbruch zu erzielen. Diese Einheiten haben eine höhere Durchschlagskraft und einen härteren Angriff als die normale Infanterie. Schocktruppen oder Stoßtruppen haben jedoch auch einen höheren Nachschubverbrauch und eine längere Erholungszeit." 
  shocktroops5:0 "Stoßtruppen V" 
  shocktroops5_desc:0 "Stoßtruppen werden eingesetzt, um die Verteidigungslinien des Gegners massiv anzugreifen und an bestimmten Stellen einen Durchbruch zu erzielen. Diese Einheiten haben eine höhere Durchschlagskraft und einen härteren Angriff als die normale Infanterie. Schocktruppen oder Stoßtruppen haben jedoch auch einen höheren Nachschubverbrauch und eine längere Erholungszeit." 
- Stoßtruppen6:0 "Stoßtruppen VI" 
+ shocktroops6:0 "Stoßtruppen VI" 
  shocktroops6_desc:0 "Stoßtruppen werden eingesetzt, um die Verteidigungslinien des Gegners massiv anzugreifen und an bestimmten Stellen einen Durchbruch zu erzielen. Diese Einheiten haben eine höhere Durchschlagskraft und einen härteren Angriff als die normale Infanterie. Schocktruppen oder Stoßtruppen haben jedoch auch einen höheren Nachschubverbrauch und eine längere Erholungszeit." 
 
  desertinfantry_at:0 "Wüsteninfanterie I" 

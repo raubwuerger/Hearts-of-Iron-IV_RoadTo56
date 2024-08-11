@@ -2015,7 +2015,7 @@
 ###############       Switzerland       ################################## ""
 ########################################################################## ""
 
- #Triggered by focus "Swiss Guiding Principles" ""
+ #Triggered by focus "Swiss Guiding Principles"
  BBA_switzerland.1.t:0 "[ROOT.GetAdjective] Leitsätze"
  BBA_switzerland.1.desc:0 "Die politische Situation in und um [ROOT.GetNameDefCap] verschlechtert sich rapide. Es gibt eine wachsende Bewegung, die sich für Leitprinzipien einsetzt, um das Schiff während des drohenden Sturms in die richtige Richtung zu lenken, aber die Frage ist, welches? \nDie Frage ist, welches. Wir wissen nicht, was unsere Nachbarn tun werden, aber wir müssen jetzt entscheiden, welche Vorgehensweise [ROOT.GetName] das Überleben ermöglichen wird."
  BBA_switzerland.1.a:0 "Wir müssen unsere demokratischen und neutralen Werte schützen"

@@ -292,7 +292,7 @@ BUL_GATHERING_STORM_DESC:0 "Nachdem Zar Boris das Militärregime von Kimon Georg
  BUL_new_page_in_technological_research:0 "Eine neue Seite in [BUL.GetAdjective] Technologie"
  BUL_new_page_in_technological_research_desc:0 "Im Rahmen des Wohlstandsplans müssen wir der industriellen Koordinierung auch eine wissenschaftliche Koordinierung hinzufügen, um einen noch nie dagewesenen technologischen Wandel zu ermöglichen."
  BUL_military_rearmament_plans:0 "Militärischer Aufrüstungsplan"
- BUL_military_rearmament_plans_desc:0 "\Der Zustand, in dem sich die [BUL.GetAdjective]-Armee befindet, lässt sich nicht mit "erbärmlichem Zustand" beschreiben. Wir werden einen groß angelegten Modernisierungsplan für das Militär auf den Weg bringen, um es an die Standards der Großmächte anzupassen."
+ BUL_military_rearmament_plans_desc:0 "Der Zustand, in dem sich die [BUL.GetAdjective]-Armee befindet, lässt sich nicht mit "erbärmlichem Zustand" beschreiben. Wir werden einen groß angelegten Modernisierungsplan für das Militär auf den Weg bringen, um es an die Standards der Großmächte anzupassen."
  BUL_reform_the_army:0 "Reform der Armee"
  BUL_reform_the_army_desc:0 "Die Armee muss in unserem Reformprojekt Priorität haben. Die Modernisierung ihrer Struktur und ihres Generalstabs wird eine Verbesserung der Bedingungen ermöglichen und ihre künftige Expansion vorbereiten."
  BUL_innovation_warfare:0 "Innovation in der Kriegsführung"
