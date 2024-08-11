@@ -39,7 +39,7 @@
  advanced_infantry_weapons_c_desc:0 "Die speziell für den Nahkampf entwickelten Angriffspatronen optimieren die Durchschlagskraft und ermöglichen es den Infanteriewaffen, sich in intensiven und anspruchsvollen Gefechten zu behaupten."
  advanced_infantry_weapons_d:0 "Universal-Patronen"
  advanced_infantry_weapons_d_desc:0 "Universalpatronen sind mit einer Reihe von Infanteriewaffen kompatibel, rationalisieren die Logistik und vereinfachen die Munitionsversorgung und stellen eine vielseitige Option für die Streitkräfte dar."
-  ""
+
 #-> "Panzerabwehr <><>"
  anti_tank_infantry_weapons:0 "Tragbare Panzerabwehrwaffen"
  r56_anti_tank_kit:0 "Feld-Anti-Fahrzeug-Kit"
@@ -59,7 +59,7 @@
  infantry_at_c:0 "Panzerabwehrrakete '53"
  infantry_at_c_short:0 "AT-Rakete"
  infantry_at_c_desc:0 "Besatzungswaffen für die auf Panzerabwehr spezialisierte Infanterie."
-  ""
+
 #-> "Unterstützungswaffen <><>"
  support_weapons:0 "Unterstützung '30"
  support_weapons_short:0 "Unterstützung '30"
@@ -104,7 +104,7 @@
  AFG_infantry_equipment_x_short:0 "Handfeuerwaffen '45"
  AFG_infantry_equipment_x_2:0 "Handfeuerwaffen '48"
  AFG_infantry_equipment_x_2_short:0 "Handfeuerwaffen '48"
-  ""
+
  AFG_infantry_at:0 "Panzerabwehrgewehr"
  AFG_infantry_at_short:0 "ATR"
  AFG_infantry_at2:0 "Panzerabwehrrakete"
@@ -115,7 +115,7 @@
  AFG_infantry_at_b_short:0 "AT-Rakete"
  AFG_infantry_at_c:0 "Panzerabwehrrakete '53"
  AFG_infantry_at_c_short:0 "AT-Rakete"
-  ""
+
  AFG_support_weapons:0 "Unterstützung '30"
  AFG_support_weapons_short:0 "Unterstützung '30"
  AFG_support_weapons2:0 "Unterstützung '38"
@@ -144,7 +144,7 @@
  BEL_infantry_equipment_x_short:0 "Handfeuerwaffen '45"
  BEL_infantry_equipment_x_2:0 "Handfeuerwaffen '48"
  BEL_infantry_equipment_x_2_short:0 "Handfeuerwaffen '48"
-  ""
+
  BEL_infantry_at:0 "Panzerabwehrgewehr"
  BEL_infantry_at_short:0 "ATR"
  BEL_infantry_at2:0 "Panzerabwehrrakete"
@@ -155,7 +155,7 @@
  BEL_infantry_at_b_short:0 "AT-Rakete"
  BEL_infantry_at_c:0 "Panzerabwehrrakete '53"
  BEL_infantry_at_c_short:0 "AT-Rakete"
-  ""
+
  BEL_support_weapons:0 "Unterstützung '30"
  BEL_support_weapons_short:0 "Unterstützung '30"
  BEL_support_weapons2:0 "Unterstützung '38"
@@ -185,7 +185,7 @@
  BUL_infantry_equipment_x_short:0 "Handfeuerwaffen '45"
  BUL_infantry_equipment_x_2:0 "Handfeuerwaffen '48"
  BUL_infantry_equipment_x_2_short:0 "Handfeuerwaffen '48"
-  ""
+
  BUL_infantry_at:0 "Panzerabwehrgewehr"
  BUL_infantry_at_short:0 "ATR"
  BUL_infantry_at2:0 "Panzerabwehrrakete"
@@ -196,7 +196,7 @@
  BUL_infantry_at_b_short:0 "AT-Rakete"
  BUL_infantry_at_c:0 "Panzerabwehrrakete '53"
  BUL_infantry_at_c_short:0 "AT-Rakete"
-  ""
+
  BUL_support_weapons:0 "Unterstützung '30"
  BUL_support_weapons_short:0 "Unterstützung '30"
  BUL_support_weapons2:0 "Unterstützung '38"
@@ -226,7 +226,7 @@
  CHI_infantry_equipment_x_short:0 "Handfeuerwaffen '45"
  CHI_infantry_equipment_x_2:0 "Handfeuerwaffen '48"
  CHI_infantry_equipment_x_2_short:0 "Handfeuerwaffen '48"
-  ""
+
  CHI_infantry_at:0 "Panzerabwehrgewehr"
  CHI_infantry_at_short:0 "ATR"
  CHI_infantry_at2:0 "Panzerabwehrrakete"
@@ -237,7 +237,7 @@
  CHI_infantry_at_b_short:0 "AT-Rakete"
  CHI_infantry_at_c:0 "Panzerabwehrrakete '53"
  CHI_infantry_at_c_short:0 "AT-Rakete"
-  ""
+
  CHI_support_weapons:0 "Unterstützung '30"
  CHI_support_weapons_short:0 "Unterstützung '30"
  CHI_support_weapons2:0 "Unterstützung '38"
@@ -266,7 +266,7 @@
  GXC_infantry_equipment_x_short:0 "Handfeuerwaffen '45"
  GXC_infantry_equipment_x_2:0 "Handfeuerwaffen '48"
  GXC_infantry_equipment_x_2_short:0 "Handfeuerwaffen '48"
-  ""
+
  GXC_infantry_at:0 "Panzerabwehrgewehr"
  GXC_infantry_at_short:0 "ATR"
  GXC_infantry_at2:0 "Panzerabwehrrakete"
@@ -277,7 +277,7 @@
  GXC_infantry_at_b_short:0 "AT-Rakete"
  GXC_infantry_at_c:0 "Panzerabwehrrakete '53"
  GXC_infantry_at_c_short:0 "AT-Rakete"
-  ""
+
  GXC_support_weapons:0 "Unterstützung '30"
  GXC_support_weapons_short:0 "Unterstützung '30"
  GXC_support_weapons2:0 "Unterstützung '38"
@@ -292,7 +292,7 @@
  GXC_support_weapons_b_short:0 "Unterstützung '50"
  GXC_support_weapons_c:0 "Stütze '54"
  GXC_support_weapons_c_short:0 "Unterstützung '54"
-  ""
+
  ###---> SHX <><> <><> <><> ""
  SHX_infantry_equipment_0:0 "Handfeuerwaffen '30"
  SHX_infantry_equipment_0_short:0 "Handfeuerwaffen 30"
@@ -306,7 +306,7 @@
  SHX_infantry_equipment_x_short:0 "Handfeuerwaffen '45"
  SHX_infantry_equipment_x_2:0 "Handfeuerwaffen '48"
  SHX_infantry_equipment_x_2_short:0 "Handfeuerwaffen '48"
-  ""
+
  SHX_infantry_at:0 "Panzerabwehrgewehr"
  SHX_infantry_at_short:0 "ATR"
  SHX_infantry_at2:0 "Panzerabwehrrakete"
@@ -317,7 +317,7 @@
  SHX_infantry_at_b_short:0 "AT-Rakete"
  SHX_infantry_at_c:0 "Panzerabwehrrakete '53"
  SHX_infantry_at_c_short:0 "AT-Rakete"
-  ""
+
  SHX_support_weapons:0 "Unterstützung '30"
  SHX_support_weapons_short:0 "Unterstützung '30"
  SHX_support_weapons2:0 "Unterstützung '38"
@@ -346,7 +346,7 @@
  TNG_infantry_equipment_x_short:0 "Handfeuerwaffen '45"
  TNG_infantry_equipment_x_2:0 "Handfeuerwaffen '48"
  TNG_infantry_equipment_x_2_short:0 "Handfeuerwaffen '48"
-  ""
+
  TNG_infantry_at:0 "Panzerabwehrgewehr"
  TNG_infantry_at_short:0 "ATR"
  TNG_infantry_at2:0 "Panzerabwehrrakete"
@@ -357,7 +357,7 @@
  TNG_infantry_at_b_short:0 "AT-Rakete"
  TNG_infantry_at_c:0 "Panzerabwehrrakete '53"
  TNG_infantry_at_c_short:0 "AT-Rakete"
-  ""
+
  TNG_support_weapons:0 "Unterstützung '30"
  TNG_support_weapons_short:0 "Unterstützung '30"
  TNG_support_weapons2:0 "Unterstützung '38"
@@ -386,7 +386,7 @@
  XSM_infantry_equipment_x_short:0 "Handfeuerwaffen '45"
  XSM_infantry_equipment_x_2:0 "Handfeuerwaffen '48"
  XSM_infantry_equipment_x_2_short:0 "Handfeuerwaffen '48"
-  ""
+
  XSM_infantry_at:0 "Panzerabwehrgewehr"
  XSM_infantry_at_short:0 "ATR"
  XSM_infantry_at2:0 "Panzerabwehrrakete"
@@ -397,7 +397,7 @@
  XSM_infantry_at_b_short:0 "AT-Rakete"
  XSM_infantry_at_c:0 "Panzerabwehrrakete '53"
  XSM_infantry_at_c_short:0 "AT-Rakete"
-  ""
+
  XSM_support_weapons:0 "Unterstützung '30"
  XSM_support_weapons_short:0 "Unterstützung '30"
  XSM_support_weapons2:0 "Unterstützung '38"
@@ -412,7 +412,7 @@
  XSM_support_weapons_b_short:0 "Unterstützung '50"
  XSM_support_weapons_c:0 "Stütze '54"
  XSM_support_weapons_c_short:0 "Unterstützung '54"
-  ""
+
 ###---> YUN <><> <><> <><> ""
  YUN_infantry_equipment_0:0 "Handfeuerwaffen '30"
  YUN_infantry_equipment_0_short:0 "Handfeuerwaffen 30"
@@ -426,7 +426,7 @@
  YUN_infantry_equipment_x_short:0 "Handfeuerwaffen '45"
  YUN_infantry_equipment_x_2:0 "Handfeuerwaffen '48"
  YUN_infantry_equipment_x_2_short:0 "Handfeuerwaffen '48"
-  ""
+
  YUN_infantry_at:0 "Panzerabwehrgewehr"
  YUN_infantry_at_short:0 "ATR"
  YUN_infantry_at2:0 "Panzerabwehrrakete"
@@ -437,7 +437,7 @@
  YUN_infantry_at_b_short:0 "AT-Rakete"
  YUN_infantry_at_c:0 "Panzerabwehrrakete '53"
  YUN_infantry_at_c_short:0 "AT-Rakete"
-  ""
+
  YUN_support_weapons:0 "Unterstützung '30"
  YUN_support_weapons_short:0 "Unterstützung '30"
  YUN_support_weapons2:0 "Unterstützung '38"
@@ -467,7 +467,7 @@
  CZE_infantry_equipment_x_short:0 "Handfeuerwaffe vz.45"
  CZE_infantry_equipment_x_2:0 "Handfeuerwaffen vz.48"
  CZE_infantry_equipment_x_2_short:0 "Handfeuerwaffe vz.48"
-  ""
+
  CZE_infantry_at:0 "Panzerabwehrgewehr"
  CZE_infantry_at_short:0 "ATR"
  CZE_infantry_at2:0 "Panzerabwehrrakete"
@@ -478,7 +478,7 @@
  CZE_infantry_at_b_short:0 "AT-Rakete"
  CZE_infantry_at_c:0 "Panzerabwehrrakete '53"
  CZE_infantry_at_c_short:0 "AT-Rakete"
-  ""
+
  CZE_support_weapons:0 "Unterstützung '30"
  CZE_support_weapons_short:0 "Unterstützung '30"
  CZE_support_weapons2:0 "Unterstützung '38"
@@ -507,7 +507,7 @@
  SLO_infantry_equipment_x_short:0 "Handfeuerwaffe vz.45"
  SLO_infantry_equipment_x_2:0 "Handfeuerwaffen vz.48"
  SLO_infantry_equipment_x_2_short:0 "Handfeuerwaffe vz.48"
-  ""
+
  SLO_infantry_at:0 "Panzerabwehrgewehr"
  SLO_infantry_at_short:0 "ATR"
  SLO_infantry_at2:0 "Panzerabwehrrakete"
@@ -518,7 +518,7 @@
  SLO_infantry_at_b_short:0 "AT-Rakete"
  SLO_infantry_at_c:0 "Panzerabwehrrakete '53"
  SLO_infantry_at_c_short:0 "AT-Rakete"
-  ""
+
  SLO_support_weapons:0 "Unterstützung '30"
  SLO_support_weapons_short:0 "Unterstützung '30"
  SLO_support_weapons2:0 "Unterstützung '38"
@@ -548,7 +548,7 @@
  DEN_infantry_equipment_x_short:0 "Handfeuerwaffen M.45"
  DEN_infantry_equipment_x_2:0 "Handfeuerwaffen M.48"
  DEN_infantry_equipment_x_2_short:0 "Handfeuerwaffe M.48"
-  ""
+
  DEN_infantry_at:0 "Panzerabwehrgewehr"
  DEN_infantry_at_short:0 "ATR"
  DEN_infantry_at2:0 "Panzerabwehrrakete"
@@ -559,7 +559,7 @@
  DEN_infantry_at_b_short:0 "AT-Rakete"
  DEN_infantry_at_c:0 "Panzerabwehrrakete '53"
  DEN_infantry_at_c_short:0 "AT-Rakete"
-  ""
+
  DEN_support_weapons:0 "Unterstützung '30"
  DEN_support_weapons_short:0 "Unterstützung '30"
  DEN_support_weapons2:0 "Unterstützung '38"
@@ -588,7 +588,7 @@
  ICE_infantry_equipment_x_short:0 "Handfeuerwaffen M.45"
  ICE_infantry_equipment_x_2:0 "Handfeuerwaffen M.48"
  ICE_infantry_equipment_x_2_short:0 "Handfeuerwaffe M.48"
-  ""
+
  ICE_infantry_at:0 "Panzerabwehrgewehr"
  ICE_infantry_at_short:0 "ATR"
  ICE_infantry_at2:0 "Panzerabwehrrakete"
@@ -599,7 +599,7 @@
  ICE_infantry_at_b_short:0 "AT-Rakete"
  ICE_infantry_at_c:0 "Panzerabwehrrakete '53"
  ICE_infantry_at_c_short:0 "AT-Rakete"
-  ""
+
  ICE_support_weapons:0 "Unterstützung '30"
  ICE_support_weapons_short:0 "Unterstützung '30"
  ICE_support_weapons2:0 "Unterstützung '38"
@@ -628,7 +628,7 @@
  ENG_infantry_equipment_x_short:0 "Handfeuerwaffen '45"
  ENG_infantry_equipment_x_2:0 "Handfeuerwaffen '48"
  ENG_infantry_equipment_x_2_short:0 "Handfeuerwaffen '48"
-  ""
+
  ENG_infantry_at:0 "Panzerabwehrgewehr"
  ENG_infantry_at_short:0 "ATR"
  ENG_infantry_at2:0 "Panzerabwehrrakete"
@@ -639,7 +639,7 @@
  ENG_infantry_at_b_short:0 "AT-Rakete"
  ENG_infantry_at_c:0 "Panzerabwehrrakete '53"
  ENG_infantry_at_c_short:0 "AT-Rakete"
-  ""
+
  ENG_support_weapons:0 "Unterstützung '30"
  ENG_support_weapons_short:0 "Unterstützung '30"
  ENG_support_weapons2:0 "Unterstützung '38"
@@ -654,7 +654,7 @@
  ENG_support_weapons_b_short:0 "Unterstützung '50"
  ENG_support_weapons_c:0 "Stütze '54"
  ENG_support_weapons_c_short:0 "Unterstützung '54"
-  ""
+
  ###---> AST <><> <><> <><> ""
  AST_infantry_equipment_0:0 "Handfeuerwaffen '30"
  AST_infantry_equipment_0_short:0 "Handfeuerwaffen 30"
@@ -668,7 +668,7 @@
  AST_infantry_equipment_x_short:0 "Handfeuerwaffen '45"
  AST_infantry_equipment_x_2:0 "Handfeuerwaffen '48"
  AST_infantry_equipment_x_2_short:0 "Handfeuerwaffen '48"
-  ""
+
  AST_infantry_at:0 "Panzerabwehrgewehr"
  AST_infantry_at_short:0 "ATR"
  AST_infantry_at2:0 "Panzerabwehrrakete"
@@ -679,7 +679,7 @@
  AST_infantry_at_b_short:0 "AT-Rakete"
  AST_infantry_at_c:0 "Panzerabwehrrakete '53"
  AST_infantry_at_c_short:0 "AT-Rakete"
-  ""
+
  AST_support_weapons:0 "Unterstützung '30"
  AST_support_weapons_short:0 "Unterstützung '30"
  AST_support_weapons2:0 "Unterstützung '38"
@@ -694,7 +694,7 @@
  AST_support_weapons_b_short:0 "Unterstützung '50"
  AST_support_weapons_c:0 "Stütze '54"
  AST_support_weapons_c_short:0 "Unterstützung '54"
-  ""
+
  ###---> CAN <><> <><> <><> ""
  CAN_infantry_equipment_0:0 "Handfeuerwaffen '30"
  CAN_infantry_equipment_0_short:0 "Handfeuerwaffen 30"
@@ -708,7 +708,7 @@
  CAN_infantry_equipment_x_short:0 "Handfeuerwaffen '45"
  CAN_infantry_equipment_x_2:0 "Handfeuerwaffen '48"
  CAN_infantry_equipment_x_2_short:0 "Handfeuerwaffen '48"
-  ""
+
  CAN_infantry_at:0 "Panzerabwehrgewehr"
  CAN_infantry_at_short:0 "ATR"
  CAN_infantry_at2:0 "Panzerabwehrrakete"
@@ -719,7 +719,7 @@
  CAN_infantry_at_b_short:0 "AT-Rakete"
  CAN_infantry_at_c:0 "Panzerabwehrrakete '53"
  CAN_infantry_at_c_short:0 "AT-Rakete"
-  ""
+
  CAN_support_weapons:0 "Unterstützung '30"
  CAN_support_weapons_short:0 "Unterstützung '30"
  CAN_support_weapons2:0 "Unterstützung '38"
@@ -734,7 +734,7 @@
  CAN_support_weapons_b_short:0 "Unterstützung '50"
  CAN_support_weapons_c:0 "Stütze '54"
  CAN_support_weapons_c_short:0 "Unterstützung '54"
-  ""
+
 ###---> MAL <><> <><> <><> ""
  MAL_infantry_equipment_0:0 "Handfeuerwaffen '30"
  MAL_infantry_equipment_0_short:0 "Handfeuerwaffen 30"
@@ -748,7 +748,7 @@
  MAL_infantry_equipment_x_short:0 "Handfeuerwaffen '45"
  MAL_infantry_equipment_x_2:0 "Handfeuerwaffen '48"
  MAL_infantry_equipment_x_2_short:0 "Handfeuerwaffen '48"
-  ""
+
  MAL_infantry_at:0 "Panzerabwehrgewehr"
  MAL_infantry_at_short:0 "ATR"
  MAL_infantry_at2:0 "Panzerabwehrrakete"
@@ -759,7 +759,7 @@
  MAL_infantry_at_b_short:0 "AT-Rakete"
  MAL_infantry_at_c:0 "Panzerabwehrrakete '53"
  MAL_infantry_at_c_short:0 "AT-Rakete"
-  ""
+
  MAL_support_weapons:0 "Unterstützung '30"
  MAL_support_weapons_short:0 "Unterstützung '30"
  MAL_support_weapons2:0 "Unterstützung '38"
@@ -774,7 +774,7 @@
  MAL_support_weapons_b_short:0 "Unterstützung '50"
  MAL_support_weapons_c:0 "Stütze '54"
  MAL_support_weapons_c_short:0 "Unterstützung '54"
-  ""
+
  ###---> NZL <><> <><> <><> ""
  NZL_infantry_equipment_0:0 "Handfeuerwaffen '30"
  NZL_infantry_equipment_0_short:0 "Handfeuerwaffen 30"
@@ -788,7 +788,7 @@
  NZL_infantry_equipment_x_short:0 "Handfeuerwaffen '45"
  NZL_infantry_equipment_x_2:0 "Handfeuerwaffen '48"
  NZL_infantry_equipment_x_2_short:0 "Handfeuerwaffen '48"
-  ""
+
  NZL_infantry_at:0 "Panzerabwehrgewehr"
  NZL_infantry_at_short:0 "ATR"
  NZL_infantry_at2:0 "Panzerabwehrrakete"
@@ -799,7 +799,7 @@
  NZL_infantry_at_b_short:0 "AT-Rakete"
  NZL_infantry_at_c:0 "Panzerabwehrrakete '53"
  NZL_infantry_at_c_short:0 "AT-Rakete"
-  ""
+
  NZL_support_weapons:0 "Unterstützung '30"
  NZL_support_weapons_short:0 "Unterstützung '30"
  NZL_support_weapons2:0 "Unterstützung '38"
@@ -814,7 +814,7 @@
  NZL_support_weapons_b_short:0 "Unterstützung '50"
  NZL_support_weapons_c:0 "Stütze '54"
  NZL_support_weapons_c_short:0 "Unterstützung '54"
-  ""
+
 ###---> SAF <><> <><> <><> ""
  SAF_infantry_equipment_0:0 "Handfeuerwaffen '30"
  SAF_infantry_equipment_0_short:0 "Handfeuerwaffen 30"
@@ -828,7 +828,7 @@
  SAF_infantry_equipment_x_short:0 "Handfeuerwaffen '45"
  SAF_infantry_equipment_x_2:0 "Handfeuerwaffen '48"
  SAF_infantry_equipment_x_2_short:0 "Handfeuerwaffen '48"
-  ""
+
  SAF_infantry_at:0 "Panzerabwehrgewehr"
  SAF_infantry_at_short:0 "ATR"
  SAF_infantry_at2:0 "Panzerabwehrrakete"
@@ -839,7 +839,7 @@
  SAF_infantry_at_b_short:0 "AT-Rakete"
  SAF_infantry_at_c:0 "Panzerabwehrrakete '53"
  SAF_infantry_at_c_short:0 "AT-Rakete"
-  ""
+
  SAF_support_weapons:0 "Unterstützung '30"
  SAF_support_weapons_short:0 "Unterstützung '30"
  SAF_support_weapons2:0 "Unterstützung '38"
@@ -854,7 +854,7 @@
  SAF_support_weapons_b_short:0 "Unterstützung '50"
  SAF_support_weapons_c:0 "Stütze '54"
  SAF_support_weapons_c_short:0 "Unterstützung '54"
-  ""
+
 ###---> RAJ <><> <><> <><> ""
  RAJ_infantry_equipment_0:0 "Handfeuerwaffen '30"
  RAJ_infantry_equipment_0_short:0 "Handfeuerwaffen 30"
@@ -868,7 +868,7 @@
  RAJ_infantry_equipment_x_short:0 "Handfeuerwaffen '45"
  RAJ_infantry_equipment_x_2:0 "Handfeuerwaffen '48"
  RAJ_infantry_equipment_x_2_short:0 "Handfeuerwaffen '48"
-  ""
+
  RAJ_infantry_at:0 "Panzerabwehrgewehr"
  RAJ_infantry_at_short:0 "ATR"
  RAJ_infantry_at2:0 "Panzerabwehrrakete"
@@ -879,7 +879,7 @@
  RAJ_infantry_at_b_short:0 "AT-Rakete"
  RAJ_infantry_at_c:0 "Panzerabwehrrakete '53"
  RAJ_infantry_at_c_short:0 "AT-Rakete"
-  ""
+
  RAJ_support_weapons:0 "Unterstützung '30"
  RAJ_support_weapons_short:0 "Unterstützung '30"
  RAJ_support_weapons2:0 "Unterstützung '38"
@@ -908,7 +908,7 @@
  EST_infantry_equipment_x_short:0 "Handfeuerwaffen M45"
  EST_infantry_equipment_x_2:0 "Handfeuerwaffen M48"
  EST_infantry_equipment_x_2_short:0 "Handfeuerwaffe M48"
-  ""
+
  EST_infantry_at:0 "Panzerabwehrgewehr"
  EST_infantry_at_short:0 "ATR"
  EST_infantry_at2:0 "Panzerabwehrrakete"
@@ -919,7 +919,7 @@
  EST_infantry_at_b_short:0 "AT-Rakete"
  EST_infantry_at_c:0 "Panzerabwehrrakete '53"
  EST_infantry_at_c_short:0 "AT-Rakete"
-  ""
+
  EST_support_weapons:0 "Unterstützung '30"
  EST_support_weapons_short:0 "Unterstützung '30"
  EST_support_weapons2:0 "Unterstützung '38"
@@ -934,7 +934,7 @@
  EST_support_weapons_b_short:0 "Unterstützung '50"
  EST_support_weapons_c:0 "Stütze '54"
  EST_support_weapons_c_short:0 "Unterstützung '54"
-  ""
+
 ###---> FIN <><> <><> <><> ""
  FIN_infantry_equipment_0:0 "Handfeuerwaffen m/30"
  FIN_infantry_equipment_0_short:0 "Handfeuerwaffen m/30"
@@ -948,7 +948,7 @@
  FIN_infantry_equipment_x_short:0 "Handfeuerwaffe m/45"
  FIN_infantry_equipment_x_2:0 "Handfeuerwaffe m/48"
  FIN_infantry_equipment_x_2_short:0 "Handfeuerwaffe m/48"
-  ""
+
  FIN_infantry_at:0 "Panzerabwehrgewehr"
  FIN_infantry_at_short:0 "ATR"
  FIN_infantry_at2:0 "Panzerabwehrrakete"
@@ -959,7 +959,7 @@
  FIN_infantry_at_b_short:0 "AT-Rakete"
  FIN_infantry_at_c:0 "Panzerabwehrrakete '53"
  FIN_infantry_at_c_short:0 "AT-Rakete"
-  ""
+
  FIN_support_weapons:0 "Unterstützung '30"
  FIN_support_weapons_short:0 "Unterstützung '30"
  FIN_support_weapons2:0 "Unterstützung '38"
@@ -989,7 +989,7 @@
  FRA_infantry_equipment_x_short:0 "Handfeuerwaffen 1945"
  FRA_infantry_equipment_x_2:0 "Handfeuerwaffen 1948"
  FRA_infantry_equipment_x_2_short:0 "Handfeuerwaffen 1948"
-  ""
+
  FRA_infantry_at:0 "Panzerabwehrgewehr"
  FRA_infantry_at_short:0 "ATR"
  FRA_infantry_at2:0 "Panzerabwehrrakete"
@@ -1000,7 +1000,7 @@
  FRA_infantry_at_b_short:0 "AT-Rakete"
  FRA_infantry_at_c:0 "Panzerabwehrrakete '53"
  FRA_infantry_at_c_short:0 "AT-Rakete"
-  ""
+
  FRA_support_weapons:0 "Unterstützung '30"
  FRA_support_weapons_short:0 "Unterstützung '30"
  FRA_support_weapons2:0 "Unterstützung '38"
@@ -1015,7 +1015,7 @@
  FRA_support_weapons_b_short:0 "Unterstützung '50"
  FRA_support_weapons_c:0 "Stütze '54"
  FRA_support_weapons_c_short:0 "Unterstützung '54"
-  ""
+
 ###---> BRI <><> <><> <><> ""
  BRI_infantry_equipment_0:0 "Handfeuerwaffen 1930"
  BRI_infantry_equipment_0_short:0 "Handfeuerwaffen 1930"
@@ -1029,7 +1029,7 @@
  BRI_infantry_equipment_x_short:0 "Handfeuerwaffen 1945"
  BRI_infantry_equipment_x_2:0 "Handfeuerwaffen 1948"
  BRI_infantry_equipment_x_2_short:0 "Handfeuerwaffen 1948"
-  ""
+
  BRI_infantry_at:0 "Panzerabwehrgewehr"
  BRI_infantry_at_short:0 "ATR"
  BRI_infantry_at2:0 "Panzerabwehrrakete"
@@ -1040,7 +1040,7 @@
  BRI_infantry_at_b_short:0 "AT-Rakete"
  BRI_infantry_at_c:0 "Panzerabwehrrakete '53"
  BRI_infantry_at_c_short:0 "AT-Rakete"
-  ""
+
  BRI_support_weapons:0 "Unterstützung '30"
  BRI_support_weapons_short:0 "Unterstützung '30"
  BRI_support_weapons2:0 "Unterstützung '38"
@@ -1070,7 +1070,7 @@
  GER_infantry_equipment_x_short:0 "Handfeuerwaffen M45"
  GER_infantry_equipment_x_2:0 "Handfeuerwaffen M48"
  GER_infantry_equipment_x_2_short:0 "Handfeuerwaffe M48"
-  ""
+
  GER_infantry_at:0 "Panzerabwehrgewehr"
  GER_infantry_at_short:0 "ATR"
  GER_infantry_at2:0 "Panzerabwehrrakete"
@@ -1081,7 +1081,7 @@
  GER_infantry_at_b_short:0 "AT-Rakete"
  GER_infantry_at_c:0 "Panzerabwehrrakete '53"
  GER_infantry_at_c_short:0 "AT-Rakete"
-  ""
+
  GER_support_weapons:0 "Unterstützung '30"
  GER_support_weapons_short:0 "Unterstützung '30"
  GER_support_weapons2:0 "Unterstützung '38"
@@ -1096,7 +1096,7 @@
  GER_support_weapons_b_short:0 "Unterstützung '50"
  GER_support_weapons_c:0 "Stütze '54"
  GER_support_weapons_c_short:0 "Unterstützung '54"
-  ""
+
 ###---> AUS <><> <><> <><> ""
  AUS_infantry_equipment_0:0 "Handfeuerwaffen M30"
  AUS_infantry_equipment_0_short:0 "Handfeuerwaffen M30"
@@ -1110,7 +1110,7 @@
  AUS_infantry_equipment_x_short:0 "Handfeuerwaffen M45"
  AUS_infantry_equipment_x_2:0 "Handfeuerwaffen M48"
  AUS_infantry_equipment_x_2_short:0 "Handfeuerwaffe M48"
-  ""
+
  AUS_infantry_at:0 "Panzerabwehrgewehr"
  AUS_infantry_at_short:0 "ATR"
  AUS_infantry_at2:0 "Panzerabwehrrakete"
@@ -1121,7 +1121,7 @@
  AUS_infantry_at_b_short:0 "AT-Rakete"
  AUS_infantry_at_c:0 "Panzerabwehrrakete '53"
  AUS_infantry_at_c_short:0 "AT-Rakete"
-  ""
+
  AUS_support_weapons:0 "Unterstützung '30"
  AUS_support_weapons_short:0 "Unterstützung '30"
  AUS_support_weapons2:0 "Unterstützung '38"
@@ -1150,7 +1150,7 @@
  GRE_infantry_equipment_x_short:0 "Handfeuerwaffen M45"
  GRE_infantry_equipment_x_2:0 "Handfeuerwaffen M48"
  GRE_infantry_equipment_x_2_short:0 "Handfeuerwaffe M48"
-  ""
+
  GRE_infantry_at:0 "Panzerabwehrgewehr"
  GRE_infantry_at_short:0 "ATR"
  GRE_infantry_at2:0 "Panzerabwehrrakete"
@@ -1161,7 +1161,7 @@
  GRE_infantry_at_b_short:0 "AT-Rakete"
  GRE_infantry_at_c:0 "Panzerabwehrrakete '53"
  GRE_infantry_at_c_short:0 "AT-Rakete"
-  ""
+
  GRE_support_weapons:0 "Unterstützung '30"
  GRE_support_weapons_short:0 "Unterstützung '30"
  GRE_support_weapons2:0 "Unterstützung '38"
@@ -1176,7 +1176,7 @@
  GRE_support_weapons_b_short:0 "Unterstützung '50"
  GRE_support_weapons_c:0 "Stütze '54"
  GRE_support_weapons_c_short:0 "Unterstützung '54"
-  ""
+
 ###---> HOL <><> <><> <><> ""
  HOL_infantry_equipment_0:0 "Handfeuerwaffen M.30"
  HOL_infantry_equipment_0_short:0 "Handfeuerwaffen M.30"
@@ -1190,7 +1190,7 @@
  HOL_infantry_equipment_x_short:0 "Handfeuerwaffen M.45"
  HOL_infantry_equipment_x_2:0 "Handfeuerwaffen M.48"
  HOL_infantry_equipment_x_2_short:0 "Handfeuerwaffe M.48"
-  ""
+
  HOL_infantry_at:0 "Panzerabwehrgewehr"
  HOL_infantry_at_short:0 "ATR"
  HOL_infantry_at2:0 "Panzerabwehrrakete"
@@ -1201,7 +1201,7 @@
  HOL_infantry_at_b_short:0 "AT-Rakete"
  HOL_infantry_at_c:0 "Panzerabwehrrakete '53"
  HOL_infantry_at_c_short:0 "AT-Rakete"
-  ""
+
  HOL_support_weapons:0 "Unterstützung '30"
  HOL_support_weapons_short:0 "Unterstützung '30"
  HOL_support_weapons2:0 "Unterstützung '38"
@@ -1231,7 +1231,7 @@
  INS_infantry_equipment_x_short:0 "Handfeuerwaffen M.45"
  INS_infantry_equipment_x_2:0 "Handfeuerwaffen M.48"
  INS_infantry_equipment_x_2_short:0 "Handfeuerwaffe M.48"
-  ""
+
  INS_infantry_at:0 "Panzerabwehrgewehr"
  INS_infantry_at_short:0 "ATR"
  INS_infantry_at2:0 "Panzerabwehrrakete"
@@ -1242,7 +1242,7 @@
  INS_infantry_at_b_short:0 "AT-Rakete"
  INS_infantry_at_c:0 "Panzerabwehrrakete '53"
  INS_infantry_at_c_short:0 "AT-Rakete"
-  ""
+
  INS_support_weapons:0 "Unterstützung '30"
  INS_support_weapons_short:0 "Unterstützung '30"
  INS_support_weapons2:0 "Unterstützung '38"
@@ -1257,8 +1257,8 @@
  INS_support_weapons_b_short:0 "Unterstützung '50"
  INS_support_weapons_c:0 "Stütze '54"
  INS_support_weapons_c_short:0 "Unterstützung '54"
-  ""
-  ""
+
+
 ###---> HUN <><> <><> <><> ""
  HUN_infantry_equipment_0:0 "30M Handfeuerwaffen"
  HUN_infantry_equipment_0_short:0 "30M Kleinwaffen"
@@ -1272,7 +1272,7 @@
  HUN_infantry_equipment_x_short:0 "45M Kleinwaffen"
  HUN_infantry_equipment_x_2:0 "48M Kleinwaffen"
  HUN_infantry_equipment_x_2_short:0 "48M Kleinwaffen"
-  ""
+
  HUN_infantry_at:0 "Panzerabwehrgewehr"
  HUN_infantry_at_short:0 "ATR"
  HUN_infantry_at2:0 "Panzerabwehrrakete"
@@ -1283,7 +1283,7 @@
  HUN_infantry_at_b_short:0 "AT-Rakete"
  HUN_infantry_at_c:0 "Panzerabwehrrakete '53"
  HUN_infantry_at_c_short:0 "AT-Rakete"
-  ""
+
  HUN_support_weapons:0 "Unterstützung '30"
  HUN_support_weapons_short:0 "Unterstützung '30"
  HUN_support_weapons2:0 "Unterstützung '38"
@@ -1313,7 +1313,7 @@
  ITA_infantry_equipment_x_short:0 "Handfeuerwaffen M45"
  ITA_infantry_equipment_x_2:0 "Handfeuerwaffen M48"
  ITA_infantry_equipment_x_2_short:0 "Handfeuerwaffe M48"
-  ""
+
  ITA_infantry_at:0 "Panzerabwehrgewehr"
  ITA_infantry_at_short:0 "ATR"
  ITA_infantry_at2:0 "Panzerabwehrrakete"
@@ -1324,7 +1324,7 @@
  ITA_infantry_at_b_short:0 "AT-Rakete"
  ITA_infantry_at_c:0 "Panzerabwehrrakete '53"
  ITA_infantry_at_c_short:0 "AT-Rakete"
-  ""
+
  ITA_support_weapons:0 "Unterstützung '30"
  ITA_support_weapons_short:0 "Unterstützung '30"
  ITA_support_weapons2:0 "Unterstützung '38"
@@ -1354,7 +1354,7 @@
  JAP_infantry_equipment_x_short:0 "Handfeuerwaffen '45"
  JAP_infantry_equipment_x_2:0 "Handfeuerwaffen '48"
  JAP_infantry_equipment_x_2_short:0 "Handfeuerwaffen '48"
-  ""
+
  JAP_infantry_at:0 "Panzerabwehrgewehr"
  JAP_infantry_at_short:0 "ATR"
  JAP_infantry_at2:0 "Panzerabwehrrakete"
@@ -1365,7 +1365,7 @@
  JAP_infantry_at_b_short:0 "AT-Rakete"
  JAP_infantry_at_c:0 "Panzerabwehrrakete '53"
  JAP_infantry_at_c_short:0 "AT-Rakete"
-  ""
+
  JAP_support_weapons:0 "Unterstützung '30"
  JAP_support_weapons_short:0 "Unterstützung '30"
  JAP_support_weapons2:0 "Unterstützung '38"
@@ -1394,7 +1394,7 @@
  MAN_infantry_equipment_x_short:0 "Handfeuerwaffen '45"
  MAN_infantry_equipment_x_2:0 "Handfeuerwaffen '48"
  MAN_infantry_equipment_x_2_short:0 "Handfeuerwaffen '48"
-  ""
+
  MAN_infantry_at:0 "Panzerabwehrgewehr"
  MAN_infantry_at_short:0 "ATR"
  MAN_infantry_at2:0 "Panzerabwehrrakete"
@@ -1405,7 +1405,7 @@
  MAN_infantry_at_b_short:0 "AT-Rakete"
  MAN_infantry_at_c:0 "Panzerabwehrrakete '53"
  MAN_infantry_at_c_short:0 "AT-Rakete"
-  ""
+
  MAN_support_weapons:0 "Unterstützung '30"
  MAN_support_weapons_short:0 "Unterstützung '30"
  MAN_support_weapons2:0 "Unterstützung '38"
@@ -1434,7 +1434,7 @@
  MEN_infantry_equipment_x_short:0 "Handfeuerwaffen '45"
  MEN_infantry_equipment_x_2:0 "Handfeuerwaffen '48"
  MEN_infantry_equipment_x_2_short:0 "Handfeuerwaffen '48"
-  ""
+
  MEN_infantry_at:0 "Panzerabwehrgewehr"
  MEN_infantry_at_short:0 "ATR"
  MEN_infantry_at2:0 "Panzerabwehrrakete"
@@ -1445,7 +1445,7 @@
  MEN_infantry_at_b_short:0 "AT-Rakete"
  MEN_infantry_at_c:0 "Panzerabwehrrakete '53"
  MEN_infantry_at_c_short:0 "AT-Rakete"
-  ""
+
  MEN_support_weapons:0 "Unterstützung '30"
  MEN_support_weapons_short:0 "Unterstützung '30"
  MEN_support_weapons2:0 "Unterstützung '38"
@@ -1460,7 +1460,7 @@
  MEN_support_weapons_b_short:0 "Unterstützung '50"
  MEN_support_weapons_c:0 "Stütze '54"
  MEN_support_weapons_c_short:0 "Stütze '54"
-  ""
+
 ###---> LAT <><> <><> <><> ""
  LAT_infantry_equipment_0:0 "M-N 1891/30"
  LAT_infantry_equipment_0_short:0 "M-N 1891/30"
@@ -1474,7 +1474,7 @@
  LAT_infantry_equipment_x_short:0 "Handfeuerwaffen M45"
  LAT_infantry_equipment_x_2:0 "Handfeuerwaffen M48"
  LAT_infantry_equipment_x_2_short:0 "Handfeuerwaffe M48"
-  ""
+
  LAT_infantry_at:0 "Panzerabwehrgewehr"
  LAT_infantry_at_short:0 "ATR"
  LAT_infantry_at2:0 "Panzerabwehrrakete"
@@ -1485,7 +1485,7 @@
  LAT_infantry_at_b_short:0 "AT-Rakete"
  LAT_infantry_at_c:0 "Panzerabwehrrakete '53"
  LAT_infantry_at_c_short:0 "AT-Rakete"
-  ""
+
  LAT_support_weapons:0 "Unterstützung '30"
  LAT_support_weapons_short:0 "Unterstützung '30"
  LAT_support_weapons2:0 "Unterstützung '38"
@@ -1500,7 +1500,7 @@
  LAT_support_weapons_b_short:0 "Unterstützung '50"
  LAT_support_weapons_c:0 "Stütze '54"
  LAT_support_weapons_c_short:0 "Unterstützung '54"
-  ""
+
  ###---> LIT <><> <><> <><> ""
  LIT_infantry_equipment_0:0 "Handfeuerwaffen 30m"
  LIT_infantry_equipment_0_short:0 "Handfeuerwaffen 30m"
@@ -1514,7 +1514,7 @@
  LIT_infantry_equipment_x_short:0 "Handfeuerwaffen 45m"
  LIT_infantry_equipment_x_2:0 "Handfeuerwaffen 48m"
  LIT_infantry_equipment_x_2_short:0 "Handfeuerwaffen 48m"
-  ""
+
  LIT_infantry_at:0 "Panzerabwehrgewehr"
  LIT_infantry_at_short:0 "ATR"
  LIT_infantry_at2:0 "Panzerabwehrrakete"
@@ -1525,7 +1525,7 @@
  LIT_infantry_at_b_short:0 "AT-Rakete"
  LIT_infantry_at_c:0 "Panzerabwehrrakete '53"
  LIT_infantry_at_c_short:0 "AT-Rakete"
-  ""
+
  LIT_support_weapons:0 "Unterstützung '30"
  LIT_support_weapons_short:0 "Unterstützung '30"
  LIT_support_weapons2:0 "Unterstützung '38"
@@ -1555,7 +1555,7 @@
  MEX_infantry_equipment_x_short:0 "Handfeuerwaffe M1945"
  MEX_infantry_equipment_x_2:0 "Handfeuerwaffe M1948"
  MEX_infantry_equipment_x_2_short:0 "Handfeuerwaffe M1948"
-  ""
+
  MEX_infantry_at:0 "Panzerabwehrgewehr"
  MEX_infantry_at_short:0 "ATR"
  MEX_infantry_at2:0 "Panzerabwehrrakete"
@@ -1566,7 +1566,7 @@
  MEX_infantry_at_b_short:0 "AT-Rakete"
  MEX_infantry_at_c:0 "Panzerabwehrrakete '53"
  MEX_infantry_at_c_short:0 "AT-Rakete"
-  ""
+
  MEX_support_weapons:0 "Unterstützung '30"
  MEX_support_weapons_short:0 "Unterstützung '30"
  MEX_support_weapons2:0 "Unterstützung '38"
@@ -1595,7 +1595,7 @@
  NOR_infantry_equipment_x_short:0 "Handfeuerwaffe m/45"
  NOR_infantry_equipment_x_2:0 "Handfeuerwaffe m/48"
  NOR_infantry_equipment_x_2_short:0 "Handfeuerwaffe m/48"
-  ""
+
  NOR_infantry_at:0 "Panzerabwehrgewehr"
  NOR_infantry_at_short:0 "ATR"
  NOR_infantry_at2:0 "Panzerabwehrrakete"
@@ -1606,7 +1606,7 @@
  NOR_infantry_at_b_short:0 "AT-Rakete"
  NOR_infantry_at_c:0 "Panzerabwehrrakete '53"
  NOR_infantry_at_c_short:0 "AT-Rakete"
-  ""
+
  NOR_support_weapons:0 "Unterstützung '30"
  NOR_support_weapons_short:0 "Unterstützung '30"
  NOR_support_weapons2:0 "Unterstützung '38"
@@ -1621,7 +1621,7 @@
  NOR_support_weapons_b_short:0 "Unterstützung '50"
  NOR_support_weapons_c:0 "Stütze '54"
  NOR_support_weapons_c_short:0 "Unterstützung '54"
-  ""
+
 ###---> PER <><> <><> <><> ""
  PER_infantry_equipment_0:0 "Handfeuerwaffen M30"
  PER_infantry_equipment_0_short:0 "Handfeuerwaffen M30"
@@ -1635,7 +1635,7 @@
  PER_infantry_equipment_x_short:0 "Handfeuerwaffen M45"
  PER_infantry_equipment_x_2:0 "Handfeuerwaffen M48"
  PER_infantry_equipment_x_2_short:0 "Handfeuerwaffe M48"
-  ""
+
  PER_infantry_at:0 "Panzerabwehrgewehr"
  PER_infantry_at_short:0 "ATR"
  PER_infantry_at2:0 "Panzerabwehrrakete"
@@ -1646,7 +1646,7 @@
  PER_infantry_at_b_short:0 "AT-Rakete"
  PER_infantry_at_c:0 "Panzerabwehrrakete '53"
  PER_infantry_at_c_short:0 "AT-Rakete"
-  ""
+
  PER_support_weapons:0 "Unterstützung '30"
  PER_support_weapons_short:0 "Unterstützung '30"
  PER_support_weapons2:0 "Unterstützung '38"
@@ -1675,7 +1675,7 @@
  POL_infantry_equipment_x_short:0 "Handfeuerwaffen wz.45"
  POL_infantry_equipment_x_2:0 "Handfeuerwaffen wz.48"
  POL_infantry_equipment_x_2_short:0 "Handfeuerwaffe wz.48"
-  ""
+
  POL_infantry_at:0 "Panzerabwehrgewehr"
  POL_infantry_at_short:0 "ATR"
  POL_infantry_at2:0 "Panzerabwehrrakete"
@@ -1686,7 +1686,7 @@
  POL_infantry_at_b_short:0 "AT-Rakete"
  POL_infantry_at_c:0 "Panzerabwehrrakete '53"
  POL_infantry_at_c_short:0 "AT-Rakete"
-  ""
+
  POL_support_weapons:0 "Unterstützung '30"
  POL_support_weapons_short:0 "Unterstützung '30"
  POL_support_weapons2:0 "Unterstützung '38"
@@ -1716,7 +1716,7 @@
  POR_infantry_equipment_x_short:0 "Handfeuerwaffe m/945"
  POR_infantry_equipment_x_2:0 "Handfeuerwaffe m/948"
  POR_infantry_equipment_x_2_short:0 "Handfeuerwaffe m/948"
-  ""
+
  POR_infantry_at:0 "Panzerabwehrgewehr"
  POR_infantry_at_short:0 "ATR"
  POR_infantry_at2:0 "Panzerabwehrrakete"
@@ -1727,7 +1727,7 @@
  POR_infantry_at_b_short:0 "AT-Rakete"
  POR_infantry_at_c:0 "Panzerabwehrrakete '53"
  POR_infantry_at_c_short:0 "AT-Rakete"
-  ""
+
  POR_support_weapons:0 "Unterstützung '30"
  POR_support_weapons_short:0 "Unterstützung '30"
  POR_support_weapons2:0 "Unterstützung '38"
@@ -1757,7 +1757,7 @@
  ROM_infantry_equipment_x_short:0 "Handfeuerwaffen Md.45"
  ROM_infantry_equipment_x_2:0 "Handfeuerwaffen Md.48"
  ROM_infantry_equipment_x_2_short:0 "Handfeuerwaffe Md.48"
-  ""
+
  ROM_infantry_at:0 "Panzerabwehrgewehr"
  ROM_infantry_at_short:0 "ATR"
  ROM_infantry_at2:0 "Panzerabwehrrakete"
@@ -1768,7 +1768,7 @@
  ROM_infantry_at_b_short:0 "AT-Rakete"
  ROM_infantry_at_c:0 "Panzerabwehrrakete '53"
  ROM_infantry_at_c_short:0 "AT-Rakete"
-  ""
+
  ROM_support_weapons:0 "Unterstützung '30"
  ROM_support_weapons_short:0 "Unterstützung '30"
  ROM_support_weapons2:0 "Unterstützung '38"
@@ -1798,7 +1798,7 @@
  SOV_infantry_equipment_x_short:0 "Handfeuerwaffen M45"
  SOV_infantry_equipment_x_2:0 "Handfeuerwaffen M48"
  SOV_infantry_equipment_x_2_short:0 "Handfeuerwaffe M48"
-  ""
+
  SOV_infantry_at:0 "Panzerabwehrgewehr"
  SOV_infantry_at_short:0 "ATR"
  SOV_infantry_at2:0 "Panzerabwehrrakete"
@@ -1809,7 +1809,7 @@
  SOV_infantry_at_b_short:0 "AT-Rakete"
  SOV_infantry_at_c:0 "Panzerabwehrrakete '53"
  SOV_infantry_at_c_short:0 "AT-Rakete"
-  ""
+
  SOV_support_weapons:0 "Unterstützung '30"
  SOV_support_weapons_short:0 "Unterstützung '30"
  SOV_support_weapons2:0 "Unterstützung '38"
@@ -1838,7 +1838,7 @@
  MON_infantry_equipment_x_short:0 "Handfeuerwaffen M45"
  MON_infantry_equipment_x_2:0 "Handfeuerwaffen M48"
  MON_infantry_equipment_x_2_short:0 "Handfeuerwaffe M48"
-  ""
+
  MON_infantry_at:0 "Panzerabwehrgewehr"
  MON_infantry_at_short:0 "ATR"
  MON_infantry_at2:0 "Panzerabwehrrakete"
@@ -1849,7 +1849,7 @@
  MON_infantry_at_b_short:0 "AT-Rakete"
  MON_infantry_at_c:0 "Panzerabwehrrakete '53"
  MON_infantry_at_c_short:0 "AT-Rakete"
-  ""
+
  MON_support_weapons:0 "Unterstützung '30"
  MON_support_weapons_short:0 "Unterstützung '30"
  MON_support_weapons2:0 "Unterstützung '38"
@@ -1878,7 +1878,7 @@
  TAN_infantry_equipment_x_short:0 "Handfeuerwaffen M45"
  TAN_infantry_equipment_x_2:0 "Handfeuerwaffen M48"
  TAN_infantry_equipment_x_2_short:0 "Handfeuerwaffe M48"
-  ""
+
  TAN_infantry_at:0 "Panzerabwehrgewehr"
  TAN_infantry_at_short:0 "ATR"
  TAN_infantry_at2:0 "Panzerabwehrrakete"
@@ -1889,7 +1889,7 @@
  TAN_infantry_at_b_short:0 "AT-Rakete"
  TAN_infantry_at_c:0 "Panzerabwehrrakete '53"
  TAN_infantry_at_c_short:0 "AT-Rakete"
-  ""
+
  TAN_support_weapons:0 "Unterstützung '30"
  TAN_support_weapons_short:0 "Unterstützung '30"
  TAN_support_weapons2:0 "Unterstützung '38"
@@ -1918,7 +1918,7 @@
  PRC_infantry_equipment_x_short:0 "Handfeuerwaffen M45"
  PRC_infantry_equipment_x_2:0 "Handfeuerwaffen M48"
  PRC_infantry_equipment_x_2_short:0 "Handfeuerwaffe M48"
-  ""
+
  PRC_infantry_at:0 "Panzerabwehrgewehr"
  PRC_infantry_at_short:0 "ATR"
  PRC_infantry_at2:0 "Panzerabwehrrakete"
@@ -1929,7 +1929,7 @@
  PRC_infantry_at_b_short:0 "AT-Rakete"
  PRC_infantry_at_c:0 "Panzerabwehrrakete '53"
  PRC_infantry_at_c_short:0 "AT-Rakete"
-  ""
+
  PRC_support_weapons:0 "Unterstützung '30"
  PRC_support_weapons_short:0 "Unterstützung '30"
  PRC_support_weapons2:0 "Unterstützung '38"
@@ -1944,8 +1944,8 @@
  PRC_support_weapons_b_short:0 "Unterstützung '50"
  PRC_support_weapons_c:0 "Stütze '54"
  PRC_support_weapons_c_short:0 "Unterstützung '54"
-  ""
-  ""
+
+
 
 ###---> SPR <><> <><> <><> ""
  SPR_infantry_equipment_0:0 "Handfeuerwaffen M30"
@@ -1960,7 +1960,7 @@
  SPR_infantry_equipment_x_short:0 "Handfeuerwaffen M45"
  SPR_infantry_equipment_x_2:0 "Handfeuerwaffen M48"
  SPR_infantry_equipment_x_2_short:0 "Handfeuerwaffe M48"
-  ""
+
  SPR_infantry_at:0 "Panzerabwehrgewehr"
  SPR_infantry_at_short:0 "ATR"
  SPR_infantry_at2:0 "Panzerabwehrrakete"
@@ -1971,7 +1971,7 @@
  SPR_infantry_at_b_short:0 "AT-Rakete"
  SPR_infantry_at_c:0 "Panzerabwehrrakete '53"
  SPR_infantry_at_c_short:0 "AT-Rakete"
-  ""
+
  SPR_support_weapons:0 "Unterstützung '30"
  SPR_support_weapons_short:0 "Unterstützung '30"
  SPR_support_weapons2:0 "Unterstützung '38"
@@ -2001,7 +2001,7 @@
  SWE_infantry_equipment_x_short:0 "Handfeuerwaffe m/45"
  SWE_infantry_equipment_x_2:0 "Handfeuerwaffe m/48"
  SWE_infantry_equipment_x_2_short:0 "Handfeuerwaffe m/48"
-  ""
+
  SWE_infantry_at:0 "Panzerabwehrgewehr"
  SWE_infantry_at_short:0 "ATR"
  SWE_infantry_at2:0 "Panzerabwehrrakete"
@@ -2012,7 +2012,7 @@
  SWE_infantry_at_b_short:0 "AT-Rakete"
  SWE_infantry_at_c:0 "Panzerabwehrrakete '53"
  SWE_infantry_at_c_short:0 "AT-Rakete"
-  ""
+
  SWE_support_weapons:0 "Unterstützung '30"
  SWE_support_weapons_short:0 "Unterstützung '30"
  SWE_support_weapons2:0 "Unterstützung '38"
@@ -2042,7 +2042,7 @@
  SWI_infantry_equipment_x_short:0 "Handfeuerwaffen '45"
  SWI_infantry_equipment_x_2:0 "Handfeuerwaffen '48"
  SWI_infantry_equipment_x_2_short:0 "Handfeuerwaffen '48"
-  ""
+
  SWI_infantry_at:0 "Panzerabwehrgewehr"
  SWI_infantry_at_short:0 "ATR"
  SWI_infantry_at2:0 "Panzerabwehrrakete"
@@ -2053,7 +2053,7 @@
  SWI_infantry_at_b_short:0 "AT-Rakete"
  SWI_infantry_at_c:0 "Panzerabwehrrakete '53"
  SWI_infantry_at_c_short:0 "AT-Rakete"
-  ""
+
  SWI_support_weapons:0 "Unterstützung '30"
  SWI_support_weapons_short:0 "Unterstützung '30"
  SWI_support_weapons2:0 "Unterstützung '38"
@@ -2083,7 +2083,7 @@
  TUR_infantry_equipment_x_short:0 "Handfeuerwaffen M45"
  TUR_infantry_equipment_x_2:0 "Handfeuerwaffen M48"
  TUR_infantry_equipment_x_2_short:0 "Handfeuerwaffe M48"
-  ""
+
  TUR_infantry_at:0 "Panzerabwehrgewehr"
  TUR_infantry_at_short:0 "ATR"
  TUR_infantry_at2:0 "Panzerabwehrrakete"
@@ -2094,7 +2094,7 @@
  TUR_infantry_at_b_short:0 "AT-Rakete"
  TUR_infantry_at_c:0 "Panzerabwehrrakete '53"
  TUR_infantry_at_c_short:0 "AT-Rakete"
-  ""
+
  TUR_support_weapons:0 "Unterstützung '30"
  TUR_support_weapons_short:0 "Unterstützung '30"
  TUR_support_weapons2:0 "Unterstützung '38"
@@ -2124,7 +2124,7 @@
  USA_infantry_equipment_x_short:0 "Handfeuerwaffe M45"
  USA_infantry_equipment_x_2:0 "Handfeuerwaffen '48"
  USA_infantry_equipment_x_2_short:0 "Handfeuerwaffe M48"
-  ""
+
  USA_infantry_at:0 "Panzerabwehrgewehr"
  USA_infantry_at_short:0 "ATR"
  USA_infantry_at2:0 "Panzerabwehrrakete"
@@ -2135,7 +2135,7 @@
  USA_infantry_at_b_short:0 "AT-Rakete"
  USA_infantry_at_c:0 "Panzerabwehrrakete '53"
  USA_infantry_at_c_short:0 "AT-Rakete"
-  ""
+
  USA_support_weapons:0 "Unterstützung '30"
  USA_support_weapons_short:0 "Unterstützung '30"
  USA_support_weapons2:0 "Unterstützung '38"
@@ -2165,7 +2165,7 @@
  PHL_infantry_equipment_x_short:0 "Handfeuerwaffe M45"
  PHL_infantry_equipment_x_2:0 "Handfeuerwaffen '48"
  PHL_infantry_equipment_x_2_short:0 "Handfeuerwaffe M48"
-  ""
+
  PHL_infantry_at:0 "Panzerabwehrgewehr"
  PHL_infantry_at_short:0 "ATR"
  PHL_infantry_at2:0 "Panzerabwehrrakete"
@@ -2176,7 +2176,7 @@
  PHL_infantry_at_b_short:0 "AT-Rakete"
  PHL_infantry_at_c:0 "Panzerabwehrrakete '53"
  PHL_infantry_at_c_short:0 "AT-Rakete"
-  ""
+
  PHL_support_weapons:0 "Unterstützung '30"
  PHL_support_weapons_short:0 "Unterstützung '30"
  PHL_support_weapons2:0 "Unterstützung '38"
@@ -2205,7 +2205,7 @@
  YUG_infantry_equipment_x_short:0 "Handfeuerwaffen M.45"
  YUG_infantry_equipment_x_2:0 "Handfeuerwaffen M.48"
  YUG_infantry_equipment_x_2_short:0 "Handfeuerwaffe M.48"
-  ""
+
  YUG_infantry_at:0 "Panzerabwehrgewehr"
  YUG_infantry_at_short:0 "ATR"
  YUG_infantry_at2:0 "Panzerabwehrrakete"
@@ -2216,7 +2216,7 @@
  YUG_infantry_at_b_short:0 "AT-Rakete"
  YUG_infantry_at_c:0 "Panzerabwehrrakete '53"
  YUG_infantry_at_c_short:0 "AT-Rakete"
-  ""
+
  YUG_support_weapons:0 "Unterstützung '30"
  YUG_support_weapons_short:0 "Unterstützung '30"
  YUG_support_weapons2:0 "Unterstützung '38"
@@ -2231,7 +2231,7 @@
  YUG_support_weapons_b_short:0 "Unterstützung '50"
  YUG_support_weapons_c:0 "Stütze '54"
  YUG_support_weapons_c_short:0 "Unterstützung '54"
-  ""
+
 ###---> CRO <><> <><> <><> ""
  CRO_infantry_equipment_0:0 "Handfeuerwaffen M.30"
  CRO_infantry_equipment_0_short:0 "Handfeuerwaffen M.30"
@@ -2245,7 +2245,7 @@
  CRO_infantry_equipment_x_short:0 "Handfeuerwaffen M.45"
  CRO_infantry_equipment_x_2:0 "Handfeuerwaffen M.48"
  CRO_infantry_equipment_x_2_short:0 "Handfeuerwaffe M.48"
-  ""
+
  CRO_infantry_at:0 "Panzerabwehrgewehr"
  CRO_infantry_at_short:0 "ATR"
  CRO_infantry_at2:0 "Panzerabwehrrakete"
@@ -2256,7 +2256,7 @@
  CRO_infantry_at_b_short:0 "AT-Rakete"
  CRO_infantry_at_c:0 "Panzerabwehrrakete '53"
  CRO_infantry_at_c_short:0 "AT-Rakete"
-  ""
+
  CRO_support_weapons:0 "Unterstützung '30"
  CRO_support_weapons_short:0 "Unterstützung '30"
  CRO_support_weapons2:0 "Unterstützung '38"
@@ -2285,7 +2285,7 @@
  SER_infantry_equipment_x_short:0 "Handfeuerwaffen M.45"
  SER_infantry_equipment_x_2:0 "Handfeuerwaffen M.48"
  SER_infantry_equipment_x_2_short:0 "Handfeuerwaffe M.48"
-  ""
+
  SER_infantry_at:0 "Panzerabwehrgewehr"
  SER_infantry_at_short:0 "ATR"
  SER_infantry_at2:0 "Panzerabwehrrakete"
@@ -2296,7 +2296,7 @@
  SER_infantry_at_b_short:0 "AT-Rakete"
  SER_infantry_at_c:0 "Panzerabwehrrakete '53"
  SER_infantry_at_c_short:0 "AT-Rakete"
-  ""
+
  SER_support_weapons:0 "Unterstützung '30"
  SER_support_weapons_short:0 "Unterstützung '30"
  SER_support_weapons2:0 "Unterstützung '38"

@@ -389,7 +389,7 @@
  ENG_for_the_good_of_the_revolution_idea:1 "Für das Wohl der Revolution"
  ENG_for_the_good_of_the_revolution_idea_desc:1 "Alle müssen bereit sein, für das Wohl des Staates Opfer in Sachen Komfort zu bringen. Das [ROOT.getAdjective]-Volk wird angesichts der Rationierung den Kopf hochhalten, denn es ist zuversichtlich, dass dies unseren letztendlichen Sieg sichern wird."
 
-  ""
+
  newsmod.3.t:0 "Deutschland nimmt das Britische Empire in die Achse auf"
  newsmod.3.d:0 "Im vergangenen Jahr explodierten in Großbritannien ultranationalistische faschistische Bewegungen. Die demokratische Lebensweise ist zu einer Minderheit geworden, während sich die Nation den Faschismus zu eigen macht. Mehr noch - die Briten haben beschlossen, sich einem Bündnis mit Hitler und dem Deutschen Reich anzuschließen, was die Stabilität Europas bedroht. Die Dominions wurden ebenfalls gezwungen, sich der Achse anzuschließen, aber sie zögern und halten die Zeit für gekommen, sich von Großbritannien zu distanzieren...."
  newsmod.3.a:0 "Ein echter Wendepunkt in unserer Geschichte!"
@@ -464,7 +464,7 @@
  englandmod.23.a:0 "Ja, es ist an der Zeit, diese dumme Ideologie loszuwerden."
  englandmod.23.b:0 "Nein danke, ich mag den Faschismus lieber."
 
-  ""
+
  threat_to_med:0 "Mittelmeer-Ambitionen"
  ENG_state_visit:0 "Staatsbesuch"
  ENG_trade_democracy:0 "Handelsvereinbarungen"

@@ -909,7 +909,7 @@
  r56.news_event.1002.t:0 "If-Tag"
  r56.news_event.1002.d:0 "Organisiert von der Greater Winnipeg Victory Loan Organisation, wurde heute eine simulierte Invasion von [CAN.GetNameDef] durch [GER.GetAdjective]-Kräfte durchgeführt. Als wichtigste militärische Übung in Winnipeg gelang es ihnen, an einem Tag 3 Millionen Dollar für die Kriegsanstrengungen zu sammeln. Die Veranstaltung umfasste mehrere Scheinbombardierungen, Feuergefechte, Verhaftungen von Personen, die sich widersetzten, [GER.GetAdjective]-Paraden und viele andere Dinge. Der Tag endete mit der Freilassung der "Gefangenen", Paraden und Reden. Botschafter de Morgenstierne sprach über seine Erfahrungen mit der [GER.GetAdjective]-Besetzung und sagte, die Simulation der Invasion und der Besetzung sei ein authentischer Einblick in die [GER.GetAdjective]-Besetzung."
  r56.news_event.1002.a:0 "Der Tag war ein Erfolg."
-  ""
+
  #Tooltips ""
  r56_CAN_depression_tt:0 "Verringert die Auswirkungen der §YGroßen Depression§!\n\n"
  r56_CAN_volunteers_tt:0 "Ändert unsere effektive Mannstärke\n\n"

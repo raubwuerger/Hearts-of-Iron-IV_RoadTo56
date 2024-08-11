@@ -1783,7 +1783,7 @@
  mot_rockets:0 "Motorisierte Raketenartillerie"
  signal_company_tech:0 "Technologien der Signalkompanie"
  military_police_tech:0 "Militärpolizei-Technologien"
-  ""
+
  congolese_self_reliance:0 "Kongolesische Eigenständigkeit"
  belgian_investments:0 "[BEL.GetAdjective] Investitionen"
  benelux_trade_deal:0 "Benelux-Zollunion"

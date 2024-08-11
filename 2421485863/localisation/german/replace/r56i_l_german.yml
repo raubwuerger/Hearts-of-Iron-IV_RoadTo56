@@ -5,37 +5,37 @@
 
 #Ideas ""
  etgi_ideas:0 "Nationaler Charakter"
-  ""
+
  r56i_laws_category_gender:0 "Rechtliche Stellung der Frau"
  r56i_laws_gender_traditional:0 "Traditionelle Rollen"
  r56i_laws_gender_patriarchy:0 "Erzwungenes Patriarchat"
  r56i_laws_gender_limited:0 "Eingeschränkte Rechte"
  r56i_laws_gender_equality:0 "Totale Gleichberechtigung"
-  ""
+
  r56i_laws_social:0 "Soziale Ordnung"
  r56i_laws_social_normal:0 "Kulturelle Normen"
  r56i_laws_social_hierarchy:0 "Hierarchie"
  r56i_laws_social_revolutionary:0 "Revolutionäre Köpfe"
  r56i_laws_social_diversity:0 "Schmelztiegel"
  r56i_laws_social_unity:0 "Das höhere Gut"
-  ""
+
  r56i_laws_war:0 "Rechtfertigung für den Krieg"
  r56i_laws_war_historical:0 "Lehren aus der Geschichte"
  r56i_laws_war_ideological:0 "Ideologischer Kampf"
  r56i_laws_war_brinkmanship:0 "Brinkmanship"
  r56i_laws_war_diplomacy:0 "Globale Ordnung"
-  ""
+
  etgi_laws_foreign_relations:0 "Ausländische Beziehungen"
  etgi_laws_foreign_relations_d:0 "Einflusssphäre"
  etgi_laws_foreign_relations_1:0 "Austausch von Ideen"
  etgi_laws_foreign_relations_2:0 "Internationaler Handel"
  etgi_laws_foreign_relations_3:0 "Geschlossene Türen"
-  ""
+
  r56i_laws_category_security:0 "Rechtsdurchsetzung"
  r56i_laws_security_balanced:0 "Ausgewogener Ansatz"
  r56i_laws_security_order:0 "Ordnung über alles"
  r56i_laws_security_rights:0 "Individuelle Rechte"
-  ""
+
  r56i_laws_leadership:0 "Das Mandat des Staates"
  r56i_laws_leadership_politics:0 "Macht und Politik"
  r56i_laws_leadership_cult:0 "Personenkult"
@@ -43,7 +43,7 @@
  r56i_laws_leadership_divine:0 "Göttliche Inspiration"
  r56i_laws_leadership_people:0 "Der Wille des Volkes"
  r56i_laws_leadership_communal_decision_making:0 "Kommunale Entscheidungsfindung"
-  ""
+
  r56i_idea_riots:0 "Zivile Unruhen"
  r56i_idea_riots_desc:0 "Die Menschen sind unzufrieden und protestieren öffentlich, manchmal gewaltsam."
  r56i_idea_riots_escalate:0 "Schwere Unruhen"
@@ -88,7 +88,7 @@
  individual_rights_trigger_tt:0 "Gegenwärtiges Staatsoberhaupt hat die Ideologie §HDemokratischer Sozialismus§!, §HAnarchismus§! oder §HAnarchistischer Kommunismus§!"
 
 #Events ""
-  ""
+
  #People are unhappy ""
  r56i.event.01.title:0 "Unruhen auf den Straßen"
  r56i.event.01.description:0 "Es scheint, dass die Öffentlichkeit ein bisschen zu lange ignoriert wurde. Verärgert über die derzeitige Situation und unfähig, mehr zu ertragen, ist die Gewalt ausgebrochen. Ihre Forderungen sind zwar einigermaßen moderat, aber zweifellos kostspielig."
@@ -96,7 +96,7 @@
  r56i.event.01.democratic:0 "Unsere Bürger leiden."
  r56i.event.01.communism:0 "Unsere Brüder werden manipuliert."
  r56i.event.01.fascism:0 "Das Volk muss eine starke Hand bekommen."
-  ""
+
  #People are unhappy again ""
  r56i.event.02.title:0 "Die Unruhen kehren zurück"
  r56i.event.02.description:0 "Die Unruhen dauern an und haben sich weiter zugespitzt. Immer mehr Intellektuelle aus unserer Gesellschaft unterstützen sie, und Forderungen, die ursprünglich als extrem galten, werden immer häufiger gestellt."
@@ -104,7 +104,7 @@
  r56i.event.02.democratic:0 "Es muss doch eine Lösung geben?"
  r56i.event.02.communism:0 "Das sind doch keine echten Kommunisten!"
  r56i.event.02.fascism:0 "Vielleicht sind extreme Maßnahmen erforderlich."
-  ""
+
  #Violent suppression is a success ""
  r56i.event.04.title:0 "Die Razzia ist ein Erfolg"
  r56i.event.04.description:0 "Die Unzufriedenen mögen zwar noch an ihren Überzeugungen festhalten, aber sie haben auf die harte Tour gelernt, ihre Ideen für sich zu behalten. Obwohl die Unruhe in der Luft liegt, haben die Bereitschafts- und Militärpolizei die Proteste aufgelöst, und die Menschen sind zu ihrem Alltag zurückgekehrt."
@@ -112,7 +112,7 @@
  r56i.event.04.democratic:0 "Und denken Sie daran - wählen Sie uns!"
  r56i.event.04.communism:0 "Der Preis der Revolution ist hoch."
  r56i.event.04.fascism:0 "Lasst die Schwächlinge zittern."
-  ""
+
  #Violent suppression is a failure ""
  r56i.event.05.title:0 "Niederschlagung ist gescheitert"
  r56i.event.05.description:0 "Obwohl die Militärpolizei, die wir zu den Unruhen geschickt haben, theoretisch die Ordnung wiederherstellen könnte, schlossen sich mehrere unserer Männer, die zur Bewältigung der Situation entsandt worden waren, den Unruhen an. Die wenigen, die uns treu geblieben sind, haben den Rest der Bevölkerung offenbar nur verärgert. Es scheint, dass wir nur noch mehr Öl ins Feuer gegossen haben."
@@ -120,7 +120,7 @@
  r56i.event.05.democratic:0 "Wir haben unsere Werte umsonst verraten."
  r56i.event.05.communism:0 "Sie müssen Hilfe von außen bekommen."
  r56i.event.05.fascism:0 "Das nächste Mal sollten wir das ECHTE Militär schicken."
-  ""
+
  #Talk suppression is a success ""
  r56i.event.06.title:0 "Erfolgreiche Gespräche"
  r56i.event.06.description:0 "Wie jeder andere Mensch ist auch ein Protestorganisator fehlbar. Vage, leere Versprechungen reichten aus, um einige Führer zu beschwichtigen, während andere mit Spenden für Friedensbemühungen aus der Staatskasse bezahlt werden mussten. Wie auch immer, die Proteste scheinen sich selbst ausgebrannt zu haben, da sie nicht mehr organisiert wurden."
@@ -128,7 +128,7 @@
  r56i.event.06.democratic:0 "Die Demokratie setzt sich wieder durch."
  r56i.event.06.communism:0 "Die Dialektik leistet uns gute Dienste."
  r56i.event.06.fascism:0 "Die Massen sind leicht zu besänftigen."
-  ""
+
  #Talk suppresion is a failure ""
  r56i.event.07.title:0 "Gespräche scheitern"
  r56i.event.07.description:0 "Es stellt sich heraus, dass es viel einfacher ist, eine einzelne Person umzustimmen als eine Gruppe - eine Lektion, die unser Innenminister gelernt hat, nachdem er versucht hat, alle wichtigen Protestführer davon zu überzeugen, sich aufzulösen. Da einige unseren Versprechungen nicht glauben und andere von unseren Bestechungsversuchen angewidert sind, scheinen wir nur Einigkeit und Zusammenhalt zwischen den Anführern der Unruhen gesät zu haben."
@@ -136,7 +136,7 @@
  r56i.event.07.democratic:0 "Das ist eine Beleidigung für unsere Demokratie."
  r56i.event.07.communism:0 "Aber unser Staat kann für alles sorgen!"
  r56i.event.07.fascism:0 "Nun, wir haben versucht, nett zu sein."
-  ""
+
  #Spend suppression is a success ""
  r56i.event.08.title:0 "Randalierer besänftigt"
  r56i.event.08.description:0 "Obwohl die Kosten hoch waren, sind die Menschen jetzt, da die Schlaglöcher in unseren Straßen gefüllt sind und die Sozialprogramme verbessert wurden, zufrieden genug, um die organisierten Aufstände zu beenden. Einige beschweren sich noch, aber die meisten sind zufrieden."
@@ -144,7 +144,7 @@
  r56i.event.08.democratic:0 "Geld hält die Welt am Laufen."
  r56i.event.08.communism:0 "Das Kapital hat immer noch einen Nutzen."
  r56i.event.08.fascism:0 "Die Schafe waren nie eine Bedrohung."
-  ""
+
  #Spend suppression is a failure ""
  r56i.event.09.title:0 "Randalierer fordern mehr"
  r56i.event.09.description:0 "Obwohl die ursprünglichen Forderungen der Protestführer erfüllt wurden, haben extremistische Figuren die Macht übernommen. Sie haben begonnen, noch mehr von unserem Staat zu fordern, und die Menschen, die durch den vermeintlichen Sieg ermutigt wurden, sind nun eher bereit, ihnen aufs Wort zu folgen."

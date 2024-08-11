@@ -1277,7 +1277,7 @@
  HAI:0 "Haiti"
  HAI_DEF:0 "Haiti"
  HAI_ADJ:0 "Haitianisch"
-  ""
+
  #OMA ""
  OMA_fascism:0 "Zweites Omanisches Reich"
  OMA_fascism_DEF:0 "das Zweite Omanische Reich"
@@ -4468,7 +4468,7 @@
  JAN: "Jan Mayen"
  JAN_DEF: "die Insel Jan Mayen"
  JAN_ADJ: "Polar"
-  ""
+
  RAP: "Rapa Nui"
  RAP_DEF: "Rapa Nui"
  RAP_ADJ: "Rapa Nui"

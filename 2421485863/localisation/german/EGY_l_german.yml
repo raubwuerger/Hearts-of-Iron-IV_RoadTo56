@@ -875,7 +875,7 @@
  egypt.30.t:0 "[ALB.GetNameDefCap] erklärt sich mit einer Personalunion einverstanden"
  egypt.30.d:0 "Die Regierung von [ALB.GetNameDef] hat unseren Vorschlag für eine Personalunion zwischen unseren beiden Nationen angenommen. Wir freuen uns, ankündigen zu können, dass [ROOT.GetNonIdeologyName] und [ALB.GetNonIdeologyName] nun unter einem einzigen Herrscher vereint sein werden, was beiden Ländern mehr Stabilität und Wohlstand bringen wird. Dies ist ein weiterer Schritt hin zur vollständigen und rechtmäßigen Vereinigung unserer beiden Nationen."
  egypt.30.a:0 "Eine gute Wahl."
-  ""
+
  egypt.31.t:0 "Die [ALB.GetName] lehnt unseren Vorschlag ab"
  egypt.31.d:0 "Die Regierung von [ALB.GetNameDef] hat unseren Vorschlag für eine Personalunion zwischen unseren beiden Nationen abgelehnt. Es ist klar, dass die [ALB.GetAdjective] sich weiterhin selbst täuschen und das offensichtliche Schicksal zwischen unseren beiden Nationen nicht realisieren wird."
  egypt.31.a:0 "Wenn das der Fall ist, dann müssen wir uns zurückziehen."
@@ -1088,7 +1088,7 @@
  EGY_britain_owns_darfur_resources:0 "Britain Controls [549.GetName] Ressourcen"
  EGY_green_shirts_tt:0 "Gewinnen Sie §Y3 Grünes Hemd§! Divisionen bei Beginn der Bürgerkriege."
  EGY_GER_sent_advisors:0 "[GER.GetNameDefCap] schickt Berater"
-  ""
+
  EGY_BRITISH_PUPPET_fascism:0 "Protektorat von Anglo-Ägypten-Sudan"
  EGY_BRITISH_PUPPET_fascism_DEF:0 "das Protektorat Anglo-Ägypten-Sudan"
  EGY_BRITISH_PUPPET_neutrality:0 "Protektorat Anglo-Ägypten-Sudan"

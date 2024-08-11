@@ -328,7 +328,7 @@
  #JUNO_naval_academy_cost_reduction_tt: "$navy_spirit_category_type_cost_factor$ §G-10%§!"
 
  #### Chile ##### ""
-  ""
+
  CHL_expand_mining_prospection_tt: "Erhöht die Produktion von §Y4£Ressourcen_streifen|5 §Y$Staatsressource_Stahl$§!, £Ressourcen_streifen|6 §Y$Staatsressource_Chrom$§!, £Ressourcen_streifen|4 §Y$Staatsressource_Wolfram$§! oder £resources_strip|2 §Y$state_resource_aluminium$§! §!in jedem Kernstaat, der bereits einen dieser Bodenschätze bereitstellt. \nAktuelle Auswirkungen:"
  CHL_skip_one_line_tt: "" \n"  #Es gibt eine R56-Version, aber behalte dies einfach für nicht importiertes Vanilla-Material"
  chilean_trade_deals_opinion_modifier: "Vorteilhafte Handelsgeschäfte"
@@ -929,7 +929,7 @@
  CHL_sell_arica_to_peru_civil_war_tt: "§RDie Vervollständigung dieses Fokus und entweder $CHL_outlaw_socialism$ oder $CHL_utilize_national_populism$ wird zu einem Bürgerkrieg führen.§!"
  CHL_sell_arica_to_peru_civil_war_tt_2: "§RDie Vervollständigung dieses Fokus und $CHL_sell_arica_to_peru$ werden zu einem Bürgerkrieg führen§!"
 
-  ""
+
  CHL_crown_antoine_as_sovereign_king: "Kröne Antoine zum souveränen König"
  CHL_crown_antoine_as_sovereign_king_desc: "Jacques Antoine Bernard ist aus Frankreich zurückgekehrt, um unserer Regierung in unserem Bürgerkrieg zu helfen. Der Preis dafür ist, dass wir ihm die Macht übertragen und ihm den Titel eines souveränen Königs von Araukanien und Patagonien verleihen müssen. Was kann da schon schiefgehen?"
 
@@ -2292,7 +2292,7 @@ URG_merge_falangist_movements_desc: "Mit Ausnahme des uruguayischen Revisionismu
  URG_colorado_victory_desc: "Es bestand nie ein Zweifel daran, dass die Colorados weiterhin [URG.GetName] regieren würden."
 
  URG_terra_election: "Die Wahl von 1938 hat stattgefunden"
-  ""
+
  URG_blanco_victory: "Blancos Wahlsieg"
  URG_blanco_victory_desc: "Ein Aufruhr, wahrscheinlich verursacht durch Gabriel Terras Diktatur, hat die Wählerschaft von den Colorados entfremdet und die Blanco's an die Macht gebracht"
 

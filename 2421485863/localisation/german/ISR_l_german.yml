@@ -429,7 +429,7 @@
  israel.74.d:0 "[ISR.GetLeader] ist heute mit dem Vorschlag an unsere Regierung herangetreten, Syrien zwischen unseren beiden Nationen aufzuteilen. Wir haben seit dem Fall des Osmanischen Reiches Anspruch auf das syrische Territorium erhoben, und vielleicht wäre dies ein guter Zeitpunkt, unser verlorenes Territorium zurückzufordern."
  israel.74.a:0 "Wir sind einverstanden."
  israel.74.b:0 "Wir haben andere Dinge, um die wir uns kümmern müssen."
-  ""
+
  israel.75.t:0 "[TUR.GetNameDefCap] Nimmt unser Angebot an"
  israel.75.d:0 "Die [TUR.GetAdjective]-Führung hat unseren Vorschlag, Syrien zu teilen, angenommen. Es ist Zeit zu handeln."
  israel.75.a:0 "Auf in den Krieg!"
@@ -1115,7 +1115,7 @@
  ISR_iranian_alliance_desc:0 "Unsere Beziehungen mit der kaiserlich-iranischen Regierung sind sehr wichtig. Wir sollten unser Bündnis mit ihnen ausbauen."
  ISR_partition_syria:0 "Syrien aufteilen"
  ISR_partition_syria_desc:0 "[TUR.GetNameDef] hat viele Ansprüche auf die syrischen Territorien. Vielleicht können wir es zwischen uns aufteilen."
-  ""
+
 
 
  ISR_judea_rise:0 "Mit Feuer und Blut wird sich Judäa erheben!"

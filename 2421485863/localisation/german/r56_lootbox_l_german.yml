@@ -7,7 +7,7 @@
  r56.startup.event.04.option.a_tt: "Alfie's Lootbox Emporium wird eröffnet und bietet Lootbox-Dienste mit verschiedenen Vorteilen an! Bitte beachten Sie, dass die KI dieses System nicht nutzen wird. \n\nIhr könnt das Emporium auch im Menü §YBenutzerdefinierte Spielregeln§! aktivieren! \n\n§RDas Road to 56 Team verherrlicht oder befürwortet weder das Glücksspiel noch das Ausgeben hoher Beträge für digitale Güter. Dieser Beitrag ist nur als Parodie gedacht.§!"
  r56.startup.event.04.option.b: "Das klingt ungeheuerlich! Nein!"
  r56.startup.event.04.option.b_tt: "Alfie's Lootbox Emporium bleibt geschlossen, und alles wird wie gewohnt weitergehen. [Du kannst das Emporium auch im Menü §YBenutzerdefinierte Spielregeln§! aktivieren!"
-  ""
+
  ###---> Decisions <><> <><> <><> ""
  r56_decision_category_lootbox: "Alfie's Lootbox Emporium"
  r56_decision_category_lootbox_desc: "Das Mega-Unternehmen Alfie's Lootbox Emporium steht zu Ihren Diensten! Verdiene Lootboxen, indem du sie mit politischer Macht kaufst. Lootboxen enthalten alles, was sich ein Staatsoberhaupt wie du wünschen kann! Wir sind nicht verantwortlich für Schäden an Ihrem persönlichen Political Power-Konto. [Sie haben [?Root.r56_lootbox_amount|0H] Lootbox(en)."
@@ -15,13 +15,13 @@
  r56_tooltip_lootbox_acquirebox: "Ein Flugzeug wird ankommen und eine Lootbox abwerfen, die du öffnen kannst. Fügt §Y1§! Lootbox zur Gesamtsumme hinzu.\n"
  r56_decision_lootbox_openbox: "Lootbox öffnen"
  r56_tooltip_lootbox_openbox: "Öffnet eine Lootbox! Was kann schlimmstenfalls passieren? Entfernt §Y1§! Lootbox von der Gesamtsumme.\n\n§YEnthält die folgenden Quoten:§! \n§GCOMMON§! 50%\n§BSelten§! 25%\n§0EPIC§! 15%\n§OLEGENDARY§! 8%\n§RMYTHICAL§! 2%"
-  ""
+
  ###---> Tooltips <><> <><> <><> ""
  r56_tooltip_mythical: "Glücklich sein: §G+100§!.\n"
  r56_tooltip_haunted_vase: "ES FLIEGT UND KOMMT DIREKT AUF MICH ZU!!! AHHHH!!! HEL- *BZZT*\n"
  r56_tooltip_lootbox_event4: "Fügt §Y2§! Lootboxen zu der Gesamtzahl hinzu."
  r56_tooltip_lootbox_event15: "§RDie Zentralmächte des anderen Universums werden den Großen Krieg mit größerer Wahrscheinlichkeit gewinnen.§!"
-  ""
+
  ###---> Trait <><> <><> <><> ""
  skeletons_blessing: "Segen von Alfie"
  skeletons_blessing_desc: "§LDie höchste Auszeichnung, die das Emporium einem Individuum verleihen kann!§!"
@@ -52,7 +52,7 @@
  r56.lootbox.event.6.description: "§GGEMEINSAM§! Kälte \n\nVielleicht solltest du zum Arzt gehen?"
  r56.lootbox.event.7.description: "§GGEMEINSAM§! Stau \n\nVielleicht ist es an der Zeit, in eine Infrastruktur zu investieren?"
  r56.lootbox.event.8.description: "§GGEMEINSAM§! Spielsucht \n\nGeh aufs Ganze oder geh nach Hause, wie man sagt..."
-  ""
+
  #Rare 9-16 ""
  r56.lootbox.event.9.description: "§BRARE§! Wehrpflichtige \n\nSind diese Kisten nicht ein Betrug? Nein, sie sind voll von Wehrpflichtigen!"
  r56.lootbox.event.10.description: "§BRARE§! Armee Ausbildungspläne \n\nWir haben diese technologisch fortschrittlichen Baupläne aus der Zukunft, also benutzt sie um die Armee zu trainieren oder so."
@@ -62,7 +62,7 @@
  r56.lootbox.event.14.description: "§BRARE§! Ätherische Produktionslinie \n\nDas Emporium hat sich kürzlich eine Patenschaft mit der Hexerei gesichert."
  r56.lootbox.event.15.description: "§BRARE§! Temporale Anomalie \n\nSie führt scheinbar zu einem Arsenal voller Waffen aus der Zeit des Großen Krieges. Physiker haben die Theorie aufgestellt, dass es nicht aus der Vergangenheit, sondern aus einem anderen Universum stammen könnte. Die Plünderung dieses Ortes voller Waffen aus britischer Produktion wird sich daher wahrscheinlich nicht auf unsere Zeitlinie, sondern auf ein anderes Universum auswirken."
  r56.lootbox.event.16.description: "§BRARE§! Karminrotes Telefon \n\nDas Emporium hat ein Lagerhaus voller karminroter Telefone gefunden, also geben wir sie dir. Macht ein paar Anrufe!"
-  ""
+
  #Epic 17-23 ""
  r56.lootbox.event.17.description: "§0EPIC§! Zivilfabrik \n\nDas Emporium sponsert die Nation mit einer Zivilfabrik."
  r56.lootbox.event.18.description: "§0EPIC§! Militärfabrik \n\nDas Emporium sponsert die Nation mit einer Militärfabrik."
@@ -77,7 +77,7 @@
  r56.lootbox.event.25.description: "§OLEGENDÄR§! Forschungsgeschwindigkeit \n\nSiehst du, alles was du tun musst, ist übertakten."
  r56.lootbox.event.26.description: "§OLEGENDÄR§! Kriegsvorbereitungspaket \n\nWir vom Emporium sehen deutlich, dass du eine helfende Hand brauchst."
  r56.lootbox.event.27.description: "§OLEGENDÄR§! Spukvase \n\nWir haben vergessen, dass wir noch eine dieser besitzergreifenden Vasen vom letzten Mal im Lager hatten. Stellen Sie keine Fragen."
-  ""
+
  #Mythical 28-30 ""
  r56.lootbox.event.28.description: "§RMYTHICAL§! Stolz und Leistung \n\nManchmal muss man einfach einen Schritt zurücktreten und feiern!"
  r56.lootbox.event.29.description: "§RMYTHICAL§! Nukleare Kernschmelze \n\nBeim Öffnen dieser Kiste wurde kein Land kontaminiert."

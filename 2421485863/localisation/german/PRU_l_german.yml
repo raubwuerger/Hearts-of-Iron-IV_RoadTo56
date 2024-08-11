@@ -1053,7 +1053,7 @@
  PRU_new_world_army_desc:0 "Begrüßen Sie die Herrschaft des deutschen Sapa Inca, eines visionären Führers des Inka-Reiches. Unter seiner kaiserlichen Führung steht die kaiserliche Armee der Inka als Beweis für unsere neu gewonnene Stärke und Einheit. Gemeinsam werden wir die Neue Welt neu gestalten und ein Schicksal schmieden, das die Großartigkeit unserer imperialen Vision widerspiegelt."
  PRU_call_hans:0 "Ruft die deutschen Generäle"
  PRU_call_hans_desc:0 "Holt Hans Kundt und Rüdiger, ein strategisches Superhirn, um unsere militärischen Fähigkeiten zu stärken. Verstärken Sie die imperiale Streitmacht der Inkas und sorgen Sie dafür, dass sich unsere imperiale Vision mit taktischer Brillanz auf der Bühne der Neuen Welt entfaltet."
-  ""
+
  PRU_continue_leguias_plan:0 "Leguias Plan fortsetzen"
  PRU_continue_leguias_plan_desc:0 "Das Erbe des Wirtschaftsplans von Präsident Augusto Leguía ist in Peru immer noch sehr präsent. Die Fortführung von Leguías Vision bedeutet, dass der Schwerpunkt weiterhin auf der Entwicklung der Infrastruktur, der Industrialisierung und dem Wirtschaftswachstum liegt. Auf diese Weise hofft Peru, seinem Volk eine stabile und wohlhabende Zukunft zu sichern, aber es könnte noch Herausforderungen und politischen Widerstand geben."
 
@@ -1144,7 +1144,7 @@ PRU_america_imperial_desc:0 "Unsere Bestimmung ist es, Amerika in eine Ära der 
 
  PRU_the_great_world_revolution:0 "Die große Weltrevolution"
  PRU_the_great_world_revolution_desc:0 "Die Aprista-Partei ist in Peru an die Macht gekommen und hat ihre Absicht erklärt, ihre Vision von Gerechtigkeit und Gleichheit in alle Ecken der Welt zu bringen. Mit revolutionärem Eifer bereitet sich die peruanische Regierung darauf vor, ihren Einfluss auszuweiten und im Namen des Volkes Territorien zu erobern."
-  ""
+
  PRU_popular_congress:0 "Volkskongress"
  peruvian_bolivian_joint_command:0 "Gemeinsames Kommando der Andenstaaten"
    ""
@@ -1235,7 +1235,7 @@ PRU_america_imperial_desc:0 "Unsere Bestimmung ist es, Amerika in eine Ära der 
  peru.1:0 "Das Schicksal der peruanischen Politik"
  peru.1.t:0 "Das Schicksal der peruanischen Politik"
  peru.1.d:0 "Nach der kurzen Regierung von Sanchez Cerro und seinem Nachfolger [PRU.GetLeader] verlangte das Volk, dass das Schicksal Perus und seiner Machthaber geklärt wird.\n\nWir können wählen, ob wir demokratischen Wahlen zur Wahl unseres neuen Präsidenten nachgeben. \nOder wir können die Wahlen einfach absagen, um Benavides zu begünstigen und seine Regierung zu verlängern, obwohl diese Entscheidung aufgrund des Mangels an Demokratie in der Regierung Benavides soziale Unruhen auslösen könnte.\nAls letzte Option können Sie sich an das Erbe von Sanchez Cerro erinnern und sich der Partei Union Revolucionaria und ihren nationalistischen Idealen annähern."
-  ""
+
  PRU_hans_appear:0 "Rufen Sie Hans als General an"
 
 
@@ -1264,7 +1264,7 @@ PRU_america_imperial_desc:0 "Unsere Bestimmung ist es, Amerika in eine Ära der 
  peru.w.d:0 "Wir sind darüber informiert, dass mehrere ecuadorianische Soldaten die Grenze zu den Grenzposten von Zarumilla überqueren und die peruanische Bevölkerung schikanieren; außerdem gibt es Berichte über ständige Übergriffe von den ecuadorianischen Posten Macara und Zapotillo."
  peru.w.a:0 "Das bedeutet Krieg"
 
-  ""
+
  peru.3:0 "Mehrere Proteste für die Annullierung der Wahlen"
  peru.3.t:0 "Mehrfache Proteste für die Annullierung der Wahlen"
  peru.3.d:0 "Das Volk ist es leid, dass Benavides und seine Verlängerung der Regierung um drei weitere Jahre die demokratischen Wahlen annullieren; das Volk wird sich erheben, um die demokratischen Werte Perus zu verteidigen."
@@ -1571,7 +1571,7 @@ PRU_america_imperial_desc:0 "Unsere Bestimmung ist es, Amerika in eine Ära der 
  PRU_oli_army_bonus_decision_two:0 "In die Armee investieren"
  PRU_oli_navy_bonus_decision_one:0 "Unterstützen Sie die Logistik der Marine"
  PRU_oli_navy_bonus_decision_two:0 "Investieren Sie in die Marine"
-  ""
+
 
  PRU_Meet_with_apra:0 "Beteiligen Sie £partidos_texticon_apra §YApristas§! an unserer Regierung"
  PRU_exc_with_apra:0 "Schließen Sie £partidos_texticon_apra §YApristas§! von der Regierung aus"
@@ -1620,7 +1620,7 @@ PRU_america_imperial_desc:0 "Unsere Bestimmung ist es, Amerika in eine Ära der 
  PRU_que_status_amount:0 "[ROOT.GetqueLoyaltyLevel]"
  PRU_ur_status_amount:0 "[ROOT.GeturLoyaltyLevel]"
  PRU_oli_status_amount:0 "[ROOT.GetoliLoyaltyLevel]"
-  ""
+
  PRU_apra_stability_status_amount:0 "[ROOT.GetapraStabilityBonus]"
  PRU_que_stability_status_amount:0 "[ROOT.GetqueStabilityBonus]"
  PRU_ur_stability_status_amount:0 "[ROOT.GeturStabilityBonus]"
@@ -1665,7 +1665,7 @@ PRU_america_imperial_desc:0 "Unsere Bestimmung ist es, Amerika in eine Ära der 
  PRU_low_debuf_marina_que:0 "für £partidos_texticon_que §YQuechuas§!"
  PRU_h_debuf_ejercito_que:0 "für £partidos_texticon_que §YQuechuas§!"
  PRU_h_debuf_marina_que:0 "für £partidos_texticon_que §YQuechuas§!"
-  ""
+
  PRU_loyal_goverment_ur:0 "für £partidos_texticon_ur §YNationalisten§!"
  PRU_hostil_ur:0 "für £partidos_texticon_ur §YNationalisten§!"
  PRU_low_bonus_ejercito_ur:0 "für £partidos_texticon_ur §YNationalisten§!"

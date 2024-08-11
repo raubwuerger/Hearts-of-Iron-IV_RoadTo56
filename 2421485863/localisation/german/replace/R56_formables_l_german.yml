@@ -42,7 +42,7 @@
  AH_increase_naval_production_desc:0 ""
  AH_invest_in_north_transylvanian_mining:0 "Investieren Sie in den nord-siebenbürgischen Bergbau"
  AH_invest_in_north_transylvanian_mining_desc:0 "Siebenbürgen kann auf eine jahrhundertelange Bergbaugeschichte zurückblicken. Auch wenn sie keine direkt für die Kriegsfabriken nützlichen Ressourcen liefern, tragen die ausgebeuteten Mineralien dennoch erheblich zur Wirtschaft bei. "
-  ""
+
  #United Guyana ""
  GUYANA_UNIFIED_guianese_unification:0 "Guyanische Wiedervereinigung"
  GUYANA_UNIFIED_guianese_unification_desc:0 "Die Region wurde jahrhundertelang von den Kolonialisten geplündert. Wir haben die einmalige Chance, eine neue Zukunft aufzubauen, frei von ausländischer Unterdrückung."
@@ -50,7 +50,7 @@
  GUYANA_UNIFIED_connect_the_cities_desc:0 "Die drei ausländischen Mächte bauten nur lokale Infrastrukturen zur Verbindung der Häfen und einiger lokaler Abbaugebiete. Wir brauchen eine neue Infrastruktur, um ein zusammenhängendes Land zu bilden."
  GUYANA_UNIFIED_administrative_reorganization:0 "Neuorganisation der Verwaltung"
  GUYANA_UNIFIED_administrative_reorganization_desc:0 "Unsere dreigliedrige Verwaltung muss zu einem kohärenten Ganzen vereinheitlicht werden."
-  ""
+
  GUYANA_UNIFIED_naval_buildup:0 "Ausbau der Seestreitkräfte"
  GUYANA_UNIFIED_naval_buildup_desc:0 "Der Ausbau der Flotte wird uns die Mittel an die Hand geben, unsere Küsten zu sichern."
  GUYANA_UNIFIED_legacy_of_piracy:0 "Ein Erbe der Piraterie"
@@ -65,8 +65,8 @@
  GUYANA_UNIFIED_defend_the_new_union_desc:0 "Unsere Union ist ein einschneidendes Ereignis in der Geschichte, und sie darf nicht durch äußere Kräfte zerschlagen werden."
  GUYANA_UNIFIED_united_armed_forces:0 "Vereinte Streitkräfte"
  GUYANA_UNIFIED_united_armed_forces_desc:0 "Wir werden gemeinsam kämpfen, um die Bedrohungen unserer Zeit zu überwinden."
-  ""
-  ""
+
+
  #Improved Byzantium# ""
  byz_integrate_albania:0 "Albanien integrieren"
  byz_albania_integrated:0 "Albanien integriert"
@@ -229,7 +229,7 @@
  CEL_UNIFIED_neutrality_party_long:0 "Pàrtaidh Athbheothachadh Ceilteach"
  CEL_UNIFIED_fascism_party:0 "PFDC"
  CEL_UNIFIED_fascism_party_long:0 "Pàrtaidh Faisisteach Deamocratach Ceilteach"
-  ""
+
  #Reunited Belgium# ""
  recreate_belgium_category:0 "Belgien neu erschaffen"
  recreate_belgium_category_desc:0 "Während die Spannungen zwischen Flamen und Wallonen die Geschichte Belgiens geprägt haben, sind viele der Meinung, dass wir allein nicht überleben werden, solange Europa entlang ideologischer Trennlinien gespalten ist. Auch wenn sie eine andere Sprache sprechen, sind viele der Meinung, dass unsere ehemaligen Partner uns am nächsten stehen, im Vergleich zu den protestantischen Niederländern und Deutschen oder den sich immer weiter zentralisierenden Franzosen."
@@ -261,7 +261,7 @@
  form_peru_bolivia_category:0 "Eine Geschichte von zwei Brüdern"
  form_peru_bolivia_category_desc:0 "Im Geiste der Einheit und der gemeinsamen Geschichte stehen wir an einem Scheideweg, an dem die Schicksale Perus und Boliviens miteinander verwoben sind. Der Vorschlag, eine Konföderation zwischen unseren Nationen zu gründen, hat an Dynamik gewonnen und erinnert an die Träume von einem geeinten Südamerika. Wenn wir über diese wichtige Entscheidung nachdenken, müssen wir die historischen Bande, die uns verbinden, das Potenzial für gemeinsamen Wohlstand und die gemeinsamen Herausforderungen, vor denen wir stehen, berücksichtigen."
  form_peru_bolivia:0 "Peru und Bolivien wiedervereinigen"
-  ""
+
  #Caribbean# ""
  CAB_fascism:0 "Karibischer Unionsstaat"
  CAB_fascism_DEF:0 "der Staat der Karibischen Union"
@@ -279,7 +279,7 @@
  form_carribean_category:0 "Karibische Einigung"
  form_carribean_category_desc:0 "Unser Schicksal kann durch die Vereinigung von Kuba mit Hispaniola verwirklicht werden. Dann können die übrigen karibischen Inseln unter unserer Flagge vereinigt werden, um die imperialistische Herrschaft zu beenden und eine größere Union zu bilden."
  form_caribbean:0 "Vereinigt die Karibik"
-  ""
+
  #La Plata# ""
  PLA_fascism:0 "La Plata"
  PLA_fascism_DEF:0 "La Plata"
@@ -309,7 +309,7 @@
 
  #Arab Unification# ""
  assert_control_over_the_holy_sites:0 "Kontrolle über die Heiligen Stätten ausüben"
-  ""
+
  #Levant# ""
  unite_the_levant_category:0 "Die Levante vereinigen"
  unite_the_levant_category_desc:0 "Nachdem sie uns gegen die türkischen Unterdrücker unterstützt hatten, verrieten die Briten und Franzosen unser Volk und teilten die Levante unter dem Deckmantel ihrer so genannten Mandate für sich ein. Um ihre Herrschaft durchzusetzen, drängten sie Faisal, das arabische Königreich Syrien aufzulösen, was die Levante seither zerrüttet hat. Nun bietet sich die Gelegenheit, die von den Westlern abgetrennten Provinzen wieder zu vereinen und ein Großsyrien zu gründen."
@@ -328,7 +328,7 @@
  SYR_UNIFIED_democratic:0 "Vereinigte Arabische Syrische Republik"
  SYR_UNIFIED_democratic_DEF:0 "Vereinigte Arabische Syrische Republik"
  SYR_UNIFIED_ADJ:0 "Syrien"
-  ""
+
  #Hispanoamérica# ""
  HIS_UNIFIED_communism:0 "Comunidad Socialista Unida de Hispanoamérica"
  HIS_UNIFIED_communism_DEF:0 "la Comunidad Socialista Unida de Hispanoamérica (Vereinigte Sozialistische Gemeinschaft von Hispanoamerika)"
@@ -354,7 +354,7 @@
  form_hispanoamerica_category_desc: "Der Begriff "Hispanidad" ist seit jeher nur sehr vage definiert. Die beiden allgegenwärtigen Elemente sind das gemeinsame Erbe aller hispanoamerikanischen Völker und die Idee von "La Raza", der Vermischung von Spaniern und Einheimischen in Kultur und Blut. Das Konzept ist zwar in erster Linie von akademischem Interesse, hat aber in letzter Zeit eine Renaissance erlebt. Noch 1920 wurde sie als supranationale Identität gepriesen und während des Spanischen Bürgerkriegs ausgiebig genutzt. Aber jetzt, dank unserer jüngsten Erfolge, kann sie zu etwas mehr werden: zu einer Nation. Es ist an der Zeit, dass sich das hispanische Volk als Einheit erhebt und seinen Platz unter den Weltmächten einnimmt."
  form_hispanoamerica:0 "Vereinigen Sie das hispanische Amerika"
  core_mexican_america:0 "Wiedereingliederung der verlorenen mexikanischen Länder"
-  ""
+
  #Idel-Ural# ""
  IDEL_URAL_neutrality:0 "Idel-Ural-Republik"
  IDEL_URAL_fascism:0 "Groß-Tartaren"
@@ -368,7 +368,7 @@
  IDEL_URAL_neutrality_ADJ:0 "Idel-Ural"
  IDEL_URAL_democratic_ADJ:0 "Idel-Ural"
  IDEL_URAL_fascism_ADJ:0 "Tatarisch"
-  ""
+
  form_idel_ural:0 "Wiedervereinigung des Idel-Ural"
 
 
@@ -408,7 +408,7 @@
  EAU_UNITED_neutrality:0 "Ostafrikanische Föderation"
  EAU_UNITED_neutrality_DEF:0 "die Ostafrikanische Föderation"
  EAU_UNITED_ADJ:0 "Ostafrikanisch"
-  ""
+
  #korea ""
  unify_the_peninsula_category:0 "Einigung der Halbinsel"
  unify_the_peninsula_category_desc:0 "Unser Land wurde aufgrund von Imperialismus und kleinlichen ideologischen Streitigkeiten gespalten. Jetzt, da wir die gesamte Halbinsel kontrollieren, können wir mit der Vereinigung Koreas selbst beginnen."
@@ -644,7 +644,7 @@ is_persian_empire_tt:0 "Hat §YPersische imperiale Ambitionen§! erreicht"
  SIB_develop_mining:0 "Unsere Ressourcen entwickeln"
  SIB_develop_mining_desc:0 "Unsere Ressourcen sind unser größtes Kapital. Lasst uns die Schätze unter unseren Füßen freilegen."
 
-  ""
+
  is_transcaucasia_tt:0 "Hat Transkaukasien gegründet"
  is_mountain_republic_tt:0 "Hat die Gebirgsrepubliken gegründet"
  CAU_caucasus_unification:0 "Vereinheitlichung des Kaukasus"

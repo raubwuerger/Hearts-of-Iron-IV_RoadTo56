@@ -1,5 +1,5 @@
 ﻿l_german:
-  ""
+
  #Generic ""
  is_controlled_by_ROOT_or_subject:0 ""Wird von §Y[Root.GetName]§! oder einem der Subjekte von §Y[Root.GetName]§! kontrolliert." # Seltsamerweise ist dies ein Paradoxon, aber sie haben es nie lokalisiert"
  EYE_enough_production_tt:0 "Genug Gebäudeslots für §YMilitärfabrik§!."
@@ -11,17 +11,17 @@
 
  #flags ""
  SWI_reliance_on_militia:0 " Verlassen auf Milizsystem"
-  ""
+
  SWI_choose_cons_tt:0 "Erhöht die Anzahl der Männer, die durch das Milizsystem angeworben werden können.\n"
  SWI_choose_cons_2_tt:0 "Erhöht die Qualität der aufgezogenen Milizeinheiten\n"
  SWI_choose_cons_3_tt:0 "Unsere Milizeinheiten werden die maximale Stärke und Effizienz erreichen.\n"
  henne_dead_tt:0 "Rolf Henne stirbt!\n"
  SWI_no_offensive_wars_tt:0 "Hat noch nie an einem Angriffskrieg teilgenommen."
  SWI_red_cross_tt:0 "Aktiviert §HDas Internationale Komitee vom Roten Kreuz§!.\n§HFeldlazarette§!:\n §HTrickleback§!: §G+10%§!\n §HExp. Verlust§!: §G-5%§!"
-  ""
-  ""
+
+
  ICE_no_six:0 "§RDu erhältst keinen sechsten Forschungsplatz, wenn du bereits fünf hast.§!\n "
-  ""
+
  #FOCUS ""
  SWI_geistige:0 "Förderung der Geistigen Landesverteidigung"
  SWI_geistige_desc:0 "1935 begann Stadtrat Fritz Hauser mit einer Untersuchung darüber, wie die geistige Unabhängigkeit unseres Landes vor den Faschisten und Kommunisten geschützt werden kann. Diese Prüfung hat zum Vorschlag der Geistigen Landesverteidigung geführt, die zu Freiheit, Demokratie, Selbstbestimmung und einer ausgewogenen Regierung aufruft. Wir sollten diesen Vorschlag mit aller Eile annehmen."
@@ -31,7 +31,7 @@
  SWI_burger_desc:0 "Wir dürfen nicht den Übeln des Sozialismus zum Opfer fallen! Stattdessen müssen wir ein Bündnis mit den Konservativen und den Bauern suchen, um unseren Weg des Aufschwungs fortzusetzen. Wir dürfen nicht zulassen, dass die Regierung radikalisiert wird."
  SWI_rise_of_front:0 "Aufschwung der Front"
  SWI_rise_of_front_desc:0 "Die Unfähigkeit der Regierung, zu einer Einigung zu kommen, hat zu einem zunehmend gewalttätigen Klima geführt, in dem sich die Menschen zu Dingen hingezogen fühlen, die einst als Randgruppen galten."
-  ""
+
  SWI_helvetia:0 "Pro-Helvetia"
  SWI_helvetia_desc:0 "Während die bewaffnete Verteidigung der Nation sowie die Vorbereitung und Organisation einer solchen Verteidigung ausschließlich Sache des Staates ist - ja sogar seine Hauptaufgabe -, möchten wir die geistige Verteidigung der Nation in erster Linie in den Händen der Bürger belassen. Der Staat soll über die notwendigen Mittel verfügen und das Recht behalten, den Einsatz dieser Mittel zu überwachen."
  SWI_fortress:0 "Einsatzbefehl Nr. 12"
@@ -239,24 +239,24 @@
  SWI_border_war_liechtenstein:0 "Unmittelbare Intervention in [LIE.GetNonIdeologyName]"
 
  lie_popularities_tt:0 "Mehr als §Y40%§! Unterstützung für die UEK und VDBL zusammen."
-  ""
+
  SWI_red_cross_tech:0 "Das Internationale Komitee vom Roten Kreuz"
  SWI_red_cross_tech_desc:0 "Das Internationale Komitee vom Roten Kreuz (IKRK) ist eine der größten und renommiertesten Organisationen der Welt. Diese Organisation widmet sich der Behandlung von Kriegsverwundeten und der Sicherstellung einer humanen Behandlung von Kriegsgefangenen. Das IKRK hat seinen Sitz in der Schweiz und hat sogar ein ähnliches Flaggenthema wie sein Gastgeberland. Die Regierung und das Militär der Schweiz haben sehr davon profitiert, eine solche Organisation an ihrer Seite zu haben."
-  ""
+
  SWI_chose_communism:0 "Wählen Sie den Kommunismus"
  SWI_containment:0 "Eindämmungsrhetorik"
  SWI_claimed_our_land:0 "Beansprucht unser Land!"
  SWI_friendship:0 "Kulturelle Bindungen"
  SWI_chosen_ally:0 "Enge Bindungen"
  SWI_refused_guarantee:0 "Verweigerte Garantien"
-  ""
+
  neutral_influence:0 "Blockfreier Einfluss"
  neutral_leanings:0 "Blockfreie Tendenzen"
  SWI_a_land_of_mountains:0 "Das Zentrum der Alpen"
  SWI_a_land_of_mountains_desc:0 "-Wie war Helvetien?\n\n~]- Flach!"
  SWI_mountain_artillery:0 "Berg Artillerie"
  SWI_mountain_artillery_desc:0 "Piou piou peak go boom."
-  ""
+
 
  SWI_dr_max:0 "Dr. Max Leo Keller"
  SWI_hans_oprecht:0 "Hans Oprecht"
@@ -275,7 +275,7 @@
  SWI_roger_masson:0 "Roger Masson"
  SWI_paul_scherrer:0 "Paul Scherrer"
  SWI_generic_head_of_intelligence:0 "Roger Masson"
-  ""
+
  SWI_berna:0 "Berna"
  SWI_thun:0 "Eidgenössische Konstruktionswerkstätte"
  SWI_werner:0 "Werner Risch AG "
@@ -288,7 +288,7 @@
  SWI_holderbank:0 "Holderbank"
  SWI_lonza:0 "Lonza"
  SWI_crypto:0 "AB Kryptotechnik"
-  ""
+
  SWI_special_conscription:0 "Schweizer Wehrpflicht"
  SWI_special_conscription_desc:0 "Das Land stützt sich auf ein Milizsystem, bei dem die Bürger in Notzeiten zum Dienst für das Land herangezogen werden können. Dies schließt jedoch aus, dass das Land über ein großes stehendes Heer verfügt.§W§W--------------- \nWir können den §YEnd Reliance on Milita System§! Fokus vervollständigen, um §Runsere Abhängigkeit von unseren derzeitigen Wehrpflichtmethoden zu verringern§! und uns in Richtung eines stehenden Heeres zu bewegen. "
  SWI_special_conscription_1:0 "Grundlegende Wehrpflicht"
@@ -360,18 +360,18 @@
  SWI_pressured_demobilization:0 "Demobilisierung unter Druck"
  SWI_pressured_demobilization_desc:0 "Die Regierung dieses Landes wurde von der Bevölkerung gezwungen, ihre Armee gegen ihren Willen zu demobilisieren."
  SWI_mobilize_1:0 "Miliz mobilisieren"
-  ""
+
  neutrality_advocate:0 "Befürworter der Neutralität"
  neutrality_advocate_desc:0 "Dieser Politiker ist der festen Überzeugung, dass Bündnisse nur dann eingegangen werden sollten, wenn es unbedingt notwendig ist."
-  ""
+
  likes_germany:0 "Mag Deutschland "
  strongman:0 "Starker Mann"
  great_council:0 "Großer Rat"
-  ""
+
  merchant_mariner:0 "Unterstützer der Handelsmarine"
  resilient_nationalist:0 "Unbeugsamer Nationalist"
  rubber_manufacturer:0 "Gummifabrikant"
-  ""
+
  EYE_swiss.1.tt:0 "Wilhelm Gustloff stirbt!\n"
  EYE_swiss.2.tt:0 "Fritz Platten stirbt!\n"
  EYE_swiss.12.tt:0 "Dieses Land kann den Schwerpunkt §RSwiss Banking§! nicht mehr abschließen."
@@ -398,12 +398,12 @@
  EYE_swiss.1300.a:0 "Ein weiterer tapferer Märtyrer für die Neue Ordnung."
  EYE_swiss.1300.b:0 "Noch mehr Propaganda für die Faschisten."
  EYE_swiss.1300.c:0 "Man kann nicht von uns erwarten, dass wir jeden Radikalen beobachten!"
-  ""
+
  EYE_swiss.2:0 "Fritz Platten verhaftet"
  EYE_swiss.2.t:0 "Fritz Platten verhaftet"
  EYE_swiss.2.desc:0 "Fritz Platten, Führer der KPS, ist in der Sowjetunion verhaftet worden. Platten, der dafür bekannt ist, dass er einst Lenin vor einem Attentat bewahrt hat, wird nun wegen nicht näher bezeichneter Verbrechen gegen die Sowjetunion angeklagt, wo er als Lehrer und Forschungsassistent tätig war. Dies ist ein Schlag für die Schweizer Kommunisten, die in Platten einen Helden sahen, und es wurden Forderungen nach Einzelheiten zu seinen angeblichen Verbrechen laut, die jedoch nicht erfüllt wurden, so dass Beobachter von außen sagen, es sei wahrscheinlich, dass Platten der stalinistischen Säuberung zum Opfer gefallen ist. In Plattens Abwesenheit hat Léon Nicole die Führung des Schweizer Kommunismus übernommen und die Partei in Partei der Arbeit umbenannt."
  EYE_swiss.2.a:0 "Ein weiteres Opfer von Stalins Wahnsinn."
-  ""
+
  EYE_swiss.3:0 "HIDDEN"
  EYE_swiss.3.a:0 "WIE KANNST DU DAS SEHEN!?"
     EYE_swiss.4:0 "Französischer Nachschub"
@@ -418,7 +418,7 @@
     EYE_swiss.51.t:0 "Die Rütli-Rede"
     EYE_swiss.51.desc:0 "General Henri Guisan hatte alle Offiziere der Schweizer Armee auf dem Rütli versammelt, dem Geburtsort der [Root.GetAdjective]-Nation. Nach dem Fall Frankreichs lag ein Gefühl der Melancholie in der Luft, doch als Guisan zu sprechen begann, wurde dieses Gefühl durch eine stählerne Entschlossenheit ersetzt. Die Worte Guisans klangen in der ganzen Gegend nach: "Solange es Millionen von Bewaffneten in Europa gibt und solange wichtige Kräfte uns jederzeit angreifen können, muss die Armee auf ihren Posten sein... Das ist es, was unser Volk verstehen muss, was unseren zukünftigen Gegner zögern lassen wird... Ein Mann, der sich seiner Sache sicher ist, hat weder von einem Fallschirmjäger noch von der 5. Kolonne etwas zu befürchten... Unser einziger Schutz ist unsere Bereitschaft, uns bis zum Ende zu verteidigen." Diese Rede, die nur in Auszügen bekannt ist, hat sich bereits wie ein Lauffeuer in der Bevölkerung verbreitet, die sich nun für die Verteidigung der Nation einsetzt."
     EYE_swiss.51.a:0 "Leiten Sie diese Anweisung an die Truppen weiter!"
-  ""
+
  EYE_swiss.6:0 "Die Zukunft der kommunistischen Führung"
  EYE_swiss.6.t:0 "Die Zukunft der kommunistischen Führung"
  EYE_swiss.6.desc:0 "Da der Kommunismus in unserem Land wächst, ist es nur natürlich, dass Debatten über die kommunistische Führung aufkommen. Da der Kommunismus einen kritischen Punkt erreicht hat, ist es an der Zeit zu hinterfragen, wie das Land regiert werden soll. Viele tendieren zu einer einfachen Umstrukturierung des gegenwärtigen politischen Systems und zur Schaffung eines Kongresses, der vom Volk für das Volk geführt wird. Eine kleinere Minderheit tendiert zu einer eher totalitären Methode, wie sie von Lenin und Stalin vorgelebt wurde. In welche Richtung soll sich die Partei entwickeln?"
@@ -429,7 +429,7 @@
  EYE_swiss.7.desc:0 "Nach dem Tod von Fritz Platten stellt sich erneut die Frage, wer die Kommunistische Partei führen soll. Der Spitzenkandidat ist Léon Nicole, der Stalin näher steht. Diejenigen, die früher den Arbeiterkongress unterstützten, haben diesen Moment jedoch genutzt, um erneut auf die Führung der Vielen zu drängen. Wieder muss eine Entscheidung getroffen werden."
  EYE_swiss.7.a:0 "Genossin Nicole wird uns in die Zukunft führen!"
  EYE_swiss.7.b:0 "Die Demonstranten haben Recht, wir sind eine Partei für das Volk."
-  ""
+
  EYE_swiss.8:0 "[From.GetNameDef] Fordert Tirol"
  EYE_swiss.8.t:0 "[From.GetNameDef] Fordert Tirol"
  EYE_swiss.8.desc:0 "Unser Nachbar [From.GetNameDef] wird in letzter Zeit immer irredentistischer, und während wir die Situation im Auge behalten haben, waren wir gestern schockiert, als die Regierung von [Root.GetNameDef] uns ein Ultimatum stellte. Sie verlangten, dass wir ihnen Vorarlberg und als Entschädigung für die verpasste Zeit den Rest von Tirol überlassen! Offensichtlich ist diese Forderung verrückt, und die meisten erwarten, dass wir sie ablehnen, aber können wir wirklich gegen [Root.GetNameDef] kämpfen, oder würden wir damit nur Leben verschwenden?"
@@ -463,7 +463,7 @@
  EYE_swiss.14.t:0 "Ruf der Banken wiederhergestellt"
  EYE_swiss.14.desc:0 "Nach dem Ende des Krieges konnten wir unsere Bankgeschäfte wieder aufnehmen. Es wird eine Weile dauern, aber wir sollten in der Lage sein, unseren Ruf als sichere und zuverlässige Bank wiederzuerlangen."
  EYE_swiss.14.a:0 "Ausgezeichnet."
-  ""
+
  EYE_swiss.15:0 "[From.GetName] Fragt nach Garantien"
  EYE_swiss.15.t:0 "[From.GetName] Fragt nach Garantien"
  EYE_swiss.15.desc:0 "[From.GetName] hat sich mit uns unter vier Augen getroffen, um Pläne für einen möglichen gemeinsamen Einsatz zu besprechen, sollten sie von [SWI_ger_or_fra] angegriffen werden. Obwohl nicht gesprochen, vermuten wir stark, dass [From.GetNameDef] auch Pläne mit [SWI_ger_or_fra] für den Fall gemacht hat, dass WIR sie angreifen. Diese Gelegenheit zu verweigern, um für den Fall zu planen, dass [SWI_ger_or_fra] versucht, uns zu überflügeln, könnte uns in der Zukunft möglicherweise sehr schaden. Sollten wir diese nicht ganz so geheime Vereinbarung treffen?"
@@ -485,14 +485,14 @@
  EYE_swiss.18.b:0 "Als glückliche Verbindung zwischen Größe und Leistung wären mittelgroße Schiffe für uns am besten geeignet."
  EYE_swiss.18.c:0 "Nur die größten Schiffe können die Wellen beherrschen: schwere Schiffe."
  EYE_swiss.18.d:0 "Auf hoher See können wir nicht konkurrieren, also sollten wir die Tiefen erobern: U-Boote."
-  ""
+
  EYE_swiss.19:0 "Ernennung eines Generals"
  EYE_swiss.19.t:0 "Ernennung eines Generals"
  EYE_swiss.19.desc:0 "Unter normalen Umständen ist das Schweizer Militär direkt dem Bundesrat unterstellt, wobei der höchstmögliche Rang der eines Korpskommandanten ist. Die heutigen Zeiten sind jedoch alles andere als normal. Europa ist wieder einmal in den blutigen Ozean des Krieges eingetaucht. Es ist also wieder einmal an der Zeit, einen General der Armee zu ernennen, der seine weitreichenden Befugnisse weise einsetzt, damit die Schweiz frei bleibt. Wer soll uns in diesen schwierigen Zeiten führen?"
  EYE_swiss.19.a:0 "Henri Guisan ist vielversprechend."
  EYE_swiss.19.b:0 "Der unerschütterliche Jules Borel."
  EYE_swiss.19.c:0 "Ulriche Wille jr., Sohn des Kriegshelden."
-  ""
+
  EYE_swiss.20:0 "Bevölkerung gegen Mobilisierung"
  EYE_swiss.20.t:0 "Die Bevölkerung gegen die Mobilisierung"
  EYE_swiss.20.desc:0 "Unsere Bevölkerung hat deutlich gemacht, dass sie unsere derzeitige Mobilisierung nicht gutheißt. Sie sagen, dass ein Krieg nicht absehbar ist und dass wir daher nicht einen so großen Teil unserer Bevölkerung aus ihren Häusern holen sollten. Sollten wir den Befehl zur Demobilisierung geben?"
@@ -513,8 +513,8 @@
  EYE_swiss.103.t:0 "Erzwungene Demobilisierung"
  EYE_swiss.103.desc:0 "Die Wut des Volkes kann nicht mehr eingedämmt werden. Da so viele Männer an die Front einberufen wurden, ist die Wirtschaft zum Stillstand gekommen, und unsere Weigerung, ohne Krieg zu demobilisieren, hat sowohl unsere Soldaten als auch unsere Zivilbevölkerung sehr verärgert. Gestern hat fast jeder Soldat seine Waffen niedergelegt und ist nach Hause zurückgekehrt. In Ermangelung einer Armee, die unsere Armee bestrafen könnte, blieb uns nichts anderes übrig, als nachzugeben und die Soldaten nach Hause gehen zu lassen."
  EYE_swiss.103.a:0 "Verräterische Kretins!"
-  ""
-  ""
+
+
  SWI_gw_tank_equipment:0 "Renault FT-17 Moskito"
  SWI_gw_tank_equipment_short:0 "FT-17 Moskito"
  SWI_gw_tank_equipment_desc:0 "Um ihre Armee auf dem neuesten Stand zu halten, kaufte die Schweiz 19222 mehrere Renault FT-17 aus Frankreich und nannte sie Moskitos, oder auf Englisch Mosquitos. "
@@ -539,7 +539,7 @@
  SWI_light_tank_artillery_equipment_3:0 "Nahkampfkanone 10.5"
  SWI_light_tank_artillery_equipment_3_short:0 "Nahkampfkanone 10.5"
  SWI_light_tank_artillery_equipment_3_desc:0 "Nachdem sie als Panzerjäger eingesetzt worden war, entschied das Schweizer Militär, dass die Nahkampfkanone 1 mit einer 10,5-cm-Haubitze anstelle ihrer alten 75-mm-Kanone besser bedient wäre. Und so wurde sie gebaut."
-  ""
+
  SWI_medium_tank_equipment_1:0 "Panzer 1939"
  SWI_medium_tank_equipment_1_short:0 "Panzer 1939"
  SWI_medium_tank_equipment_2:0 "Panzer 41"
@@ -552,55 +552,55 @@
  SWI_modern_tank_destroyer_equipment_1:0 "Nahkampfkanone 2"
  SWI_modern_tank_destroyer_equipment_1_short:0 "Nahkampfkanone 2"
  SWI_modern_tank_destroyer_equipment_1_desc:0 "Der 1946 gebaute Prototyp der Nahkampfkanone 2 war mit einer 75-mm-Kanone bewaffnet und sollte eine schwerere und verbesserte Version der früheren Nahkampfkanone 1 sein. Sie wurde bis 1947 getestet, dann wurde die Entwicklung eingestellt."
-  ""
+
  SWI_heavy_tank_equipment_1:0 "Panzer Char B-1"
  SWI_heavy_tank_equipment_1_short:0 "Panzer B-1"
  SWI_heavy_tank_equipment_2:0 "Panzer 1941"
  SWI_heavy_tank_equipment_2_short:0 "Panzer 1941"
  SWI_heavy_tank_equipment_3:0 "Panzer 44"
  SWI_heavy_tank_equipment_3_short:0 "Panzer 44"
-  ""
+
  SWI_super_heavy_tank_equipment_1:0 "Überpanzer 44"
  SWI_super_heavy_tank_equipment_1_short:0 "Überpanzer 44"
-  ""
+
  SWI_submarine_1:0 "Genfer Klasse"
  SWI_submarine_2:0 "Thun-Klasse"
  SWI_submarine_3:0 "Brienz-Klasse"
  SWI_submarine_4:0 "Luzern Klasse"
-  ""
+
  SWI_carrier_1:0 "Laupen-Klasse"
  SWI_carrier_2:0 "Giornico-Klasse"
  SWI_carrier_3:0 "Dornach Klasse"
  SWI_carrier_4:0 "Sempach Klasse"
-  ""
+
  SWI_battleship_1:0 "Klasse St. Gallen"
  SWI_battleship_2:0 "Winkelried-Klasse"
  SWI_battleship_3:0 "Klasse Ueli Rotach"
  SWI_battleship_4:0 "Wilhelm Tell Klasse "
-  ""
+
  SWI_SH_battleship_1:0 "Melchtal-Klasse"
  SWI_SH_battleship_2:0 "Helvetia-Klasse"
-  ""
+
  SWI_battle_cruiser_1:0 "Lydia-Klasse"
  SWI_battle_cruiser_2:0 "Zwinger-Klasse"
-  ""
+
  SWI_heavy_cruiser_1:0 "Herzog-Klasse"
  SWI_heavy_cruiser_2:0 "Dufour-Klasse"
  SWI_heavy_cruiser_3:0 "Wille-Klasse"
  SWI_heavy_cruiser_4:0 "Guisan-Klasse"
-  ""
+
  SWI_light_cruiser_1:0 "Berner Klasse"
  SWI_light_cruiser_2:0 "St. Nikolaus Klasse"
  SWI_light_cruiser_3:0 "Brun-Klasse"
  SWI_light_cruiser_4:0 "Zürich-Klasse"
-  ""
+
  SWI_destroyer_1:0 "Eiger-Klasse"
  SWI_destroyer_2:0 "Rigi-Klasse"
  SWI_destroyer_3:0 "Junfrau-Klasse"
  SWI_destroyer_4:0 "Matterhorn-Klasse"
-  ""
+
  SWI_transport_plane_equipment_1:0 "Bayerische Flugzeugwerke M 18"
-  ""
+
  SWI_fighter_equipment_0:0 "Dewoitine D.27"
  SWI_fighter_equipment_0_short:0 "D.27"
  SWI_fighter_equipment_1:0 "Messerschmitt Bf 109"
@@ -621,7 +621,7 @@
  SWI_jet_fighter_equipment_1_short:0 "Aiguillon"
  SWI_jet_fighter_equipment_2:0 "EFW N-22 Harpon"
  SWI_jet_fighter_equipment_2_short:0 "Harpon"
-  ""
+
  SWI_CAS_equipment_1:0 "Airco de Havilland DH.9"
  SWI_CAS_equipment_1_short:0 "Airco DH.9"
  SWI_CAS_equipment_2:0 "K+W Thun C-36"
@@ -634,14 +634,14 @@
  SWI_cv_CAS_equipment_2_short:0 "FC-36"
  SWI_cv_CAS_equipment_3:0 "K+W Thun FC-40"
  SWI_cv_CAS_equipment_3_short:0 "FC-40"
-  ""
+
  SWI_nav_bomber_equipment_1:0 "K+W Thun Junkers Ju 52/3mde"
  SWI_nav_bomber_equipment_1_short:0 "K+W Ju 52/3mde"
  SWI_nav_bomber_equipment_2:0 "K+W Thun Fairey Albacore"
  SWI_nav_bomber_equipment_2_short:0 "K+W Albacore"
  SWI_nav_bomber_equipment_3:0 "K+W Thun Fairey Barracuda"
  SWI_nav_bomber_equipment_3_short:0 "K+W Barracuda"
-  ""
+
  SWI_tac_bomber_equipment_0:0 "K+W Thun Fokker C.V.-E"
  SWI_tac_bomber_equipment_0_short:0 "K+W C.V.-E"
  SWI_tac_bomber_equipment_1:0 "Potez 630"
@@ -654,14 +654,14 @@
  SWI_jet_tac_bomber_equipment_1_short:0 "FFA Vampir"
  SWI_jet_tac_bomber_equipment_2:0 "FFA de Havilland DH 112 Venom"
  SWI_jet_tac_bomber_equipment_2_short:0 "FFA Venom"
-  ""
+
  SWI_heavy_fighter_equipment_1:0 "Comte AC-20"
  SWI_heavy_fighter_equipment_1_short:0 "AC-20"
  SWI_heavy_fighter_equipment_2:0 "Comte AC-24"
  SWI_heavy_fighter_equipment_2_short:0 "AC-24"
  SWI_heavy_fighter_equipment_3:0 "P-51A Mustang"
  SWI_heavy_fighter_equipment_3_short:0 "Mustang"
-  ""
+
  SWI_strat_bomber_equipment_1:0 "K+W Thun Junkers Ju 89"
  SWI_strat_bomber_equipment_1_short:0 "K+W Ju 89"
  SWI_strat_bomber_equipment_2:0 "K+W Thun Piaggo P.108 Bombardiere"
@@ -670,9 +670,9 @@
  SWI_strat_bomber_equipment_3_short:0 "Mücke Mk V"
  SWI_jet_strat_bomber_equipment_1:0 "FFA Avro Vulcan"
  SWI_jet_strat_bomber_equipment_1_short:0 "FFA Vulcan"
-  ""
+
  EYE_swiss_fixed_mines_tt:0 "Hat Minen und Infrastruktur vollständig repariert."
-  ""
+
  SWI_mobilize_tt:0 "Ist noch nicht mobilisiert."
  SWI_mobilize2_tt:0 "Truppen sind mobilisiert."
  SWI_no_upgrade_tt:0 "Hat nicht kürzlich Truppen aufgerüstet."
@@ -683,11 +683,11 @@
  SWI_demobilize_tt:0 "Alle mobilisierten Einheiten kehren nach Hause zurück, und die Reserven werden aufgelöst."
  SWI_marcel_speech_tt:0 "Es wurde eine defätistische Rede gehalten."
  SWI_has_guisan_tt:0 "Henri Guisan ist ein General (Feldmarschall)."
-  ""
+
  EYE_form_alamannia_category:0 "Unser altes Erbe zurückgewinnen"
  EYE_form_alamannia_category_desc:0 "Wir sind nicht einfach das durchschnittliche germanische Volk. Wir stammen von den Hochdeutschen selbst ab! Die Alemannen, der Fluch Roms, die großen Vorfahren des großen Germaniens! Es hat Jahrhunderte gedauert, aber endlich ist das Unvermeidliche eingetreten, und wieder einmal ist unser rechtmäßiges Land in unsere Hände gefallen. Es ist an der Zeit, die Fesseln unserer Vergangenheit abzuschütteln, das Verlorene zurückzufordern und Alamannia neu zu schmieden!"
  SWI_form_alamannia:0 "Alamannia neu schmieden"
-  ""
+
  SWI_mobilize_category:0 "Mobilisierung"
  SWI_mobilize_category_desc:0 "Die Schweiz verfügt nicht über eine Standardarmee. Stattdessen stützt sie sich auf eine Miliz, die aus einberufenen Soldaten besteht, die dem Land in Zeiten der Not dienen sollen."
  SWI_mobilize_decision:0 "Mobilisieren Sie die Schweizer Miliz"
@@ -708,7 +708,7 @@
  SWI_redo_mine_infrastructure_desc:0 "Die Schweiz ist gefallen, aber nicht ohne ihre Infrastruktur und Minen zu zerstören. Wenn wir das Land nutzen wollen, müssen wir mit den Reparaturen beginnen."
  SWI_redo_mine_infrastructure2:0 "Minen- und Infrastrukturreparatur in der Schweiz abschließen"
  SWI_redo_mine_infrastructure2_desc:0 "Wir haben es größtenteils geschafft, die Minen und die Infrastruktur der Schweiz wieder in einen funktionsfähigen Zustand zu versetzen. Jetzt müssen sie nur noch auf den Vorkriegsstand gebracht werden."
-  ""
+
  SWI_give_speech:0 "Aufmunternde Rede halten."
  SWI_give_speech_desc:0 "Die Rede von Marcel Pilet-Golaz hat die Nation mit Defätismus und Verzweiflung erfüllt, auch unsere Offiziere. General Guisan hat ein Treffen aller Schweizer Offiziere auf dem Rütli, dem Gründungsort unserer Nation, beantragt. Vielleicht kann er erklären, wie wichtig es ist, weiterzukämpfen."
 

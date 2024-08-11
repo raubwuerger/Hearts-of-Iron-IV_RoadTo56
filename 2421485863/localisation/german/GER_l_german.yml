@@ -3,7 +3,7 @@
 #Characters ""
  GER_bernhard_rogge:0 "Bernhard Rogge"
  GER_heinrich_brandler:0 "Heinrich Brandler"
-  ""
+
 #Company/MIO ""
  GER_deutsche_forschungsanstalt_fur_segelflug:0 "DFS"
  GER_deutsche_forschungsanstalt_fur_segelflug_desc:0 "Deutsche Forschungsanstalt für Segelflug"
@@ -1284,7 +1284,7 @@ r56_on_action_event.1.b:0 "Ein Regimewechsel bedeutet nichts, wenn die Herzen de
  r56.ger.54.desc:0 "Als Mitglied der [THIS.GetFactionName] hat [GER.GetNameDef] um eine gemeinsame Militärübung gebeten. Die Bündelung unserer Anstrengungen wird unseren beiden Streitkräften sicherlich helfen, sich besser zu koordinieren und neue Taktiken und Doktrinen zu entwickeln.\n\nAllerdings wäre dies für uns sehr kostspielig und wir wären im Falle eines Krieges ernsthaft im Nachteil."
  r56.ger.54.a:0 "Eine solche Übung ist es wert, dass wir Truppen dafür abstellen."
  r56.ger.54.b:0 "Wir können es uns nicht leisten, Truppen von den Grenzen weg zu verlegen."
-  ""
+
  r56.ger.55.t:0 "Unserer gemeinsamen Militärübung wurde zugestimmt"
  r56.ger.55.desc:0 "Unserem Antrag auf eine gemeinsame Militärübung wurde stattgegeben. Mehrere unserer Divisionen sind bereits auf dem Weg zu einem ungenannten Ort, an dem diese Militärübung stattfinden wird. Wir erhoffen uns ein besseres Verständnis des Geländes in der Region und einen weiteren Vorteil gegenüber unseren Feinden."
  r56.ger.55.a:0 "Viel Glück für unsere Truppen."
@@ -1298,7 +1298,7 @@ r56_on_action_event.1.b:0 "Ein Regimewechsel bedeutet nichts, wenn die Herzen de
  cominform_denied:0 "Verweigerte Allianz"
  cominform_tt:0 "Ersetzt die §HKomintern§! durch die §HKominform§! und fügt die §H[GER.GetName]§! zur Fraktion hinzu."
  ger_cominform_tt:0 "Ersetzt die §HKomintern§! durch die §HKominform§! und fügt §Hus§! zur Fraktion hinzu."
-  ""
+
  # ideas & focuses ""
  GER_nva_idea_brandler:0 "Volkswehr"
  GER_nva_idea_soviet:0 "Nationale Volksarmee"

@@ -32,7 +32,7 @@
  SWE_FOCUS_TREE_SELECTION:0 "@SWE Schweden"
  SWI_FOCUS_TREE_SELECTION:0 "@SWI Schweiz"
  TUR_FOCUS_TREE_SELECTION:0 "@TUR Türkei"
-  ""
+
  ###---> AI Behavior <><> <><> <><> ""
  RULE_GROUP_AI_BEHAVIOR:0 "KI-Verhalten"
  RULE_OPTION_DEFAULT_AI_DESC:0 "Die KI trifft Entscheidungen auf der Grundlage anderer Spieleinstellungen, wie z.B. dem Erzwingen historischer Schwerpunkte und verschiedener Spielszenarien."
@@ -66,7 +66,7 @@
  RULE_OPTION_FLEXIBLE_FOREIGN_POLICY_ADR_AI_DESC:0 "Die andorranische KI wird den Weg der Neutralität verlassen und eine neue Außenpolitik einführen, die das Land in eine neue Richtung führt. [Dieser Weg wird dazu führen, dass Andorra den generischen Fokusbaum erhält, der es ihm ermöglicht, stärker als üblich zu werden."
  RULE_OPTION_FRENCH_PROTECTORATE_ADR:0 "Französisches Protektorat"
  RULE_OPTION_FRENCH_PROTECTORATE_ADR_AI_DESC:0 "Die andorranische KI wird den Weg der Neutralität verlassen und die Integration in Frankreich als Protektorat anstreben."
-  ""
+
  #-> ALB: Albania <><> ""
  ALB_AI_BEHAVIOR:0 "@ALB Albanien"
  RULE_OPTION_MONARCHIST_HISTORICAL_ALB_AI_DESC:0 "Die albanische KI wird den König unterstützen und sich auf eine konstitutionelle Monarchie zubewegen, indem sie den entsprechenden Pfad im nationalen Fokusbaum beschreitet."
@@ -270,11 +270,11 @@
  RULE_OPTION_MONARCHIST_ALLIES_GER_AI_DESC:0 "Die deutsche KI wird versuchen, den Kaiser wiederherzustellen und das Deutsche Reich zurückzubringen, die britische Seedominanz zu akzeptieren und dann versuchen, sich den Alliierten anzuschließen.§YR§! Ist §Yteilweise§! kompatibel mit dem gewählten Fokusbaum Road to 56. Die KI wird Monarchist, kann aber weder Großbritannien noch irgendjemand anderen über den Fokusbaum verbünden.\n\n§YS§! Erfordert den ausgewählten Standard-Fokusbaum. Ist die Bedingung nicht erfüllt, wählt die KI einen zufälligen Pfad, falls noch ausgewählt."
  RULE_OPTION_MONARCHIST_CENTRAL_POWERS_GER:0 "§GR§!§YS§! Monarchist - Mittelmächte"
  RULE_OPTION_MONARCHIST_CENTRAL_POWERS_GER_AI_DESC:0 "Die deutsche KI wird versuchen, den Kaiser wiederherzustellen und das Deutsche Reich zurückzubringen, was zu vertrauten Allianzen und territorialen Expansionen führt.\n\n§GR§! Ist §Gvoll§! mit dem gewählten Fokusbaum Road to 56 kompatibel.\n\n§YS§! Erfordert den gewählten Fokusbaum Standard. Ist die Bedingung nicht erfüllt, wählt die KI einen zufälligen Pfad, falls noch ausgewählt."
-  ""
+
  #-> HUN: Hungary <><> ""
  RULE_OPTION_COMMUNIST_ALT:0 "Kommunistische Alternative"
  RULE_OPTION_COMMUNIST_ALT_HUN_AI_DESC:0 "Ungarn nimmt den kommunistischen Revolutionsrat blablabla, es ist sowieso immer die gleiche Art von Text. Sogar Béla Kun kann unter bestimmten Bedingungen der Führer werden, viel Spaß damit."
-  ""
+
 
 
  #-> ITA: Italy <><> ""
@@ -373,10 +373,10 @@
  RULE_OPTION_FASCIST_TUR_AI_DESC:0 "Die türkische KI wird faschistische Offiziere unterstützen, was zu einer faschistischen Diktatur und einer engen Zusammenarbeit mit Deutschland und einem möglichen Beitritt zur Achse führen wird."
  RULE_OPTION_ATATURK_HISTORICAL:0 "Atatürks Erbe - historisch"
  RULE_OPTION_ATATURK_HISTORICAL_TUR_AI_DESC:0 "Die türkische KI wird das Erbe Atatürks bekräftigen und sich auf die Neutralität konzentrieren, indem sie mehrere Pakte mit anderen Nationen unterzeichnet."
-  ""
+
  #-> YUG: Yugoslavia <><> ""
  RULE_OPTION_COMMUNIST_YUG_AI_DESC:0 "Die jugoslawische KI wird unter Tito zum Kommunismus übergehen und der Komintern beitreten."
-  ""
+
  ###---> Map Setup <><> <><> <><> ""
  RULE_GROUP_GAME_SETUP:0 ""Map Setup" #nicht nur Fragmentierung (mehr)"
  RULE_GROUP_STARTING_CORES_SETUP:0 "Freisetzbare Kerne"
@@ -400,7 +400,7 @@
  RULE_OPTION_MICRONATIONS_PLAY_MNC_DESC:0 "Um als @MNC Monaco zu spielen, wähle @YEM Jemen als Startnation."
  RULE_OPTION_MICRONATIONS_PLAY_LIE:0 "Micronations Exist - Spielen Sie als @LIE Liechtenstein"
  RULE_OPTION_MICRONATIONS_PLAY_LIE_DESC:0 "Um als @LIE Liechtenstein zu spielen, wähle @YEM Jemen als Startnation."
-  ""
+
  #adding flags base game titles ""
  ENG_FRAGMENTATION_STATUS:0 "@ENG Vereinigtes Königreich Fragmentierungsstatus"
  YUG_FRAGMENTATION_STATUS:0 "@YUG Jugoslawien Fragmentierungsstatus"
@@ -495,7 +495,7 @@
  RULE_OPTION_KUR_LIBERATED_IRQ_SWITCH:0 "Um Kurdistan zu spielen, wähle Irak"
  RULE_OPTION_KUR_LIBERATED_IRQ_SWITCH_DESC:0 "Um Kurdistan zu spielen, wählen Sie den Irak, Sie werden jedoch 0 Fabriken haben."
  CENTRAL_AMERICA_UNIFICATION_STATUS:0 "@HON Zentralamerika Vereinigungsstatus"
-  ""
+
  HISPANOAMERICA_UNIFICATION_STATUS:0 "Hispanoamérica Vereinigungsstatus"
 
  SCANDINAVIA_UNIFICATION_STATUS:0 "Skandinavien Vereinheitlichung Status"
@@ -515,7 +515,7 @@
  RULE_OPTION_CHINA_UNIFICATION_PRC_DESC:0 "Das kommunistische China hat die Kriegsherren vereinigt."
  RULE_OPTION_CHINA_UNIFICATION_NO_WARLORDS:0 "Kommunistisch-nationalistische Spaltung"
  RULE_OPTION_CHINA_UNIFICATION_NO_WARLORDS_DESC:0 "China ist zwischen dem nationalistischen Süden und dem kommunistischen Norden gespalten, wobei keine Kriegsherren zwischen ihnen stehen."
-  ""
+
  RULE_OPTION_CHINA_UNIFICATION_CHI_TOTAL_CONCESSIONS:0 "Nationalistische Vereinheitlichung"
  RULE_OPTION_CHINA_UNIFICATION_CHI_TOTAL_CONCESSIONS_DESC:0 "Das nationalistische China hat das gesamte chinesische Kerngebiet mit Ausnahme der konzessionierten Häfen Hongkong, Macau, Gangzhouwan und der japanisch kontrollierten Staaten Taiwan und Dalian vereinigt."
  RULE_OPTION_CHINA_UNIFICATION_PRC_TOTAL_CONCESSIONS:0 "Kommunistische Wiedervereinigung"
@@ -524,7 +524,7 @@
  RULE_OPTION_CHINA_UNIFICATION_MAN_TOTAL_CONCESSIONS_DESC:0 "Mandschukuo hat das gesamte chinesische Kerngebiet abzüglich der konzessionierten Häfen von Hongkong, Macao, Gangzhouwan und der japanisch kontrollierten Staaten Taiwan und Dalian vereinigt, wobei die entsprechenden Schwerpunkte bereits festgelegt wurden."
  RULE_OPTION_CHINA_UNIFICATION_MAN_TOTAL_CONCESSIONS_ASSERTIVENESS:0 "Qing-Vereinigung"
  RULE_OPTION_CHINA_UNIFICATION_MAN_TOTAL_CONCESSIONS_ASSERTIVENESS_DESC:0 "Mandschukuo hat das gesamte chinesische Kerngebiet als unabhängiges Qing-Reich abzüglich der konzessionierten Häfen von Hongkong, Macao, Gangzhouwan und der japanisch kontrollierten Staaten Taiwan und Dalian mit den entsprechenden Schwerpunkten vereinigt."
-  ""
+
  RULE_OPTION_CHINA_UNIFICATION_CHI_TOTAL:0 "Nationalistische Totalvereinigung"
  RULE_OPTION_CHINA_UNIFICATION_CHI_TOTAL_DESC:0 "Das nationalistische China hat das gesamte chinesische Kerngebiet, einschließlich der mit Japan verbündeten Staaten, vereinigt."
  RULE_OPTION_CHINA_UNIFICATION_PRC_TOTAL:0 "Kommunistische totale Wiedervereinigung"
@@ -533,7 +533,7 @@
  RULE_OPTION_CHINA_UNIFICATION_MAN_TOTAL_DESC:0 "Mandschukuo hat das gesamte chinesische Kerngebiet abzüglich des japanisch kontrollierten Taiwans vereinigt, wobei die entsprechenden Schwerpunkte bereits festgelegt wurden."
  RULE_OPTION_CHINA_UNIFICATION_MAN_TOTAL_ASSERTIVENESS:0 "Vollständige Vereinigung der Qing"
  RULE_OPTION_CHINA_UNIFICATION_MAN_TOTAL_ASSERTIVENESS_DESC:0 "Mandschukuo hat das gesamte chinesische Kerngebiet als unabhängiges Qing-Reich vereinigt, wobei die entsprechenden Schwerpunkte bereits gesetzt wurden."
-  ""
+
  RULE_OPTION_CHINA_UNIFICATION_CHI_1912_CONCESSIONS:0 "Grenzen von 1912 + Zugeständnisse CHI"
  RULE_OPTION_CHINA_UNIFICATION_CHI_1912_CONCESSIONS_DESC:0 "Das nationalistische China hat das gesamte chinesische Kerngebiet mit Ausnahme der konzessionierten Häfen Hongkong, Macao, Guangzhouwan und der japanisch kontrollierten Staaten Taiwan und Dalian vereinigt und die beanspruchten Gebiete der Mongolei und Tannu Tuva annektiert."
  RULE_OPTION_CHINA_UNIFICATION_PRC_1912_CONCESSIONS:0 "Grenzen von 1912 + Zugeständnisse VR China"
@@ -542,7 +542,7 @@
  RULE_OPTION_CHINA_UNIFICATION_MAN_1912_CONCESSIONS_DESC:0 "Mandschukuo hat das gesamte chinesische Kerngebiet mit Ausnahme der konzessionierten Häfen Hongkong, Macau, Guangzhouwan und der japanisch kontrollierten Staaten Taiwan und Dalian vereinigt und die beanspruchten Gebiete der Mongolei, Tannu Tuva und Arunachal Pradesh annektiert, wobei die entsprechenden Schwerpunkte bereits gesetzt wurden."
  RULE_OPTION_CHINA_UNIFICATION_MAN_1912_CONCESSIONS_ASSERTIVENESS:0 "Grenzen von 1912 + Zugeständnisse Qing"
  RULE_OPTION_CHINA_UNIFICATION_MAN_1912_CONCESSIONS_ASSERTIVENESS_DESC:0 "Mandschukuo hat das gesamte chinesische Kerngebiet mit Ausnahme der Konzessionshäfen Hongkong, Macau, Guangzhouwan und der japanisch kontrollierten Staaten Taiwan und Dalian vereinigt und die beanspruchten Gebiete der Mongolei, Tannu Tuva und Arunachal Pradesh annektiert, wobei die entsprechenden Schwerpunkte bereits fertiggestellt sind."
-  ""
+
  RULE_OPTION_CHINA_UNIFICATION_CHI_1912:0 "Die Grenzen von 1912 - Nationalisten"
  RULE_OPTION_CHINA_UNIFICATION_CHI_1912_DESC:0 "Das nationalistische China hat das gesamte chinesische Kerngebiet sowie die beanspruchten Gebiete in der Mongolei, in Tannu Tuva und in Arunachal Pradesh vereinigt."
  RULE_OPTION_CHINA_UNIFICATION_PRC_1912:0 "Die Grenzen von 1912 - Kommunisten"
@@ -551,10 +551,10 @@
  RULE_OPTION_CHINA_UNIFICATION_MAN_1912_DESC:0 "Mandschukuo hat das gesamte chinesische Kerngebiet abzüglich des japanisch kontrollierten Taiwans vereinigt und die beanspruchten Gebiete der Mongolei, Tannu Tuva und Arunachal Pradesh annektiert, wobei die entsprechenden Schwerpunkte bereits festgelegt wurden."
  RULE_OPTION_CHINA_UNIFICATION_MAN_1912_ASSERTIVENESS:0 "Die Grenzen von 1912 - Qing"
  RULE_OPTION_CHINA_UNIFICATION_MAN_1912_ASSERTIVENESS_DESC:0 "Mandschukuo hat die Gesamtheit der chinesischen Kerngebiete als unabhängiges Qing-Reich vereinigt sowie die beanspruchten Gebiete der Mongolei, Tannu Tuva und Arunachal Pradesh mit den entsprechenden vorbereiteten Schwerpunkten."
-  ""
+
  RULE_OPTION_CHINA_UNIFICATION_MAN_QING_ASSERTIVENESS:0 "Qing - Äußere Mandschurei"
  RULE_OPTION_CHINA_UNIFICATION_MAN_QING_ASSERTIVENESS_DESC:0 "Mandschukuo hat China als unabhängiges Qing-Imperium vollständig geeint, einschließlich seiner Kerngebiete sowie der beanspruchten Gebiete der Mongolei, Tannu Tuva, Arunachal Pradesh, Sachalin und Amur (Ostrussland) und der europäischen Konzessionen unter mandschurischer Kontrolle, wobei die entsprechenden Schwerpunkte für die kaiserlichen Kerne und das Erscheinungsbild bereits fertig gestellt sind."
-  ""
+
  GER_FRAGMENTATION_STATUS:0 "@GER Deutschland Fragmentierungsstatus"
  RULE_OPTION_GER_FRAGMENTED:0 "Deutschland Fragmentiert"
  RULE_OPTION_GER_FRAGMENTED_DESC:0 "Bei Spielstart werden alle freischaltbaren Teilstaaten Deutschlands als freie und unabhängige Nationen freigeschaltet."
@@ -615,7 +615,7 @@
  RULE_ALLOW_NATIONAL_CHARACTERS_ALLOWED_DESC:0 "Länder können Nationale Charaktere verwenden."
  RULE_ALLOW_NATIONAL_CHARACTERS_BLOCKED_DESC:0 "Länder können keine Nationalcharaktere verwenden."
  NATIONAL_CHARACTERS_BLOCKED:0 "Nationale Charaktere Deaktiviert"
-  ""
+
  RULE_EXTRA_OPERATIVES:0 "Anzahl der Agenten"
  RULE_OPTION_DEFAULT_EXTRA_OPERATIVES_DESC:0 "Die Anzahl der Spione richtet sich nach den Standardeinstellungen."
  RULE_OPTION_ONE_EXTRA:0 "Ein zusätzlicher Spion"
@@ -658,7 +658,7 @@
  RULE_OPTION_ALL_MAJORS_AND_STRONG_MINORS_DESC:0 "Majors und viele Minors beginnen mit einem Geheimdienst."
  RULE_OPTION_ALL_COUNTRIES:0 "Alle Länder"
  RULE_OPTION_ALL_COUNTRIES_DESC:0 "Jedes Land beginnt das Spiel mit einem Geheimdienst."
-  ""
+
  RULE_SPECIAL_FORCES_LIMIT:0 "Anzahl der Spezialeinheiten"
  RULE_OPTION_DEFAULT_SPECIAL_FORCES_DESC:0 "Standard."
  RULE_OPTION_100_SPECIAL_FORCES:0 "Anzahl der Divisionen +10000%"

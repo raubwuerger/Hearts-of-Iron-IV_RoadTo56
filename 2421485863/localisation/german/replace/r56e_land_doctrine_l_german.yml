@@ -84,8 +84,8 @@ force_concentration:0 "Konzentration der Kräfte"
 force_concentration_desc:0 "Die Konzentration einer militärischen Streitkraft in der Weise, dass sie eine überwältigende Kraft gegen einen Teil der gegnerischen Streitkräfte ausübt, kann aufgrund des erheblichen Unterschieds zwischen den beiden Streitkräften wie ein Kräftevervielfacher wirken."
 tactical_command:0 "Taktisches Kommando"
 tactical_command_desc:0 "Die einem Befehlshaber übertragene Befugnis, den ihm unterstellten Kräften Aufgaben zuzuweisen, um den von einer höheren Instanz zugewiesenen Auftrag zu erfüllen."
-  ""
-  ""
+
+
 ASYMMETRICAL_WARFARE_DOCTRINE:0 "Asymmetrische Kriegsführung"
 ASYMMETRICAL_WARFARE_DOCTRINE_DESC:0 "Gegen überlegene Armeen müssen wir unsere Feinde taktisch überlisten und sie dafür bezahlen lassen, dass sie in unserem Heimatland kämpfen."
 cat_r56_guerilla_warfare:0 "Doktrin der asymmetrischen Kriegsführung"

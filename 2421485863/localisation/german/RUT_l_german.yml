@@ -11,8 +11,8 @@
  RUT_neutrality_party_long:0 "Orhanizatsiya Ukrayins'kykh Natsionalistiv-M (Orhanizatsiya Ukrayins'kykh Natsionalistiv-M) "
  RUT_communism_party:0 "NRZU"
  RUT_communism_party_long:0 "Narodnoyi Rady Zakarpatskoyi Ukrayiny"
-  ""
-  ""
+
+
  RUT_stepan_rosokha:0 "Stepan Rosokha"
  RUT_andrej_brodij:0 "Andrej Brodij"
  RUT_stepan_klochurak:0 "Stepan Klochurak"
@@ -37,7 +37,7 @@
  RUT_roman_chukhevytch:0 "Roman Tschuchewytsch"
  RUT_navy_devisive_battle:0 "Oberster Admiral"
 
-  ""
+
  RUT_idea_oun_militias:0 "OUN-Milizen"
  RUT_idea_conscript_management:0 "Verwaltung der Wehrpflichtigen"
  RUT_idea_hungarian_advisors:0 "Ungarische Berater"
@@ -46,11 +46,11 @@
  RUT_military_government:0 "OUN-Militärregierung"
  RUT_ukrainian_revanchism_focus:0 "Ukrainischer Revanchismus"
  RUT_underground_gun_shops:0 "Feuerwaffenwerkstätten im Untergrund"
-  ""
+
  RUT_trade_treaty_with_hungary:0 "Ruthenisch-magyarischer Handel"
  RUT_ROM_diplomacy_focus:0 "Ruthenisch-Rumänische Beziehungen"
  RUT_POL_diplomacy_focus:0 "Ruthenisch-Polnische Beziehungen"
-  ""
+
  #military ""
  RUT_carpathian_sich:0 "Die Karpatensich bilden"
  RUT_carpathian_sich_desc:0 "Es ist an der Zeit, dass wir eine nationale Kampftruppe organisieren. Dieser Embryo einer Armee wird "Sich" genannt, wie die Freiwilligen der Westukrainischen Republik. "
@@ -86,7 +86,7 @@
  RUT_special_forces_desc:0 "Manchmal wird die Situation für den normalen Infanteristen zu speziell. In solchen Situationen müssen speziell ausgebildete Männer die Aufgabe übernehmen. In den Bergen, zu Wasser oder in der Luft können diese Spezialtruppen etwas bewirken und Heldentaten vollbringen, die weit über das hinausgehen, was ein normaler Soldat leisten kann."
  RUT_military_modernization:0 "Militärische Modernisierung"
  RUT_military_modernization_desc:0 "Nachdem wir nun alle Techniken der modernen Kriegsführung beherrschen, dürfen wir nicht stehen bleiben, sondern müssen unsere Anstrengungen fortsetzen. Nur wenn wir unsere Praktiken und unsere Ausrüstung ständig auf ihre Gültigkeit und Wirksamkeit hin überprüfen, können wir sie langfristig verbessern. "
-  ""
+
  #aviation - naval ""
  RUT_short_range_fighter_focus:0 "Kurzstreckenjäger"
  RUT_short_range_fighter_focus_desc:0 "Da unser Gebiet klein ist, müssen wir nicht sehr weit fliegen, um für die Sicherheit unseres Luftraums zu kämpfen. Deshalb können wir uns auf kleine und wendige Kampfflugzeuge konzentrieren."
@@ -100,7 +100,7 @@
  RUT_compromised_approach_desc:0 "Wenn wir genügend Bomben auf feindliche Divisionen abwerfen können, werden wir sie in die Luft jagen. Wenn wir jedoch dieselben Bomben auf die gegnerischen Fabriken werfen, können wir ihre Kampfkraft lähmen. "
  RUT_form_mechanics:0 "Form-Mechanik"
  RUT_form_mechanics_desc:0 "Was macht es schon für einen Unterschied, ob ein Flugzeug durch feindliche Kugeln oder durch einen plötzlichen Motorbrand abgeschossen wird oder ob es aufgrund eines mechanischen Defekts flugunfähig ist, wenn wir es nicht reparieren können?  Um das Risiko mechanischer Ausfälle zu verringern, besteht die einzige Lösung darin, engagierte und gut ausgebildete Mechaniker zu beschäftigen, die das Innere der Flugzeuge besser kennen als ein Chirurg die Anatomie."
-  ""
+
  RUT_aviation_effort:0 "Die Flugschule gefunden"
  RUT_aviation_effort_tt:0 "Nicht genug Bauplätze für §YAir Base§!"
  RUT_aviation_effort_desc:0 "Nirgendwo ist der technologische Fortschritt so rasant wie in der Luftkriegsführung. Die Luftfahrt ist ein Bereich, den jede moderne Nation beherrschen muss."
@@ -132,7 +132,7 @@
  RUT_destroyer_effort_desc:0 "Durch das Studium der Konstruktion und des strategischen Einsatzes von U-Booten haben wir auch gelernt, wie man diesen Strategien begegnen kann. Zerstörer werden dafür entscheidend sein."
  RUT_capital_ships_effort:0 "Interesse an Großkampfschiffen"
  RUT_capital_ships_effort_desc:0 "Die Nation mit den meisten Schlachtschiffen wird die Weltmeere beherrschen. Schlachtschiffe und Flugzeugträger stehen für die alte und die neue Überlegenheit der Seestreitkräfte. "
-  ""
+
  #industry ""
  RUT_food_processing_plant:0 "Nahrungsmittelverarbeitungsanlagen"
  RUT_food_processing_plant_desc:0 "Da die Landwirtschaft derzeit die Grundlage unserer Wirtschaft ist, wäre es der beste Weg, die Industrialisierung einzuleiten, indem man sicherstellt, dass die Produkte unseres Landes für die Lagerung und den Verkauf auf in- und ausländischen Märkten bereit sind. "
@@ -153,7 +153,7 @@
  RUT_military_production_desc:0 "Um den Gefahren des Krieges zu begegnen, reichen Gewehre nicht aus und wir müssen ehrgeizigere Pläne in Betracht ziehen, um unsere Streitkräfte auszurüsten."
  RUT_research_grants:0 "Forschungsgelder"
  RUT_research_grants_desc:0 "Wir müssen uns vielleicht auf einige wenige Spezialisten verlassen, aber zumindest können wir sie gut genug finanzieren, um eine moderne, funktionierende Bewaffnung für unsere Soldaten zu entwickeln."
-  ""
+
  #Politics ""
  RUT_a_free_rusyn_state:0 "Ein freier rusinischer Staat"
  RUT_a_free_rusyn_state_desc:0 "Manche nannten uns Tschechoslowaken, manche nannten uns Ukrainer. Es stimmt zwar, dass wir Brüder der Ukrainer sind, aber wir sind nicht ganz wie sie. Wir sind Rusinen, die letzten der Ruthenen. Die letzten, die noch frei sind, vorerst."
@@ -230,7 +230,7 @@
  RUT_restore_civilian_government:0 "Wiederherstellung einer zivilen Regierung"
  RUT_restore_civilian_government_desc:0 "Jetzt, da die wichtigsten Ziele erreicht sind, müssen wir ein demokratisches Organ wiederherstellen, um sicherzustellen, dass die Institutionen nach dem Ende des Krieges nicht missbraucht werden. "
  RUT_ukraine_has_not_yet_perished2:0 ""Die Ukraine ist noch nicht untergegangen" RUT_ukraine_has_not_yet_perished2_desc:0 "Dieses populäre Motto des Nationalismus muss sowohl als Warnung vor der möglichen Zerstörung unseres Staates dienen als auch als Licht der Hoffnung in diesen dunklen Zeiten, um zu zeigen, dass wir noch leben, stolz und frei sind."
-  ""
+
  RUT_approach_poland:0 "Annäherung an Polen"
  RUT_approach_poland_desc:0 "Wir haben enge Beziehungen zur ukrainischen Minderheit im Süden Polens und müssen alle verfügbaren Mittel nutzen, um die polnische Regierung davon zu überzeugen, dass es in ihrem Interesse ist, sich mit uns zu verbünden."
  RUT_approach_romania:0 "Annäherung an Rumänien"
@@ -263,7 +263,7 @@
  RUT_technology_sharing_oun_desc:0 "Um die Bemühungen der zahlreichen Werkstätten, die mit verschiedenen Prototypen experimentieren, zu koordinieren, müssen wir ihre Zusammenarbeit in einem größeren Rahmen organisieren, der es den klügsten Köpfen der Nation ermöglicht, ihre Ideen zum Wohle aller Ukrainer effizienter zu teilen. "
  RUT_technology_sharing_no_claims:0 "Gemeinsame Nutzung von Technologie"
  RUT_technology_sharing_no_claims_desc:0 "Um in einer sich schnell verändernden Welt nicht ins Hintertreffen zu geraten, müssen wir unsere Zusammenarbeit mit unseren Verbündeten verstärken und den Zugang zu wertvollen technischen Dokumenten von ihnen sicherstellen. "
-  ""
+
  RUT_carpathian_sich_tooltip:0 "Schaffung von 2 kleinen Infanteriedivisionen"
 
  RUT_national_unification:0 "Nationale Wiedervereinigung"

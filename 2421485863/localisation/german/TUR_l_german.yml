@@ -8,15 +8,15 @@
  TUR_allow_women_in_the_airforce:0 "Frauen in der Luftwaffe zulassen"
  cakmak_line:0 "Çakmak-Linie"
  expand_the_soviet_turkish_borderdefenses:0 "Stärkung der Kars-Linie"
-  ""
+
  r56_TUR_turkish_revanchism:0 "Türkischer Revanchismus"
  r56_TUR_turkish_revanchism_desc:0 "Trotz aller Widrigkeiten führte der Wille der Großen Nationalversammlung die Türkei zum Sieg über die Regionalmächte und sicherte unser dauerhaftes Recht auf Nationalität. Trotz des Werks von Atatürk kontrollieren andere Nationen Teile unseres rechtmäßigen Landes. Frei und sicher, müssen wir allein über die Zukunft unserer territorialen Ansprüche entscheiden."
  TUR_unlocks_integration_decisions_tt:0 "Entfesselt §YIntegrationsentscheidungen§!, sobald wir es vollständig besitzen und kontrollieren."
  pan_turkic_propaganda:0 "Pan-türkische Propaganda"
-  ""
+
  r56_TUR_press_the_hatay_issue:0 "Drücken Sie die Hatay-Frage"
  r56_TUR_press_the_hatay_issue_desc:0 "Während die Konferenz von Lausanne viele unserer territorialen Probleme löste, blieb die Frage der rechtmäßig türkischen Provinz Hatay auf einem ungleichen Status quo. Jetzt, da die Spannungen in Europa wieder zunehmen, können wir vielleicht die Unsicherheit in eine Chance verwandeln und Hatay friedlich zurückgewinnen."
-  ""
+
  r56_TUR_claim_mosul:0 "Anspruch auf Mosul"
  r56_TUR_claim_mosul_desc:0 "Der Vertrag von Ankara aus dem Jahr 1926 besiegelte den Verlust der historisch türkischen Provinz Mosul an das neu gegründete Königreich Irak. Die Zeiten haben sich geändert, und dies ist eine Realität, die wir nicht länger akzeptieren können. Mosul war immer türkisch und wird es immer bleiben!"
  r56_TUR_connect_mosul:0 "Mosul verbinden"
@@ -25,14 +25,14 @@
  r56_kurdish_agitation:0 "Kurdischer Separatismus"
  TUR_mosul_integratable_tt:0 "Entriegelt die Entscheidung: §YMosul integrieren§!."
  r56_TUR_integrate_mosul:0 "Mosul eingliedern"
-  ""
+
  r56_TUR_claim_azerbaijan:0 "Aserbaidschan beanspruchen"
  r56_TUR_claim_azerbaijan_desc:0 "Das Volk von Aserbaidschan hat lange genug unter Moskaus Stiefel gelitten. Als Bismark der türkischen Völker werden wir unsere nationalen Brüder sofort von ihren Unterdrückern befreien!"
  r56_TUR_baku_pan_turk_propaganda:0 "Pan-türkische Propaganda (Aserbaidschan)"
  r56_TUR_connect_baku:0 "Baku verbinden"
  TUR_azerbaijan_integratable_tt:0 "Schaltet die Entscheidung frei: §YAserbaidschan integrieren§!."
  r56_TUR_integrate_azerbaijan:0 "Aserbaidschan integrieren"
-  ""
+
  r56_TUR_unshackle_tabriz:0 "Entfesseln Sie Täbris"
  r56_TUR_unshackle_tabriz_desc:0 "Die aserbaidschanische Diaspora von Täbris und seiner Umgebung ist schon lange genug Opfer der Zentralisierungsbestrebungen aus Teheran geworden. Die große Stadt Täbris und ihr ehrbares Volk sollen von ihren langjährigen Unterdrückern befreit werden!"
  r56_TUR_tabriz_pan_turk_propaganda:0 "Pan-türkische Propaganda (Täbris)"
@@ -40,12 +40,12 @@
  TUR_tabriz_integratable_tt:0 "Schaltet die Entscheidung frei: §YTabriz integrieren§!."
  has_completed_decision_connect_tabriz_tt:0 "Hat Entscheidung §YTabriz verbinden§! abgeschlossen."
  r56_TUR_integrate_tabriz:0 "Tabriz integrieren"
-  ""
+
  r56_TUR_claim_crimea:0 "Befreit die Krimtataren!"
  r56_TUR_claim_crimea_desc:0 "Die Tataren der Krim haben lange genug unter Moskaus Stiefel gelitten. Krimtataren, eure Befreiung ist nah!"
  r56_TUR_crimea_pan_turk_propaganda:0 "Pan-türkische Propaganda (Krim)"
  r56_TUR_integrate_crimea:0 "Integriert die Krim"
-  ""
+
  r56_TUR_reclaim_thrace:0 "Thrakien zurückerobern"
  r56_TUR_reclaim_thrace_desc:0 "Trotz allem, was geschehen ist, gibt es in der bald griechischen Provinz Thrakien auch heute noch eine große türkische Minderheit. Wir werden diese Gebiete sofort zurückerobern!"
  r56_TUR_invite_thracian_resettlement:0 "Türkische Siedler einladen (Thrakien)"
@@ -55,11 +55,11 @@
  r56_TUR_reclaim_cyprus_desc:0 "Die Insel Zypern war lange Zeit Teil des Osmanischen Reiches und beherbergt noch heute eine bedeutende türkische Minderheit. Ob aus London, Athen oder sonst woher, wir werden die Besetzung unseres Volkes nicht länger hinnehmen!"
  r56_TUR_invite_settlers_to_cyprus:0 "Türkische Siedler einladen (Zypern)"
  r56_TUR_integrate_cyprus:0 "Zypern integrieren"
-  ""
+
  TUR_lingering_unrest:0 "Anhaltende Unruhen"
-  ""
+
  r56_TUR_connect_van:0 "Van verbinden"
-  ""
+
  unlocks_bolstering_our_armed_forces_decisions_tt:0 "Schaltet Entscheidungen zur §YVerstärkung unserer Streitkräfte§! frei"
  unlocks_fortification_decisions_tt:0 "Schaltet Entscheidungen zum §YBau von Befestigungen§! entlang der griechischen und sowjetischen Grenzen frei."
  TUR_logistical_advancements_tt:0 "Wenn §YMotorisierte Infanterie§! erforscht wird, wird eine weitere Auszeichnung vergeben"
@@ -67,34 +67,34 @@
  fortifies_all_provinces_against_SOV_tt:0 "Fügt zwei §YForts§! und eine Stufe von §YAnti-Air§! in jeder Provinz an der Grenze zur §YSowjetunion§! hinzu"
  fortifies_all_provinces_edirne_tt:0 "Fügt zwei §YForts§! und eine Stufe von §YAnti-Air§! in jeder §YEdirne§! Provinz hinzu, die an §YGriechenland§! und §YBulgarien§! grenzt"
  has_researched_delay_tt:0 "Hat §YVerzögerung§! erforscht"
-  ""
+
  unlocks_drill_decisions_tt:0 "Schaltet §YSchürfen nach Öl§! Entscheidungen frei"
  r56_TUR_drill_diyakbir:0 "Bohrung Diyakbir"
  r56_TUR_drill_hakkari:0 "Bohrung Hakari"
-  ""
+
  r56_TUR_foreign_policy:0 "Außenpolitik"
-  ""
+
  r56_TUR_the_saadabad_pact:0 "Der Saadabad-Pakt"
  r56_TUR_the_saadabad_pact_desc:0 "Der Ausbau der Beziehungen zu unseren östlichen Nachbarn ist für uns von großem Vorteil. Die Freundschaft, die wir aufgebaut haben, zu formalisieren und für alle sichtbar zu kodifizieren, ist eine Initiative, zu der wir niemals Nein sagen können."
-  ""
+
 
  turkish_focus_r56:0 "Türkischer nationaler Fokus"
-  ""
+
  TUR_continue_the_push_for_autarky:0 "Weiterer Vorstoß in Richtung Autarkie"
  TUR_continue_the_push_for_autarky_desc:0 "Die wirtschaftliche Abhängigkeit des Osmanischen Reiches von ausländischen Mächten war eine entscheidende Schwäche in seinen späteren, schwächelnden Jahren. Eine Türkei, die ausschließlich vom türkischen Volk abhängig ist, ist der beste Weg zu einer dauerhaften Unabhängigkeit von den westlichen Mächten."
-  ""
+
  TUR_expand_the_aegean_economic_heartland:0 "Das wirtschaftliche Kernland der Ägäis ausbauen"
  TUR_expand_the_aegean_economic_heartland_desc:0 "Die ägäischen Regionen sind seit langem der reichste Teil der Türkei. Auch wenn dies nicht zu den ursprünglichen Plänen gehört, würden weitere Investitionen in ihre Wirtschaft die Nation als Ganzes stärken."
-  ""
+
  TUR_expand_the_bursa_textile_industry:0 "Ausweitung der Textilindustrie in Bursa"
  TUR_expand_the_bursa_textile_industry_desc:0 "Die Ägäisregion Bursa hat sich eine beeindruckende Textilindustrie aufgebaut. Als wichtiges Gut sollten wir die Entwicklung der Textilindustrie in Bursa weiter fördern."
-  ""
+
  TUR_expand_the_izmir_cement_industry:0 "Ausbau der Zementindustrie in Izmir"
  TUR_expand_the_izmir_cement_industry_desc:0 "Die Ägäisregion Izmir hat eine starke Zementindustrie aufgebaut. Wir sollten die Entwicklung der Zementindustrie weiter fördern, um die Bauindustrie im ganzen Land zu stärken."
-  ""
+
  TUR_middle_east_institute_of_technology:0 "Technisches Institut für den Nahen Osten"
  TUR_middle_east_institute_of_technology_desc:0 "Die rasche Industrialisierung unseres Landes hat neue Möglichkeiten in Forschung und Entwicklung eröffnet, die wir nutzen sollten. Mit einer fortschrittlichen technischen Universität im Herzen unseres Landes können wir mehr Forschung betreiben."
-  ""
+
  TUR_connecting_the_eastern_provinces:0 "Anbindung der östlichen Provinzen"
  TUR_connecting_the_eastern_provinces_desc:0 "Zentral- und Ostanatolien sind im Vergleich zu unseren westlichen Provinzen verarmt. Die Entwicklung dieser Provinzen, damit sie mit dem Rest unseres Landes gleichziehen, ist für die Vereinigung der Nation von größter Bedeutung."
    ""
@@ -105,55 +105,55 @@
  TUR_village_institutes_program_desc:0 "Unsere östlichen Provinzen waren ein ständiges Hindernis für die Zentralisierung der Nation. Von der Regierung finanzierte Einrichtungen, die die soziale und wirtschaftliche Entwicklung in den ländlichen Gemeinden lenken sollen, können die regionalen Unterschiede in der Türkei weit überbrücken."
  TUR_village_institutes_focus_days_tt:0 "Es sind 400 oder mehr Tage vergangen, seit der Fokus §YVillage Institutes Program§! abgeschlossen wurde"
  TUR_village_institutes_focus_current_days_tt:0 "Die aktuellen Tage sind: [?TUR_village_institutes_flag:days|Y0]"
-  ""
+
  TUR_eradicate_rural_illiteracy:0 "Ländliches Analphabetentum ausrotten"
  TUR_eradicate_rural_illiteracy_desc:0 "Das Village Instute Programm hat sich bisher als erfolgreich erwiesen. Eine weitere Finanzierung dieses Programms würde eindeutig auf eine wirksame Bildung für unsere Landbevölkerung hinauslaufen."
-  ""
+
  TUR_black_sea_grain_exports:0 "Getreideexporte aus dem Schwarzen Meer"
  TUR_black_sea_grain_exports_desc:0 "Die Schwarzmeerregion wird von ihrer Agrarindustrie dominiert. Wir sollten alles in unserer Macht stehende tun, um diese nördlichen Provinzen zu einer regionalen Kornkammer zu machen."
-  ""
+
  TUR_expand_the_central_railway_networks:0 "Das zentrale Eisenbahnnetz ausbauen"
  TUR_expand_the_central_railway_networks_desc:0 "Die Eisenbahn ist ein entscheidender Bestandteil jeder westlichen Nation. Wir müssen jede Ecke unserer Nation näher zusammenbringen."
-  ""
+
  TUR_exploit_the_sivas_iron_mines:0 "Ausbeutung der Sivas-Minen"
  TUR_exploit_the_sivas_iron_mines_desc:0 "Die Region von Sivas ist reich an Eisenerz und Kupfer. Die Ausbeutung dieser fruchtbaren Region wird für unsere Nation von großem Nutzen sein."
-  ""
+
  TUR_central_anatolian_heavy_industry:0 "Schwerindustrie in Zentralanatolien"
  TUR_central_anatolian_heavy_industry_desc:0 "Die Schwerindustrie erweist sich als wichtiger Faktor für den wirtschaftlichen Aufschwung der Türkei. Türkischer Stahl, Chemikalien und Schiffbaumaterialien können eindeutig ihren Platz auf dem internationalen Markt finden."
-  ""
+
  TUR_support_malatya_raw_exports:0 "Unterstützung der Rohexporte aus Malatya"
  TUR_support_malatya_raw_exports_desc:0 "Die Südostküste hat das Potenzial, aufgrund ihrer großen natürlichen Ressourcen zu einem wichtigen regionalen Handelszentrum zu werden. Wir sollten die Infrastruktur in diesem Gebiet ausbauen, um dies zu unterstützen."
-  ""
+
  TUR_expand_the_ergani_copper_industry:0 "Ausweitung der Kupferindustrie in Ergani"
  TUR_expand_the_ergani_copper_industry_desc:0 "Die Kupferexporte in Ergani haben das Potenzial, ein wichtiger Bestandteil der türkischen Wirtschaft zu werden. Wir sollten dies ermöglichen."
-  ""
+
  TUR_drill_southeast_anatolia:0 "Bohrungen in Südostanatolien"
  TUR_drill_southeast_anatolia_desc:0 "Große Teile des Nahen Ostens haben sich als reich an Ölreserven erwiesen. Sicherlich können auch wir eine nationale Ölindustrie entwickeln."
-  ""
+
  TUR_expand_the_eastern_railway_networks:0 "Das östliche Eisenbahnnetz ausbauen"
  TUR_expand_the_eastern_railway_networks_desc:0 "Bei der Anbindung der östlichen Provinzen Anatoliens gibt es noch viel zu tun. Es sollten weitere Mittel für den Ausbau der Eisenbahnlinien in unseren ärmeren Regionen bereitgestellt werden."
-  ""
+
  TUR_develop_the_new_capital:0 "Entwicklung der neuen Hauptstadt"
  TUR_develop_the_new_capital_desc:0 "Ankara, die Heimat unseres Überlebenskampfes, hat ihren Platz als Hauptstadt unserer jungen Republik mehr als verdient. Die Angleichung der Wirtschaft der Stadt an ihre lange osmanische Zeit ist ein wichtiger Schritt zur nationalen Verjüngung der Türkei."
-  ""
+
  TUR_the_industrialization_of_central_anatolia:0 "Die Industrialisierung Zentralanatoliens"
  TUR_the_industrialization_of_central_anatolia_desc:0 "Um die Türkei zu einer einheitlichen Nation zu machen, ist die Industrialisierung ganz Anatoliens eine absolute Notwendigkeit."
-  ""
+
  TUR_tenmak:0 "Gründung der TAEK"
  TUR_tenmak_desc:0 "Die Nationen im Westen setzen zunehmend auf die Kernspaltung als unglaubliche Energiequelle, sowohl für den Frieden als auch zur Abschreckung. Wir können es uns nicht leisten, in diesem entscheidenden Bereich ins Hintertreffen zu geraten."
-  ""
+
  TUR_funds_for_the_national_struggle:0 "Mittel für den nationalen Kampf"
  TUR_funds_for_the_national_struggle_desc:0 "Die Welt bewegt sich einmal mehr in eine gefährliche Richtung. Während die Europäer sich selbst zerfleischen, muss sich die Türkei auf eine eigene Front in jedem Konflikt vorbereiten. Die Türken kennen die Kosten des Krieges besser als die meisten anderen, und wir werden bereit sein."
 
  TUR_village_institute_program:0 "Programm für Dorfinstitute"
  TUR_village_institute_program_desc:0 "Ländliche Regionen in der Türkei stehen vor einigen besonderen Herausforderungen. Viele in der Regierung haben die Schaffung eines "Dorfinstituts"-Programms vorgeschlagen, um die Bedürfnisse der ländlichen Zentren zu behandeln, ohne deren Wirtschaft oder Lebensweise zu stören."
-  ""
+
  TUR_village_institutes:0 "Dorf-Institute"
  TUR_village_institutes_desc:0 "Ländliche Regionen stehen vor einigen besonderen Herausforderungen. Um diese zu lösen, hat die Regierung in Ankara das Programm der Dorfinstitute ins Leben gerufen, das das Leben und die Bildung aller Menschen in Anatolien verbessern soll."
-  ""
+
  TUR_national_struggle_funds:0 "Fonds für den nationalen Kampf"
  TUR_national_struggle_funds_desc:0 "Ein großer nationaler Kampf steht wieder einmal vor der Tür. Die Türkei muss geeint und bereit sein, wenn wir vorankommen wollen!"
-  ""
+
  TUR_implement_western_electronics:0 "Westliche Elektronik einführen"
  TUR_implement_western_electronics_desc:0 "Die Elektronik ist ein Industriezweig, der die Zukunft bestimmen wird. Wir müssen unseren eigenen Fortschritt in diesem Bereich machen."
 
@@ -165,10 +165,10 @@
  TUR_expand_recruitment_idea_desc:0 "Die Militärreformen Atatürks haben die Armee der Großen Nationalversammlung rasch in eine professionelle Wehrpflichtigenarmee verwandelt. Die jüngsten Fortschritte haben unsere erstaunlichen Errungenschaften noch weiter vorangetrieben; jeder Feind, der dumm genug ist, unsere Nation anzugreifen, wird sich dem Zorn einer hoch mobilisierten, außergewöhnlich motivierten Armee stellen müssen!"
  TUR_maximize_orientation_idea:0 "Die Armee der Großen Nationalversammlung"
  TUR_maximize_orientation_idea_desc:0 "Atatürks Militärreformen haben die Armee der Großen Nationalversammlung rasch in eine professionelle Wehrpflichtigenarmee verwandelt. Die jüngsten Fortschritte haben das bereits Erreichte nur noch verstärkt und den türkischen Soldaten zu einer echten Kraft gemacht, die auf dem Schlachtfeld gefürchtet werden muss!"
-  ""
+
  TUR_peace_at_home_peace_in_the_world:0 "Frieden zu Hause, Frieden in der Welt"
  TUR_peace_at_home_peace_in_the_world_desc:0 "Yurtta sulh, cihanda sulh - Frieden im eigenen Land, Frieden in der Welt - ist das Rückgrat der kemalistischen Außenpolitik. Dazu gehört eine Diplomatie, die auf Pragmatismus und nicht auf der Fortsetzung historischer Unruhen beruht; eine friedliche, diplomatische Lösung für unsere Missstände; und, was am wichtigsten ist: dass Frieden und Sicherheit im Innern unweigerlich zu demselben auf dem globalen Schauplatz führen werden, so wie ihr Bruch zu einem Verlust an globaler Stabilität führt. "
-  ""
+
  TUR_sectarianism:0 "Sektierertum"
  TUR_sectarianism_desc:0 "Viele Themen spalten unsere junge Republik. Während die Regionen der Ägäis wirtschaftlich viele Parallelen zu westlichen Nationen aufweisen, sind Zentral- und Ostanatolien durch Jahrhunderte unfähiger Herrschaft verarmt. Politisch gesehen lehnen die Konservativen, vor allem in Zentral- und Ostanatolien, die Sozialreformen der CHP weitgehend ab. Das größte Problem ist jedoch, dass die ethnischen Kurden in den südöstlichen Regionen Autonomie anstreben oder sogar ihren eigenen Staat aus unserem Land abspalten wollen. Die Modernisierung unserer Nation hängt von der Überwindung dieser Spaltung und der Vereinigung der Menschen in Anatolien unter einer Flagge ab."
  TUR_sectarianism1:0 "Sektierertum"
@@ -179,7 +179,7 @@
  TUR_sectarianism_1_desc:0 "Viele Probleme spalten unsere junge Republik, und sie scheinen in letzter Zeit nur noch schlimmer geworden zu sein. Wenn wir vorankommen wollen, sollten wir uns sofort auf die Stärkung unserer nationalen Einheit konzentrieren."
  TUR_sectarianism_2:0 "Sektierertum"
  TUR_sectarianism_2_desc:0 "Das Sektierertum ist zweifellos zum größten Problem unserer jungen Nation geworden, und es beginnt, die Stabilität der türkischen Regierung zu bedrohen. Wir sollten uns sofort auf die Stärkung unserer nationalen Einheit konzentrieren, wenn wir einen Rückfall wie in den letzten Jahren des Osmanischen Reiches vermeiden wollen."
-  ""
+
  TUR_neutrality_through_deterrence:0 "Neutralität durch Abschreckung"
  TUR_neutrality_through_deterrence_desc:0 "Der Konflikt in ganz Europa ist wieder eine Realität am Horizont. Zum Wohle der Nation müssen wir uns von den Schrecken fernhalten, die immer auf Konflikte folgen."
  TUR_unlocks_hatay_decision_tt:0 "Schaltet die Entscheidung frei: §YDrücke die Hatay-Frage§!."
@@ -187,13 +187,13 @@
 
  TUR_anglo_turkish_friendship_agreement:0 "Anglo-türkisches Freundschaftsabkommen"
  TUR_anglo_turkish_friendship_agreement_desc:0 "Die Briten teilen viele Interessen mit unserem Land, vor allem die Sorge um das stets fragile Gleichgewicht der Kräfte in Europa. Auf dieser Grundlage sollten wir engere Beziehungen aufbauen."
-  ""
+
  TUR_german_turkish_treaty_of_friendship:0 "Deutsch-türkischer Freundschaftsvertrag"
  TUR_german_turkish_treaty_of_friendship_desc:0 "Die Deutschen verfügen über eine der größten Volkswirtschaften und Streitkräfte des Kontinents. Ungeachtet möglicher ideologischer Differenzen zwischen unseren Nationen liegt die Aufrechterhaltung freundschaftlicher Beziehungen in unser beider Interesse."
-  ""
+
  TUR_renew_the_soviet_non_aggression_pact:0 "Erneuerung des sowjetischen Nichtangriffspakts"
  TUR_renew_the_soviet_non_aggression_pact_desc:0 "Unsere Beziehungen zu Moskau sind seit unserem Unabhängigkeitskrieg gewachsen. Wir sollten diesen Weg mit einer offiziellen Verlängerung unseres in die Jahre gekommenen Nichtangriffspakts fortsetzen."
-  ""
+
  TUR_amend_the_montreux_convention:0 "Änderung des Montreux-Abkommens"
  TUR_amend_the_montreux_convention_desc:0 "Die Sowjets haben ihr Interesse an den Meerengen des Schwarzen Meeres deutlich gemacht. Vielleicht können wir der Sowjetunion im Gegenzug für industrielle Hilfe und engere Beziehungen weitere Zugeständnisse machen."
  TUR_renew_the_soviet_non_aggression_pact_focus_days_tt:0 "Es sind 105 oder mehr Tage vergangen, seit der Fokus §YErneuerung des sowjetischen Nichtangriffspakts§! abgeschlossen wurde."
@@ -205,7 +205,7 @@
  turkey.118.d:0 "Die Sowjets haben zugestimmt. Auch wenn ihr wachsender Einfluss auf unser Land zweifellos unpopulär sein wird, wird die Normalisierung unserer bilateralen sowjetischen Beziehungen sicherlich dazu beitragen, den Frieden in der Region zu verlängern."
  turkey.119.t:0 "Die Sowjets weigern sich"
  turkey.119.d:0 "Die Sowjets haben sich geweigert. Obwohl das Zustandekommen dieses Abkommens zweifellos im ganzen Land unpopulär gewesen wäre, ist dies eine enttäuschende Entwicklung für unsere bilateralen Beziehungen und könnte in naher Zukunft zu einer Bedrohung des regionalen Friedens werden."
-  ""
+
  TUR_soviet_turkish_trade_agreement:0 "Sowjetisch-türkisches Handelsabkommen"
  TUR_soviet_turkish_trade_agreement_desc:0 "Die Sowjetunion ist eine aufstrebende Macht, zu der nur wenige Nationen gute Beziehungen unterhalten. Wir sind in der Lage, die Brücke zwischen den Sowjets und der westlichen Welt zu sein und diese Realität zu unserem eigenen Vorteil zu nutzen."
  TUR_black_sea_trade_agreement:0 "Schwarzmeer-Handelsabkommen"
@@ -219,7 +219,7 @@
  turkey.122.t:0 "Die Sowjets haben abgelehnt"
  turkey.122.d:0 "Die Sowjets haben unser Angebot abgelehnt. Wie enttäuschend für unsere gegenseitigen Beziehungen."
  turkey.122.a:0 "Enttäuschend."
-  ""
+
  TUR_clodius_agreement:0 "Clodius-Abkommen"
  TUR_clodius_agreement_desc:0 "Die deutsche Kriegswirtschaft ist auf eine kontinuierliche Versorgung mit Chrom angewiesen, eine Ressource, die in Anatolien reichlich vorhanden ist. Vielleicht können wir diese Tatsache nutzen, um die Industrialisierung unserer Nation voranzutreiben."
  turkey.147.t:0 "Das Clodius-Abkommen"
@@ -235,20 +235,20 @@
 
  TUR_regional_partnerships:0 "Regionale Partnerschaften"
  TUR_regional_partnerships_desc:0 "Wir haben viele Freunde in der Region gewonnen. Wir sollten diese Beziehungen weiter ausbauen."
-  ""
+
  TUR_bicontinental_intervention:0 "Bikontinentale Intervention"
  TUR_bicontinental_intervention_desc:0 "Wir liegen genau zwischen zwei der größten Krisenherde der Welt. Wir müssen jeder Nation auf dem Balkan und im Nahen Osten klar machen, dass wir nicht warten werden, bis der Krieg zu uns kommt!"
-  ""
+
  TUR_cooperation_against_moscow:0 "Zusammenarbeit gegen Moskau"
  TUR_cooperation_against_moscow_desc:0 "Das Russische Reich und in jüngerer Zeit die Sowjetunion sind Unterdrücker türkischer Völker, die abwegige Ambitionen auf unsere Meerengen und noch mehr auf die unabhängigen Nationen Osteuropas haben. Wir müssen uns diesen Gefahren entgegenstellen, wo immer sie auftauchen, und diejenigen um uns scharen, die unsere Sorgen und Nöte teilen."
  TUR_cooperation_against_moscow1_tt:0 "Schaltet die Entscheidung frei: §YDem Anti-Komintern-Pakt beitreten§!."
  r56_TUR_join_the_anti_comintern_pact:0 "Beitritt zum Antikominternpakt"
-  ""
+
  TUR_cooperation_against_berlin:0 "Zusammenarbeit gegen Berlin"
  TUR_cooperation_against_berlin_desc:0 "Deutschland hat bereits mehrere der ihm in Versailles auferlegten Beschränkungen verletzt, und das ist erst der Anfang. Wir müssen unsere Ablehnung ihrer ungeheuerlichen Ansprüche in ganz Europa deutlich machen und Freunde finden, die dieses Verständnis teilen."
  r56_TUR_renew_the_soviet_non_aggression_pact_decision:0 "Erneuerung des sowjetischen Nichtangriffspakts"
  TUR_cooperation_against_berlin1_tt:0 "Schaltet die Entscheidung frei: §YErneuern Sie den sowjetischen Nichtangriffspakt§!."
-  ""
+
  TUR_anti_colonial_action:0 "Anti-Koloniale Aktion"
  TUR_anti_colonial_action_desc:0 "Die Briten und Franzosen sind ein Krebsgeschwür im Nahen Osten. Als neue sozialistische Nation ist unser Weg nach vorn die Befreiung der Brüder in unserer Region vom Schmutz des Kolonialismus!"
 
@@ -272,7 +272,7 @@
  TUR_regional_leadership:0 "Regionale Führerschaft"
  TUR_regional_leadership_desc:0 "Während der Westen in der Stunde der Not in die Knie geht, greifen Tyrannen und Imperialisten die kleinen Staaten in unserer Nachbarschaft an. Ankara muss die Führung übernehmen und die Macht sein, die die kleinen Nationen in Europa und im Nahen Osten verdienen."
  TUR_ankara_pact:0 "Ankara-Pakt"
-  ""
+
  TUR_join_the_international_community:0 "Schließen Sie sich der internationalen Gemeinschaft an"
  TUR_join_the_international_community_desc:0 "Unsere Sache ist hoffnungslos, wenn wir sie allein angehen. Wir müssen an die großen Mächte der Welt appellieren und sie für unsere gerechte Sache gewinnen."
  TUR_unlocks_join_allies_decision_tt:0 "Schaltet die Entscheidung frei: §YSchließe dich den Alliierten an§!."
@@ -286,7 +286,7 @@
  r56_TUR_alliance_with_the_french:0 "Bündnis mit den Franzosen"
  r56_TUR_alliance_with_the_russians:0 "Bündnis mit den Russen"
  r56_TUR_alliance_with_the_romanians:0 "Bündnis mit den Rumänen"
-  ""
+
  TUR_ally_the_balkan_states:0 "Verbündet euch mit den Balkanstaaten"
  TUR_ally_the_balkan_states_desc:0 "Die Völker des Balkans befinden sich an einem Scheideweg. Wir werden ihnen den Weg in eine sicherere Zukunft weisen."
  solidify_the_balkan_pact_tt:0 "Schaltet die §YVerbündet die Balkanstaaten Entscheidungen§! frei."
@@ -304,7 +304,7 @@
  turkey.125.t:0 "Die [FROM.GetAdjective]'s haben abgelehnt"
  turkey.125.d:0 "Der [FROM.GetAdjective] Außenminister hat eine offizielle Antwort herausgegeben, in der er erklärt, dass er die Idee eines Bündnisses zum jetzigen Zeitpunkt ablehnt."
  turkey.125.a:0 "Das ist enttäuschend."
-  ""
+
  TUR_militarize_the_saadabat_pact:0 "Militarisierung des Saadabad-Paktes"
  TUR_militarize_the_saadabat_pact_desc:0 "Starke Beziehungen zu den befreundeten Nationen des Nahen Ostens sind eine Grundlage für unsere differenzierte Außenpolitik. Der Welt klarzumachen, dass die Freunde, die wir gewonnen haben, tabu sind, ist eine Notwendigkeit, während die Welt im Kriegschaos versinkt."
  has_formed_the_saadabad_pact_tt:0 "Hat den Saadabad-Pakt geschlossen"
@@ -312,14 +312,14 @@
  turkey.126.d:0 "Der türkische Außenminister hat uns im Rahmen seiner Initiative zur Ausweitung der Zusammenarbeit im gesamten Nahen Osten ein Angebot für ein Bündnis zwischen unseren Nationen unterbreitet. Wie sollten wir darauf reagieren?"
  turkey.126.a:0 "Lassen Sie die Türken wissen, dass sie unsere Unterstützung haben."
  turkey.126.b:0 "Wir sind nicht interessiert."
-  ""
+
  turkey.127.t:0 "Die [FROM.GetAdjective]'s haben akzeptiert"
  turkey.127.d:0 "Der [FROM.GetAdjective] Außenminister hat eine offizielle Antwort herausgegeben, in der er erklärt, dass er ein Bündnis gerne annimmt."
  turkey.127.a:0 "Wir sind erfreut."
  turkey.128.t:0 "Die [FROM.GetAdjective]'s haben abgelehnt"
  turkey.128.d:0 "Der [FROM.GetAdjective] Außenminister hat eine offizielle Antwort herausgegeben, in der er erklärt, dass er die Idee eines Bündnisses zum jetzigen Zeitpunkt ablehnt."
  turkey.128.a:0 "Das ist enttäuschend."
-  ""
+
  TUR_american_lend_lease:0 "Amerikanisches Lend-Lease"
  TUR_american_lend_lease_desc:0 "Die Vereinigten Staaten verfügen über eine bedeutende Rüstungsindustrie, die zur Finanzierung der Kriegsanstrengungen mehrerer europäischer Länder eingesetzt wurde. Da sie zwischen den Deutschen und den Russen liegen und über wichtige Wasserstraßen verfügen, liegt es vielleicht in unser beider Interesse, die Abschreckung der Türkei zu unterstützen."
  turkey.129.t:0 "Lend-Lease für die Türkei?"
@@ -332,71 +332,71 @@
  turkey.131.t:0 "Die Vereinigten Staaten lehnen ab"
  turkey.131.d:0 "Die Vereinigten Staaten haben unser Angebot abgelehnt und erklärt, dass sie kein Interesse daran haben, einer neutralen Nation Hilfe zu leisten."
  turkey.131.a:0 "Das ist enttäuschend."
-  ""
+
  TUR_limited_mutual_assistance:0 "Begrenzte gegenseitige Hilfe"
  TUR_limited_mutual_assistance_desc:0 "Obwohl wir nicht in der Lage sind, ihre Feinde zu bekämpfen, ist es klar, dass die von uns verwalteten Meerengen für Großbritannien von entscheidender Bedeutung sind. Als Gegenleistung für eine Sicherheitsgarantie für diese wichtigen Wasserstraßen könnten wir den Briten vielleicht Zugeständnisse abringen, die uns bei der Industrialisierung helfen."
  TUR_anglo_turkish_friendship_agreement_focus_days_tt:0 "Es sind 105 oder mehr Tage vergangen, seit der Fokus §YAnglo-Türkischer Freundschaftsvertrag§! abgeschlossen wurde"
  TUR_anglo_turkish_friendship_agreement_current_days_tt:0 "Aktuelle Tage sind: [?TUR_anglo_turkish_friendship_agreement_flag:days|Y0]"
-  ""
+
  TUR_standardization_idea:0 "Vereinheitlichung"
-  ""
+
  TUR_continue_the_military_reorganization:0 "Vorbereiten auf den nächsten großen Krieg"
  TUR_continue_the_military_reorganization_desc:0 "Die Türkische Republik ist nicht mit der gescheiterten osmanischen Armee zu vergleichen. Es gibt noch viel zu tun, und wir können nicht tatenlos zusehen, wie sich Europa erneut in Richtung Instabilität und Konflikt entwickelt. Wir müssen eine Abschreckung für jede äußere Macht bleiben, die sich dem Weg der Türkei in den Weg stellen will."
 
  TUR_found_an_air_war_academy:0 "Gründung einer Luftkriegsakademie"
  TUR_found_an_air_war_academy_desc:0 "Seit unserer Unabhängigkeit haben mehrere prominente türkische Luftwaffenoffiziere eine Ausbildung in Ländern wie Frankreich und Deutschland erhalten. Jetzt ist es an der Zeit, eine eigene türkische Luftwaffenakademie mit Sitz in Ankara zu gründen, damit wir unsere Nation in dieser Säule der modernen Kriegsführung führen können."
-  ""
+
  TUR_paratrooper_developments:0 "Entwicklungen bei den Fallschirmjägern"
  TUR_paratrooper_developments_desc:0 "Fallschirmjäger sind eine sehr experimentelle, vielversprechende Form von Spezialkräften. Wir sollten damit experimentieren, wie wir diese einzigartigen Soldaten in unserer Armee einsetzen können."
-  ""
+
  TUR_medium_bomber_focus:0 "Weiterhin westliche Bomber importieren"
  TUR_medium_bomber_focus_desc:0 "Westliche Nationen haben bei der Entwicklung von Bombern eine Vorreiterrolle übernommen. Wir sollten ihre Entwürfe importieren, um zu sehen, was wir von ihnen lernen können."
-  ""
+
  TUR_protecting_our_way_of_life:0 "Schutz unserer Lebensweise"
  TUR_protecting_our_way_of_life_desc:0 "Anatolien ist die Heimat unseres Volkes, jetzt und für immer. Unsere Luftwaffe muss dazu dienen, die Türkei vor jeder Bedrohung zu schützen, die unserem Land droht."
 
  TUR_airland_battle:0 "Luft-Land-Schlacht"
  TUR_airland_battle_desc:0 "Luftnahunterstützungsbomber haben sich bei modernen Bodenangriffen als entscheidend erwiesen. Wir sollten die Umstrukturierung unserer Luftwaffe mit der Luft-Land-Koordination als Rückgrat fortsetzen. "
-  ""
+
  TUR_naval_bombers:0 "Hilfskräfte für die Flotte"
  TUR_naval_bombers_desc:0 "Nationen wie Italien haben sich stark auf Bomber konzentriert, die als Hilfsmittel für ihre Überwasserflotte dienen. Diese Strategie scheint sehr gut auf die türkischen Verhältnisse übertragbar zu sein, vielleicht ist es an der Zeit, dass wir eigene Seebomberprogramme auflegen."
-  ""
+
  TUR_defending_our_skies:0 "Verteidigung des Luftraums"
  TUR_defending_our_skies_desc:0 "Bombenangriffe auf zivile und industrielle Ziele sind eine eindeutige Bedrohung. Auf dem Weg in die Zukunft müssen wir darauf vorbereitet sein, unsere Bevölkerung vor Terrorangriffen aus der Luft zu schützen."
-  ""
+
  TUR_new_cannon_developments:0 "Neue Kanonenentwicklungen"
  TUR_new_cannon_developments_desc:0 "Wir müssen alles tun, um die türkischen Kampfflugzeuge zu den besten des Kontinents zu machen. Neue Kanonenentwicklungen würden dazu einen großen Beitrag leisten."
-  ""
+
  TUR_continue_importing_western_designs:0 "Weitere Importe westlicher Kampfflugzeuge"
  TUR_continue_importing_western_designs_desc:0 "Die westlichen Luftfahrtindustrien sind führend in der Produktion moderner Flugzeuge. Es wäre in unserem besten Interesse, sie weiterhin zu importieren, bis eine nennenswerte inländische Produktion möglich ist."
-  ""
+
  TUR_rejuvenate_the_great_war_arsenal:0 "Verjüngung des Arsenals aus dem Großen Krieg"
  TUR_rejuvenate_the_great_war_arsenal_desc:0 "Das größte Problem der türkischen Streitkräfte ist nach wie vor die minderwertige Ausrüstung. Da die Uhr weiter tickt, ist es keine Option, unser Arsenal aus dem Großen Krieg nicht zu verjüngen."
-  ""
+
  TUR_begin_economic_mobilization:0 "Beginn der wirtschaftlichen Mobilisierung"
  TUR_begin_economic_mobilization_desc:0 "Es ist an der Zeit, den türkischen Industrieapparat auf den Kriegszustand vorzubereiten, in den jede unvorbereitete Nation zwangsläufig gerät."
-  ""
+
  TUR_begin_domestic_aircraft_production:0 "Beginn der heimischen Flugzeugproduktion"
  TUR_begin_domestic_aircraft_production_desc:0 "Wir haben bei der Entwicklung von Flugzeugen beeindruckende Fortschritte gemacht. Wir sollten eine Flugzeugindustrie aufbauen, die sich diese Tatsache zunutze machen kann."
-  ""
+
  TUR_expand_the_turkish_state_arsenal:0 "Ausbau des staatlichen türkischen Waffenarsenals"
  TUR_expand_the_turkish_state_arsenal_desc:0 "Das staatliche türkische Waffenarsenal ist nicht in der Lage, die Anforderungen eines Krieges zu erfüllen. Es ist an der Zeit, unsere Schwerindustrie auf einen Stand zu bringen, bei dem uns keine vernünftige Macht wirklich bedrohen kann."
-  ""
+
  TUR_doctrine_on_western_lines:0 "Doktrin nach westlichem Vorbild"
  TUR_doctrine_on_western_lines_desc:0 "Die Armee der Großen Nationalversammlung lässt sich von den Streitkräften vieler europäischer Nationen, insbesondere Frankreichs und Deutschlands, inspirieren. Ankara wird vorpreschen, während Berlin und Paris ebenfalls vorpreschen."
-  ""
+
  TUR_defending_our_borders:0 "Verteidigung unserer Grenzen"
  TUR_defending_our_borders_desc:0 "Die Türkei verfügt zwar über eine Fülle natürlicher Verteidigungsanlagen, doch wäre der Ausbau von Befestigungsanlagen an den Grenzen fremder Nationen eine kluge Strategie, um Feindseligkeiten weiter abzuschrecken."
-  ""
+
  TUR_expand_officer_schools:0 "Ausbau der türkischen Militärakademie"
  TUR_expand_officer_schools_desc:0 "Die türkische Militärakademie hat viele unserer besten Offiziere ausgebildet. Ihr Ausbau würde zu einer neuen Generation eines fähigen, anpassungsfähigen türkischen Oberkommandos führen."
-  ""
+
  TUR_mass_army:0 "Ausweitung der Bodentruppen"
  TUR_mass_army_desc:0 "Die Siege Preußens im 19. und Frankreichs im 20. Jahrhundert beruhten auf der starken Nutzung der Wehrpflicht. Wir sollten den Ausbau unserer Armee fortsetzen, damit wir auf zwei Kontinenten zu einer gefürchteten Macht werden können."
 
  TUR_sharpen_troop_equipment:0 "Ausrüstung der Truppen schärfen"
  TUR_sharpen_troop_equipment_desc:0 "Eine moderne Armee braucht eine moderne Bewaffnung. Die Zukunft der türkischen Streitkräfte hängt von unserem Vorstoß in Richtung eines Arsenals moderner Waffen ab. "
-  ""
+
  TUR_standardize_infantry_equipment:0 "Standardisierung"
  TUR_standardize_infantry_equipment_desc:0 "Standardisierung ist eine Schlüsselstrategie, um so professionell und anpassungsfähig wie möglich zu werden. Die deutsche und die französische Armee haben klare Standards, die von uns übernommen werden können."
 
@@ -405,31 +405,31 @@
 
  TUR_logistical_advancements:0 "Logistische Fortschritte"
  TUR_logistical_advancements_desc:0 "Unser Unabhängigkeitskrieg hat gezeigt, wie entscheidend die Logistik in der modernen Kriegsführung ist. Wenn unsere Armee erfolgreich sein soll, muss ihr modernes Arsenal durch ein modernes Logistiksystem unterstützt werden."
-  ""
+
  TUR_strengthen_troop_coordination:0 "Stärkung der Truppenkoordination"
  TUR_strengthen_troop_coordination_desc:0 "Wir haben mit eigenen Augen gesehen, wie die griechische Armee während unseres Überlebenskampfes in Unordnung geriet. Die Modernisierung der taktischen Kommunikationssysteme wäre eine große Hilfe, um eine Wiederholung dieser Katastrophe zu vermeiden."
-  ""
+
  TUR_infantry_advancements:0 "Fortschritte bei den Kleinwaffen"
  TUR_infantry_advancements_desc:0 "Der nächste Schritt der Modernisierung unserer Armee besteht darin, unsere Handfeuerwaffen auf den Standard von Nationen wie Großbritannien und Deutschland zu bringen. Die Bereitstellung von Mitteln für diesen Zweck wäre unverzichtbar."
-  ""
+
  TUR_begin_mechanization_developments:0 "Beginn der Entwicklung der Mechanisierung"
  TUR_begin_mechanization_developments_desc:0 "Die Mechanisierung ist eine unvermeidliche Richtung, in die sich die Kriegsführung bewegen wird. Wir müssen diese Tatsache erkennen und die Mechanisierung unserer gesamten Armee vorantreiben."
 
  TUR_infantry_is_our_backbone:0 "Unser Rückgrat"
  TUR_infantry_is_our_backbone_desc:0 "Die Infanterie ist das Rückgrat einer jeden Armee. Wir müssen uns weiterhin auf diese Tatsache konzentrieren und ihre Ausrüstung so weit wie möglich vorantreiben."
-  ""
+
  TUR_tank_centered_force:0 "Zukunft der kombinierten Streitkräfte"
  TUR_tank_centered_force_desc:0 "Die jüngsten Konflikte haben bewiesen, dass die Zukunft der Kriegsführung von demjenigen entschieden wird, der Infanterie, Panzerung und Luftstreitkräfte am besten in eine zusammenhängende, an allen Fronten funktionierende Streitmacht integriert. Wenn sich die europäischen Armeen in diese Richtung bewegen, werden wir es auch tun."
-  ""
+
  TUR_combat_engineers:0 "Kampftechniker"
  TUR_combat_engineers_desc:0 "Da sich das Schlachtfeld schnell verändert, wird eine Truppe, die in der Lage ist, unter unvorhersehbaren Umständen zu improvisieren, den Sieg davontragen. "
 
  TUR_troop_specialization:0 "Türkische Spezialeinheiten"
  TUR_troop_specialization_desc:0 "Ein Krieg an der anatolischen Grenze erfordert die Verteidigung in unterschiedlichem Terrain, von den Ufern unserer Ebenen und Städte bis hin zu unserer bergigen Flanke. Wenn wir an allen Fronten erfolgreich sein wollen, müssen wir uns auf eine Spezialisierung der Truppen einstellen."
-  ""
+
  TUR_expand_recruitment:0 "Rekrutierung ausbauen"
  TUR_expand_recruitment_desc:0 "Wir müssen uns bemühen, die Bodentruppen weiter auszubauen. Eine große, motivierte Armee ist die größte Abschreckung, die sich unsere Nation wünschen kann."
-  ""
+
  TUR_maximize_orientation:0 "Schärfung der Truppenstandards"
  TUR_maximize_orientation_desc:0 "Eine große Bodentruppe ist teuer und vielleicht für die Zukunft der Kriegsführung unpraktisch. Vielleicht ist es in unserem Interesse, die Ausbildung und Bewaffnung einer kleineren, zuverlässigeren Truppe zu verbessern."
 
@@ -438,19 +438,19 @@
 
  TUR_expand_black_sea_presence:0 "Ausbau der Schwarzmeerpräsenz"
  TUR_expand_black_sea_presence_desc:0 "Das Schwarze Meer ist eine immens wichtige Wasserstraße für uns. Die Ausweitung unserer Präsenz entlang der Schwarzmeerküste wäre eine kluge Strategie, um eine dominante regionale Position zu gewährleisten."
-  ""
+
  TUR_expand_mediteranean_bases:0 "Ausweitung der Mittelmeerstützpunkte"
  TUR_expand_mediteranean_bases_desc:0 "Das Mittelmeer ist für viele Nationen eine wichtige Wasserstraße, auch für unsere. Die Ausweitung unseres Engagements in der Region sollte zu einer Priorität werden."
-  ""
+
  TUR_modern_radar:0 "Modernes Radar"
  TUR_modern_radar_desc:0 "Radar ist eine Technologie, die die Welt verändern wird. Wir müssen uns diese großartige Technologie zu eigen machen und sie zur Unterstützung unserer nationalen Verteidigung einsetzen."
-  ""
+
  TUR_amphibious_warfare:0 "Amphibische Kriegsführung"
  TUR_amphibious_warfare_desc:0 "Unsere potenziellen Feinde liegen an leicht zu verteidigenden Grenzen. Wir müssen in der Lage sein, mit unseren Feinden zu machen, was die Briten mit uns versucht haben. Amphibische Aktionen sind riskant, aber zweifellos die Zukunft der bewaffneten Kriegsführung."
-  ""
+
  TUR_expand_the_golcuk_shipyard:0 "Ausbau der Gölcük-Werft"
  TUR_expand_the_golcuk_shipyard_desc:0 "Die Gölcük-Werft ist zu einem wichtigen Bestandteil unserer Marineindustrie geworden. Wir sollten sie ausbauen, um ihren Erfolg zu fördern."
-  ""
+
  TUR_new_shipyards:0 "İstanbul Donanma Tersanesi"
  TUR_new_shipyards_desc:0 "Die Türkei liegt zwischen dem Schwarzen Meer und dem Mittelmeer. Eine aufstrebende Macht braucht eine starke Flotte; der Ausbau unserer Marineindustrie ist ein wesentlicher Bestandteil davon."
 
@@ -462,21 +462,21 @@
 
  TUR_balanced_navy:0 "Führende Überwasserflotte"
  TUR_balanced_navy_desc:0 "Eine Flotte mit einem einzigen Schwerpunkt ist anfällig für feindliche Anpassungen. Trotz der höheren Kosten ist eine schlagkräftige Überwasserflotte notwendig, um in einem längeren Krieg bestehen zu können."
-  ""
+
  TUR_control_our_seas:0 "Kontrolle unserer Meere"
  TUR_control_our_seas_desc:0 "Als eine sich rasch erneuernde Macht müssen wir erneut eine dominante Position auf unseren Wasserstraßen anstreben. Eine stolze Nation braucht eine stolze Flotte, um ihre Interessen zu verteidigen."
-  ""
+
  TUR_modern_sub_surface_peripherals:0 "Moderne unterseeische Peripheriegeräte"
  TUR_modern_sub_surface_peripherals_desc:0 "Mit einer erneuten Spezialisierung auf die Abschreckung durch die Marine werden die türkischen U-Boote eine Kraft sein, die von allen gefürchtet wird, die die Nation bedrohen."
-  ""
+
  TUR_diplomatic_effort:0 "Diplomatische Bemühungen"
  TUR_diplomatic_effort_desc:0 "Wir müssen auf der internationalen Bühne aktiv sein, um unsere Interessen zu schützen."
-  ""
+
  TUR_the_montreux_convention_r56:0 "Das Übereinkommen von Montreux"
  TUR_the_montreux_convention_r56_desc:0 "Das Gebiet der Meerenge ist seit dem Ersten Weltkrieg entmilitarisiert worden, aber das kann nicht so bleiben. Wir müssen uns um internationale Unterstützung bemühen, um unsere volle Souveränität durchzusetzen."
 
  TUR_invite_to_faction_tooltip:0 "wird in die Fraktion von [Root.GetFlag]§Y[Root.GetName]§! eingeladen.\n"
-  ""
+
  ### TUR - TURKEY ### ""
  TUR_submarine_1:0 "Birinci İnönü Klasse"
  TUR_submarine_1_desc:0 "Bei der Birinci İnönü-Klasse handelte es sich um zwei Küsten-U-Boote, die Mitte der 1920er Jahre in den Niederlanden für die Türkei gebaut wurden. Sie waren die ersten Schiffe, die nach dem Ersten Weltkrieg für die türkische Marine gebaut wurden. Sie verdrängten 520 Tonnen und waren mit sechs 450-mm-Torpedorohren bewaffnet. Sie waren etwas langsam, hatten aber eine gute Reichweite."
@@ -610,7 +610,7 @@
 
  TUR_accomplishing_ataturks_dream:0 "Die Verwirklichung von Atatürks Traum"
  TUR_accomplishing_ataturks_dream_desc:0 "Atatürk hatte die Vision einer wirklich freien, wirklich demokratischen Türkei. Die Zeit für die Verwirklichung dieser Vision ist jetzt gekommen; der heutige Tag soll ein goldenes Zeitalter für unsere Republik einläuten!"
-  ""
+
  TUR_further_constitutional_reform:0 "Weitere Verfassungsreform"
  TUR_further_constitutional_reform_desc:0 "Unsere Demokratie ist noch neu und zerbrechlich. Wir müssen dort weitermachen, wo wir bereits begonnen haben, und unser Engagement für die Verwestlichung verstärken!"
 
@@ -632,7 +632,7 @@
 
  TUR_solidify_the_dictatorship:0 "Festigung der Diktatur"
  TUR_solidify_the_dictatorship_desc:0 "Çakmak hat seinen Platz als Atatürks Nachfolger gefestigt. Jetzt ist es endlich an der Zeit, dies der Welt zu zeigen!"
-  ""
+
  TUR_befriend_the_fascist_council:0 "Freundschaft mit dem Faschistischen Rat"
  TUR_befriend_the_fascist_council_desc:0 "Unter den verschiedenen europäischen Ideologien ist der Faschismus überraschend neu, aber noch wichtiger: er hat ein großes Potenzial für unsere Nation. Er hat es geschafft, in allen Ecken des Kontinents Bewegungen zu gründen, und er wird die Türkei voranbringen!"
 
@@ -682,7 +682,7 @@
  TUR_the_fight_for_popular_mandate_desc:0 "Jeder Schritt nach vorn sollte auf unserem Volksmandat basieren. Unsere Organisation ist nichts ohne diejenigen, die hinter uns stehen. Ein Volksmandat wird uns zum Sieg führen und das Rückgrat unserer Nation werden!"
  r56_TUR_rally_across_the_countryside:0 "Kundgebung auf dem Lande"
  r56_TUR_rally_across_the_countryside_desc:0 "Der ländliche Raum ist unsere größte Unterstützungsbasis und eine Gruppe, die wir weiter erschließen müssen. Wir werden eine Kundgebung unter unseren Wählern im gesamten ländlichen Anatolien abhalten und eine Tatsache klarstellen: Wir sind ihre Diener, nicht andersherum."
-  ""
+
  TUR_no_more_humiliations:0 "Keine weiteren Demütigungen"
  TUR_no_more_humiliations_desc:0 "Jedes Mal, wenn das Osmanische Reich auch nur den geringsten Anflug von Schwäche zeigte, schlugen die Verräter innerhalb der Nation zu. Atatürk beendete unsere Verluste nur, indem er sich dem Westen immer wieder beugte. Schluss damit!"
 
@@ -703,7 +703,7 @@
 
  TUR_liberalize_the_national_economy:0 "Liberalisierung der Volkswirtschaft"
  TUR_liberalize_the_national_economy_desc:0 "Die Politik des Etatismus hat ihren Zweck erfüllt und ist anderswo gescheitert. Private Investitionen werden die Wirtschaft voranbringen!"
-  ""
+
  TUR_specialization_led_development:0 "Spezialisierung als Grundlage der Entwicklung"
  TUR_specialization_led_development_desc:0 "Jahre des Etatismus, der durch eine unheimliche Mischung verschiedener Wirtschaftssysteme aufgebaut wurde, haben die Türkei nicht nahe genug an die wirtschaftliche Moderne gebracht. Wir werden die Nation in eine neue wirtschaftliche Richtung lenken, indem wir die Wirtschaft jeder Region auf ihre eigenen spezialisierten Branchen stützen."
 
@@ -738,10 +738,10 @@
  TUR_bureaucratic_modernization:0 "Modernisierung der Bürokratie"
  TUR_bureaucratic_modernization_desc:0 "Die alte, gescheiterte osmanische Bürokratie darf nicht nachgeahmt werden, wenn es darum geht, unsere alten nationalen Werte wiederherzustellen. Wir müssen die Dekadenz von Korruption und Vetternwirtschaft hinter uns lassen, während sich die Uhr weiterdreht."
  TUR_bureaucratic_modernization_idea:0 "Die bürokratische Modernisierung"
-  ""
+
  TUR_continue_military_rule:0 "Fortsetzung der Militärherrschaft"
  TUR_continue_military_rule_desc:0 "Immer wieder haben die zivilen Regierungen im Osmanischen Reich versagt. Die Befreier unseres Volkes waren immer die Hardliner unter den Militärs, was beweist, dass unsere Führung in ihren Händen am besten aufgehoben ist!"
-  ""
+
  TUR_military_first_policies:0 "Politik, die das Militär in den Vordergrund stellt"
  TUR_military_first_policies_desc:0 "Das Militär braucht eine riesige Summe unserer Ressourcen, um das durchzuführen, was es für unsere Nation will. Wir werden sie ihnen zur Verfügung stellen."
  TUR_military_first_idea:0 "Das Militär zuerst!"
@@ -1008,13 +1008,13 @@
 
  TUR_turkish_red_army:0 "Die türkische Rote Armee"
  TUR_turkish_red_army_desc:0 "Die Türkei braucht eine zentralisierte, disziplinierte nationale Armee, die unsere neuen kommunistischen Werte schützen kann. Wir werden in die Fußstapfen der Russen treten und eine eigene Rote Armee gründen."
-  ""
+
 
  # Events ""
 
  bftb_turkey.23.t:0 "Der Saadabad-Pakt"
  bftb_turkey.23.desc:0 "[FROM.GetLeader] hat sich an [ROOT.GetLeader] mit dem Vorschlag gewandt, einen gegenseitigen Nichtangriffspakt zu unterzeichnen, der die Aussicht auf eine weitere Zusammenarbeit in der Zukunft offen lässt. Die [FROM.GetAdjective]-Diplomaten haben hart an ihrem Vorschlag gearbeitet, indem sie detailliert auf die gemeinsame Geschichte und die Interessen unserer beiden Nationen eingingen, gefolgt von einem ernsthaften Appell zum Frieden zwischen brüderlichen Nationen. Das Hin und Her der Verhandlungen war angenehm, aber die Entscheidung, ob wir unterschreiben oder nicht, liegt letztendlich bei uns."
-  ""
+
  turkey_hatay.1.t:0 "Die Hatay-Frage"
  turkey_hatay.1.d:0 "Nach dem großen Krieg besetzte Frankreich den Sanjak von Alexandretta und übertrug ihn dem Mandatsgebiet Syrien. Die Provinz, die heute als Hatay bekannt ist, hat einen bedeutenden türkischen Bevölkerungsanteil, wenn auch keine eindeutige Mehrheit. Die Debatte über den Status von Hatay ist in jüngster Zeit wieder aufgeflammt, wobei [TUR.GetLeader] die vollständige Rückkehr Hatays zur Türkei forderte. Große Gegenproteste der armenischen und alawitischen Bevölkerung der Provinz haben sich jedoch gegen die Annexion durch Ankara gerichtet. Es ist klar, dass die Türkei diese Situation ernst nimmt, und jede Ablehnung ihrer Forderungen könnte zu einem Krieg führen."
  turkey_hatay.1.a:0 "Hatay ist keine Feindseligkeit mit der Türkei wert."
@@ -1253,7 +1253,7 @@ TUR_fuat_agrali:0 ""Fuat Ağralı" # Finanzminister"
 
  #ideas ""
  TUR_consolidating_minister_cabinet:0 "Konsolidierung des Ministerkabinetts"
-  ""
+
 
  TUR_one_party_many_faces:0 "Eine Partei, viele Gesichter"
  TUR_one_party_many_faces_desc:0 "Die CHP hat als einzige Partei der Republik mehrere modernisierende Fraktionen vereint, die sich nicht immer einig sind."
@@ -1275,7 +1275,7 @@ TUR_fuat_agrali:0 ""Fuat Ağralı" # Finanzminister"
 
  TUR_back_the_traditionalist_cause:0 "Rückbesinnung auf den Traditionalismus"
  TUR_back_the_traditionalist_cause_desc:0 "Wir müssen zu unseren imperialen Wurzeln zurückkehren."
-  ""
+
  TUR_the_true_muslim_unity:0 "Die wahre muslimische Einheit"
  TUR_the_true_muslim_unity_desc:0 "Nur die Einheit der Ummah wird unseren Erfolg garantieren."
 
@@ -1299,7 +1299,7 @@ TUR_fuat_agrali:0 ""Fuat Ağralı" # Finanzminister"
 
  TUR_british_dockyards_in_turkey:0 "Ausländische Werften in der Türkei"
  TUR_british_dockyards_in_turkey_desc:0 "Ausländer könnten uns ihr dringend benötigtes Fachwissen zur Verfügung stellen."
-  ""
+
  TUR_region_security_initiative:0 "Sicherheitsinitiative für die Region"
  TUR_region_security_initiative_desc:0 "Um eine weitere Katastrophe zu vermeiden, ist ein Sieg unsere einzige Wahl!"
 

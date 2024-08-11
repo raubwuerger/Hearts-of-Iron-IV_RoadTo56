@@ -18,5 +18,5 @@
  rubber_refinery_desc:0 "Dieses Gebäude versorgt den Staat mit neuen Ressourcen"
  rubber_refinery_amount:0 "$VALUE|Y0=$"
  rubber_refinery_resource:0 "£resources_strip|$FRAME$ "
-  ""
+
 #####---------------------------------------------------------------------> End ""

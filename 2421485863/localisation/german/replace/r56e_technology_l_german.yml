@@ -8,7 +8,7 @@
  TECH_BOOSTS_RUBBER_MILL_TOOLTIP:0 "Modifiziere §LAluminium Mill§! Ressourcen-Output um: §B+2 Gummi§!."
 ## ""
  modern_ship_hull_light:0 "1948 Zerstörer-Rumpf"
-  ""
+
 ## trying to fix base game decimetric radar tech ""
   decimetric_radar:0 "Dezimetrisches Radar"
 
@@ -40,7 +40,7 @@
   r56_rdf:0 "Funkpeilung"
   cat_shocktroops_doctrine:0 "Schocktruppen-Doktrin"
   category_shocktroops:0 "Alle Schocktruppen"
-  ""
+
 
 ### Extra Special Forced Tech Categories ""
  r56_desert_infantry_tech:0 "Wüsten-Infanterie"
@@ -101,8 +101,8 @@
  antitank_d_desc:0 "Unsere Geschosse haben jetzt eine deutlich höhere Durchschlagskraft und Wucht."
  antitank_e:0 "Halbmoderne Panzerabwehr-Artillerie-Aufrüstung II"
  antitank_e_desc:0 "Die Genauigkeit und Manövrierfähigkeit jedes Schusses sind jetzt erheblich verbessert."
-  ""
-  ""
+
+
 ###------> Infantry   <><> <><> <><> <><> <><> ""
 #-<><><> ""
  paratroopers_a:0 "Fallschirmjäger IV"
@@ -129,7 +129,7 @@
 #-<><><> ""
  night_vision_a:0 "Nachtsicht III"
  night_vision_a_desc:0 "Die Fähigkeit, den Feind zu sehen, während er es nicht kann, ist von größter Bedeutung. Diese neue Technologie hilft uns, dieses Ziel zu erreichen."
-  ""
+
 ###------> Electronics   <><> <><> <><> <><> <><> ""
  future_radar:0 "AN/APS-2"
  future_radar_desc:0 "Unser Airborn Interception Radar ist jetzt ziemlich fortschrittlich und kann einen sichtbaren Unterschied in Gefechten machen."
@@ -175,8 +175,8 @@
  rdf5_desc:0 ""Wir werden unsere Fähigkeit zur Aufstandsbekämpfung stärken, indem wir illegale Übertragungen von Partisanen durch nahezu exakte Triangulation abfangen." #neu"
  rdf6:0 ""1953 Funkpeilung" #neu"
  rdf6_desc:0 ""Wir können sie aufspüren, wo immer sie sind. Es gibt kein Verstecken, kein Weglaufen und schon gar keine Chance, dass sie Erfolg haben." #neu"
-  ""
-  ""
+
+
 ###------> Industrial    <><> <><> <><> <><> <><> ""
  streamlined_line_a:0 "Stromlinienförmige Linie II"
  streamlined_line_a_desc:0 "Der Arbeiter hält seine linke Hand stets 15 cm von der Maschine entfernt. Der Fuß muss sich zwischen dem zentralen Hebel und der roten Linie befinden."
@@ -232,14 +232,14 @@
  rubber_plant_d:0 "Modernes Kautschukwerk"
  rubber_plant_d_desc:0 "Mit unseren modernen Anlagen können wir nun enorme Mengen an Kautschuk zu einem sehr günstigen Preis produzieren."
    ""
-  ""
+
 ###------> Landing Craft   <><> <><> <><> <><> <><> ""
  semi_modern_landing_craft:0 "Semi-Modernes Landungsboot"
  semi_modern_landing_craft_desc:0 "Ziehen Sie einfach die Knie ein und hoffen Sie das Beste."
  modern_landing_craft:0 "Modernes Landungsboot"
  modern_landing_craft_desc:0 "Wie viele Menschen passen noch auf dieses Ding?"
-  ""
-  ""
+
+
 ###------> Resource Production  <><> <><> <><> <><> <><> ""
  aluminum_production_1:0 "Aluminium-Produktion"
  aluminum_production_1_desc:0 "Jüngste Fortschritte in der Frästechnik ermöglichen es uns jetzt, unsere Aluminiumproduktion hochzufahren."
@@ -261,7 +261,7 @@
  steel_production_4:0 "Stahlproduktion IV"
  steel_production_4_desc:0 "Unsere Stahlproduktion ist jetzt so weit fortgeschritten, dass wir den Markt praktisch überschwemmen können, sehr zur Erleichterung und Frustration anderer Nationen."
  steel_production_tt:0 "Erhöhen Sie den §3Stahlwerk§! Ressourcenausstoß um: §G+2§!£Ressourcen_strip|5"
-  ""
+
 ###------> Nuclear  <><> <><> <><> <><> <><> ""
  nuke_naval:0 "Seemacht"
  nuke_naval_desc:0 "Wir haben uns überlegt, dass wir unsere größten und stärksten Schiffe mit Atomreaktoren ausstatten können. Hoffentlich können wir mit der Zeit einen Weg finden, dies zu verwirklichen.§n§RBenötigt eine Anzahl von§! §LKernreaktor§! §R> 3§!"
@@ -274,8 +274,8 @@
  semi_modern_rocket_engines_desc:0 "In diese neuen Raketen sind Ideen und Theorien aus anderen Ländern eingeflossen."
  modern_rocket_engines:0 "Frühe ICBMs"
  modern_rocket_engines_desc:0 "Wir haben mit der Erprobung und Vorbereitung von Raketen begonnen, die in den Weltraum vordringen und eine Nutzlast an jeden beliebigen Punkt der Erde bringen können."
-  ""
-  ""
+
+
 ###------> Support  <><> <><> <><> <><> <><> ""
  tech_engineers_a:0 "Ingenieurkompanie V"
  tech_engineers_a_desc:0 "Durch spezialisierte Ausbildung und Standardisierung der Ausrüstung werden die Fähigkeiten der Pioniere im Bereich der Konstruktion erheblich verbessert, so dass sie in der Lage sind, selbst unter schwierigsten Bedingungen Befestigungen zu bauen."
@@ -326,21 +326,21 @@
  tech_signal_company_c:0 "Signalkompanie VII"
  tech_signal_company_c_desc:0 "Die Verschlüsselung des Funkverkehrs ist unerlässlich, um das Überraschungsmoment zu wahren. Durch den Einbau von Impulskompression in unsere Funkgeräte können wir jeden Versuch des Feindes, den Funkverkehr abzuhören, vereiteln."
 #-<><><> ""
-  ""
+
 ###------> Etat / Etax Folder Name  <><> <><> <><> <><> <><> ""
  etat_folder:0 "E.T."
  etat_folder_desc:0 "Expandierte Industrie & Ausrüstung"
  etax_folder:0 "S.R.D."
  etax_folder_desc:0 "Abteilung für Spezialforschung"
-  ""
-  ""
+
+
  ETAX_TITLE_DOCTRINE_X:0 "Sonderforschungsabteilung"
 
 ###------>  R56 Vechicles Folder Name  <><> <><> <><> <><> <><> ""
  r56_vechicles_folder:0 "Mechanisierte Infanterie"
  r56_vechicles_folder_desc:0 "Ausrüstung für mechanisierte Infanteriekräfte."
 #-<><><> ""
-  ""
+
 
 ###------> New Doc   <><> <><> <><> <><> <><> ""
 
@@ -507,18 +507,18 @@
  tech_flamethrower3_desc:0"Flamethrowers are useful in close combat and urban warfare and against fixed fortifications. These also add a substantial soft attack to our divisions." ""
  tech_flamethrower4:0"Flamethrower IV" ""
  tech_flamethrower4_desc:0"Flamethrowers are useful in close combat and urban warfare and against fixed fortifications. These also add a substantial soft attack to our divisions." ""
-  ""
+
 ###------> Improved Equipment   <><> <><> <><> <><> <><> ""
  ETAT_TITLE_STEEL_PRODUCTION:0 "Ressourcenproduktion"
  ETAT_TITLE_CLOTHING:0 "Kleidung"
  ETAT_TITLE_SPECIALIST_EQUIPMENT:0 "Spezialisierte Ausrüstung"
  ETAT_TITLE_MODIFIWAFIONS:0 "Modifikationen"
-  ""
+
  fabric:0 "Stoff"
  fabric_desc:0 "Stoff, der für Kleidung verwendet wird."
  PRODUCTION_MATERIALS_FABRIC:0 "Stoff"
  PRODUCTION_MATERIALS_FABRIC_desc:0 "Stoff, der für Kleidung verwendet wird."
-  ""
+
  plate_skirt:0 "Panzerschürzen"
  plate_skirt_desc:0 "Das Hinzufügen von Plattenschürzen zu unseren Panzern und Halbkettenfahrzeugen bietet einen gewissen Schutz gegen die neuen AT-Infanteriewaffen, allerdings auf Kosten von zusätzlichem Gewicht für unsere Einheiten."
  bed_spring_skirt:0 "Lamellenpanzerschürzen"
@@ -536,7 +536,7 @@
  oscillating_turret_tech: "Oszillierender Geschützturm"
  oscillating_turret_tech_desc: "Der schwenkbare Turm ermöglicht es, den gesamten Turm zusammen mit dem Geschütz zu heben und zu senken. Dadurch kann das Geschütz höher montiert werden, da sich die angeschlossenen Maschinen mitbewegen, wodurch die Möglichkeit geschaffen wird, größere Geschütze zu montieren und auf einen größeren Neigungsbereich zu zielen."
  modern_light_tank_chassis: "1944 Leicht"
-  ""
+
  sniper_rifle:0 "Scharfschützen-Team"
  sniper_rifle_desc:0 "Die Hinzufügung einer Scharfschützeneinheit in jedem Zug erhöht die Aufklärungsfähigkeit und die Angriffsfähigkeit der Einheit effektiv."
  sniper_rifle_2:0 "Fortgeschrittenes Scharfschützenteam"
@@ -553,7 +553,7 @@
  flamethrower_2_desc:0 "Fortschritte bei der Panzerung und Gewichtsreduzierung haben die Sicherheit und Effektivität unserer Flammenwerfertrupps verbessert."
  flamethrower_3:0 "Semi-moderne Flammenwerfer"
  flamethrower_3_desc:0 "Unsere Teams sind sehr erfahren und haben uns umfangreiches Feedback zur benötigten Ausrüstung gegeben. Wir haben diese Vorschläge in unsere Produktionslinien integriert, was zu einer Verbesserung der Kampfeffizienz geführt hat."
-  ""
+
  ARMOUR_TITLE_CAMO:0 "FARBE"
  painting:0 ""Flache Oberfläche" #neu"
  painting_desc:0 ""Flache Farbe ab Werk". #neu"
@@ -565,7 +565,7 @@
  painting4_desc:0 "Neue Tarnfarbe für unsere Panzer. Wir haben das Auftragen der vorgefertigten Farben im Feld vereinfacht und die Haltbarkeit der ersten Werkslackierung erhöht."
  painting5:0 ""Modernes Tarnmuster" #neu"
  painting5_desc:0 "Neue Tarnfarbe für unsere Panzer. Die Anwendungen sind vielseitig und robust und halten nahezu allem stand, was der Feind ihnen entgegenwirft."
-  ""
+
  INFANTRY_TITLE_CLOTHING:0 "BEKLEIDUNG"
  camo:0 "Grundlegende Uniformen"
  camo_desc:0 "Einfarbige Uniformen nach dem Vorbild der Uniformen des Ersten Weltkriegs."
@@ -601,11 +601,11 @@
  droptank45_desc:0 "Der neueste Abwurftank. Er erhöht die Reichweite des Flugzeugs, benötigt aber einen Jet Reactor, um sein Gewicht zu kompensieren."
  droptank55:0 "Abwurftank IV"
  droptank55_desc:0 "Unsere Tanks sind jetzt leichter und können noch mehr Treibstoff aufnehmen."
-  ""
+
  ###------> Misc.   <><> <><> <><> <><> <><> ""
-  ""
+
  r56_tooltip_SRD_unlock:0 "Schaltet die Abteilung für Spezialforschung frei"
-  ""
+
  elite_forces_02:0 "Elitetruppen II"
  elite_forces_02_desc:0 "Nur die Besten der Besten werden zu Spezialkräften. Die Soldaten, die das Training überstehen, sind stärker, schneller und kämpfen härter als alle anderen."
  elite_forces_03:0 "Elitetruppen III"

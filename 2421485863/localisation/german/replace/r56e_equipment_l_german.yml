@@ -15,7 +15,7 @@
  COL_EQUIPMENT_VERSION_12:0 "-XII"
  COL_EQUIPMENT_VERSION_13:0 "-XIII"
  COL_EQUIPMENT_VERSION_14:0 "-XIV"
-  ""
+
  FRI_EQUIPMENT_VERSION_1:0 "Serie A"
  FRI_EQUIPMENT_VERSION_2:0 "Serie B"
  FRI_EQUIPMENT_VERSION_3:0 "Serie C"
@@ -29,7 +29,7 @@
  FRI_EQUIPMENT_VERSION_11:0 "Serie K"
  FRI_EQUIPMENT_VERSION_12:0 "Serie L"
  FRI_EQUIPMENT_VERSION_13:0 "Serie M"
-  ""
+
  POR_EQUIPMENT_VERSION_1:0 "P-10"
  POR_EQUIPMENT_VERSION_2:0 "P-20"
  POR_EQUIPMENT_VERSION_3:0 "P-30"
@@ -43,26 +43,26 @@
  POR_EQUIPMENT_VERSION_12:0 "P-110"
  POR_EQUIPMENT_VERSION_13:0 "P-120"
  POR_EQUIPMENT_VERSION_14:0 "P-130"
-  ""
+
 ###------> Naval Units <><> <><> <><> <><> <><> ""
  coastal_defense_ship:0 "Küstenverteidigungsschiff"
  coastal_defense_ship_desc:0 "Die Sverige-Klasse bestand aus drei Küstenkampfschiffen, die vor dem Ersten Weltkrieg für die schwedische Marine gebaut wurden. Sowohl von der Größe (Verdrängung von über 6.800 Tonnen) als auch von der Bewaffnung (vier 283 mm/44 K/45 M12-Geschütze) ähnelten die Schiffe eher schweren Kreuzern. Die Schiffe waren für einen Kreuzer relativ langsam, aber sehr gut gepanzert. Alle drei Schiffe dienten während des Zweiten Weltkriegs."
  coastal_defense_ship_1:0 "Sverige-Klasse"
  coastal_defense_ship_1_desc:0 "Die Sverige-Klasse bestand aus drei Küstenkampfschiffen, die vor dem Ersten Weltkrieg für die schwedische Marine gebaut wurden. Die Schiffe ähnelten in Größe (Verdrängung von über 6.800 Tonnen) und Bewaffnung (vier 283 mm/44 K/45 M12-Geschütze) eher schweren Kreuzern. Die Schiffe waren für einen Kreuzer relativ langsam, aber sehr gut gepanzert. Alle drei Schiffe dienten während des Zweiten Weltkriegs."
  torpedo_equipment_research:0 "Torpedo-Forschung"
-  ""
+
 ###------> Battlecruisers ""
  battle_cruiser_3:0 "Semi-Modern Battlecruiser (Halbmoderner Schlachtkreuzer)"
  battle_cruiser_3_short:0 "Halbmoderner Schlachtkreuzer"
  battle_cruiser_3_desc:0 "Fast alles, von den Kanonen bis zu den Motoren, wurde verbessert. Jetzt brauchen wir nur noch eine Spüle."
 
-  ""
+
 #-<><><> Battlecruiser Flavor  ""
  GER_battle_cruiser_3:0 "Schlachtkreuzer 48"
  GER_battle_cruiser_3_short:0 "Schlachtkreuzer 48"
  SOV_battle_cruiser_3:0 "Moskwa-Klasse"
  SOV_battle_cruiser_3_short:0 "Moskwa-Klasse"
-  ""
+
 #-<><><> Heavy Battleships  ""
  SH_battleship_3:0 "Modernes schweres Schlachtschiff"
  SH_battleship_3_short:0 "Modernes schweres Schlachtschiff"
@@ -160,7 +160,7 @@
  light_cruiser_7_short:0 "Leichter Kreuzer 1956"
  light_cruiser_7_desc:0 "Von der Bewaffnung bis zu den Motoren wurde fast alles verbessert."
 
-  ""
+
 #-<><><> Light Cruiser Flavor <><> <><> <><> <><> <><>  ""
  GER_light_cruiser_5:0 "Hagen-Klasse"
  GER_light_cruiser_5_short:0 "Hagener Klasse"
@@ -174,7 +174,7 @@
  SOV_light_cruiser_6_short:0 "Kornilow-Klasse"
  SOV_light_cruiser_7:0 "Mikhail Kutuzov Klasse"
  SOV_light_cruiser_7_short:0 "Kutusow-Klasse"
-  ""
+
 #-<><><> Heavy Cruisers <><> <><> <><> <><> <><> ""
  heavy_cruiser_5:0 "Halbmoderner Schwerer Kreuzer"
  heavy_cruiser_5_short:0 "Halbmoderner Schwerer Kreuzer"
@@ -190,7 +190,7 @@
  heavy_cruiser_7_short:0 "Schwerer Kreuzer 1956"
  heavy_cruiser_7_desc:0 "Fast alles, von der Bewaffnung bis zu den Motoren, wurde verbessert."
 
-  ""
+
 #-<><><> Heavy Cruiser Flavor ""
  GER_heavy_cruiser_5:0 "Albrecht-Klasse"
  GER_heavy_cruiser_5_short:0 "Albrecht-Klasse"
@@ -204,7 +204,7 @@
  SOV_heavy_cruiser_6_short:0 "Grosnyj-Klasse"
  SOV_heavy_cruiser_7:0 "Admiral Zozulya-Klasse"
  SOV_heavy_cruiser_7_short:0 "Zozulya-Klasse"
-  ""
+
 #-<><><> Battleships <><> <><> <><> <><> <><> ""
  battleship_5:0 "Semi-Modernes Schlachtschiff"
  battleship_5_short:0 "Halbmodernes Schlachtschiff"
@@ -225,7 +225,7 @@
  battleship_nuc_short:0 "Nuklear-Schlachtschiff"
  battleship_nuc_desc:0 "Die Kraft! Das Glühen! Der sofort fertige Toast!"
 
-  ""
+
 #-<><><> Battleship Flavor <><> <><> <><> <><> <><>  ""
  GER_battleship_5:0 "Zeitzler-Klasse"
  GER_battleship_5_short:0 "Zeitzler-Klasse"
@@ -264,7 +264,7 @@
  carrier_nuc_short:0 "Nuklearer Flugzeugträger"
  carrier_nuc_desc:0 "Die Kraft! Das Glühen! Der augenblicklich fertiggestellte Toast!"
 
-  ""
+
 #-<><><> Carrier Flavor <><> <><> <><> <><> <><>  ""
  GER_carrier_5:0 "Solingen-Klasse"
  GER_carrier_5_short:0 "Solingen-Klasse"
@@ -283,7 +283,7 @@
  SOV_carrier_nuc:0 "Uljanowsk-Klasse"
  SOV_carrier_nuc_short:0 "Uljanowsk-Klasse"
 
-  ""
+
 ###------> Missile Flavor ""
  guided_missile_equipment_4:0 "Frühe ICBM"
  guided_missile_equipment_4_short:0 "Frühe ICBM"
@@ -301,7 +301,7 @@
  SOV_guided_missile_equipment_4_short:0 "Faust der Revolution"
  SOV_guided_missile_equipment_4_desc:0 "Ein Liebesbrief von uns an den Feind, der den Tod von oben herab regnen lässt."
 
-  ""
+
 ###------> Light Carriers   <><> <><> <><> <><> <><> ""
  light_carrier_1:0 "Geleitschutzträger"
  light_carrier_2:0 "Leichter Flugzeugträger I"
