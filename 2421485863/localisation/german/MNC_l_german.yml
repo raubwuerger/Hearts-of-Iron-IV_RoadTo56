@@ -1,19 +1,19 @@
 ﻿l_german:
-
- #characters  ""
+ monaco_focus:0 "Monaco National Focus"
+ #characters
  MNC_louis_antoine_grimaldi:0 "Louis Antoine Grimaldi"
  MNC_emile_roblot:0 "Émile Roblot"
  MNC_pierre_de_witasse:0 "Pierre de Witasse"
  MNC_benjamin_tucker:0 "Benjamin Tucker"
  MNC_rainier_louis_henri_grimaldi:0 "Rainier Louis Henri Grimaldi"
-
- #ideas ""
+ MNC_charlotte_louise_juliette_grimaldi:0 "Charlotte Louise Juliette Grimaldi"
+ #ideas
 
  MNC_prestigious_international_reputation:0 "Renommierter internationaler Ruf"
  MNC_prestigious_international_reputation_desc:0 "[ROOT.GetNameDefCap] ist weit und breit für seinen verschwenderischen Reichtum, seine Kasinos und glamourösen Veranstaltungen wie den Großen Preis von Monaco bekannt. Dies verschafft ihnen einen prestigeträchtigen Ruf auf der internationalen Bühne, den sie leicht zu ihrem Vorteil nutzen können, wenn sie dies wünschen."
  MNC_reluctant_puppet:0 "Widerspenstige Marionette"
 
- #military/industry ""
+ #military/industry
 
  MNC_build_monaco_city_airport:0 "Bauen Sie [1012.GetCapitalVictoryPointName] Flughafen"
  MNC_build_monaco_city_airport_desc:0 ""
@@ -31,8 +31,8 @@
  MNC_develop_special_forces_desc:0 ""
  MNC_the_monaco_industrial_fund:0 "Der [ROOT.GetNonIdeologyName] Industriefonds"
  MNC_the_monaco_industrial_fund_desc:0 ""
- MNC_monaco_military_insituite:0 "[ROOT.GetNonIdeologyName] Militärische Insitution"
- MNC_monaco_military_insituite_desc:0 ""
+ MNC_monaco_military_institute:0 "[ROOT.GetNonIdeologyName] Militärische Insitution"
+ MNC_monaco_military_institute_desc:0 ""
  MNC_the_grand_university_of_monaco_city:0 "Die Große Universität von [1012.GetCapitalVictoryPointName]"
  MNC_the_grand_university_of_monaco_city_desc:0 ""
  MNC_economic_mobilization:0 "Wirtschaftliche Mobilisierung"

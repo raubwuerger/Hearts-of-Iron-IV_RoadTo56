@@ -14,7 +14,7 @@ r56_PAR_assassinate_franco:0 "Ermordung von Oberst Franco"
 r56_PAR_assassinate_franco_desc:0 "Die einzige Möglichkeit, den Putsch zu verhindern, besteht darin, Franco aus dem Weg zu räumen..."
 
 
-#tt's ""
+#tt's
 r56_PAR_civil_war_choice_tt:0 "Schaltet die §YOption§! frei, sich dem Militärputsch mit einem §RBürgerkrieg§! zu widersetzen."
 r56_PAR_coup_called_off_tt:0 "Der Militärputsch wird §Yverhindert§!"
 
@@ -25,7 +25,9 @@ PAR_neutrality_party:0 "UNR" #Die UNR war die Vorgängerin der febreristischen P
 PAR_neutrality_party_long:0 "Unión Nacional Revolucionaria"
 PAF_franco_l:0 "Franco-Loyalisten"
 PAF_franco_l_long:0 "Franco-Loyalisten"
+PAR_communism_franco:0 "UNR"
+PAR_communism_franco_long:0 "Unión Nacional Revolucionaria"
 
-###Advisors### ""
+###Advisors###
  PAR_comando_artilleria_paraguari:0 "Comando de Artillería Paraguarí"
  PAR_jose_felix_estigarribia:0 "José Félix Estigarribia"

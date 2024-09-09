@@ -971,7 +971,7 @@
 
  ITA_foreign_affairs:0 "Auswärtige Angelegenheiten"
  ITA_foreign_affairs_desc:1 "Jede Großmacht muss sich klare außenpolitische Ziele setzen und über talentierte Leute verfügen, die in der Lage sind, die Diplomatie so zu führen, dass diese Ziele erreicht werden."
- ITA_balkan_ambition:0 "Ambitionen auf dem Balkan"
+ ITA_balkan_ambition:0 "Forderungen an Jugoslawien"
  ITA_balkan_ambition_desc:1 "Es ist an der Zeit, die italienischen Grenzen nach Osten in Richtung Slowenien und, was noch wichtiger ist, in Richtung der dalmatinischen Küste zu erweitern. Wir werden das venezianische Kulturerbe Dalmatiens hervorheben und der Welt zeigen, dass die venezianische Regierung den Dalmatinern in der Vergangenheit nicht nur nützlich war, sondern von ihnen auch sehr akzeptiert wurde."
  ITA_potential_allies_in_the_balkans:0 "Potenzielle Verbündete auf dem Balkan"
  ITA_potential_allies_in_the_balkans_desc:1 "Um den Balkan zu kontrollieren, müssen wir nicht alle Nationen in der Region unterjochen und beherrschen. Es ist an der Zeit, die Diplomatie zu nutzen, um sich nützliche Verbündete auf dem Balkan zu sichern, und dann den Rest zu unterwerfen."
@@ -1671,7 +1671,7 @@
 ###################################################################### ""
 ################     SWITZERLAND FOCUS TREE     ###################### ""
 ###################################################################### ""
-
+ swiss_focus:0 "Schweiz Nationaler Fokus"
 #########   Historical #################### ""
  SWI_swiss_guiding_principles:0 "Schweizer Leitprinzipien"
  SWI_swiss_guiding_principles_desc:0 "[ROOT.GetNameDefCap] ist die älteste Demokratie des Kontinents, aber das rasante Tempo der Veränderungen in Europa gefährdet dies. Sollen wir den von der Eidgenossenschaft und der Verfassung von 1848 eingeschlagenen Weg fortsetzen, oder wird sich uns ein neuer Weg auftun?"

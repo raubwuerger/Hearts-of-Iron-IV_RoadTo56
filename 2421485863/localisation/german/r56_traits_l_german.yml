@@ -1,6 +1,6 @@
 ﻿l_german:
 
-##Commanders ""
+##Commanders
  attentive_surgeon:0 "Aufmerksamer Chirurg"
  attentive_surgeon_desc:0 "§LDieser Mann ist ein ausgebildeter Chirurg, der auch unter großem Druck in der Lage ist, die schwierigsten Aufgaben zu erfüllen. Er kümmert sich um seine Kameraden und schreckt vor nichts zurück, um sie zu versorgen §!"
  caring_leader:0 "Fürsorglicher Anführer"
@@ -66,14 +66,15 @@
  landing_craft_manufacturer:0 "Hersteller von Landungsbooten"
 
 ##Leaders ""
- defacto_leader:0 "Defacto-Anführer"
+ defacto_leader:0 "Defacto Anführer"
  dislikes_russia:0 "Verabscheut Russland"
- tank_enthusiast:0 "Panzer-Enthusiast"
+ dislikes_france:0 "Abneigung gegen Frankreich"
+ tank_enthusiast:0 "Panzer Enthusiast"
  retired_admiral:0 "Admiral im Ruhestand"
  blessed:0 "Gesegnet"
  regent_without_a_king:0 "Regent ohne König"
  undecided:0 "Unentschlossen"
- army_connections:0 "Armee-Verbindungen"
+ army_connections:0 "Armee Verbindungen"
  nationalistic_tendencies:0 "Nationalistische Tendenzen"
  fierce_patriot:0 "Eifriger Patriot"
  rather_not_a_king:0 "Lieber kein König"

@@ -10,7 +10,7 @@
  SZK_fascism_party:0 "EP"
  SZK_fascism_party_long:0 "Erdélyi Párt"
 
- SZK_union_with_HUN:0 "Vereinigung mit [HUN.getnameDef]"
+ SZK_union_with_HUN:0 "Vereinigung mit [HUN.getNameDef]"
 
 r56_szekelys.1.t:0 "[SZK.GetNameDef] ersucht um Vereinigung."
 r56_szekelys.1.desc:0 "Vertreter von [SZK.GetNameDef] haben unsere Regierung kontaktiert und mitgeteilt, dass ihre Regierung einstimmig beschlossen hat, von unserer Nation als historischer Teil Ungarns aufgenommen zu werden."

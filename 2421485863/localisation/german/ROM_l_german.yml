@@ -1,4 +1,5 @@
 ﻿l_german:
+romanian_focus:0 "Rumänischer Fokusbaum"
 orientalist_philosopher:0 "Orientalistischer Philosoph"
 fascistic_paramilitarist:0 "Faschistischer Paramilitarist"
 
@@ -1291,3 +1292,4 @@ rt56.rom_rebirth.1.d:0 "Nach dem Bürgerkrieg haben verschiedene Regionen eine L
 rt56.rom_rebirth.1.a:0 "Nun gut."
 ####### Triggers and stuff ""
 r56_is_balkan_country:0 "Ist Balkan"
+r56_ROM_claim_state_to_divide: "Anspruch [FROM.GetName]"

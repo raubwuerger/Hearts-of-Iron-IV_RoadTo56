@@ -1,14 +1,15 @@
 ﻿l_german:
 
+ lithuania_tree:0 "Litauischer Fokusbaum"
  LIT_generic_train_organization_r56_NSB:0 "Kaunas Geležinkelio Dirbtuvės"
 
-  #CHARACTERS  ""
+  #CHARACTERS
  LIT_jonas_juodisius:0 "Jonas Juodisius"
  LIT_juozas_tamosauskas:0 "Juozas Tamosauskas"
  LIT_juozas_backus:0 "Juozas Backus"
  LIT_motiejus_peciulionis:0 "Motiejus Peciulionis"
  LIT_vincas_zilys:0 "Vincas Zilys"
- #Miscellaneous ""
+ #Miscellaneous
  LIT_generic_fascist_demagogue:0 "Jonas Karutis"
  fascist_figurehead:0 "Faschistisches Aushängeschild"
  LIT_generic_artillery_manufacturer:0 "Linkaiciai Artillerie Manufaktur"
@@ -27,7 +28,7 @@
 
  LIT_mikas_reklaitis:0 "Mikas Reklaitis"
 
-#Party Names ""
+#Party Names
  LIT_young_lithuania_party:0 "Jaunoji Lietuva"
  LIT_young_lithuania_party_long:0 "Jaunoji Lietuva"
  LIT_lithuanian_nationalist_party_long:0 "Lietuvių Nacionalistų Partija"
@@ -45,13 +46,13 @@
  LIT_monarchy_party:0 "Haus von Urach"
  LIT_monarchy_party_long:0 "Haus von Urach"
 
-#Country Flags ""
+#Country Flags
  LIT_under_development_flag:0 "§RDieser Teil des Baums ist nicht zugänglich, da seine Entwicklung derzeit gestoppt ist. Nur mit Hilfe von Konsolenbefehlen können Sie auf diesen Zweig zugreifen.§!"
  LIT_lithuanian_expatriates_contaced_flag:0 "Litauische Expatriates kontaktiert"
  LIT_iron_wolf_leadership_reshuffled_flag:0 "Führung der Eisernen Wölfe neu gemischt"
  LIT_elections_in_progress_flag:0 "Wahlen sind im Gange"
 
- #Tooltips ""
+ #Tooltips
  LIT_monarch_learning_lithuanian_tt:0 "Karl Gero, Herzog von Urach, wird beginnen, Litauisch zu lernen"
  LIT_undercover_snieckus_tt:0 "Sniečkus' Bemühungen werden die Erfolgswahrscheinlichkeit des Aufstandes erhöhen"
  LIT_not_completing_elections_tt:0 "Wenn die Wahlen nicht rechtzeitig abgeschlossen werden, schürt dies die Unzufriedenheit und gibt den Anhängern radikaler Ideologien Auftrieb"
@@ -69,7 +70,7 @@
  LIT_oust_key_smetonists_tt:0 "Die §YNationalistische Union§! verliert einen Sitz an jede konkurrierende Partei, was die Unterstützung aller anderen Parteien ein wenig erhöht, auf Kosten der Unterstützung der §YNationalen Union§!."
  LIT_kings_party_sd_tt:0 "Die §YSozialdemokraten§! kontrollieren weniger als 10 Sitze."
 
- #Focuses ""
+ #Focuses
  LIT_Aviation_Effort:0 "Erweitern Sie die [ROOT.GetName] Luftwaffe"
  LIT_Aviation_Effort_desc:0 "Die [ROOT.GetAdjective] Luftwaffe kann, wenn sie richtig aufgebaut ist, eine schlagkräftige Macht sein, die in der Lage ist, jede angreifende Nation gegen uns zu vernichten. Wir sollten mit dem Bau von Luftwaffenstützpunkten beginnen und unsere Offiziere in der Bedienung dieser Flugmaschinen schulen."
  LIT_Foreign_Design:0 "Fokus auf ausländische Designs"

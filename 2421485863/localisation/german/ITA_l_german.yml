@@ -79,7 +79,7 @@
  ITA_diplomatic_incident_at_the_league_of_nations:0 "Diplomatischer Zwischenfall beim Völkerbund"
 
  r56_italy.9.t:0 "Militarisierung der Römischen Protokolle"
- r56_italy.9.d:0 "Die 1934 zwischen den Regierungen Österreichs, Ungarns und Italiens unterzeichneten Römischen Protokolle waren Vereinbarungen, die hauptsächlich die wirtschaftliche Zusammenarbeit zwischen den drei Nationen betrafen und gegen die territoriale Integrität Jugoslawiens gerichtet waren. Unter der Führung von [ITA.GetNameDef] wurde die zweite Version dieser Protokolle unterzeichnet, die auch ein Militärbündnis zwischen den drei Nationen beinhaltete. Viele sehen darin den Versuch von [ITA.GetNameDef], nach dem Austritt aus dem Völkerbund einen Platz in Europa zu finden und [GER.GetNameDef] daran zu hindern, [AUS.GetNameDef] zu integrieren."
+ r56_italy.9.d:0 "Die 1934 zwischen den Regierungen Österreichs, Ungarns und Italiens unterzeichneten Römischen Protokolle waren Vereinbarungen, die hauptsächlich die wirtschaftliche Zusammenarbeit zwischen den drei Nationen betrafen und gegen die territoriale Integrität Jugoslawiens gerichtet waren. Unter der Führung von [FROM.GetNameDef] wurde die zweite Version dieser Protokolle unterzeichnet, die auch ein Militärbündnis zwischen den drei Nationen beinhaltete. Viele sehen darin den Versuch von [ITA.GetNameDef], nach dem Austritt aus dem Völkerbund einen Platz in Europa zu finden und [GER.GetNameDef] daran zu hindern, [AUS.GetNameDef] zu integrieren."
  r56_italy.9.a:0 "Vielleicht wird dadurch die Stabilität Mitteleuropas gewährleistet."
 
  r56_italy.10.t:0 "Die zweite Stresa-Front"
@@ -104,8 +104,8 @@
  r56_italy.14.d:0 "[FRA.GetNameDefCap] und [ENG.GetNameDef] sind übereingekommen, unsere gemeinsame Front gegen [GER.GetNameDef] zu reformieren. Hoffen wir, dass es dadurch möglich sein wird, das zu bewahren, wofür wir während des Großen Krieges gekämpft haben, und den Frieden in Europa zu garantieren."
  r56_italy.14.a:0 "Die Entente ist wiedergeboren!"
 
- r56_italy.15.t:0 "[ITA.GetNameDefCap] Möchte die Römischen Protokolle militarisieren"
- r56_italy.15.d:0 "Unter Hinweis auf den wachsenden Revanchismus in [GER.GetNameDef], der die Interessen von [AUS.GetNameDef], [HUN.GetNameDef] und [ITA. GetNameDef], schlugen letztere vor, die Römischen Protokolle um ein defensives und offensives Militärbündnis zu erweitern: Die Schaffung eines neuen Blocks in Mittel- und Südeuropa würde es ermöglichen, jegliche Unterdrückung kriegführender Mächte zu vermeiden."
+ r56_italy.15.t:0 "[FROM.GetNameDefCap] Möchte die Römischen Protokolle militarisieren"
+ r56_italy.15.d:0 "Insbesondere unter Hinweis auf den wachsenden Revanchismus in [GER.GetNameDef], der die Interessen von [AUS.GetNameDef], [HUN.GetNameDef] und [ITA.GetNameDef] bedrohen könnte, hat [FROM.GetLeader] vorgeschlagen, die Römischen Protokolle um ein defensives und offensives Militärbündnis zu erweitern.\n\nDie Schaffung eines neuen Blocks in Mittel- und Südeuropa würde es ermöglichen, jegliche Unterdrückung kriegführender Mächte zu vermeiden."
  r56_italy.15.a:0 "Es wäre ratsam, dies zu akzeptieren."
  r56_italy.15.b:0 "Dies könnte zu einem noch größeren Krieg führen; wir werden uns weigern!"
 
@@ -689,8 +689,8 @@ ITA_REBORN_move_capital_to_rome:0 "Verlegung der Hauptstadt nach Rom"
 ITA_follow_pariani_plan_re_tt:0 "$ITA_modify_regio_esercito_dynamic_modifier_ns_intro$ \nHeeres-Erfahrungsgewinn-Faktor: §G+10.0%§! \nHeeresangriffsfaktor: §G+5,0%§! \nMultiplikator für maximale Befehlskraftsteigerung: §G+20.00%§! \n\n"
 
 #overriding silly stuff BBA ""
- ITA_balkan_ambition:0 "laims on Yugoslavia" #wont work?"
- ITA_ally_yugoslavia: "Jugoslawien ausrichten"
+ ITA_ally_yugoslavia: "Jugoslawien auf Linie bringen"
+ ITA_ally_yugoslavia_desc: ""
  ITA_pressure_country_government_YUG:0 "Druck [FROM.GetAdjective] Regierung"
  ITA_pressure_country_government_YUG_desc:0 "Wir werden die [FROM.GetAdjective]-Regierung unter Druck setzen, damit sie eine Politik verfolgt, die unseren Interessen besser entspricht."
  ITA_promote_ideology_rallies_YUG:0 "Förderung von Ideologie-Kundgebungen in [FROM.GetNameDef]"

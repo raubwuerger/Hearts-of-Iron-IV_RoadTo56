@@ -350,7 +350,7 @@
 
  CHL_expand_the_forestry: "Ausweitung der Forstwirtschaft"
  CHL_expand_the_forestry_desc: "Die zentralen Regionen unseres Landes, insbesondere Araucanía, sind reich an Holz. Auch wenn es einige gibt, die gegen die Ausweitung der Industrie in den Regionen sind, ist dies ein Muss, wenn wir wollen, dass unser Land jemals wirtschaftliche Sicherheit erfährt, und die Gewinnung von Holz und die Abholzung von Land ist der schnellste Weg dorthin."
- CHL_expand_the_forestry_decision_tt: "Schaltet Entscheidungen zur §YAusweitung der Forstwirtschaft§! in §Y[950.GetName]§! und §Y[279.GetName]§! frei. \n "
+ CHL_expand_the_forestry_decision_tt: "Schaltet Entscheidungen zur §YAusweitung der Forstwirtschaft§! in §Y[1063.GetName]§! und §Y[279.GetName]§! frei. \n "
 
  CHL_government_mandated_contracts: "Von der Regierung subventionierte Verträge"
  CHL_government_mandated_contracts_desc: "Um mehr Menschen dazu zu bringen, zu arbeiten und ihren Beitrag zu leisten, sollten wir in Erwägung ziehen, Verträge mit der Industrie zu subventionieren und einen Teil der Gehälter selbst zu zahlen. Auf diese Weise können mehr Unternehmen mehr Leute einstellen, und mehr Menschen können Geld ausgeben und in die Wirtschaft zurückbringen."
@@ -412,7 +412,7 @@
  propping_up_gustavo_ross_tt: "Wenn §YGustavo Ross§! Präsident von Chile wird, erhalte §G+75§! politische Macht, §G+5%§! Stabilität und gib ihm die Eigenschaft §YBeliebt beim Volk§!, die ihm gewährt: §G+2%§! Geschwindigkeitsfaktor für Konformität, §G+25%§! Verteidigung gegen Ideologiedrift und §G+10%§! Stabilität."
  CHL_has_idea_near_anarchy: "Hat den §Y$idea_CHL_near_anarchic_society$§! nationalen Geist noch nicht vollständig entfernt"
  CHL_not_has_idea_near_anarchy: "Hat den §Y$idea_CHL_near_anarchic_society$§! nationalen Geist vollständig beseitigt"
- CHL_found_national_steelworks_tt: "Hat die Entscheidung §Y$CHL_expand_araucanian_steelworks_decision$§! zur Gewinnung von mehr §YStahl§! in §Y[950.GetName]§!"
+ CHL_found_national_steelworks_tt: "Hat die Entscheidung §Y$CHL_expand_araucanian_steelworks_decision$§! zur Gewinnung von mehr §YStahl§! in §Y[1063.GetName]§!"
  denounced_catholicism: "Denunzierte den Katholizismus"
  embraced_catholicism: "Umarmte den Katholizismus"
  CHL_dispute_over_tierra_del_fuego_tt: "Dies kann zum §RKrieg§! mit dem Besitzer von Feuerland führen"
@@ -634,7 +634,7 @@
  CHL_proliferate_national_populism_tt: "Bei Abschluss des Fokus §YBeginn der Gegenrevolution§!: \nPolitische Macht §G+75§!."
  CHL_more_funds_or_the_propaganda_department_tt: "Bei Abschluss des Schwerpunkts §YBeginn der Gegenrevolution§!:\nArbeitskraft §G+5000§!."
  CHL_recruit_young_officers_tt: "Einige junge Offiziere werden zu §YGenerälen§! befördert."
- CHL_enforce_the_chilean_identity_tt: "Wenn der nationale Geist §Y$CHL_ancestral_mapuche_resistance$§! entfernt wird, erhalte den Kern auf [950.GetName] zurück."
+ CHL_enforce_the_chilean_identity_tt: "Wenn der nationale Geist §Y$CHL_ancestral_mapuche_resistance$§! entfernt wird, erhalte den Kern auf [1063.GetName] zurück."
  CHL_expand_the_department_of_provinces_change_tt: "Modifiziert den zuvor erlangten §YNationalgeist§!, mit leicht unterschiedlichen Effekten, je nachdem, welche §YAbteilung§! zuvor gestärkt wurde."
  CHL_expand_the_department_of_provinces_coring_tt: "Schaltet die Entscheidung zur §YIntegration von Staaten§! frei, die von den chilenischen Irredentisten gefordert wurde."
  CHL_abide_by_the_francoist_model_tt: "Wir werden §Rnicht mehr in der Lage sein, Fraktionen beizutreten§!"
@@ -1488,7 +1488,8 @@
  BRA_south_american_research_cooperation_desc: "Es ist kein Geheimnis, dass unsere Industrien und Universitäten in ganz Lateinamerika nicht den gleichen Zugang zu Finanzmitteln haben wie viele unserer Konkurrenten. Durch die Zusammenarbeit über ein gemeinsames Forschungsinstitut können wir jedoch Doppelarbeit vermeiden und das Innovationstempo in unserer Region erhöhen."
  BRA_south_american_tech_sharing_group_tt: "Wenn die Fraktionsmitglieder in Südamerika einem Beitritt zustimmen:"
 
-### ARGENTINA ### ""
+### ARGENTINA ###
+argentine_focus_tree:0 "Nationaler Fokus Argentinien"
 ARG_preparation_for_the_elections: "Vorbereitung auf die Wahlen"
 ARG_preparation_for_the_elections_desc: "Die Amtszeit von Agustín Pedro Justo neigt sich dem Ende zu und [ARG.GetName] ist bereit für einen neuen Präsidenten. Während der offizielle Regierungskandidat Roberto María Ortiz ist, hat die Oppositionspartei unter der Führung von Marcelo T. de Alvear noch eine Chance, für ein demokratischeres [ARG.GetName] zu kämpfen. Der Präzedenzfall für die Wahl ist geschaffen, und nun bleibt nur noch abzuwarten, wie er sich entwickelt."
 ARG_roberto_maria_ortiz: "Roberto María Ortiz"

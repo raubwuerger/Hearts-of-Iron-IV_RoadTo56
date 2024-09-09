@@ -3,6 +3,7 @@
  developed_rural:0 "Forschungsgeschwindigkeit für Marinerüstung"
 
  neutrality_acceptance:0 "§YStahlwerk§! Baugeschwindigkeit"
+ steel_tech_research:0 "Stahltechnik Forschung"
  construction_tech_research:0 "§YAluminiumwerk§! Baugeschwindigkeit"
  naval_armor_tech_research:0 "§YKautschuk-Raffinerie§! Baugeschwindigkeit"
  naval_gunnery_tech_research:0 "§YKernreaktor§! Baugeschwindigkeit "

@@ -196,13 +196,13 @@ MAN_operation_kantokuen:0 "Operation Kantokuen"
 MAN_operation_kantokuen_desc:0 "Es ist an der Zeit, den größten Feind unserer Neuen Ordnung in Asien zu besiegen. Die Russen haben jahrhundertelang asiatische Gebiete besetzt und beanspruchen sie für sich. Ihre Arroganz wird durch eine vereinte Allianz der asiatischen Nationen ein weiteres Mal zerschlagen werden! Wir müssen unsere Streitkräfte auf einen langen Marsch nach Sibirien vorbereiten, um die europäischen Streitkräfte ein für alle Mal zu vertreiben."
 
 MAN_greater_manchuria:0 "Die Großmandschurei"
-MAN_greater_manchuria_desc:0 "Die [MAN.GetName] muss das Ziel haben, die von den Russen 1858 und 1860 gestohlenen Gebiete der Äußeren Mandschurei zurückzuerobern. \nDie Inanspruchnahme von Gebieten, die so lange nicht mehr unter unserer Kontrolle waren, wird unsere Nation destabilisieren, aber die Befreiung Asiens wird jeden Tropfen Blut wert sein!"
+MAN_greater_manchuria_desc:0 "Die [MAN.GetName] muss das Ziel haben, die von den Russen 1858 und 1860 gestohlenen Gebiete der Äußeren Mandschurei zurückzuerobern. \n§RDie Inanspruchnahme von Gebieten, die so lange nicht mehr unter unserer Kontrolle waren, wird unsere Nation destabilisieren, aber die Befreiung Asiens wird jeden Tropfen Blut wert sein!§!"
 
 MAN_beyond_baikal:0 "Jenseits des Baikalsees"
-MAN_beyond_baikal_desc:0 "Um der Welt wahrhaftig unser Paradies der panasiatischen Völker zu zeigen, werden unsere Ansprüche über den Baikalsee hinausgehen und alle Mongolen, Burjaten und mehr einschließen! \nDie Inanspruchnahme solch großer Gebiete wird unsere Nation schwer destabilisieren, aber wir müssen unserer Sache des Panasiatismus treu bleiben!"
+MAN_beyond_baikal_desc:0 "Um der Welt wahrhaftig unser Paradies der panasiatischen Völker zu zeigen, werden unsere Ansprüche über den Baikalsee hinausgehen und alle Mongolen, Burjaten und mehr einschließen! \n§RDie Inanspruchnahme solch großer Gebiete wird unsere Nation schwer destabilisieren, aber wir müssen unserer Sache des Panasiatismus treu bleiben!§!"
 
 MAN_revise_imperial_treaties:0 "Imperiale Verträge revidieren"
-MAN_revise_imperial_treaties_desc:0 "Unsere Vorbereitungen sind abgeschlossen und die Zeit ist reif! Die Verträge von Aigun und Peking werden revidiert, und unsere Gebiete werden zurückerobert! Die europäischen Kolonisatoren werden über den Ural verbannt werden! [Einer überlegenen Nation den Krieg zu erklären, wird in der Armee Defätismus hervorrufen."
+MAN_revise_imperial_treaties_desc:0 "Unsere Vorbereitungen sind abgeschlossen und die Zeit ist reif! Die Verträge von Aigun und Peking werden revidiert, und unsere Gebiete werden zurückerobert! Die europäischen Kolonisatoren werden über den Ural verbannt werden! §REiner überlegenen Nation den Krieg zu erklären, wird in der Armee Defätismus hervorrufen.§!"
 
 MAN_liberation_is_nigh:0 "Die Befreiung ist nah!"
 MAN_liberation_is_nigh_desc:0 "Es ist uns gelungen, die von der Regierung beanspruchten Gebiete zu befreien, §GWir haben zwar dazu beigetragen, den Defätismus auszurotten§, aber es ist noch ein weiter Weg bis zur Kapitulation der Russen!"
@@ -328,7 +328,7 @@ MAN_extreme_defeatism:0 "Extremer Defeatismus"
 MAN_extrene_defeatism_desc:0 "Die Kriegserklärung an die [SOV.GetName] hat bei den Streitkräften und der Zivilbevölkerung weit verbreiteten Defätismus ausgelöst."
 
 MAN_false_government:0 "Illegitime Regierung von China"
-MAN_false_government_desc:0 "Unseren Streitkräften ist es nominell gelungen, alle chinesischen Gebiete unter unserer Regierung zu vereinen, doch der kommunistische und republikanische Widerstand wird aufgrund des unrechtmäßigen Anspruchs unserer Regierung auf China fortbestehen. Die chinesische Bevölkerung wird niemals einen japanischen Marionettenstaat als rechtmäßige Regierung akzeptieren. §RDieser nationale Geist ist unbesiegbar§"
+MAN_false_government_desc:0 "Unseren Streitkräften ist es nominell gelungen, alle chinesischen Gebiete unter unserer Regierung zu vereinen, doch der kommunistische und republikanische Widerstand wird aufgrund des unrechtmäßigen Anspruchs unserer Regierung auf China fortbestehen. Die chinesische Bevölkerung wird niemals einen japanischen Marionettenstaat als rechtmäßige Regierung akzeptieren. §RDieser nationale Geist ist unbesiegbar§!"
 
 MAN_specialized_units:0 "Mandschurische Spezialtruppen"
 MAN_manchurian_army:0 "Japanisch beratene Armee"

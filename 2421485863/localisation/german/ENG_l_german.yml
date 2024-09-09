@@ -1,6 +1,7 @@
 ﻿l_german:
   #CHARACTERS ""
   ENG_elizabeth_ii:0 "Elisabeth II."
+  ENG_charles_edward_of_albany:0 "Charles Edward von Albany"
   #Country Stuff ""
   ENG_establish_the_colony_of_aden:0 "gründet die Kolonie Aden"
   ENG_establish_the_colony_of_aden_desc:0 "Der Hafen von Aden ist einer der wichtigsten im Handel zwischen Indien, Europa und dem Fernen Osten. Mit dem Government of India Act von 1935 wurde die Kontrolle über diesen Hafen direkt auf die Regierung in London übertragen, während er zuvor als Provinz des Chief Commissioner verwaltet worden war. Die letzten Vorbereitungen für die Gründung von Aden als eigenständige Kolonie sind nun abgeschlossen."
@@ -296,6 +297,60 @@
   r56_eng.4.desc:0 "Auf der Flucht vor den tragischen Ereignissen, die die königliche Familie dezimiert haben, haben die Überlebenden darum gebeten, sich in unserem Land niederlassen zu können, in der Hoffnung, dass sie eines Tages in der Lage sein werden, die Monarchie in Großbritannien wiederherzustellen."
   r56_eng.4.a:0 "Dies ist nicht Westminster, aber wir werden unser Bestes tun."
 
+  r56_eng.7.t:0 "Die Wahlen von [GetYear]"
+  r56_eng.7.d:0 "Seit den letzten Wahlen sind 5 Jahre vergangen, und es scheint, dass es wieder einmal an der Zeit ist, dass die Bevölkerung von [ENG.GetNameDef] ihre Regierung wählt.\n\nIn den letzten Jahren hat die Labour Party die Unterstützung der Konservativen für Appeasement scharf kritisiert, wobei die Konservative Partei ihr Vorgehen damit verteidigte, dass [ENG.GetNameDef] zu diesem Zeitpunkt nicht bereit war, einen Krieg zu führen. Ansonsten folgen die Parteien ihren üblichen Kampagnen, wobei die sozialdemokratische Plattform von Labour auf die eher rechtsgerichtete Politik der Konservativen trifft. r56_eng.7.a:0 "Die Konservativen wissen, was sie tun." r56_eng.7.b:0 "Labour wird [ENG.GetNameDef] in die Zukunft führen!"
+
+  r56_eng.8.t:0 "Kriegswahlen?"
+  r56_eng.8.d:0 "5 Jahre sind seit den letzten Wahlen vergangen, und die Zeit zum Wählen ist gekommen. Allerdings befindet sich [ENG.GetNameDef] in einem Krieg gegen eine Großmacht, und viele glauben, dass die Abhaltung von Wahlen zu diesem Zeitpunkt nur dazu dienen würde, die Nation in ihrer dunkelsten Stunde zu destabilisieren." 
+  r56_eng.8.a:0 "Das Volk hat ein Recht darauf, gehört zu werden." 
+  r56_eng.8.b:0 "Das kann warten, bis wir den Sieg errungen haben."
+
+  r56_eng.9.t:0 "[ENG.GetLeader] Gewinnt [ENG.GetAdjective] Wahlen" 
+  r56_eng.9.d.a:0 "Fünf Jahre sind seit den letzten [ENG.GetAdjective]-Wahlen vergangen, und gestern ging das [ENG.GetAdjective]-Volk erneut zu den Urnen, um über die Zukunft seiner Regierung zu entscheiden.\n\Nach der Auszählung der Stimmen scheint es, dass die Labour Party unter Clement Atlee die Macht errungen hat und verspricht, sich gegen Beschwichtigungspolitik zu stellen und soziale Reformen in der [ENG.GetAdjective]-Gesellschaft voranzutreiben.\n\NDie Zeit wird zeigen, ob die neue [ENG.GetAdjective]-Regierung sich halten kann." 
+  r56_eng.9.d.b:0 "Seit den letzten [ENG.GetAdjective]-Wahlen sind 5 Jahre vergangen, und gestern ist das [ENG.GetAdjective]-Volk erneut zu den Urnen gegangen, um über die Zukunft seiner Regierung zu entscheiden.\n\nNach Auszählung der Stimmzettel scheint es, dass die Konservative Partei unter [ENG.GetLeader] die Macht gesichert hat, wobei ihre Kampagne die Fortsetzung der protektionistischen Politik und den Erhalt des Empire zum Ziel hat.\n\nDie Zeit wird zeigen, ob sich die neue [ENG.GetAdjective] Regierung halten kann." 
+  r56_eng.9.a:0 "Eine gute Vorstellung." 
+  r56_eng.9.b:0 "Wird er sich von der vorherigen Regierung unterscheiden?"
+
+  r56_eng.11.t:0 "Evakuierung der Regierung?" 
+  r56_eng.11.d:0 "Mit dem Fall Londons durch die Truppen von [126.controller.GetAdjective] und der bevorstehenden Kapitulation der britischen Regierung müssen wir entscheiden, ob die Regierung und das Militär in unsere Herrschaftsgebiete evakuiert werden oder bis zum Ende kämpfen." 
+  r56_eng.11.a:0 "Sie werden leben, um an einem anderen Tag zu kämpfen." 
+  r56_eng.11.b:0 "Wir werden zurückkehren. (Spielt als Kanada)" 
+  r56_eng.11.c:0 "Wir werden bis zum Ende kämpfen!"
+
+  r56_eng.12.t:0 "Britische Exilanten treffen in [Capital.GetCapitalVictoryPointName] ein" 
+  r56_eng.12.d:0 "Nach dem Zusammenbruch des britischen Festlandes haben sich die königliche Familie und die Exilanten der britischen Regierung in unser Land zurückgezogen, um den Kampf fortzusetzen. Doch während sich unsere verbliebenen Armeen aus Europa zurückziehen, werden die Proteste der Kriegsgegner immer lauter und bringen das Land zum Stillstand." 
+  r56_eng.12.a:0 "Wir werden den Kampf fortsetzen!" 
+  r56_eng.12.b:0 "Vielleicht müssen wir uns geschlagen geben."
+
+  r56_eng.13.t:0 "Zusammenbruch des britischen Festlandes" 
+  r56_eng.13.d:0 "Nach dem Fall Londons und dem Rückzug der königlichen Familie ist das Ende des Empire, wie wir es kennen, gekommen. Wir haben die Kontrolle über die benachbarten britischen Territorien übernommen und warten auf die Entscheidung von [faction_leader.GetNameDef], ob wir weiterkämpfen werden." 
+  r56_eng.13.a:0 "Das Ende einer Ära."
+
+  r56_eng.14.t:0 "Zusammenbruch des britischen Festlandes" 
+  r56_eng.14.d:0 "Nach dem Fall Londons und dem Rückzug der königlichen Familie ist das Ende des Empire, wie wir es kennen, gekommen. Wir haben die Kontrolle über benachbarte britische Territorien übernommen, aber die Mehrheit unserer Bevölkerung fordert, dass wir das zusammenbrechende Empire hinter uns lassen und die Unabhängigkeit erklären." 
+  r56_eng.14.a:0 "Wir werden bei unseren loyalen Verbündeten bleiben." 
+  r56_eng.14.b:0 "Indien ist endlich frei!"
+   
+  r56_eng.15.t:0 "Zusammenbruch des britischen Festlandes" 
+  r56_eng.15.d:0 "Nach dem Fall Londons und dem Rückzug der königlichen Familie ist das Ende des Empire, wie wir es kennen, gekommen. Wir haben die Kontrolle über benachbarte britische Territorien übernommen, aber die Mehrheit unserer Bevölkerung fordert, dass wir das zusammenbrechende Empire hinter uns lassen und die Unabhängigkeit erklären." 
+  r56_eng.15.a:0 "Wir werden bei unseren loyalen Verbündeten bleiben." 
+  r56_eng.15.b:0 "Wir sehen keinen Grund, diese verlorene Schlacht fortzusetzen."
+
+  r56_eng.16.t:0 "Las Malvinas erobern?" 
+  r56_eng.16.d:0 "Nach dem Fall Londons und dem Rückzug der königlichen Familie sind die überseeischen Gebiete des britischen Empires reif für die Übernahme. Wir könnten diese Gelegenheit nutzen, um die Inseln Malvinas und Südgeorgien zu erobern, und die Kanadier würden sich vielleicht nicht einmal wehren, aber eine solche Operation birgt das Risiko eines Vergeltungsschlages." 
+  r56_eng.16.a:0 "Las Malvinas son Argentinas!" 
+  r56_eng.16.b:0 "Wir sollten keinen Krieg beginnen, den wir nicht gewinnen können."
+
+  r56_eng.17.t:0 "[ARG.GetNameDefCap] erobert die Falklandinseln" 
+  r56_eng.17.d:0 "Angesichts unserer Schwäche hat [ARG.GetLeader] eine Militäroperation eingeleitet, um die Kontrolle über die Falklandinseln zu übernehmen. Es wäre vielleicht klug, keine Vergeltung zu üben, denn die jüngsten Ereignisse haben in unserer Nation zu großer Instabilität geführt." 
+  r56_eng.17.a:0 "Wir werden ihnen das Gegenteil beweisen!" 
+  r56_eng.17.b:0 "Leider war ihre Annahme richtig."
+
+  r56_eng.18.t:0 "Zusammenbruch des britischen Empire" 
+  r56_eng.18.d:0 "Mit dem Fall Londons und der unvermeidlichen Kapitulation des britischen Festlandes haben die Regierung, das Militär und die königliche Familie des Vereinigten Königreichs beschlossen, das Festland zu verlassen. Obwohl der König in [ENG_commonwealth_successor.Capital.GetCapitalVictoryPointName] erklärt hat, dass das Empire bis zur Befreiung des Festlandes weiterkämpfen wird, sehen viele dies als das Ende des britischen Empire, wie wir es kennen." r56_eng.18.a:0 "Die Sonne ist endlich untergegangen."
+ 
+  ENG_collapse_of_the_empire_tt:0 "§YDie Regierung und die königliche Familie werden sich auf unser größtes Herrschaftsgebiet zurückziehen, wobei unsere überseeischen Gebiete und ein Teil unserer Armee und Marine von anderen Nationen unseres Imperiums übernommen werden, die die Unabhängigkeit erlangen werden§!" 
+  ENG_got_territories_from_collapse:0 "§YWir werden die Kontrolle über benachbarte Gebiete des Imperiums übernehmen§!"
 
 
   ENG_opposition_to_the_national_government:0 "Opposition gegen die nationale Regierung"

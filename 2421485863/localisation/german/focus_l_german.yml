@@ -1448,6 +1448,7 @@
  RAJ_create_unit_rani_tt:0 "Gewinnen Sie eine Infanterie-Einheit in Delhi."
  RAJ_create_unit_sikh_tt:0 "Erhalte eine Infanterie-Einheit in Delhi."
  RAJ_create_general_rani_tt:0 "\nEin §Y3-Skill-General§! namens §YLakshmi Sahgal§! wird erscheinen."
+ lemur_generic_focus:0 "Weitere kontinuierliche Schwerpunkte"
  continuous_naval_production:0 "Flottenproduktion"
  continuous_naval_production_desc:0 "Indem wir unsere Ressourcen auf unsere Werften konzentrieren und qualifizierte Schiffsbauer vom Militärdienst befreien, können wir die Produktionszeit für Schiffe drastisch reduzieren."
  continuous_air_production:0 "Luftverkehrsproduktion"

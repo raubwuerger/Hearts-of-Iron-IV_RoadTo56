@@ -1,6 +1,7 @@
 ﻿l_german:
 ##Add in focus tree fight between german influenced and more radical Hlinka guard, more and more imitating the SS and the Slovak Popular Party (still fascist) ""
 #Gregorij Rožman antocommunist Slovene Bishop ""
+ SLO_generic_focus:0 "Slowakischer nationaler Fokus"
  SLO_fascism_party:0 "SUS"
  SLO_fascism_party_long:0 "Slovenská ľudová Strana"
  SLO_democratic_party:0 "DS"
@@ -202,7 +203,7 @@
  SLO_civilian_developments_desc:0 "Die Zerstörungen des Krieges sind fast unvorstellbar, und wir müssen zivile Organisationen organisieren, um einen raschen Wiederaufbau zu gewährleisten."
 
  SLO_victory_against_hungary:0 "Sieg im "Kleinen Krieg" 
- claim_eastern_slovak_border_tooltip:0 "§RWenn Sie mindestens eine Division an der Grenze zur Ostslowakei aufstellen, werden Sie einen kleinen Konflikt mit der Slowakei auslösen, um ganz Karpaten zurückzuerobern. Sie haben sehr gute Chancen zu gewinnen. Die Deutschen sind sehr hilfsbereit und werden nicht eingreifen, um die Slowaken zu schützen...zumindest vorerst."
+ claim_eastern_slovak_border_tooltip:0 "§RWenn Sie mindestens eine Division an der Grenze zur Ostslowakei aufstellen, werden Sie einen kleinen Konflikt mit der Slowakei auslösen, um ganz Karpaten zurückzuerobern. Sie haben sehr gute Chancen zu gewinnen. Die Deutschen sind sehr hilfsbereit und werden nicht eingreifen, um die Slowaken zu schützen...zumindest vorerst.§!"
 
  SLO_gw_tank_equipment:0 "Tancik vz. 33"
  SLO_gw_tank_equipment_short:0 "T vz. 33"

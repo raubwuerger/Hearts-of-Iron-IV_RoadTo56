@@ -1,9 +1,9 @@
 ﻿l_german:
 
 
- ################################ ""
- #MISC ""
- ################################ ""
+ ################################
+ #MISC
+ ################################
 
  ISR_david_ben_gurion:0 "David Ben-Gurion"
  ISR_DBG_DESCRIPTION:0 "David Josef Gruen glaubte immer, dass er derjenige sein würde, der die Nachfolge Herzls als Führer der zionistischen Sache antreten würde. Viele nannten ihn wahnhaft oder verrückt, doch er hielt sich an Herzls Diktum - Wenn du es willst, ist es kein Traum. 1886 im heutigen Plock in einer Familie armer und ungebildeter Bauern geboren, interessierte sich Gruen schon in jungen Jahren für den Zionismus. Nach dem Pogrom von Kischinew trat er der Poali Zion bei und wurde zu einem hochrangigen Mitglied der Partei, das sich mehrmals mit jüdischen Führern wie Ber Borochov traf. Nach Borochovs Abreise nach Amerika zog Gruen nach Palästina, wo er von Yisrael Shochats palästinensischem Zweig der Poali Zion angeworben wurde. Shochat glaubte, dass Gruen ein nützliches Werkzeug für ihn sein würde, während Gruen in Wirklichkeit jede Gelegenheit nutzte, um in der Partei Macht zu erlangen. Um dies auszugleichen, rekrutierte Shochat den neu in die Partei eingetretenen Yitshak Ben-Zvi als Gegengewicht zu Gruen. Gruen und Ben-Zvi wurden schließlich gute Freunde, aber er verlor langsam die Macht in der Partei an Ben-Zvi und Shochat. Genervt trat er aus der Partei aus und zog nach Sejera, wo er schließlich einen hebräischen Namen annahm: Ben-Gurion. Bei Ausbruch des Großen Krieges schloss sich Ben-Gurion Ben-Zvi in Poali Zion an, um Unterstützung für das Osmanische Reich zu sammeln, in der Hoffnung, die Zustimmung der kaiserlichen Regierung zu erhalten. Er stieß jedoch auf Ablehnung, als die Regierung Poali Zion zu einer antitürkischen Organisation erklärte und alle ihre Mitglieder nach Ägypten deportierte, wo sie den Rest des Krieges verbrachten, wobei sich einige mit den Briten verbündeten, um gegen die Osmanen zu kämpfen: Mapai, und ihre paramilitärische Truppe, die Haganah. Diese Partei sollte später die Führung des Jischuw dominieren, und als die Zeit für einen Aufstand gegen die Briten gekommen war, schlug die Haganah als erste zu. Jetzt, da die Hoffnung auf 2000 Jahre endlich in greifbare Nähe gerückt ist, ist es die Aufgabe von niemand anderem als Ben-Gurion, die Ziellinie zu überqueren."
@@ -19,9 +19,11 @@
  ISR_railways_organization:0 "Rakevet Yisrael"
 
 
- ################################ ""
- #TOOLTIPS ""
- ################################ ""
+ ################################
+ #TOOLTIPS
+ ################################
+ ISR_ARAB_volunteers_EGY:0 "Wir werden die §GKontrolle§! über die südlichen Einheiten von §Y[PAL.GetNameDef]§! übernehmen."
+ ISR_ARAB_volunteers_JOR:0 "Wir werden die §GKontrolle§! über den Rest der Einheiten von §Y[PAL.GetNameDef]§! übernehmen"
  MPL_trigger_collapse_PAL:0 " §REs hat begonnen.§!"
  MPL_trigger_collapse_ISR:0 " §REs hat begonnen.§!"
  ISR_coup_after_war:0 "Wir werden die Regierung stürzen, sobald der Krieg beendet ist."
@@ -570,6 +572,7 @@
  israel.109.t:0 "Streitkräfte in Palästina abgeschnitten"
  israel.109.d:0 "Aufgrund unserer jüngsten Misserfolge im Krieg gegen [ISR.GetNameDef] haben sich die jordanische und die syrische Regierung aus dem Krieg zurückgezogen und unsere Einheiten von der Schlacht abgeschnitten."
  israel.109.a:0 "Wir müssen einen Waffenstillstand aushandeln."
+ israel.109.b:0 "Nur ein vorübergehender Rückschlag!"
 
  israel.110.t:0 "[IRQ.GetNameDefCap] Bietet Waffenstillstand an"
  israel.110.d:0 "Nachdem sich Jordanien und Syrien aus dem Krieg zurückgezogen haben, können die irakischen Streitkräfte unser Gebiet nicht mehr erreichen und haben daher ein Waffenstillstandsabkommen angeboten."

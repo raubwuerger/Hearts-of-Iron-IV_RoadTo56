@@ -1,6 +1,6 @@
 ﻿l_german:
  r56_YUG_little_entente:0 "Mitglied der Kleinen Entente"
- r56_YUG_if_we_go_to_war_with_HUN:0 "§RWenn [HUN.GetNameDef] mit einem Mitglied der Kleinen Entente in den Krieg zieht, werden uns andere Mitglieder der Kleinen Entente zu Hilfe kommen.§!"
+ r56_YUG_if_we_go_to_war_with_HUN:0 "§RWenn Ungarn oder Österreich-Ungarn gegen ein Mitglied der Kleinen Entente in den Krieg zieht, werden uns andere Mitglieder der Kleinen Entente zu Hilfe kommen.§!"
  r56_HUN_if_we_go_to_war:0 "\n§RAndere Mitglieder der Kleinen Entente werden unseren Feinden zu Hilfe kommen.§!"
  r56_BUL_if_we_go_to_war:0 "\n§RAndere Mitglieder des Balkanpaktes werden unseren Feinden zu Hilfe kommen.§!"
  YUG_charismatic_opportunist:0 "Charismatischer Opportunist"
@@ -136,9 +136,9 @@
  r56_yugoslavia.3.c:0 "Autonomie für die Massen und sonst nichts!"
 
  yugoslavia.25.t:0 "Kleine Entente unter Beschuss"
- yugoslavia.25.d:0 "Uns ist zu Ohren gekommen, dass unsere Verbündeten in [FROM.GetNameDefCap] vor einigen Tagen von [HUN.GetAdjective]-Kräften angegriffen bzw. überfallen worden sind! Aufgrund unserer Vereinbarungen mit der [FROM.GetAdjective]-Regierung wird von uns erwartet, dass wir uns dem Krieg anschließen und unseren [FROM.GetAdjective]-Verbündeten helfen. Das könnte jedoch nicht in unserem Sinne sein, wir müssen uns schnell entscheiden, die Zeit läuft uns davon."
+ yugoslavia.25.d:0 "Uns ist zu Ohren gekommen, dass unsere Verbündeten in [FROM.GetNameDefCap] vor einigen Tagen von [little_entente_attacker.GetAdjective]-Kräften angegriffen bzw. überfallen worden sind! Aufgrund unserer Vereinbarungen mit der [FROM.GetAdjective]-Regierung wird von uns erwartet, dass wir uns dem Krieg anschließen und unseren [FROM.GetAdjective]-Verbündeten helfen. Das könnte jedoch nicht in unserem Sinne sein, wir müssen uns schnell entscheiden, die Zeit läuft uns davon."
  yugoslavia.25.a:0 "Wir haben sie einmal geschlagen, wir werden sie wieder schlagen!"
- yugoslavia.25.b:0 "Wir können es uns nicht leisten, noch einen weiteren Krieg mit den [HUN.GetAdjective]s zu führen..."
+ yugoslavia.25.b:0 "Wir können es uns nicht leisten, noch einen weiteren Krieg mit den [little_entente_attacker.GetAdjective]s zu führen..."
 
  yugoslavia.26.t:0 "[FROM.GetNameDefCap] Rücktritt"
  yugoslavia.26.d:0 "Wir sind darauf aufmerksam geworden, dass unsere Verbündeten in [FROM.GetNameDefCap] sich geweigert haben, uns in unserem Krieg gegen die [HUN.GetAdjective]s zu unterstützen, trotz unserer Vereinbarungen mit ihnen. Sie sind nicht besser als der Feind, wie ein weiser Mann einmal sagte, ein falscher Freund ist schlimmer als ein echter Feind..."

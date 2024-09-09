@@ -1520,9 +1520,9 @@ PRU_america_imperial_desc:0 "Unsere Bestimmung ist es, Amerika in eine Ära der 
  peru.61.a.3:0 "Wir werden großzügig zu allen sein"
 
 
- PRU_unlock_sanchez:0 "Das §YErbe von Sánchez Cerro§ freischalten"
- PRU_unlock_benavides:0 "Freischalten §YBenavides ermächtigen§"
- PRU_unlock_democratic:0 "Freischalten §YZwischen den Parteien vermitteln§"
+ PRU_unlock_sanchez:0 "Das §YErbe von Sánchez Cerro§! freischalten"
+ PRU_unlock_benavides:0 "Freischalten §YBenavides ermächtigen§!"
+ PRU_unlock_democratic:0 "Freischalten §YZwischen den Parteien vermitteln§!"
  PRU_unlock_inca_generals:0 "Freischalten von §YInka-Generäle§!"
  PRU_america_commie:0 "Erkläre allen §RRoten§! Ländern Südamerikas den Krieg"
  PRU_america_axis:0 "Mache deine Allianz stärker"

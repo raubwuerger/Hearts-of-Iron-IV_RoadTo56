@@ -186,7 +186,7 @@
  PHI_refugee_volunteers:0 "Flüchtige Freiwillige"
 
  PHI_expand_the_intelligence_services:0 "Ausweitung der Geheimdienste"
- PHI_expand_the_intelligence_services_desc:0 "Mehr Spione, yo. (fesselnd, nicht wahr?)"
+ PHI_expand_the_intelligence_services_desc:0 ""
  PHI_state_terror:0 "Staatlicher Terror"
  PHI_state_terror_desc:0 "Unsere Revolution kann nur durch die Zerschlagung jeder Opposition gesichert werden, die sich dem Willen unseres Volkes und seines Staates in den Weg stellen könnte."
  PHI_surveillance_state:0 "Überwachungsstaat"
@@ -196,7 +196,7 @@
  phil.1.d:0 "[PHI.GetAdjective]-Revolutionäre der "Hukbalahap" haben sich an unser Außenministerium gewandt, um die Möglichkeit einer künftigen Zusammenarbeit und unsere mögliche Hilfe bei ihrer geplanten Revolution auf den Philippinen zu erörtern. Sie sind der Meinung, dass eine gemeinsame militärische Forschung die Zusammenarbeit zwischen unseren Völkern verstärken und ihnen helfen würde, von ihren Kolonialherren unabhängig zu werden."
  phil.1.a:0 "Wir heißen unsere neuen kommunistischen Freunde willkommen!"
  phil.1.b:0 "Warum sollten wir einen Vertrag mit einer so mickrigen Nation akzeptieren?"
- phil.2.t:0 "[PHI.GetAdjective]-[SOV].GetAdjective] Handelsmission angenommen"
+ phil.2.t:0 "[PHI.GetAdjective]-[SOV.GetAdjective] Handelsmission angenommen"
  phil.2.d:0 "Unser Botschafter hat eine freudige Botschaft geschickt, in der er die Einzelheiten des mit [SOV.GetNameDef] ausgehandelten Abkommens mitteilt. Die Zusage, dass ihre Panzerkonstruktionen zusammen mit einigen Ingenieuren zur Ausbildung unserer Ingenieure zur Verfügung gestellt werden, würde unsere Forschung im Bereich der gepanzerten Fahrzeuge enorm beschleunigen."
  phil.2.a:0 "Dies ist eine bedeutsame Gelegenheit!"
  phil.3.t:0 "[PHI.GetAdjective]-[SOV].GetAdjective] Handelsmission abgelehnt"

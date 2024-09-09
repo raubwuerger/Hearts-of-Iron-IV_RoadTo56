@@ -576,13 +576,17 @@
  mandate_palestine.202.d:0 "Nachrichten aus der Levante berichten über den Zusammenbruch der unionistischen Autorität in der Region. Lokale jüdische und arabische Milizen haben sich gegeneinander erhoben, was zum vollständigen Zusammenbruch der fragilen Unionsregierung geführt hat. Obwohl die meisten Menschen dieses Ergebnis vorhergesagt haben, sind viele überrascht, dass so viele Fortschritte zunichte gemacht wurden. Vielleicht ist der Nahe Osten noch nicht bereit dafür."
  mandate_palestine.202.a:0 "Aber was passiert mit einem aufgeschobenen Traum?"
 
- mandate_palestine.203.t:0 "[MPL.GetNameDefCap] Auf dem Weg zur Unabhängigkeit"
- mandate_palestine.203.d:0 "[Schockierende Nachrichten aus Jerusalem: [MPL.GetLeader] hat angekündigt, dass das Mandat für Palästina zu Ende gehen wird. Er behauptet, der anhaltende arabische Aufstand habe der Führung gezeigt, dass das Mandat nicht haltbar sei und dass es bald zu einer Lösung kommen müsse. Die lokalen Behörden werden die Region auf die Unabhängigkeit vorbereiten.\n\nViele Menschen glauben, dass es keine Chance für eine friedliche Lösung in der Levante gibt, aber andere hoffen auf einen erfolgreichen Ausgang. Dennoch wollen die Mandatsbehörden weiter vorgehen."
- mandate_palestine.203.a:0 "Ein Ertrinkender wird sich an einen Strohhalm klammern."
+ mandate_palestine.203.t:0 "Der arabische Aufstand von 1936"
+ mandate_palestine.203.d:0 "Man hätte leicht vorhersagen können, dass selbst unter der Kontrolle der [MPL.OVERLORD.GetAdjective] das künstliche Mandat, das nach dem Großen Krieg in Palästina geschaffen wurde, nicht lange Bestand haben würde. Die zunehmenden ethnischen Spannungen nach dem Zementzwischenfall im Oktober 1935 haben sich zu einem ausgewachsenen Massenarbeiterstreik mit Aufständen in bestimmten Regionen ausgeweitet. Angeführt vom Großmufti von Jerusalem, Amin Al-Husseini, fordern die Aufständischen ein vollständiges Ende der jüdischen Einwanderung in die Region und die Auflösung der paramilitärischen Organisationen des Jischuw."
+ mandate_palestine.203.a:0 "Wer zu viel will, hat am Ende nichts."
 
- mandate_palestine.204.t:0 "[MPL.GetLeader] Erlässt Notverordnungen"
- mandate_palestine.204.d:0 "\nDa die arabischen Revolten im Mandat in vollem Gange sind, hat [MPL.GetLeader] Notstandsverordnungen erlassen. Er behauptet, dass die Revoluzzer Terroristen sind, gegen die vorgegangen werden muss, und dass es keine Verhandlungen mehr geben wird.\n\nAus London war zu diesem Zeitpunkt kein Kommentar zu erhalten."
- mandate_palestine.204.a:0 "Ein Pessimist, der mit zwei schlechten Entscheidungen konfrontiert wird, entscheidet sich für beide."
+#  mandate_palestine.203.t:0 "[MPL.GetNameDefCap] Heads Towards Independence"
+#  mandate_palestine.203.d:0 "\nShocking news out of Jerusalem today, [MPL.GetLeader] has announced that the Mandate of Palestine would be coming to an end. He claims that the ongoing Arab revolt has shown the leadership that the mandate is not sustainable and that a settlement must come soon. The local authorities will move towards preparing the region for independence.\n\nMany people believe that there is no chance a peaceful solution could prevail in the Levant, but others are hopeful for a successful outcome. Nevertheless, the Mandate authorities plan to move forward."
+#  mandate_palestine.203.a:0 "A drowning man will clutch at a straw."
+
+# mandate_palestine.204.t:0 "[MPL.GetLeader] Erlässt Notverordnungen"
+# mandate_palestine.204.d:0 "\nDa die arabischen Revolten im Mandat in vollem Gange sind, hat [MPL.GetLeader] Notstandsverordnungen erlassen. Er behauptet, dass die Revoluzzer Terroristen sind, gegen die vorgegangen werden muss, und dass es keine Verhandlungen mehr geben wird.\n\nAus London war zu diesem Zeitpunkt kein Kommentar zu erhalten."
+# mandate_palestine.204.a:0 "Ein Pessimist, der mit zwei schlechten Entscheidungen konfrontiert wird, entscheidet sich für beide."
 
  mandate_palestine.205.t:0 "[JOR.GetNameDefCap] Erklärt die Unabhängigkeit"
  mandate_palestine.205.d:0 "[JOR.GetLeader] erklärte heute, dass [JOR.GetNameDef] alle Verbindungen zu [MPL_JOR_ruler.GetNameDef] abbrechen wird, nachdem es ihnen nicht gelungen ist, das Land nach dem Verlust der Kontrolle durch [MPL_JOR_ruler.GetAdjective] im Mandat Palästina zu stabilisieren.\n\nNach dem Verlust des Mandats hielten viele dies für ein wahrscheinliches Ergebnis. Die Zukunft wird zeigen, ob sich das Zeitalter des Kolonialismus im Nahen Osten seinem Ende nähert."
@@ -600,7 +604,7 @@
  mandate_palestine.208.t.a:0 "[ISR.GetLeader] Proklamiert den Staat Israel"
  mandate_palestine.208.t.b:0 "[ISR.GetLeader] Ruft die Republik Judäa aus"
  mandate_palestine.208.t.c:0 "[ISR.GetLeader] Proklamiert das Königreich Israel"
- mandate_palestine.208.d:0 "Schon vor Moses Hess und Theodore Herzl hatten viele über die Idee einer unabhängigen jüdischen Nation gespottet. Wie sollten sie sich denn nach 2000 Jahren im Exil jemals wieder vereinigen? Heute sind die Zweifler verstummt. In einer großen Rede im Haus von Meir Dizengoff, dem Gründer von Tel Aviv, die von Tausenden besucht wurde, hat [ISR.GetLeader] eine jüdische Nation im Land Israel proklamiert. \nDies hat bereits zu Spannungen im gesamten Nahen Osten geführt, und viele arabische Nationen erwägen bereits eine Intervention.\n\nWas auch immer die Zukunft bringen mag, heute ist ein historischer Tag für die Juden weltweit."
+ mandate_palestine.208.d:0 "Schon nach Moses Hess und Theodore Herzl hatten viele über die Idee einer unabhängigen jüdischen Nation gespottet. Wie sollten sie sich denn nach 2000 Jahren im Exil jemals wieder vereinigen? Heute sind die Zweifler verstummt. In einer großen Rede im Haus von Meir Dizengoff, dem Gründer von Tel Aviv, die von Tausenden besucht wurde, hat [ISR.GetLeader] eine jüdische Nation im Land Israel proklamiert. \nDies hat bereits zu Spannungen im gesamten Nahen Osten geführt, und viele arabische Nationen erwägen bereits eine Intervention.\n\nWas auch immer die Zukunft bringen mag, heute ist ein historischer Tag für die Juden weltweit."
  mandate_palestine.208.a:0 "Heute macht sich derjenige lächerlich, der die Existenz einer jüdischen Nation leugnet."
  mandate_palestine.208.b:0 "Wir werden unsere Rache haben!"
  mandate_palestine.208.c:0 "Es ist kein Traum."

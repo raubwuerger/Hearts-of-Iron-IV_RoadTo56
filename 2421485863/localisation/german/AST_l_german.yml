@@ -26,8 +26,9 @@
 
  AST_assimilate_new_zealand:0 "Assimilate New Zealand"
 
+ australian_focus:0 "Nationaler Fokus Australien"
 
- ### EVENTS ### ""
+ ### EVENTS ###
  r56_australia.country_win:0 "Die Country Party führt die Koalition an."
  r56_australia.communist_win:0 "Die Communist Party of Australia gewinnt."
  r56_australia.fascists_win:0 "Ein Sieg für die Rechte!"

@@ -121,12 +121,32 @@
 
  #-> ARG: Argentina ""
  ARG_AI_BEHAVIOR:0 "@ARG Argentinien"
- RULE_OPTION_DEMOCRATIC_ARG:0 "Demokratisch"
- RULE_OPTION_DEMOCRATIC_ARG_AI_DESC:0 "Das Land wird Verfassungsreformen durchführen und versuchen, sich langfristig einer demokratischen Fraktion anzuschließen."
- RULE_OPTION_FASCIST_ARG_AI_DESC:0 "Die Faschisten werden den Staat reformieren und wahrscheinlich in Nachbarländer einmarschieren."
- RULE_OPTION_COMMUNIST_ARG_AI_DESC:0 "Das Land wird Kontakte zur UdSSR unterhalten und sich in Richtung Kommunismus entwickeln."
- RULE_OPTION_NON_ALIGNED_HISTORICAL_ARG:0 "Historisch - Blockfrei"
- RULE_OPTION_NON_ALIGNED_HISTORICAL_ARG_AI_DESC:0 "Die Junta hält sich an der Macht."
+ RULE_OPTION_AUS_AUSTROFASCIST:0 "£GFX_gamerules_AUS_austrofascist  Das austrofaschistische Experiment"
+ RULE_OPTION_AUS_AUSTROFASCIST_AI_DESC:0 "Im Vertrauen auf die Italiener, die Österreich während des Juli-Putsches verteidigt haben, wird Kurt Schuschnigg den austrofaschistischen Weg fortsetzen und versuchen, die Nazi-Sympathisanten schnell zu vernichten, bevor sie einen Bürgerkrieg auslösen." 
+ RULE_OPTION_AUS_HEIMWEHR:0 "£GFX_gamerules_AUS_austrofascist  Der Heimwehr Putsch"
+ RULE_OPTION_AUS_HEIMWEHR_AI_DESC:0 "Kurt Schuschnigg setzt den austrofaschistischen Weg fort, verliert aber aufgrund seiner gemäßigten Haltung die Macht an den wachsenden Einfluss der Heimwehr in der Vaterländischen Front, so dass der radikalere Ernst Rüdiger von Starhemberg an die Macht kommt."
+ RULE_OPTION_AUS_LEOPOLD_NAZI:0 "£GFX_gamerules_AUS_nazi  Der zweite Nazi-Putsch"
+ RULE_OPTION_AUS_LEOPOLD_NAZI_AI_DESC:0 "Kurt Schuschnigg wird es nicht gelingen, mit den von Deutschland unterstützten Nazi-Milizen im Land fertig zu werden, so dass ein dritter Bürgerkrieg ausbricht. In dem daraus resultierenden Machtkampf nach dem Krieg gelingt es Josef Leopold, die österreichische Unabhängigkeit zu bewahren und seine Herrschaft zu festigen."
+ RULE_OPTION_AUS_INQUART_NAZI:0 "£GFX_gamerules_AUS_nazi  Inquart's hintergehen"
+ RULE_OPTION_AUS_INQUART_NAZI_AI_DESC:0 "Kurt Schuschnigg wird es nicht schaffen, mit den von Deutschland unterstützten Nazi-Milizen im Land fertig zu werden, so dass ein dritter Bürgerkrieg ausbricht. In dem daraus resultierenden Machtkampf nach dem Krieg wird Arthur Seyss-Inquart den für die Unabhängigkeit eintretenden Josef Leopold hintergehen und das Land in den Machtbereich der Nazis bringen."
+ RULE_OPTION_AUS_DESTROY_COMPROMISE:0 "£GFX_gamerules_AUS_empire  Zerstörung des Kompromisses"
+ RULE_OPTION_AUS_DESTROY_COMPROMISE_AI_DESC:0 "In einem verzweifelten Versuch, Österreich vor dem drohenden Anschluss zu bewahren, tritt Kurt Schuschnigg zugunsten einer Restauration von Otto von Habsburg zurück, der Österreich nach einer gescheiterten Konferenz mit Ungarn auf die Reise schickt, um sein verlorenes Reich zurückzuerobern."
+ RULE_OPTION_AUS_AUSTRIA_HUNGARY:0 "£GFX_gamerules_AUS_AUSHUN  Alte Freunde nicht vergessen"
+ RULE_OPTION_AUS_AUSTRIA_HUNGARY_AI_DESC:0 "In einem verzweifelten Versuch, Österreich vor dem drohenden Anschluss zu bewahren, tritt Kurt Schuschnigg zugunsten einer Restauration von Otto von Habsburg zurück, der nach einer erfolgreichen Konferenz mit Ungarn die beiden Nationen auf eine Reise schickt, um ihr verlorenes Reich zurückzuerobern."
+ RULE_OPTION_AUS_MODERATE_HABSBURG:0 "£GFX_gamerules_AUS_empire  Eine maßvolle Restaurierung"
+ RULE_OPTION_AUS_MODERATE_HABSBURG_AI_DESC:0 "In einem verzweifelten Versuch, Österreich vor dem drohenden Anschluss zu bewahren, sucht Kurt Schuschnigg Schutz bei den westlichen Verbündeten und entscheidet sich für einen Rücktritt zugunsten einer moderaten Wiedereinsetzung von Otto von Habsburg als konstitutioneller Monarch."
+ RULE_OPTION_AUS_SCHUSCHNIGG_REFORM:0 "£GFX_gamerules_AUS_austrofascist  Schuschnigg's auftauen"
+ RULE_OPTION_AUS_SCHUSCHNIGG_REFORM_AI_DESC:0 "In einem verzweifelten Versuch, Österreich vor dem drohenden Anschluss zu bewahren, bittet Kurt Schuschnigg die westlichen Alliierten um Schutz und hält eine Wahl ab, um sie zu beschwichtigen, die er erfolgreich manipuliert, ohne dass die Alliierten davon erfahren. Schuschnigg führt dann symbolische Reformen durch, um sein Auftreten zu mäßigen."
+ RULE_OPTION_AUS_FIGL:0 "£GFX_gamerules_AUS_democratic  Die Reformen von Leopold Figl"
+ RULE_OPTION_AUS_FIGL_AI_DESC:0 "In einem verzweifelten Versuch, Österreich vor dem drohenden Anschluss zu bewahren, sucht Kurt Schuschnigg Schutz bei den westlichen Alliierten und hält eine Wahl ab, um sie zu beschwichtigen, die er erfolgreich fälscht, ohne dass die Alliierten davon erfahren. Leopold Figls Reformpartei innerhalb der CSP gelingt es jedoch, Schuschnigg zu stürzen und endlich demokratische Reformen durchzusetzen." 
+ RULE_OPTION_AUS_RENNER:0 "£GFX_gamerules_AUS_democratic  Renner's Einheitsregierung"
+ RULE_OPTION_AUS_RENNER_AI_DESC:0 "In einem verzweifelten Versuch, Österreich vor dem drohenden Anschluss zu bewahren, sucht Kurt Schuschnigg Schutz bei den westlichen Verbündeten und hält eine Wahl ab, um sie zu beschwichtigen. Sein Plan, die Wahlen zu manipulieren, wird jedoch aufgedeckt, so dass die SDAPÖ die Wahlen erdrutschartig gewinnt und Karl Renner eine Regierung der nationalen Einheit bildet, um Österreich auf den kommenden Sturm vorzubereiten." 
+ RULE_OPTION_AUS_BAUER:0 "£GFX_gamerules_AUS_communism  Bauer kehrt aus dem Exil zurück"
+ RULE_OPTION_AUS_BAUER_AI_DESC:0 "In einem verzweifelten Versuch, Österreich vor dem drohenden Anschluss zu bewahren, sucht Kurt Schuschnigg bei den westlichen Verbündeten Schutz und hält eine Wahl ab, um sie zu beschwichtigen. Sein Komplott, die Wahlen zu manipulieren, wird jedoch aufgedeckt, was dazu führt, dass die SDAPÖ die Wahlen erdrutschartig gewinnt, während Otto Bauers linke Fraktion für eine gesamtdeutsche Vereinigung eintritt und eine konkurrierende Regierung mit dem letztendlichen Ziel der Vereinigung Deutschlands unter einer sozialistischen Regierung proklamiert." 
+ 
+ 
+  
+ 
 
 
  #-> BEL: Belgium <><> ""

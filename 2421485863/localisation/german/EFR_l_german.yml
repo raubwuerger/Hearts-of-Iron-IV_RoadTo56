@@ -1,12 +1,13 @@
 ﻿l_german:
-##note bretagne: Olier Mordrel ideological crusader fascism ""
-##François Debeauvais, Raymond Delaporte ""
-##Yann Fouere a voir, Abbé Perotte ---> milice Cadudal/Perotte ""
+ vichy_france_focus:0 "Vichy Frankreich R56 nationaler Focus"
+##note bretagne: Olier Mordrel ideological crusader fascism
+##François Debeauvais, Raymond Delaporte
+##Yann Fouere a voir, Abbé Perotte ---> milice Cadudal/Perotte
 
-##notes Vichy: René Belin Captain of Industry ""
+##notes Vichy: René Belin Captain of Industry
 
-##Vichy France ""
-## Copy of france text to match cosmetic tags so vichy will have correct ideas ""
+##Vichy France
+## Copy of france text to match cosmetic tags so vichy will have correct ideas
 
  EFR_communism_party_long:0 "Parti Communiste Français"
  EFR_communism_party:0 "PCF"

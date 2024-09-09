@@ -1,7 +1,7 @@
 ﻿l_german:
 
  #Special generic desc ""
- country_capitulated.0.d_defeat_hitler:0 "[FROM.FROM.GetLeader] hat endlich verkündet, dass die [ROOT.Adjective] Streitkräfte nach einer gewaltigen Anstrengung endlich zugestimmt haben, sich bedingungslos zu ergeben. Er hat daher verkündet, dass sein großer Sieg, der durch die Anstrengungen des gesamten [ROOT.ROOT]-Volkes und seiner Verbündeten ermöglicht wurde, das Ende der Hitlerschen Tyrannei bedeutet. \nMit dem endgültigen Sieg über den Nationalsozialismus brach eine neue Morgendämmerung über Europa an, aber vorerst wird [ROOT.GetAdjective] unter militärischer Besatzung bleiben, bis eine klare Friedensregelung gefunden ist."
+ country_capitulated.0.d_defeat_hitler:0 "[FROM.FROM.GetLeader] hat endlich verkündet, dass die [ROOT.GetAdjective] Streitkräfte nach einer gewaltigen Anstrengung endlich zugestimmt haben, sich bedingungslos zu ergeben. Er hat daher verkündet, dass sein großer Sieg, der durch die Anstrengungen des gesamten [ROOT.ROOT]-Volkes und seiner Verbündeten ermöglicht wurde, das Ende der Hitlerschen Tyrannei bedeutet. \nMit dem endgültigen Sieg über den Nationalsozialismus brach eine neue Morgendämmerung über Europa an, aber vorerst wird [ROOT.GetAdjective] unter militärischer Besatzung bleiben, bis eine klare Friedensregelung gefunden ist."
 
 #News ""
 r56.news_event.1.t:0 "Mussolini von der Macht entfernt"

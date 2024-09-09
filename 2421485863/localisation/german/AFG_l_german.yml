@@ -456,7 +456,7 @@
  afghanistan.24.c:0 "Wachen! Schmeißt diese Männer raus!"
 
  afghanistan.25.t:0 "Der Pamirflug"
- afghanistan.25.d:0 "Es ist der Morgen des 24. August, drei mutige Männer mit großer Entschlossenheit haben beschlossen, die mutigste Aufgabe zu übernehmen, die Überquerung des Pamir. Nach wochenlanger Vorbereitung haben diese drei [GER.Adjective]-Männer, die für die Lufthansa, eine [GER.Adjective]-Luftfahrtagentur, arbeiten, beschlossen, dass heute der Tag ist, an dem sie zu einem Flug über den Pamir aufbrechen werden, in der Hoffnung, die Berge und Wüsten sicher zu überqueren. Wenn alles gut geht, werden sie voraussichtlich in nicht weniger als zwei Wochen zurückkehren."
+ afghanistan.25.d:0 "Es ist der Morgen des 24. August, drei mutige Männer mit großer Entschlossenheit haben beschlossen, die mutigste Aufgabe zu übernehmen, die Überquerung des Pamir. Nach wochenlanger Vorbereitung haben diese drei [GER.GetAdjective]-Männer, die für die Lufthansa, eine [GER.GetAdjective]-Luftfahrtagentur, arbeiten, beschlossen, dass heute der Tag ist, an dem sie zu einem Flug über den Pamir aufbrechen werden, in der Hoffnung, die Berge und Wüsten sicher zu überqueren. Wenn alles gut geht, werden sie voraussichtlich in nicht weniger als zwei Wochen zurückkehren."
  afghanistan.25.a:0 "Mögen sie eine sichere Reise haben."
 
  afghanistan.26.t:0 "Das Verschwinden des Pamir-Fluges"

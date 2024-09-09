@@ -39,6 +39,8 @@
  arab_communism_desc:0 "\nDer Große Arabische Aufstand gegen die Osmanen war zwar der Beginn des panarabischen Nationalismus, aber nur der erste Schritt. Als die Haschemiten in Sevres von den westlichen Alliierten verraten wurden, begann die Unterstützung für die arabischen Monarchien zu schwinden, und ein neuer Typus des arabischen Nationalismus entstand - der §YArabische Sozialismus§!\n\nEine Verschmelzung von Nationalismus und Sozialismus, der arabische Sozialismus lehnt den Kampf des westlichen Sozialismus mit dem Nationalismus ab und vertritt stattdessen die Theorie, dass §RSozialismus§! und §ONationalismus§! in einer §Rantikolonialistischen§! Haltung versöhnt werden können.§!\n"
  arab_socialism:0 "Arabischer Sozialismus"
  arab_socialism_desc:0 "§LDer Große Arabische Aufstand gegen die Osmanen war zwar der Beginn des panarabischen Nationalismus, aber nur der erste Schritt. Als die Haschemiten in Sevres von den westlichen Alliierten verraten wurden, begann die Unterstützung für die arabischen Monarchien zu schwinden, und ein neuer Typus des arabischen Nationalismus entstand - der §YArabische Sozialismus§!\n\nEine Verschmelzung von Nationalismus und Sozialismus, der arabische Sozialismus lehnt den Kampf des westlichen Sozialismus mit dem Nationalismus ab und vertritt stattdessen die Theorie, dass §RSozialismus§! und §ONationalismus§! in einer §Rantikolonialistischen§! Haltung versöhnt werden können.§!\n"
+ marhaenism:0 "Marhaenism"
+ marhaenism_desc:0 "Der Marhaenismus, eine eher rechtsgerichtete Variante des Marxismus, ist an die sozialen Bedingungen Indonesiens angepasst und betont den Nationalismus und die kollektivistische Wirtschaft sowie die demokratischen Rechte, während er Liberalismus und Individualismus verurteilt."
  marhaenism:0 "Marhaenismus"
  marhaenism_desc:0 "Der Marhaenismus ist eine eher rechtsgerichtete Variante des Marxismus, die an die sozialen Bedingungen Indonesiens angepasst ist und den Nationalismus und die kollektivistische Wirtschaft sowie die demokratischen Rechte betont, während sie Liberalismus und Individualismus verurteilt."
  marhaenism_f:0 "Rechter Marhaenismus"
@@ -63,8 +65,10 @@
  syndicalism_desc:0 "Der von den französischen Gewerkschaften nach dem Ersten Weltkrieg propagierte §YSyndikalismus§! ist eine linke Ideologie, die darauf abzielt, die Arbeiter durch Streiks§! gewerkschaftlich zu organisieren, mit dem Ziel, die Kontrolle über die Produktionsmittel und die Wirtschaft als Ganzes zu erlangen."
  national_bolshevism:0 "Nationalbolschewismus"
  national_bolshevism_desc:0 "Der §YNationalbolschewismus§!, eine Mischung aus Faschismus und Kommunismus, ist eine radikale Randideologie, die für eine §Rkommunistische Wirtschaft§! in Verbindung mit einem §Ofanatischen Nationalismus§! eintritt."
+ controlled_democracy:0 "Kontrollierte Demokratie"
+ controlled_democracy_desc:0 "Eine §Ykontrollierte Demokratie§! ist eine Regierung, in der die Regierung §3nominell den demokratischen Grundsätzen§! folgt, aber in der Praxis üblicherweise von einer einzigen Partei§! dominiert wird, mit Einschränkungen der Presse- und Meinungsfreiheit, die verhindern, dass Oppositionsparteien wirklich Fuß fassen können."
 
- #FIXES ""
+ #FIXES 
  anarchism:0 "Anarchismus"
  anarchism_desc:0 "§YAnarchismus§! ist die Ablehnung von Autorität an sich und fördert die Aufteilung der Gesellschaft in selbstverwaltende und selbstverwaltete Kollektive anstelle eines singulären, zentralisierten Staates."
  neutrality:0 "Autoritär"
@@ -110,9 +114,11 @@
  social_nationalism_desc:0 "\nAls die republikanischen Revolutionen des 19. Jahrhunderts eine nach der anderen die alten Monarchien stürzten, begannen einige nationale Bewegungen, die Werke von Marx und anderen Sozialisten in ihre Ideologie zu integrieren. Marx' Ablehnung des ethnischen Nationalismus wurde jedoch aus dieser neuen Ideologie ausgeklammert, die später als §YSozialer Nationalismus§! bezeichnet wurde.\n\nAls eine Verschmelzung vieler linker und rechter Ideologien tritt der Soziale Nationalismus für ein §Rsozialistisches Wirtschaftssystem§! und eine §Ostarke Förderung der nationalen Identität§! ein.§!"
  the_peoples_tutelage:0 "Volkstümliche Vormundschaft"
  the_peoples_tutelage_desc:0 "§L§ONationalismus§!, §3Demokratie§!, §RWohlfahrt§!. Das waren die Drei Prinzipien des Volkes, auf die sich Sun-Yat Sen's Xinghai-Revolution stützte. Aber die erste republikanische Regierung nach 4000 Jahren dynastischer Herrschaft in China konnte sich diesen Luxus noch nicht leisten, und so kam es zur §YVolksherrschaft§!.\n\nAls Teil von Sun Yat-Sens Plan sollte die Volksherrschaft eine Periode nach der Gründung der Republik China sein, in der die Kuomintang China als §gEinparteienstaat§! regieren und die Nation auf die Demokratie vorbereiten würde. Nach Suns Tod und der Machtübernahme durch Chiang Kai-Shek verwandelte der Weiße Terror gegen jegliche Opposition gegen die nationalistische Herrschaft das System jedoch in eine korrupte Autokratie§!."
+ marhaenism:0 "Marhaenism"
+ marhaenism_desc:0 "Zu Beginn des 20. Jahrhunderts kam es zu zahlreichen Veränderungen in der politischen Landschaft Ostindiens: Die Ethische Politik schuf eine neue Klasse indonesischer Intellektueller, die Boemipoetras, und damit einhergehend die Suche nach einer neuen nationalen Identität, um sich sowohl von den Niederländern als auch von den früheren regionalen Nationalisten abzugrenzen. Vieles war bereits vorhanden, wie der Islamismus und sogar der Marxismus, aber sie waren entweder zu radikal in ihren eigenen Kämpfen, was die mehrheitlich verwestlichten Boemipoetras entfremdete, oder zu vage in ihren Prämissen.\n\n 1926 formulierte ein junger Archithektur-Absolvent namens Soekarno seine eigene politische Theorie, die die drei wichtigsten ideologischen Strömungen der Boemipoetras, den säkularen §ONationalismus§!, den §GIslam§! und den §YMarxismus§! zusammenfasst. - die Soekarno seit seiner Jugend beeinflußt hatten, zu einer verbindlichen Ideologie der Indonesier zusammenfaßte, die er §YMarhaenismus§! nannte, "den indonesischen Sozialismus in der Praxis"."
 
 
- #ADR ""
+ #ADR
  ADR_neutrality_party:0 "Rat der Mit-Fürstentümer"
  ADR_neutrality_party_long:0 "Organisation des Ko-Fürstentums"
  ADR_democratic_party:0 "Unió Andorrana"
@@ -122,7 +128,7 @@
  ADR_communism_party:0 "Joves Andorrans"
  ADR_communism_party_long:0 "Joves Andorraner"
 
- #ADU ""
+ #ADU
  ADU_neutrality_party:0 "HIW"
  ADU_neutrality_party_long:0 "Hizb al-Iiman Waltaqadum"
  ADU_communism_party:0 "HSA"
@@ -132,7 +138,7 @@
  ADU_fascism_party:0 "JAM"
  ADU_fascism_party_long:0 "Jamaeat al-Akhawan al-Muslimin"
 
- #AFG ""
+ #AFG
 
  AFG_communism_party:0 "Weekh Zalmiān"
  AFG_communism_party_long:0 "Wochenblatt Zalmiān"
@@ -188,10 +194,10 @@
  AST_communism_party_long:0 "Kommunistische Partei Australiens"
 
  #AUS ""
- AUS_communism_party:0 "KPÖ"
- AUS_communism_party_long:0 "Kommunistische Partei Österreichs"
- AUS_democratic_party:0 "SDAPÖ"
- AUS_democratic_party_long:0 "Sozialdemokratische Partei Österreichs"
+ AUS_communism_party:0 "SDAPÖ-L"
+ AUS_communism_party_long:0 "Sozialdemokratische Arbeiterpartei Österreichs - Links"
+ AUS_democratic_party:0 "SDAPÖ-R"
+ AUS_democratic_party_long:0 "Sozialdemokratische Arbeiterpartei Österreichs - Rechts"
  AUS_fascism_party:1 "VF"
  AUS_fascism_party_long:1 "Vaterländische Front"
  AUS_neutrality_party:1 "Habsburg"
@@ -538,6 +544,8 @@
  #KAR ""
  KAR_neutrality_party:0 "Metsäsissit"
 
+ KIR_neutrality_party:0 "Dynastie der Abemama"
+
  #KMT ""
  KMT_kmt_party_name:0 "KMT"
  KMT_kmt_party_name_long:0 "Kuomintang"
@@ -672,8 +680,8 @@
  NIC_fascism_party_long:0 "Camisas azules"
 
  #NRU ""
- NRU_democratic_party:0 "Chef der Verwaltung"
- NRU_neutrality_party:0 "Abemama-Dynastie"
+ NRU_democratic_party:0 "Rat der Häuptlinge"
+ NRU_neutrality_party:0 "Die nauruische Monarchie"
 
  #OMA ""
 

@@ -244,6 +244,38 @@
  AUSHUN_democratic_ADJ:0 "Danubisch"
  AUSHUN_democratic_DEF:0 "die Donauföderation"
 
+ #AUS_GERMANY
+
+ AUS_GERMANY_democratic:0 "Bundesrepublik Großdeutschland"
+ AUS_GERMANY_democratic_DEF:0 "die Bundesrepublik Großdeutschland"
+ AUS_GERMANY_communism:0 "Bundesrepublik Großdeutschland"
+ AUS_GERMANY_communism_DEF:0 "die Bundesrepublik Großdeutschland"
+ AUS_GERMANY_neutrality:0 "Vereinigte Königreiche von Großdeutschland"
+ AUS_GERMANY_neutrality_DEF:0 "die Vereinigten Königreiche von Großdeutschland"
+ AUS_GERMANY_fascism:0 "Großgermanisches Reich"
+ AUS_GERMANY_fascism_DEF:0 "das Großgermanische Reich"
+ AUS_GERMANY_ADJ:0 "Großdeutsch"
+
+ AUS_CISLEITHANIA_democratic:0 "Föderation von Cisleithanien"
+ AUS_CISLEITHANIA_democratic_DEF:0 "die Föderation von Cisleithanien"
+ AUS_CISLEITHANIA_neutrality:0 "Föderation von Cisleithanien"
+ AUS_CISLEITHANIA_neutrality_DEF:0 "die Föderation von Cisleithanien"
+ AUS_CISLEITHANIA_fascism:0 "Bundesland Groß-Österreich"
+ AUS_CISLEITHANIA_fascism_DEF:0 "das Bundesland Großösterreich"
+ AUS_CISLEITHANIA_communism:0 "Volksrepublik Cisleithanien"
+ AUS_CISLEITHANIA_communism_DEF:0 "die Volksrepublik Cisleithanien"
+ AUS_CISLEITHANIA_ADJ:0 "Cisleithanisch"
+ 
+ AUS_EMPIRE_democratic:0 "Kaisertum Österreich"
+ AUS_EMPIRE_democratic_DEF:0 "das Kaisertum Österreich"
+ AUS_NAZI_fascism:0 "Bundesland Deutschösterreich"
+ AUS_NAZI_fascism_DEF:0 "der Staat Deutschösterreich"
+ AUS_OSTMARK_fascism:0 "Reichsgau Ostmark"
+ AUS_OSTMARK_fascism_DEF:0 "das Reichsgau Ostmark"
+ AUS_south_germany:0 "Süddeutscher Bund"
+ AUS_south_germany_DEF:0 "der Süddeutsche Bund"
+ AUS_south_germany_ADJ:0 "Süddeutsche"
+
  #Cossacks ""
  COSSACKS_UNITED_neutrality:0 "Kosaken-Hetmanat"
  COSSACKS_UNITED_neutrality_ADJ:0 "Kosaken"

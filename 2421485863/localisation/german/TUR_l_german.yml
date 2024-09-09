@@ -203,6 +203,7 @@
  turkey.117.b:0 "Glauben die Türken, dass dies ihre Rettung ist?"
  turkey.118.t:0 "Die Sowjets stimmen zu"
  turkey.118.d:0 "Die Sowjets haben zugestimmt. Auch wenn ihr wachsender Einfluss auf unser Land zweifellos unpopulär sein wird, wird die Normalisierung unserer bilateralen sowjetischen Beziehungen sicherlich dazu beitragen, den Frieden in der Region zu verlängern."
+ turkey.118.a:0 "Prächtig!"
  turkey.119.t:0 "Die Sowjets weigern sich"
  turkey.119.d:0 "Die Sowjets haben sich geweigert. Obwohl das Zustandekommen dieses Abkommens zweifellos im ganzen Land unpopulär gewesen wäre, ist dies eine enttäuschende Entwicklung für unsere bilateralen Beziehungen und könnte in naher Zukunft zu einer Bedrohung des regionalen Friedens werden."
 
@@ -766,7 +767,10 @@
  turkey.141.a:0 "Wir brauchen alle Freunde, die wir bekommen können."
  turkey.141.b:0 "Syrien gehört uns, egal was irgendwelche Besatzer sagen!"
  turkey.142.t:0 "Die Franzosen nehmen an!"
+ turkey.142.d:0 "Die Diplomaten von [FROM.getAdjective] haben beschlossen, ihr Schicksal nicht auf die Probe zu stellen, und haben eine positive Antwort auf unsere bescheidene Anfrage erhalten, da sie es für unvermeidlich halten. Wir werden vorrücken und das umstrittene Gebiet sofort besetzen!"
+ turkey.142.a:0 "Mein, mein, es ist alles mein!"
  turkey.143.t:0 "Die Franzosen lehnen ab"
+ turkey.143.d:0 "Eine offizielle Kündigung unserer bescheidenen Bitte wurde in unserer Botschaft von unserem Botschafter von ihren jeweiligen [FROM.getAdjective] Kollegen entgegengenommen. Wir müssen vielleicht die harte Pille schlucken und das Undenkbare akzeptieren. Andererseits gibt es aber auch einen Weg, unsere Würde in dieser Situation durch aggressive Diplomatie zu bewahren."
  turkey.143.a:0 "Das ist enttäuschend."
  turkey.143.b:0 "Dann werden wir es trotzdem nehmen!"
  turkey.144.t:0 "Die Osmanen bitten um Zypern"

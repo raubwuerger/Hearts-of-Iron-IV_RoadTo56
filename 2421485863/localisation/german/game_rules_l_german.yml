@@ -284,7 +284,7 @@ RULE_VOLUNTEERS_NOT_ANARCHISTS_TT:0 "§RSouveräne Staaten können keine Freiwil
  RULE_OPTION_ROMANIA:0 "Monarchist: Haus Hohenzollern"
  RULE_ROMANIA_POL_AI_DESC:0 "Die polnische KI wird einen Hohenzollern zum König krönen und versuchen, eine Union mit Rumänien zu bilden."
  RULE_OPTION_HABSBURG:0 "Monarchist: Haus Habsburg"
- RULE_HABSBURG_POL_AI_DESC:0 "Die polnische KI wird Karl Albrecht von Habsburg zum König krönen und versuchen, eine Union mit der Tschechoslowakei zu bilden."
+ RULE_HABSBURG_POL_AI_DESC:0 "Die polnische KI wird Karol Olbracht von Habsburg zum König krönen und versuchen, eine Union mit der Tschechoslowakei zu bilden."
  RULE_OPTION_BERMONDT:0 "Monarchist: Haus Avalishvili"
  RULE_BERMONDT_POL_AI_DESC:0 "Die polnische KI wird Pavel Bermondt-Avalov zum König krönen und versuchen, sich der Achse anzuschließen."
  RULE_OPTION_HISTORICAL_CHI_AI_DESC:0 "Die chinesische KI wird versuchen, der historischen Kette von Ereignissen so weit wie möglich zu folgen."
