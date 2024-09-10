@@ -3,7 +3,7 @@
 #--> Buildings ""
 
 
- aluminum_mill:0 "Aluminium Mühle"
+ aluminum_mill:0 "Aluminiumhütte"
  aluminum_mill_plural:0 "Aluminiumhütten"
  aluminum_mill_desc:0 "Dieses Gebäude versorgt den Staat mit neuen Ressourcen"
  aluminum_mill_amount:0 "$VALUE|Y0=$"

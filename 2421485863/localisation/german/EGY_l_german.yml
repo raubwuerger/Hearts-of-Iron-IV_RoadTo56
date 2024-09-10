@@ -1071,7 +1071,7 @@
  EGY_fierce_sudanese_separatism:0 "Scharfer sudanesischer Separatismus"
 
  EGY_lower_sudanese_separatism_tt:0 "§Gsenkt§! den §Y[SUD.GetAdjective] Separatismus§! im Staat"
- EGY_raise_sudanese_separatism_tt:0 "§Erhöht§! den §Y[SUD.GetAdjective] Separatismus§! im Staat"
+ EGY_raise_sudanese_separatism_tt:0 "§GErhöht§! den §Y[SUD.GetAdjective] Separatismus§! im Staat"
  EGY_remove_sudanese_separatism_tt:0 "§GEntfernt§! den §Y[SUD.GetAdjective] Separatismus§! im Staat"
 
  #custom ""
