@@ -1474,9 +1474,9 @@
  AFG_increase_infiltration_info_tt_2:0 "Wir werden mit §Y2 paschtunischen Rebellen Einheit§! in §Y[FROM.GetName]§! beginnen, sobald der Krieg beginnt."
  AFG_increase_infiltration_info_tt_3:0 "Wir werden mit §Y3 paschtunischen Rebellen Einheit§! in §Y[FROM.GetName]§! beginnen, sobald der Krieg beginnt."
 
- AFG_fully_infiltrated_442:0 "Hat 3 §t[AFG.GetAdjective] Infiltration Preperation§! Punkte in [442.GetName]."
- AFG_fully_infiltrated_444:0 "Hat 3 §t[AFG.GetAdjective] Infiltration Preperation§! Punkte in [444.GetName]."
- AFG_fully_infiltrated_445:0 "Hat 3 §t[AFG.GetAdjective] Infiltration Preperation§! Punkte in [445.GetName]."
+ AFG_fully_infiltrated_442:0 "Hat 3 §t[AFG.GetAdjective] Vorbereitung der Infiltration§! Punkte in [442.GetName]."
+ AFG_fully_infiltrated_444:0 "Hat 3 §t[AFG.GetAdjective] Vorbereitung der Infiltration§! Punkte in [444.GetName]."
+ AFG_fully_infiltrated_445:0 "Hat 3 §t[AFG.GetAdjective] Vorbereitung der Infiltration§! Punkte in [445.GetName]."
  AFG_pakistani_infiltration_map_area:0 "Wählen Sie aus, wo die Infiltration vorbereitet werden soll."
 
  AFG_amanullah_has_returned:0 "§YAmanullah Khan§! ist von der §YKöniglichen Tour durch Europa§! zurückgekehrt."
