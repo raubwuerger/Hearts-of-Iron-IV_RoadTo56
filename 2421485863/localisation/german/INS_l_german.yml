@@ -109,6 +109,7 @@ INS_urip_sumoharjo:0 "Oerip Soemohardjo"
 INS_willem_rhemrev:0 "Willem Vermehr-Rhemrev"
 INS_william_mansvelt:0 "William Mansvelt"
 INS_wiranatakusuma:0 "Raden Wiranatakoesoema V"
+INS_wuryaningrat:0 "Raden Woerjaningrat"
 
 #Atjeh ""
 ATJ_daoed_beoereoeh:0 "Daoed Beoereoeh"
@@ -507,7 +508,7 @@ indonesia.38.desc:0 "Die Diplomatie ist trotz unserer besten Bemühungen geschei
 indonesia.38.a:0 "Nun gut."
 indonesia.38.b:0 "Sie werden für diese Unverschämtheit bezahlen."
 
-################ ""
+################
 
 indonesia.40.t:0 "[FROM.GetNameDefCap] Petitionen für koloniale Freiheit"
 indonesia.40.desc:0 "Die Welt hat sich seit dem Ersten Weltkrieg gewaltig verändert, und die Zeit der Kolonialreiche ist ziemlich altmodisch geworden. Das kürzlich unabhängige [FROM.GetName] ist ein Paradebeispiel für den Kampf der einheimischen Bevölkerung unter kolonialer Herrschaft um Freiheit und Unabhängigkeit. Diplomaten der [FROM.GetAdjective]-Regierung und -Verwaltung haben uns angefleht und gebeten, unseren kolonialen Besitzungen in Südostasien die Unabhängigkeit zu gewähren, im Gegenzug für eine Schutzgarantie von [INS.GetAdjective]. Was sollen wir von diesem Angebot halten?"
@@ -525,7 +526,18 @@ indonesia.45.desc:0 "Trotz unserer guten Absichten ist unsere Petition auf taube
 indonesia.45.a:0 "Es gibt nichts, was wir tun können..."
 indonesia.45.b:0 "Der Kolonialismus muss sich seinem Schicksal stellen, so oder so!"
 
-#INS renames cities ""
+################
+
+indonesia.46.t:0 "Tod von Dr. Soetomo"
+indonesia.46.d:0 "Aus Soerabaja wurde berichtet, dass Dr. Soetomo, der Anführer der Parindra, gestern Abend an Leberkrebs gestorben ist. Der Gründer von Boedi Oetomo, der ersten politischen Bewegung der Boemipoetra in Indien, hat immer wieder bewiesen, dass die Unabhängigkeit mit gewaltfreien Mitteln erreicht werden kann, im Gegensatz zu den radikaleren Bewegungen wie Sarekat Islam und Partai Nasional Indonesia. In Soerabaja sollte ein Trauerzug mit seinen Anhängern in Parindra stattfinden, darunter sein Nachfolger Woerjaningrat und der Führer der nationalistischen Fraktion im Volksraad, Mohammad Hoesni Thamrin."
+indonesia.46.a:0 "Eine Kraft des Guten, ist gegangen"
+
+indonesia.47.t:0 "Ablösung der Wachen"
+indonesia.47.d:0 "Mit der kürzlichen Beförderung von Konteradmiral Ferwerda und Furstner in der Koninklijke Marine würde Vizeadmiral Maarten van Dulm, der seit 1934 bis heute im Dienst der Ostindienflotte steht, im Alter von 57 Jahren offiziell in den Ruhestand treten."
+indonesia.47.a:0 "Das Königreich braucht immer noch seinen Dienst"
+indonesia.47.b:0 "Wir danken Ihnen für Ihren Dienst"
+
+#INS renames cities
 indonesia.100.t:0 "Beseitigung des kolonialistischen Einflusses"
 indonesia.100.desc:0 "Jetzt, wo wir unabhängig sind, wäre ein guter erster Schritt, um unsere Autonomie zu demonstrieren, die Änderung der Namen einiger unserer Städte. [HOL.GetADjective]-Einfluss hat in unserer neuen Nation keinen Platz."
 indonesia.100.a:0 "So soll es sein!"
@@ -640,3 +652,4 @@ progressive_doctor_INS:0 "Fortschrittlicher Arzt"
 defender_of_islamic_workers:0 "Verteidiger der islamischen Arbeiter"
 psii_leader:0 "Anführer der PSII"
 shadow_of_cokroaminoto:0 "Schatten von Tjokroaminoto"
+cautious_japan:0 "Vorsicht vor japanischen Absichten"

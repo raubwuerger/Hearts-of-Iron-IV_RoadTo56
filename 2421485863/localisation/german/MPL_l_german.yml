@@ -577,7 +577,7 @@
  mandate_palestine.202.a:0 "Aber was passiert mit einem aufgeschobenen Traum?"
 
  mandate_palestine.203.t:0 "Der arabische Aufstand von 1936"
- mandate_palestine.203.d:0 "Man hätte leicht vorhersagen können, dass selbst unter der Kontrolle der [MPL.OVERLORD.GetAdjective] das künstliche Mandat, das nach dem Großen Krieg in Palästina geschaffen wurde, nicht lange Bestand haben würde. Die zunehmenden ethnischen Spannungen nach dem Zementzwischenfall im Oktober 1935 haben sich zu einem ausgewachsenen Massenarbeiterstreik mit Aufständen in bestimmten Regionen ausgeweitet. Angeführt vom Großmufti von Jerusalem, Amin Al-Husseini, fordern die Aufständischen ein vollständiges Ende der jüdischen Einwanderung in die Region und die Auflösung der paramilitärischen Organisationen des Jischuw."
+ mandate_palestine.203.d:0 "Man hätte leicht vorhersagen können, dass das künstliche Mandat, das nach dem Ersten Weltkrieg in Palästina geschaffen wurde, selbst unter der Kontrolle der [MPL.OVERLORD.GetAdjective] nicht lange Bestand haben würde. Die zunehmenden ethnischen Spannungen nach dem Zement-Zwischenfall im Oktober 1935 haben sich zu einem ausgewachsenen Massenarbeiterstreik ausgeweitet, der in bestimmten Regionen gewalttätige Ausschreitungen gegen jüdische Zivilisten zur Folge hatte. Angeführt vom Großmufti von Jerusalem, Amin Al-Husseini, forderten die Aufständischen ein völliges Ende der jüdischen Einwanderung in die Region und die Auflösung der paramilitärischen Organisationen des Jischuw. Die [MPL.OVERLORD.GetAdjective]-Behörden haben bereits begonnen, sich auf eine weitere Eskalation vorzubereiten."
  mandate_palestine.203.a:0 "Wer zu viel will, hat am Ende nichts."
 
 #  mandate_palestine.203.t:0 "[MPL.GetNameDefCap] Heads Towards Independence"
@@ -588,8 +588,8 @@
 # mandate_palestine.204.d:0 "\nDa die arabischen Revolten im Mandat in vollem Gange sind, hat [MPL.GetLeader] Notstandsverordnungen erlassen. Er behauptet, dass die Revoluzzer Terroristen sind, gegen die vorgegangen werden muss, und dass es keine Verhandlungen mehr geben wird.\n\nAus London war zu diesem Zeitpunkt kein Kommentar zu erhalten."
 # mandate_palestine.204.a:0 "Ein Pessimist, der mit zwei schlechten Entscheidungen konfrontiert wird, entscheidet sich für beide."
 
- mandate_palestine.205.t:0 "[JOR.GetNameDefCap] Erklärt die Unabhängigkeit"
- mandate_palestine.205.d:0 "[JOR.GetLeader] erklärte heute, dass [JOR.GetNameDef] alle Verbindungen zu [MPL_JOR_ruler.GetNameDef] abbrechen wird, nachdem es ihnen nicht gelungen ist, das Land nach dem Verlust der Kontrolle durch [MPL_JOR_ruler.GetAdjective] im Mandat Palästina zu stabilisieren.\n\nNach dem Verlust des Mandats hielten viele dies für ein wahrscheinliches Ergebnis. Die Zukunft wird zeigen, ob sich das Zeitalter des Kolonialismus im Nahen Osten seinem Ende nähert."
+ mandate_palestine.205.t:0 "[JOR.GetNameDefCap] Entfernungen von [MPL_JOR_ruler.GetNonIdeologyName]"
+ mandate_palestine.205.d:0 "[JOR.GetLeader] hat heute erklärt, dass [JOR.GetNameDef] sich von [MPL_JOR_ruler.GetNameDef] distanzieren wird, nachdem das Emirat nach dem Zusammenbruch des Mandats von Palästina vom Rest des Reiches abgetrennt wurde. GetNameDefCap] hat Truppen entsandt, um die Region zu stabilisieren, aber es ist nicht bekannt, ob sie verhindern können, dass [JOR.GetNameDef] dem Zugriff von [MPL_JOR_ruler.GetAdjective] entgleitet.\n\nNach dem Verlust des Mandats hielten viele dies für ein wahrscheinliches Ergebnis. Die Zukunft wird zeigen, ob sich das Zeitalter des Kolonialismus im Nahen Osten seinem Ende nähert."
  mandate_palestine.205.a:0 "Ein Trend ist es."
  mandate_palestine.205.b:0 "Eid Al Istiklal! (Spielen Sie als Jordanien)"
 
@@ -795,14 +795,15 @@
  ISR_armageddon_coming:0 "§RDie benachbarten arabischen Nationen werden das vielleicht nicht so gut aufnehmen...§!"
  MPL_ISR_will_capitulate:0 "§Y[ISR.GetNameDefCap]§! werden kapitulieren."
 
- MPL_order_above_50:0 "§YAuftragsebene§! ist über §Y50%§!"
- MPL_order_above_75:0 "§YAuftragsebene§! liegt über §Y75%§!"
- MPL_order_100:0 "§YAuftragsebene§! ist §Y100%§!"
- MPL_order_down_5:0 "§YAuftragsebene§! wird §Rum 5%§! reduziert§!"
- MPL_order_down_10:0 "§YAuftragsebene§! wird §Rreduziert§! um 10%§!"
- MPL_order_down_20:0 "§YAuftragsebene§! wird §Rreduziert§! um §R20%§!"
- MPL_order_up_5:0 "§YAuftragsebene§! wird §Gerhöht§! um §G5%§!"
- MPL_order_up_10:0 "§YAuftragsebene§! wird §Gerhöht§! um §G10%§!"
+ MPL_order_above_50:0 "§YAuftragsstufe§! liegt über §Y50%§!"
+ MPL_order_above_75:0 "§YAuftragsstufe§! liegt über §Y75%§!"
+ MPL_order_above_90:0 "§YAuftragsstufe§! liegt über §Y90%§!"
+ MPL_order_100:0 "§YAuftragsstufe§! ist §Y100%§!"
+ MPL_order_down_5:0 "§YAuftragsstufe§! wird §Rum 5%§! reduziert§!"
+ MPL_order_down_10:0 "§YAuftragsstufe§! wird §Rreduziert§! um 10%§!"
+ MPL_order_down_20:0 "§YAuftragsstufe§! wird §Rreduziert§! um §R20%§!"
+ MPL_order_up_5:0 "§YAuftragsstufe§! wird §Gerhöht§! um §G5%§!"
+ MPL_order_up_10:0 "§YAuftragsstufe§! wird §Gerhöht§! um §G10%§!"
  MPL_order_up_15:0 "§YAuftragsstufe§! wird §Gerhöht§! um §G15%§!"
  MPL_order_up_20:0 "§YAuftragsstufe§! wird §Gerhöht§! um §G20%§!"
  MPL_order_up_30:0 "§YOrdensstufe§! wird §Gerhöht§! um §G30%§!"

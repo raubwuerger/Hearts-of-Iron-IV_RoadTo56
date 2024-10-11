@@ -69,6 +69,8 @@
  LIE_abwehr_contacts_desc:0 ""
  LIE_seek_german_guarantees:0 "Suche nach [GER.GetAdjective] Nicht-Agression"
  LIE_seek_german_guarantees_desc:0 ""
+ LIE_purchase_german_equipment:0 "Kauf [GER.GetAdjective] Ausrüstung"
+ LIE_purchase_german_equipment_desc:0 ""
  LIE_increase_swiss_cooperation:0 "Erhöhung der [SWI.GetAdjective] Zusammenarbeit"
  LIE_increase_swiss_cooperation_desc:0 "Wir und die [SWI.GetNameDef] streben beide nach der gleichen Sache, Neutralität und Wohlstand, wir sind Brüder im Frieden und in den Waffen. Brüder müssen zusammenhalten und sich gegenseitig helfen, um eine bessere Zukunft zu erreichen, koste es, was es wolle."
  LIE_SWI_cooperation:0 "[LIE.GetAdjective]-[SWI.GetAdjective] Zusammenarbeit ist angesprochen worden"
@@ -195,7 +197,7 @@
  LIE_ministry_of_public_enlightenment_desc:0 ""
  LIE_social_welfare:0 "Soziale Wohlfahrt"
  LIE_social_welfare_desc:0 ""
- LIE_our_own_path:0 "Unser eigener Weg"
+ LIE_our_own_path:0 "[ROOT.GetNonIdeologyName] für [ROOT.GetAdjective]s"
  LIE_our_own_path_desc:0 ""
  LIE_foreign_recruitment:0 "Ausländische Rekrutierung"
  LIE_foreign_recruitment_desc:0 ""
@@ -344,6 +346,10 @@
  LIE_the_big_guns_desc:0 ""
  LIE_liechtenstein_naval_academy:0 "[ROOT.GetAdjective] Naval Academy"
  LIE_liechtenstein_naval_academy_desc:0 ""
+ LIE_aircraft_experiments:0 "Experimente mit Flugzeugen"
+ LIE_aircraft_experiments_desc:0 ""
+ LIE_the_mighty_balzers:0 "Die Mächtigen von Balzers"
+ LIE_the_mighty_balzers_desc:0 ""
 
  #decisons & dynamic modifiers ""
 
@@ -402,7 +408,11 @@
  LIE_foreign_recruitment_category:0 "Ausländische Rekrutierung"
  LIE_foreign_recruitment_in_place:0 "Ausländische Rekrutierung in [FROM.GetNameDef]"
 
- #events ""
+ form_russia_category: "Erschaffe Russland"
+ form_russia:0 "Erschaffe Russland"
+ reclaim_the_kuban_region:0 "Die Region Kuban zurückgewinnen"
+
+ #events
 
  liechtenstein.1.t:0 "Tod von Franz I."
  liechtenstein.1.d:0 "Das Volk von [ROOT.GetNonIdeologyName] trauert nach dem frühen Tod unseres geliebten Monarchen Franz I. Die Nachricht von seinem Ableben hat sich schnell im ganzen Land verbreitet, und die Straßen sind voll von Menschen, die ihm die letzte Ehre erweisen und ihre Trauer zum Ausdruck bringen. Als Führer unseres Landes für fast ein Jahrzehnt war Franz I. eine Säule der Stärke und Stabilität, die uns durch einige unserer schwierigsten Zeiten führte, ähnlich wie sein Vorgänger Johann II. Sein Ableben hinterlässt eine Lücke in unseren Herzen und in unserer Regierung, die nicht leicht zu füllen sein wird.\n\nFranz' Großneffe, Franz Joseph, wird ab sofort als Franz Joseph II. seine Nachfolge antreten und die Aufgaben seines Vaters entsprechend weiterführen."
@@ -519,8 +529,10 @@
  liechtenstein.26.b:0 "Wir sind nicht interessiert."
 
  liechtenstein.27.t:0 "[FROM.GetNameDefCap] Akzeptiert Handelsabkommen"
+ liechtenstein.27.a:0 "Wunderbar."
 
  liechtenstein.28.t:0 "[FROM.GetNameDefCap] Lehnt Handelsabkommen ab"
+ liechtenstein.28.a:0 "Traue niemals einem Kommunisten."
 
  liechtenstein.29.t:0 "Weißrussischer Coup"
  liechtenstein.29.d:0 "Seit dem Ende des russischen Bürgerkriegs 1923 hat [ROOT.GetNeutralParty] eine großzügige Politik gegenüber weißrussischen Offizieren betrieben, die ins Exil gehen wollten. Mit der jüngsten Instabilität, die durch die Einrichtung des Regentschaftsrates entstanden ist, haben die Russen jedoch zusammen mit zahlreichen anderen militanten Exilanten einen Putsch gegen den Regentschaftsrat gestartet und ihn für aufgelöst erklärt, wobei der Anführer des Putsches, Boris Smyslovsky, zum Zaren von [ROOT. Boris hat sich dafür eingesetzt, die "schwache Hand" der vorherigen Regierung zu korrigieren, und hat [ROOT.GetNonIdeologyName] zum Zufluchtsort für ehemalige Weißrussen erklärt, die sich verpflichten, den Kampf gegen den Kommunismus fortzusetzen."

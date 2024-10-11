@@ -995,6 +995,7 @@ SWE_pressure_country_government_baltic:0 "Druck auf die [FROM.getAdjective] Regi
 SWE_promote_ideology_rallies_baltic:0 "Ideologische Kundgebungen in [FROM.getName]"
 SWE_pressure_country_government_fin:0 "Druck auf die [FROM.getAdjective] Regierung"
 SWE_promote_ideology_rallies_fin:0 "Ideologische Kundgebungen in [FROM.getName]"
+SWE_fight_alongside_country_comrades_fin:0 "Kämpfen Sie an der Seite unserer [FIN.GetAdjective] Kameraden"
 
 ##### Tooltips ""
 SWE_is_in_the_baltic_states_tt:0 "Ist in den baltischen Staaten"

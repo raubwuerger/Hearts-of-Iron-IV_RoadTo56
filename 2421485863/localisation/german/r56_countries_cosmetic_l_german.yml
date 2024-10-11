@@ -993,16 +993,16 @@
  FRA_UK_ADJ:0 "Französisch-britische"
  FRA_UK_fascism_ADJ:0 "Anjou"
 
- #FRI ""
+ #FRI
  FRIVichy_fascism:0 "Französisch-Indochina"
  FRIVichy_fascism_DEF:0 "Französisches Indochina"
  FRIVichy_fascism_ADJ:0 "Indochina"
 
- #FengClique ""
+ #FengClique
  FengClique_fascism:0 "Neue Fengtian-Clique"
  FengClique_fascism_DEF:0 "die Neue Fengtian-Clique"
 
- #Gran Colombia ""
+ #Gran Colombia
  GCO_UNIFIED_fascism:0 "Großkolumbianischer Staat"
  GCO_UNIFIED_fascism_DEF:0 "der großkolumbianische Staat"
  GCO_UNIFIED_fascism_ADJ:0 "Megalokolumbien"
@@ -1019,7 +1019,13 @@
  GCO_UNIFIED_democratic_DEF:0 "Gran Kolumbien"
  GCO_UNIFIED_democratic_ADJ:0 "Megalokolumbien"
 
- #INS_monarchy ""
+ #INS Secular
+ INS_secular_democratic:0 "Republik Indonesien"
+ INS_secular_democratic_DEF:0 "die Republik Indonesien"
+ INS_secular_fascism:0 "Islamische Republik Indonesien"
+ INS_secular_fascism_DEF:0 "die Islamische Republik Indonesien"
+
+ #INS_monarchy
  INS_monarchy_neutrality:0 "Sultanat von Nusantara"
  INS_monarchy_neutrality_DEF:0 "das Sultanat von Nusantara"
  INS_monarchy_neutrality_ADJ:0 "Nusantaran"
@@ -1033,11 +1039,11 @@
  INS_monarchy_communism_DEF:0 "die Volksrepublik Nusantara"
  INS_monarchy_communism_ADJ:0 "Nusantaran"
 
- #KEN ""
+ #KEN
  KEN_ENG_autonomy_integrated_puppet:0 "$OVERLORDADJ$ Kenia"
  KEN_ENG_autonomy_integrated_puppet_DEF:0 "$OVERLORDADJ$ Kenia"
 
- #yes it's an easter egg, deal with it. ""
+ #yes it's an easter egg, deal with it.
  KOM_JAP_fascism:0 "Komi-san no Jōtai"
  KOM_JAP_democratic:0 "Komi-san Kyōwakoku"
  KOM_JAP_neutrality:0 "Komi-san no Jōtai"
@@ -1827,7 +1833,7 @@
  MEX_ENG_autonomy_reichsprotectorate_DEF:0 "die Kolonie Mexiko"
  MEX_ENG_autonomy_satellite:0 "Dominion von Mexiko"
  MEX_ENG_autonomy_satellite_DEF:0 "das Dominion von Mexiko"
- #Spanish Puppet ""
+ #Spanish Puppet
  MEX_SPR_fascism_subject:0 "Vizekönigreich Neuspanien"
  MEX_SPR_fascism_subject_DEF:0 "das Vizekönigreich Neuspanien"
  MEX_SPR_fascism_subject_ADJ:0 "Neuspanien"
@@ -1840,7 +1846,7 @@
  MEX_SPA_neutrality_subject:0 "Vizekönigreich Neuspanien"
  MEX_SPA_neutrality_subject_DEF:0 "das Vizekönigreich Neuspanien"
  MEX_SPA_neutrality_subject_ADJ:0 "Neuspanien"
- #(Cristero) Spanish Puppet ""
+ #(Cristero) Spanish Puppet
  MEX_cristero_SPR_fascism_subject:0 "Vizekönigreich Neuspanien"
  MEX_cristero_SPR_fascism_subject_DEF:0 "das Vizekönigreich Neuspanien"
  MEX_cristero_SPR_fascism_subject_ADJ:0 "Neuspanien"
@@ -1854,16 +1860,20 @@
  MEX_cristero_SPA_neutrality_subject_DEF:0 "das Vizekönigreich Neuspanien"
  MEX_cristero_SPA_neutrality_subject_ADJ:0 "Neuspanien"
 
+ 
+ MEX_SOCIALISTS_communism:0 "Vereinigte Mexikanische Staaten"
+ MEX_SOCIALISTS_communism_DEF:0 "die Vereinigten Mexikanischen Staaten"
 
- #MMGmen ""
+
+ #MMGmen
  MMGmen_fascism:0 "Mongolische Militärregierung"
  MMGmen_fascism_DEF:0 "die mongolische Militärregierung"
 
- #MCP ""
+ #MCP
  MongalCouncilCtag_neutrality:0 "Mongolisches Politisches Komitee"
  MongalCouncilCtag_neutrality_DEF:0 "das Mongolische Politische Komitee"
 
- #MPL ""
+ #MPL
  MPL_free_fascism:0 "Levantinischer Staat"
  MPL_free_fascism_DEF:0 "der levantinische Staat"
  MPL_free_democratic:0 "Levantinische Konföderation"

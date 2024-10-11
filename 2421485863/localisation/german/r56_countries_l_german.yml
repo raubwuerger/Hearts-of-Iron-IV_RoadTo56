@@ -531,8 +531,8 @@
  #LIE ""
  LIE:0 "Liechtenstein"
  LIE_ADJ:0 "Liechtenstein"
- LIE_fascism:0 "Nationalsozialistischer Staat Liechtenstein"
- LIE_fascism_DEF:0 "der nationalsozialistische Staat Liechtenstein"
+ LIE_fascism:0 "Staat Liechtenstein"
+ LIE_fascism_DEF:0 "der Staat Liechtenstein"
  LIE_fascism_ADJ:0 "Liechtensteiner"
  LIE_democratic:0 "Republik Liechtenstein"
  LIE_democratic_DEF:0 "die Republik Liechtenstein"
@@ -683,7 +683,7 @@
  NFL_UK_subject_communism_def:0 "die Neufundland-Kommune"
  NFL_subject:0 "$OVERLORDADJ$ Neufundland"
 
- #PGR ""
+ #PGR
  PGR_fascism:0 "Provisorische Regierung der Republik China"
  PGR_fascism_ADJ:0 "Provisorische Chinesen"
  PGR_fascism_DEF:0 "die Provisorische Regierung der Republik China"
@@ -697,7 +697,7 @@
  PGR_communism_ADJ:0 "Beiyang"
  PGR_communism_DEF:0 "die Sozialistische Beiyang-Republik"
 
- #PLU ""
+ #PLU
  PLU:0 "Palau"
  PLU_ADJ:0 "Palau"
  PLU_democratic:0 "Republik Palau"
@@ -708,8 +708,21 @@
  PLU_fascism_DEF:0 "das Kaiserreich Palau"
  PLU_communism:0 "Palauische Sowjetrepublik"
  PLU_communism_DEF:0 "die Palauische Sowjetrepublik"
+ 
+ #PPA
+ PPA_fascism:0 "Staat West Papua"
+ PPA_fascism_DEF:0 "der Staat West-Papua"
+ PPA_democratic:0 "Föderale Republik West Papua"
+ PPA_democratic_DEF:0 "Die Föderale Republik West Papua"
+ PPA_communism:0 "Papua-Stammesgemeinde"
+ PPA_communism_DEF:0 "Die Papua-Stammesgemeinde"
+ PPA_neutrality:0 "Die Republik West Papua"
+ PPA_neutrality_DEF:0 "Die Republik West Papua"
+ PPA_ADJ:0 "West Papua"
+ PPA_HOL_autonomy_puppet:0 "Niederländisch-Neuguinea"
+ PPA_HOL_autonomy_puppet_DEF:0 "das niederländische Neuguinea"
 
- #PRS (cosmetic tag for Danzig) ""
+ #PRS (cosmetic tag for Danzig) 
  PRS_fascism:0 "Freistaat Preußen"
  PRS_fascism_DEF:0 "der Freistaat Preußen"
  PRS_democratic:0 "Preußische Republik"
