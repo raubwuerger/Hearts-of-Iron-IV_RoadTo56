@@ -36,24 +36,37 @@
  #Flags: "Aserbaidschanische Volksregierung"
  TO_joined_brussels_treaty: "Republik Mahabad"
 
- #Countries ""
+ #Countries
  AZR_SOV_communism_subject: ""
  KUR_SOV_communism_subject: "Besatzungs-Verhandlungen"
  KUR_SOV_communism_subject_DEF: "Schicksal von Deutschland entschieden"
 
- #Multi ""
+ #Multi
  CW_occupation_negotations: "Verfassungsrechtlich neutral"
  CW_german_fate_decided: "Die ehemaligen Besatzer von [ROOT.GetNameDef] beschlossen, dass der einzige Weg zur Wiederherstellung von [ROOT.GetNameDef] die Zusicherung war, dass sie sich in nächster Zeit mit keiner Seite verbünden würden."
 
- #ideas ""
+ #ideas
  constitutionally_neutral: "[USA.GetNonIdeologyName] Hilfsangebote"
  constitutionally_neutral_desc: "Nach der Unterzeichnung des Foreign Assistance Act von [GetYear] durch Präsident [FROM.GetLeader] wurden wir mit Vorschlägen für [FROM.GetAdjective] Darlehen und Zuschüsse für unsere Nation kontaktiert."
 
- #Events "Nur ein weiterer Plan zur Einflussnahme!"
+ #Events
+ cold_war.2.t: "König Yahya ermordet!"
+ cold_war.2.d: "Die schreckliche Nachricht von der Ermordung König Yahyas hat die Hauptstadt erreicht. Der notorisch zurückgezogene Führer wurde während einer kurzen Reise in einen Hinterhalt gelockt und von Mitgliedern des Al-Waziri-Clans erschossen. Der Anführer dieses Clans erhebt nun Anspruch auf den Thron und scheint ungehindert die Hauptstadt einnehmen zu können, der Thronfolger von König Yahya ist jedoch geflohen und könnte bald mit bewaffneter Unterstützung zurückkehren."
+ cold_war.2.a: "Besorgniserregend"
+
+ cold_war.3.t: "Yahya-Clan fordert den Thron zurück"
+ cold_war.3.d: "Nach einer kurzen Periode der Al-Waziri-Herrschaft hat der Sohn des ermordeten Königs Yahya den Thron zurückerobert, nachdem er rasch die Stämme des nördlichen Jemen um sich geschart hat. Nach einer kurzen Belagerung von [Capital.GetCapitalVictoryPointName] wurde [GetLeader] gefangen genommen und soll nun hingerichtet werden."
+ cold_war.3.a: "Wird die Instabilität ein Ende haben?"
+
  cold_war.4.t: ""
  cold_war.4.d: "[592.owner.GetName] fordert [728.GetName] für indochinesische Besitztümer"
  cold_war.4.a: "Unser Verbündeter gegen Japan und den vietnamesischen Aufstand in Indochina, [CHI.GetNameDef], hat uns einen Vorschlag gemacht: Sie werden uns Nordindochina zurückgeben, aber nur, wenn wir unseren Vertragshafen [728.GetName] abtreten, der gerade von japanischen Überresten befreit wurde."
  cold_war.4.b: "Gut"
+
+ cold_war.6.t: "Minister treten in der Opposition zurück"
+ cold_war.6.d: "Zwölf nicht-kommunistische Minister haben aus Protest gegen die fast vollständige Übernahme der Polizei durch die KSC um ihre Entlassung gebeten. Gottwald kündigt einen Generalstreik an, und es kommt zu Massendemonstrationen der kommunistischen Kräfte, die die Einsetzung einer kommunistischen Regierung anstelle der zurückgetretenen Minister fordern."
+ cold_war.6.a: "Wir sollten die Rücktritte akzeptieren."
+ cold_war.6.b: "Mobilisieren Sie die Armee!"
 
  cold_war.9.t: ""
  cold_war.9.d: "Österreich als neutraler Staat?"
@@ -74,7 +87,53 @@
  cold_war.40.t: "[FROM.GetNameDefCap] ist mit einem Vorschlag zu uns gekommen, die Grenzen zwischen unseren Besatzungszonen in Deutschland zu öffnen."
  cold_war.40.d: "Besser für uns und das deutsche Volk"
  cold_war.40.d2: "Man kann ihnen nicht trauen"
- cold_war.41.t: "[FROM.GetName] Proposes Occupation Zone Merger"
- cold_war.41.d: "[FROM.GetNameDefCap] has come to us with a proposal to open the borders between our occupation zones in Germany."
- cold_war.41.a: "Better for us, and the German people"
- cold_war.41.b: "They cannot be trusted"
+ cold_war.41.t: "[FROM.GetName] Vorschlag für die Zusammenlegung der Besatzungszonen"
+ cold_war.41.d: "[FROM.GetNameDefCap] ist mit dem Vorschlag an uns herangetreten, die Grenzen zwischen unseren Besatzungszonen in Deutschland zu öffnen."
+ cold_war.41.a: "Besser für uns und das deutsche Volk"
+ cold_war.41.b: "Man kann ihnen nicht trauen"
+
+ cold_war.43.t: "Das Schicksal der Tschechoslowakei"
+ cold_war.43.d: "Nachdem wir einen großen Teil Osteuropas befreit haben, liegt es nun an uns, über die Regierungsform von [CZE.GetNameDef] zu entscheiden. Obwohl wir ein stabiles Marionettenregime installieren könnten, würde uns ein demokratisches Regime wahrscheinlich mehr internationale Gunst einbringen."
+ cold_war.43.a: "Sie sollen ... etwas ... Freiheit haben"
+ cold_war.43.b: "Sie stellen eine zu große Bedrohung dar"
+
+ cold_war.44.t: "[FROM.GetName] Anfragen Tanks"
+ cold_war.44.d: ""
+ cold_war.44.a: "Es ist in unserem Interesse, sie zu stärken."
+ cold_war.44.b: "Wenn diese in die falschen Hände fallen..."
+
+#ITA
+ #focus
+ ITA_sanction_mafia_killings: "Einsatz der Mafia gegen Kommunisten"
+ ITA_request_soviet_aid_alternative: "Antrag auf Alternative für Marshallplan"
+ ITA_request_civil_war_support: "Unterstützung für einen Bürgerkrieg?"
+
+ #modifier
+ mafia_domination: "Dominante Mafia-Präsenz"
+
+ #tooltip
+ ITA_monarchy_path_unlock_by_referendum_tt: "§YDieser Fokus kann durch das Ergebnis des Monarchie-Referendums freigesetzt werden, dessen Ausgang von der Popularität der monarchistischen Partei abhängt.§!"
+
+#USA
+
+ #ideas
+ USA_marshall_plan_aid_idea: "[USA.GetName] Wirtschaftliche Unterstützung"
+
+#CZE
+ #focus
+ CZKE_finish_the_tvp_project: "Beenden Sie das TVP-Projekt"
+ CZKE_finish_the_tvp_project_desc: "Das TVP-Projekt ist ein ehrgeiziges Panzerentwicklungsprogramm, das darauf abzielt, die besten Aspekte von [GER.GetAdjective], [ENG.GetAdjective], [SOV.GetAdjective] und [ROOT.GetAdjective] zu kombinieren."
+ CZKE_acquire_soviet_tanks: "Erwerben [SOV.GetAdjective] Panzer"
+ CZKE_acquire_soviet_tanks_desc: "Unsere enge Zusammenarbeit mit [SOV.GetNameDef] bedeutet, dass wir unsere Zeit nicht damit verschwenden sollten, brandneue Panzerdesigns auszuprobieren, wenn unser Verbündeter bereits seine eigenen hochmodernen Designs in Massenproduktion herstellt."
+ CZKE_continue_producing_german_designs: "Deutsche Designs weiter produzieren"
+ CZKE_handle_the_communist_power_grab: "Die Krise der kommunistischen Polizei"
+ CZKE_five_year_plan: "Der Fünfjahresplan"
+ CZKE_currency_reform: "Währungsreform"
+ CZKE_collectivize_key_industries: "Schlüsselindustrien verstaatlichen"
+ CZKE_suppress_the_church: "Die Kirche unterdrücken"
+ CZKE_collectivize_farms: "Bauernhöfe kollektivieren"
+ #ideas
+ CZE_inflation: "Problematische Inflation"
+ #flag
+ CZE_started_five_year_plan: "Der §YFünfjahresplan§! ist abgeschlossen!"
+ CZE_revolted_against_soviets: "Rebelliert gegen [SOV.GetNameDef]"

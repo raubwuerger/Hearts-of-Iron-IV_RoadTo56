@@ -1,1 +1,135 @@
 ﻿l_german:
+ #FOCUSES - START
+
+ JOR_national_conference:0 "Die zweite nationale Konferenz"
+ JOR_national_conference_desc:0 ""
+ JOR_ally_opposition:0 "Fokus auf die britische Bedrohung"
+ JOR_ally_opposition_desc:0 ""
+ JOR_appease_tribes:0 "Gesetz zur Besänftigung von Stämmen"
+ JOR_appease_tribes_desc:0 ""
+ JOR_rally_orthodox:0 "Versammlung der orthodoxen Bevölkerung"
+ JOR_rally_orthodox_desc:0 ""
+ JOR_remove_howitat:0 "Stammesabhängigkeiten beseitigen"
+ JOR_remove_howitat_desc:0 ""
+ JOR_meet_arabs:0 "Nachbarstaaten um Hilfe bitten"
+ JOR_meet_arabs_desc:0 ""
+ JOR_revolt:0 "Der Aufstand in Transjordanien"
+ JOR_revolt_desc:0 ""
+ JOR_circassion_integration:0 "Vollständige Integration der Tscherkessen"
+ JOR_circassion_integration_desc:0 ""
+ JOR_salvage_ottoman_assets:0 "Rettung osmanischer Vermögenswerte"
+ JOR_salvage_ottoman_assets_desc:0 ""
+ JOR_political_banisakhr:0 "Politische Zugeständnisse an Bani Sakhr"
+ JOR_circassion_integration_desc:0 ""
+ JOR_howitat_elitism:0 "Howitat-Elitismus"
+ JOR_howitat_elitism_desc:0 ""
+ JOR_for_king:0 "Für den König"
+ JOR_for_king_desc:0 ""
+ JOR_for_country:0 "Für das Land"
+ JOR_for_country_desc:0 ""
+ JOR_begin_treaty_discussions:0 "Beginn der Vertragsverhandlungen"
+ JOR_begin_treaty_discussions_desc:0 ""
+ JOR_operation_hashem:0 "Machtkampf nach dem Krieg"
+ JOR_operation_hashem_desc:0 "Unser Unabhängigkeitskrieg ist vorbei und wir haben es geschafft, unsere Position auf der Weltbühne zu sichern. Doch obwohl die Armee und die Stämme während des Krieges zusammengearbeitet haben, haben sie erneut einen Machtkampf begonnen."
+ JOR_army_victory:0 "Majali zentralisiert die Macht"
+ JOR_army_victory_desc:0 ""
+ JOR_utaybah_victory:0 "Aufstand der Stämme"
+ JOR_utaybah_victory_desc:0 ""
+ 
+
+  #IDEEN
+
+ JOR_1928_treaty_idea:0 "Vertrag von 1928"
+ JOR_tribal_council:0 "Der Stammesrat"
+ JOR_tribal_councils_modifier:0 "Situation des Stammesrats"
+ JOR_terrain_experts:0 "Geländeexperten" 
+ JOR_howitat_removed_idea:0 "Ausschluss von Stämmen aus der Armee"
+ JOR_orthodox_rallying_idea:0 "Versammlung der orthodoxen Bevölkerung"
+ JOR_1928_treaty_idea1:0 "Vertrag von 1928"
+
+ JOR_unsupported_war:0 "Nicht unterstützter Krieg"
+ JOR_unsupported_war_desc:0 "Wir haben [ISR.GetNameDef] aus eigener Initiative angegriffen, und es ist zweifelhaft, dass [ROOT.OVERLORD.GetNameDef] unsere Bemühungen unterstützen wird."
+ 
+ #DECISIONS
+
+ JOR_tribes_desc:0 "Unsere kürzlich eingerichtete politische Struktur umfasst einen amtierenden Monarchen und einen Rat aus Stammesvertretern, die das Land zusammenhalten und unsere Völker weiter vereinen. Dies erschwert jedoch jegliche Bemühungen des Emirs, politische Unterstützung zu erhalten oder seine Herrschaft zu stärken. Hinzu kommt, dass die Stämme auch eine Form des starken Konservatismus verfolgen, was die Modernisierungsprojekte Jordaniens in den Bereichen Armee, Industrie oder Außenpolitik verlangsamt, die vom Volk unterstützt wurden. Jede Abweichung von diesem System kann in Zukunft zu Problemen führen.Howitat: [JORGetHowitat]\nAl-Utaybah: [JORGetUtaybah]\nBani Sakhr: [JORGetBaniSakhr]\nBani Hamida: [JORGetBaniHamida]\n\n\n§WDie gesamte Unterstützung des Stammes beträgt: §Y[?JOR_tribal_support]%"
+ JOR_tribes:0 "Situation des Stammesrats"
+
+ JOR_tribe_aggressive_loc:0 "§RFeindlich§W"
+ JOR_tribe_supportive_loc:0 "§GUnterstützend§W"
+ JOR_tribe_neutral_loc:0 "§YNeutral§W"
+
+ JOR_tribal_support_red:0 "§R[?JOR_tribal_support]%§!"
+ JOR_tribal_support_orange:0 "§O[?JOR_tribal_support]%§!"
+ JOR_tribal_support_green:0 "§G[?JOR_tribal_support]%§!"
+ JOR_tribal_support_yellow:0 "§Y[?JOR_tribal_support]%§!"
+
+
+ #EVENTS
+
+ jordan.1.t:0 "Die zweite nationale Konferenz"
+ jordan.1.desc:0 "Der transjordanische Emir Abdullah hat sich heute an das Stammesratssystem gewandt, das eingerichtet wurde, um die Beduinenbevölkerung und die zuvor herrschenden mächtigen Stämme zu besänftigen. Mit Transjordanien ist jedoch eine neue Ära angebrochen, in der es nicht mehr mit der Gefahr von Stammesaufständen oder Einfällen der Wahhabiten konfrontiert ist, und der Emir muss entscheiden, welchem Stamm er Priorität einräumt."
+ jordan.1.a:0 "Utaybah, die Krieger."
+ jordan.1.b:0 "Bani Sakhr, die Loyalisten"
+ jordan.1.c:0 "Howitat, die Elite"
+ jordan.1.d:0 "Die Armee sollte in der Mitte stehen, ohne Stämme, die sich einmischen!"
+
+ jordan.2.t:0 "[JOR.GetNameDefCap] bittet um Waffenlieferungen"
+ jordan.2.d:0 "Gerüchten zufolge bereiten sich bestimmte Elemente in der Nation darauf vor, die pro-[JOR.OVERLORD.GetAdjektiv]-Regierung zu stürzen. Diese Aufständischen haben uns um Unterstützung bei der Bewaffnung ihrer Streitkräfte gebeten, und wir müssen entscheiden, ob sich das für uns lohnt."
+ jordan.2.a:0 "Ein wichtiger Verbündeter in der Region."
+ jordan.2.b:0 "Wir lehnen dies respektvoll ab."
+
+ jordan.3.t:0 "[JOR.GetNameDefCap] bittet um Waffenlieferungen"
+ jordan.3.d:0 "Gerüchten zufolge bereiten sich bestimmte Elemente in der Nation darauf vor, die pro-[JOR.OVERLORD.GetAdjektiv]-Regierung zu stürzen. Diese Aufständischen haben uns um Unterstützung bei der Bewaffnung ihrer Streitkräfte gebeten, und wir müssen entscheiden, ob es unsere Zeit wert ist."
+ jordan.3.a:0 "Ein wichtiger Verbündeter in der Region."
+ jordan.3.b:0 "Wir lehnen dies respektvoll ab."
+
+ jordan.4.t:0 "Irakische Waffenlieferungen"
+ jordan.4.d:0 "Kurz nachdem wir mehrere verschlüsselte Nachrichten an die irakische Regierung gesendet hatten, haben sie zugestimmt, uns eine Lieferung von Waffen durch Mafraq zu schicken."
+ jordan.4.a:0 "Wunderbar"
+
+ jordan.5.t:0 "Saudi-Waffenlieferungen"
+ jordan.5.d:0 "Kurz nachdem wir mehrere verschlüsselte Nachrichten an die saudische Regierung geschickt hatten, haben sie zugestimmt, uns eine Lieferung von Waffen durch Ma'an zu schicken."
+ jordan.5.a:0 "Wunderbar"
+ 
+ jordan.6.t:0 "Das Appeasement-Gesetz"
+ jordan.6.d:0 "Nach einer hitzigen Diskussion zwischen dem Emir Abdullah und seinem Minister hat Seine Majestät der Öffentlichkeit seine Beschwichtigung und zusätzliche Unterstützung für die Stammesräte angekündigt, da diese langsam in Vergessenheit geraten und das Emirat weiter spalten. [JOR.GetLeader] plant eine Reform des Systems und hat es geschafft, die Beziehungen zum Utaybah-Stamm erfolgreich zu stärken und die Gefahr eines weiteren Adwan-Aufstands zu beseitigen."
+ jordan.6.a:0 "Eine weitere Bedrohung wurde abgewendet."
+ 
+ jordan.7.t:0 "[JOR.GetNameDefCap] fordert Neuverhandlung des Vertrags"
+ jordan.7.d:0 "Ein [JOR.GetAdjective] Gesandter ist in [GetCapital.GetCapitalVictoryPointName] eingetroffen, um mit dem Hohen Kommissar über Angelegenheiten im Zusammenhang mit dem Vertrag von 1928 und dessen Beschränkungen für das transjordanische Militär, die Bürokratie und die Autonomie zu sprechen. [JOR.GetLeader] hat darum gebeten, die Beschränkungen für das Emirat zu lockern, und obwohl dies unseren Einfluss auf die Region schwächen würde, könnte es sich lohnen, um ihn als treuen Verbündeten zu gewinnen."
+ jordan.7.a:0 "Es würde uns nicht schaden."
+ jordan.7.b:0 "Narren! Für wen halten die sich?"
+ 
+ jordan.8.t:0 "Britische Ablehnung"
+ jordan.8.d:0 "[ENG.GetLeader] und der Hochkommissar haben sich geweigert, den Vertrag von 1928 zu lockern, und erklärt, dass sie den Vertrag bereits als sehr nachsichtig betrachten."
+ jordan.8.a:0 "Sie kontrollieren uns nicht!"
+ jordan.8.b:0 "Wir dürfen den Bären nicht reizen."
+
+ jordan.9.t:0 "Neuverhandlung des Vertrags von 1928"
+ jordan.9.d:0 "Nach der Reise unseres Gesandten nach Jerusalem hat der britische Hochkommissar für Palästina zugestimmt, die Beschränkungen des Vertrags von 1928 zu lockern. Dies ist eine große Leistung für den Emir, und die Öffentlichkeit ist begeistert!"
+ jordan.9.a:0 "Niemals werden wir Sklaven sein."
+
+ jordan.10.t:0 "Machtkampf nach dem Krieg"
+ jordan.10.d:0 "Unser Unabhängigkeitskrieg ist vorbei, und wir haben es geschafft, unsere Position auf der Weltbühne zu sichern. Doch obwohl die Armee und die Stämme während des Krieges zusammengearbeitet haben, haben sie begonnen, gegeneinander zu kämpfen. Im ganzen Land sind Gefechte ausgebrochen, aber als die Sonne in der Wüste untergegangen ist, ist es offensichtlich, dass..."
+ jordan.10.a:0 "Das Militär hat es geschafft, die Revolten niederzuschlagen."
+ jordan.10.b:0 "Die Stämme haben es geschafft, das Militär zu überwältigen!"
+
+ #TOOLTIPS
+
+ JOR_revolt_guns_tt:0 "Wir erhalten eine zusätzliche §Y500 Infanterie-Ausrüstung§! bei Ausbruch des Aufstands."
+ JOR_modify_tribal_councils_army_intro:0 "Ändere §YStammesrat-Situation§! durch"
+ JOR_political_banisakhr_tt:0 "Erhöhe §YStammesunterstützung §Wum §Y5% §W"
+ JOR_remove_howitat_tt:0 "§YHowitat §Wwird §Rfeindlich\n§W Verringere §YStammesunterstützung §Wum §Y5% §W\n\n$JOR_modify_tribal_councils_army_intro$ \nAngriffsabteilung: §R-5.00%§!"
+ JOR_utaybah_war_tt:0 "Wir werden §Y3 12 Einheiten §WBreite bei Nicht-Aufstandskriegen gewinnen\nErhöhen Sie die §YUnterstützung der Stämme §Wum §Y5 %§W\n§YUtaybah §Wwird die Feindseligkeiten einstellen\n\n$JOR_modify_tribal_councils_army_intro$ \nForschungsgeschwindigkeit: §G+5.00%§!\nWöchentliche Stabilität: §R-0.20%§! §W"
+ JOR_banisakhr_war_tt:0 "Wir gewinnen §Y3 10 Breite §WDivisionen bei Nicht-Revolten-Krieg\nErhöhen §YStammesunterstützung §Wum §Y5%§W\n\n$JOR_modify_tribal_councils_army_intro$ \nPolitischer Machtzuwachs: §G+0.35%§!"
+ JOR_howitat_war_tt:0 "Wir werden einen §Ygroßen Zustrom an Arbeitskräften §Wnach einem nicht-rebellischen Krieg erhalten\nErhöhen Sie die §YUnterstützung des Stammes §Wum §Y5 %§W\n§YHowitat §Wwird §Gunterstützend werden"
+ JOR_antitribe_war_tt:0 "Wir werden §Y3 14 Bergbewohner gewinnen §Wnach einem Nicht-Revolten-Krieg\n§Y-10 % weniger §YStammesunterstützung §W\n§YHowitat §Wwird §Rfeindlich\n\n§W$JOR_modify_tribal_councils_army_intro$ \nRekrutierbare Bevölkerung: §Y-0,50%§! §W"
+ JOR_appease_tribes_tt:0 "§YUnterstützung durch Stämme §Wum §Y5%§W\n$JOR_modify_tribal_councils_army_intro$ \nRekrutierbare Bevölkerung: §G+1,00%§! §W"
+
+ JOR_cant_call_allies:0 "§Y[ROOT.OVERLORD.GetNameDefCap] wird sich unserem Krieg gegen [ISR.GetNameDef] nicht anschließen§!"
+ JOR_cant_call_allies_diplo:0 "§Y[FROM.GetNameDefCap] wird sich unserem Krieg gegen [ISR.GetNameDef] nicht anschließen§!"
+ JOR_cant_call_allies_diplo_2:0 "§YKann nicht in den Krieg von [FROM.GetNameDef] gegen [ISR.GetNameDef] eingreifen§!"
+
+ JOR_army_won:0 "Das Militär hat im Machtkampf der Nachkriegszeit gesiegt"
+ JOR_utaybah_won:0 "Die Stämme haben im Machtkampf der Nachkriegszeit gesiegt"
