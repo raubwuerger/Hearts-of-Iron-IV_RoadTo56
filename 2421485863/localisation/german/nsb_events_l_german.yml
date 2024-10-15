@@ -1547,7 +1547,7 @@
  nsb_news.404.b:0 "Das kann nicht ihr Ernst sein!"
  nsb_news.405.t:0 "[SOV.GetNameDefCap]"
  nsb_news.405.desc:0 "Nachdem Russland wieder einmal den Mantel des 'Verteidigers aller Slawen' übernommen hat, hat es beschlossen, dass die beste Art und Weise, dies zu tun, darin besteht, alle slawischen Völker in einer einzigen Nation zu vereinen.\n\nNachdem diese Vereinigung nun endlich vollzogen ist, hat [SOV. GetLeader] hat nun die Gründung von [SOV.GetNameDef] bekannt gegeben und geschworen, dass alle der neuen Nation zur Verfügung stehenden Ressourcen zum Wohle ihres Volkes und zum Schutz vor Bedrohungen von außen eingesetzt werden."
- nsb_news.405 .a:0 "Vereint sind die Slawen unschlagbar!"
+ nsb_news.405.a:0 "Vereint sind die Slawen unschlagbar!"
  nsb_news.405.b:0 "Eine Macht, mit der man rechnen muss."
  nsb_news.406.t:0 "Verteidiger der Slawen"
  nsb_news.406.desc:0 "Einmal mehr hat [SOV.GetNameDef] den Mantel des "Verteidigers der Slawen" übernommen und anderen slawischen Völkern in Europa Garantien gegeben. In einer Erklärung hat [SOV.GetLeader] versprochen, dass "alle Ressourcen, die [SOV.GetNameDef] zur Verfügung stehen, zum Nutzen aller slawischen Völker eingesetzt werden und sie vor Bedrohungen von außen schützen. "Die [SOV.GetAdjective]-Regierung scheint sich keine Illusionen darüber zu machen, wozu ihre Garantien führen könnten und dass sie nicht beabsichtigt, sich ihrer Verantwortung zu entziehen, indem sie insbesondere ihren Eintritt in den Großen Krieg anführt, um zu zeigen, dass sie ein Land ist, das seine Versprechen hält."

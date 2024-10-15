@@ -14,3 +14,8 @@ Authoritarian
 Infiltration Preperation
 
 "\n\n
+
+https://community.notepad-plus-plus.org/topic/19572/i-need-to-find-the-lines-which-is-having-three-in-notepad
+
+^([^CHAR\r\n]*)(CHAR(?N)){M}$
+^([^"\r\n]*)("(?1)){1}$
