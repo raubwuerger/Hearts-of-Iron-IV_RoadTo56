@@ -64,7 +64,7 @@ NIC_remove_ideatt:0 "§YWenn der nationale Geist vorhanden ist:§! \n"
 #Flags ""
 NIC_somoza_in_power:0 "§YSomoza García ist an der Macht§!"
 NIC_no_somoza:0 "§YSomoza García wurde gestoppt§!"
-#NIC_Somoza_is_running:0 "YSomoza hat seine Absicht bekannt gegeben, als Präsident zu kandidieren§!" #(wird nicht verwendet)"
+#NIC_Somoza_is_running:0 "YSomoza hat seine Absicht bekannt gegeben, als Präsident zu kandidieren§!" #(wird nicht verwendet)
 #Ideas ""
 NIC_guardia_nacional_assassinations:0 "Ermordungen durch die Guardia Nacional"
 NIC_the_cleanup:0 "Niederschlagung der Opposition"

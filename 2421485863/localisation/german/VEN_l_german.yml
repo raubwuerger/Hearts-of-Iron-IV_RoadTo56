@@ -404,7 +404,7 @@
  VEN_attack_cuba_desc:0 "[CUB.getAdjective] ist eine strategische Insel in der Region und ein Hauptexporteur von seltenen Materialien für die schweren Schiffe in der Region. Sie verfügt über einige Vermögenswerte, die für unsere weitere Entwicklung wertvoll sein werden."
 
  VEN_seize_trinidad:0 "Anspruch auf Trinidad"
- VEN_seize_trinidad_desc:0 "Port of Spain" heißt nicht ohne Grund so. 1797 kam es zu einer unerwarteten und schnellen Invasion der Insel durch die [ENG.getAdjective]. Seitdem haben wir viel von ihnen gelernt und können eine ähnliche Operation in viel größerem Maßstab durchführen. Fürchte uns, [ENG.getName], denn Port of Spain wird wieder hispanisch sein!"
+ VEN_seize_trinidad_desc:0 "Port of Spain heißt nicht ohne Grund so. 1797 kam es zu einer unerwarteten und schnellen Invasion der Insel durch die [ENG.getAdjective]. Seitdem haben wir viel von ihnen gelernt und können eine ähnliche Operation in viel größerem Maßstab durchführen. Fürchte uns, [ENG.getName], denn Port of Spain wird wieder hispanisch sein!"
 
  VEN_attack_hispaniola:0 "Hispaniola sichern"
  VEN_attack_hispaniola_desc:0 "Wenige Nationen der Karibik, Hispaniola, werden voraussichtlich ebenfalls in unseren Einflussbereich fallen. Sorgen wir dafür, dass sie unserem Weg 'frei' folgen."
@@ -440,7 +440,7 @@
 
  ############################### NEUTRALITY PATH ################################ ""
  VEN_neutrality_focus:0 "Internationale Neutralität aufrechterhalten"
- VEN_neutrality_focus_desc:0 "Die Führung des Landes ist sich mehr als bewusst, dass jede Art von wirtschaftlichem oder militärischem Bündnis unseren zerbrechlichen Staat nur in einen weiteren totalen Krieg ziehen wird. Die Menschen setzen sich für den Frieden ein und rhetorische Aussagen wie "Krieg! Wozu ist er gut?' sind vielerorts im ganzen Land zu hören."
+ VEN_neutrality_focus_desc:0 "Die Führung des Landes ist sich mehr als bewusst, dass jede Art von wirtschaftlichem oder militärischem Bündnis unseren zerbrechlichen Staat nur in einen weiteren totalen Krieg ziehen wird. Die Menschen setzen sich für den Frieden ein und rhetorische Aussagen wie Krieg! Wozu ist er gut?' sind vielerorts im ganzen Land zu hören."
 
  VEN_oil_protection:0 "Nutzen Sie die größte Stärke der Nation"
  VEN_oil_protection_desc:0 "Die Nation soll auf alles vorbereitet sein. Der amazonische Dschungel mit seinem unwegsamen Gelände bildet eine fast undurchdringliche Verteidigungslinie gegen große Armeeformationen. Unser Nachbar gegenüber [COL.getNameDef] hat sich ebenfalls von der hitzigen internationalen Bühne distanziert, so dass nur ein einziger Weg für eine mögliche Invasion zur Verfügung steht: das Meer. Die Verstärkung der Städte und der Ausbau der Küstenwache werden uns in Zukunft sehr helfen, unsere Ölvorkommen zu schützen."
@@ -452,7 +452,7 @@
  VEN_non_agression_colombia_desc:0 "Obwohl wir viele Gemeinsamkeiten haben, könnte es den Anschein haben, dass einige rebellische Caudillos oder Provokateure versuchen werden, unsere guten Beziehungen zu [COL.getNameDef] zu sabotieren. Die Einhaltung des Nichtangriffspakts wird sicherstellen, dass wir unsere freundschaftliche Haltung zueinander beibehalten."
 
  VEN_arms_protect_the_nation:0 "Waffen beschützen die Nation"
- VEN_arms_protect_the_nation_desc:0 "Die beste Verteidigung ist eine gute Offensive" gilt nicht für [VEN.getAdjective] Menschen. Sollte jedoch ein potenzieller Feind unsere Grenze überschreiten, muss die reguläre Armee bereit sein, den Angreifer mit allen Mitteln zurückzuschlagen."
+ VEN_arms_protect_the_nation_desc:0 "Die beste Verteidigung ist eine gute Offensive gilt nicht für [VEN.getAdjective] Menschen. Sollte jedoch ein potenzieller Feind unsere Grenze überschreiten, muss die reguläre Armee bereit sein, den Angreifer mit allen Mitteln zurückzuschlagen."
 
 
 
@@ -649,7 +649,7 @@
  VEN_explosive_factories_desc:0 "Der Mangel an militärischen Fähigkeiten könnte unseren potenziellen Feinden zum Vorteil gereichen. Diesen darf man auf dem Schlachtfeld keinen Vorteil verschaffen! Alles für unsere Truppen, koste es, was es wolle!"
 
  VEN_nuclear_power:0 "Atomkraft studieren"
- VEN_nuclear_power_desc:0 "ine Bombe dieser Stärke kann leicht einen Hafen und die umliegenden Städte zerstören", schrieb Albert Einstein, der große deutsche Wissenschaftler, an Franklin Roosevelt in Amerika. Die Art und Weise, wie er diese neue Kraft beschrieb, ist unglaublich. Wenn wir diese Energie für uns nutzbar machen könnten, würde uns das nicht nur helfen, auf der internationalen Bühne anerkannt zu werden, sondern es würde auch sicherstellen, dass ausländische Bedrohungen in Schach gehalten werden."
+ VEN_nuclear_power_desc:0 "ine Bombe dieser Stärke kann leicht einen Hafen und die umliegenden Städte zerstören, schrieb Albert Einstein, der große deutsche Wissenschaftler, an Franklin Roosevelt in Amerika. Die Art und Weise, wie er diese neue Kraft beschrieb, ist unglaublich. Wenn wir diese Energie für uns nutzbar machen könnten, würde uns das nicht nur helfen, auf der internationalen Bühne anerkannt zu werden, sondern es würde auch sicherstellen, dass ausländische Bedrohungen in Schach gehalten werden."
 
  VEN_rural_schools:0 "Ländliche Schulen bauen"
  VEN_rural_schools_desc:0 "Ein großer Teil unseres Landes ist unterentwickelt und vielerorts, insbesondere in ländlichen Regionen, fehlt es an grundlegenden Bildungssystemen. Mit unseren neuen industriellen Fortschritten ist es an der Zeit, dass wir uns auf die Menschen konzentrieren und ihnen Bildung bieten."

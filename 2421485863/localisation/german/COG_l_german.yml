@@ -92,7 +92,7 @@
  COG_heavy_tank_equipment_2_short:0 "M6A1"
  COG_heavy_tank_artillery_equipment_2:0 "Churchill AVRE"
  COG_heavy_tank_artillery_equipment_2_short:0 "Churchill AVRE"
- COG_heavy_tank_equipment_3:0 "26 Pershing" #aufgrund des Interesses an Patton-Panzern später"
+ COG_heavy_tank_equipment_3:0 "26 Pershing"
  COG_heavy_tank_equipment_3_short:0 "Pershing"
  COG_heavy_tank_artillery_equipment_3:0 "T92 Haubitzen-Motorwagen"
  COG_heavy_tank_artillery_equipment_3_short:0 "T92 HMC"
@@ -204,7 +204,7 @@
  COG_war_mining_production_directorate:0 "Direktorat für Kriegsbergbauproduktion"
  COG_war_mining_production_directorate_desc:0 "Das War Mining Production Directorate wurde 1941 gegründet, um die verschiedenen Bergbauunternehmen zu beaufsichtigen und dafür zu sorgen, dass die von den Alliierten benötigten Mineralien vorrangig abgebaut und die Bergbauwerkzeuge voll ausgeschöpft werden."
  COG_gold_extraction:0 "Intensivierung des Goldabbaus"
- COG_gold_extraction_desc:0 "eld ist das Bindeglied des Krieges", sagte Cicero. Zweitausend Jahre später ist dieses Sprichwort so zutreffend wie eh und je. Der Kongo besitzt einen großen Schatz, der von der eifersüchtigen Erde bewacht wird. In dieser Zeit brauchen wir ihn dringender denn je."
+ COG_gold_extraction_desc:0 "Geld ist das Bindeglied des Krieges, sagte Cicero. Zweitausend Jahre später ist dieses Sprichwort so zutreffend wie eh und je. Der Kongo besitzt einen großen Schatz, der von der eifersüchtigen Erde bewacht wird. In dieser Zeit brauchen wir ihn dringender denn je."
  COG_diamond_extraction:0 "Intensivierung des Diamantenabbaus"
  COG_diamond_extraction_desc:0 "Diamanten werden nicht nur für Schmuck verwendet, sondern sind auch in der Industrie von großem Nutzen. Da die Kriegsindustrie einen Nachfrageboom nach Diamanten ausgelöst hat, müssen wir dafür sorgen, dass genügend des härtesten Minerals, das es gibt, gefördert wird, um unsere Partner zu versorgen."
 

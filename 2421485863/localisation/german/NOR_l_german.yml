@@ -507,7 +507,7 @@
  NOR_carsten_tank-nielsen:0 "Carsten Tank-Nielsen"
  NOR_edvard_christian_danielsen:0 "Edvard Christian Danielsen"
  NOR_edvard_christian_danielsen_nc:0 "Edvard Christian Danielsen"
- NOR_skule_storheill_theorist:0 "kule Storheill" ### Die falsche Schreibweise seines Nachnamens im Basisspiel wurde hier (und in der Idee selbst, auch wenn dies nicht unbedingt notwendig war) korrigiert."
+ NOR_skule_storheill_theorist:0 "kule Storheill" ### Die falsche Schreibweise seines Nachnamens im Basisspiel wurde hier (und in der Idee selbst, auch wenn dies nicht unbedingt notwendig war) korrigiert.
  NOR_josef_terboven:0 "Josef Terboven"
  NOR_josef_terboven_desc:0 "Hitlers Mann in Norwegen, mit großen und konkreten Plänen für das Land."
  NOR_henry_oliver_rinnan:0 "Henry Oliver Rinnan"
@@ -947,7 +947,7 @@
  naw_norway.100.c:0 "Nutzen wir diese Farce, um nationalistische und antikommunistische Stimmungen zu fördern."
  naw_norway.100.p:0 "Dies ist ein Beweis dafür, dass wir solide Traditionen brauchen, um dem Extremismus zu begegnen."
 
- naw_norway.101.t:0 "orwegen strebt engere Beziehungen zu Deutschland an" ### Der dynamische Name kann manchmal zu lang sein."
+ naw_norway.101.t:0 "orwegen strebt engere Beziehungen zu Deutschland an" ### Der dynamische Name kann manchmal zu lang sein.
  naw_norway.101.d:0 "[From.GetLeader] hat angekündigt, dass [From.GetName] mit seinem Brudervolk in der deutschen Nation gegenseitige freundschaftliche und verwandte Beziehungen pflegen soll. Die deutschen Minister sind darüber sehr erfreut, und bei einem kürzlichen Staatsbesuch von [From.GetLeader] haben sie vereinbart, die gegenseitige Zusammenarbeit zwischen den beiden Nationen zu fördern."
  naw_norway.101.a:0 "Wir haben klug gewählt."
  naw_norway.101.b:0 "Was könnten unsere Nachbarn vorhaben?"
@@ -956,7 +956,7 @@
  naw_norway.101.e:0 "In Nordwesteuropa herrscht ein schlechtes Urteilsvermögen."
  naw_norway.101.f:0 "Nehmen wir diese Entwicklung zur Kenntnis."
 
- naw_norway.102.t:0 "orwegen strebt engere Beziehungen zur Sowjetunion an" ### Dynamische Namen können manchmal zu lang sein."
+ naw_norway.102.t:0 "orwegen strebt engere Beziehungen zur Sowjetunion an" ### Dynamische Namen können manchmal zu lang sein.
  naw_norway.102.d:0 "\n[From.GetLeader] hat die Freundschaft und gegenseitige Zusammenarbeit zwischen [From.GetName] und ihren östlichen Nachbarn angekündigt. Zweifellos haben die Norweger einen mächtigen Freund gewonnen, und die Revolution breitet sich weiter aus. Die russischen Minister sind erfreut über dieses Ereignis, und bei einem kürzlichen Staatsbesuch von [From.GetLeader] wurde das gegenseitige Wohlwollen deutlich."
  naw_norway.102.a:0 "Wir haben weise gewählt."
  naw_norway.102.b:0 "Was könnten unsere Nachbarn im Schilde führen?"
@@ -1267,7 +1267,7 @@
 
  ####--Factions--#### ""
  NOR_three_brothers_faction:0 "Drei Brüder"
- NOR_brotherhood_of_nations:0 "ruderschaft der Nationen" ### Anmerkungen von Khanor: Für die Umbenennung der nordischen Fraktion, wenn es mehr als drei Allianzmitglieder gibt."
+ NOR_brotherhood_of_nations:0 "ruderschaft der Nationen" ### Anmerkungen von Khanor: Für die Umbenennung der nordischen Fraktion, wenn es mehr als drei Allianzmitglieder gibt.
  NOR_royal_league:0 "Königliche Liga"
  NOR_monarchist_union:0 "Monarchistische Union"
  NOR_union_of_kings:0 "Union der Könige"
@@ -1276,8 +1276,8 @@
  NOR_nordic_union:0 "Nordische Union"
  NOR_great_northern_alliance:0 "Große Nordische Allianz"
  NOR_princely_pact:0 "Fürstlicher Pakt"
- NOR_northern_lights:0 "ordlicht" ### Verschiedene Verwendungszwecke, für generische Nordische Fraktionen (besonders demokratisch, faschistisch.) Nordische Fraktionen mit demselben Namen können von anderen nordischen Ländern gegründet werden, und mehrere Fraktionen mit demselben Namen zu haben, sollte vermieden werden."
- NOR_nordic_assembly:0 "ordische Versammlung" ### Generische Fraktionsnamen von hier an, für verschiedene Verwendungen (demokratisch, faschistisch, etc.)"
+ NOR_northern_lights:0 "ordlicht" ### Verschiedene Verwendungszwecke, für generische Nordische Fraktionen (besonders demokratisch, faschistisch.) Nordische Fraktionen mit demselben Namen können von anderen nordischen Ländern gegründet werden, und mehrere Fraktionen mit demselben Namen zu haben, sollte vermieden werden.
+ NOR_nordic_assembly:0 "ordische Versammlung" ### Generische Fraktionsnamen von hier an, für verschiedene Verwendungen (demokratisch, faschistisch, etc.)
  NOR_pact_of_stone:0 "Pakt der Steine"
 
  ####--Research Agreements--#### ""
@@ -1568,7 +1568,8 @@
  NOR_discredit_government_monarchism:0 "Regierung in Misskredit bringen"
  NOR_discredit_government_monarchism_desc:0 "Indem wir auf die vielen Fehler unserer derzeitigen Regierung hinweisen, können wir die Menschen dazu bringen, über die ideologischen Ursachen dieser Fehler nachzudenken."
  NOR_ignite_the_monarchist_civil_war:0 "Bürgerkrieg entfachen"
- NOR_ignite_the_monarchist_civil_war_desc:0 "Die Zeit ist gekommen, den Sprung zu wagen. Alle Vorbereitungen, die wir für notwendig erachtet haben, sind getroffen worden. Es gibt jetzt kein Zurück mehr. \"For Fedrelandet!\"  ##NOR_land_reintegration:0 "Wiedereingliederung des norwegischen Landes"
+ NOR_ignite_the_monarchist_civil_war_desc:0 "Die Zeit ist gekommen, den Sprung zu wagen. Alle Vorbereitungen, die wir für notwendig erachtet haben, sind getroffen worden. Es gibt jetzt kein Zurück mehr. \"For Fedrelandet!\""
+ NOR_land_reintegration:0 "Wiedereingliederung des norwegischen Landes"
  NOR_land_reintegration_desc:0 "Das norwegische Königreich erstreckte sich einst über ganz Nordeuropa, doch Kriege und Verträge haben dazu geführt, dass das Königreich einige seiner historischen Ländereien nicht mehr besitzt. Schweden, Dänemark und, in geringerem Maße, das Vereinigte Königreich halten alle ihren "gerechten" Anteil an diesen ehemaligen Inseln, Titeln, Landschaften und Grenzregionen. Dennoch gibt es keinen Grund, die Hoffnung aufzugeben...\n\nSollten wir eines dieser Gebiete wieder in die Hände bekommen, ist der moderne norwegische Staat mit einer soliden Wirtschaft und vielen fähigen Staatsmännern jetzt in einer guten Position, sie wieder zu integrieren. Die Wiederherstellung eines Teils unserer glorreichen Vergangenheit sollte also durchaus machbar sein."
  NOR_reintegrate_faeroeyane:0 "Reintegration der Færøyane"
  NOR_fully_incorporate_faeroeyane:0 "Vollständige Eingliederung von Færøyane"
@@ -1602,13 +1603,15 @@
  NOR_rebuild_the_vemork_heavy_water_facility:0 "Wiederaufbau der Vemork-Schwerwasseranlage"
  GER_rebuild_the_vemork_heavy_water_facility:0 "Bauen Sie die Vemork-Schwerwasseranlage wieder auf"
  ##request allied favors ""
- #NOR_request_allied_favors:0 "lliierte Gunst erbitten" ### Kategorie hat den gleichen Namen und die gleiche Beschreibung wie der Fokus."
+ #NOR_request_allied_favors:0 "lliierte Gunst erbitten" ### Kategorie hat den gleichen Namen und die gleiche Beschreibung wie der Fokus.
  NOR_london_radio:0 "Londoner Radio"
- NOR_london_radio_desc:0 "\"Dette er London.\"  NOR_obtain_dockyard_access:0 "Zugang zur Werft erlangen"
+ NOR_london_radio_desc:0 "\"Dette er London.\""
+ NOR_obtain_dockyard_access:0 "Zugang zur Werft erlangen"
  NOR_assemble_air_squadron:0 "Eine norwegische Luftstaffel zusammenstellen"
  NOR_request_infantry_equipment:0 "Infanterieausrüstung anfordern"
  NOR_pull_strings_with_british_industrialists:0 "Kontakte mit britischen Industriellen knüpfen"
- NOR_request_aid_for_englandsfarerne:0 "Hilfe für \"Englandsfarerne\" beantragen  ##NOR_finish_the_post-depression_recovery:0 "Beende den Aufschwung nach der Depression"
+ NOR_request_aid_for_englandsfarerne:0 "Hilfe für \"Englandsfarerne\" beantragen."
+ NOR_finish_the_post-depression_recovery:0 "Beende den Aufschwung nach der Depression"
  NOR_finish_the_post-depression_recovery_desc:0 "Da sich unser Land und unsere Wirtschaft in einer relativ guten Verfassung befinden, könnten wir erhebliche Mittel für die Beseitigung der Nachwirkungen der Depression bereitstellen und das Wohlfahrtsprogramm der Regierung Nygaardsvold zu einem durchschlagenden Erfolg erklären. Das norwegische Volk würde einen solchen Schritt zweifellos noch jahrelang zu schätzen wissen."
  ##foreign material orders (economic policy) ""
  NOR_procure_british_destroyers:0 "Beschaffung britischer Zerstörer"
@@ -1717,7 +1720,7 @@
  ##additional/new bookmark variants ""
  #NOR_GATHERING_STORM_DESC:0 "Norwegen, das seit seiner Unabhängigkeit politisch stabil ist, wurde von der großen Depression heimgesucht und ist besorgt, da sich die Wolken über Europa zusammenziehen. Dennoch wird die pazifistische Politik trotz der Warnungen des Militärs beibehalten. In der Zwischenzeit hat die Wirtschaftskrise die unteren Klassen militanter gemacht, vorangetrieben von der kleinen kommunistischen Partei, während kleine Gruppen von Nationalisten bereit sind, die Gesellschaft radikal umzugestalten.\n\n"
  ##additional unique traits ""
- #liberal_grandee:0 "iberal Grandee" ### Portiert für NaW, nicht benötigt für R56, dort bereits enthalten."
+ #liberal_grandee:0 "iberal Grandee" ### Portiert für NaW, nicht benötigt für R56, dort bereits enthalten.
  ##additional decisions ""
  NOR_allied_research:0 "Alliierte Forschungseinladungen"
  NOR_invite_country_into_allied_research:0 "Laden Sie [From.GetName] in die [ENG.GetAdjective] Forschungsgruppe"

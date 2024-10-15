@@ -287,7 +287,7 @@
  GER_establish_imperial_german_army_desc:0 "Reviving the Deutsches Heer in the model of the Nazi Wehrmacht will undoubtedly give the Fourth Reich one of the strongest and most effective fighting forces in the world."
  GER_support_landwehr:0 "Support the Landwehr"
  GER_support_landwehr_desc:0 "Supporting the Landwehr will ensure us a more professional and effective army while reducing its size."
- GER_galvanize_german_militarism:0 "Galvanize [GER.GetAdjective] Militarism"
+ GER_galvanize_german_militarism:0 "Den [GER.GetAdjective] Militarismus wachrütteln"
  GER_galvanize_german_militarism_desc:0 "The militarism in [GER.GetNameDef] is a critical part of our national identity and place as a nation, it is only natural we use this to bolster our spirits."
  GER_support_freikorps:0 "Support the Freikorps"
  GER_support_freikorps_desc:0 "Supporting the Freikorps will give our military more widespread support, making it easier to recruit civilians. This will inevitably make it harder to uphold professional standards, however."

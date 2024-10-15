@@ -26,7 +26,8 @@
 
 #How do we react to these events? ""
  r56w.event.34.t:0 "Eine diplomatische Ouvertüre"
- r56w.event.34.d:0 "Ein Vertreter der Monster ist an unserer Türschwelle angekommen und hat höflich darum gebeten, mit Euch zu sprechen. Obwohl ihre Sprache seltsam und kryptisch ist, konnten wir eine einzige Frage heraushören:\n\n\"Can has?\" r56w.event.34.a:0 "Das ist alles sehr dumm. Sag nichts!"
+ r56w.event.34.d:0 "Ein Vertreter der Monster ist an unserer Türschwelle angekommen und hat höflich darum gebeten, mit Euch zu sprechen. Obwohl ihre Sprache seltsam und kryptisch ist, konnten wir eine einzige Frage heraushören:\n\n\"Gibt es was?\"" 
+ r56w.event.34.a:0 "Das ist alles sehr dumm. Sag nichts!"
  r56w.event.34.b:0 "Can hat... Krieg!"
  r56w.event.34.c:0 "Ja, klar. Wie auch immer."
 

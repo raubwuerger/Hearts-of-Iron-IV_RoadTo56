@@ -6,7 +6,7 @@
 
  # Italo-Ethiopian War events ""
  BBA_italo_ethiopian_war_events.01.t:0 "Beendigung der Weihnachtsoffensive"
- BBA_italo_ethiopian_war_events.01.desc:0 "Unsere Truppen sind im Krieg gegen Abessinien ins Stocken geraten und wurden an einigen Stellen sogar zurückgedrängt. Diese "Weihnachtsoffensive" hat Mussolini dazu veranlasst, das militärische Oberkommando privat für seine Unfähigkeit zu schelten. Der Duce will Ergebnisse. Jetzt. [Und zwar sofort."\n Er hat daher alle notwendigen Mittel genehmigt, um die Abessinier zurückzuschlagen und diesen Krieg schnell zu beenden - koste es, was es wolle."
+ BBA_italo_ethiopian_war_events.01.desc:0 "Unsere Truppen sind im Krieg gegen Abessinien ins Stocken geraten und wurden an einigen Stellen sogar zurückgedrängt. Diese \"Weihnachtsoffensive\" hat Mussolini dazu veranlasst, das militärische Oberkommando privat für seine Unfähigkeit zu schelten. Der Duce will Ergebnisse. Jetzt. [Und zwar sofort.\n Er hat daher alle notwendigen Mittel genehmigt, um die Abessinier zurückzuschlagen und diesen Krieg schnell zu beenden - koste es, was es wolle."
  BBA_italo_ethiopian_war_events.01.a:0 "Mit allen erforderlichen Mitteln"
  BBA_italo_ethiopian_war_events.01.b:0 "Wir müssen methodisch und überlegt vorgehen"
 
@@ -2084,7 +2084,7 @@
  BBA_switzerland.11.desc_SWI:0 "Da der Rat beschloss, sich aus dem Fall herauszuhalten und ihn den Gerichten und der Bündner Justiz zu überlassen, wurde David Frankurter, der Wilhelm Gustloff vorsätzlich ermordet hat, zu 18 Jahren Gefängnis verurteilt. \nWir wissen, dass [GER.GetNameDef] eine viel härtere Strafe gewollt hätte, also werden unsere Diplomaten alle Hände voll zu tun haben, um sie zu beschwichtigen, aber wir konnten nicht riskieren, in Zeiten wie diesen Partei zu ergreifen. Unsere Neutralität ist das, was das [SWI.GetAdjective]-Volk während des Sturms, der kommen könnte, in Sicherheit bringen kann."
  BBA_switzerland.11.desc_GER:0 "[SWI.GetNameDefCap] besaß die Frechheit, Gustloffs Mörder zu einer lächerlichen Strafe von 18 Jahren zu verurteilen! Es ist bedauerlich, aber wir hätten nicht viel härter auf ein Strafmaß drängen können, auch auf die Gefahr hin, die Aufrufe zum Boykott der Olympischen Spiele zu verstärken. \nFürs Erste können wir Gustloff zumindest zu einem Märtyrer von [GER.GetNameDef] machen und den Mord für Propaganda nutzen. Vielleicht können wir bei einer zukünftigen Invasion Frankfurter in die Finger bekommen, und wir bekommen unsere Gerechtigkeit."
  BBA_switzerland.11.a:0 "Das ist das Beste, was wir im Moment tun können."
- BBA_switzerland.11.b:0 "ir werden das nicht vergessen!" #THE GALLLLL!!!!"
+ BBA_switzerland.11.b:0 "Wir werden das nicht vergessen!"
 
 #After the war ""
  BBA_switzerland.12.t:0 "David Frankfurter bittet um Begnadigung"

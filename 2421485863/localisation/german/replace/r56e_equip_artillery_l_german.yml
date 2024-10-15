@@ -500,7 +500,7 @@
 #-> Armored cars <><> ""
 
 #-> Towed artillery <><> ""
- BUL_artillery_equipment_1:0 "5-mm Orŭdie M13 Krup" #75-mm Orŭdie M13 Krup105-mm Gaubitza M16 Krup"
+ BUL_artillery_equipment_1:0 "105-mm Orŭdie M13 Krup"
  BUL_artillery_equipment_1_short:0 "105-mm M16 Krup"
  BUL_artillery_equipment_2:0 "105-mm Gaubitza M38 Reinska"
  BUL_artillery_equipment_2_short:0 "105-mm M38 Reinska"
@@ -796,8 +796,8 @@
  CZE_gw_armored_car_equipment_short:0 "OA Vz. 27"
 
 #-> Towed artillery <><> ""
- CZE_artillery_equipment_1:0 "0cm Lehká Houfnice vz.30" #10cm Lehká Houfnice vz.14/19"
- CZE_artillery_equipment_1_short:0 "0cm LH vz.30" #10cm LH vz.14/19"
+ CZE_artillery_equipment_1:0 "10cm Lehká Houfnice vz.30"
+ CZE_artillery_equipment_1_short:0 "10cm LH vz.30"
  CZE_artillery_equipment_2:0 "10cm Lehká Houfnice vz.34"
  CZE_artillery_equipment_2_short:0 "10cm LH vz.34"
  CZE_artillery_equipment_3:0 "10,5cm Lehká Houfnice vz.40"
@@ -838,8 +838,8 @@
 #-> Armored cars <><> ""
 
 #-> Towed artillery <><> ""
- SLO_artillery_equipment_1:0 "0cm Lehká Houfnice vz.30" #10cm Lehká Houfnice vz.14/19"
- SLO_artillery_equipment_1_short:0 "0cm LH vz.30" #10cm LH vz.14/19"
+ SLO_artillery_equipment_1:0 "10cm Lehká Houfnice vz.30" 
+ SLO_artillery_equipment_1_short:0 "10cm LH vz.30"
  SLO_artillery_equipment_2:0 "10cm Lehká Houfnice vz.34"
  SLO_artillery_equipment_2_short:0 "10cm LH vz.34"
  SLO_artillery_equipment_3:0 "10,5cm Lehká Houfnice vz.40"
@@ -882,8 +882,8 @@
  DOU_gw_armored_car_equipment_short:0 "OA Vz. 27"
 
 #-> Towed artillery <><> ""
- DOU_artillery_equipment_1:0 "0cm Lehká Houfnice vz.30" #10cm Lehká Houfnice vz.14/19"
- DOU_artillery_equipment_1_short:0 "0cm LH vz.30" #10cm LH vz.14/19"
+ DOU_artillery_equipment_1:0 "10cm Lehká Houfnice vz.30"
+ DOU_artillery_equipment_1_short:0 "10cm LH vz.30"
  DOU_artillery_equipment_2:0 "10cm Lehká Houfnice vz.34"
  DOU_artillery_equipment_2_short:0 "10cm LH vz.34"
  DOU_artillery_equipment_3:0 "10,5cm Lehká Houfnice vz.40"
@@ -926,8 +926,8 @@
  RUT_gw_armored_car_equipment_short:0 "OA Vz. 27"
 
 #-> Towed artillery <><> ""
- RUT_artillery_equipment_1:0 "0cm Lehká Houfnice vz.30" #10cm Lehká Houfnice vz.14/19"
- RUT_artillery_equipment_1_short:0 "0cm LH vz.30" #10cm LH vz.14/19"
+ RUT_artillery_equipment_1:0 "10cm Lehká Houfnice vz.30"
+ RUT_artillery_equipment_1_short:0 "10cm LH vz.30"
  RUT_artillery_equipment_2:0 "10cm Lehká Houfnice vz.34"
  RUT_artillery_equipment_2_short:0 "10cm LH vz.34"
  RUT_artillery_equipment_3:0 "10,5cm Lehká Houfnice vz.40"
@@ -965,13 +965,13 @@
  UKR_anti_tank_equipment_x:0 "Povrch na Povrch 10"
  UKR_anti_tank_equipment_x_short:0 "PP.10"
 
-#-> Armored cars <><> ""
+#-> Armored cars <><>
  UKR_gw_armored_car_equipment:0 "OA vz. 27"
  UKR_gw_armored_car_equipment_short:0 "OA Vz. 27"
 
-#-> Towed artillery <><> ""
- UKR_artillery_equipment_1:0 "0cm Lehká Houfnice vz.30" #10cm Lehká Houfnice vz.14/19"
- UKR_artillery_equipment_1_short:0 "0cm LH vz.30" #10cm LH vz.14/19"
+#-> Towed artillery <><>
+ UKR_artillery_equipment_1:0 "10cm Lehká Houfnice vz.30"
+ UKR_artillery_equipment_1_short:0 "10cm LH vz.30"
  UKR_artillery_equipment_2:0 "10cm Lehká Houfnice vz.34"
  UKR_artillery_equipment_2_short:0 "10cm LH vz.34"
  UKR_artillery_equipment_3:0 "10,5cm Lehká Houfnice vz.40"
@@ -979,7 +979,7 @@
  UKR_artillery_equipment_x:0 "10,5 cm Lehká Houfnice vz.43"
  UKR_artillery_equipment_x_short:0 "10,5 cm LH vz.43"
 
-#-> Rocket artillery <><>  ""
+#-> Rocket artillery <><>
  UKR_rocket_artillery_equipment_1:0 "13,2cm Raketa vz.41"
  UKR_rocket_artillery_equipment_1_short:0 "13,2cm Raketa vz.41"
  UKR_rocket_artillery_equipment_2:0 "30cm Raketa vz.42"
@@ -3230,8 +3230,8 @@
  SWE_armored_car_equipment_2_short:0 "Pbil m/41"
 
 #-> Towed artillery <><> ""
- SWE_artillery_equipment_1:0 "ofors 10,5 cm Haubits m/27" #Bofors 7,5 cm Kanon m/02-33"
- SWE_artillery_equipment_1_short:0 "0,5 cm Haubits m/27" #7,5 cm Kanon m/02-33"
+ SWE_artillery_equipment_1:0 "ofors 10,5 cm Haubits m/27"
+ SWE_artillery_equipment_1_short:0 "10,5 cm Haubits m/27"
  SWE_artillery_equipment_2:0 "Bofors 10,5 cm Haubits m/37"
  SWE_artillery_equipment_2_short:0 "10,5 cm Haubits m/37"
  SWE_artillery_equipment_3:0 "Bofors 10,5 cm Haubits m/40"

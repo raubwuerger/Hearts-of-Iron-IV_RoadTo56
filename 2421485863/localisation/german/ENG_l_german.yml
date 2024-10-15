@@ -298,7 +298,9 @@
   r56_eng.4.a:0 "Dies ist nicht Westminster, aber wir werden unser Bestes tun."
 
   r56_eng.7.t:0 "Die Wahlen von [GetYear]"
-  r56_eng.7.d:0 "Seit den letzten Wahlen sind 5 Jahre vergangen, und es scheint, dass es wieder einmal an der Zeit ist, dass die Bevölkerung von [ENG.GetNameDef] ihre Regierung wählt.\n\nIn den letzten Jahren hat die Labour Party die Unterstützung der Konservativen für Appeasement scharf kritisiert, wobei die Konservative Partei ihr Vorgehen damit verteidigte, dass [ENG.GetNameDef] zu diesem Zeitpunkt nicht bereit war, einen Krieg zu führen. Ansonsten folgen die Parteien ihren üblichen Kampagnen, wobei die sozialdemokratische Plattform von Labour auf die eher rechtsgerichtete Politik der Konservativen trifft. r56_eng.7.a:0 "Die Konservativen wissen, was sie tun." r56_eng.7.b:0 "Labour wird [ENG.GetNameDef] in die Zukunft führen!"
+  r56_eng.7.d:0 "Seit den letzten Wahlen sind 5 Jahre vergangen, und es scheint, dass es wieder einmal an der Zeit ist, dass die Bevölkerung von [ENG.GetNameDef] ihre Regierung wählt.\n\nIn den letzten Jahren hat die Labour Party die Unterstützung der Konservativen für Appeasement scharf kritisiert, wobei die Konservative Partei ihr Vorgehen damit verteidigte, dass [ENG.GetNameDef] zu diesem Zeitpunkt nicht bereit war, einen Krieg zu führen. Ansonsten folgen die Parteien ihren üblichen Kampagnen, wobei die sozialdemokratische Plattform von Labour auf die eher rechtsgerichtete Politik der Konservativen trifft."
+  r56_eng.7.a:0 "Die Konservativen wissen, was sie tun." 
+  r56_eng.7.b:0 "Labour wird [ENG.GetNameDef] in die Zukunft führen!"
 
   r56_eng.8.t:0 "Kriegswahlen?"
   r56_eng.8.d:0 "5 Jahre sind seit den letzten Wahlen vergangen, und die Zeit zum Wählen ist gekommen. Allerdings befindet sich [ENG.GetNameDef] in einem Krieg gegen eine Großmacht, und viele glauben, dass die Abhaltung von Wahlen zu diesem Zeitpunkt nur dazu dienen würde, die Nation in ihrer dunkelsten Stunde zu destabilisieren." 

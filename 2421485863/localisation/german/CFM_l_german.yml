@@ -85,7 +85,7 @@
  cityfall.17.b:0 "Tod den Imperialisten!"
  cityfall.17.c:0 "Dunkle Zeiten sind über [ENG.GetNameDef] hereingebrochen."
  cityfall.18.t:0 "Der Fall von Washington, D.C."
- cityfall.18.d:0 "ie Geschichte zeigt, dass es keine unbesiegbaren Armeen gibt." - Iosif Stalin\n\nTrotz des verzweifelten letzten Gefechts zahlreicher Streitkräfte, vom US Marine Corps über Einheiten der Nationalgarde aus über zwanzig Bundesstaaten bis hin zum Secret Service und lokalen Polizeikräften, ist Washington, D.C. an [SOV. GetAdjective]-Truppen gefallen. Die letzten Schüsse werden noch von lokalen Widerstandskämpfern abgefeuert, die dem [SOV.GetAdjective]-Angriff tapfer widerstehen, selbst wenn ihre Stadt um sie herum brennt, aber die Schlacht ist größtenteils vorbei. Die [SOV.GetAdjective]-Panzer stehen untätig auf dem South Lawn, und das Rote Banner hängt jetzt triumphierend am Washington Monument."
+ cityfall.18.d:0 "ie Geschichte zeigt, dass es keine unbesiegbaren Armeen gibt. - Iosif Stalin\n\nTrotz des verzweifelten letzten Gefechts zahlreicher Streitkräfte, vom US Marine Corps über Einheiten der Nationalgarde aus über zwanzig Bundesstaaten bis hin zum Secret Service und lokalen Polizeikräften, ist Washington, D.C. an [SOV. GetAdjective]-Truppen gefallen. Die letzten Schüsse werden noch von lokalen Widerstandskämpfern abgefeuert, die dem [SOV.GetAdjective]-Angriff tapfer widerstehen, selbst wenn ihre Stadt um sie herum brennt, aber die Schlacht ist größtenteils vorbei. Die [SOV.GetAdjective]-Panzer stehen untätig auf dem South Lawn, und das Rote Banner hängt jetzt triumphierend am Washington Monument."
  cityfall.18.a:0 "Ist dies der letzte Atemzug der Freiheit?"
  cityfall.18.b:0 "Die Arbeiter von [USA.GetNameDef] werden frei sein!"
  cityfall.18.c:0 "Wir werden diese roten Bastarde zurück ins Meer treiben!"
@@ -450,7 +450,8 @@
  cityfall.86.c:0 "Der Krieg nimmt eine unerwartete Wendung."
 
  cityfall.87.t:0 "[new_controller.GetAdjective] Einheiten betreten Oslo"
- cityfall.87.desc:0 "\nDie [alte_controller.GetAdjective]-Armee zieht sich zurück und lässt die Einwohner von Oslo schutzlos zurück, während [neue_controller.GetAdjective]-Soldaten die Stadt sichern. Als die Kanone aufhörte zu sprechen, legte sich ein seltsamer Schleier aus verwobener Ruhe und Angst über die Stadt. Auch wenn die [alt_controller.GetAdjective]-Regierung verspricht, die Invasoren bis zum bitteren Ende zu bekämpfen, ist der Verlust der Stadt ein schwerer Schlag für [alt_controller.GetNameDef]. Die Kämpfe gehen vorerst weiter, doch eine Frage schleicht sich in die Köpfe von immer mehr Menschen: "Wie lange noch?" cityfall.87.a:0 "Der Kampf ist nicht vorbei!"
+ cityfall.87.desc:0 "\nDie [alte_controller.GetAdjective]-Armee zieht sich zurück und lässt die Einwohner von Oslo schutzlos zurück, während [neue_controller.GetAdjective]-Soldaten die Stadt sichern. Als die Kanone aufhörte zu sprechen, legte sich ein seltsamer Schleier aus verwobener Ruhe und Angst über die Stadt. Auch wenn die [alt_controller.GetAdjective]-Regierung verspricht, die Invasoren bis zum bitteren Ende zu bekämpfen, ist der Verlust der Stadt ein schwerer Schlag für [alt_controller.GetNameDef]. Die Kämpfe gehen vorerst weiter, doch eine Frage schleicht sich in die Köpfe von immer mehr Menschen: Wie lange noch?" 
+ cityfall.87.a:0 "Der Kampf ist nicht vorbei!"
  cityfall.87.b:0 "Ein großer Sieg!"
  cityfall.87.c:0 "Der Krieg nimmt eine unerwartete Wendung."
 

@@ -236,7 +236,8 @@
  SPA_invest_in_naval_infrastructure_desc:1 "Spanien braucht neue Marineeinrichtungen, um den Ausbau der Flotte zu unterstützen."
  SPA_expand_the_slipways:0 "Ausbau der Slipanlagen"
  SPA_expand_the_slipways_desc:1 "Bisher haben wir die größten Schiffe von anderen Nationen gekauft. Wir sollten unsere eigenen Hellingen ausbauen, damit wir die Freiheit haben, diese Schiffe selbst zu bauen."
- SPA_the_plan_imperial:0 "Der "Plan Imperial" SPA_the_plan_imperial_desc:1 "Wir werden ein großes Programm in Angriff nehmen, um den Status der spanischen Marine als eine der größten der Welt wiederherzustellen."
+ SPA_the_plan_imperial:0 "Der Plan Imperial" 
+ SPA_the_plan_imperial_desc:1 "Wir werden ein großes Programm in Angriff nehmen, um den Status der spanischen Marine als eine der größten der Welt wiederherzustellen."
  SPA_restart_small_scale_shipbuilding:0 "Wiederaufnahme des Baus kleinerer Schiffe"
  SPA_restart_small_scale_shipbuilding_desc:1 "Unsere Marine wird zahlreiche Begleitschiffe in einer Größe benötigen, die kleinere einheimische Werften bauen können. Wir sollten die Entwicklung neuer Entwürfe durch diese Werften fördern."
  SPA_la_division_azul:0 "La División Azul"
@@ -1274,7 +1275,8 @@
  POR_tropas_paraquedistas:0 "Tropas Paraquedistas"
  POR_tropas_paraquedistas_desc:0 "Wir werden eine Elite-Infanterie-Sturmtruppe bilden, die in der Lage ist, den gegnerischen Streitkräften in den Rücken zu fallen und ihnen einen unschätzbaren taktischen Vorteil zu verschaffen."
  POR_regimento_de_comandos:0 "Regimento de Comandos"
- POR_regimento_de_comandos_desc:0 "Wir brauchen Elitetruppen, die für verschiedene Kampfsituationen ausgebildet und in der Lage sind, unter härtesten Bedingungen zu kämpfen.\n\n"Audaces Fortuna Juvat" FRA_laissez_faire_tt:0 "Unsere Wirtschaft wird nach einem Zeitraum von etwa zwei Jahren effizienter werden."
+ POR_regimento_de_comandos_desc:0 "Wir brauchen Elitetruppen, die für verschiedene Kampfsituationen ausgebildet und in der Lage sind, unter härtesten Bedingungen zu kämpfen.\n\nAudaces Fortuna Juvat" 
+ FRA_laissez_faire_tt:0 "Unsere Wirtschaft wird nach einem Zeitraum von etwa zwei Jahren effizienter werden."
  FRA_carry_the_revolution_west_tt:0 "Ermöglicht ein §YSturz der Regierung§! Kriegsziel gegen §YSpanien§! oder alle überlebenden, nicht-kommunistischen Fraktionen des spanischen Bürgerkriegs."
 
 

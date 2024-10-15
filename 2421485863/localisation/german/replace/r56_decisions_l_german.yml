@@ -294,7 +294,7 @@ decision_cost_CP_10_pp_10_tooltip:0 "Es kostet £command_power §H10§! und £po
  game_rules_reminder_category_desc:0 "Vergessen Sie nicht, sich die Schaltfläche §YBenutzerdefinierte Spielregeln§! auf dem Startbildschirm der Karte anzusehen! Sie enthält viele Optionen wie §YFokusbaum-Auswahl§!, mit der Sie zwischen dem Basisspiel und den Fokusbäumen der Road to 56 für mehrere Länder wechseln können. Es gibt auch §YPlayer Peace Control§!, §YColour of Subjects Control§! und eine große Auswahl an Gameplay-Änderungen, wie das Umschalten von §YNational Characters§!!"
  game_rules_reminder:0 "Hinweis zu den Spielregeln"
  game_rules_reminder_desc:0 "Wenn der Timer abläuft, wird diese kurze Erinnerung für den Rest des Spiels entfernt."
- request_reinstatement:0 "equest Reinstatement from [From.GetAdjective]s" #aus Vanille, wo es falsch ist, fehlt das letzte s"
+ request_reinstatement:0 "Antrag auf Wiedereinsetzung von [From.GetAdjective]s"
 
  #Vanilla overide Germany GER GER_reichskommissariats ""
  GER_reichskommissariats:0 "Reichskommissariate einrichten"

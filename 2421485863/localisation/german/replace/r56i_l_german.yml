@@ -55,8 +55,8 @@
  r56i_idea_suppress_spend:0 "Appeasement"
  r56i_idea_suppress_spend_desc:0 "Wir stellen Bundesmittel für die von den Demonstranten geforderten Programme bereit."
 
- r56_ai_lesser_tag_debuff_1:0 "eheimer" Debuff zur Verhinderung von AI Division Spam für kleinere Länder"
- r56_ai_lesser_tag_debuff_2:0 "erschlusssache" Debuff für kleine Länder, die Spam-Divisionen lieben"
+ r56_ai_lesser_tag_debuff_1:0 "Geheimer Debuff zur Verhinderung von AI Division Spam für kleinere Länder"
+ r56_ai_lesser_tag_debuff_2:0 "Verschlusssache Debuff für kleine Länder, die Spam-Divisionen lieben"
 
  limited_engagement_spirit:0 "Begrenztes Engagement"
  unit_elitism_army_spirit:0 "Einheiten-Elitismus"

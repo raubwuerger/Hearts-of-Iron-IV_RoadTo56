@@ -54,7 +54,7 @@
  modifier_experience_gain_medium_armor_training_factor:0 "§YSchwerer Panzer§! Kampferfahrung sammeln"
  modifier_experience_gain_medium_armor_combat_factor:0 "§YPanzerabwehrbrigade§! Kampferfahrung sammeln"
  modifier_experience_gain_medium_sp_artillery_brigade_combat_factor:0 "§YSchocktruppen§! Kampferfahrung sammeln"
- modifier_experience_gain_heavy_armor_training_factor:0 "YArtillerie-Brigade§! Kampferfahrung gewinnen" #Vanilla überschreiben"
+ modifier_experience_gain_heavy_armor_training_factor:0 "YArtillerie-Brigade§! Kampferfahrung gewinnen"
  modifier_experience_gain_heavy_armor_combat_factor:0 "Erfahrungsgewinn der Miliz im Kampf"
  modifier_experience_gain_anti_tank_combat_factor:0 ""
  modifier_experience_gain_shocktroop_combat_factor:0 "§YClose Air Support§! Ausbildungserfahrung gewinnen"
@@ -97,13 +97,13 @@
  medium_tank_chassis_design_cost_factor:0 "Reparaturgeschwindigkeit für Landforts"
  modifier_unit_garrison_design_cost_factor:0 "Reparaturgeschwindigkeit des Versorgungszentrums"
 
- # BUILDINGS Repair # ""
- modifier_repair_speed_bunker_factor:0 "leine Wirtschaft" #lokalisiert für den Fall, dass ein Spieler den Modifikator sieht"
+ # BUILDINGS Repair #
+ modifier_repair_speed_bunker_factor:0 "Kleine Wirtschaft"
  modifier_repair_speed_supply_node_factor:0 "Im Kampf erbeutete Ausrüstung"
 
- # Hidden Ideas # ""
+ # Hidden Ideas #
  r56_idea_small_nation_buildup_nerf:0 "\nVerbessert dieses Anliegen automatisch, wenn die Gesamtsumme von §YInfrastruktur§! in §Y[666.GetName]§!, §Y[1029.GetName]§! und §Y[38. GetName]§! ist mehr als §Y11 Infrastruktur§!\nWelche Zuschüsse:\n$Industrieforschung$: §G+15%§!\n$Elektronikforschung$: §G+15%§!"
  r56_idea_i_am_player_stockpile_capture:0 "Equipment Captured in Combat"
- r56_idea_1941_ai_debuff:0 "trained Nation" #localized just incase a player sees the modifer"
+ r56_idea_1941_ai_debuff:0 "trained Nation"
 
  SWE_vattenfall_upgrade_tt: "\nAutomatically upgrades this concern if the total sum of §YInfrastructure§! in §Y[666.GetName]§!, §Y[1029.GetName]§! and §Y[38.GetName]§! is more than §Y11 Infrastructure§!\nWhich grants:\n$industry_research$: §G+15%§!\n$electronics_research$: §G+15%§!"

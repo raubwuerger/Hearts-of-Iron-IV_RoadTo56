@@ -84,7 +84,7 @@
  support_weapons_c_desc:0 "Von der Besatzung bediente Waffen für die Infanterie, die auf der Ebene des Zugs oder der Kompanie eingesetzt werden. Sie bestehen aus mittleren Maschinengewehren, schweren Mörsern und leichten Mörsern/Granatwerfern."
 
 #-> "Unterstützungsausrüstung <><>"
- support_equipment_short:0 "Support Eq."
+ support_equipment_short:0 "Unterstützungsausrüstung"
  support_equipment:0 "Unterstützungsausrüstung"
  support_equipment_desc:0 "Funkgeräte, Jeeps, Pontons und andere Ausrüstung, die zur Unterstützung der Truppen eingesetzt wird."
  support_equipment_1:0 "Unterstützungsausrüstung"

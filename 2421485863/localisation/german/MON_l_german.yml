@@ -118,7 +118,7 @@ MON_supports_our_cause:0 "Die Mongolei unterstützt unsere Sache"
 
 MON_expand_the_recruitment_campaign:0 "Ausweitung der Rekrutierungskampagne"
 MON_expand_the_recruitment_campaign_desc:0 "Wenn man den jüngsten Bericht der Grenzwächter betrachtet, wird deutlich, dass unsere Grenzen ständig von ausländischen Eindringlingen verletzt werden. Wir müssen die Grenzen verstärken, die Dienstzeit verlängern und mehr Freiwillige für die Grenzpatrouillen rekrutieren, wenn wir die Mongolei vor äußeren Gefahren schützen wollen!"  #Meinungen# MON_forced_aid:0 "Erzwungene Hilfe"
-MON_imperialist_ambitions:0 "mperialistische Ambitionen" #Und auch Bedrohung"
+MON_imperialist_ambitions:0 "Imperialistische Ambitionen" #Und auch Bedrohung
 MON_administrative_cooperation:0 "Administrative Zusammenarbeit"
 
 #threats ""
@@ -177,7 +177,7 @@ MON_threat_stalin_with_japan:0 "Stalin mit Japan bedrohen"
 MON_trial_of_genden:0 "Prozess gegen Genden"
 MON_exploit_nkvd_system:0 "NKVD-System ausnutzen"
 MON_exploited_nkvd:0 "Ausgenutztes NKVD-System"
-MON_allows_to_derail_the_valuable_train:0 "Schaltet Entscheidungen frei, um die Zug- oder Karawanenroute nach unseren Plänen "neu zu justieren"."
+MON_allows_to_derail_the_valuable_train:0 "Schaltet Entscheidungen frei, um die Zug- oder Karawanenroute nach unseren Plänen \"neu zu justieren\"."
 
 MON_steal_railway_plan_moscow:0 "Stehlen von Eisenbahnplänen in Moskau"
 
@@ -186,7 +186,8 @@ MON_genden_route_kharkov:0 "Gendens Zug wird voraussichtlich Charkow passieren"
 MON_genden_route_rostov:0 "Genden wird per Zug durch Rostow verlegt"
 
 MON_genden_rescue_route_kiev:0 "Kiew wurde in einem Einsatz gesichert"
-MON_genden_rescue_route_kharkov:0 "Charkow wurde in einer unbequemen "Operation" gesichert MON_genden_rescue_route_rostov:0 "Zug wurde in Rostow entgleist"
+MON_genden_rescue_route_kharkov:0 "Charkow wurde in einer unbequemen Operation gesichert"
+MON_genden_rescue_route_rostov:0 "Zug wurde in Rostow entgleist"
 
 MON_path_of_gendens_train:0 "Trasse von Gendens Zug"
 
@@ -299,7 +300,8 @@ MON_big_raid_cancelled:0 "Großer Raubzug Fortschritt"
 at_least_three_divisions_in_state:0 "Mindestens §H3§! Divisionen im Staat"
 
 MON_khalkin_gol:0 "Khalkin Gol Manöver"
-MON_khalkin_gol_soviets_invited:0 "Invited [SOV.getAdjective] to assist in Khalkin Gol "maneuvers" MON_request_soviet_infantry:0 "Request [SOV.getAdjective] Infantry Reinforcements"
+MON_khalkin_gol_soviets_invited:0 "Eingeladen [SOV.getAdjective] zur Unterstützung der Khalkin Gol-Manöver" 
+MON_request_soviet_infantry:0 "Fordere [SOV.getAdjective] Infanterie Unterstützung"
 MON_request_soviet_tanks:0 "Fordere [SOV.getAdjective] an [SOV.getAdjective] Panzer Unterstützung"
 
 MON_khalkin_gol_warning_DEFENDER:0 "[MON.getAdjective] Manöver in Khalkin Gol"
@@ -403,7 +405,7 @@ MON_provide_weaponry:0 "Waffen bereitstellen"
 MON_relocate_civilian_facility:0 "Zivile Einrichtung verlagern"
 MON_relocate_arms_factory:0 "Verlegung der Waffenfabrik"
 
-MON_revoke_tianxia_ties:0 "iderruf der Tianxia-Bindungen" #Entscheidung, sich der chinesischen Fraktion anzuschließen"
+MON_revoke_tianxia_ties:0 "Widerruf der Tianxia-Bindungen" #Entscheidung, sich der chinesischen Fraktion anzuschließen
 MON_revoke_tianxia_ties_tt:0 "Wenn §Yirgendeine chinesische Nation§! ein §YFraktionsführer§! ist und eine demokratische oder neutrale Regierung hat, werden wir in der Lage sein, §Yeine Allianz mit ihnen§! zu verfolgen:"
 
 MON_appeal_for_foreign_protection:0 "Appell an ausländischen Schutz"
@@ -642,9 +644,10 @@ Mongolneft:0 "Mongolneft"
 
 
 #flags ""
-MON_genden_allowed_in_office_flag:0 "Genden durfte als Teil des Amar's §HDeal§! im Amt bleiben."
+MON_genden_allowed_in_office_flag:0 "Genden durfte als Teil des Amar's §HVertrags§! im Amt bleiben."
 MON_required_for_leftist_takover:0 "§RDiese Wahl wird eine linke Machtübernahme ermöglichen§!"
-MON_kill_genden_for_future_leftist_takeover:0 "Genden wurde als Teil des "§HDeals§!" §Rgesäubert§! MON_demid_killed:0 "Starb unter verdächtigen Umständen"
+MON_kill_genden_for_future_leftist_takeover:0 "Genden wurde als Teil des §HVertrags§! §Rgesäubert§! 
+MON_demid_killed:0 "Starb unter verdächtigen Umständen"
 MON_soviet_advisors_allowed_flag:0 "[SOV.getAdjective]s leisteten militärische Unterstützung"
 
 mon_1935_defence_soviet_yes_assistance:0 "Die Sowjets sagten der Mongolei während der Konferenz vom §HJanuar 1936§! militärische Unterstützung zu§G."
@@ -836,7 +839,8 @@ MON_monasteries_assets_raided:0 "Klöster Vermögen geplündert"
 MON_monasteries_assets_raided_desc:0 ""
 
 ##political## ""
-MON_troika_organized:0 "Organisierte "Troika" MON_troika_organized_desc:0 "Nach dem Vorbild der revolutionären Troikas der Stalinisten haben wir unsere eigene Troika gegründet, die von Choibalsan geleitet werden soll, um Recht und Ordnung in den Staat zu bringen."
+MON_troika_organized:0 "Organisierte Troika" 
+MON_troika_organized_desc:0 "Nach dem Vorbild der revolutionären Troikas der Stalinisten haben wir unsere eigene Troika gegründet, die von Choibalsan geleitet werden soll, um Recht und Ordnung in den Staat zu bringen."
 
 MON_political_opposition_organizing:0 "Organisierung der politischen Opposition"
 MON_political_opposition_organizing_desc:0 "Die Militaristen, die wissen, dass sie von der Macht verdrängt werden, werden versuchen, die Regierung zu stürzen und eine Militärdiktatur zu errichten. Wir müssen auf ihren Schlag vorbereitet sein und unsere eigene Basis zur Unterstützung organisieren!"
@@ -982,7 +986,7 @@ MON_new_course_genden:0 "Neuer Kurs korrigiert"
 
 MON_hudonets_empowered:0 "Hudonets ermächtigt"
 
-MON_get_rich_idea:0 "eich werden"-Politik"
+MON_get_rich_idea:0 "Reich werden-Politik"
 
 MON_production_quotas_increased:0 "Erhöhte Produktionsquoten"
 
@@ -1117,7 +1121,7 @@ MON_suitable_high_command:0 "Geeignetes Oberkommando"
 MON_suitable_high_command_desc:0 "Ein Soldat ist ein Gefäß, das die Befehle des Oberkommandos ausführt. Wenn dieser unerfahren oder unfähig ist, die betreffende Einheit zu befehligen, wird er entweder seines Postens enthoben oder erhält eine angemessene Ausbildung und eine Chance, sich zu verbessern. Die Wahl liegt immer bei uns..."
 
 MON_the_grand_stratagem:0 "Das große Strategem"
-MON_the_grand_stratagem_desc:0 "er Sieg liebt die Vorbereitung" - sagte einst ein weiser Mann. Für einen entscheidenden und ultimativen Sieg benötigen wir daher ein ordentliches Strategem, das in der Lage ist, die besten Planer und Strategen der bekannten Welt zu überlisten!"
+MON_the_grand_stratagem_desc:0 "er Sieg liebt die Vorbereitung - sagte einst ein weiser Mann. Für einen entscheidenden und ultimativen Sieg benötigen wir daher ein ordentliches Strategem, das in der Lage ist, die besten Planer und Strategen der bekannten Welt zu überlisten!"
 
 MON_favour_stronghold_defenses:0 "Die Verteidigung von Festungen begünstigen"
 MON_favour_stronghold_defenses_desc:0 "Jedes Bataillon einer Division wird in eine stehende Festung verwandelt, die in der Lage ist, einem Angriff so lange zu widerstehen, bis der Befehl zum Gegenangriff vom Hauptquartier kommt. Dann setzt sich die Festung über das Schlachtfeld in Bewegung..."
@@ -1514,7 +1518,7 @@ MON_peasants_focus:0 "... und Bauern"
 MON_peasants_focus_desc:0 "Die Kollektivierung hat dazu geführt, dass viele Familien ihr Vieh, ihre Häuser und ihre Ersparnisse verloren haben, was von den derzeitigen Beamten als grenzwertiger Verrat angesehen wird und so schnell wie möglich behoben werden muss. Zum Wohle der Nation müssen Reformen durchgeführt werden."
 
 MON_workers_and_peasants_unite_focus:0 "... Vereint euch!"
-MON_workers_and_peasants_unite_focus_desc:0 "eteilt fallen wir, vereint sind wir stark!" - denn dieses Motto soll jeder Mann und jede Frau unseres Landes kennen. Die Zusammenarbeit von Arbeitern und Bauern wird große Ergebnisse bringen, wenn sie richtig angewendet wird. Und Amar weiß wie!"
+MON_workers_and_peasants_unite_focus_desc:0 "eteilt fallen wir, vereint sind wir stark! - denn dieses Motto soll jeder Mann und jede Frau unseres Landes kennen. Die Zusammenarbeit von Arbeitern und Bauern wird große Ergebnisse bringen, wenn sie richtig angewendet wird. Und Amar weiß wie!"
 
 MON_a_socialist_republic:0 "Eine moderne sozialistische Republik"
 MON_a_socialist_republic_desc:0 "Die in unserem Staat durchgeführten sozialistischen Reformen zeigen, wie viele Dinge sich seit der Herrschaft von Genden verbessert haben. Wenn der Sozialismus in der Mongolei gefestigt ist, kann das Land seine Türen für Ausländer öffnen und sich seinem Schicksal in einer modernen Welt stellen."
@@ -1953,7 +1957,7 @@ mongol.6.d:0 "Nach einigen Überlegungen hat [SOV.getLeader] überzeugend dargel
 mongol.6.a:0 "Ausgezeichnet!"
 
 mongol.7.t:0 "UdSSR erwägt immer noch, Unterstützung zu schicken"
-mongol.7.d:0 "eine Angelegenheit ist dringender als die Verteidigung der Volksrevolution und die Sicherheit der kommunistischen Regime in unseren Bruderstaaten" - die Erklärung von [SOV.getLeader] zeigte deutlich, dass sie keinen Grund sehen, uns auch nur eine begrenzte Autonomie in diesen Fragen zuzugestehen. \nDer enttäuschte [MON.getLeader] wurde gesehen, wie er beunruhigt nach Unterstützung bei den anderen Mitgliedern der [MON.getAdjective]-Delegation suchte, von denen die meisten sichtlich verärgert waren, mit Ausnahme des Oberbefehlshabers Demid, der sich für eine intensivere militärische Zusammenarbeit zwischen [SOV.getAdjective] und [MON.getAdjective] aussprach."
+mongol.7.d:0 "eine Angelegenheit ist dringender als die Verteidigung der Volksrevolution und die Sicherheit der kommunistischen Regime in unseren Bruderstaaten - die Erklärung von [SOV.getLeader] zeigte deutlich, dass sie keinen Grund sehen, uns auch nur eine begrenzte Autonomie in diesen Fragen zuzugestehen. \nDer enttäuschte [MON.getLeader] wurde gesehen, wie er beunruhigt nach Unterstützung bei den anderen Mitgliedern der [MON.getAdjective]-Delegation suchte, von denen die meisten sichtlich verärgert waren, mit Ausnahme des Oberbefehlshabers Demid, der sich für eine intensivere militärische Zusammenarbeit zwischen [SOV.getAdjective] und [MON.getAdjective] aussprach."
 mongol.7.a:0 "Also gut"
 
 mongol.8.t:0 "Drohte [SOV.getLeader] mit Japan?"
@@ -2140,8 +2144,8 @@ mongol.57.a:0 "Wenn das ihr Wunsch ist..."
 #Khalkin Gol ""
 mongol_khalkin_gol.1.t:0 "Vorbereitungen für [MON.getAdjective] Manöver entdeckt!"
 mongol_khalkin_gol.1.d:0 "Vor einigen Stunden hat unsere lokale Kommandozentrale einen Bericht erhalten, der besagt, dass eine kleine Kavallerieschwadron von anscheinend [MON.getAdjective] Herkunft, bestehend aus etwa 70 bis 90 Männern, die Grenze in der Nähe des Nomonhan-Flusses überquert und sich dort stationiert hat, was eindeutig bedeutet, dass das Gebiet nun unter ihrer Kontrolle ist. [Wenige Stunden später hat unser Regiment berittener Truppen den Feind zum Rückzug gezwungen, doch die Eindringlinge kehren später in größerer Zahl zurück. Nachrichtendienstliche Informationen deuten auf eine größere Anzahl von Truppen hin, die sich auf ihrer Seite an unserer Grenze versammeln und anscheinend bereit sind, eine Art militärische Operation in der Region durchzuführen."
-mongol_khalkin_gol.1.a:0 "itte um ausländische Unterstützung" # falls es sich um eine Marionette handelt"
-mongol_khalkin_gol.1.b:0 "obilisierung der Streitkräfte!"       #sollte es sich um eine unabhängige Nation handeln"
+mongol_khalkin_gol.1.a:0 "itte um ausländische Unterstützung" # falls es sich um eine Marionette handelt
+mongol_khalkin_gol.1.b:0 "obilisierung der Streitkräfte!"       #sollte es sich um eine unabhängige Nation handeln
 
 mongol_khalkin_gol.2.t:0 "[MON.getAdjective] Sieg bei Khalkhin Gol!"
 mongol_khalkin_gol.2.d:0 "Unsere anfänglichen Rückschläge im Kampf gegen die Imperialisten haben es geschafft, das Oberkommando von [761.Controller.getNameDef] zu desillusionieren, da in den darauffolgenden Tagen einige ihrer rücksichtslosen Generäle verschiedene selbstmörderische Befehle an ihre Soldaten erteilten, wo diese gezwungen waren, einen Angriff nach dem anderen zu starten, um verschanzte Stellungen unserer Soldaten, die von ein paar gut platzierten Maschinengewehren geschützt wurden, einzunehmen... mit den entsprechenden Ergebnissen von hohen Verlusten an Personal und Ausrüstung. \nEs ist uns auch gelungen, einige Panzer zu erbeuten und diese zu untersuchen, um unsere eigenen Panzerkonstruktionen zu entwickeln oder zu verbessern."
@@ -2561,7 +2565,7 @@ mongol_soviet_puppet.15.d:0 "Stavka berichtet, dass sie im Moment nicht in der L
 mongol_soviet_puppet.15.a:0 "Vielleicht beim nächsten Mal?"
 
 mongol_soviet_puppet.16.t:0 "Neues Fanal des Kommunismus"
-mongol_soviet_puppet.16.d:0 "Unter Hinweis auf die Notwendigkeit eines Wandels in der politischen Landschaft der Kommunistischen Internationale haben [MON.getAdjective]-Politiker eine öffentliche Erklärung abgegeben, in der sie ihre Besorgnis über die wachsende politische Instabilität und die jüngsten militärischen Niederlagen der [SOV.GetNameDef] zum Ausdruck brachten. \nEs ist nur zum Besten, die Anstrengungen der Verbündeten von dem gut verteidigten und verstärkten Standort aus zu koordinieren", erklärte [MON.getLeader] am Ende seiner Rede und übernahm damit offiziell die Bündnisführung der [MON.getFactionName]."
+mongol_soviet_puppet.16.d:0 "Unter Hinweis auf die Notwendigkeit eines Wandels in der politischen Landschaft der Kommunistischen Internationale haben [MON.getAdjective]-Politiker eine öffentliche Erklärung abgegeben, in der sie ihre Besorgnis über die wachsende politische Instabilität und die jüngsten militärischen Niederlagen der [SOV.GetNameDef] zum Ausdruck brachten. \nEs ist nur zum Besten, die Anstrengungen der Verbündeten von dem gut verteidigten und verstärkten Standort aus zu koordinieren, erklärte [MON.getLeader] am Ende seiner Rede und übernahm damit offiziell die Bündnisführung der [MON.getFactionName]."
 mongol_soviet_puppet.16.a:0 "Wir werden von nun an führen."
 mongol_soviet_puppet.16.b:0 "Sie bereiten sich auf das vor, was kommen wird."
 mongol_soviet_puppet.16.c:0 "Es wird ihnen nichts nützen!"
@@ -2616,33 +2620,33 @@ mongol_army.1.b:0 "Gute Qualität der Modellierung unterstützen"
 mongol_army.1.c:0 "Fokus auf niedrigste Produktionskosten"
 mongol_army.1.e:0 "Panzer sind für die Geschwindigkeit und nicht für den Kampf!"
 
-mongol_army.2.t:0 "in vielversprechender General" #hiring ravdan"
+mongol_army.2.t:0 "in vielversprechender General" #hiring ravdan
 mongol_army.2.d:0 "Unser expandierender Generalstab braucht dringend neue Kandidaten, die vor Enthusiasmus sprühen, aufgeschlossen sind und unseren älteren Offizieren einen ganzen Strauß neuer, außergewöhnlicher Taktiken an die Hand geben können. Per Erlass wurde kürzlich eine Ausschreibung für einige neue Oberst- und Generalsposten veröffentlicht. \nNach einer Handvoll Bewerbungen von verschiedenen Absolventen der Militärakademien hat ein vielversprechender Kandidat vor einigen Tagen seine Bewerbung bei der Kommission eingereicht. \nDer Name ist Sandivyn Ravdan, er ist bekannt für seine Hingabe an die Sache und seine aktiven Dienste in verschiedenen Garnisonseinrichtungen der letzten Jahre. Eine gute Ergänzung für unseren Generalstab."
 mongol_army.2.a:0 "Stellt ihn ein!"
 
-mongol_army.3.t:0 "ntrag auf Schiffstransfer" #Seepuppenschiffe einfrieren"
+mongol_army.3.t:0 "ntrag auf Schiffstransfer" #Seepuppenschiffe einfrieren
 mongol_army.3.d:0 "Unsere Wohltäter haben einen Erlass verschickt, in dem einige Schiffe unserer Seestreitkräfte um eine Versetzung unter dem direkten Kommando eines ihrer Seekommandeure gebeten werden. Mit der Behauptung, es sei "nur für eine begrenzte Zeit", berichten unsere Informanten von Vorbereitungen für die Aufstellung voller Besatzungen, die hauptsächlich aus [MON.getAdjective]-Matrosen bestehen. \nDie Versorgung unseres neuen Schutzes erlaubt es uns, unsere Autonomie zu erhöhen, wenn man bedenkt, wie wir zu den potenziellen Ohr-Bemühungen beitragen, aber wir können immer versuchen, einige der Schiffe zu versenken, wenn wir nicht bereit sind, sie für unsere neuen Herren zu schonen."
 mongol_army.3.a:0 "Wir haben nur begrenzte Zeit zur Verfügung"
 
-mongol_army.4.t:0 "ongolei bittet um Berater" #Mongolei bittet um sowjetische Militärmission"
+mongol_army.4.t:0 "ongolei bittet um Berater" #Mongolei bittet um sowjetische Militärmission
 mongol_army.4.d:0 "Die Ratifizierung des Vertrags über gegenseitigen Beistand und Zusammenarbeit hat es unseren Streitkräften ermöglicht, auf [MON.getAdjective] Boden stationiert zu werden, doch bisher hatten wir kaum Gelegenheit, mit ihren Offizieren in Kontakt zu treten. \nIn dem Bestreben, unsere für beide Seiten vorteilhafte Zusammenarbeit zu verstärken, haben ihre Generäle einen Erlass unterzeichnet, in dem sie eine größere Anzahl von [SOV.getAdjective]-Militärs fordern, die in der Lage wären, auf den ständigen Stützpunkten militärische Manöver und Übungen durchzuführen, um unseren Einfluss in der Region zu stärken und gleichzeitig die Armee der [MON.getAdjective] loyal zu halten. Wie sollen wir darauf reagieren?"
 mongol_army.4.a:0 "Eine Besatzung zur Unterstützung der Armee entsenden"
 mongol_army.4.b:0 "Eine kleine Besatzung wird ausreichen"
 mongol_army.4.c:0 "Unsere Leute werden anderswo gebraucht"
 
-mongol_army.5.t:0 "SOV.getAdjective] Agree to Send in a Crew" #Empfangt eine große Crew"
+mongol_army.5.t:0 "SOV.getAdjective] Agree to Send in a Crew" #Empfangt eine große Crew
 mongol_army.5.d:0 "Unser bescheidenes Ersuchen wurde vom [SOV.getAdjective]-Generalstab nachdrücklich unterstützt, da sie die Entsendung einer stark ausgerüsteten und ausgebildeten Besatzung zur Unterstützung der Entwicklung unserer Doktrinen vor Ort in Erwägung ziehen. \nEin zusätzliches Protokoll wurde beigefügt, das besagt, dass einige ihrer Besatzungsmitglieder auch die Modernisierung und Ausbildung unserer Armee als Teil einer zusätzlichen militärischen Mission überwachen werden."
 mongol_army.5.a:0 "Großartig!"
 
-mongol_army.6.t:0 "äßige Unterstützung von [SOV.getAdjective]s" #Erhält eine kleine Besatzung"
+mongol_army.6.t:0 "Mäßige Unterstützung von [SOV.getAdjective]s" #Erhält eine kleine Besatzung
 mongol_army.6.d:0 "Die Kameraden von [SOV.getAdjective] haben beschlossen, ihre militärische Mission auf einige wenige Berater zu beschränken, die die allgemeine Entwicklung unserer Streitkräfte und ihre Umrüstung nach modernen Standards übersehen sollen. \n\nUnsere Generäle haben einige zusätzliche Anträge gestellt, doch viele davon wurden anscheinend ignoriert oder in das höhere Regal irgendeines bürokratischen Amtes gelegt, um "in besseren Zeiten" überprüft zu werden. \n\nBesser als nichts, aber leider nicht so effektiv."
 mongol_army.6.a:0 "Sehr gut!"
 
-mongol_army.7.t:0 "o Military Mission Sent" #Erhält nichts von den Sowjets"
+mongol_army.7.t:0 "Keine Militärmission entsandt" #Erhält nichts von den Sowjets
 mongol_army.7.d:0 "Mit der Behauptung, dass jede künftige Beteiligung die Spannungen in der Region verstärken und die bereits unsichere Lage eskalieren würde, hat [SOV.getLeader] angekündigt, dass die militärische Zusammenarbeit "in naher Zukunft, wenn die besonderen Umstände günstiger sind", verstärkt werden soll... \n\nEine verheerende Entwicklung, aber vielleicht könnten wir einige der Gespräche, die wir vor Ort gehört haben, nutzen, um kostenloses militärisches Fachwissen zu erhalten?"
 mongol_army.7.a:0 "Wie furchtbar!"
 
-mongol_foreign_influence.2.t:0 "dministrative Integration der Mongolei" #Marionettenwerdung durch Einfluss"
+mongol_foreign_influence.2.t:0 "Administrative Integration der Mongolei" #Marionettenwerdung durch Einfluss
 mongol_foreign_influence.2.d:0 "Unser Einfluss in [MON.getNameDef] hat zu einer prekären Situation geführt, in der ihre Innen- und Außenpolitik stark von unserer Hilfe abhängig ist. \nAngesichts des Überlebenskampfes des [MON.getAdjective]-Volkes hat [ROOT.getLeader] erwogen, eine loyale Regierung einzusetzen, die unsere Herrschaft über das Land in diesen unsicheren und gefährlichen Zeiten festigen soll."
 mongol_foreign_influence.2.a:0 "Schickt einen Gesandten, der die neue Herrschaft ankündigt"
 mongol_foreign_influence.2.b:0 "Nicht in unserem Interesse"

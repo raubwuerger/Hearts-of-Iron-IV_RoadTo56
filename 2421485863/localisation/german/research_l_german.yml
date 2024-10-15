@@ -172,7 +172,7 @@
  infiltration_in_depth:0 "Infiltration in der Tiefe"
  infiltration_in_depth_desc:0 "Unsere Truppen sind nun darauf trainiert, feindliche Stellungen in der Tiefe zu umgehen und zu isolieren. Idealerweise sollten unsere Angriffstruppen nicht aufhören, bis sie die hinteren Bereiche des Feindes erreicht haben und seine Kräfte vollständig abgeschnitten sind."
  mass_assault:0 "Massenangriff"
- mass_assault_desc:0 "Perfekte" Waffen sind überbewertet, eine große Anzahl von "gut genug" Waffen ist der Weg zum Sieg!"
+ mass_assault_desc:0 "Perfekte Waffen sind überbewertet, eine große Anzahl von "gut genug" Waffen ist der Weg zum Sieg!"
  pocket_defence:0 "Taschenverteidigung"
  pocket_defence_desc:0 "Es ist möglich, dass unsere Truppen in der Defensive in einer Tasche gefangen sind. In diesem Fall müssen sie lediglich ausharren, bis der unvermeidliche Gegenangriff sie befreit."
  defence_in_depth:0 "Verteidigung in der Tiefe"
@@ -714,7 +714,7 @@
  MASS_ASSAULT_DOCTRINE:0 "Massenangriff"
 
 
- MASS_ASSAULT_DOCTRINE_DESC:0 "Perfekte" Waffen werden überbewertet, eine große Anzahl von \"gut genug\" Waffen ist der Weg zum Sieg!"
+ MASS_ASSAULT_DOCTRINE_DESC:0 "Perfekte Waffen werden überbewertet, eine große Anzahl von \"gut genug\" Waffen ist der Weg zum Sieg!"
  MOBILE_INFANTRY_LABEL:0 "MOBILE INFANTERIE"
  MOBILE_INFANTRY_LABEL_TT:0 "Verbessern Sie Geschwindigkeit und Organisation der motorisierten Infanterie."
  BLITZKRIEG_LABEL:0 "BLITZKRIEG"
@@ -845,7 +845,7 @@
  cat_operational_integrity:0 "Doktrin zur operativen Integrität (Operational Integrity Doctrine)"
  cat_base_strike_research:0 "Doktrin über Basisangriffe"
  cat_base_strike:0 "Basis-Strike-Doktrin"
- cat_fleet_in_being_research:0 "Doktrin "Flotte im Einsatz"
+ cat_fleet_in_being_research:0 "Doktrin Flotte im Einsatz"
  cat_trade_interdiction_research:0 "Doktrin zur Handelsverhinderung"
  cat_mobile_warfare:0 "Doktrin zur mobilen Kriegsführung"
  cat_superior_firepower:0 "Doktrin der überlegenen Feuerkraft"

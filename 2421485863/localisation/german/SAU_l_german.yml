@@ -228,7 +228,7 @@
  SAU_integrate_jordan:0 "Integrieren [JOR.GetNonIdeologyName]"
  SAU_integrate_qatar:0 "Integrieren [QAT.GetNonIdeologyName]"
  SAU_integrate_bahrain:0 "Integrieren [BHR.GetNonIdeologyName]"
- SAU_integrate_dubai:0 "Integrieren Sie [UAE.GetNonIdeologyName]" in [JOR.GetNonIdeologyName]"
+ SAU_integrate_dubai:0 "Integrieren Sie [UAE.GetNonIdeologyName] in [JOR.GetNonIdeologyName]"
  SAU_claim:0 "Saudischer Expansionismus"
 
  SAU_camelry_expertise:0 "Camelry Expertise"

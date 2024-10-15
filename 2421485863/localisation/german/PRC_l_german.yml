@@ -890,7 +890,7 @@
  prc.6.a:0 "Hoffentlich kommt nichts dabei heraus..."
 
  prc.7.t:0 "Die Kulturrevolution beginnt"
- prc.7.d:0 "Der Große Vorsitzende Mao hat eine Mitteilung herausgegeben, in der es heißt, dass der Kapitalismus einige hochrangige Funktionäre in der Partei korrumpiert hat und dass sie von der Macht entfernt werden müssen. In der Bekanntmachung wird auch der Entwurf dementiert, der veröffentlicht wurde, nachdem der Große Vorsitzende Mao das Drama "Hai Rui aus dem Amt entlassen" kritisiert hatte: "Einige hochrangige Funktionäre wurden noch am selben Tag aus der Partei ausgeschlossen."
+ prc.7.d:0 "Der Große Vorsitzende Mao hat eine Mitteilung herausgegeben, in der es heißt, dass der Kapitalismus einige hochrangige Funktionäre in der Partei korrumpiert hat und dass sie von der Macht entfernt werden müssen. In der Bekanntmachung wird auch der Entwurf dementiert, der veröffentlicht wurde, nachdem der Große Vorsitzende Mao das Drama \"Hai Rui aus dem Amt entlassen\" kritisiert hatte: Einige hochrangige Funktionäre wurden noch am selben Tag aus der Partei ausgeschlossen."
  prc.7.a:0 "Das sieht nicht gut aus..."
 
  prc.8.t:0 "Tod von Lin Biao"
@@ -1050,7 +1050,7 @@
 
  prc.61.t:0 "[From.GetName] Unserem Befehl getrotzt"
  prc.61.d:0 "Trotz unserer guten Absicht hat sich [From.GetLeader] geweigert, unserem Befehl zu folgen, und beschlossen, die Große Nordwest-Union zu gründen."
- prc.61.a:0 "Son of a...!"  #Weil es vorher auf Russisch war..."
+ prc.61.a:0 "Son of a...!"
 
  prc.62.t:0 "Mao hingerichtet"
  prc.62.d:0 "Nach einer nächtlichen Razzia im Hauptquartier und im Haus von Mao und seinen treuen Anhängern wurden viele Kommunisten verhaftet und kurzerhand hingerichtet. Ihre Leichen werden an einigen Stellen aufgehängt, um die Menschen an die Konsequenzen zu erinnern, wenn sie dem verdammten Kommunismus folgen."

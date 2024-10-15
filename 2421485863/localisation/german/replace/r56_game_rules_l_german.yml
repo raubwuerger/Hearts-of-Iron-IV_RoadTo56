@@ -398,15 +398,15 @@
  RULE_OPTION_COMMUNIST_YUG_AI_DESC:0 "Die jugoslawische KI wird unter Tito zum Kommunismus übergehen und der Komintern beitreten."
 
  ###---> Map Setup <><> <><> <><> ""
- RULE_GROUP_GAME_SETUP:0 "ap Setup" #nicht nur Fragmentierung (mehr)"
- RULE_GROUP_STARTING_CORES_SETUP:0 "Freisetzbare Kerne"
+ RULE_GROUP_GAME_SETUP:0 "Map Setup"
+ RULE_GROUP_STARTING_CORES_SETUP:0 "Freisetzbare Kernprovinzen"
 
  #-> Remore some Releasables <><> ""
 
  MINOR_RELEASABLES_STATUS:0 "Status der Freisetzbaren"
- RULE_OPTION_REMOVE_SOME_RELEASABLES_DEFAULT_DESC:0 "Die Kerne der freischaltbaren Länder werden nicht berührt."
+ RULE_OPTION_REMOVE_SOME_RELEASABLES_DEFAULT_DESC:0 "Die Kernprovinzen der freischaltbaren Länder werden nicht berührt."
  RULE_OPTION_REMOVE_SOME_RELEASABLES:0 "Einige Releasables entfernen"
- RULE_OPTION_REMOVE_SOME_RELEASABLES_DESC:0 "Releasables mit begrenzten/nicht vorhandenen nationalistischen Aktivitäten während dieser Ära, auf Territorien, die bereits Kerne haben, werden entfernt. §RNicht nur die Liste der betroffenen Länder wird etwas willkürlich sein, sondern es kann auch Auswirkungen auf die anderen Spielregeln haben, die die Startgrenzen verändern.§!"
+ RULE_OPTION_REMOVE_SOME_RELEASABLES_DESC:0 "Releasables mit begrenzten/nicht vorhandenen nationalistischen Aktivitäten während dieser Ära, auf Territorien, die bereits Kernprovinzen haben, werden entfernt. §RNicht nur die Liste der betroffenen Länder wird etwas willkürlich sein, sondern es kann auch Auswirkungen auf die anderen Spielregeln haben, die die Startgrenzen verändern.§!"
 
  #-> Annexations <><> ""
  MICRONATION_ANNEXATION_STATUS:0 "Status der Mikronationen"

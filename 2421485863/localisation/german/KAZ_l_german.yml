@@ -34,7 +34,7 @@
  KAZ_accomodate_exiled_companies_desc: "Aufgrund der strategischen Lage Kasachstans für [SOV.GetNameDef] und andere, hält es Unternehmen von hohem Wert, die nicht in feindliche Hände fallen dürfen, müssen wir mit ihnen kooperieren, um auch von ihnen zu profitieren."
  KAZ_EXPORTATION_NAZI_HELPERS: "Nazi-Kollaborateure deportieren"
  KAZ_EXPORTATION_NAZI_HELPERS: "Einige Leute mögen unser Regime nicht, sie arbeiten mit Sicherheit mit den Deutschen zusammen, um den Staat zu untergraben und müssen beseitigt werden."
- KAZ_KHROUCHTCHEV_MEMORANDUM: "ruschtschow-Memorendum" #idk, was der Fokusname auch bedeutet"
+ KAZ_KHROUCHTCHEV_MEMORANDUM: "Kruschtschow-Memorendum"
  KAZ_Restore_Khanate: "Das Khanat wiederherstellen"
  KAZ_khans_horde: "Die Khans Horde"
  #KAZ_for_the_khan: "Für den Khan"
@@ -51,7 +51,7 @@
 
  #tooltip ""
  KAZ_wargoals_formable: "§YDieser Fokus gibt Kriegsziele an die Inhaber jedes nicht-verbündeten turkestanischen Staates.§!"
- SOV_KAZ_weapon_cooperation: "SOV.GetAdjective]s Genehmigte Waffenkooperation" #flag"
+ SOV_KAZ_weapon_cooperation: "SOV.GetAdjective]s Genehmigte Waffenkooperation" 
 
  #ideas ""
  KAZ_semipalatinsk_test_site: "Semipalatinsk Testgelände"

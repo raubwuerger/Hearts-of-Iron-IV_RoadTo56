@@ -359,7 +359,8 @@
  r56_USA_a_cold_war:0 "Ein Kalter Krieg"
  r56_USA_a_cold_war_desc:0 "Da die Welt in zwei Machtblöcke gespalten ist, wird noch deutlicher, dass ein offener Krieg katastrophale Auswirkungen auf den Planeten und die Zukunft der menschlichen Zivilisation haben würde. Wir werden unsere Anstrengungen auf den Wiederaufbau unserer Nation konzentrieren und die Kommunisten in Wissenschaft und Produktion übertreffen, während wir im Geheimen demokratische Regime auf der ganzen Welt unterstützen."
 
- r56_USA_commence_the_unthinkable:0 "Beginnen Sie das "Undenkbare" r56_USA_commence_the_unthinkable_desc:0 "Wie sehr wir uns auch bemühen, die Rote Bedrohung schwebt weiterhin über der Welt. Wenn wir die Rote Morgenröte verhindern wollen, müssen wir an der Quelle des Problems ansetzen - [SOV.getNameDef]. Zittere, kommunistische Bedrohung, der Glanz von Freiheit und Freiheit wird bald die ganze Welt umarmen!"
+ r56_USA_commence_the_unthinkable:0 "Beginnen Sie das Undenkbare" 
+ r56_USA_commence_the_unthinkable_desc:0 "Wie sehr wir uns auch bemühen, die Rote Bedrohung schwebt weiterhin über der Welt. Wenn wir die Rote Morgenröte verhindern wollen, müssen wir an der Quelle des Problems ansetzen - [SOV.getNameDef]. Zittere, kommunistische Bedrohung, der Glanz von Freiheit und Freiheit wird bald die ganze Welt umarmen!"
 
  USA_guantanamo_bay_forward_base:0 "[1050.GetName] Forward Base"
  USA_guantanamo_bay_forward_base_desc:0 "Der [1050.GetName] Marinestützpunkt ist von großem strategischen Nutzen für unsere Operationen in der Karibik. Der Ausbau des Stützpunktes würde es uns ermöglichen, unsere Operationen weiter zu verstärken."

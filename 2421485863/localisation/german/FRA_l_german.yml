@@ -636,7 +636,7 @@
  FRA_compromise_with_germany_desc:0 "Vielleicht können wir eine Vereinbarung mit [GER.GetLeader] treffen, um unsere Einflusszonen zu sichern und uns auf unsere Probleme zu konzentrieren."
  FRA_approach_poland_and_romania:0 "Annäherung an [POL.GetAdjective] und [ROM.GetAdjective] Regierungen"
  FRA_approach_poland_and_romania_desc:0 "[POL.GetNameDefCap] und [ROM.GetNameDef] sind essentiell für die Sicherheit Osteuropas; sie sind daher entscheidend für das Gleichgewicht des Kontinentalsystems."
- FRA_obtain_polish_cryptological_data:0 "btain Polish Cryptological Data" #Dieser Fokus existiert im ungarischen Baum und im französischen Baum."
+ FRA_obtain_polish_cryptological_data:0 "btain Polish Cryptological Data"
  FRA_obtain_polish_cryptological_data_desc:0 "Unsere großen polnischen Verbündeten haben einen Durchbruch auf dem Gebiet der maschinengestützten Entschlüsselung erzielt. Durch enge Zusammenarbeit könnten wir uns ihre Technologien zunutze machen."
 
 
