@@ -506,7 +506,7 @@ MON_peljidiin_genden_desc:0 "Der aus einer armen Viehzüchterfamilie stammende G
 #Central Asia pact ""
 MON_central_asian_diplomacy:0 "Zentralasien-Diplomatie"
 MON_central_asian_diplomacy_desc:0 " "
-#Recent policies dictated by the [MON.getAdjective] officials indicate a strong need of a leadership change in various areas of Central, Northern and Far East Asia."
+#"Recent policies dictated by the [MON.getAdjective] officials indicate a strong need of a leadership change in various areas of Central, Northern and Far East Asia."
 
 MON_join_demo_from_factionname:0 "Beitritt zu [FROM.getFactionName]"
 MON_join_demo_from_factionname_tt:0 "Schaltet §HEntscheidungen§! zum §HBeitritt§! demokratischer Fraktionen frei!"
@@ -646,7 +646,7 @@ Mongolneft:0 "Mongolneft"
 #flags ""
 MON_genden_allowed_in_office_flag:0 "Genden durfte als Teil des Amar's §HVertrags§! im Amt bleiben."
 MON_required_for_leftist_takover:0 "§RDiese Wahl wird eine linke Machtübernahme ermöglichen§!"
-MON_kill_genden_for_future_leftist_takeover:0 "Genden wurde als Teil des §HVertrags§! §Rgesäubert§! 
+MON_kill_genden_for_future_leftist_takeover:0 "Genden wurde als Teil des §HVertrags§! §Rgesäubert§! "
 MON_demid_killed:0 "Starb unter verdächtigen Umständen"
 MON_soviet_advisors_allowed_flag:0 "[SOV.getAdjective]s leisteten militärische Unterstützung"
 
@@ -1434,7 +1434,7 @@ MON_new_comintern_beacon_desc:0 "Es ist klar, dass sich die Gezeiten geändert h
 MON_one_union_government:0 "Eine Unionsregierung"
 MON_one_union_government_desc:0 "Die Welt ist im Umbruch. Wer hat jetzt noch die Kraft, sich gegen Armeen von [ROOT.getNameDef] und [SOV.getNameDef] zu stellen? Gegen die Macht von [ROOT.getLeader] und [SOV.getLeader] und den Zusammenschluss der beiden Staaten zu bestehen. Gemeinsam, mein Freund [SOV.getLeader], werden wir diese Welt bis zur Revolution regieren."
 #A proper description just to be sure ""
-#We have done everything to assist them, but it is not enough: the [SOV.getAdjective] state appears to collapse sooner or later under the overwhelming weight of its invaders. The only applicable solution in these circumstances is to propose a unitary government which shall be in charge of revolutionary struggle from now on!"
+#"We have done everything to assist them, but it is not enough: the [SOV.getAdjective] state appears to collapse sooner or later under the overwhelming weight of its invaders. The only applicable solution in these circumstances is to propose a unitary government which shall be in charge of revolutionary struggle from now on!"
 
 MON_struggle_for_communal_liberation:0 "Der Kampf für die kommunale Befreiung"
 MON_struggle_for_communal_liberation_desc:0 "Im Gegensatz zu unseren sowjetischen Brüdern werden wir den Kampf aller Nationen innerhalb der neuen Union unterstützen, um die Invasoren zu bekämpfen und ihren vorrückenden Feind mit allen Mitteln zurückzuschlagen!"
