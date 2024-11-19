@@ -1,5 +1,5 @@
 ﻿l_german:
-  AUS_GATHERING_STORM_DESC:0 "Die Erste Republik ist vorbei. Am 20. Mai 1933 rief Bundeskanzler Engelbert Dolfuss in einem Akt der Ermächtigung, der jenem unheimlich ähnelte, mit dem Adolf Hitler nur wenige Monate zuvor die Macht in Deutschland übernommen hatte, den Bundesstaat Österreich aus und verwandelte die einst freie und demokratische Republik in eine faschistische Diktatur. \nIm darauffolgenden Jahr kam es zu zwei Bürgerkriegen, einem mit den Sozialisten und einem mit den Nazis, die mit der Ermordung von Dolfuss endeten. Nun steht Bundeskanzler Kurt Schuschnigg vor der Wahl, eine instabile Nation in einen aufziehenden Sturm zu steuern und sich für einen Weg zu entscheiden oder dem sicheren Untergang entgegenzugehen."
+ AUS_FOCUS_TREE_SELECTION:0 "@AUS Österreich"
 
  # characters
  AUS_otto_bauer:0 "Otto Bauer"
@@ -208,6 +208,7 @@ r56_bundeslaender_occupied_tooltip:0 "von einer fremden Macht besetzt ist und al
  AUS_prepare_for_civilwar:0 "§Es wäre ratsam, diesen Schwerpunkt erst dann zu setzen, wenn wir eine ausreichende Anzahl von Divisionen kontrollieren§!"
  AUS_crackdown_time_down_tt:0 "Die Zeit, die es braucht, um gegen die Nazi-Aktivitäten vorzugehen, wird §Glowered§! sein."
 
+ AUS_recall_gunther_adolf_burstyn:0 "Rückruf von Gunther Adolf Burstyn"
  #POLITICS
  AUS_fascism_ideology_desc:0 "Der §YAustrofaschismus§!, eine einzigartige Mischung aus Mussolinis Faschismus und dem Klerikalfaschismus, ist eine rechtsextreme Bewegung, die während Engelbert Dolfuss' allmählicher Umwandlung der Republik in den Bundesstaat entstanden ist. \nAls formale Ideologie der VF vertritt der Austrofaschismus einen radikalen §YKatholischen Nationalismus§! und §8Staatskorporatismus§! sowie eine scharfe Ablehnung des Nationalsozialismus und jeglicher Vereinigung zwischen Österreich und Deutschland, da er die protestantische Mehrheit des letzteren als Bedrohung der österreichischen katholischen Identität ansieht."
  AUS_clerical_fascism_desc:0 "Als einzigartige Mischung aus Mussolinis Faschismus und Klerikalfaschismus ist der §YAustrofaschismus§! eine rechtsextreme Bewegung, die während der schrittweisen Umwandlung der Republik in einen Bundesstaat durch Engelbert Dolfuss entstand. \nAls formale Ideologie der VF vertritt der Austrofaschismus einen radikalen §YKatholischen Nationalismus§! und §8Staatskorporatismus§! sowie eine scharfe Ablehnung des Nationalsozialismus und jeglicher Vereinigung zwischen Österreich und Deutschland, da er die protestantische Mehrheit des letzteren als Bedrohung der österreichischen katholischen Identität ansieht."
@@ -1561,7 +1562,7 @@ AUS_establish_the_austrian_airforce_academy_desc:0 "Unsere junge Luftwaffe entwi
  austria.103.a:0 "Behalten Sie dies genau im Auge."
 
  austria.104.t:0 "Heimwehr-Elemente starten Putsch!"
- austria.104.b:0 "Nachdem es uns nicht gelungen ist, gegen die Heimwehrelemente vorzugehen, die sich unserer Regierung widersetzt haben, haben Ernst Rüdiger Starhemberg und der Rest der Heimwehr einen Putsch gegen den Kaiser gestartet, um die austrofaschistische Vaterlandsfrontregierung wiederherzustellen."
+ austria.104.d:0 "Nachdem es uns nicht gelungen ist, gegen die Heimwehrelemente vorzugehen, die sich unserer Regierung widersetzt haben, haben Ernst Rüdiger Starhemberg und der Rest der Heimwehr einen Putsch gegen den Kaiser gestartet, um die austrofaschistische Vaterlandsfrontregierung wiederherzustellen."
  austria.104.a:0 "Sie werden zerschlagen werden!"
  austria.104.b:0 "Der Kaiser hat Österreich zum letzten Mal verraten!"
 

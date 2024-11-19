@@ -1,11 +1,12 @@
 ﻿l_german:
-  #CHARACTERS ""
+  #CHARACTERS
   ENG_elizabeth_ii:0 "Elisabeth II."
   ENG_charles_edward_of_albany:0 "Charles Edward von Albany"
-  #Country Stuff ""
+  ENG_r56_percy_hobart:0 "Percy Hobart"
+  #Country Stuff
   ENG_establish_the_colony_of_aden:0 "gründet die Kolonie Aden"
   ENG_establish_the_colony_of_aden_desc:0 "Der Hafen von Aden ist einer der wichtigsten im Handel zwischen Indien, Europa und dem Fernen Osten. Mit dem Government of India Act von 1935 wurde die Kontrolle über diesen Hafen direkt auf die Regierung in London übertragen, während er zuvor als Provinz des Chief Commissioner verwaltet worden war. Die letzten Vorbereitungen für die Gründung von Aden als eigenständige Kolonie sind nun abgeschlossen."
-  #Focus ""
+  #Focus
   ENG_war_with_ussr:0 "Operation Undenkbar"
   uk_naval_gunnery:0 "Marinegeschützwesen"
   uk_naval_gunnery_desc:0 "Verbessern Sie die Effizienz unserer Marineausrüstung, um härter zuzuschlagen und die Meere zu beherrschen."
@@ -191,18 +192,18 @@
  ENG_war_USA_desc:0 "Unsere ehemalige Kolonie könnte bald die stärkste Nation werden, die die Welt je gesehen hat. Die Große Depression hat sie geschwächt, aber mit jedem Tag erholen sie sich. Wir müssen sie so bald wie möglich angreifen, damit sie unseren Fortschritt nicht auf unbestimmte Zeit aufhalten."
  ENG_ally_venezuela:0 "Bündnis mit Venezuela"
  ENG_ally_venezuela_desc:0 "Die Kapitalisten in den Vereinigten Staaten und die Kommunisten in der Sowjetunion kontrollieren einen Großteil des Öls, das wir für den Betrieb unseres Militärs benötigen. Ein Bündnis mit Venezuela wird sicherstellen, dass wir uns ihr Öl für unsere Sache sichern."
-  #Custom Tooltips ""
+  #Custom Tooltips
 
-  #Flags ""
-
-  #Ideas ""
+  #Flags
+  r56_ENG_decision_support_percy_hobart_recruited:0 "§YPercy Hobart§! wurde bereits unterstützt."
+  #Ideas
   ENG_crypto_bomb_idea_lar:0 "Kryptologische Bombe"
   ENG_admiralty_naval_staff:0 "Admiralität Marinestab"
   ENG_royal_family_remnants:0 "Überreste der königlichen Familie"
   ENG_royal_family_remnants_desc:0 "Während der größte Teil der königlichen Familie von diesen kommunistischen Dämonen hingerichtet wurde, gibt es immer einen Erben, der darauf erpicht ist, dieses neue Rumpfparlament loszuwerden und den britischen Thron wiederherzustellen."
 
 
-  #Events ""
+  #Events
   englandmod.99.t:0 "Archibald Wavell kommt nach Indien"
   englandmod.99.d:0 "General Archibald Wavell wurde kürzlich zum Befehlshaber der Britisch-Indischen Armee befördert und sollte in wenigen Tagen eintreffen."
   englandmod.99.a:0 "Verstanden."
@@ -233,7 +234,7 @@
   britain.30.d:0 "[SOV.GetNameDefCap] hat unseren Vorschlag für einen Versöhnungspakt abgelehnt und ihn mit der Begründung zurückgewiesen, dass die gegenseitige Zerstörung zwischen unseren beiden Nationen eine Zusammenarbeit in gutem Glauben nicht zulassen wird. Die [SOV.GetAdjective]s wollen auch kein Interesse daran haben, dass es zu Feindseligkeiten zwischen unseren beiden Nationen kommt."
   britain.30.a:0 "Sie sind genauso schlimm, wie wir dachten."
 
-  #Decisions ""
+  #Decisions
 
   ENG_weapons_purchases_category:1 "Kauf von [USA.GetAdjective] Waffen"
   ENG_weapons_purchases_category_desc:0 "Da unsere Industrie immer noch Nachholbedarf hat, könnte die Suche nach modernen Waffen im Ausland die einzige Möglichkeit sein, unsere Streitkräfte auf den neuesten Stand zu bringen."
@@ -253,12 +254,12 @@
   ENG_speech_against_war:0 "Rede gegen den Krieg"
   ENG_speech_against_war_desc:0 "Das Blut unserer besten Jugend wird nicht vergeblich durch fremdes Gesindel vergossen werden. Großbritannien muss in Frieden bleiben, wenn es überleben soll. Unsere Stimme muss in jeder Straße zu hören sein. Wir fordern Frieden! Aber wir werden bereit sein, unseren Boden zu verteidigen und uns gegen die ausländischen Invasoren zu wappnen. Denjenigen, die behaupten, wir wollten Unruhe stiften und Kriege anzetteln, antworten wir mit einer einzigen Stimme: Großbritannien lebt und marschiert weiter, in Frieden!"
 
-  #Advisors ""
+  #Advisors
   ENG_john_dill:0 "John Dill"
   ENG_alan_turing:0 "Alan Turing"
   ENG_harold_harmsworth:0 "Harold Harmsworth"
   ENG_willie_gallacher:0 "Willie Gallacher"
-  #Companies ""
+  #Companies
   ENG_thornycroft_ltd:0 "Thornycroft ltd."
   #ENG_industrial_concern:0 "English Steel Corporation Ltd."
   ENG_guest_keen_baldwins:0 "Gast Keen Baldwins"
@@ -272,9 +273,9 @@
   ENG_bristol:0 "Bristol Aeroplane Company"
   ENG_gloster_aircraft:0 "Gloster Aircraft"
   ENG_ROF_nottingham:0 "ROF Nottingham"
-  #Traits ""
+  #Traits
 
-  #Misc ""
+  #Misc
   british_alternate_focus:0 "British Empire Fokus-Baum"
   british_alternate_focus_tt:0 "§REin weiterer Fokusbaum wird geladen, nachdem dieser Fokus abgeschlossen ist, der alle Road to 56-Faschisten-Fokusse enthält. Es gibt keinen Weg zurück! Wähle weise.§!"
   ENG_anti_communist_commanders_exile_tt:0 "§RAristokratische Befehlshaber werden verschwinden oder ins Exil gehen.§!"
@@ -412,7 +413,7 @@
 
   royal_ordinance_focus:0 "Nationale Ordonnanzfabriken"
 
- # New stuff ""
+ # New stuff
  ENG_northern_ireland_for_assistance:0 "[119.GetName] zur Unterstützung"
  ENG_northern_ireland_for_assistance_desc:0 "Angesichts der weltweiten Bedrohungen liegt es nicht in unserem Interesse, unseren Grenzstreit mit [IRE.GetNameDef] fortzusetzen. Vielleicht können wir das umstrittene Territorium den [IRE.GetAdjective] anbieten, wenn sie sich im Gegenzug verpflichten, uns bei unseren Bemühungen zu unterstützen."
  ENG_secure_ireland:0 "Sichere [IRE.GetNonIdeologyName]"

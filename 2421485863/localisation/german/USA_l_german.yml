@@ -14,10 +14,14 @@
  sons_of_liberty:0 "Söhne der Freiheit"
  sons_of_liberty_desc:0 "Wir haben die Tyrannei einmal bekämpft, wir werden sie wieder bekämpfen."
  deo_vindice:0 "Deo vidice"
- deo_vindice_desc:0 "nter Gott, unserem Vindicator" rt56_office_of_econimic_warfare_idea:0 "Office of Economic Warfare"
+ deo_vindice_desc:0 "'Unter Gott, unserem Rechtfertiger'"
+ rt56_office_of_econimic_warfare_idea:0 "Büro für Wirtschaftskriegsführung"
  rt56_office_of_econimic_warfare_idea_desc:0 ""
  r56_USA_world_loco_motive_works:0 "Die Lokomotivwerke der Welt"
  r56_USA_world_loco_motive_works_desc:0 "Während der Rest der Welt mit der Produktion von Kriegsgütern beschäftigt ist. Wir haben die Industrie, um die Flaute in der Weltproduktion von Lokomotiven auszugleichen."
+ rt56_USA_advisory_committee_on_uranium:0 "S-1 Exekutivausschuss"
+ rt56_USA_advisory_committee_on_uranium_desc:0 "Ein Ausschuss, der die Forschungsbemühungen im Bereich der Kernspaltung koordiniert."
+
 
  USA_office_of_strategic_services_desc:0 "Die Bildung einer speziellen Abteilung unseres Geheimdienstes zur Unterstützung ausländischer Widerstandsorganisationen und zur Infiltration feindlicher Einrichtungen wird uns bei unseren künftigen Operationen sehr helfen, die Oberhand zu gewinnen."
 
@@ -223,6 +227,7 @@
  USA_constitutional_convention_washington:0 "Washingtoner Verfassungskonvent"
  USA_proclaim_washington_to_be_the_first_fascist:0 "Ernennung Washingtons zum ersten Faschisten"
  USA_raise_washington_to_general_of_the_armies:0 "Erhebt Washington in den Rang eines Generals der Armee"
+ USA_rally_the_martians:0 "Versammeln Sie die Marsianer"
 
  USA_combating_jim_crow:0 "Marginalisierung der Afroamerikaner im Süden "
  USA_combating_jim_crow_desc:0 "Die Niederlage der Südstaaten im Amerikanischen Bürgerkrieg und die selbst empfundene Demütigung in der Zeit des Wiederaufbaus waren zu viel für die südliche Pflanzerschicht. Sie kanalisierten ihre Frustration über die jüngste politische Entmachtung und nutzten sie, um sich gegen die neu befreite afroamerikanische Bevölkerung zu verschwören. Die politischen Intrigen der Südstaaten gipfelten in dem Kompromiss von 1877. Der Kompromiss bedeutete das formale Ende der Reconstruction im Süden und sah die Aufhebung des Schutzes für die afroamerikanischen Gemeinden und Politiker im Süden vor. Der Kompromiss war praktisch ein Verrat und eine Preisgabe der Afroamerikaner im Süden. Seitdem haben feindselige Gesetzgeber in den Südstaaten auf Betreiben einer noch feindseligeren Bevölkerung Gesetze erlassen, die Afroamerikaner ausgrenzen. Gesetze, die Afroamerikaner aufgrund ihrer Ethnie auf öffentlichen Plätzen vom Rest der Südstaatenbevölkerung trennen und ihr Wahlrecht unterdrücken. Gleichzeitig führt die Bevölkerung in diesen Staaten ihre eigenen außergerichtlichen Kampagnen durch, um Afroamerikaner zu terrorisieren und zu quälen. Diese Praktiken wurden als "Jim Crow" bezeichnet.\n\nAuch wenn wir derzeit dringendere Probleme haben, können wir die Tatsache nicht ignorieren, dass die Praxis von "Jim Crow" unser Land weiterhin belastet. Ein Land, das "Freiheit und Gerechtigkeit für alle" verspricht."
@@ -290,6 +295,7 @@
  r56_USA_legislation_drafted_days_tt:0 "Die aktuellen Tage sind: [?USA_new_legislation_drafed_flag:days|Y0]"
  USA_new_legislation_drafed_flag:0 "Letzter Regierungsakt wurde verfasst"
  r56_zippo_satan:0 "Erstellen Sie §YM3A1§! Leichte Flammenpanzervariante auf der Grundlage der Erforschung von §YFlammenwerfer§!, §YIngenieurkompanie II§! und §YVerbessertem Leichtem Panzerfahrgestell§! \n\nErstelle §YM4 Zippo§! Mittlere Flammenpanzervariante auf der Grundlage von §YFlammenwerfer§!, §YEngineer Company II§! und §YVerbessertem Mittleren Panzerfahrgestell§!\n\n"
+ USA_rally_the_martians_trigger_tt:0 "Die 'Marsmenschen' sind geflohen §Y[HUN.GetNameDef]§! [HUN.GetFlag]"
 
  #focuses# ""
  r56_USA_form_united_nations:0 "Charta der Vereinten Nationen"

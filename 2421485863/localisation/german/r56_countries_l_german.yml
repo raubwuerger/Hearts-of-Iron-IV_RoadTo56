@@ -769,6 +769,18 @@
  RGR_communism_ADJ:0 "Reformierte Chinesen"
  RGR_communism_DEF:0 "der chinesische sozialistische Staat"
 
+ #RHI
+ RHI:0 "Rheinland"
+ RHI_ADJ:0 "Rheinische"
+ RHI_democratic:0 "Rheinische Republik"
+ RHI_democratic_ADJ:0 "die Rheinische Republik"
+ RHI_neutrality:0 "Rheinbund"
+ RHI_neutrality_desc:0 "die Rheinische Eidgenossenschaft"
+ RHI_fascism:0 "Rhenish Empire"
+ RHI_fascism_ADJ:0 "das Rheinische Reich"
+ RHI_communism:0 "Sowjetrepublik am Rhein"
+ RHI_communism_ADJ:0 "die Sowjetrepublik am Rhein"
+
  #RUT ""
  RUT:0 "Karpato-Ukraine"
  RUT_ADJ:0 "Karpato-Ukrainisch"

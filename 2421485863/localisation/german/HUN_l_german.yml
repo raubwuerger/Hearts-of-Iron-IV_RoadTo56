@@ -165,3 +165,5 @@
  r56_hungary_7.t:0 "[ITA.GetLeader] [YUG.GetNameDef] zur [HUN.Getfactionname] eingeladen"
  r56_hungary_7.desc:0 "Mit seinem traditionellen diplomatischen Draufgängertum hat [ITA.GetLeader] beschlossen, auf eigene Faust zu handeln und [YUG.GetLeader] zur Unterzeichnung eines Bündnisvertrags einzuladen, der sie an die [HUN.getfactionname] bindet. Es ist zwar schön, neue Verbündete zu haben, aber es könnte der Reformation des historischen Ungarn im Wege stehen."
  r56_hungary_7.a:0 "Ich denke, es ist besser, als von Feinden umgeben zu sein."
+
+ ROM_agrarian_reform:0 "Agrarreform" #used only in DLC HUN tree despite idea name

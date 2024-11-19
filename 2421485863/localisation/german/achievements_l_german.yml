@@ -208,3 +208,10 @@ a_kaiser_not_just_in_name_DESC:0 "Reform des Heiligen Römischen Reiches."
 
 union_del_caribe_NAME:0 "Karibische Union"
 union_del_caribe_DESC:0 "Als Venezuela die venezolanisch-karibische Union bilden."
+
+god_damn_plan_NAME:0 "Was gibt es auf Tahiti?"
+god_damn_plan_DESC:0 "Vervollständigen Sie den Niederländischen Plan."
+
+vampire_economy_NAME:0 "Vampir-Wirtschaft"
+vampire_economy_DESC:0 "Kontrollieren Sie Translvanien und Nordtranssylvanien vollständig und vampirisieren Sie Ihre Wirtschaft, indem Sie siebenmal die Entscheidung $GER_strong_arm_the_industrialists$ treffen."
+vampire_economy_tt:0 "Hat die Entscheidung $GER_strong_arm_the_industrialists$ sieben Mal getroffen."

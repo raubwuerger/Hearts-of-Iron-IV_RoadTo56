@@ -600,3 +600,12 @@ RULE_VOLUNTEERS_NOT_ANARCHISTS_TT:0 "§RSouveräne Staaten können keine Freiwil
  RULE_OPTION_BRA_COMMUNIST_STALINISM_DESC: "Brasilien wird versuchen, die demokratische Regierung zu stürzen und durch eine kommunistische Regierung mit sowjetischer Ausrichtung unter der Führung von Luís Carlos Prestes zu ersetzen. Das Land wird dann der Komintern beitreten und die Sowjetunion unterstützen."
  RULE_OPTION_BRA_COMMUNIST_INDEPENDENT: "Kommunismus - Aliança Nacional Libertadora"
  RULE_OPTION_BRA_COMMUNIST_INDEPENDENT_DESC: "Brasilien wird die ANL wiederbeleben und versuchen, die demokratische Regierung zu stürzen. An ihre Stelle tritt der ANL-Rat, der dann kommunistische Reformen durchführt, bevor er schließlich versucht, den Kontinent von Faschismus und Imperialismus zu befreien."
+
+ COG_AI_BEHAVIOR: "@COG Belgisch-Kongo"
+ RULE_OPTION_HISTORICAL_COG_AI_DESC: "Die kongolesische KI wird bei Belgien bleiben und ihre Beziehungen zu diesem Land voll ausschöpfen, um schließlich eine größere Autonomie anzustreben."
+ RULE_OPTION_COG_DEM_INDEPENDENCE_AI: "Demokratische Emanzipationsbewegungen"
+ RULE_OPTION_COG_DEM_INDEPENDENCE_AI_DESC: "Die kongolesische KI wird versuchen, so schnell wie möglich mit friedlichen Mitteln ihre Unabhängigkeit zu erlangen und später in ganz Afrika für Demokratie zu kämpfen."
+ RULE_OPTION_COG_COM_INDEPENDENCE_AI: "Kommunistische Emanzipationsbewegungen"
+ RULE_OPTION_COG_COM_INDEPENDENCE_AI_DESC: "Die kongolesische KI wird versuchen, ihre Unabhängigkeit so schnell wie möglich mit friedlichen Mitteln zu erlangen, und später versuchen, den Kommunismus in ganz Afrika zu verbreiten."
+ RULE_OPTION_COG_COM_REVOLUTION_AI: "Die Revolution von Simba"
+ RULE_OPTION_COG_COM_REVOLUTION_AI_DESC: "Die kongolesische KI wird versuchen, sich durch eine gewaltsame Revolution und einen anschließenden Bürgerkrieg von ihren kolonialen Oberherren zu befreien, und wird dann versuchen, den Kommunismus auf dem gesamten afrikanischen Kontinent zu verbreiten."

@@ -447,3 +447,8 @@
  excavation_tech_bonus_name:0 "Bonus für Ressourcenerschließung"
 
  rocketry_tech_bonus_name:0 "Raketentechnik-Durchbruch-Bonus"
+ 
+ r56_generic_rocket_idea:0 "Raketentechnik-Programm"
+
+ r56_generic_radar_idea:0 "Radar Programme"
+

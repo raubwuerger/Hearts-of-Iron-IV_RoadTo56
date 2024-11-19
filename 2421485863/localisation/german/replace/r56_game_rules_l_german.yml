@@ -694,14 +694,7 @@
  RULE_OPTION_NO_FACTIONS:0 "Keine Startfraktionen"
  RULE_OPTION_NO_FACTIONS_DESC:0 "Zu Beginn des Spiels wird es keine Startfraktionen geben, aber Großbritannien, die USA, Deutschland und die UdSSR haben weiterhin die Möglichkeit, Fraktionen zu bilden."
 
- #UI ""
- RULE_STATES_RENAMING:0 "Umbenennung von Staaten"
- RULE_STATES_RENAMING_DESC:0 "Staaten können umbenannt werden, auch wenn dieser Weg von manchen als unnatürlich empfunden wird."
- RULE_OPTION_ALLOW_RENAMING:0 "Umbenennung zulassen"
- RULE_OPTION_ALLOW_RENAMING_DESC:0 "Staaten werden so umbenannt, dass sie mit der Landessprache des Kontrolleurs übereinstimmen, wenn lateinisierte Namen verfügbar sind."
- RULE_OPTION_PHOHIBIT_RENAMING:0 "Umbenennung verbieten"
- RULE_OPTION_PHOHIBIT_RENAMING_DESC:0 "Die Staaten behalten ihre ursprünglichen Namen wie im Basisspiel."
-
+ #UI
  RULE_COLOUR_OF_SUBJECTS:0 "Farbe der Untertanen"
  RULE_COLOUR_OF_SUBJECTS_DESC:0 "Subjektzustände und ihre Farbe. Welche Farbe gefällt dir?"
  RULE_OPTION_NO_CHANGES:0 "Keine Änderungen"

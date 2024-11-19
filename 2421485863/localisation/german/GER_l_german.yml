@@ -1,10 +1,14 @@
 ﻿l_german:
+#KEEP LEGACY LOCAL! YOU DONT KNOW WHERE IT MIGHT SHOW UP YOU SIMPLE MINDED APE!
 
-#Characters ""
+ #Shortcut
+ GER_kill_hitler_shortcut:0 "$GER_kill_hitler$"
+
+#Characters
  GER_bernhard_rogge:0 "Bernhard Rogge"
  GER_heinrich_brandler:0 "Heinrich Brandler"
 
-#Company/MIO ""
+#Company/MIO
  GER_deutsche_forschungsanstalt_fur_segelflug:0 "DFS"
  GER_deutsche_forschungsanstalt_fur_segelflug_desc:0 "Deutsche Forschungsanstalt für Segelflug"
  GER_erma_werke:0 "Erma Werke"
@@ -14,7 +18,7 @@
  GER_mio_trait_mechanized_simplification: "Design-Vereinfachung"
  GER_mio_trait_mg34:0 "Mg 34 Maschinengewehre"
 
-#Focuses ""
+#Focuses
  GER_begin_depression_recovery:0 "Beginn der Erholung von der Depression"
  GER_begin_depression_recovery_desc:0 "Der Umgang der Weimarer Republik mit der großen Depression hat die Wirtschaft noch schlimmer gemacht. Wir sollten damit beginnen, diesen von den Feinden von [GER.GetNameDef] angerichteten Schaden zu reparieren."
  GER_begin_reinhardt:0 "Beginnen Sie mit dem Reinhardt-Programm"
@@ -397,7 +401,7 @@
  GER_reach_across_the_atlantic_desc:0 "Es ist an der Zeit, dass die deutschen Kriegsschiffe den Atlantik überqueren, um die amerikanische und britische Flotte in ihren Schatten zu stellen."
 
 
- #Ideas ""
+ #Ideas
  GER_general_staff:0 "Generalstab"
  GER_general_staff_desc:0 "Der [ROOT.GetAdjective] Generalstab war für die kontinuierliche Untersuchung aller Aspekte des Krieges zuständig, einschließlich der Ausarbeitung und Überprüfung von Mobilisierungs- und Feldzugsplänen. Dies trug zu einem höheren Organisationsgrad in der Armee bei."
  GER_foreign_volunteers_idea:0 "Ausländische Freiwillige"
@@ -478,6 +482,22 @@
  GER_plan_z_idea:0 "Plan Z"
  r56_ger_naval_treaty:0 "[ENG.GetAdjective]-[GER.GetAdjective] Seevertrag"
  r56_ger_naval_treaty_desc:0 "Die jüngsten Gespräche mit [ENG.GetNameDef] haben die uns durch den Versailler Vertrag auferlegten Marinebeschränkungen weitgehend gelockert, so dass wir unsere Marinekapazitäten massiv ausbauen können. Allerdings gibt es immer noch Beschränkungen für unsere Marineproduktion, und das wird auch so bleiben, bis wir den Schritt tun, unsere Marine vollständig von dem Vertrag zu befreien."
+ r56_GER_four_year_plan:0 "Der Vierjahresplan"
+ r56_GER_four_year_plan_upgrade:0 "Der Ewige Vierjahresplan"
+ r56_GER_four_year_plan_desc:0 "§WDer Eintritt in einen§! §ROffensivkrieg§! §Wmit einer§! §YGroßmacht§! §Rbeseitigt§! §Wdiesen§! §Ynationalen Geist§!\n"
+ GER_coerce_the_technocrats:0 "Die Technokraten unter Druck setzen"
+ r56_GER_four_year_plan_upgrade_tt:0 "§Y$r56_GER_four_year_plan$ Nationaler Geist§! wird permanent und wird nicht mehr entfernt, wenn man in einen §Roffensiven Krieg eintritt.§!§W.§!"
+ GER_coerce_the_technocrats_desc:0 "Viele Geschäftsleute und ihre Partner, die so genannte technokratische Klasse, hassen es, unter unserer derzeitigen Regierung Geschäfte zu machen und zu forschen. Diese potenzielle fünfte Kolonne muss vernichtet werden, bevor sie die Chance hat, uns von innen heraus zu zerstören. Die technokratische Klasse wird sich unserem Willen beugen und unsere Bemühungen um die Entwicklung unseres Landes unterstützen. Auf die eine oder andere Weise."
+ r56_GER_coerce_the_technocrats_idea:0 "Gezwungene Technokraten"
+ r56_GER_coerce_the_technocrats_idea_desc:0 "Die Klasse der Unternehmer und Technokraten wird sich unserem Willen beugen. Wir werden ihnen keine andere Wahl lassen!"
+ GER_coerce_the_technocrats_tt:0 "Wenn der Fokus §Y$GER_institute_price_controls$§! is §YAbgeschlossen:§!"
+ 
+ 
+
+ GER_enigma_machine0:0 "Enigma"
+ GER_enigma_machine1:0 "Verbesserte Enigma"
+ GER_enigma_machine2:0 "5-Rotor Enigma"
+ GER_enigma_machine3:0 "8-Rotor Enigma"
 
  GER_establishing_the_reichskommissar:0 "Einsetzung des Reichskommissars"
 
@@ -516,7 +536,7 @@
  GER_deschimag:0 "Deschimag"
  GER_vereinigte_stahlwerke:0 "Vereinigte Stahlwerke"
 
- #Spicyedits ""
+ #Spicyedits
  GER_poland_war:0 "Krieg mit Polen"
  GER_poland_war_desc:0 "Polen war einst ein Teil Deutschlands und soll es auch wieder sein!"
  GER_hungary_friend:0 "Mit [HUN.getnamedef] verbünden"
@@ -571,12 +591,18 @@
  r56_a_world_in_flames_idea:0 "Welt in Flammen"
 
 
- #State Modifers Flak Tower ""
+ #State Modifers Flak Tower
  r56_GER_flak_towers:0 "Flaktürme"
  GER_flak_towers_desc:0 "Da die Luftangriffe auf unsere Heimat zur Kriegsrealität geworden sind, müssen wir nun massive Flaktürme bauen, um gegen die Bombenangriffe auf unsere Industrie zu kämpfen."
  r56_GER_front_line_cities_modifier:0 "Frontlinien-Städte"
+ r56_GER_kdf_wagen_scheme:0 "Kdf-Wagen Scheme"
+ r56_GER_kdf_wagen_scheme_desc:0 "Indem wir ein Sparprogramm für den Autokauf einführen. Wir können die gesparten Mittel für die Entwicklung der Schwerindustrie verwenden. Wir haben ein begrenztes Zeitfenster, um dies zu nutzen."
 
- #The Heer# ""
+ #Techs 
+ GER_assault_guns:0 "Sturmgeschütze"
+ GER_assault_guns_desc:0 ""
+
+ #The Heer# no longer in use
  GER_develop_the_heer_r56_modifier:0 "Das Heer"
  GER_modify_the_the_heer:0 "Modifizieren Sie §YDas Heer§! durch"
  GER_mobile_warfare_tt:0 "$GER_modify_the_the_heer$ \nPlanungsgeschwindigkeit: §G+5%§!\n§YClose Air Support§! Ausbildungserfahrung gewinnen: §G+5%§!\n§YLeichter Panzer§! Ausbildungserfahrung gewinnen: §G+5%§!\n\n"
@@ -606,9 +632,10 @@
  GER_mefo_bills_increase_pp_cost_effect_tt:0 "$GER_modify_mefo_bills_modifier$ \n$MODIFIER_POLITICAL_POWER_COST$: §R-0.15§!\n\n"
  GER_mefo_bills_decrease_pp_cost_effect_tt:0 "$GER_modify_mefo_bills_modifier$ \n$MODIFIER_POLITICAL_POWER_COST$: §G+0.15§!\n\n"
 
- #Vanilla overides ""
+ #Vanilla overides
  #GER_reichskommissariats:0 "Reichskommissariate einrichten"
  #GER_reichskommissariats_cat:0 "Mit dem Wachstum des von uns kontrollierten Landes wird die Verwaltung von Berlin aus zu einer kostspieligen Angelegenheit, sowohl materiell als auch für die Ordnungskräfte vor Ort, die versuchen, Ordnung zu halten. #Die Schaffung kleinerer Verwaltungseinheiten, die sich um einige unserer neu erworbenen Ländereien kümmern und Kollaborateure davon überzeugen, in ihrem neuen 'Staat' für Ordnung zu sorgen, könnte der einzige nachhaltige Weg nach vorne sein. #GetFlag]§YReichskommissariats§! oder [D10.GetFlag]§YProsektorats§!, das wir errichten, wird uns §G3§! Off-Map-§YSMilitärische Fabriken gewähren.§! Sie werden auch versuchen, den Widerstand in den Staaten, die sie beaufsichtigen, für #uns zu bekämpfen. Die Auslagerung des Kampfes gegen den Widerstand an [ROOT.GetFlag]§YReichskommissariate§! könnte jedoch mit der Zeit zu mehr Aufständen und Widerstandswachstum führen."
+ GER_mefo_bills_category_desc:0 "Um unsere wachsende Rüstungsindustrie zu finanzieren und dies vor den Augen der Briten und Franzosen geheim zu halten, waren wir gezwungen, unsere Zahlungen in Form von Schuldscheinen an ein Bilanzunternehmen weiterzuleiten. Wenn wir unsere politischen Verbindungen nicht nutzen, um die Fälligkeit dieser Schuldscheine zu verlängern, werden wir gezwungen sein, sie zurückzuzahlen und werden ihre Vorteile nicht mehr erhalten.\n\nKosten: [?GER_industrial_consumer_goods_factor|%Y1] von Konsumgüterfabriken \n\nMonatliche Steigerung: [?GER_monthly_consumer_goods_increase|%Y1] von Konsumgüterfabriken\n"
 
 
  #GER_reichskommissariats_desc:0 "Um die lokalen Ressourcen, die Industrie und die Arbeitskräfte besser zu nutzen, sollten wir die Einrichtung quasi-autonomer Untertanenregierungen in unseren eroberten Gebieten in Betracht ziehen."
@@ -632,10 +659,10 @@
  r56_D09_got_cores: " [D09.getname] hat Kerne erhalten."
  r56_D10_got_cores: " [D10.getname] hat Kerne bekommen."
 
- #Fictional name but the kind of naming scheme that they would had came up with ""
+ #Fictional name but the kind of naming scheme that they would had came up with
  r56_endgame_POL_reichskommissariat:0 "Das Protektorat der Weichsel"
 
- #Desperate Measures# ""
+ #Desperate Measures#
  r56_GER_desperate_measures:0 "Verzweifelte Maßnahmen"
  GER_modify_the_desperate_measures:0 "Ändern Sie §YVerzweiflungsmaßnahmen§! um"
  GER_greater_collaborator_conscription_tt:0 "$GER_modify_the_desperate_measures$ \nNon-core Manpower: §G+1%§!\nRequired Garrisons: §G-1%§!\n\n"
@@ -672,14 +699,14 @@
  GER_venezuela_friend:0 "Sichere [VEN.GetAdjective] Allegiance"
  GER_venezuela_friend_desc:0 "Die [VEN.GetADjective]s haben bereits Sympathie für unsere Sache gezeigt, vielleicht könnte eine gute Diplomatie sie und ihre Ölfelder in unseren Einflussbereich bringen."
 
- #Country flags ""
+ #Country flags
  GER_denounced_the_agreement:0 " Kündigte das Abkommen"
  GER_adhered_to_the_agreement:0 " Hielt sich an das Abkommen"
 
  #Global flags 
  r56_GER_anschluss_mean_message_was_sent_out:0 "Deutschland hat uns Anschluss geschickt"
 
- #Events to kill Hitler (Successful) ""
+ #Events to kill Hitler (Successful)
  r56.kill_hitler.1.t:0 "Hitler durch eine Explosion getötet"
  r56.kill_hitler.1.desc:0 "[GER.GetNameDefCap] scheint von einem Putschversuch erschüttert zu sein, da es einer Gruppe von Wehrmachtsoffizieren gelang, Hitler zu töten. Während einer Ausstellung der neuesten Waffen, die im Reich produziert wurden, trug ein Offizier, der den Fürher führte, eine Bombe und tötete damit den [GER.GetADjective] Kanzler und zwei seiner Leibwächter.\n\nWie es nun weitergeht, bleibt abzuwarten, aber es wird erwartet, dass in den nächsten Stunden ein neuer Führer vereidigt wird."
  r56.kill_hitler.1.a:0 "Ein Putsch?"
@@ -738,7 +765,7 @@
  GER_REUNITED_neutrality:0 "Deutsches Reich"
  GER_REUNITED_communism:0 "Deutsche Sozialistische Republik"
 
- #implementation quite unorganized and was missing loc ""
+ #implementation quite unorganized and was missing loc
  GER_cede_884_to_HUN:0 "Abtretung von Prekmurje an Ungarn"
  GER_cede_853_to_ITA:0 "Abtretung von Ljubljana an Italien"
  r56_italy_ljubljana_annexation.1.t:0 "Deutschland annektiert Ljubljana"
@@ -757,7 +784,7 @@
 
  r56_GER_decision_promote_hans_von_luck:0 "Beförderung von Hans von Luck"
 
- #endsieg stuff ""
+ #endsieg stuff
  r56.ger.1.t:0 "Ultimativer Sieg"
  r56.ger.1.desc:0 "Unsere Kriegsanstrengungen haben viele Rückschläge erlitten, und unsere Feinde sind tief in das Zentrum unseres Vaterlandes eingedrungen. Obwohl wir stärker sind als unsere Feinde und uns von ihnen unterscheiden, haben wir die Widerstandskraft, großes Leid zu ertragen und weiterzumachen, bis wir den Sieg erringen. Wir werden alle verfügbaren Menschen unserer großen Nation zusammenbringen, um diesen Sieg zu erreichen oder bei dem Versuch unterzugehen."
  r56.ger.1.a:0 "Der endgültige Sieg ist zum Greifen nahe. Wir müssen nur weitermachen."
@@ -769,7 +796,7 @@
  r56.ger.2.a:0 "Der endgültige Sieg ist näher denn je!"
  r56_GER_endsieg_2_tt:0 "§RAuflösungen§! §YVolkssturm§! §Wund§! §YErsatzheer§! §WEinheiten§!"
 
- #non-endsieg events ""
+ #non-endsieg events
  r56.ger.4.t:0 "Der Tod von Wilhelm III."
  r56.ger.4.desc:0 "Kaiser Wilhelm III. ist an Altersschwäche verstorben. Der Thron ist an seinen Sohn Wilhelm IV. übergegangen, der die meisten seiner Aufgaben den Politikern überlässt."
  r56.ger.4.a:0 "Der König und Kaiser ist tot, es lebe der König und Kaiser."
@@ -824,7 +851,7 @@
  r56.ger.36.b:0 "Wir werden sehen, wie sie ohne uns zurechtkommen."
  r56.ger.36.c:0 "Keine Option".
 
-#39 and 40 are AI only events, title is only for Germany to see, rest is just placeholder ""
+#39 and 40 are AI only events, title is only for Germany to see, rest is just placeholder
  r56.ger.39.t:0 "[FROM.GetName] Stürzt die Regierung"
  r56.ger.39.d:0 ""
  r56.ger.39.a:0 "Ihr Einfluss war überwiegend positiv."
@@ -838,7 +865,7 @@
  r56.ger.42.d:0 "[ROOT.GetAdjective]-unterstützte Kräfte stießen in [FROM.GetNameDef] auf unerwartet heftigen Widerstand, der zu mehreren Toten führte, als die Polizei paramilitärische Kräfte daran hinderte, Schlüsselpositionen einzunehmen, und zu hochkarätigen Verhaftungen. Es scheint sicher, dass sich diese Gelegenheit nicht wieder bieten wird."
  r56.ger.42.a:0 "Verbrennt die Beweise"
 
-#Extra yalta stuff marijn211 ""
+#Extra yalta stuff marijn211
  news.339.title:0 "Alliierte Besatzung Deutschlands."
  news.339.desc:0 "Nach dem Ende des Zweiten Weltkriegs in Europa haben die Alliierten die vollständige Kontrolle über Deutschland übernommen und es auf vier Besatzungsnationen aufgeteilt, die [ENG.GetAdjective] und [FRA.GetAdjective] im Westen und die [USA.GetAdjective] und [SOV.GetAdjective] im Osten; wie lange es dauern wird, bis sich diese Länder erholen und entnazifiziert sind, ist unbekannt."
  news.339.a:0 "Nie wieder."
@@ -846,7 +873,7 @@
  r56_yalta_decisions_available_tt:0 "Es werden Beschlüsse zur Neugründung von Ländern in den Besatzungszonen Deutschlands und Österreichs zur Verfügung gestellt."
  r56_yalta_decisions_available_2_tt:0 "Es werden Beschlüsse zur Gründung neuer Staaten in Deutschland und Österreich gefasst, wenn diese zu direkten Herrschafts- und Besatzungszonen werden."
 
- # versailles stuff ""
+ # versailles stuff
 
  ger.renegotiate_versailles.1.t:0 "[GER.GetNameDefCap] bietet an, den Vertrag von Versailles neu zu verhandeln"
  ger.renegotiate_versailles.1.d:0 "[GER.GetNameDefCap] ist mit einem interessanten Angebot an uns herangetreten. Um ein Wiederaufflammen der Feindseligkeiten zwischen unseren beiden Nationen aufgrund der Ereignisse in ihrem Land zu unterdrücken, haben sie uns angeboten, den Vertrag von Versailles neu zu verhandeln. Dies bedeutet, dass [GER.GetAdjective] keine Reparationszahlungen mehr leisten muss und die Besetzung von [GER.GetNonIdeologyName]-Gebieten unterbleibt. Im Gegenzug versprechen sie, sich an die ihnen auferlegten Luft-, Armee- und Marinebeschränkungen zu halten und die Neujustierung der [GER.GetNonIdeologyName]-Grenzen anzuerkennen. Obwohl sie angeführt haben, dass wir [GER.GetNameDef] mit Sicherheitsgarantien ausstatten müssen, damit sie vor fremden Bedrohungen geschützt bleiben, obwohl sie kein starkes stehendes Heer haben, glauben sie fest daran, dass diese Neuverhandlung der einzige Weg ist, um den Frieden in unserer Zeit zu erhalten, aber sollen wir sie beim Wort nehmen?"
@@ -864,7 +891,7 @@
 
  ger_abided_by_versailles:0 "An Versailles festgehalten"
 
- # vanilla ""
+ # vanilla
 
  GER_develop_the_heer:0 "Das Heer aufbauen"
  GER_develop_the_heer_desc:0 "Heinz Guderian und andere radikale Theoretiker drängen auf kühne neue Doktrinen, die die Kommunikation, die Identifizierung von Schwerpunkten und die lokale Konzentration kombinierter Streitkräfte in den Vordergrund stellen. Wenn man ihnen freie Hand lässt, könnte man die Schrecken des Ersten Weltkriegs vermeiden."
@@ -888,7 +915,7 @@
  GER_tank_quality: "Hochwertige Panzer"
  WIP_flag:0 "Dieser Teil des Baums befindet sich noch in der Entwicklung und kann nur über Konsolenbefehle freigeschaltet werden."
  formable_cored_states_tt:0 "Gewinnt §YKerne§! auf §Yallen benötigten Staaten§!"
- #Tooltips for all branches ""
+ #Tooltips for all branches
  GER_civil_war_tt:0 "Ein §HBürgerkrieg§! wird zwischen §9faschistischen§!, §3konservativen§! und §tsozialistischen§! Kräften ausbrechen."
  GER_help_SOV_revolutionaries:0 "In den sowjetischen Bürgerkrieg eingreifen"
  GER_help_SOV_revolutionaries_desc:0 "Die Unterstützung des revolutionären Kampfes gegen (die Überreste) des stalinistischen Regimes könnte dazu führen, dass die Welt vom Kommunismus gerettet wird!"
@@ -901,7 +928,7 @@
  kill_advisor_tt: "§Y[THIS.GetName]§! stirbt."
  GER_forts_unavailable: "§Rwird keine Forts errichten lassen, da es entweder entmilitarisiert oder nicht unter unserer Kontrolle ist.§!\n"
  GER_improved_battleship_hull_research_tt:0 "\nSobald §Y1940 Schwere Schiffshülle§! Technologie erforscht ist:\n"
- #Shared communist-democratic diplomacy ""
+ #Shared communist-democratic diplomacy
  GER_recruit_officers_com:0 "Besiegte Offiziere rekrutieren"
  GER_anti_expansionism:0 "Anti-Expansionspolitik"
  GER_anti_expansionism_desc:0 "Indem wir die Expansion mit aggressiven Mitteln anprangern, könnten wir versuchen, regionale Nationen, die dies nicht vorhaben oder selbst bedroht sein könnten, zu verbünden."
@@ -973,7 +1000,7 @@
  GER_cooperate_with_nordics_desc:0 "Seit dem Niedergang der Reiche im Norden und der Unabhängigkeit Finnlands haben sich diese Nationen traditionell neutral verhalten, aber da die [GetRussiansDemonym] vor ihrer Haustür aggressive Kriege führen, können sie sich nicht weigern, einen Beitrag zur europäischen Sicherheit zu leisten."
  GER_anti_soviet_war:0 "Bekämpfen Sie die [GetRussiansDemonym]"
  GER_anti_soviet_war_desc:0 "Nur [Root.GetNameDef] kann Europa vor der Tyrannei von [SOV.GetAdjective] retten."
- #Monarchism ""
+ #Monarchism
  GER_mon_peaceful:0 "Zuverlässigere Verbündete"
  GER_mon_peaceful_desc:0 "Auch wenn wir stark sind, können wir es nicht noch einmal mit der ganzen Welt aufnehmen. Durch die Suche nach weniger aggressiven Partnern können wir unser Reich vielleicht ausbauen, ohne erneut in einen Zweifrontenkrieg zu geraten."
  GER_mon_FRA_alliance:0 "Bündnis mit dem monarchistischen Frankreich"
@@ -990,7 +1017,7 @@
  GER_mon_anti_commie_france_desc:0 "Während Frankreich, eines der mächtigsten Reiche der Welt, zerfällt, könnten die Briten bereit sein, uns unter die Arme zu greifen, bevor die Situation eskaliert und sich kommunistische Stimmungen in ihrem Reich ausbreiten."
  GER_restore_the_central_powers:0 "Wiederherstellung der Mittelmächte"
  GER_restore_the_central_powers_desc:0 "Unsere alten Verbündeten, die durch ihre Gebietsverluste gedemütigt wurden, dürften mehr als bereit sein, unserem Bündnis beizutreten, wenn wir ihnen eine Chance geben, ihre Größe wiederherzustellen."
- #Tooltips (mostly monarchist) ""
+ #Tooltips (mostly monarchist)
  poland_special_dominion_tt:0 "Wir werden Polen im Austausch für unsere früheren Gebiete und unseren politischen Einfluss Schutz bieten und es in eine besondere Art von Herrschaft verwandeln."
  intervene_soviet_civil_war_tt:0 "Es gibt eine nicht-kommunistische, antistalinistische Bürgerkriegsseite, die verbündet werden kann."
  has_neutrality_idea_tt:0 "Hat eine §Yneutrale Außenpolitik§! Idee."
@@ -1000,7 +1027,7 @@
  GER_middle_east_diplo_tt:0 "Diese Entscheidungen werden es uns ermöglichen, §YLänder des Nahen Ostens§! und ihre Politik zu beeinflussen und sie schließlich dazu zu bringen, unserer Fraktion beizutreten."
  GER_will_strengthen_right_opposition:0 "§RWird die Rechte Opposition§! stärken."
  GER_heinrich_brandler_will_lead_country_tt:0 "Wenn §YHeinrich Brandler§! als §YBerater§! eingesetzt wird, kann er der §YLandesführer§! werden."
- #Decisions ""
+ #Decisions
  GER_remilitarize_rhineland:0 "Remilitarisierung des Rheinlandes"
  not_too_much_soviet_influence_tt: "Weniger als 4 sowjetische Einflusspunkte"
  GER_commie_request_soviet_guns: "Sowjetische Waffen anfordern"
@@ -1010,7 +1037,7 @@
  GER_soviet_influence_increase_1: "§YSowjetische Einflusspunkte §!§Rwerden um 1 erhöht, Sie haben derzeit [?GER_commie_soviet_influence|-G0].§!\n"
  GER_soviet_influence_increase_2: "§YSowjetische Einflusspunkte §!§Rwerden um 2 erhöht, Sie haben derzeit [?GER_commie_soviet_influence|-G0].§!\n"
 
- #Middle Eastern Diplomacy ""
+ #Middle Eastern Diplomacy
  GER_middle_eastern_diplomacy_category:0 "Diplomatie im Nahen Osten"
  GER_middle_eastern_diplomacy_category_desc:0 "Angesichts der Kriege, die in Europa toben, und der unklaren Zukunft Deutschlands müssen wir uns bemühen, Unterstützung zu sammeln und die Länder des Nahen Ostens wie Afghanistan und Persien zu erreichen. Sie könnten sich als politisch und strategisch sehr wichtig erweisen, da sie an viele unserer Feinde grenzen und über große Ölvorkommen verfügen."
  GER_middle_eastern_diplomacy:0 "Diplomatie im Nahen Osten"
@@ -1070,7 +1097,7 @@
  r56.ger.25.b:0 "Die Kommunisten werden dem Volk eine echte Veränderung bringen."
  GER_communists_are_pretty_hard_tt: "\n§RDie Chancen zu gewinnen werden gegen uns gestapelt sein!§!"
  GER_communists_are_pretty_hard_tt_tip:0 "\n\n§HTipp:§! Obwohl du dich auf die Nazis konzentrieren und einige Staaten bekommen oder sogar kapitulieren könntest, wird die §HKonservative Seite§! dich wahrscheinlich §Hschlagen§! Durch die Aufstellung einer §HKleinen Mobilen Division§! können Sie vielleicht §Hdie §HEntscheidenden Städte§! der Konservativen §Hstürmen§!, während diese gegen die Nazis kämpfen."
-#Democratic anschluss, reuses most elements except image, description and Germany's answer ""
+#Democratic anschluss, reuses most elements except image, description and Germany's answer
  r56.ger.26.d:0 "Österreich hat in einem Referendum für die Vereinigung mit Deutschland gestimmt, das Fehlen einer starken nationalen Identität und die allgemeine pro-deutsche Stimmung haben eine große Veränderung in Europa bewirkt. Es bleibt abzuwarten, wie die Großmächte auf diesen demokratischen Bruch des Versailler Vertrages reagieren werden."
  r56.ger.26.b:0 "Ich liebe die Demokratie."
  r56.ger.27.t: "Deutschland schlägt Handelsabkommen vor"
@@ -1131,7 +1158,7 @@
  ger_brest_litovsk.1.b:0 "Akzeptieren Sie die Bedingungen."
 
 
- #BOP & decisions ""
+ #BOP & decisions
 
  GER_monarchist_power_balance:0 "Kaiser-OH-Machtgleichgewicht"
  GER_army_side:0 "Oberste Heeresleitung"
@@ -1159,10 +1186,16 @@
  GER_bop_nationalistic_military_parade:0 "Nationalistische Militärparade"
  GER_bop_rally_in_honour_of_the_kaiser:0 "Kundgebung zu Ehren des Kaisers"
 
- #Threats ""
+ GER_strong_arm_the_industrialists:0 "Starker Arm der Industriellen"
+ GER_strong_arm_the_industrialists_desc:0 "Wir können den Industriellen 'vorschlagen', dass sie Kredite in Form von Mefo-Wechseln aufnehmen, anstatt Kredite bei der Reichsbank zu beantragen. Auf diese Weise können wir verbergen, wie viel Geld die Reichsbank für Investitionen in die Schwerindustrie ausleiht, während wir gleichzeitig einen politischen Einfluss auf die Industriellen in unserem Land gewinnen. Die Aufnahme dieser privaten Kredite in Form von Mefo-Scheinen birgt zwar die Gefahr, unsere Wirtschaft zu kannibalisieren, aber solche Befürchtungen sind unbegründet, oder?"
+ GER_rally_the_technocrats:0 "Versammlung der Technokraten"
+ GER_rally_the_technocrats_desc:0 "Die Unterstützung der Technokraten ist der Schlüssel zu unseren künftigen Kriegsanstrengungen."
+ r56_GER_rally_the_technocrats_idea:0 "Versammlung der Technokraten"
+
+ #Threats
  GER_core_south_tyrol_threat:0 "Südtirol beansprucht"
 
- #new content - pre-existent categories are a bit messy ""
+ #new content - pre-existent categories are a bit messy
  GER_trade_influence_decisions: "Handelsoffensiven"
  GER_trade_influence_decisions_explain_tt: "Die es ermöglichen, stark abhängige Nationen zu marionettieren."
  GER_influence_nation: "Ausnutzung des Einflusses auf [FROM.GetName]"
@@ -1178,7 +1211,7 @@
  GER_HOL_free_influence_tt: "Bietet 15 §YTor zu Europa§! Handelseinflusspunkte über [HOL.GetNameDef]."
 
  RULE_ALLOW_RELEASE_NATIONS_NOT_GER_KINGDOMS_TOOLTIP:0 "Deutsche Königreiche dürfen zu diesem Zeitpunkt nicht freigegeben werden."
- #German Kingdoms shared ""
+ #German Kingdoms shared
 
  GERK_revitalize_old_traditions:0 "Revitalisiere alte [ROOT.GetAdjective] Traditionen"
  GERK_revitalize_old_traditions_desc:0 "Die militaristischen Traditionen von [ROOT.GetNameDef] reichen Jahrhunderte zurück, denn sie sind das bestimmende Merkmal, das unseren Staat, unsere Regierung und das gemeinsame Fundament des [ROOT.GetAdjective]-Volkes eint."
@@ -1196,7 +1229,7 @@
 
 
 
-#Some on_action events by Fantom ""
+#Some on_action events by Fantom
 
 r56_on_action_event.1.t:0 "[GER.GetNameDefCap] ändert seine politischen Direktiven!"
 r56_on_action_event.1.d:0 "Die Veränderungen in der politischen Landschaft von [GER.GetNameDef] haben zur Bildung des neuen Regierungssystems geführt, das eine ganz andere Innenpolitik als seine Vorgänger verfolgen will, wo man sich bemüht, soziale Streitigkeiten zu lösen und die Ordnung im neuen Staat zu sichern. [Ihre Diplomaten haben bereits angekündigt, dass auch die außenpolitische Agenda des [GER.GetAdjective]staates stark beeinträchtigt werden wird, einschließlich der Neuverhandlung früherer Wirtschaftsabkommen, der Revision von Verträgen und der Aufkündigung diplomatischer Allianzen auf verschiedenen Machtebenen. \nEs gibt immer wieder Stimmen innerhalb unserer Verwaltung, die sich fragen, ob [ROOT.getLeader] die Meinung von [ROOT.GetHerHis] in Richtung [GER.GetNameDef] umlenken oder [ROOT.GetSheHe] sie lieber beibehalten wird, solange die Situation unklar bleibt?"
@@ -1218,8 +1251,8 @@ r56_on_action_event.1.b:0 "Ein Regimewechsel bedeutet nichts, wenn die Herzen de
  wtt_germany.82.a:0 "Dann ist es Krieg."
 
 
- # communist expansion by flor ""
- # events ""
+ # communist expansion by flor
+ # events
  r56.ger.46.t:0 "Die Partei ruft zur Neuwahl der Parteiführung auf"
  r56.ger.46.desc:0 "Heinrich Brandler hat sich im Bürgerkrieg unschätzbare Verdienste erworben und große Teile des Widerstands gegen die Faschisten angeführt. Er hat gezeigt, dass er immer noch der geborene Anführer ist! Jetzt hat er eine Kampagne gestartet, um der neue Vorsitzende der KPD zu werden. Er hat bereits eine große Anhängerschaft innerhalb der Partei gewonnen.\n\nDie Revolution ist in [ROOT.GetNonIdeologyName] gelungen. Nun haben viele KPD-Mitglieder begonnen, die Autorität Moskaus in Frage zu stellen. Der derzeitige KPD-Vorsitzende Ernst Thälmann ist ein überzeugter Stalinist und seit langem der Führer des linken Flügels der Partei. Er hat die Unterstützung Moskaus und den politischen Einfluss, um Vorsitzender zu bleiben. Im Gegensatz zum linken Flügel steht Heinrich Brandler, der den rechten Flügel der KPD vertritt, vor einer möglichen Rückkehr in den Parteivorsitz. Was ihm an Einfluss fehlt, macht er durch seine Erfahrung wett, denn er war bereits von 1920 bis 1923 Vorsitzender. Außerdem hat Moskau Ernst Thälmann zu seinem Favoriten erklärt. Als Geburtsstätte des Kommunismus ist [ROOT.GetNonIdeologyName] für [SOV.GetNameDef] von großem Interesse. Wenn sie eingreifen würden, könnten sie ein Ergebnis erzwingen, das ihnen nützt..."
  r56.ger.46.a:0 "Heinrich Brandler ist mit seinem Vorhaben erfolgreich!"
@@ -1271,13 +1304,13 @@ r56_on_action_event.1.b:0 "Ein Regimewechsel bedeutet nichts, wenn die Herzen de
  r56.ger.56.desc:0 "Unser Antrag auf eine gemeinsame Militärübung wurde abgelehnt. Wir werden nicht die Erfahrung machen, die wir uns erhofft haben, und müssen selbst an unserer militärischen Bereitschaft arbeiten. Vielleicht ist das sogar besser so, denn eine solche Militärübung hätte eine Menge Ressourcen von einer potenziellen Front abgezogen."
  r56.ger.56.a:0 "Traurig, aber wir können sie nicht zwingen."
 
- # cominform stuff ""
+ # cominform stuff
  cominform:0 "Cominform"
  cominform_denied:0 "Verweigerte Allianz"
  cominform_tt:0 "Ersetzt die §HKomintern§! durch die §HKominform§! und fügt die §H[GER.GetName]§! zur Fraktion hinzu."
  ger_cominform_tt:0 "Ersetzt die §HKomintern§! durch die §HKominform§! und fügt §Hus§! zur Fraktion hinzu."
 
- # ideas & focuses ""
+ # ideas & focuses
  GER_nva_idea_brandler:0 "Volkswehr"
  GER_nva_idea_soviet:0 "Nationale Volksarmee"
  GER_nva_idea_thalmann:0 "Volksarmee"
@@ -1289,7 +1322,7 @@ r56_on_action_event.1.b:0 "Ein Regimewechsel bedeutet nichts, wenn die Herzen de
  GER_nva_joint_military_exercise_idea:0 "Laufende gemeinsame Militärübung"
  GER_nva_joint_military_exercise_idea_desc:0 "Militärische Übungen sind heutzutage eine alltägliche Angelegenheit. [ROOT.GetNameDefCap] befindet sich derzeit in einer gemeinsamen Übung mit einem Verbündeten."
 
- # NVA decisions ""
+ # NVA decisions
  GER_NVA_category:0 "Die [GetNVAIdeaName]"
  GER_NVA_category_desc:0 "Die [GetNVAIdeaName] wurde nach unserem Sieg im Bürgerkrieg gegründet und schützt dieses Land, sein Volk und die Interessen des Proletariats. Sie ist das Leuchtfeuer der sozialistischen Welt in Ost- und Mitteleuropa. Wenn wir wollen, dass die Revolution geschützt oder sogar ausgeweitet wird, müssen wir die [GetNVAIdeaName] mit großer Sorgfalt, aber auch mit Priorität behandeln."
  GER_nva_institute_equal_service:0 "Institut Gleicher Dienst"
@@ -1301,13 +1334,13 @@ r56_on_action_event.1.b:0 "Ein Regimewechsel bedeutet nichts, wenn die Herzen de
  GER_nva_joint_military_exercise:0 "Vorschlag für eine gemeinsame Übung"
  GER_nva_joint_military_exercise_desc:0 "Wir haben fähige Verbündete, mit denen wir unsere Taktiken üben und unsere Zusammenarbeit auf dem Schlachtfeld optimieren können."
 
- # democratic expansion by flor ""
- # leaders ""
+ # democratic expansion by flor
+ # leaders
  GER_otto_wels:0 "Otto Wels"
  GER_hans_vogel:0 "Hans Vogel"
  GER_election_comission:0 "Wahl-Kommission"
 
- # events ""
+ # events
  r56.ger.60.t:0 "Wahltag!"
  r56.ger.60.desc:0 "Ein demokratisches Land braucht seine Wahlen, um zu funktionieren, heute werden diese Wahlen abgehalten und der Gewinner wird die Regierung führen und somit das Amt des Präsidenten erhalten.\n\nEs gibt zwei große Parteien, die eine Chance haben, die Wahlen zu gewinnen. Die bei weitem populärste Partei ist die SPD, die die meiste Zeit ihres Bestehens erheblichen Einfluss auf die Politik der [ROOT.GetAdjectiveCap] hatte. Sie vertritt sozialdemokratische Ansichten und begünstigt die unteren Arbeiterschichten, indem sie die Gewerkschaften stärkt und ein Sozialsystem einführt. Ihr Hauptkonkurrent ist das Zentrum, die etwas ältere und zentristischere Partei der beiden. Ihre Hauptwählerschaft sind Katholiken aus Süddeutschland. Die Partei ist in ihrer Kultur- und Wirtschaftspolitik eher konservativ, schreckt aber auch nicht davor zurück, die Leistungen für Arbeitnehmer zu erhöhen.\n\nNun sind alle Stimmen ausgezählt und das Ergebnis lautet wie folgt:"
  r56.ger.60.a:0 "Zentrum gewinnt deutlich!"
@@ -1322,7 +1355,7 @@ r56_on_action_event.1.b:0 "Ein Regimewechsel bedeutet nichts, wenn die Herzen de
  r56.ger.63.desc:0 "Der Bundespräsident ist tot. Er ist im Alter von 58 Jahren friedlich im Schlaf gestorben. Obwohl er noch relativ jung war, hatte er ein erfülltes Leben, in dem er sich für Deutschland und seinen Wohlstand einsetzte. Er war schon in jungen Jahren gewerkschaftspolitisch aktiv und seit mehreren Jahrzehnten eine feste Größe in der deutschen Politik. Zusammen mit Otto Wels und Arthur Crispien wurde er 1931 Co-Vorsitzender der SPD. Nach dem Tod von Wels im Jahr 1939 wurde er selbst Bundespräsident und führte Deutschland in eine glänzende Zukunft. Sein Nachfolger Kurt Schumacher wird in den nächsten Tagen offiziell zum Bundespräsidenten ernannt, während der ehemalige Bundespräsident auf einem Friedhof in Berlin beigesetzt wird."
  r56.ger.63.a:0 "Ruhe in Frieden! Schumacher wird ein würdiger Nachfolger sein."
 
- # party names ""
+ # party names
  GER_zentrum:0 "Zentrum"
  GER_zentrum_coalition:0 "Zentrum - SPD"
  GER_spd:0 "SPD"
@@ -1334,5 +1367,5 @@ r56_on_action_event.1.b:0 "Ein Regimewechsel bedeutet nichts, wenn die Herzen de
  GER_neutral_gov:0 "Übergangspartei"
  GER_neutral_gov_long:0 "Übergangspartei"
 
- # tooltips ""
+ # tooltips
  gov_count_middle:0 "\nDie Wiederwahl der gleichen Regierung wird unsere Demokratie destabilisieren!"

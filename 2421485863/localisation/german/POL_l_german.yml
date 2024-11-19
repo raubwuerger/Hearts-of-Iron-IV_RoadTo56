@@ -823,10 +823,6 @@
  POL_Polish_Cipher_Bureau_Focus2_desc:0 "Es wurde eine Katalogmaschine für die Chiffren der Enigma entwickelt, um eine schnelle Entschlüsselung der deutschen Geheimdienstcodes zu ermöglichen."
  POL_Polish_Cipher_Bureau_Focus3:0 "Die kryptologische Bombe"
  POL_Polish_Cipher_Bureau_Focus3_desc:0 "Ein mechanisches Rechengerät wurde entwickelt, um den Prozess des Knackens deutscher Geheimdienstcodes zu automatisieren."
- GER_enigma_machine0:0 "3-Rotor-Enigma-Maschine"
- GER_enigma_machine1:0 "Verbesserte Enigma-Maschine"
- GER_enigma_machine2:0 "5-Rotor-Enigma-Maschine"
- GER_enigma_machine3:0 "8-Rotor-Rätselmaschine"
 
 
  PPS_Faction:0 "Kommunistische Internationale"

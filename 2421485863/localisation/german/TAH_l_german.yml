@@ -2,4 +2,9 @@
 
  TAH_generic_industrial_concern:0 "Société Chimique du Chrome"
 
- TAH_neutrality_party:0 "Pōmare Dynasty"
+ TAH_mangos:0 "Mangos"
+ TAH_god_damn_plan:0 "Der Plan der Niederlande ist abgeschlossen."
+
+ tahiti.plan.1.t:0 "Mysteriöser Fremder kommt an"
+ tahiti.plan.1.d:0 "Eine kleine Gruppe von Menschen ist mit einem Dampfschiff von einem unbekannten Ort in [USA.GetNonIdeologyName] zu unseren Ufern gekommen. Ihr Anführer, ein gut gekleideter Mann, hat sich bereits in die Gunst von [ROOT.GetLeader] gespielt und sie davon überzeugt, ihnen Asyl zu gewähren, zusammen mit ihrem Vermögen in Bargeld und Gold, das sie vor einigen Jahrzehnten "erlangt" haben. Er behauptet, dass dies von Anfang an sein Plan war und dass sie nun in unserem Land wohnen und auf einer Plantage Mangos pflücken werden."
+ tahiti.plan.1.a:0 "Alles läuft nach dem gottverdammten Plan."

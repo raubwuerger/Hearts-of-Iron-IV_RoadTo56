@@ -43,6 +43,8 @@
  promising_desc:0 "Dieser Mann scheint ein großes Talent zu besitzen und wird die Grundlagen schnell erlernen."
  promising_tooltip:0 "§RDiese Eigenschaft wird entfernt, wenn der Anführer Stufe 3 erreicht.§!"
  fighting_with_at_least_23_units:0 "Beherrscht mindestens §H23§! Armeen"
+ jaeger_trait: "Veteranen Jäger"
+ jaeger_trait_desc: "§LExperte für Guerilla-Kriegsführung und Sabotageaktionen hinter den feindlichen Linien.§!"
 
 ##Companies ""
  r56_train_manufacturer:0 "Zugausrüstungsdesigner"
@@ -131,6 +133,24 @@
  son_of_the_steppe:0 "Sohn der Steppe"
  corrupt_council:0 "Korrupter Rat"
  yan_xishan_thought:0 "Yan Xishan-Gedanke"
+
+##Scientists
+  scientist_trait_r56_reckless_prototyper:0 "Rücksichtsloser Prototyper"
+  scientist_trait_r56_reckless_prototyper_desc:0 "Sie lernen schnell aus ihren Fehlern und Misserfolgen, um die neueste Iteration zu liefern. Alle anderen in der Einrichtung wünschen sich nur, dass sie keinen brennenden Haufen Schrott hinterlassen."
+  scientist_trait_r56_stubborn:0 "Hartnäckiger Projektleiter"
+  scientist_trait_r56_stubborn_desc:0 "Sie sind auf Gedeih und Verderb auf ihren Weg festgelegt. Allerdings liefern sie ihre Projekte oft frühzeitig und innerhalb des Budgets." 
+  scientist_trait_r56_research_focused:0 "Forschung fokussiert"
+  scientist_trait_r56_research_focused_desc:0 "Er ist ein wenig zu sehr mit dem Forschungsteil der Arbeit beschäftigt, so dass das Projekt ins Hintertreffen gerät."
+  scientist_trait_r56_political_dancer:0 "Politischer Navigator"
+  scientist_trait_r56_political_dancer_desc:0  "Diese Person weiß, was sie den Machthabern zu sagen hat, damit sie ihre Arbeit in Ruhe fortsetzen können."
+  scientist_trait_r56_old_guard:0 "Alte Garde"
+  scientist_trait_r56_old_guard_desc:0 "Sie halten die Dinge in Bewegung, aber diesem alten Hund neue Tricks beizubringen, dauert ein wenig länger."
+  
+  #These are more of a catch all comapred to their general counterparts fyi
+  scientist_trait_r56_SPR_republican_loyalties:0 "Republican Loyalties"
+  scientist_trait_r56_SPR_republican_loyalties_desc:0 "This scientist is loyal to the Republican Government."
+  scientist_trait_r56_SPA_nationalist_sympathies:0 "Nationalist Sympathies"
+  scientist_trait_r56_SPA_nationalist_sympathies_desc:0 "This scientist harbors sympathies for the many Nationalists factions within the country."
 
 ##Australia ""
  aboriginal_journalist:0 "Journalist der Ureinwohner"

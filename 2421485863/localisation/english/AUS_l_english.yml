@@ -1,5 +1,7 @@
 ﻿l_english:
-  AUS_GATHERING_STORM_DESC:0 "The First Republic is over. On the 20th of May 1933, in an enabling act eerily similar to the one Adolf Hitler had used to take power in Germany just a couple months beforehand, Chancellor Engelbert Dolfuss proclaimed the Federal State of Austria, turning the once free and democratic republic into a fascist dictatorship.\nThe following year would bring two civil wars, one with the socialists, and one with the Nazis, which would end with the assassination of Dolfuss.\nNow, Chancellor Kurt Schuschnigg finds himself steering an unstable nation into a brewing storm, and faced with a choice - choose a path, or face sure destruction."
+ 
+
+ AUS_FOCUS_TREE_SELECTION:0 "@AUS Austria"
 
  # characters
  AUS_otto_bauer:0 "Otto Bauer"
@@ -31,6 +33,7 @@
  AUS_julius_raab:0 "Julius Raab"
  AUS_leopold_figl:0 "Leopold Figl"
  AUS_wilhelm_miklas:0 "Wilhelm Miklas"
+ AUS_gunther_adolf_burstyn:0 "Gunther Adolf Burstyn"
 
  AUS_ernst_rudiger_starhemberg:0 "Ernst Rüdiger Starhemberg"
  AUS_ernst_rudiger_starhemberg_desc:0 "§LA commander of the Heimwehr and Schuschnigg's contender to be Dolfuss' successor, Ernst Rüdiger Starhemberg has been a bitter enemy of Schuschnigg ever since the formation of the Fatherland Front, doing his best to block any efforts Schuschnigg makes.§!"
@@ -208,6 +211,7 @@ r56_bundeslaender_occupied_tooltip:0 "occupied by a foreign power, and as such h
  AUS_prepare_for_civilwar:0 "§RIt would be wise to delay taking this focus until we control a sufficient amount of divisions!§!"
  AUS_crackdown_time_down_tt:0 "The time it takes to crack down on Nazi activity will be §Glowered§!."
 
+ AUS_recall_gunther_adolf_burstyn:0 "Recall Gunther Adolf Burstyn"
  #POLITICS
  AUS_fascism_ideology_desc:0 "A unique amalgamation of Mussolini's fascism and Clerical fascism, §YAustrofascism§! is a far-right movement that was formed during Engelbert Dolfuss's gradual transformation of the Republic into the Federal State.\n\nAs the formal ideology of the VF, Austrofascism espouses radical §YCatholic Nationalism§! and §8State Corporatism§!, and a harsh opposition to National Socialism and any unification between Austria and Germany, seeing the latter's Protestant majority as a threat to the Austrian Catholic identity."
  AUS_clerical_fascism_desc:0 "A unique amalgamation of Mussolini's fascism and Clerical fascism, §YAustrofascism§! is a far-right movement that was formed during Engelbert Dolfuss's gradual transformation of the Republic into the Federal State.\n\nAs the formal ideology of the VF, Austrofascism espouses radical §YCatholic Nationalism§! and §8State Corporatism§!, and a harsh opposition to National Socialism and any unification between Austria and Germany, seeing the latter's Protestant majority as a threat to the Austrian Catholic identity."
@@ -219,7 +223,7 @@ r56_bundeslaender_occupied_tooltip:0 "occupied by a foreign power, and as such h
 
  #AIR
 
-AUS_construct_the_tullnerfeld_airbase:0 "Construct the Tullnerfeld Airbase"
+ AUS_construct_the_tullnerfeld_airbase:0 "Construct the Tullnerfeld Airbase"
 AUS_construct_the_tullnerfeld_airbase_desc:0 "For a long time, plans to build an airbase at Tullnerfeld have gathered dust. War is stirring to the north, and there is no better time to act on those plans."
 
 AUS_announce_the_new_austrian_air_force:0 "Announce the New Luftstreitkräfte"
@@ -257,44 +261,44 @@ AUS_establish_the_austrian_airforce_academy_desc:0 "Our fledgling airforce is de
 
  #NAVY
 
-AUS_repair_pola_naval_base:0 "Repair Pola Naval Base"
-AUS_repair_pola_naval_base_desc:0 "Pola naval base was once one of the key installations of the Austrian Kriegsmarine. It has fallen into disrepair since we have been driven from the sea, but we can and must put effort into ensuring that it is once against useable."
+ AUS_repair_pola_naval_base:0 "Repair Pola Naval Base"
+ AUS_repair_pola_naval_base_desc:0 "Pola naval base was once one of the key installations of the Austrian Kriegsmarine. It has fallen into disrepair since we have been driven from the sea, but we can and must put effort into ensuring that it is once against useable."
 
-AUS_recreate_the_kuk_kriegsmarine:0 "Recreate the K.u.K Kriegsmarine"
-AUS_recreate_the_kuk_kriegsmarine_desc:0 "The Royal and Imperial War Navy was Austria's navy until we lost access to the sea after losing the Great War. We can reclaim its former glory with no small amount of effort."
+ AUS_recreate_the_kuk_kriegsmarine:0 "Recreate the K.u.K Kriegsmarine"
+ AUS_recreate_the_kuk_kriegsmarine_desc:0 "The Royal and Imperial War Navy was Austria's navy until we lost access to the sea after losing the Great War. We can reclaim its former glory with no small amount of effort."
 
-AUS_acquire_skoda_naval_artillery_experience:0 "Acquire Skoda Naval Artillery Experience"
-AUS_acquire_skoda_naval_artillery_experience_desc:0 "Skoda designed the guns of the Austro-Hungarian navy; it's time to once again put that experience to good use."
+ AUS_acquire_skoda_naval_artillery_experience:0 "Acquire Skoda Naval Artillery Experience"
+ AUS_acquire_skoda_naval_artillery_experience_desc:0 "Skoda designed the guns of the Austro-Hungarian navy; it's time to once again put that experience to good use."
 
-AUS_rijeka_naval_academy:0 "Rijeka Naval Academy"
-AUS_rijeka_naval_academy_desc:0 "Rijeka is one of the largest port cities in the Croatian area and one of the principal naval assets to the Austro-Hungarian cause. They are no stranger to seafaring and naval warfare, and we can take this expertise on board."
+ AUS_rijeka_naval_academy:0 "Rijeka Naval Academy"
+ AUS_rijeka_naval_academy_desc:0 "Rijeka is one of the largest port cities in the Croatian area and one of the principal naval assets to the Austro-Hungarian cause. They are no stranger to seafaring and naval warfare, and we can take this expertise on board."
 
-AUS_trieste_shipyards:0 "Trieste Shipyards"
-AUS_trieste_shipyards_desc:0 "Trieste is a town with an existing shipyard industry that we should subsidize and exploit. This will ensure our dominance in the Mediterranean."
-AUS_trieste_shipyards_tt:0 "Allows for the hiring of Trieste Shipyards Ship Designer.\n"
+ AUS_trieste_shipyards:0 "Trieste Shipyards" 
+ AUS_trieste_shipyards_desc:0 "Trieste is a town with an existing shipyard industry that we should subsidize and exploit. This will ensure our dominance in the Mediterranean."
+ AUS_trieste_shipyards_tt:0 "Allows for the hiring of Trieste Shipyards Ship Designer.\n"
 
-AUS_expand_cattaro_harbour:0 "Expand Cattaro Harbour"
-AUS_expand_cattaro_harbour_desc:0 "Cattaro is an inland bay, a sheltered place where a naval group might be safely housed. It's a natural security asset, and we should treat it as such. Our next expansion will be here."
+ AUS_expand_cattaro_harbour:0 "Expand Cattaro Harbour"
+ AUS_expand_cattaro_harbour_desc:0 "Cattaro is an inland bay, a sheltered place where a naval group might be safely housed. It's a natural security asset, and we should treat it as such. Our next expansion will be here."
 
-AUS_a_stealthier_approach:0 "A Stealthier Approach"
-AUS_a_stealthier_approach_desc:0 "The [AUS.GetAdjective] navy is not what it was - in fact, it is nonexistent. We cannot afford to sink massive amounts of resources into ships that will simply be destroyed by larger forces. Stealthier submarine warfare is the future for us."
+ AUS_a_stealthier_approach:0 "A Stealthier Approach"
+ AUS_a_stealthier_approach_desc:0 "The [AUS.GetAdjective] navy is not what it was - in fact, it is nonexistent. We cannot afford to sink massive amounts of resources into ships that will simply be destroyed by larger forces. Stealthier submarine warfare is the future for us."
 
-AUS_sieze_the_adriatic:0 "Seize the Adriatic"
-AUS_sieze_the_adriatic_desc:0 "The Adriatic is one of our principal access points to the Italian boot and one of our territory's critical stretches of coastline. Securing it with specialized inland sea vessels like cruisers would be prudent."
+ AUS_sieze_the_adriatic:0 "Seize the Adriatic"
+ AUS_sieze_the_adriatic_desc:0 "The Adriatic is one of our principal access points to the Italian boot and one of our territory's critical stretches of coastline. Securing it with specialized inland sea vessels like cruisers would be prudent."
 
-AUS_push_for_the_mediterranean:0 "Push for the Mediterranean"
-AUS_push_for_the_mediterranean_desc:0 "The Mediterranean is a famous sea, supporter, and cradle for many African and European empires. It will once again become the cradle for our nation - if we can secure it."
+ AUS_push_for_the_mediterranean:0 "Push for the Mediterranean"
+ AUS_push_for_the_mediterranean_desc:0 "The Mediterranean is a famous sea, supporter, and cradle for many African and European empires. It will once again become the cradle for our nation - if we can secure it."
 
-AUS_reform_the_kuk_seefliegerkorps:0 "Reform the Seefliegerkorps"
-AUS_reform_the_kuk_seefliegerkorps_desc:0 "The Austrian naval airforce was separate and distinct from the main naval force, with its specializations and functions. Its utility will be helpful in the future - we should put resources into reforming it."
+ AUS_reform_the_kuk_seefliegerkorps:0 "Reform the Seefliegerkorps"
+ AUS_reform_the_kuk_seefliegerkorps_desc:0 "The Austrian naval airforce was separate and distinct from the main naval force, with its specializations and functions. Its utility will be helpful in the future - we should put resources into reforming it."
 
-AUS_found_the_austrian_marines:0 "Found the [AUS.GetAdjective] Marines"
-AUS_found_the_austrian_marines_desc:0 "Since we became landlocked, a branch of our military that has fallen into unacceptable neglect is our marines. We can repair the damage done with some funding and a little time."
+ AUS_found_the_austrian_marines:0 "Found the [AUS.GetAdjective] Marines"
+ AUS_found_the_austrian_marines_desc:0 "Since we became landlocked, a branch of our military that has fallen into unacceptable neglect is our marines. We can repair the damage done with some funding and a little time."
 
  #MILITARY
 
-AUS_rearm_the_bundesheer:0 "Rearm the Bundesheer"
-AUS_rearm_the_bundesheer_desc:0 "The Austrian armed forces were hit hard by the treaty of Saint-Germain-en-Laye. But with [GER.GetLeader] preparing his forces, there has never been a better time to rearm whether we stand with or against him."
+ AUS_rearm_the_bundesheer:0 "Rearm the Bundesheer"
+ AUS_rearm_the_bundesheer_desc:0 "The Austrian armed forces were hit hard by the treaty of Saint-Germain-en-Laye. But with [GER.GetLeader] preparing his forces, there has never been a better time to rearm whether we stand with or against him."
 
  AUS_cement_the_jansa_plan:0 "Cement the Jansa Plan"
  AUS_cement_the_jansa_plan_desc:0 "Field Marshal Alfred Jansa has put forward a genius plan to defend against a German invasion. We must give him all the resources he needs to prepare."
@@ -371,8 +375,8 @@ AUS_rearm_the_bundesheer_desc:0 "The Austrian armed forces were hit hard by the 
  AUS_shock_troop_offensive:0 "Stormtrooper Offensive"
  AUS_shock_troop_offensive_desc:0 "Near the end of the Great War, our German allies used stormtroopers to great effect. We should learn from them."
 
-AUS_liechtenstein_treaty:0 "Liechtenstein Treaty"
-AUS_liechtenstein_treaty_desc:0 "[GER.GetNameDefCap] has ceased to be a responsible world power ruled by a steadying and mighty kaiser. Instead, the madman [GER.GetLeader] threatens all of Europe with his expansionist policies. [AUS.GetNameDefCap] must look to all possible allies to survive - [SWI.GetNameDef] included."
+ AUS_liechtenstein_treaty:0 "Liechtenstein Treaty"
+ AUS_liechtenstein_treaty_desc:0 "[GER.GetNameDefCap] has ceased to be a responsible world power ruled by a steadying and mighty kaiser. Instead, the madman [GER.GetLeader] threatens all of Europe with his expansionist policies. [AUS.GetNameDefCap] must look to all possible allies to survive - [SWI.GetNameDef] included."
  AUS_intervention:0 "Continental Intervention"
  AUS_intervention_desc:0 "The continent stands at a knife's edge, and we must join to fight against the tides of Nazism and Bolshevism, lest we be consumed by them."
 
@@ -690,8 +694,8 @@ AUS_liechtenstein_treaty_desc:0 "[GER.GetNameDefCap] has ceased to be a responsi
 
  AUS_depose_the_imbecile:0 "Depose the Imbecile"
  AUS_depose_the_imbecile_desc:0 "Miklas has been nothing but a puppet for whoever talked to him last. We must finally get rid of the spineless imbecile from his office."
-AUS_for_kaiser_and_fatherland:0 "For Kaiser and Fatherland"
-AUS_for_kaiser_and_fatherland_desc:0 "It is a time of change for Europe, and [AUS.GetNameDef]'s place in the world to come will be determined by the willingness of both state and people to sacrifice. It is time for every able-bodied man to step forward for Kaiser and fatherland."
+ AUS_for_kaiser_and_fatherland:0 "For Kaiser and Fatherland"
+ AUS_for_kaiser_and_fatherland_desc:0 "It is a time of change for Europe, and [AUS.GetNameDef]'s place in the world to come will be determined by the willingness of both state and people to sacrifice. It is time for every able-bodied man to step forward for Kaiser and fatherland."
 
 
 
@@ -801,7 +805,7 @@ AUS_for_kaiser_and_fatherland_desc:0 "It is a time of change for Europe, and [AU
 
  AUS_avenge_yugoslav_humiliation:0 "Avenge the Humiliation"
  AUS_avenge_yugoslav_humiliation_desc:0 "Serbia, the nation which assasinated our Archduke and caused the Great War to occur, was the one to take so much of our land away. We must avenge this humiliation!"
-AUS_transylvania_or_war:0 "Transylvania or War"
+ AUS_transylvania_or_war:0 "Transylvania or War"
  AUS_transylvania_or_war_desc:0 "The Romanians, who surrendered to our armies, took Transylvania away from the Hungarians when they were weak. They must be taught that their betrayal will not be forgiven!" 
  AUS_reclaim_bohemia:0 "Reclaim Bohemia"
  AUS_reclaim_bohemia_desc:0 "Bohemia has for a long time been the industrial heartland of the Austrian empire, and losing it nearly destroyed our economy. We must retake our land and liberate our people!"
@@ -1453,7 +1457,7 @@ AUS_transylvania_or_war:0 "Transylvania or War"
  austria.78.b:0 "We must secure control!"
 
  austria.79.t:0 "[GER.GetLeader] Removes Josef Leopold"
- austria.79.d:0 "Earlier today, the Nazi government in Germany has shown their influence in our nation by replacing the Landesleiter of Austria, Josef Leopold, with a more pro-german figure.\n\nAlthough Josef Leopold has been the leader of the Austrian Nazis since the failed July Putsch, his pro-independence stance has made him fall out of favor with Berlin, causing [GER.GetLeader] to replace him with Hubert Klausner.\n\nHowever, with the fall of Leopold, it would appear that the position has lost much of it's power, leaving the leadership of the Nazi Party in the hands of Heinrich Himmler's ally, Arthur Seyss-Inquart."
+ austria.79.d:0 "Earlier today, the Nazi government in Germany has shown their influence in our nation by replacing the Landesleiter of Austria, Josef Leopold, with a more pro-German figure.\n\nAlthough Josef Leopold has been the leader of the Austrian Nazis since the failed July Putsch, his pro-independence stance has made him fall out of favor with Berlin, causing [GER.GetLeader] to replace him with Hubert Klausner.\n\nHowever, with the fall of Leopold, it would appear that the position has lost much of it's power, leaving the leadership of the Nazi Party in the hands of Heinrich Himmler's ally, Arthur Seyss-Inquart."
  austria.79.a:0 "We must fight off German influence!"
 
  austria.80.t:0 "Inquart's Backstab"
@@ -1566,7 +1570,7 @@ AUS_transylvania_or_war:0 "Transylvania or War"
  austria.103.a:0 "Keep close tabs on this."
 
  austria.104.t:0 "Heimwehr Elements Launch Coup!"
- austria.104.b:0 "Following our failure to deal with the Heimwehr elements which had opposed our government, Ernst Rüdiger Starhemberg and the rest of the Heimwehr have launched a coup against the Kaiser, aiming to restore the Austrofascist Fatherland Front goverment."
+ austria.104.d:0 "Following our failure to deal with the Heimwehr elements which had opposed our government, Ernst Rüdiger Starhemberg and the rest of the Heimwehr have launched a coup against the Kaiser, aiming to restore the Austrofascist Fatherland Front goverment."
  austria.104.a:0 "They will be crushed!"
  austria.104.b:0 "The Kaiser has betrayed Austria for the last time!"
 

@@ -1,8 +1,8 @@
 ﻿l_german:
-  # Ministers ""
+  # Ministers
  balbo_dead:0 "Italo Balbo ist tot."
 
- #flags ""
+ #flags
 
  ITA_carlo_favagrossa:0 "Carlo Favagrossa"
  ITA_dino_alfieri:0 "Dino Alfieri"
@@ -14,15 +14,17 @@
  r56_ITA_vanquish_ethiopia_failed:0 "Italien kapituliert vor Äthiopien und unterzeichnet einen weißen Frieden."
  ITA_defeat_in_ethiopia_flag:0 "Wird im Krieg von [ETH.getNameDef] besiegt."
 
- # Traits ""
+ # Traits
  soldier_king:0 "Soldat König"
 
- #Tooltips ""
+ #Tooltips
 
  ITA_royal_intervention_tt:0 "Monarchistische Loyalisten und königstreue Militärs beginnen einen §YBürgerkrieg§! gegen die Faschisten!"
+ aoi_founded_tt:0 "§Y[AOI.GETNAME]§! wird Äthiopien als §Yeigenständiger Staat§! §Yfreigelassen§!"
+ r56_aoi_founded_warning_tt:0 "§Y[AOI.GETNAME]§! das Eigentum an den äthiopischen Staaten wird aufgrund unseres §RKrieges§! mit §Y[ETH.GETNAMEDEF]§! §Rangefochten werden§!."
 
 
- # Decisions ""
+ # Decisions
  ITA_foreign_policy_fascism:0 "Faschistische Außenpolitik"
  ITA_foreign_policy_fascism_desc:0 "Eine aktivere Außenpolitik wird es uns ermöglichen, unsere Interessen besser zu verteidigen und sicherzustellen, dass unser Einfluss erhalten und ausgebaut wird."
 
@@ -43,7 +45,7 @@
  ITA_cede_884_to_HUN:0 "Tritt Prekmurje an [HUN.GetNameDef] ab"
 
 
- # Events ""
+ # Events
 
  r56_italy.1.t:0 "Der König enthebt Mussolini der Macht"
  r56_italy.1.d:0 "Nach einer Dringlichkeitssitzung, um die König Viktor Emanuel III. gebeten hatte, traf der König mit Mussolini zusammen und forderte ihn zum Rücktritt auf. Dabei verwies er insbesondere auf die enorme Verschuldung, in der sich [ITA.GetNameDef] befand und die er in fast fünfzehn Jahren an der Macht nicht lösen konnte, auf den wirtschaftlichen Abgrund, den der Äthiopienfeldzug darstellte, sowie auf die Probleme, die durch die Embargos nach der Invasion entstanden waren. Unter dem Druck des Großen Rats des Faschismus, der sich gegen ihn zu wenden begann, insbesondere unter dem Einfluss der Royalisten, die versuchten, sich selbst einen größeren Platz zu verschaffen, hatte Mussolini keine andere Wahl, als den Auftrag anzunehmen, da er nicht ins Gefängnis gehen wollte. Daraufhin wurde Pietro Badoglio zum Ministerpräsidenten ernannt. Badoglio gilt trotz seiner zahlreichen Verbindungen zur faschistischen Regierung als weitaus gemäßigtere Figur. Der König versucht, das Gesicht von [ITA.GetNameDef] zu wahren, dessen Lage sich immer weiter zuspitzt."
@@ -227,7 +229,7 @@
  r56_italy.109.d:0 "Nachdem seine Befugnisse unter dem Druck der Alliierten beschnitten wurden und er wegen seiner Zusammenarbeit mit Mussolini umstritten ist, beschließt König Emanuel, abzudanken. Die Monarchie, die nun von Emmanuels beliebterem Sohn Umberto II. vertreten wird, hat bessere Chancen, sich bei der bevorstehenden Volksabstimmung durchzusetzen."
  r56_italy.109.a:0 "Das Gute."
 
- # Ideas ""
+ # Ideas
  ITA_lack_of_powered_planes:0 "Fehlende leistungsstarke Motoren"
  ITA_lack_of_powered_planes_desc:0 "Eine der größten Schwächen der [ITA.GetADjective] Luftwaffe ist der Mangel an Pferdestärken in den produzierten Flugzeugen, der einen Fleck auf der restlichen Flugzeugausrüstung hinterlässt.\nUm dieses Problem zu lösen, ist eine erhebliche Modernisierung unserer Motorenproduktionskapazitäten notwendig. Die mangelnde Geschwindigkeit unserer Flugzeuge kann in einer Zeit, in der die Flugzeuge jedes Jahr noch schneller werden, schwerwiegende Folgen haben."
  ITA_bloated_military_bureaucracy:0 "Aufgeblähte Militärbürokratie"
@@ -244,6 +246,8 @@
  ITA_invite_andorra:0 "Laden Sie [ADR.GetNameDef]"
  ITA_invite_andorra_desc:0 "Wir werden unser iberisches Bündnis erweitern, indem wir [ADR.GetNameDef] in unsere Fraktion einladen."
  ITA_giannini_sarnow_protocols_ger:0 "Giannini-Sarnow-Protokolle"
+ ITA_army_of_east_africa:0 "Armee von Africa Orientale Italiana"
+ ITA_governor_commissariats:0 "Gouverneurskommissariate"
 
  soldier_king_2:0 "Soldatenkönig"
  umberto:0 "Umberto II."
@@ -614,11 +618,14 @@
  ITA_second_risorgimento_desc:0 "Der Traum von einem geeinten Italien ist wieder in greifbare Nähe gerückt. Fratelli d'Italia, l'Italia s'è desta!"
 
 
-#Leaders ""
+#Leaders
 POLITICS_ITALO_BALBO:0 "Italo Balbo"
 POLITICS_ITALO_BALBO_DESC: "Italo Balbo"
 
-#Ideas ""
+#Characters 
+ITA_giuseppe_rosini:0 "Giuseppe Rosini"
+
+#Ideas
  vittoria_mutilata:0 "Vittoria Mutilata"
  vittoria_mutilata_desc:0 "\nUnsere Verbündeten haben Italien verraten und sind uns in den Rücken gefallen, als sie den Pakt von London brachen. Wir haben am Isonzo so viel Blut für ihren Sieg geopfert, und sie haben uns im Gegenzug verweigert, was uns rechtmäßig zusteht. Nun wird Italien sein Schicksal selbst in die Hand nehmen, um dieses Unrecht zu korrigieren.§!"
  ITA_giovanni_marinelli:0 "Giovanni Marinelli"
@@ -633,8 +640,11 @@ POLITICS_ITALO_BALBO_DESC: "Italo Balbo"
  ITA_liberalize_our_industries_idea_desc:0 "Die Verstaatlichung und die strenge Kontrolle der Industrien haben sich, obwohl sie zunächst erfolgreich waren, langfristig als unwirksam erwiesen. Um unsere wirtschaftliche Stabilität zu gewährleisten, werden wir den Industrien wieder erlauben, frei zu arbeiten."
  italo_balbo_pol:0 "Italo Balbo"
  victor_emmanuel:0 "Vittorio Emanuele III"
+ ITA_military_research_stretched_thin:0 "Ausgedehnte militärische Forschung"
+ ITA_military_research_stretched_thin_desc:0 "Unsere militärische Forschung ist überfordert, wenn es darum geht, mit der Technologie unserer Rivalen Schritt zu halten. Irgendetwas musste nachgeben. Leider hat zuerst unsere Fähigkeit nachgegeben, rechtzeitig Fortschritte für unsere Bodentruppen zu entwickeln. Die einzige wirkliche Lösung für dieses Problem besteht darin, unsere stark überforderte Militärindustrie erheblich auszubauen. Auf diese Weise kann sie endlich einige Ressourcen freisetzen, um effektiver an experimentellen Projekten zu arbeiten."
+ ITA_military_research_stretched_thin_tt:0 "\n§WDieser§! §YNationalgeist§! wird §Gverschwinden§!, §Wsobald wir§! 50 §YMilitärfabriken§! haben."
 
-## Companies ""
+## Companies
 ansaldo_navy:0 "Ansaldo"
 ansaldo_navy_research:0 "Ansaldo"
 scrm:0 "Società Romana Costruzioni Meccaniche"
@@ -666,7 +676,7 @@ pirelli:0 "Pirelli"
 ITA_finsider:0 "Finsider"
 ITA_aeronautica_lombarda:0 "Aeronautica Lombarda"
 
-#Traits ""
+#Traits
 ansaldo_tank_manufacturer:0 "Panzer-Konstrukteur"
 ansaldo_navy_manufacturer:0 "Schiffbau Designer"
 fondatore_dell_impero:0 "Fondatore dell'impero"
@@ -674,10 +684,10 @@ fondatore_dell_impero:0 "Fondatore dell'impero"
 
 ITA_RSI_fascism:0 "Italienische Sozialrepublik"
 
-#Faction ""
+#Faction
 stresa_front_faction:0 "Stresa-Front"
 
-#Avanti! ""
+#Avanti!
 ABILITY_avanti:0 "Avanti!"
 ABILITY_avanti_desc:0 "Avanti! Avanti!"
 
@@ -689,7 +699,7 @@ ITA_REBORN_move_capital_to_rome:0 "Verlegung der Hauptstadt nach Rom"
 
 ITA_follow_pariani_plan_re_tt:0 "$ITA_modify_regio_esercito_dynamic_modifier_ns_intro$ \nHeeres-Erfahrungsgewinn-Faktor: §G+10.0%§! \nHeeresangriffsfaktor: §G+5,0%§! \nMultiplikator für maximale Befehlskraftsteigerung: §G+20.00%§! \n\n"
 
-#overriding silly stuff BBA ""
+#overriding silly stuff BBA
  ITA_ally_yugoslavia: "Jugoslawien auf Linie bringen"
  ITA_ally_yugoslavia_desc: ""
  ITA_pressure_country_government_YUG:0 "Druck [FROM.GetAdjective] Regierung"
