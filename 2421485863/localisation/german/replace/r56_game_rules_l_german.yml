@@ -89,7 +89,7 @@
  RULE_OPTION_FASCIST_CTR_AST_AI_DESC:0 "Die australische KI wird die Zentrumspartei an die Macht führen und dem Vereinigten Königreich treu bleiben (Fokusbaum Road to 56) oder sich befreien (Fokusbaum Standard).\n\n§GR§! Ist §Gvoll§! kompatibel mit dem gewählten Fokusbaum Road to 56.\n\n§YS§!"
 
  #-> AUS: Austria <><> ""
- AUS_AI_BEHAVIOR:0 "@AUS Österreich"
+ AUS_AI_BEHAVIOR_R56:0 "@AUS Österreich"
  RULE_OPTION_AUTHORITARIAN_HISTORICAL_AUS_AI_DESC:0 "Die österreichische KI wird sich nicht auf politische Angelegenheiten konzentrieren und stattdessen ihre Industrie aufbauen, indem sie den entsprechenden Weg im nationalen Schwerpunktbaum einschlägt."
  RULE_OPTION_AUS_DEMOCRATIC_AI_DESC:0 "Das Land wird eine Verfassung einführen und versuchen, sich langfristig einer demokratischen Fraktion anzuschließen."
  RULE_OPTION_AUS_FASCIST_AI_DESC:0 "Da die Austrofaschisten sehen, woher der Wind weht, werden sie eine Reihe von Angriffskriegen und anderen aggressiven Aktionen durchführen."
@@ -374,7 +374,6 @@
 
 
  #-> SWE: Sweden <><> ""
- SWE_AI_BEHAVIOR:0 "@SWE Schweden"
  R56_SWE_AI_BEHAVIOR:0 "@SWE Schweden (R56-Baum)"
  RULE_OPTION_DEMOCRATIC_HISTORICAL_SWE_AI_DESC:0 "Die schwedische KI wird sich auf die Neutralität konzentrieren und sich zur Demokratie bekennen."
  RULE_OPTION_DEMOCRATIC_AHISTORICAL:0 "Demokratisch: Ahistorisch"
@@ -387,7 +386,7 @@
  RULE_OPTION_MONARCHIST_TAKE_OVER_SWE_AI_DESC:0 "Angesichts der dunklen Wolken, die sich über Europa zusammenbrauen, wird die schwedische Königsfamilie die Macht übernehmen, um die Sicherheit zu gewährleisten, während sich der Sturm über Europa zusammenbraut."
 
  #-> TUR: Turkey <><> ""
- TUR_AI_BEHAVIOR_R56:0 "@TUR Türkei (56 Bäume)"
+ TUR_AI_BEHAVIOR_R56:0 "@TUR Türkei"
  RULE_OPTION_DEMOCRATIC_TUR_AI_DESC:0 "Die türkische KI wird dem Erbe Atatürks folgen, aber nach dem immer stärker werdenden feindlichen Einfluss in Europa wird sie sich schließlich einer Demokratie zuwenden und sich den Alliierten anschließen."
  RULE_OPTION_COMMUNIST_TUR_AI_DESC:0 "Die türkische KI wird Hüsnü aus dem Exil befreien, was zu einer vollwertigen kommunistischen Revolution führt, auf die entweder eine Zusammenarbeit mit den Sowjets oder eine eigene Einflusssphäre folgt."
  RULE_OPTION_FASCIST_TUR_AI_DESC:0 "Die türkische KI wird faschistische Offiziere unterstützen, was zu einer faschistischen Diktatur und einer engen Zusammenarbeit mit Deutschland und einem möglichen Beitritt zur Achse führen wird."

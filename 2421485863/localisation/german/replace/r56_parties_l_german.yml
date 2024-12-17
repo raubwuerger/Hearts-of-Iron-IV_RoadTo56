@@ -6,7 +6,7 @@
  anarcho_capitalism_n:0 "Anarcho-Kapitalismus"
  anarcho_capitalism_n_desc:0 "Der §YAnarcho-Kapitalismus§! lehnt den §Rzentralisierten Staat§! selbst zugunsten von §GSelbsteigentum, Privateigentum und freien Märkten§! ab."
  corporatism:0 "Korporatismus"
- corporatism_desc:0 "Die §Ykorporatistische§! Ideologie organisiert Arbeitnehmer und Arbeitgeber in Industrie- und Berufsverbänden, die ihre Interessen auf staatlicher Ebene vertreten. Der Korporatismus verfügt über eine Basisdemokratie, aber das Volk ist durch mehrere Hierarchieebenen stark von den Führern des Landes getrennt."
+ corporatism_desc:0 "Im Korporatismus sind Arbeitnehmer und Arbeitgeber in Industrie- und Berufsverbänden organisiert, die ihre Interessen auf staatlicher Ebene vertreten. Der Korporatismus verfügt über eine Basisdemokratie, aber das Volk ist durch mehrere Hierarchieebenen stark von den Führern des Landes getrennt."
  centrism_democratic:0 "Demokratischer Zentrismus"
  centrism_democratic_desc:0 "Der §YZentrismus§! ist eine Regierungsform, die §YLösungen mit gesundem Menschenverstand§! anstrebt, die den aktuellen und zukünftigen Bedürfnissen angemessen sind, das §Höffentliche Vertrauen§! unterstützen und dem §HGemeinwohl§! dienen, wobei Risiken und Kapazitäten im Zusammenhang mit diesen Bedürfnissen berücksichtigt werden."
  absolute_monarchism:0 "Absoluter Monarchismus"
@@ -117,6 +117,8 @@
  the_peoples_tutelage_desc:0 "§L§ONationalismus§!, §3Demokratie§!, §RWohlfahrt§!. Das waren die Drei Prinzipien des Volkes, auf die sich Sun-Yat Sen's Xinghai-Revolution stützte. Aber die erste republikanische Regierung nach 4000 Jahren dynastischer Herrschaft in China konnte sich diesen Luxus noch nicht leisten, und so kam es zur §YVolksherrschaft§!.\n\nAls Teil von Sun Yat-Sens Plan sollte die Volksherrschaft eine Periode nach der Gründung der Republik China sein, in der die Kuomintang China als §gEinparteienstaat§! regieren und die Nation auf die Demokratie vorbereiten würde. Nach Suns Tod und der Machtübernahme durch Chiang Kai-Shek verwandelte der Weiße Terror gegen jegliche Opposition gegen die nationalistische Herrschaft das System jedoch in eine korrupte Autokratie§!."
  marhaenism:0 "Marhaenism"
  marhaenism_desc:0 "Zu Beginn des 20. Jahrhunderts kam es zu zahlreichen Veränderungen in der politischen Landschaft Ostindiens: Die Ethische Politik schuf eine neue Klasse indonesischer Intellektueller, die Boemipoetras, und damit einhergehend die Suche nach einer neuen nationalen Identität, um sich sowohl von den Niederländern als auch von den früheren regionalen Nationalisten abzugrenzen. Vieles war bereits vorhanden, wie der Islamismus und sogar der Marxismus, aber sie waren entweder zu radikal in ihren eigenen Kämpfen, was die mehrheitlich verwestlichten Boemipoetras entfremdete, oder zu vage in ihren Prämissen.\n\n 1926 formulierte ein junger Archithektur-Absolvent namens Soekarno seine eigene politische Theorie, die die drei wichtigsten ideologischen Strömungen der Boemipoetras, den säkularen §ONationalismus§!, den §GIslam§! und den §YMarxismus§! zusammenfasst. - die Soekarno seit seiner Jugend beeinflußt hatten, zu einer verbindlichen Ideologie der Indonesier zusammenfaßte, die er §YMarhaenismus§! nannte, "den indonesischen Sozialismus in der Praxis"."
+ imperialist_corporatism:0 "Imperialistischer Korporatismus"
+ imperialist_corporatism_desc:0 "Die Anfänge des §YKorporatismus§! sind bereits im Mittelalter zu finden, als das Zunftwesen aufkam, in dem Arbeiter und Handwerker in Verbänden organisiert waren, die Produktion, Arbeitsbedingungen und Löhne regelten. Diese Zünfte fungierten als Vermittler zwischen dem Staat und dem Einzelnen und spiegelten die korporatistische Idee wider, dass die Gesellschaft am besten funktioniert, wenn sie in kollektiven Körperschaften organisiert ist. Der imperialistische Korporatismus ist eine Form des Wirtschaftsimperialismus und wird in erster Linie vom Streben nach Profit, wirtschaftlicher Ausbeutung und Marktbeherrschung angetrieben und verkörpert das kapitalistische Ethos. Darüber hinaus wird großer Wert auf die §8Sicherung der Unternehmensinteressen§! mit den Mitteln des Staates gelegt, die als gemeinsame Interessen der gesamten Nation betrachtet werden."
 
 
  #ADR
@@ -147,12 +149,12 @@
  AFG_khalq_party_long:0 "Hisb-e Khalq"
  AFG_democratic_party:0 "Hezb-e Watan"
  AFG_democratic_party_long:0 "Hezb-e Watan"
- AFG_neutrality_party:0 "Bārakzai"
- AFG_neutrality_party_long:0 "Haus der Bārakzai"
- AFG_fascism_party:0 "Loya Jirga"
- AFG_fascism_party_long:0 "Loya Jirga - Traditionalisten"
+ AFG_neutrality_party:0 "Da Bārakzai Kor"
+ AFG_neutrality_party_long:0 "Da Bārakzai Kor"
+ AFG_fascism_party:0 "Da Islāmī Tajdīd Gwand"
+ AFG_fascism_party_long:0 "Da Islāmī Tajdīd Gwand"
 
- #ALB ""
+ #ALB
  ALB_neutrality_party:0 "PLL"
  ALB_neutrality_party_long:0 "Partia Lëvizja e Legalitetit"
  ALB_communism_party:0 "KK"
@@ -162,11 +164,11 @@
  ALB_fascism_party:0 "PFSh"
  ALB_fascism_party_long:0 "Partia Fashiste e Shqipërisë"
 
- #ALS ""
+ #ALS
  ALS_neutrality_party:0 "Haus Lothringen"
  ALS_democratic_party:0 "Radicaux-socialistes d'Alsace-Lorraine"
 
- #ARG ""
+ #ARG
  ARG_democratic_party:0 "UCR"
  ARG_democratic_party_long:0 "Unión Cívica Radical (Radikale Vereinigung)"
  ARG_fascism_party:0 "UNF"
@@ -176,7 +178,17 @@
  ARG_neutrality_party:0 "Konkordanz"
  ARG_neutrality_party_long:0 "Konkordanz"
 
- #AST ""
+ #ARM
+ ARM_democratic_party:0 "HHD"
+ ARM_democratic_party_long:0 "Hay Heghap'okh'akan Dashnakts'ut'yun"
+ ARM_fascism_party:0 "HL"
+ ARM_fascism_party_long:0 "Haykakan Legion"
+ ARM_communism_party:0 "HKK"
+ ARM_communism_party_long:0 "Hayastani Kom'unistakan Kusakts'ut'yun"
+ ARM_neutrality_party:0 "Haus von Bagratuni"
+ ARM_neutrality_party_long:0 "Haus von Bagratuni"
+
+ #AST
  AST_neutrality_party:0 "Büro des Generalgouverneurs"
  AST_neutrality_party_long:0 "Büro des Generalgouverneurs"
  AST_labor_party:0 "ALP"
@@ -287,7 +299,7 @@
  CAP_democratic_party:0 "PAIGC (TD)"
  CAP_democratic_party_long:0 "Partido Africano para a Independência da Guiné e Cabo Verde (Transição Democrática) (Afrikanische Partei für die Unabhängigkeit von Guinea und Cabo Verde)"
 
- #CAT ""
+ #CAT
  CAT_fascism_party:0 "NS"
  CAT_fascism_party_long:0 "Nosaltres Sols!"
  CAT_neutrality_party:0 "LC"
@@ -297,7 +309,7 @@
  CAT_communism_party:0 "POUM"
  CAT_communism_party_long:0 "Partit Obrer d'Unificació Marxista"
 
- #CHL ""
+ #CHL
  CHL_fascism_party:0 "VPS"
  CHL_fascism_party_long:0 "Vanguardia Popular Socialista"
  CHL_democratic_party:0 "PR"
@@ -305,25 +317,33 @@
  CHL_communism_party:0 "PCCh"
  CHL_communism_party_long:0 "Partido Comunista de Chile"
 
- # CHI ""
+ # CHI
  CHI_democratic_party:0 "KMT (C)"
  CHI_democratic_party_long:0 "Kuomintang (Zivilisten)"
 
- #COG ""
+ #COG
  COG_neutrality_party:0 "Gouvernorat Général"
  COG_neutrality_party_long:0 "Gouvernorat Général du Congo"
 
- #COL ""
+ #COL
  COL_communism_party:0 "PCC"
  COL_communism_party_long:0 "Partido Comunista Colombiano"
  COL_democratic_party:0 "PLC"
  COL_democratic_party_long:0 "Partido Liberal Colombiano"
- COL_neutrality_party:0 "Bewahrer"
- COL_neutrality_party_long:0 "Partido Conservador Colombiano"
- COL_fascism_party:0 "CRC"
- COL_fascism_party_long:0 "Radikale Kolumbianische Partei (Partido Conservador Radical Colombiano)"
 
- #CZE ""
+ #COS
+ COS_democratic_party:0 "PRN"
+ COS_democratic_party_long:0 "Nationale Republikanische Partei"
+ COS_communism_party:0 "PCC"
+ COS_communism_party_long:0 "Kommunistische Partei von Costa Rica"
+ COS_neutrality_party:0 "PN"
+ COS_neutrality_party_long:0 "Nationalistische Partei"
+ COS_fascism_party:0 "PNSCR"
+ COS_fascism_party_long:0 "Nationalsozialistische Partei von Costa Rica"
+ COS_partido_nacional_party:0 "PN"
+ COS_partido_nacional_party_long:0 "Nationale Partei"
+
+ #CZE
  CZE_communism_party:0 "KSČ"
  CZE_communism_party_long:0 "Komunistická strana Československa"
  CZE_democratic_party:0 "RSZML - ČSDSD - ČSNS"
@@ -333,10 +353,10 @@
  CZE_national_unity_party:0 "SNJ"
  CZE_national_unity_party_long:0 "Strana národní jednoty"
 
- #DAR ""
+ #DAR
  DAR_neutrality_party:0 "Sulalat Kayra"
 
- #DOM ""
+ #DOM
  DOM_neutrality_party:0 "PD"
  DOM_neutrality_party_long:0 "Partido Dominicano"
  DOM_fascism_party:0 "D Military Junta"
@@ -346,7 +366,7 @@
  DOM_communism_party:0 "SPD"
  DOM_communism_party_long:0 "Partido Socialista Popular Dominicano"
 
- #DEN ""
+ #DEN
  DEN_neutrality_party:1 "KF - V - F"
  DEN_neutrality_party_long:1 "Det Konservative Folkeparti - Venstre - Bondepartiet"
  DEN_democratic_party:1 "Sozialdemokratiet - RV"
@@ -356,17 +376,35 @@
  DEN_communism_party:1 "DKP"
  DEN_communism_party_long:1 "Dänemarks Kommunistiske Parti"
 
- #ELS ""
- ELS_neutrality_party:0 "PNPP"
- ELS_neutrality_party_long:0 "Partido Nacional Pro-Patria"
- ELS_communist_party:0 "PCES"
- ELS_communist_party_long:0 "Partido Comunista de El Salvador"
+ #DNZ
+ DNZ_democratic_party:1 "Zentrum - SPD"
+ DNZ_democratic_party_long:1 "Zentrum - Sozialdemokratische Partei der Freien Stadt Danzig"
+ DNZ_neutrality_party:1 "DNVP"
+ DNZ_neutrality_party_long:1 "Deutschnationale Volkspartei"
+ DNZ_fascism_party:1 "NSDAP"
+ DNZ_fascism_party_long:1 "Nationalsozialistische Deutsche Arbeiterpartei"
+ DNZ_communism_party:1 "KPD"
+ DNZ_communism_party_long:1 "Kommunistische Partei Deutschlands"
 
- #ECU ""
- ECU_democratic_party:0 "Páez"
- ECU_democratic_party_long:0 "Regime von Páez"
+ #ELS
+ ELS_neutrality_party:0 "PNPP"
+ ELS_neutrality_party_long:0 "Nationale Pro-Patria-Partei"
+ ELS_fascism_party:0 "PNPP-F"
+ ELS_fascism_party_long:0 "Nationale Pro-Patria-Partei - Faschisten"
+ ELS_democratic_party:0 "PL"
+ ELS_democratic_party_long:0 "Arbeiterpartei"
+ ELS_communism_party:0 "PCS"
+ ELS_communism_party_long:0 "Kommunistische Partei von El Salvador"
+
+ #ECU
+ ECU_neutrality_party:0 "PLRE"
+ ECU_neutrality_party_long:0 "Radikale Liberale Partei Ecuadors"
+ ECU_fascism_party:0 "PCE-F"
+ ECU_fascism_party_long:0 "Konservative Partei Ecuadors - Faschisten"
+ ECU_democratic_party:0 "PLRE-S"
+ ECU_democratic_party_long:0 "Radikale Liberale Partei Ecuadors - Sozialisten"
  ECU_communism_party:0 "PCE"
- ECU_communism_party_long:0 "Partido Comunista del Ecuador"
+ ECU_communism_party_long:0 "Kommunistische Partei Ecuadors"
 
  #FAR ""
  FAR_democratic_party:0 "Sambandsflokkurin"
@@ -480,6 +518,15 @@
  GUA_neutrality_party:0 "PLP"
  GUA_neutrality_party_long:0 "Partido Liberal Progresista"
 
+ GUA_fascism_party:0 "PLP-F"
+ GUA_fascism_party_long:0 "Partido Liberal Progresista - Faschisten"
+ GUA_neutrality_party:0 "PLP"
+ GUA_neutrality_party_long:0 "Liberale Fortschrittspartei"
+ GUA_democratic_party:0 "PL"
+ GUA_democratic_party_long:0 "Liberale Partei"
+ GUA_communism_party:0 "PCG"
+ GUA_communism_party_long:0 "Kommunistische Partei Guatemalas"
+
  #GUM ""
  GUM_fascism_party:0 "MIG"
  GUM_fascism_party_long:0 "Marianische Unabhängigkeitsgruppe"
@@ -524,8 +571,14 @@
  HES_communism_party_long:0 "Kommunistische Partei Deutschlands"
 
  #HON ""
- HON_democratic_party:0 "PNH"
- HON_democratic_party_long:0 "Partido Nacional de Honduras"
+ HON_neutrality_party:0 "PNH"
+ HON_neutrality_party_long:0 "Nationale Partei von Honduras"
+ HON_democratic_party:0 "PLH"
+ HON_democratic_party_long:0 "Liberale Partei von Honduras"
+ HON_communism_party:0 "PCH"
+ HON_communism_party_long:0 "Kommunistische Partei von Honduras"
+ HON_fascism_party:0 "UFCo"
+ HON_fascism_party_long:0 "United Fruit Company"
 
  #ICE ""
  ICE_democratic_party:0 "Alþýðuflokkurinn"
@@ -557,11 +610,15 @@
  #KSH ""
  KSH_democratic_party:0 "Towarzëstwò Młodokaszëbów"
 
- LIB_democratic_party:0 "TWP"
- LIB_democratic_party_long:0 "Wahre Whig-Partei"
- #fictious ""
- LIB_communism_party:0 "LCP"
- LIB_communism_party_long:0 "Liberianische Kommunistische Partei"
+ #LIB
+ LIB_neutrality_party:0 "TWP"
+ LIB_neutrality_party_long:0 "Wahre Whig-Partei"
+ LIB_democratic_party:0 "PPL"
+ LIB_democratic_party_long:0 "Volkspartei von Liberia"
+ LIB_fascism_party:0 "LNV" #fictious
+ LIB_fascism_party_long:0 "Liberianische Nationale Avantgarde" #fictious
+ LIB_communism_party:0 "LSP" #fictious
+ LIB_communism_party_long:0 "Liberianische Sozialistische Partei" #fictious
 
  #LIE ""
  LIE_neutrality_party:0 "Haus Liechtenstein"
@@ -606,16 +663,15 @@
  MEK_neutrality_party:0 "Haus Mecklenburg-Schwerin"
 
  #MEN ""
- MEN_mongal_council_long:0 "Ausschuss für politische Angelegenheiten der lokalen Autonomie der Mongolen"
- MEN_mongal_council:0 "Rat von Pailingmiao"
- MEN_communism_party:0 "DMAQN"
- MEN_communism_party_long:0 "Dotoyadu Mongyol-un Arad-un Qubisqal-un Nam"
- MEN_fascism_party:0 "MRC"
- MEN_fascism_party_long:0 "Komitee der Mongolischen Wiedergeburt"
-
- #fictious ""
- MEN_democratic_party:0 "DPIM"
- MEN_democratic_party_long:0 "Demokratische Partei der Inneren Mongolei"
+ 
+ MEN_communism_party:0 "DMAKN"
+ MEN_communism_party_long:0 "Dotood Mongolyn Ardyn Khuvsgalyn Nam"
+ MEN_fascism_party:0 "ÖMAK"
+ MEN_fascism_party_long:0 "Övör Mongolyn Autonomit Khödölgön"
+ MEN_democratic_party:0 "ÖMAN-K"
+ MEN_democratic_party_long:0 "Övör Mongolyn Ardchilsan Nam - Kuomintang"
+ MEN_neutrality_party:0 "Junge Mongolen"
+ MEN_neutrality_party_long:0 "Junge Mongolen"
 
  #MNC ""
  MNC_neutrality_party:0 "Maison de Grimaldi"
@@ -668,17 +724,24 @@
  NGA_neutrality_party:0 "Nationale Demokratische Partei"
  NGA_democratic_party:0 "Northern People's Congress"
 
- #NIC ""
+ NIC_neutrality_party:0 "PLN-GN"
+ NIC_neutrality_party_long:0 "Nationalistische Liberale Partei - Nationalgarde"
  NIC_democratic_party:0 "PL"
  NIC_democratic_party_long:0 "Liberale Partei"
- NIC_democratic_party_1936:0 "PLN"
- NIC_democratic_party_1936_long:0 "Partido Liberal Nacionalista"
- NIC_neutrality_party_1937:0 "PLN/PCN (Somoza)"
- NIC_neutrality_party_1937_long:0 "Regime von Somoza"
  NIC_communism_party:0 "PSN"
- NIC_communism_party_long:0 "Partido Socialista Nicaragüense"
- NIC_fascism_party:0 "Blaue Kamisas"
- NIC_fascism_party_long:0 "Camisas azules"
+ NIC_communism_party_long:0 "Sozialistische Partei Nicaraguas"
+ NIC_fascism_party:0 "PLN-F"
+ NIC_fascism_party_long:0 "Liberale Nationalistische Partei - Faschisten"
+
+ #NIR
+ NIR_neutrality_party:0 "UUP"
+ NIR_neutrality_party_long:0 "Ulster Unionist Party"
+ NIR_democratic_party:0 "PN"
+ NIR_democratic_party_long:0 "An Páirtí Náisiúnach"
+ NIR_communism_party:0 "PCÉ"
+ NIR_communism_party_long:0 "Páirtí Cumannach na hÉireann"
+ NIR_fascism_party:0 "ÓÉ"
+ NIR_fascism_party_long:0 "Óglaigh na hÉireann"
 
  #NRU ""
  NRU_democratic_party:0 "Rat der Häuptlinge"
@@ -815,10 +878,14 @@
  SCA_neutrality_party_long:0 "Nordisk Råd"
 
  #SCO ""
- SCO_neutrality_party:0 "Unionistische Partei"
- SCO_neutrality_party_long:0 "Unionistische Partei"
- SCO_communist_party:0 "CPS"
- SCO_communist_party_long:0 "Communist Party of Scotland"
+ SCO_fascism_party:0 "SDFP"
+ SCO_fascism_party_long:0 "Schottische Demokratische Faschistische Partei"
+ SCO_neutrality_party:0 "UP - NLP - NLO - NG"
+ SCO_neutrality_party_long:0 "Unionistische Partei - Nationalliberale Partei - Nationale Arbeitsorganisation - Nationale Regierung"
+ SCO_democratic_party:0 "SNP - SLP - LP"
+ SCO_democratic_party_long:0 "Schottische Nationalpartei - Schottische Liberale Partei - Labour Party"
+ SCO_communism_party:0 "CPS - ILP"
+ SCO_communism_party_long:0 "Communist Party of Scotland - Unabhängige Arbeiterpartei"
 
  #SHL ""
  SHL_neutrality_party:0 "Haus Oldenburg"
@@ -861,8 +928,8 @@
  #SWI ""
  SWI_democratic_party:0 "Bundesrat"
  SWI_democratic_party_long:0 "Bundesrat"
- SWI_neutrality_party:0 "Bundesrat"
- SWI_neutrality_party_long:0 "Bundesrat"
+ SWI_neutrality_party:0 "Adel"
+ SWI_neutrality_party_long:0 "Schweizer Adel"
  SWI_fascism_party:0 "NSDAP/AO"
  SWI_fascism_party_long:0 "Schweizer Landesgruppe der NSDAP/AO"
  SWI_communism_party:0 "KPS"
@@ -898,8 +965,8 @@
  #TON ""
  TON_fascism_party:0 "RPT-R"
  TON_fascism_party_long:0 "Reaktionäre Partei von Tonga - Rechts"
- TON_neutrality_party:0 "Tu'i Kanokupolu"
- TON_neutrality_party_long:0 "Tu'i Kanokupolu-Dynastie"
+ TON_neutrality_party:0 "Api 'o Tupou"
+ TON_neutrality_party_long:0 "Api 'o Tupou"
  TON_democratic_party:0 "RPT-C"
  TON_democratic_party_long:0 "Reaktionäre Partei von Tonga - Zentrum"
  TON_communism_party:0 "WUT"
@@ -948,10 +1015,12 @@
  UGA_neutrality_party:0 "Abalasangeye-Dynastie"
 
  #URG ""
- URG_democratic_party:0 "Colorado"
- URG_democratic_party_long:0 "Partido Colorado"
+ URG_neutrality_party:0 "PC-M"
+ URG_neutrality_party_long:0 "Colorado-Partei - Marzistas"
+ URG_democratic_party:0 "PC-R"
+ URG_democratic_party_long:0 "Colorado Party - Republikaner"
  URG_communism_party:0 "PCU"
- URG_communism_party_long:0 "Partido Comunista del Uruguay"
+ URG_communism_party_long:0 "Kommunistische Partei Uruguays"
 
  #USA ""
  USA_neutrality_party:0 "Provisorische Regierung"
@@ -1034,6 +1103,16 @@
  WLL_coalition_conservative_socialist_party_long:0 "Parti Social Chrétien - Parti Socialiste"
  WLL_fascism_party:0 "Rex"
  WLL_fascism_party_long:0 "Parti Rexiste"
+
+ #WLS
+ WLS_neutrality_party:0 "PCC"
+ WLS_neutrality_party_long:0 "Plaid Ceidwadwyr Cymreig"
+ WLS_communism_party:0 "PSC"
+ WLS_communism_party_long:0 "Plaid Sosialaidd Cymru"
+ WLS_democratic_party:0 "PGC"
+ WLS_democratic_party_long:0 "Plaid Genedlaethol Cymru"
+ WLS_fascism_party:0 "PAC" # made up
+ WLS_fascism_party_long:0 "Plaid Annibyniaeth Cymru" # made up
 
  #WUR ""
  WUR_neutrality_party:0 "Haus Württemberg"

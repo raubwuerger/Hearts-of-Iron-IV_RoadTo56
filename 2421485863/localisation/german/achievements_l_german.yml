@@ -5,6 +5,10 @@ rt56achievements_69420:0 "Der Weg zu mehr als 56 Errungenschaften"
 #the_road_to_56_NAME:0 "Der Weg zu 56"
 #the_road_to_56_DESC:0 "Und du dachtest"
 
+napoleon_reborn_NAME:0 "Napoleon wiedergeboren"
+napoleon_reborn_DESC:0 "Setzen Sie als Guatemala den "wahren" Napoleon wieder auf den Thron."
+napoleon_reborn_hidden_achievement:0 "Die Voraussetzungen für diese Errungenschaft sind derzeit verborgen."
+
 you_cnut_do_that_NAME:0 "Mach du das"
 you_cnut_do_that_DESC:0 "Stelle als Dänemark das Nordseeimperium wieder her."
 
@@ -215,3 +219,11 @@ god_damn_plan_DESC:0 "Vervollständigen Sie den Niederländischen Plan."
 vampire_economy_NAME:0 "Vampir-Wirtschaft"
 vampire_economy_DESC:0 "Kontrollieren Sie Translvanien und Nordtranssylvanien vollständig und vampirisieren Sie Ihre Wirtschaft, indem Sie siebenmal die Entscheidung $GER_strong_arm_the_industrialists$ treffen."
 vampire_economy_tt:0 "Hat die Entscheidung $GER_strong_arm_the_industrialists$ sieben Mal getroffen."
+
+this_isnt_millennium_dawn_NAME:0 "Das ist nicht Millennium Dawn"
+this_isnt_millennium_dawn_DESC:0 "Wie Irak, Atomwaffen auf Washington D.C."
+achievement_has_nuked_washington_dc:0 "Atomwaffen auf Washington D.C."
+
+tiny_tsar_NAME:0 "Winziger Zar"
+tiny_tsar_DESC:0 "Als Weißrusse Liechtenstein, aus Russland."
+achievement_formed_russia:0 "Gegründet in Russland."

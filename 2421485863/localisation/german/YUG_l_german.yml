@@ -3,6 +3,8 @@
  r56_YUG_if_we_go_to_war_with_HUN:0 "§RWenn Ungarn oder Österreich-Ungarn gegen ein Mitglied der Kleinen Entente in den Krieg zieht, werden uns andere Mitglieder der Kleinen Entente zu Hilfe kommen.§!"
  r56_HUN_if_we_go_to_war:0 "\n§RAndere Mitglieder der Kleinen Entente werden unseren Feinden zu Hilfe kommen.§!"
  r56_BUL_if_we_go_to_war:0 "\n§RAndere Mitglieder des Balkanpaktes werden unseren Feinden zu Hilfe kommen.§!"
+ YUG_little_entente_ally:0 "Die kleine Entente"
+ YUG_little_entente_enemy:0 "Die kleine Entente"
  YUG_charismatic_opportunist:0 "Charismatischer Opportunist"
  chemical_concern:0 "Chemiekonzern"
  engine_factory:0 "Motorenhersteller"
@@ -154,6 +156,13 @@
  yugoslavia.28.t:0 "[FROM.GetNameDefCap] Rücktritt"
  yugoslavia.28.d:0 "Wir sind darauf aufmerksam geworden, dass unsere Verbündeten in [FROM.GetNameDefCap] sich geweigert haben, uns in unserem Krieg gegen die [BUL.GetAdjective]s zu unterstützen, trotz unserer Vereinbarungen mit ihnen. Sie sind nicht besser als der Feind, wie ein weiser Mann einmal sagte, ein falscher Freund ist schlimmer als ein echter Feind..."
  yugoslavia.28.a:0 "Wir werden uns erinnern..."
+
+ r56_YUG_balkan_pact:0 "Balkan-Pakt-Mitglied"
+ r56_YUG_balkan_pact_warning_tt:0 "§RWenn [BUL.GetNameDef] gegen ein Mitglied des Balkanpakts in den Krieg zieht, werden uns andere Mitglieder des Balkanpakts zu Hilfe kommen.§!"
+
+ r56_abandon_the_balkan_pact:0 "Auflösung des Balkanpakts"
+ r56_abandon_the_little_entente:0 "Die Kleine Entente aufgeben"
+ YUG_betrayed_little_entente:0 "Verrat an der Kleinen Entente"
 
  YUG_united_balkan_federation:0 "Vereinigte Balkanföderation"
  YUG_united_balkan_federation_DEF:0 "die Vereinte Balkanföderation"

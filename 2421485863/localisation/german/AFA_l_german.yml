@@ -6,5 +6,7 @@
  AFA_dubno_marto:0 "Dubno Marto"
  AFA_rohe_hunde:0 "Rohé Hundé"
 
- #parties ""
- AFA_neutrality_party:0 "Mudaito Dynasty"
+ 
+ bba_AFA_skilled_desert_warriors:0 "In der Wüstenkriegsführung erfahrene Krieger"
+ bba_AFA_skilled_desert_warriors_desc:0 "Die [ROOT.GetAdjective]-Krieger sind seit jeher für ihre Fähigkeiten im Wüstenkampf bekannt, und nur deshalb und wegen des rauen Klimas in der Wüste ist es [ROOT.GetNameDef] gelungen, die Unterwerfung durch fremde Mächte so lange zu vermeiden."
+ 

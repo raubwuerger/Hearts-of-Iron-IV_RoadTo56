@@ -32,6 +32,8 @@
  r56_the_project_generic_desc:0 "Gebiete in diesem Bundesstaat wurden für ein großes "Physik"-Projekt reserviert."
  r56_military_exercises:0 "Militärübungen"
  r56_local_development:0 "Lokale Entwicklung"
+ r56_concentrated_armament_program:0 "Programm zur konzentrierten Bewaffnung"
+ r56_concentrated_armament_program_desc:0 "Es wird versucht, die Kapazität der Rüstungsindustrie in [THIS.GetName] zu erhöhen."
 
  r56_generic_international_brigades_idea:0 "Internationale Brigaden"
  r56_generic_international_brigades_idea_desc:0 "Unser Kampf hat Unterstützer der revolutionären Sache angezogen, die nun militärische Einheiten organisieren, um die Unterdrücker abzuwehren."
@@ -43,6 +45,11 @@
  r56_generic_broad_paramilitary_squadrons_idea_desc:0 "Das ausländische Engagement hat die Schaffung von paramilitärischen Einheiten, die neben den militärischen Zielen auch ideologische Ziele verfolgen können, stark gefördert."
 
  r56_volksdeutscher_selbstschutz_recruitment:0 "Volksdeutscher Selbstschutz Rekrutierung"
+ r56_AOI_provincial_capital:0 "Provinzhauptstadt" 
+
+ r56_channel_island_defendablity:0 "Defensive Schwachstellen"
+ r56_channel_island_defendablity_desc:0 "Aufgrund der fehlenden strategischen Bedeutung und der Nähe zum Festland sind die Kanalinseln nur schwer zu halten."
+
 
  #Vanilla local: Just because they local doesn't mean they work :/ ""
 

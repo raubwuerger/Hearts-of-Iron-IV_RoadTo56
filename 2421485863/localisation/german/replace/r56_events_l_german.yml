@@ -12,3 +12,23 @@
  CHL_political_events.54.desc: "Die [FROM.GetAdjective]-Regierung klammert sich stur an den falschen Vertrag von Lima und weigert sich, uns [1061.GetName] zu übergeben. Wir müssen Gewalt anwenden und ihnen die Region mit allen Mitteln abnehmen..."
  CHL_political_events.55.t: "[CHL.GetName] fordert die Übergabe von [1065.GetName]"
  CHL_political_events.55.desc: "Nach der jüngsten groß angelegten Mobilisierung an unserer Grenze und den wochenlangen Protesten des [CHL.GetAdjective]-Volkes hat [CHL.GetLeader] angekündigt, dass es höchste Zeit ist, dass [CHL.GetNameDef] [1065.GetName] für sich selbst besetzt. Sollten wir versuchen, uns ihnen zu widersetzen?"
+
+ WW_hungary.8.t: "[HUN.GetNameDefCap] Bietet Schutz im Austausch für [1086.GetName]"
+ WW_hungary.8.desc: "[HUN.GetLeader] von [HUN.GetNameDef] hat sich mit einem interessanten Angebot an uns gewandt. Er erklärt, dass sie im Gegenzug für die Rückgabe von [1086.GetName], oder wie sie es nennen, dem Lajtabánság, in die Hände von [HUN.GetAdjective] bereit wären, uns eine Unabhängigkeitsgarantie zu geben und auf unserer Seite zu stehen, falls die [GER.GetAdjective]s uns holen kommen sollten. Sollten wir ihr Angebot annehmen?"
+ WW_hungary.8.a: "Wir brauchen jede Hilfe, die wir bekommen können..."
+ WW_hungary.8.b: "Und wie viel ist ihre Garantie genau wert?"
+
+ WW_hungary.9.t: "[FROM.GetNameDefCap] übergibt [1086.GetName] für Garantien"
+ WW_hungary.9.desc: "Die weise Führung in [FROM.GetNameDef] hat beschlossen, auf unser Angebot einzugehen, und wird uns umgehend die Kontrolle über die Region [1086.GetName] im Austausch für Unabhängigkeitsgarantien überlassen. Wir werden größer, und unsere Freundschaft mit den [FROM.GetAdjective]s ist wieder aufgefrischt worden."
+
+ WW_hungary.83.t: "[FROM.GetNameDefCap] bietet zum Kauf an [1086.GetName]"
+ WW_hungary.83.desc: "Die Regierung von [HUN.GetAdjective] betrachtet [1086.GetName] immer noch als integrale Region ihres Reiches und erklärt, dass sie während des Kaiserreichs Teil Ungarns war und daher zurückgegeben werden sollte. Sie sind nun mit einem Angebot an uns herangetreten, die Region von uns zurückzukaufen, und zwar zu einem guten Preis."
+ WW_hungary.83.b: "[1086.GetName] ist [ROOT.GetAdjective]!"
+
+ WW_hungary.84.t: "[FROM.GetNameDefCap] verkauft uns [1086.GetName]"
+ WW_hungary.84.desc: "Der vernünftige [FROM.GetLeader] von [FROM.GetNameDef] hat zugestimmt, [1086.GetName] an uns zu übergeben, und hat die Zahlung wie versprochen erhalten. Heute ist ein großer Tag für die Leute von [ROOT.GetAdjective]!"
+
+ WW_hungary.85.desc: "Obwohl nicht völlig unerwartet, hat der törichte [FROM.GetLeader] von [FROM.GetNameDef] unser Ersuchen abgelehnt und einen Abgesandten geschickt, der erklärt hat, dass er in Bezug auf den Streit in [1086.GetName] keinen einzigen Schritt zurückgehen wird."
+
+ WW_hungary.86.t: "[FROM.GetNameDefCap] Inszeniert einen Aufstand in [1086.GetName]"
+ WW_hungary.86.desc: "Rebellen, die den paramilitärischen Organisationen von [FROM.GetAdjective] angehören, haben die Kontrolle über wichtige Gebäude in der Region [1086.GetName] übernommen und in aller Eile ein Referendum über den Wiedereintritt in die [FROM.GetNameDef] abgehalten, wobei das Ergebnis eindeutig gefälscht war. Unsere Truppen sind in der Nähe in Bereitschaft, warten aber auf Befehle, um zu sehen, ob ein Eingreifen die richtige Wahl ist oder nicht."
