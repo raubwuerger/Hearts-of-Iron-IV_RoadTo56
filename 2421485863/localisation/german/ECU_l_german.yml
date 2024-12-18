@@ -5,10 +5,11 @@
  ECU_luis_rodrigues:0 "Luis Rodríguez"
  ECU_octavio_ochoa:0 "Octavio A. Ochoa"
  ECU_rafael_moran_valverde:0 "Rafael Morán Valverde"
+ ECU_cesar_edmundo_gonzalez:0 "César Edmundo González"
 
-
- #focus ""
- ECU_Alert_in_the_front:0 "Wachsamkeit an der Grenze"
+ ECU_moderate_dictator:0 "Moderater Diktator"
+ #focus
+ ECU_Alert_in_the_front:0 "Feind vor unseren Toren"
  ECU_Alert_in_the_front_desc:0 ""
 
  ECU_desperate_mobilization:0 "Verzweifelte Mobilisierung"
@@ -29,10 +30,10 @@
  ECU_adquire_usa_planes:0 "Amerikanische Flugzeuge anschaffen"
  ECU_adquire_usa_planes_desc:0 ""
 
- ECU_annex_the_north_of_Peru:0 "Annexion des Nordens von Peru"
+ ECU_annex_the_north_of_Peru:0 "Loreto integrieren"
  ECU_annex_the_north_of_Peru_desc:0 ""
 
- ECU_mobilize_the_whole_country:0 "Mobilisierung des gesamten Landes"
+ ECU_mobilize_the_whole_country:0 "Schnelle Mobilisierung"
  ECU_mobilize_the_whole_country_desc:0 ""
 
  ECU_defense_of_quito:0 "Verteidigung von Quito"

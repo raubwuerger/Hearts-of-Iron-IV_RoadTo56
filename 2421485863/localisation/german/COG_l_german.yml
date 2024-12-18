@@ -335,3 +335,7 @@
  COG_destroyer_effort_desc:0 "Durch das Studium der Konstruktion und des strategischen Einsatzes von U-Booten haben wir auch gelernt, wie wir diesen Strategien begegnen können. Zerstörer werden dafür entscheidend sein."
  COG_capital_ships_effort:0 "Bemühungen um Großkampfschiffe"
  COG_capital_ships_effort_desc:0 "Die Nation mit den meisten Schlachtschiffen wird die Weltmeere beherrschen. Schlachtschiffe und Flugzeugträger repräsentieren die alte und die neue Überlegenheit der Seestreitkräfte."
+ 
+ COG_generic_industrial_concern:0 "CCCI"
+ KAT_generic_industrial_concern:0 "Metalkat"
+

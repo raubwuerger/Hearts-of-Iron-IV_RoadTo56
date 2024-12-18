@@ -314,6 +314,7 @@
  FIN_diplomats:0 "Finnische Diplomaten."
  FIN_sov_diplomacy:0 "Finnisch-sowjetischer diplomatischer Schwerpunkt"
  FIN_fascist_diplomatic_effort:0 "Faschistische diplomatische Bestrebungen"
+ FIN_driftwood:0 "Nichteinmischung in die sowjetische Politik"
 
  #Misc ""
  FIN_GER_Units:0 "Sie erhalten §Y5 Jägerdivisionen§! von Deutschland in Turku"

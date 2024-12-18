@@ -75,6 +75,7 @@ l_english:
  modifier_experience_gain_artillery_combat_factor:0 "§YArtillery Brigade§! combat experience gain" #Vanilla override
  modifier_experience_gain_militia_combat_factor:0 "Militia experience gain from combat"
 
+
  modifier_experience_gain_cas_training_factor:0 "§YClose Air Support§! training experience gain"
 
 

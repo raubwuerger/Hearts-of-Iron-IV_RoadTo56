@@ -1,10 +1,19 @@
 ﻿l_english:
  FOCUS_FILTER_POLITICAL:0 "Political"
  FOCUS_FILTER_RESEARCH:0 "Research"
+ FOCUS_FILTER_RESEARCHCENTER:0 "Research Center"
+ FOCUS_FILTER_AIRFORCE:0 "Air Force"
+ FOCUS_FILTER_ARMY:0 "Army"
+ FOCUS_FILTER_NAVY:0 "Navy"
+ FOCUS_FILTER_CP:0 "Command Power"
+ FOCUS_FILTER_FORTIFICATION:0 "Fortification"
+ FOCUS_FILTER_ICCOST_REDUCTION:0 "Build IC Cost Reduction"
+ FOCUS_FILTER_INFRASTRUCTURE:0 "Infrastructure"
  FOCUS_FILTER_INDUSTRY:0 "Industry"
  FOCUS_FILTER_STABILITY:0 "Stability"
  FOCUS_FILTER_WAR_SUPPORT:0 "War Support"
  FOCUS_FILTER_MANPOWER:0 "Manpower"
+ FOCUS_FILTER_FOREIGN_DIPLOMACY:0 "Foreign Diplomacy"
  FOCUS_FILTER_FRA_POLITICAL_VIOLENCE:0 "Political Violence"
  FOCUS_FILTER_FRA_OCCUPATION_COST:0 "Occupation Costs"
  FOCUS_FILTER_ANNEXATION:0 "Territorial Expansion"
@@ -20,19 +29,17 @@
  FOCUS_FILTER_TUR_KURDISTAN:0 "Kurdistan"
  FOCUS_FILTER_TUR_KEMALISM:0 "Kemalism"
  FOCUS_FILTER_TUR_TRADITIONALISM:0 "Traditionalism"
- FOCUS_FILTER_SOV_POLITICAL_PARANOIA:0 "Political Paranoia"
- FOCUS_FILTER_PROPAGANDA:0 "Propaganda"
- FOCUS_FILTER_ARMY_XP:0 "Experience: Army"
- FOCUS_FILTER_NAVY_XP:0 "Experience: Navy"
- FOCUS_FILTER_AIR_XP:0 "Experience: Air"
- #BBA filters
- FOCUS_FILTER_ITA_MISSIOLINI:0 "Mussolini's Missions"
- FOCUS_FILTER_BALANCE_OF_POWER:0 "Balance of Power"
- FOCUS_FILTER_SWI_MILITARY_READINESS:0 "Military Readiness"
- #AAT filters
- FOCUS_FILTER_POLITICAL_CHARACTER: "Political Character"
- FOCUS_FILTER_MILITARY_CHARACTER: "Military Character"
- FOCUS_FILTER_INTERNATIONAL_TRADE: "International Trade"
- FOCUS_FILTER_FOLKHEMMET: "Folkhemmet"
- FOCUS_FILTER_HISTORICAL: "Historical"
- FOCUS_FILTER_INNER_CIRCLE: "Inner Circle"
+ FOCUS_FILTER_TRACTORS:0 "Tractors"
+
+
+ FOCUS_OWNED_NEEDED: "Acquiring an §Yowned§! state will prioritize it over §Y[This.GetName]§!"
+ FOCUS_HOME_AREA_NEEDED: "Acquiring a §Yhome area§! state will prioritize it over §Y[This.GetName]§!"
+ 
+ FOCUS_DOCKYARD_COASTAL_NEEDED: "Acquiring a §Ycoastal§! state will have this focus add §Y[?add] $dockyard$§!"
+ FOCUS_ARMS_FACTORY_STATE_NEEDED: "Acquiring a §Ystate§! to have this focus add §Y[?add] $arms_factory$§!"
+ FOCUS_INDUSTRIAL_COMPLEX_STATE_NEEDED: "Acquiring a §Ystate§! will have this focus add §Y[?add] $industrial_complex$§!"
+ FOCUS_INFRASTRUCTURE_STATE_NEEDED: "Acquiring a §Ystate§! will have this focus add §Y[?add] $infrastructure$§!"
+ 
+ FOCUS_BUILDING_STATE_NEEDED: "Acquiring a §Ystate§! will have this focus add §Y[?add] [?building.GetTokenLocalizedKey]§!"
+ FOCUS_BUILDING_COASTAL_NEEDED: "Acquiring a §Ycoastal§! state will have this focus add §Y[?add] [?building.GetTokenLocalizedKey]§!"
+ 

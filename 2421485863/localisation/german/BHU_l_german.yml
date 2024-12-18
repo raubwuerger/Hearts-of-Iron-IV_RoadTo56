@@ -198,6 +198,8 @@
  BHU_land_redistribution_desc:0 "Die Leibeigenschaft hat das Land gestohlen, das unseren armen Bauern über Generationen hinweg gehörte! Wir können nicht weiterkommen, wenn die Bedürfnisse der Bauern und Arbeiter nicht vollständig erfüllt werden und der soziale Wohlstand nicht jeden Haushalt erreicht!"
  BHU_mobilization_of_the_masses:0 "Mobilisierung der Massen"
  BHU_mobilization_of_the_masses_desc:0 "Der Kommunismus selbst ist eine Ideologie und eine Geisteshaltung, die zuerst von den großen Marx und Engels gesehen und später von Lenin und Stalin in Russland verwirklicht wurde. Es ist daher nur logisch, dass eine Person, die wirklich an den Marxismus glaubt, eine Waffe in die Hand nimmt, um die gefährdeten Werte zu schützen, die wir alle teilen."
+ BHU_indoctrination_focus:0 "Indoktrination Schwerpunkt"
+ BHU_indoctrination_focus_desc:0 ""
  BHU_contact_chinese_communists:0 "Kontakt [PRC.GetNameDef]"
  BHU_contact_chinese_communists_desc:0 "Wir haben viele Gemeinsamkeiten mit den [PRC.GetAdjective], und eine davon ist die starke Opposition gegen nationalistische und kapitalistische Unterdrücker. [PRC.GetLeader] und seine Leute sind bekannt für ihre Fähigkeiten im Guerillakrieg und Partisanenaktivitäten im Rücken des Feindes. Vielleicht können einige von ihnen die Grenzpatrouillen von [TIB.GetAdjective] und [CHI.GetAdjective] umgehen, unser Land erreichen und unsere Kommandanten unterstützen?"
  BHU_contact_the_soviets:0 "Die [SOV.GetAdjective] Verbindung"
