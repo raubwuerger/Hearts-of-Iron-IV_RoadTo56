@@ -75,6 +75,7 @@
  industry_folder_desc:0 "Industrie und Produktion."
  electronics_folder:0 "Technik"
  electronics_folder_desc:0 "Technik, Radar, Verschlüsselung und fortgeschrittene Technologieforschung."
+ cat_fortification: "Festungsingenieur"
  secret_weapons_folder:0 "Geheimwaffen"
  secret_weapons_folder_desc:0 "Wunderwaffen, das Produkt der verrückten Wissenschaft."
  mobile_warfare:0 "Mobile Kriegsführung"

@@ -50,8 +50,13 @@
  HON_carlist_coup_desc:0 "Mit der Unterstützung unserer kürzlich eingetroffenen Karlisten könnten wir den Prätendenten zugunsten des rechtmäßigen Königs absetzen, lang lebe Xaver I.!"
  HON_fight_alongside_the_carlists:0 "Kämpfen Sie an der Seite der Karlisten"
  HON_carlist_volunteers:0 "Karlistische Freiwillige"
- ######### ""
+ 
+  ######## IDEAS ########
 
+ r56_HON_political_instability:0 "Politische Instabilität"
+ r56_HON_political_instability_desc:0 ""
+ r56_HON_indebted_to_the_west:0 "In der Schuld des Westens"
+ r56_HON_indebted_to_the_west_desc:0 ""
  HON_banana_republic:0 "Bananenrepublik"
  HON_banana_republic_desc:0 "[ROOT.GetNonIdeologyName] wird von der United Fruit Company beeinflusst, die einen großen Teil der Wirtschaft kontrolliert. Die [ROOT.GetAdjective]-Wirtschaft ist stark von Bananenexporten abhängig, und die Zuweisung von Ressourcen an andere Industrien wird schwierig sein."
  HON_better_banana_republic:0 "Bananenrepublik"
@@ -459,8 +464,8 @@ HON_eliminate_competition_desc:0 "Obwohl [RAJ.GetnameDef] einer der größten Ba
  hon.12.d:0 "Leider hat die [COS.GetAdjective]-Regierung unsere Forderungen abgelehnt. Wir werden diese feindliche Übernahme noch feindlicher gestalten müssen."
  hon.12.a:0 "Wir werden ihre Regierung zerstören, so wie wir Atlantic Fruit zerstört haben."
  hon.12.b:0 "Ich mache mir Sorgen über die Konsequenzen. Lassen Sie uns abwarten."
- hon.13.t:0 "Die United Fruit Company bietet an, Belize zu kaufen"
- hon.13.d:0 "Die United Fruit Company konsolidiert ihren Besitz in Mittelamerika und hat Interesse am Kauf von Belize gezeigt. Einer ihrer Entscheidungsträger ist mit einem Kaufangebot für Belize an uns herangetreten. Sie werden uns mehrere Konvois und alle Bananen geben, die wir essen können."
+ hon.13.t:0 "[ROOT.GetNameDefCap] Angebote zum Kauf von Belize
+ hon.13.d:0 "[ROOT.GetNameDefCap] konsolidiert seinen Besitz in Zentralamerika und hat Interesse am Kauf von Belize gezeigt. Einer ihrer Entscheidungsträger hat sich mit einem Kaufangebot für Belize an uns gewandt. Sie werden uns mehrere Konvois und so viele Bananen geben, wie wir essen können."
  hon.13.a:0 "Ein ausgezeichneter Vorschlag, denn unsere Kriegsanstrengungen könnten ein paar Bananenboote gebrauchen."
  hon.13.b:0 "Wir haben genug Schiffe, und Belize ist zu wertvoll, um es zu verkaufen."
  hon.14.t:0 "[ENG.GetNameDefCap] Akzeptiert"
@@ -758,3 +763,12 @@ HON_core_panama:0 "Panama eingliedern"
 HON_core_panama_desc:0 "Nachdem wir Panama in einem spontanen Krieg erobert haben, müssen wir es in unsere wachsende mittelamerikanische Nation integrieren.\n"
 honcorestuff_decisions:0 "Vereinheitlichung unserer neuen Nation"
 HON_assimilate_cuba:0 "Kuba assimilieren"
+
+ ###### TRAITS ######
+
+ HON_union_buster:0 "Union Buster"
+
+ ###### El Savaldor Stuff ######
+
+ r56_ELS_coffee_republic:0 "Kaffee-Republik"
+ r56_ELS_coffee_republic_desc:0 "Anfang des 19. Jahrhunderts wurde in El Salvador erstmals Kaffee für den Hausgebrauch angebaut. Jahrhunderts für den Hausgebrauch angebaut. Mitte des Jahrhunderts war sein kommerzielles Potenzial offensichtlich, und die Saat für die heutige "Kaffeerepublik", zu der sich El Salvador entwickeln sollte, wurde erstmals gesät. Der Kaffeehandel wurde im späten 19. Jahrhundert monopolisiert, was zu einer zunehmenden Ungleichheit zwischen der Arbeiterklasse und den Eliten, den so genannten "Vierzehn Familien", führte, die zu einem bestimmten Zeitpunkt fast 90 % des gesamten Grund und Bodens in El Salvador besaßen und damit großen Druck auf die Innen- und Außenpolitik des Landes ausübten. Noch vor vier Jahren schien die Lage aussichtslos zu sein: Die Bauern waren unzufrieden mit ihren niedrigen Löhnen und der sinkenden Lebensqualität, wofür sie die landbesitzenden Eliten verantwortlich machten. So begannen die Bauern im Januar 1932 einen Aufstand, der unter dem Namen "La Matanza" bekannt werden sollte. Obwohl dieser Aufstand vom Militärregime brutal niedergeschlagen wurde, lebt der Geist der Rebellion gegen die Eliten in den Herzen und Köpfen vieler Salvadorianer weiter..."

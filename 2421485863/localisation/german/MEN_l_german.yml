@@ -1,6 +1,10 @@
 ﻿l_german:
- Mengkukuo_focus:0 "Mengukou Nationaler Fokus"
-#characters ""
+ Mengkukuo_focus:0 "Mengkukuo National Focus"
+ MEN_GATHERING_STORM_DESC:0 "Als die Kriegstrommeln über den sanften Hügeln der Mandschurei verstummten, waren die imperialen Ambitionen Japans ein für alle Mal in Stein gemeißelt und bedrohten das zukünftige Überleben jedes chinesischen Staates. Jahrelange Konflikte und Kämpfe um Einfluss in der Inneren Mongolei haben Japans Griff nur noch fester werden lassen, wobei die Kwantung-Armee als Speerspitze des japanischen Einflusses fungierte.So herrschten jahrelang politische Anarchie und Unordnung in der Nation, was zu weitestgehend unpopulären Entscheidungen und politischer Unentschlossenheit führte ..."
+
+ ################### CHARACTERS ################### ""
+
+ MEN_ulanhu:0 "Ulaankhüü"
  MEN_li_shouxin:0 "Li Shouxin"
  MEN_altanochir:0 "Altanochir"
  MEN_hikojiro_muratani:0 "Hikojiro Muratani"
@@ -12,27 +16,641 @@
  MEN_nalan_kang_an:0 "Nalan Kang'an"
  MEN_songgotu_zhanshan:0 "Songgotu Zhanshan"
  MEN_yonimitsu_kasahara:0 "Yonimitsu Kasahara"
- MEN_altanochir:0 "Altanochir"
+ MEN_zhu_shifu:0 "Zhu Shifu"
+ MEN_unenbayal:0 "Ünenbayal"
+ MEN_lu_jingru:0 "Lu Jingru"
+ MEN_altan_ochir:0 "Altan-Ochir"
+ MEN_nuoligarzabu:0 "Nuoligarzabu"
+ MEN_basar_gadan:0 "Basar Gadan"
+ MEN_generic_head_of_intelligence:0 "Bai Guangying"
 
- ################################ FOCUSES #################################3 ""
- men_jap:0 "Mit den Japanern zusammenarbeiten"
- men_jap_desc:0 "Die Zusammenarbeit mit den Japanern ist im Moment vielleicht die beste Lösung. Die Zentralregierung ist schwach. Allerdings könnten wir in diesem Fall die Unterstützung unserer Regierung in den westlichen Ländern verlieren."
+ ################### ARMY ################### ""
 
- men_goverment:0 "Das Komitee stärken"
- men_goverment_desc:0 "Wir müssen die Regierung stärken, wenn wir effektiv regieren wollen."
+ MEN_an_independent_army:0 "Die Armee der Inneren Mongolei"
+ MEN_an_independent_army_desc:0 ""
+ MEN_rebuilding_our_army:0 "Wiederaufbau unserer Armee"
+ MEN_rebuilding_our_army_desc:0 ""
+ MEN_continue_the_ways_of_old:0 "Vermächtnis der acht Banner"
+ MEN_continue_the_ways_of_old_desc:0 ""
+ MEN_horses_of_steel:0 "Stahlpferde"
+ MEN_horses_of_steel_desc:0 ""
+ MEN_every_man_a_rifle:0 "Neue Waffen studieren"
+ MEN_every_man_a_rifle_desc:0 ""
+ MEN_forces_for_the_south:0 "Japanische Militärhilfe anfordern"
+ MEN_forces_for_the_south_desc:0 ""
+ MEN_japanese_military_advisors:0 "Zusammenarbeit mit der Kwantung"
+ MEN_japanese_military_advisors_desc:0 ""
+ MEN_breed_strong_horses:0 "Zucht starker Pferde"
+ MEN_breed_strong_horses_desc:0 ""
+ MEN_train_the_officers:0 "Ausbildung der Offiziere"
+ MEN_train_the_officers_desc:0 ""
+ MEN_modernize_our_artillery:0 "Modernisierung unserer Artillerie"
+ MEN_modernize_our_artillery_desc:0 ""
+ MEN_masters_of_the_steppe:0 "Meister der Steppe"
+ MEN_masters_of_the_steppe_desc:0 ""
+  ""
+ MEN_embrace_horses_of_steel:0 "Anpassung an das moderne Schlachtfeld"
+ MEN_embrace_horses_of_steel_desc:0 ""
+ MEN_understanding_blitzkreig_doctine:0 "Achtung, Kavallerie?"
+ MEN_understanding_blitzkreig_doctine_desc:0 ""
+ MEN_every_man_a_truck:0 "Das moderne mongolische Ross"
+ MEN_every_man_a_truck_desc:0 ""
+ MEN_motorization_of_the_army:0 "Motorisierung der Armee"
+ MEN_motorization_of_the_army_desc:0 ""
+ MEN_establish_tank_workshops:0 "Einrichtung von Panzerwerkstätten"
+ MEN_establish_tank_workshops_desc:0 ""
+ MEN_acquire_japanese_designs:0 "Erwerb japanischer Entwürfe"
+ MEN_acquire_japanese_designs_desc:0 ""
 
- men_own:0 "Alleine regieren"
- men_own_desc:0 "Die Japaner und die Zentralregierung haben viele Probleme. Es ist das Beste, wenn wir versuchen, es allein zu schaffen."
+ MEN_reorganize_the_command_chain:0 "Neuorganisation der Befehlskette der Armee"
+ MEN_reorganize_the_command_chain_desc:0 ""
+ MEN_integrate_the_grand_han_righteous_army:0 "Integration der Groß-Han-Armee der Gerechten"
+ MEN_integrate_the_grand_han_righteous_army_desc:0 ""
+ MEN_open_the_kalgan_military_academy:0 "Eröffnung der Militärakademie [MEN.Capital.GetCapitalVictoryPointName]"
+ MEN_open_the_kalgan_military_academy_desc:0 ""
 
- MEN_accept_chinese_suzerainty:0 "Chinesische Suzeränität akzeptieren"
- MEN_accept_chinese_suzerainty_desc:0 "Ein Bündnis mit [JAP.getName] wird die chinesischen Beamten verärgern und die Guerilla-Aktivitäten der kommunistischen Banditen, die unseren wehrlosen Staat überfallen, anheizen. Die Sicherung der chinesischen Herrschaft mag einigen Nationalisten des Landes widerstreben, doch ist sie das Einzige, was wir uns unter den derzeitigen Umständen leisten können."
+ ################### FASCIST - JAPANESE PATH ################### ""
 
- ################# EVENTS ############################3 ""
+ MEN_strengthen_ties_with_japan:0 "Die Staatsgründungskonferenz"
+ MEN_strengthen_ties_with_japan_desc:0 ""
 
- men.22.t:0 "[MEN.GetName] Gegründet"
- men.22.d:0 "Die [MEN.GetName] wurde von Demchugdongrub mit Hilfe der Japaner gegründet. Auch sie haben sich unserer Kontrolle entzogen. Verräter!"
- men.22.a:0 "Eine unangenehme Entwicklung"
+ MEN_the_state_founding_conference:0 "Die Militärregierung einsetzen"
+ MEN_the_state_founding_conference_desc:0 ""
 
- men.11.t:0 "[From.GetName] schließt sich uns an!"
- men.11.d:0 "Demchugdongrub hat der Gründung der [MEN.GetName] zugestimmt und [MEN.GetLeader] wurde zum Vorsitzenden ernannt. Sie sind nun loyal zu uns und haben sich von der [CHI.GetRulingParty] gelöst."
- men.11.a:0 "Dies wird die [CHI.GetRulingParty] stark schwächen!"
+ MEN_eradicate_communist_resistance:0 "Den kommunistischen Widerstand auslöschen"
+ MEN_eradicate_communist_resistance_desc:0 ""
+
+ MEN_sign_the_mutual_assistance_agreement:0 "Das Abkommen über gegenseitige Unterstützung unterzeichnen"
+ MEN_sign_the_mutual_assistance_agreement_desc:0 ""
+
+ MEN_prepare_the_western_front:0 "Die Westfront vorbereiten"
+ MEN_prepare_the_western_front_desc:0 ""
+
+ MEN_deal_with_the_bayannur_princes:0 "Einen Kompromiss mit den Bayannur-Prinzen schließen"
+ MEN_deal_with_the_bayannur_princes_desc:0 ""
+
+ MEN_strengthen_our_buddhist_identity:0 "Unsere buddhistische Identität stärken"
+ MEN_strengthen_our_buddhist_identity_desc:0 ""
+
+ MEN_servants_of_the_empire:0 "Diener des Imperiums"
+ MEN_servants_of_the_empire_desc:0 ""
+
+ MEN_covert_chinese_cooperation:0 "Verdeckte chinesische Zusammenarbeit"
+ MEN_covert_chinese_cooperation_desc:0 ""
+
+ MEN_eyes_behind_enemy_lines:0 "Augen hinter feindlichen Linien"
+ MEN_eyes_behind_enemy_lines_desc:0 ""
+
+ MEN_join_the_anti_japanese_struggle:0 "Sich dem Kampf gegen Japan anschließen"
+ MEN_join_the_anti_japanese_struggle_desc:0 ""
+
+ MEN_liberation_or_death:0 "Befreiung oder Tod!"
+ MEN_liberation_or_death_desc:0 ""
+
+ MEN_sabotage_the_kwantung:0 "Sabotage der Kwantungarmee"
+ MEN_sabotage_the_kwantung_desc:0 ""
+
+ MEN_loyalty_to_the_kwantung:0 "Loyalität gegenüber der Kwantungarmee"
+ MEN_loyalty_to_the_kwantung_desc:0 ""
+
+ MEN_promote_harmony_of_the_five_races:0 "Förderung der Harmonie der fünf Rassen"
+ MEN_promote_harmony_of_the_five_races_desc:0 ""
+
+ MEN_seak_independence:0 "Streben nach Unabhängigkeit"
+ MEN_seak_independence_desc:0 ""
+
+ MEN_the_spirit_of_genghis:0 "Der Geist von Dschingis"
+ MEN_the_spirit_of_genghis_desc:0 ""
+
+ MEN_realize_the_zenrin_kyokai:0 "Nutzung des Zenrin Kyokai"
+ MEN_realize_the_zenrin_kyokai_desc:0 ""
+
+ MEN_put_an_end_to_the_raids:0 "Die Suiyuan-Kampagne"
+ MEN_put_an_end_to_the_raids_desc:0 ""
+
+ MEN_accept_vassalization:0 "Akzeptanz der Vasallenschaft"
+ MEN_accept_vassalization_desc:0 ""
+
+ MEN_assign_chairmen:0 "Ernennung des Vorsitzenden Yondonwangchug"
+ MEN_assign_chairmen_desc:0 ""
+
+ MEN_help_strike_our_old_oppressers:0 "Vertreibt die Chinesen"
+ MEN_help_strike_our_old_oppressers_desc:0 ""
+
+ MEN_propse_the_formation_of_mengjiang:0 "Erklärt den Staat Menjiang"
+ MEN_propse_the_formation_of_mengjiang_desc:0 ""
+
+ MEN_reunite_our_people:0 "Vereinigt unser Volk"
+ MEN_reunite_our_people_desc:0 ""
+
+ MEN_request_mongol_territories:0 "Fordert mongolische Gebiete"
+ MEN_request_mongol_territories_desc:0 ""
+
+ MEN_our_place_under_the_red_sun:0 "Unser Platz unter der roten Sonne"
+ MEN_our_place_under_the_red_sun_desc:0 ""
+
+ ################### DEMOCRATIC PATH ################### ""
+
+ MEN_petition_nima-odsor_to_stay_in_shangbei:0 "Nachwirkungen des Kälgän-Zwischenfalls"
+ MEN_petition_nima-odsor_to_stay_in_shangbei_desc:0 ""
+
+ MEN_consolidate_national_rule:0 "Festigung der nationalen Herrschaft"
+ MEN_consolidate_national_rule_desc:0 ""
+
+ MEN_compromise_with_nanjing:0 "Kompromiss mit [CHI.Capital.GetCapitalVictoryPointName]"
+ MEN_compromise_with_nanjing_desc:0 ""
+  ""
+ MEN_root_out_japanese_loyality:0 "Bekämpfung des Einflusses der Kwantungarmee"
+ MEN_root_out_japanese_loyality_desc:0 ""
+
+ MEN_no_country_for_fascist_sympathisers:0 "Kein Platz für Verräter"
+ MEN_no_country_for_fascist_sympathisers_desc:0 ""
+
+ MEN_reform_rather_then_change:0 "Den Prinzen überzeugen"
+ MEN_reform_rather_then_change_desc:0 ""
+
+ MEN_reform_the_mongolian_council:0 "Reform des mongolischen Rates"
+ MEN_reform_the_mongolian_council_desc:0 ""
+
+ MEN_reinvite_the_chinese_military:0 "Erneute Einladung des chinesischen Militärs"
+ MEN_reinvite_the_chinese_military_desc:0 ""
+
+ MEN_tear_up_the_qin_doihara_agreement:0 "Zerreißen Sie das Qin-Doihara-Abkommen"
+ MEN_tear_up_the_qin_doihara_agreement_desc:0 ""
+
+ MEN_anti_japanese_stratagems:0 "Anti-[JAP.GetAdjektiv] Strategeme"
+ MEN_anti_japanese_stratagems_desc:0 ""
+
+ MEN_the_principle_of_democracy:0 "Gemeinsam gegen die Rote Sonne!"
+ MEN_the_principle_of_democracy_desc:0 ""
+
+ MEN_the_principle_of_nationalism:0 "Morgendämmerung in der Inneren Mongolei"
+ MEN_the_principle_of_nationalism_desc:0 ""
+
+ MEN_request_suiyuan_and_ordos:0 "Fordern Sie mongolische Gebiete"
+ MEN_request_suiyuan_and_ordos_desc:0 ""
+
+ MEN_down_with_the_colonizer:0 "Nieder mit dem Kolonialisten!"
+ MEN_down_with_the_colonizer_desc:0 ""
+
+ MEN_fortify_the_capital:0 "Verstärken Sie die Hauptstadt"
+ MEN_fortify_the_capital_desc:0 ""
+
+ MEN_work_with_the_communists:0 "Arbeiten Sie mit den Kommunisten zusammen"
+ MEN_work_with_the_communists_desc:0 ""
+
+ MEN_subdue_the_communist_threat:0 "Bändigen Sie die kommunistische Bedrohung"
+ MEN_subdue_the_communist_threat_desc:0 ""
+
+ MEN_embrace_the_new_life_movement:0 "Schließen Sie sich der New Life-Bewegung an"
+ MEN_embrace_the_new_life_movement_desc:0 ""
+
+ MEN_promote_confucian_principles:0 "Förderung konfuzianischer Prinzipien"
+ MEN_promote_confucian_principles_desc:0 ""
+
+ MEN_the_revival_of_the_spirit:0 "Unterstützung des nationalen Patriotismus"
+ MEN_the_revival_of_the_spirit_desc:0 ""
+
+ MEN_clean_the_cities:0 "Dem Herzen folgen"
+ MEN_clean_the_cities_desc:0 ""
+
+ MEN_request_chinese_investment:0 "Chinesische Investitionen anfordern"
+ MEN_request_chinese_investment_desc:0 ""
+
+ MEN_transition_into_the_third_phase:0 "Das Dang-Guo-System beenden"
+ MEN_transition_into_the_third_phase_desc:0 ""
+
+ MEN_invite_western_scholars:0 "Sino-mongolischer Technologieaustausch"
+ MEN_invite_western_scholars_desc:0 ""
+
+ MEN_steer_the_industry:0 "Die Industrie lenken"
+ MEN_steer_the_industry_desc:0 ""
+
+ MEN_request_mongol_territories_dem:0 "Mongolische Gebiete anfordern"
+ MEN_request_mongol_territories_dem_desc:0 ""
+
+ MEN_nationalism_democracy_welfare:0 "Nationalismus, Demokratie, Wohlstand"
+ MEN_nationalism_democracy_welfare_desc:0 ""
+
+ MEN_end_the_humiliation:0 "Die Demütigung beenden"
+ MEN_end_the_humiliation_desc:0 ""
+
+ MEN_greater_mongolian_reunification:0 "Wiedervereinigung der Großmongolei"
+ MEN_greater_mongolian_reunification_desc:0 ""
+
+ ################### COMMUNIST PATH ################### ""
+
+ MEN_radicalize_the_peasants:0 "Die Bauern radikalisieren"
+ MEN_radicalize_the_peasants_desc:0 ""
+  ""
+ MEN_reach_out_to_the_soviets:0 "An die Sowjets herantreten"
+ MEN_reach_out_to_the_soviets_desc:0 ""
+
+ MEN_contact_the_communists:0 "Die Kommunisten kontaktieren"
+ MEN_contact_the_communists_desc:0 ""
+
+ MEN_establish_peasant_militias:0 "Das Mengqi-Sicherheitskorps gründen"
+ MEN_establish_peasant_militias_desc:0 ""
+
+ MEN_the_second_bailingmiao_uprising:0 "Der zweite Bailingmiao-Aufstand"
+ MEN_the_second_bailingmiao_uprising_desc:0 ""
+
+ MEN_invite_ulanhu_from_mongolia:0 "Sich der Linie der Komintern anschließen"
+ MEN_invite_ulanhu_from_mongolia_desc:0 ""
+
+ MEN_favour_the_cooperationists:0 "Die Kooperationswilligen bevorzugen"
+ MEN_favour_the_cooperationists_desc:0 ""
+
+ MEN_request_soviet_industrial_aid:0 "Industrielle Hilfe [SOV.GetAdjektiv] anfordern"
+ MEN_request_soviet_industrial_aid_desc:0 ""
+  ""
+ MEN_stamp_out_fascist_sympathies:0 "Faschistische Sympathien ausmerzen"
+ MEN_stamp_out_fascist_sympathies_desc:0 ""
+
+ MEN_soviet_mongol_military_cooperation:0 "Sowjetisch-mongolische Militärkooperation"
+ MEN_soviet_mongol_military_cooperation_desc:0 ""
+
+ MEN_join_the_comintern:0 "Beitritt zur Komintern"
+ MEN_join_the_comintern_desc:0 ""
+
+ MEN_loyalty_to_the_maoists:0 "Loyalität gegenüber den Maoisten"
+ MEN_loyalty_to_the_maoists_desc:0 ""
+
+ MEN_joint_invasion_of_shx:0 "Gemeinsame Invasion von [SHX.GetName]"
+ MEN_joint_invasion_of_shx_desc:0 ""
+  ""
+ MEN_propose_mongol_unification:0 "Vorschlag zur mongolischen Vereinigung"
+ MEN_propose_mongol_unification_desc:0 ""
+
+ MEN_behead_the_cornered_fox:0 "Enthauptung des in die Enge getriebenen Fuchses"
+ MEN_behead_the_cornered_fox_desc:0 ""
+
+ MEN_fund_communists_in_kmt:0 "Unterwanderung der Kuomintang-Ränge"
+ MEN_fund_communists_in_kmt_desc:0 ""
+
+ MEN_focus_on_the_greater_threat:0 "Konzentration auf die größere Bedrohung"
+ MEN_focus_on_the_greater_threat_desc:0 ""
+
+ MEN_down_with_the_generalissimo:0 "Nieder mit dem Generalissimus"
+ MEN_down_with_the_generalissimo_desc:0 ""
+
+ MEN_integration_into_the_prc:0 "Integration in die Volksrepublik China"
+ MEN_integration_into_the_prc_desc:0 ""
+
+ MEN_form_the_inner_mongolia_autonomous_region:0 "Gründung der I.M.A.R."
+ MEN_form_the_inner_mongolia_autonomous_region_desc:0 ""
+
+ MEN_claim_the_greater_outer_mongolian_area:0 "Anspruch auf die Gebiete der Äußeren Mongolei"
+ MEN_claim_the_greater_outer_mongolian_area_desc:0 ""
+
+ MEN_ask_the_prc_to_return_our_lands:0 "Forderung nach den Gebieten der Äußeren Mongolei"
+ MEN_ask_the_prc_to_return_our_lands_desc:0 ""
+
+ MEN_reclaim_our_lands:0 "Eroberung mit Gewalt"
+ MEN_reclaim_our_lands_desc:0 ""
+
+ MEN_liberate_the_tuvans:0 "Befreiung der Tuvans"
+ MEN_liberate_the_tuvans_desc:0 ""
+
+ MEN_promote_chinese_unity:0 "Förderung der chinesischen Einheit"
+ MEN_promote_chinese_unity_desc:0 ""
+
+ MEN_prioritize_the_eastern_threat:0 "Priorisierung der östlichen Bedrohung"
+ MEN_prioritize_the_eastern_threat_desc:0 ""
+
+ MEN_pivot_to_the_west:0 "Schwenk nach Westen"
+ MEN_pivot_to_the_west_desc:0 ""
+
+ MEN_fortify_the_east:0 "Befestigung der östlichen Ebenen"
+ MEN_fortify_the_east_desc:0 ""
+
+ MEN_fortify_the_south:0 "Befestigung der südlichen Hügel"
+ MEN_fortify_the_south_desc:0 ""
+
+ MEN_swallow_the_rising_sun:0 "Die aufgehende Sonne verschlingen"
+ MEN_swallow_the_rising_sun_desc:0 ""
+
+ MEN_soviet_mongol_mutual_assistance:0 "Sowjetisch-mongolische gegenseitige Unterstützung"
+ MEN_soviet_mongol_mutual_assistance_desc:0 ""
+
+ MEN_cooperate_with_china:0 "Mit [CHI.Capital.GetCapitalVictoryPointName] kooperieren"
+ MEN_cooperate_with_china_desc:0 ""
+
+ MEN_nationalize_key_industry:0 "Schlüsselindustrien verstaatlichen"
+ MEN_nationalize_key_industry_desc:0 ""
+
+ MEN_integrate_the_chinese_into_the_army:0 "Die Chinesen in die Armee integrieren"
+ MEN_integrate_the_chinese_into_the_army_desc:0 ""
+
+ MEN_join_the_united_front:0 "Der Vereinigten Front beitreten"
+ MEN_join_the_united_front_desc:0 ""
+
+ MEN_beacon_of_resistance:0 "Leuchtfeuer des Widerstands"
+ MEN_beacon_of_resistance_desc:0 ""
+
+ MEN_the_honour_of_death:0 "Die Ehre des Todes"
+ MEN_the_honour_of_death_desc:0 ""
+
+ ################### INDUSTRY ################### ""
+
+ MEN_establish_the_bank_of_mengjiang:0 "Die Süd-Chahar-Bank integrieren"
+ MEN_establish_the_bank_of_mengjiang_desc:0 "Wenn wir die Banken innerhalb unserer Grenzen unter unsere Kontrolle bringen, erhalten wir weitaus größere finanzielle Freiheit."
+
+ MEN_fuel_for_the_war_machine:0 "Treibstoff für die Kriegsmaschinerie"
+ MEN_fuel_for_the_war_machine_desc:0 ""
+
+ MEN_japanese_backed_coal_plants:0 "Kohleförderung intensivieren"
+ MEN_japanese_backed_coal_plants_desc:0 ""
+
+ MEN_open_suiyuan_mining_facilitys:0 "Stahlindustrie stärken"
+ MEN_open_suiyuan_mining_facilitys_desc:0 ""
+
+ MEN_establish_the_daimo_koshi:0 "Dai-Mo Koshi etablieren"
+ MEN_establish_the_daimo_koshi_desc:0 ""
+
+ MEN_improve_regional_infastructure:0 "Regionale Infrastruktur verbessern"
+ MEN_improve_regional_infastructure_desc:0 ""
+
+ MEN_prioritize_industrialization:0 "Industrialisierung priorisieren"
+ MEN_prioritize_industrialization_desc:0 ""
+
+ MEN_trade_focus:0 "Unseren Handel monopolisieren"
+ MEN_trade_focus_desc:0 ""
+
+ MEN_mongol_industral_investment:0 "Mongolische Industrieinvestitionen"
+ MEN_mongol_industral_investment_desc:0 ""
+
+ MEN_from_steppes_into_factories:0 "Von der Steppe in die Fabriken"
+ MEN_from_steppes_into_factories_desc:0 ""
+
+ MEN_expand_chahar_arms_workshops:0 "Ausbau der Chahar-Waffenwerkstätten"
+ MEN_expand_chahar_arms_workshops_desc:0 ""
+
+ MEN_industrialization_achieved:0 "Industrialisierung erreicht"
+ MEN_industrialization_achieved_desc:0 ""
+
+ MEN_open_public_schools:0 "Eröffnung der Chahar-Jugendakademie"
+ MEN_open_public_schools_desc:0 ""
+
+ MEN_further_research_grants:0 "Weitere Forschungszuschüsse"
+ MEN_further_research_grants_desc:0 ""
+
+ MEN_exploit_suiyuan:0 "Nutzung der Ressourcen von Suiyuan"
+ MEN_exploit_suiyuan_desc:0 ""
+
+ MEN_suiyuan_industry:0 "Integration der Suiyuan-Werkstätten"
+ MEN_suiyuan_industry_desc:0 ""
+
+ ################### EVENTS ################### ""
+
+ men.10.t:0 "Das Treffen in Zhangbei"
+ men.10.d:0 "Während die Angst unter den Eliten wächst und die Japaner langsam vordringen, haben sich die Schlüsselfiguren des Mongolischen Autonomen Politischen Komitees und der Kuomintang, Nima-odsor, Ünenbayan, Serengdongrub und Demchugdongrub, in Zhangbei versammelt, um sich mit dem einflussreichen Jodbajab zu treffen. Die Spannungen waren groß, als sie die jüngsten Entwicklungen in der nördlichen Provinz Chahar besprachen. Mandschurische Truppen unter dem Kommando von Li Shouxin waren in die sechs Bezirke eingedrungen, die durch das Abkommen von Qin-Doihara entmilitarisiert worden waren, und brachten den fragilen Frieden in der Region ins Wanken. Jodbajab gab seine Antwort bekannt: die Entsendung von Kavalleriepolizisten zum Schutz der verwundbaren Nordgrenzen von Chahar. Da die japanische Armee jedoch immer weiter in den Norden Chinas und Mandschukuos vordrang, um ihren Einfluss zu vergrößern, herrschte bei dem Treffen eine Atmosphäre wachsender Unsicherheit. Jeder Anführer wusste, dass dieser jüngste Durchbruch der Beginn von etwas viel Größerem sein könnte, das die Fraktionen und Mächte der Region möglicherweise in einen unausweichlichen Konflikt ziehen würde ..."
+ men.10.a:0 "Als das Treffen zu Ende geht, bereiten sich alle Vertreter auf die Abreise vor, aber es ist unklar, was sie erwartet, da sie möglicherweise nie zurückkommen werden."
+ men.10.b:0 "Beenden Sie das Treffen, morgen ist ein neuer Tag."
+
+ men.11.t:0 ""
+ men.11.d:0 "Nima-Odsor ermordet"
+ men.11.a:0 "Eine Tragödie hat die zerbrechliche Clique in der Inneren Mongolei getroffen: Nima-odsor, ein Pro-Kuomintang-Nationalist und eine der Schlüsselfiguren, die sich für die Autonomie der Mongolei und den Widerstand gegen die Japaner einsetzten, wurde ermordet. Augenzeugenberichten zufolge haben die Japaner diesen brutalen Akt inszeniert, um die Führung der Region zu schwächen und jeglichen einheitlichen Widerstand gegen ihren wachsenden Einfluss zu unterbinden. Nima-odsors Tod löst in der Bewegung eine Welle des Schocks und der Angst aus. Verbündete fragen sich, wer als Nächstes ins Visier geraten könnte, während andere sich fragen, ob der Traum von einer unabhängigen und geeinten Mongolei in weite Ferne rückt. In diesen unsicheren Zeiten stehen viele vor einer schwierigen Entscheidung: Entweder sie stärken ihre Entschlossenheit und wehren sich gegen ausländische Einmischung oder sie riskieren, zu Werkzeugen eines fremden Imperiums zu werden."
+
+ men.12.t:0 ""
+ men.12.d:0 "Der Kälgän-Zwischenfall"
+ men.12.a:0 "Nach Abschluss der Sitzung in Zhangbei machte sich Nima-odsor auf den Rückweg nach Kälgän, um seine Regierungsgeschäfte wieder aufzunehmen. Um 8:45 Uhr bestieg er in Begleitung von zwei Wachen des örtlichen Sicherheitskorps einen Bus in Richtung Kälgän. Die Reise wurde jedoch abrupt unterbrochen, als zwei japanische Offiziere den Bus anhielten und um Einlass baten. Innerhalb weniger Sekunden brach ein Schusswechsel zwischen den mongolischen Wachen und den japanischen Offizieren aus. Einer der mongolischen Wachen gelang es, einen der Japaner zu verletzen, sodass sie sich zurückziehen und vom Tatort fliehen mussten. Es kursieren bereits Gerüchte, dass dies ein Anschlag auf Nima-odsor gewesen sein könnte, einen leidenschaftlichen Patrioten und antijapanischen Provokateur, der glücklicherweise unversehrt blieb."
+
+ men.13.t:0 ""
+ men.13.d:0 "Nachwirkungen des langen Winters"
+ men.13.a:0 "Der Winter 1936 war eine Zeit beispiellosen Leidens, eine unerbittliche Belagerung durch Eis und Schnee, die die Innere Mongolei und unser Volk in die Knie zwang. Fast drei Monate lang fielen die Temperaturen unter -30 °C und brachten das tägliche Leben zum Stillstand. Unser Volk, das bereits mit Entbehrungen zu kämpfen hatte, sah sich dem Hungertod gegenüber, da das Vieh verendete und die Weiden unfruchtbar wurden. Viele Dörfer, die durch dicke Schneewehen isoliert sind, sind weiterhin von lebenswichtigen Ressourcen abgeschnitten, und die Wirtschaft unseres Landes steht kurz vor dem Zusammenbruch.Mit dem Tauwetter wird das Ausmaß dieser Tortur deutlich. Ganze Gemeinden sind destabilisiert, die Autorität unserer Führung ist geschwächt und unsere Bevölkerung fürchtet sich vor dem, was vor uns liegt. Viele fordern nun einen klaren und entschlossenen Sanierungsplan, um ihr Überleben in den kommenden Monaten zu sichern. Einige fordern, dass wir uns nach innen wenden und unsere eigenen Ressourcen und Arbeitskräfte stärken, während andere glauben, dass wir Hilfe von ausländischen Mächten suchen müssen, um eine Zukunft zu sichern. In einem Punkt sind sich jedoch alle einig: Wenn die Innere Mongolei Bestand haben soll, müssen wir schnell handeln, um unsere zerrüttete Nation wieder aufzubauen!"
+
+ men.14.t:0 ""
+ men.14.d:0 "Der Schachzug der Inneren Mongolei"
+ men.14.a:0 "Während die Kwantung-Armee ihren Griff um Nordchina festigt, macht sich unter den Eliten der Inneren Mongolei Unruhe breit. Wichtige Persönlichkeiten des Mongolischen Autonomen Politischen Komitees, der Kuomintang und die lokalen Anführer Nima-odsor, Ünenbayan, Serengdongrub und Prinz Demchugdongrub sollen in nicht weniger als zwei Wochen in Zhangbei zusammenkommen, um mit dem einflussreichen Jodbajab über ihre zukünftigen Schritte zu beraten. Der jüngste Einfall mandschurischer Truppen unter Li Shouxin in die entmilitarisierten Bezirke der Provinz Chahar, der einen Verstoß gegen das Abkommen von Qin-Doihara darstellt, hat den ohnehin schon brüchigen Frieden in der Region erschüttert. Unter den Stimmen der Opposition hat sich Nima-odsor, ein prominenter mongolischer Nationalist und enger Verbündeter von Chiang Kai-shek, als führender Gegner der japanischen Interessen in der Inneren Mongolei herausgestellt. Nima-odsors Einfluss wächst und schürt antijapanische Gefühle, die unsere Pläne durchkreuzen könnten. Die Kwantung-Armee hat eine verdeckte Operation entwickelt, um ihn zum Schweigen zu bringen, und es fehlt nur noch ein letzter Befehl zum Handeln. Werden wir entschlossen handeln, um Japans Kontrolle über die Innere Mongolei zu sichern, oder werden wir Nima-odsor erlauben, seine Anhänger zu versammeln und die Kluft zwischen den mongolischen Eliten und unseren Streitkräften zu vertiefen?"
+ men.14.b:0 "Den Kaiser zu verärgern, ist ein sehr dummer Schachzug!"
+
+ men.15.t:0 ""
+ men.15.d:0 "Nima-Odsor ermordet"
+ men.15.a:0 "Nima-odsor, ein mongolischer Nationalist, der die Kuomintang unterstützt, und eine der Schlüsselfiguren, die sich für die Autonomie der Mongolei und den Widerstand gegen die Japaner einsetzt, wurde erfolgreich ermordet. Dem Oberkommando der Kwantung wurde berichtet, dass zwei Soldaten einen Bus anhielten und bestiegen, in dem Nima-odsor unterwegs war, in der Hoffnung, nach Kälgän zurückzukehren und dort seine Aufgaben wieder aufzunehmen, und ihn zweimal erschossen. Nima-odsors Tod löst in der gesamten Region eine Welle des Schocks und der Angst aus, was genau die Wirkung ist, die von der Kwantung erwartet wurde. Die Eliten der Inneren Mongolei fragen sich nun, wer als Nächstes ins Visier genommen werden könnte, während andere sich fragen, ob der Traum von einer unabhängigen und vereinten Mongolei in weite Ferne rückt. Vielleicht werden sie endlich erkennen, dass nur die uneingeschränkte Loyalität gegenüber [JAP.Capital.GetCapitalVictoryPointName] der einzige Weg ist, um ihre Köpfe zu retten ..."
+
+ men.16.t:0 ""
+ men.16.d:0 "Der Kälgän-Zwischenfall"
+ men.16.a:0 "Nach dem Ende des Treffens in Zhangbei machte sich Nima-odsor auf den Rückweg nach Kälgän, um seine Regierungsgeschäfte wieder aufzunehmen. Um 8:45 Uhr bestieg er in Begleitung von zwei Wachen des örtlichen Sicherheitskorps einen Bus in Richtung Kälgän. Die Reise wurde jedoch abrupt unterbrochen, als zwei japanische Offiziere, die von der Kwantung den Befehl erhalten hatten, Nima-odsor zu ermorden, den Bus anhielten und Einlass verlangten. Innerhalb weniger Sekunden brach ein Schusswechsel zwischen den mongolischen Wachen und den japanischen Offizieren aus. Einer der mongolischen Wachen gelang es, einen der Japaner zu verletzen, sodass sie sich zurückziehen und vom Tatort fliehen mussten. Es kursieren bereits Gerüchte über unsere Beteiligung an dem, was höchstwahrscheinlich ein Mordanschlag auf Nima-odsor war, einem leidenschaftlichen Patrioten und antijapanischen Provokateur. Leider blieb er unversehrt."
+ men.16.b:0 "Verdammt seien diese unfähigen Bastarde!"
+
+ men.17.t:0 ""
+ men.17.d:0 "[MEN.GetNameDefCap] fordert Kontrolle über [621.GetName] und [746.GetName]"
+ men.17.a:0 "Ein Antrag der [MEN.GetAdjektiv] Regierung soll heute bei den [ROOT.GetAdjektiv] Behörden in [MEN.Capital.GetCapitalVictoryPointName] eingegangen sein und anschließend nach [ROOT.Capital.GetCapitalVictoryPointName] telegrafiert worden sein. Diese Bitte beinhaltet die anschließende Übergabe der Kontrolle über die nördlichen Regionen von [621.GetName] und [746.GetName], zwei sehr wohlhabende und wirtschaftlich wichtige Provinzen, die unserer Wirtschaft sehr zugutegekommen sind. Es ist unklar, ob diese „Bitte“ zu einem Ultimatum werden könnte, wonach [MEN.GetAdjektiv] selbst in diese Regionen einmarschieren und sie besetzen würde, wenn sie keine Antwort von uns erhält ... Die Frage ist also, was wir in Bezug auf die Bitte tun sollen?"
+ men.17.b:0 "Aus Vorsicht müssen wir akzeptieren ..."
+
+ men.18.t:0 ""
+ men.18.d:0 "[FROM.GetNameDefCap] akzeptiert"
+ men.18.a:0 "Vor einigen Tagen ging bei den [FROM.GetAdjecitve]-Behörden in [MEN.Capital.GetCapitalVictoryPointName] ein Antrag der [MEN.GetAdjecitve]-Regierung ein, der anschließend per Telegramm an [FROM.Capital.GetCapitalVictoryPointName] weitergeleitet wurde. Nach sorgfältiger Überlegung haben die [FROM.GetAdjecitve]-Behörden schließlich beschlossen, dass es am besten ist, die Kontrolle über die Antragsgebiete aufzugeben, und haben sich daher dafür entschieden, dies zu tun und uns über ihre Entscheidung zu informieren."
+
+ men.19.t:0 ""
+ men.19.d:0 "[FROM.GetNameDefCap] Ablehnungen"
+ men.19.a:0 "Vor einigen Tagen ging bei den [FROM.GetAdjecitve]-Behörden ein Antrag der [MEN.GetAdjecitve]-Regierung ein, der anschließend per Telegramm an [FROM.Capital.GetCapitalVictoryPointName] weitergeleitet wurde. Nach sorgfältiger Überlegung haben die [FROM.GetAdjecitve]-Behörden schließlich beschlossen, die Kontrolle über die Antragsgebiete nicht aufzugeben, und haben uns daher über ihre Entscheidung informiert."
+
+ men.20.t:0 ""
+ men.20.d:0 "[MEN.GetNameDefCap] schlägt mongolische Wiedervereinigung vor"
+ men.20.a:0 "Da die Kommunisten nun die Verantwortung für [MEN.GetNameDefCap] tragen, hat [MEN.GetLeader], ein prominenter und hochrangiger Revolutionär, die Vereinigung der beiden Regierungen in [MEN.Capital.GetCapitalVictoryPointName] und [MON.Capital.GetCapitalVictoryPointName] vorgeschlagen. Viele sehen dies als einzigartige Gelegenheit, endlich einen Staat für alle Mongolen zu schaffen und endlich das zu erreichen, wonach viele unserer Landsleute streben und sich wünschen."
+ men.20.b:0 "Ein Volk, eine Nation!"
+
+ men.21.t:0 ""
+ men.21.d:0 "[FROM.GetNameDefCap] akzeptiert"
+ men.21.a:0 "Die [FROM.GetAdjektiv]-Behörden in [MON.Hauptstadt.Hauptstadt-Siegpunktname] haben beschlossen, unseren Vorschlag anzunehmen, und der Prozess der Integration der beiden Systeme in [MEN.Hauptstadt.Hauptstadt-Siegpunktname] und [MON.Hauptstadt.Hauptstadt-Siegpunktname] hat begonnen. Bald wird ein neuer Staat für alle Mongolen entstehen, entweder durch Blut oder durch Frieden!"
+
+ men.22.t:0 ""
+ men.22.d:0 "[FROM.GetNameDefCap] lehnt ab"
+ men.22.a:0 "Die [FROM.GetAdjektiv]-Behörden in [MON.Capital.GetCapitalVictoryPointName] haben sich entschieden, unseren Vorschlag abzulehnen, der Grund dafür ist jedoch nicht öffentlich bekannt. Viele spekulieren schnell, dass es zu einer Spaltung zwischen [MEN.Capital.GetCapitalVictoryPointName] und [MON.Capital.GetCapitalVictoryPointName] gekommen ist, sowohl politisch als auch wirtschaftlich, aber es ist nichts Sicheres bekannt ..."
+  "Was für ein Haufen Dummköpfe!"
+ men.23.t:0 ""
+ men.23.d:0 "[FROM.GetNameDefCap] fordert mongolische Gebiete"
+ men.23.a:0 "Die [FROM.GetAdjektiv]-Behörden in [MEN.Capital.GetCapitalVictoryPointName] haben uns um die Kontrolle über, wie sie es nennen, „mongolische Gebiete“ gebeten, was alle Gebiete umfassen würde, in denen wir uns derzeit in der Mongolei, in Nordchina oder in anderen von Mongolen bewohnten Gebieten befinden. Da die [FROM.GetAdjektiv] sowohl strategisch als auch militärisch und wirtschaftlich ein wertvoller Partner für unsere Regierung waren, sollten wir darüber beraten, ob wir sie mit der Erfüllung ihrer Wünsche belohnen sollten oder nicht."
+ men.23.b:0 "Gewiss, erfüllen Sie ihnen ihren Wunsch."
+
+ men.24.t:0 ""
+ men.24.d:0 "[FROM.GetNameDefCap] Akzeptiert"
+ men.24.a:0 "Die [FROM.GetAdjektiv]-Behörden in [JAP.Capital.GetCapitalVictoryPointName] haben sich entschieden, unseren Vorschlag anzunehmen, möglicherweise weil unsere Nation dem Kaiser treu ergeben war und Japan strategische, militärische und wirtschaftliche Unterstützung geleistet hat. Sie haben beschlossen, uns unseren Wunsch nach Vereinigung des mongolischen Volkes zu erfüllen!"
+
+ men.25.t:0 ""
+ men.25.d:0 "[FROM.GetNameDefCap] lehnt ab"
+ men.25.a:0 "Die [FROM.GetAdjektiv]-Behörden in [JAP.Capital.GetCapitalVictoryPointName] haben sich dafür entschieden, unseren Vorschlag abzulehnen, der Grund dafür ist jedoch nicht öffentlich bekannt. Viele spekulieren schnell, dass es zu einer Spaltung zwischen [MEN.Capital.GetCapitalVictoryPointName] und [JAP.Capital.GetCapitalVictoryPointName] gekommen ist, sowohl politisch als auch strategisch, aber es ist nichts Sicheres bekannt ..."
+
+ men.26.t:0 ""
+ men.26.d:0 "[SHX.GetAdjektiv] Truppen ziehen sich aus Suiyuan zurück"
+ men.26.a:0 "Unsere Streitkräfte haben in der Schlacht von Suiyuan ihre Überlegenheit unter Beweis gestellt. Wir haben den Feind abgewehrt und sind weiter vorgerückt, sodass die feindlichen Truppen die Flucht ergriffen und sich in Massen zurückzogen. Infolgedessen haben wir fast die gesamte Kontrolle über Suiyuan erlangt, konnten jedoch nicht weiter vorrücken. Es gibt auch viel, was wir aus diesen Scharmützeln lernen und an Informationen sammeln können!"
+
+ men.27.t:0 ""
+ men.27.d:0 "[ROOT.GetAdjektiv] Truppen ziehen sich aus Suiyuan zurück"
+ men.27.a:0 "Unsere Streitkräfte wurden in der Schlacht von Suiyuan dezimiert und besiegt. Wir haben viele feindliche Angriffe abgewehrt, aber ihr Angriff und ihre Moral waren in der Tat überlegen. Es gibt jedoch noch viel, was wir lernen können, und Informationen, die wir aus diesen Scharmützeln sammeln können ..."
+
+ men.28.t:0 ""
+ men.28.d:0 "Pattsituation bei Suiyuan"
+ men.28.a:0 "Unsere Streitkräfte konnten in der Schlacht von Suiyuan nicht vorrücken. Wir haben viele feindliche Angriffe abgewehrt, aber unsere Offensivkräfte und Moral waren nicht gut genug, um die feindlichen Linien zu durchbrechen. Es gibt jedoch noch viel, was wir lernen können, und Informationen, die wir aus diesen Scharmützeln sammeln können ..."
+
+ men.29.t:0 ""
+ men.29.d:0 "[MEN.GetAdjektiv] Streitkräfte ziehen sich aus Suiyuan zurück"
+ men.29.a:0 "Unsere Streitkräfte haben in der Schlacht von Suiyuan ihre Überlegenheit unter Beweis gestellt. Wir haben den Feind abgewehrt und sind weiter vorgerückt, sodass die feindlichen Streitkräfte die Flucht ergriffen und sich in Massen zurückzogen. Infolgedessen haben wir die Kontrolle über fast ganz Suiyuan behalten, konnten jedoch nicht weiter vorrücken. Es gibt auch viel, was wir aus diesen Gefechten lernen und an Informationen sammeln können!""
+
+ men.30.t:0 ""
+ men.30.d:0 "[ROOT.GetAdjektiv] Truppen ziehen sich aus Suiyuan zurück"
+ men.30.a:0 "Unsere Streitkräfte wurden in der Schlacht von Suiyuan dezimiert und besiegt. Wir haben viele feindliche Angriffe abgewehrt, aber ihr Angriff und ihre Moral waren in der Tat überlegen, sodass unsere Streitkräfte sich in Massen zurückziehen mussten und infolgedessen die Kontrolle über große Teile der Provinz Suiyuan verloren. Es gibt jedoch noch viel, was wir aus diesen Gefechten lernen und an Informationen sammeln können ..."
+
+ men.31.t:0 ""
+ men.31.d:0 "Pattsituation bei Suiyuan"
+ men.31.a:0 "Unsere Streitkräfte konnten in der Schlacht von Suiyuan nicht vorrücken. Wir haben viele feindliche Angriffe abgewehrt, aber unsere Offensivkräfte und Moral waren nicht gut genug, um die feindlichen Linien zu durchbrechen. Es gibt jedoch noch viel, was wir lernen können, und Informationen, die wir aus diesen Gefechten sammeln können ..."
+
+ men.32.t:0 ""
+ men.32.d:0 "Japan mobilisiert die Kwantung!"
+ men.32.a:0 "Unseren Regierungsstellen vorliegenden Berichten verschiedener Quellen zufolge hat Japan mit der Mobilisierung der Kwantung sowie anderer paramilitärischer Formationen in der Inneren Mongolei begonnen, darunter Li Shouxins 1. und 2. Kavalleriearmee und Wang Yings Große Han-Armee der Gerechten, die jegliche Kommunikation mit unserem Oberkommando in [MON.Hauptstadt.Hauptstadt-Siegpunktname] unterbrochen haben. Eine japanische Invasion scheint sich abzuzeichnen, wir müssen uns vorbereiten ..."
+
+ men.33.t:0 ""
+ men.33.d:0 "Industrialisierungspläne"
+ men.33.a:0 "Die jüngsten Pläne zur Industrialisierung, die unsere Nation von einer Agrarwirtschaft in eine Industrienation verwandeln sollen, sind vielversprechend. Sie folgen ähnlichen Fünfjahresplan-Programmen, die auch anderswo auf der Welt eingesetzt wurden. Da wir jedoch ein Land mit begrenzten Ressourcen sind, könnte eine zu lange Ablenkung von unseren Industrialisierungsplänen deren Wirksamkeit verringern und den Fortschritt verzögern. Wenn wir also unser Land zu einer Industrienation machen wollen, müssen wir uns voll und ganz dafür einsetzen."
+
+ ################### DECISIONS ################### ""
+
+ MEN_inner_mongolian_gambit:0 ""
+ MEN_inner_mongolian_gambit_desc:0 "Gambit der Inneren Mongolei"
+
+ MEN_imminent_japanese_invasion:0 ""
+
+ ################### IDEAS ################### ""
+
+ MEN_kwantungs_invisible_hand:0 ""
+ MEN_kwantungs_invisible_hand_desc:0 "Die unsichtbare Hand der Kwantungarmee"
+
+ MEN_mongol_raids:0 ""
+ MEN_mongol_raids_desc:0 "Mongolische Überfälle"
+
+ MEN_disorganized_military:0 ""
+ MEN_disorganized_military_desc:0 "Unorganisiertes Militär"
+
+ MEN_the_long_winter:0 ""
+ MEN_the_long_winter_desc:0 "Der lange Winter"
+
+ MEN_aftermath_of_the_long_winter:0 ""
+
+ MEN_fuel_for_the_war_machine_idea:0 ""
+ MEN_fuel_for_the_war_machine_idea_desc:0 "Treibstoff für die Kriegsmaschinerie"
+
+ MEN_rapid_industrialization:0 ""
+ MEN_rapid_industrialization_desc:0 "Rasche Industrialisierung"
+
+ MEN_rebuilding_the_disaster_of_suiyan:0 ""
+ MEN_rebuilding_the_disaster_of_suiyan_desc:0 "Lehren aus der Suiyuan-Kampagne"
+
+ MEN_the_bank_of_mengjiang:0 ""
+
+ MEN_the_joint_committee:0 ""
+ MEN_the_joint_committee_desc:0 "Gemeinsames [ROOT.GetAdjektiv] Komitee für Industrie"
+
+ MEN_an_independent_army:0 ""
+
+ MEN_continue_the_ways_of_old:0 ""
+
+ MEN_embrace_horses_of_steel:0 ""
+
+ MEN_japanese_advisors_idea:0 ""
+
+ MEN_strong_horse_breeds:0 ""
+
+ MEN_masters_of_the_steppe_idea:0 ""
+
+ MEN_modernized_equipment_production:0 ""
+
+ MEN_japanese_tank_designs:0 ""
+
+ MEN_growing_revolutionary_sentiment:0 ""
+
+ MEN_empowered_buddhists:0 ""
+
+ MEN_anti_japanese_intelligence:0 ""
+
+ MEN_caught_off_guard:0 ""
+
+ MEN_harmony_of_the_five_races:0 ""
+
+ MEN_the_three_principles:0 ""
+
+ MEN_nationalism_unity_independence:0 ""
+
+ MEN_cooperation_with_the_communists:0 ""
+
+ MEN_the_new_life_movement:0 ""
+
+ MEN_communist_peasant_millitas:0 ""
+
+ MEN_chinese_mongolian_military:0 ""
+
+ MEN_beacon_of_resistance_idea:0 ""
+
+ MEN_the_honour_of_death_idea:0 ""
+
+ MEN_funding_chinese_communists:0 ""
+
+ MEN_mongolian_funds_for_chinese_communists:0 ""
+
+ MEN_assist_in_the_great_patriotic_war:0 ""
+
+ MEN_anti_chinese_propaganda:0 ""
+
+ MEN_operation_chahar:0 ""
+
+ #generic renames - makes it looks like we put in effort lol. Replace with better names if you find any. ""
+ MEN_generic_industrial_concern:0 ""
+ MEN_generic_electronics_concern:0 "Ausschuss für Schwerindustrie"
+ MEN_generic_tank_organization:0 "Ausschuss für Elektrifizierung"
+
+ ################### Dynamic Modifiers ################### ""
+
+ r56_MEN_industry_ns:0 ""
+ r56_MEN_industry_ns_desc:0 "Unbedeutende nationale Industrie"
+ r56_MEN_industry_ns_1:0 "Die wenigen Industriezweige, die es in unserem Land gibt, wachsen nur langsam, da weder die [JAP.GetAdjektiv] noch die [CHI.GetAdjektiv] bereit sind, Kapital in den Aufbau der Fertigungsindustrie in unserem Land zu investieren. Dies liegt daran, dass sie hoffen, dass sich unsere Bevölkerung und Wirtschaft weiterhin hauptsächlich auf die Produktion von Rohstoffen und/oder landwirtschaftlichen Erzeugnissen konzentriert, die [JAP.GetAdjektiv] oder [CHI.GetAdjektiv] Verbraucher dann zu günstigen Preisen kaufen können, sodass der arme [ROOT.GetAdjektiv] Bauer mit nichts dasteht! Die Frage ist, wie lange die [ROOT.GetAdjektiv] Bevölkerung diese verdrehte wirtschaftliche Versklavung ertragen kann."
+ r56_MEN_industry_ns_1_desc:0 "[ROOT.GetAdjektiv] Industriesektor"
+
+ r56_MEN_industry_modify_tt:0 ""
+
+ ################### DECISIONS ################### ""
+
+ MEN_the_zhangbei_meeting:0 ""
+
+ ################### MISCELLANEOUS ################### ""
+
+ MEN_spirit_of_genghis:0 ""
+ MEN_anti_japanese_nationalist:0 "Geist von Dschingis"
+ MEN_militant_communist:0 "Anti-japanischer Nationalist"
+ MEN_seasoned_politician:0 "Militanter Kommunist"
+ MEN_guerilla_fighter:0 "Erfahrener Politiker"
+ MEN_khan:0 "Guerillakämpfer"
+ MEN_khan_of_khans:0 "Ein neuer Khan"
+ MEN_fascist_sympathies:0 "Der Khan der Khane"
+ MEN_fascist_sympathies_desc:0 "Faschistischer Sympathisant"
+ MEN_chinese_cooperation_proponent:0 "§LDieser Mann hat offen seine Unterstützung für faschistische Elemente zum Ausdruck gebracht, entweder durch seine Handlungen oder durch seine Worte.§!"
+ MEN_hidden_hand:0 "Befürworter der chinesischen Zusammenarbeit"
+
+ MEN_rapid_industrialization_timer_tt:0 ""
+ MEN_remove_industrialization:0 "[?MEN_rapid_industrialization_timer:days_left|Y0]"
+ MEN_unforseen_consequences:0 "Wird in [GetMenIndustrializationTimer] Tagen §Rendgültig entfernt§! werden, wenn kein [YIndustrial Focus] §Ybegonnen wird§!"
+ MEN_prevent_destabilization:0 "Dies könnte zu [YRunfroseen consequences] §Yführen§!"
+ MEN_nima_odsor_assassinated:0 "Wird die [YJapanese] daran §Yhindern§!, unsere [YRegierung] weiter zu [Rdestabillize§!]."
+ MEN_nima_odsor_not_assassinated:0 "Yima-odsor wurde ermordet!"
+ MEN_remove_mongol_raids:0 "Yima-odsors Ermordung wurde vereitelt!"
+ MEN_masters_of_the_steppe_tt:0 "Wird entfernt, sobald wir 3 Siege oder Unentschieden gegen mongolische Plünderer oder die Mongolei erzielen! Hat eine Meinung über uns von über oder gleich 60!"
+ MEN_create_han_army:0 "Ermöglicht §HSteppen-Kriegsführung§!:\n §HKavallerie§!:\n §HEbenen§!:\n Angriff: §G+10%§!\n Bewegung: §G+10%§!\n §HHügel§!:\n Angriff: §G+5%§!\n Bewegung: §G+5%§!"
+ MEN_suiyuan_ended:0 "Erstelle §Y2 Dà Hàn Zhìyuàn Lü§! Divisionen in §Y[THIS.GetName]§!."
+ MEN_effects_if_border_conflict_is_won:0 "Die §YSuiyuan-Kampagne§! ist beendet."
+ MEN_effects_if_border_conflict_is_lost:0 "\n§YAuswirkungen, wenn der Grenzkrieg gewonnen wird:§!"
+ MEN_every_mongol_state:0 "§YAuswirkungen, wenn der Grenzkrieg verloren wird:§!"
+ MEN_create_security_army:0 "§YJeder mongolische Kernstaat wird von den Japanern oder Mandschuren kontrolliert:§!"
+ MEN_effect_nima_odsor_assassination:0 "Erstelle eine §YMěngqì Ānbao Tuan-Division in §Y[THIS.GetName]§!."
+ MEN_effects_if_assassination_successful:0 "Wir werden §Yversuchen§!, §YNima-odsor§! zu §Rermorden§!"
+ MEN_effects_if_assassination_unsuccessful:0 "§YAuswirkungen, wenn das Attentat erfolgreich ist:§!"
+ r56_possible_event_effects:0 "§YAuswirkungen, wenn das Attentat nicht erfolgreich ist:§!"
+ r56_alternative_event_effects:0 "\nMögliche Belohnung(en) von §YEvent§!:"
+ MEN_invasion_countdown_start:0 "\nAlternative Belohnung(en) von §YEvent§!:"
+ r56_MEN_demilitarized_state:0 "Wir werden §Ymit den Vorbereitungen§! für eine §RInvasion§! der §YInneren Mongolei§! beginnen."
+ MEN_reinvite_chinese_army_tt:0 "Entmilitarisierter Staat"
+ MEN_upon_civil_war_start:0 "Erstelle eine §YDì 35 Jūn§!-Division in §Y[THIS.GetName]§!."
+ MEN_shared_struggle:0 "\nNach dem Beginn des §YBürgerkriegs§!:"
+ MEN_cannot_call_to_war:0 "Gemeinsamer Kampf"
+ r56_MEN_prioritize_industrialization_event_tt:0 "§RCannot join wars of [MEN.GetNonIdeologyName] due to them having a civil war§!"
+ MEN_rapid_industrialization_refresh_190_days_tt:0 "§YCompleting§! Industrial §YNational Focuses§! while we have the '§Y$MEN_rapid_industrialization$§!§W'§! §YNational Spirit§! will grant additional §YEffects.§!"
+ MEN_prioritize_industrialization_bonus_effect_tt:0 "'§Y$MEN_rapid_industrialization$§!§W'§! wird §Yerneuert§! für weitere §Y190§! Tage"

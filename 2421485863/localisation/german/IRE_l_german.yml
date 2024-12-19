@@ -13,14 +13,7 @@
  IRE_short_brothers:0 "Gebrüder Short"
  IRE_short_and_harland:0 "Kurz & Harland"
  IRE_harland_and_wolff_tanks:0 "Harland & Wolff"
- NIR_sirocco_works:0 "Sirocco Werke"
- NIR_frazer_and_haughton_factory:0 "Frazer & Haughton Fabrik"
- NIR_nicholson_and_bass_factory:0 "Nicholson & Bass Fabrik"
- NIR_stanley_motor_works:0 "Stanley Motorenwerke"
- NIR_miles_aircraft_company:0 "Miles Aircraft Company"
- NIR_antrim_torpedo_factory:0 "Antrim Torpedo Fabrik"
- NIR_antrim_torpedo_factory_aviation:0 "Antrim Torpedo-Fabrik"
-
+ 
  IRE_finna_fail:0 "Die Fianna Fail-Regierung"
  IRE_finna_fail_desc:0 "Nach dem Wahlsieg der Fianna Fail ist es an der Zeit, unsere Reformen einzuleiten."
  IRE_push_the_constituition:0 "Die Verfassung vorantreiben"

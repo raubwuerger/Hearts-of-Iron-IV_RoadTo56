@@ -1711,7 +1711,7 @@ ARG_legitimize_the_PCA: "Legitimieren Sie die PCA"
 ARG_legitimize_the_PCA_desc: "Die Partido Comunista de la Argentina ist die wichtigste kommunistische Partei in [ARG.GetNameDef]. Von Anfang an war die Partei an die Kommunistische Partei der Sowjetunion angelehnt, was oft zu Reibereien mit der übrigen Linken in [ARG.GetNameDef] führte. Doch jetzt, wo wir einen drastischen Wandel brauchen, um das berüchtigte Jahrzehnt zu beenden, ist es vielleicht an der Zeit, diese Partei in der [ARG.GetAdjective]-Regierung zu legitimieren."
 ARG_reach_out_to_the_soviet_union: "Reach Out to the [SOV.GetAdjective]'s"
 ARG_reach_out_to_the_soviet_union_desc: "Es ist kein Geheimnis, dass wir uns von unserer alten Regierungsform lösen und rasche Veränderungen einleiten müssen, um die Zukunft von [ARG.GetNameDef] zu gestalten. Da dies zu einer blutigen Revolution führen kann, sollten wir uns an eine Nation wenden, die diese Erfahrung bereits gemacht hat. Die Verbindung zu [SOV.GetNameDef] kann uns Hilfe sichern, wenn unser Aufstieg zur Macht mit unglücklicher, aber notwendiger Gewalt einhergeht."
-ARG_reach_out_to_the_soviet_union_tt: "Diese Ausrichtung wird die §YVanguardia Socialista§! Divisionsvorlage freischalten, wenn der §YBürgerkrieg§! ausbricht und wird §Yfünf§! Vanguardia Socialista Einheiten in §Y[955.GetName]§! rekrutieren."
+ARG_reach_out_to_the_soviet_union_tt: "Diese Ausrichtung wird die §YVanguardia Socialista§! Divisionsvorlage freischalten, wenn der §YBürgerkrieg§! ausbricht und wird §Yfünf§! Vanguardia Socialista Einheiten in §Y[1067.GetName]§! rekrutieren."
 ARG_unite_the_workers_of_argentina: "Vereint die ArbeiterInnen Argentiniens"
 ARG_unite_the_workers_of_argentina_desc: "Wenn wir [ARG.GetNameDef] zum Besseren verändern wollen, müssen wir das Proletariat unserer Nation davon überzeugen, dass radikale Verbesserungen notwendig sind, um ihr Leiden zu beenden. Lasst uns die Arbeiter aller Berufe vereinen und der Regierung zeigen, dass der Status quo beendet werden muss!"
 ARG_viva_la_revolucion: "Viva La Revolución"
@@ -2236,7 +2236,7 @@ URG_la_teja_refinery_desc: "Die Gründung einer modernen Ölraffinerie wird es u
 URG_revaluation_law: "Gesetz zur Neubewertung"
 URG_revaluation_law_desc: "Das Aufwertungsgesetz von 1935 muss weiter ausgebaut werden, da die Emissionsabteilung das gesamte Bankgeschäft monopolisiert."
 
-URG_brou: "BROU"
+URG_brou: "Banco de la República Oriental del Uruguay"
 URG_brou_desc: "Die Bank der Östlichen Republik Uruguay muss zusätzliche Aufgaben erhalten und einen Währungsfonds einrichten, um unsere Auslandsschulden zu tilgen. "
 
 URG_right_to_food_housing_and_health: "Recht auf Nahrung, Wohnung und Gesundheit"
@@ -2289,7 +2289,7 @@ URG_merge_falangist_movements_desc: "Mit Ausnahme des uruguayischen Revisionismu
  URG_food_for_the_warmachine: "Nahrung für die Kriegsmaschinerie"
  URG_food_for_the_warmachine_desc: "Da wir einen Großteil der landwirtschaftlichen Flächen unter unserer Kontrolle haben, können wir damit beginnen, Lebensmittel an unsere Verbündeten zu liefern und so unsere Macht auszubauen."
 
- URG_colorado_victory: "Wahlsieg in Colorado"
+ URG_colorado_victory: "Colorado sichert sich die Wiederwahl"
  URG_colorado_victory_desc: "Es bestand nie ein Zweifel daran, dass die Colorados weiterhin [URG.GetName] regieren würden."
 
  URG_terra_election: "Die Wahl von 1938 hat stattgefunden"
@@ -2349,7 +2349,7 @@ URG_anticentralism: "Antizentralismus"
 URG_anticentralism_desc: "Es ist klar, dass Bestrebungen, das Land um Montevideo herum zu zentralisieren, nicht plausibel sind. Es ist besser, die Werte der Landbevölkerung dort aufrechtzuerhalten, wo sie sind, und die der Stadtbevölkerung dort, wo sie sind, damit sich alle gemeinsam entfalten können."
 
 URG_legacy_of_batlle: "Das Erbe von Batlle"
-URG_legacy_of_batlle_desc: "Wie auch immer die Zukunft aussieht, es ist klar, dass die Colorado-Partei für immer mit dem Erbe von José Batlle y Ordóñez verbunden ist. Wir werden seine Idee der universellen sozialen Gerechtigkeit immer unterstützen."
+URG_legacy_of_batlle_desc: "Der Schatten der Präsidentschaft von José Batlle y Ordóñez liegt nach wie vor auf Uruguay und prägt sowohl die Innen- als auch die Außenpolitik des Landes. Als Architekt weitreichender sozialer und wirtschaftlicher Reformen legte Batlle den Grundstein für einen modernen Wohlfahrtsstaat und förderte eine Kultur des Progressivismus und der staatlichen Intervention. Sein Erbe ist jedoch nicht unumstritten. Während viele für seine Vision eines demokratischen und egalitären Uruguay eintreten, betrachten andere seine Politik als Quelle wirtschaftlicher Stagnation und politischer Instabilität..."
 
 URG_statism: "Statismus"
 URG_statism_desc: "Ein klarer und starker Staat mit zentraler Kontrolle über soziale und wirtschaftliche Angelegenheiten ist in diesen Zeiten ein Muss."

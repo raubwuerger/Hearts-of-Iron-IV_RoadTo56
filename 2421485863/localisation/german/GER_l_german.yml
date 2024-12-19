@@ -7,6 +7,7 @@
 #Characters
  GER_bernhard_rogge:0 "Bernhard Rogge"
  GER_heinrich_brandler:0 "Heinrich Brandler"
+ GER_helmuth_walter:0 "Helmuth Walter"
 
 #Company/MIO
  GER_deutsche_forschungsanstalt_fur_segelflug:0 "DFS"
@@ -486,12 +487,14 @@
  r56_GER_four_year_plan_upgrade:0 "Der Ewige Vierjahresplan"
  r56_GER_four_year_plan_desc:0 "§WDer Eintritt in einen§! §ROffensivkrieg§! §Wmit einer§! §YGroßmacht§! §Rbeseitigt§! §Wdiesen§! §Ynationalen Geist§!\n"
  GER_coerce_the_technocrats:0 "Die Technokraten unter Druck setzen"
- r56_GER_four_year_plan_upgrade_tt:0 "§Y$r56_GER_four_year_plan$ Nationaler Geist§! wird permanent und wird nicht mehr entfernt, wenn man in einen §Roffensiven Krieg eintritt.§!§W.§!"
+ r56_GER_four_year_plan_upgrade_tt:0 "§Y$r56_GER_four_year_plan$ Nationaler Geist§! wird permanent und wird nicht mehr entfernt, wenn man in einen §RRoffensiven Krieg eintritt.§!§W.§!"
  GER_coerce_the_technocrats_desc:0 "Viele Geschäftsleute und ihre Partner, die so genannte technokratische Klasse, hassen es, unter unserer derzeitigen Regierung Geschäfte zu machen und zu forschen. Diese potenzielle fünfte Kolonne muss vernichtet werden, bevor sie die Chance hat, uns von innen heraus zu zerstören. Die technokratische Klasse wird sich unserem Willen beugen und unsere Bemühungen um die Entwicklung unseres Landes unterstützen. Auf die eine oder andere Weise."
  r56_GER_coerce_the_technocrats_idea:0 "Gezwungene Technokraten"
  r56_GER_coerce_the_technocrats_idea_desc:0 "Die Klasse der Unternehmer und Technokraten wird sich unserem Willen beugen. Wir werden ihnen keine andere Wahl lassen!"
  GER_coerce_the_technocrats_tt:0 "Wenn der Fokus §Y$GER_institute_price_controls$§! is §YAbgeschlossen:§!"
- 
+ r56_GER_economic_uncertainty:0 "Wirtschaftliche Ungewissheit"
+ r56_GER_economic_uncertainty_desc:0 "Die Industriellen sind besorgt über die wirtschaftlichen Entscheidungen, die die Regierung zu treffen hat. Die Entscheidung, ob die MEFO-Regelung beibehalten oder zugunsten eines anderen Wachstumsprogramms gestrichen werden soll, würde die Ängste der Märkte in Bezug auf unsere Wirtschaft im In- und Ausland lindern."
+
  
 
  GER_enigma_machine0:0 "Enigma"

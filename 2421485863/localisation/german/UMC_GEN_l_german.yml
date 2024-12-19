@@ -314,19 +314,17 @@
  ABC_small_arms_research_desc:0 ""
 
  ABC_army_effort:0 "Einsatz der Armee"
- ABC_army_effort_desc:0 "Eine Armee muss kämpfen, und um zu kämpfen, muss sie auch geführt werden."
+ ABC_army_effort_desc:0 "Die Welt steht am Rande des Chaos, und am Horizont zeichnet sich erneut ein Krieg ab. Da die globalen Spannungen zunehmen, ist es von entscheidender Bedeutung, dass wir unsere Streitkräfte stärken und modernisieren, um den Anforderungen dieser neuen Ära gerecht zu werden. Nur durch Bereitschaft und Modernisierung können wir unsere Nation und unser Volk schützen!"
 
  ########################## Ideas ########################## ""
 
  ABC_establish_a_general_staff_idea:0 "Generalstab"
  ABC_establish_a_general_staff_idea_desc:0 ""
 
- ABC_establish_a_general_staff_idea_1:0 "Generalstab"
+ ABC_establish_a_general_staff_idea_1:0 "Gründliche militärische Pläne"
  ABC_establish_a_general_staff_idea_1_desc:0 ""
 
-
-
- ABC_establish_a_general_staff_idea_2:0 "Generalstab"
+ ABC_establish_a_general_staff_idea_2:0 "Schnelle Improvisationsplanung"
  ABC_establish_a_general_staff_idea_2_desc:0 ""
 
  ABC_establish_a_military_academy_idea:0 "Militärakademie"
@@ -417,10 +415,10 @@
 
  ########################## Events ########################## ""
 
- abc.1.t:0 "Die Philosophie des Generalstabs"
- abc.1.desc:0 "Jetzt, wo wir dabei sind, einen Generalstab einzurichten. Was sollte unsere Philosophie sein, wenn wir Schlachtpläne erstellen?"
- abc.1.a:0 "Uns Zeit lassen mit ihnen"
- abc.1.b:0 "Unsere Pläne schnell entwickeln"
+ abc.1.t:0 "Die Doktrin des Generalstabs"
+ abc.1.desc:0 "Jetzt, da wir dabei sind, einen Generalstab einzurichten, stehen wir vor zwei Möglichkeiten. Entweder wir entscheiden uns dafür, künftige Kriege zu planen und vorzubereiten, was zwar etwas länger dauert als die Alternative, uns aber in den Kriegswirren einen enormen Vorteil verschafft. Oder wir üben uns in schneller und zügiger Planung vor Ort und verbessern die Improvisationsfähigkeit unserer Streitkräfte, so dass wir viel schneller und entschlossener auf den Feind reagieren können. Die Frage ist, was davon passt am besten zur [ROOT.GetAdjective] Armee?"
+ abc.1.a:0 "Unsere militärischen Pläne müssen gut durchdacht sein, egal, wie viel Zeit sie kosten."
+ abc.1.b:0 "Die Reaktion auf den Feind muss schnell erfolgen, um katastrophale Folgen zu vermeiden!"
 
 
  ####--Technology Bonuses--####                #Apparently they are not showing up, which is a shame (hoped to show them if one looks at tech bonus before researching) #Fantom ""
@@ -452,3 +450,4 @@
 
  r56_generic_radar_idea:0 "Radar Programme"
 
+ r56_generic_jet_idea:0 "Strahlantrieb Programme"

@@ -246,12 +246,14 @@
  ITA_invite_andorra:0 "Laden Sie [ADR.GetNameDef]"
  ITA_invite_andorra_desc:0 "Wir werden unser iberisches Bündnis erweitern, indem wir [ADR.GetNameDef] in unsere Fraktion einladen."
  ITA_giannini_sarnow_protocols_ger:0 "Giannini-Sarnow-Protokolle"
+ #AOI ideas
  ITA_army_of_east_africa:0 "Armee von Africa Orientale Italiana"
  ITA_governor_commissariats:0 "Gouverneurskommissariate"
+ ITA_collaborators_in_the_hills:0 "Kollaborateure in den Bergen"
+ ITA_collaborators_in_the_hills_desc:0 "Viele wollen gegen die Besatzung kämpfen. Viele ethnische Minderheiten in [AOI.GETNAME] wollen nicht zum alten Regime zurückkehren. Es mag nicht ihre erste Wahl sein, aber die Unterwerfung unter [ITA.GETNAME] ist einer Rückkehr zur Herrschaft unter [ETH.GETNAMEDEF] vorzuziehen."
 
  soldier_king_2:0 "Soldatenkönig"
  umberto:0 "Umberto II."
-
 
  ITA_our_own_sphere:0 "Unsere eigene Sphäre"
  ITA_our_own_sphere_desc:0 " #//WIP"

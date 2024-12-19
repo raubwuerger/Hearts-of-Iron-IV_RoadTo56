@@ -405,6 +405,11 @@
  r56_usa.16.a:0 "Wir müssen sofort handeln!"
  r56_usa.16.b:0 "Das ist reine Angstmacherei."
 
+ r56_on_action_event.2.t:0 "[USA.GetNameDefCap] Ändert seine politischen Direktiven!"
+ r56_on_action_event.2.d:0 "Die Veränderungen in der politischen Landschaft von [USA.GetNameDef] haben zur Bildung eines neuen Regierungssystems geführt, das sich in der Innenpolitik stark von seinen Vorgängern unterscheidet und sich um die Beilegung sozialer Streitigkeiten und die Sicherung der Ordnung im neuen Staat bemüht. \Ihre Diplomaten haben bereits angekündigt, dass auch die außenpolitische Agenda des Staates [USA.GetAdjective] stark beeinträchtigt werden wird, einschließlich der Neuverhandlung früherer Wirtschaftsabkommen, der Revision von Verträgen und der Aufkündigung diplomatischer Bündnisse auf verschiedenen Machtebenen. \n\nDie Stimmen innerhalb unserer Verwaltung fragen sich ständig, ob [ROOT.GetLeader] die Meinung von [ROOT.GetHerHis] gegenüber [USA.GetNameDef] neu ausrichten könnte oder ob [ROOT.GetSheHe] sie lieber beibehalten wird, solange die Situation unklar bleibt?"
+ r56_on_action_event.2.a:0 "Wir werden unsere Haltung ihnen gegenüber aufgeben."
+ r56_on_action_event.2.b:0 "Sicherlich wird das neue Regime genauso freundlich sein wie sein Vorgänger..."
+
  #Vanilla Overrides ""
  USA_manifest_destiny_r56:0 "The New Manifest Destiny"
  USA_manifest_destiny_r56_desc:0 "Unser Land wurde durch die Politik der aggressiven Expansion unserer Nation groß. Es ist an der Zeit, dass wir zu dieser Politik zurückkehren."

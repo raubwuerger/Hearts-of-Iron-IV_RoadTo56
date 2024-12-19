@@ -134,11 +134,11 @@ r56.news_event.19.b:0 "Ein kühner Schachzug von Seiten Amerikas."
 r56.news_event.19.c:0 "Wie können sie es wagen, uns zu entführen, was wir rechtmäßig gestohlen haben!"
 
 #The Kashgar Islamic rebellion/SIK-TNG War ""
-r56.news_event.20.t:0 "Kashgar-Rebellion wird zum Regionalkonflikt"
-r56.news_event.20.d:0 "[SIK.getleader] ist gegen die zunehmend autonomer werdenden türkisch-muslimischen Milizen im Militärbezirk Kashgar innerhalb von [TNG.getname] vorgegangen. [TNG.getleader] scheint mehr als zufrieden damit zu sein, dass die türkisch-muslimischen Milizen pro-[SIK.getleader]-Fraktionen in Kashgar bewaffnen und angreifen. Die Aktionen von [SIK.getleader] richten sich gegen die Kontrolle von [TNG.getleader] und seiner eigenen 36. Division über die Region. Dies hat dazu geführt, dass die Rebellion schnell zu einem ausgewachsenen Konflikt zwischen [SIK.getnamedef] und [TNG.getname] eskaliert ist, da [TNG.getleader]-Kräfte den Rebellen schnell zu Hilfe gekommen sind.\n\n]Viele politische Pudits haben prognostiziert, dass der Gewinner dieses Konflikts der unangefochtene Herrscher der Region Xinjiang werden wird."
+r56.news_event.20.t:0 "Islamischer Aufstand der Uiguren in Xinjiang"
+r56.news_event.20.d:0 "Nachdem das Ende des Kumul-Aufstandes von 1934 keinen endgültigen Frieden in der vom Krieg zerrissenen Region Xinjiang gebracht hat, scheinen die Spannungen erneut einen Wendepunkt erreicht zu haben, da [SIK.Getleader] gegen die zunehmend autonomeren uigurisch-muslimischen Milizen in Kashgar vorgeht, wo der Einfluss von [SIK.Getleader] schon seit geraumer Zeit geschwunden war. Mit Hilfe umfangreicher [SOV.GetAdjective]-Unterstützung versucht [SIK.Getleader], sowohl die uigurischen Milizen im Süden als auch die chinesischen Hui-Warlords im Süden zu untergraben, d.h. [TNG.Getleader], der die 'Neue 36. Division' der Nationalen Revolutionsarmee Chinas anführt.\n\Nun kann man nur hoffen, dass die Spannungen und Konflikte das vom Krieg zerrissene Xinjiang zumindest für einige Zeit verlassen werden, wenn all dies zu Ende geht..."
 r56.news_event.20.a:0 "Ihr habt mich in die Zange genommen!"
 r56.news_event.20.b:0 "Ein bloßer Tausch von Bauern."
-r56.news_event.20.c:0 "Junge, das ist schnell eskaliert."
+r56.news_event.20.c:0 "Wo ziehen wir die Grenze..."
 
 #Franco-American fascist Faction ""
 
