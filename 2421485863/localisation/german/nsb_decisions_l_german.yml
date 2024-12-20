@@ -744,7 +744,7 @@
  SOV_navy_framejob:0 "Einen Admiral reinlegen"
  SOV_navy_framejob_desc:0 "Indem wir Gerüchte über Admirale in Umlauf bringen, die loyal zu [ROOT.GetLeader] sind, und einige gefälschte "Beweise" in die Hände des NKVD legen, sollten wir in der Lage sein, die Aufmerksamkeit für eine Weile von uns abzulenken. Wenn wir Glück haben, werden auch andere Marineangehörige durch die repressiven Maßnahmen verunsichert."
  SOV_navy_framejob_tt:0 "Ein Admiral wird wegen Hochverrats angeklagt werden."
- SOV_navy_framejob_cd_tt:0 "\nDiese Entscheidung wird in §Y[?SOV_navy_framejob_decision_re_enable_days_display] Tagen wieder verfügbar sein.]"
+ SOV_navy_framejob_cd_tt:0 "\nDiese Entscheidung wird in §Y[?SOV_navy_framejob_decision_re_enable_days_display] Tagen wieder verfügbar sein.§!"
 
  SOV_plan_start_of_uprising_archangelsk:1 "Richten Sie ein Geheimes Hauptquartier in [FROM.GetName] ein."
  SOV_plan_start_of_uprising_archangelsk_desc:1 "Die nördliche Region hat Zugang zu Häfen und liegt relativ nahe an Moskau, was sie zu einem guten Stützpunkt macht. Sie hat jedoch eine schlechte interne Infrastruktur und einen niedrigen Entwicklungsstand, so dass es schwierig sein wird, von hier aus einen Krieg zu führen, es sei denn, es wird etwas unternommen, um dies zu ändern."

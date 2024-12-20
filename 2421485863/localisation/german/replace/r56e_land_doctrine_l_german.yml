@@ -121,7 +121,7 @@ r56_pocket_defence_desc:0 "In einem Verteidigungsszenario besteht die Möglichke
 r56_last_stand:0 "Letztes Gefecht"
 r56_last_stand_desc:0 "Wenn alle Rückzugsmöglichkeiten erschöpft sind, muss man sich fest verschanzen und sich mutig der ultimativen Herausforderung stellen, indem man unerschütterlich seinen letzten Widerstand leistet."
 R56_BREAKOUT_LABEL:0 "BREAKOUT"
-R56_BREAKOUT_LABEL_TT:0 "§WWenn der Feind sich schließlich in unserer Verteidigung erschöpft hat, können wir einen Gegenangriff planen und ausbrechen."
+R56_BREAKOUT_LABEL_TT:0 "§WWenn der Feind sich schließlich in unserer Verteidigung erschöpft hat, können wir einen Gegenangriff planen und ausbrechen.§!"
 r56_breakout:0 "Ausbruch"
 r56_breakout_desc:0 "§WSobald der Feind seine Ressourcen und Energie verbraucht hat, können wir strategisch einen Gegenangriff planen und einen Ausbruch aus unserer befestigten Verteidigung durchführen.§!"
 r56_breakthrough_priority:0 "Priorität des Durchbruchs"

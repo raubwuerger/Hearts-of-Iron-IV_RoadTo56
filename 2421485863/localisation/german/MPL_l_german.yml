@@ -1058,7 +1058,7 @@
 
 
  MPL_mandate_resistance_category:0 "Stabilisierung des Mandats"
- MPL_mandate_resistance_category_desc:0 "Der derzeitige Aufstand darf nicht weitergehen. Wir müssen alle Rebellen niederschlagen und die Ordnung im Mandat wiederherstellen.\n\n\nDer aktuelle Ordnungsgrad ist [MPLOrderLevelColour].\n§RWenn der Ordnungsgrad 0 erreicht, werden wir von einer Revolution heimgesucht!"
+ MPL_mandate_resistance_category_desc:0 "Der derzeitige Aufstand darf nicht weitergehen. Wir müssen alle Rebellen niederschlagen und die Ordnung im Mandat wiederherstellen.\n\n\nDer aktuelle Ordnungsgrad ist [MPLOrderLevelColour].\n§RWenn der Ordnungsgrad 0 erreicht, werden wir von einer Revolution heimgesucht!§!"
  MPL_lower_strikes_1:0 "Befriedet die Streiks"
  MPL_lower_strikes_2:0 "Befriedet die Streiks"
  MPL_lower_strikes_3:0 "Befriedet die Streiks"

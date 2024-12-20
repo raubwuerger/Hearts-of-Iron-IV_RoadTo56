@@ -1537,7 +1537,7 @@
  ISR_if_vote_passes:0 "\n Wenn die Abstimmung angenommen wird:"
  ISR_education_reforms_vote:0 "Über das §YSchulpflichtgesetz§! wird in der Knesset abgestimmt."
  ISR_above_60_support:0 "Der Gesetzentwurf hat mehr als 61 Stimmen erhalten."
- ISR_save_pp_tt:0 "§n§OEs ist ratsam, bis zu 150 politische Kräfte zu sparen, bevor man eine Abstimmung einberuft, um sicher zu gehen, dass man genügend Unterstützung bekommt!§!"
+ ISR_save_pp_tt:0 "§YEs ist ratsam, bis zu 150 politische Kräfte zu sparen, bevor man eine Abstimmung einberuft, um sicher zu gehen, dass man genügend Unterstützung bekommt!§!"
 
  ISR_education_vote:0 "Das Schulpflichtgesetz"
 

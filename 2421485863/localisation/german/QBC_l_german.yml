@@ -966,7 +966,7 @@
  QBC_claims_USA:0 "§YErweitert Ansprüche auf neufranzösisches Land in Amerika§!"
  QBC_ontario_only:0 "Schaltet §YIntegriere Ontario§! Entscheidungen frei."
  QBC_declaration:0 "§YFügt Beschlüsse zur Integration beanspruchter amerikanischer Staaten§!"
- QBC_cores_yippie:0 "§YFügt Entscheidungen zur Integration von Seestaaten hinzu!"
+ QBC_cores_yippie:0 "§YFügt Entscheidungen zur Integration von Seestaaten hinzu!§!"
  QBC_unions_angy_libs:0 "Wenn die §YLiberale Partei§! die §Y[QBC.GetNameDef]§! führt, wird dieser Fokus §Yspäter§! zu §Yungünstigen Ergebnissen§! führen."
  QBC_soviet_support:0 "Die §Y[SOV.GetName]§! hat §Yzugestimmt§!, uns §Yzu unterstützen§!"
  QBC_steeltrade:0 "Schaltet die §YZementierung des Stahlhandels§! Entscheidungen frei."

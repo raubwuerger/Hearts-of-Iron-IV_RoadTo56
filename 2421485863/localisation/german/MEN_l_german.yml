@@ -436,7 +436,7 @@
 
  men.17.t:0 ""
  men.17.d:0 "[MEN.GetNameDefCap] fordert Kontrolle über [621.GetName] und [746.GetName]"
- men.17.a:0 "Ein Antrag der [MEN.GetAdjektiv] Regierung soll heute bei den [ROOT.GetAdjektiv] Behörden in [MEN.Capital.GetCapitalVictoryPointName] eingegangen sein und anschließend nach [ROOT.Capital.GetCapitalVictoryPointName] telegrafiert worden sein. Diese Bitte beinhaltet die anschließende Übergabe der Kontrolle über die nördlichen Regionen von [621.GetName] und [746.GetName], zwei sehr wohlhabende und wirtschaftlich wichtige Provinzen, die unserer Wirtschaft sehr zugutegekommen sind. Es ist unklar, ob diese „Bitte“ zu einem Ultimatum werden könnte, wonach [MEN.GetAdjektiv] selbst in diese Regionen einmarschieren und sie besetzen würde, wenn sie keine Antwort von uns erhält ... Die Frage ist also, was wir in Bezug auf die Bitte tun sollen?"
+ men.17.a:0 "Ein Antrag der [MEN.GetAdjektiv] Regierung soll heute bei den [ROOT.GetAdjektiv] Behörden in [MEN.Capital.GetCapitalVictoryPointName] eingegangen sein und anschließend nach [ROOT.Capital.GetCapitalVictoryPointName] telegrafiert worden sein. Diese Bitte beinhaltet die anschließende Übergabe der Kontrolle über die nördlichen Regionen von [621.GetName] und [746.GetName], zwei sehr wohlhabende und wirtschaftlich wichtige Provinzen, die unserer Wirtschaft sehr zugutegekommen sind. Es ist unklar, ob diese "Bitte" zu einem Ultimatum werden könnte, wonach [MEN.GetAdjektiv] selbst in diese Regionen einmarschieren und sie besetzen würde, wenn sie keine Antwort von uns erhält ... Die Frage ist also, was wir in Bezug auf die Bitte tun sollen?"
  men.17.b:0 "Aus Vorsicht müssen wir akzeptieren ..."
 
  men.18.t:0 ""
@@ -462,7 +462,7 @@
   "Was für ein Haufen Dummköpfe!"
  men.23.t:0 ""
  men.23.d:0 "[FROM.GetNameDefCap] fordert mongolische Gebiete"
- men.23.a:0 "Die [FROM.GetAdjektiv]-Behörden in [MEN.Capital.GetCapitalVictoryPointName] haben uns um die Kontrolle über, wie sie es nennen, „mongolische Gebiete“ gebeten, was alle Gebiete umfassen würde, in denen wir uns derzeit in der Mongolei, in Nordchina oder in anderen von Mongolen bewohnten Gebieten befinden. Da die [FROM.GetAdjektiv] sowohl strategisch als auch militärisch und wirtschaftlich ein wertvoller Partner für unsere Regierung waren, sollten wir darüber beraten, ob wir sie mit der Erfüllung ihrer Wünsche belohnen sollten oder nicht."
+ men.23.a:0 "Die [FROM.GetAdjektiv]-Behörden in [MEN.Capital.GetCapitalVictoryPointName] haben uns um die Kontrolle über, wie sie es nennen, "mongolische Gebiete" gebeten, was alle Gebiete umfassen würde, in denen wir uns derzeit in der Mongolei, in Nordchina oder in anderen von Mongolen bewohnten Gebieten befinden. Da die [FROM.GetAdjektiv] sowohl strategisch als auch militärisch und wirtschaftlich ein wertvoller Partner für unsere Regierung waren, sollten wir darüber beraten, ob wir sie mit der Erfüllung ihrer Wünsche belohnen sollten oder nicht."
  men.23.b:0 "Gewiss, erfüllen Sie ihnen ihren Wunsch."
 
  men.24.t:0 ""
@@ -487,7 +487,7 @@
 
  men.29.t:0 ""
  men.29.d:0 "[MEN.GetAdjektiv] Streitkräfte ziehen sich aus Suiyuan zurück"
- men.29.a:0 "Unsere Streitkräfte haben in der Schlacht von Suiyuan ihre Überlegenheit unter Beweis gestellt. Wir haben den Feind abgewehrt und sind weiter vorgerückt, sodass die feindlichen Streitkräfte die Flucht ergriffen und sich in Massen zurückzogen. Infolgedessen haben wir die Kontrolle über fast ganz Suiyuan behalten, konnten jedoch nicht weiter vorrücken. Es gibt auch viel, was wir aus diesen Gefechten lernen und an Informationen sammeln können!""
+ men.29.a:0 "Unsere Streitkräfte haben in der Schlacht von Suiyuan ihre Überlegenheit unter Beweis gestellt. Wir haben den Feind abgewehrt und sind weiter vorgerückt, sodass die feindlichen Streitkräfte die Flucht ergriffen und sich in Massen zurückzogen. Infolgedessen haben wir die Kontrolle über fast ganz Suiyuan behalten, konnten jedoch nicht weiter vorrücken. Es gibt auch viel, was wir aus diesen Gefechten lernen und an Informationen sammeln können!"
 
  men.30.t:0 ""
  men.30.d:0 "[ROOT.GetAdjektiv] Truppen ziehen sich aus Suiyuan zurück"

@@ -4,9 +4,9 @@
  # IDEAS # 
 
  CEL_pro_union_movement:0 "Pro-Union-Bewegung"
- CEL_pro_union_movement_desc:0 "Die Bevölkerung von [ROOT.GetNonIdeologyName] ist in der Frage der Souveränität von [ROOT.GetAdjective] weiterhin tief gespalten. Obwohl die Unabhängigkeit von [ENG.GetAdjective] erreicht wurde, befürwortet eine bedeutende Fraktion, eine Mehrheit der [ROOT.GetAdjective]-Wählerschaft, immer noch eine erneute Vereinigung und enge Zusammenarbeit mit unseren Nachbarn jenseits der Grenze. Dieses Gefühl hat zu einem Anstieg der politischen Spannungen geführt, da die Vision einer geeinten Zukunft mit [ENG.GetAdjective] mit den Bestrebungen der auf Unabhängigkeit bedachten Nationalisten kollidiert.
+ CEL_pro_union_movement_desc:0 "Die Bevölkerung von [ROOT.GetNonIdeologyName] ist in der Frage der Souveränität von [ROOT.GetAdjective] weiterhin tief gespalten. Obwohl die Unabhängigkeit von [ENG.GetAdjective] erreicht wurde, befürwortet eine bedeutende Fraktion, eine Mehrheit der [ROOT.GetAdjective]-Wählerschaft, immer noch eine erneute Vereinigung und enge Zusammenarbeit mit unseren Nachbarn jenseits der Grenze. Dieses Gefühl hat zu einem Anstieg der politischen Spannungen geführt, da die Vision einer geeinten Zukunft mit [ENG.GetAdjective] mit den Bestrebungen der auf Unabhängigkeit bedachten Nationalisten kollidiert."
 
-"
+
 
  CEL_pro_union_movement_remove:0 "Wird §GRemoved§! entweder wenn §Y[ROOT.GetNonIdeologyName]§! in §YFaction§! mit §Y[ENG.GetNameDef]§! steht, §Y[ROOT.GetNonIdeologyName]§! ein §YSubject§! von §Y[ENG.GetNameDef]§! ist oder §Y[ENG.GetNameDef]§! nicht §YExist§! ist."
  
@@ -200,7 +200,7 @@
  # Characters
 
  WLS_david_john_williams:0 "David John Williams"
- WLS_david_john_williams_desc:0 "David John Williams wurde 1885 geboren und wuchs auf einem kleinen Bauernhof in Abernant in der Nähe von Rhydcymerau auf. Im Jahr 1902 verließ er sein Elternhaus und arbeitete vier Jahre lang im südwalisischen Kohlenrevier. Schließlich nahm er sein Studium wieder auf und half 1925 bei der Gründung der Welsh National Party (besser bekannt als Plaid Cymru). Williams war auch ein berühmter Kurzgeschichtenautor, dessen Werke von seiner Vision einer eng verbundenen Gemeinschaft inspiriert sind, in der gemeinsame Werte allen einen Wert geben.
+ WLS_david_john_williams_desc:0 "David John Williams wurde 1885 geboren und wuchs auf einem kleinen Bauernhof in Abernant in der Nähe von Rhydcymerau auf. Im Jahr 1902 verließ er sein Elternhaus und arbeitete vier Jahre lang im südwalisischen Kohlenrevier. Schließlich nahm er sein Studium wieder auf und half 1925 bei der Gründung der Welsh National Party (besser bekannt als Plaid Cymru). Williams war auch ein berühmter Kurzgeschichtenautor, dessen Werke von seiner Vision einer eng verbundenen Gemeinschaft inspiriert sind, in der gemeinsame Werte allen einen Wert geben."
  WLS_saunders_lewis:0 "Saunders Lewis"
  WLS_lewis_valentine:0 "Lewis Valentine"
 

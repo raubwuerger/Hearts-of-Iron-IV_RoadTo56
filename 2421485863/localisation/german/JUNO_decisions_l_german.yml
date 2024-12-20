@@ -139,7 +139,7 @@
  CHL_protecting_mapuche_lands: "Schutz des indigenen Mapuche-Landes"
 
  CHL_grant_full_rights_to_the_mapuche: "Volle Rechte und Entschädigung für die Mapuche"
- CHL_grant_full_rights_to_the_mapuche_tt: "Der §YMapuche-Konflikt§! wird §Nicht länger relevant§! innerhalb unserer Nation sein"
+ CHL_grant_full_rights_to_the_mapuche_tt: "Der §YMapuche-Konflikt§! wird §YNicht länger relevant§! innerhalb unserer Nation sein"
 
  CHL_incorporate_mapuche_organizations: "Mapuche-Organisationen einbinden"
  CHL_incorporated_mapuche_organizations: "Eingegliederte Mapuche-Organisationen"
@@ -311,7 +311,7 @@
  JUNO_promote_immigration_in_state_GER: "Fördern Sie die Einwanderung von [GER.GetFlag]§Y[GER.GetName]§! nach §Y[FROM.GetName]§!"
  JUNO_promote_immigration_in_state_SPR: "Fördern Sie die Einwanderung von [SPR.GetFlag]§Y[SPR.GetName]§! nach §Y[FROM.GetName]§!"
  JUNO_promote_immigration_in_state_ENG: "Promote immigration from [ENG.GetFlag]§Y[ENG.GetName]§! to §Y[FROM.GetName]§!"
- JUNO_promote_immigration_in_state_tt: "§Sie können die Einwanderung aus jedem Land nur einmal fördern, und zwar für jeden Staat!"
+ JUNO_promote_immigration_in_state_tt: "§YSie können die Einwanderung aus jedem Land nur einmal fördern, und zwar für jeden Staat!§!"
  JUNO_promote_immigration_flag: "Kann Einwanderung nach [ROOT.GetFlag]§Y[ROOT.GetNameDefCap]§ fördern!"
  JUNO_promote_immigration_ongoing: "Derzeitige Förderung der Einwanderung"
  JUNO_immigration_promoted: "Geförderte Einwanderung nach Staat"
@@ -443,7 +443,7 @@
  ARG_military_owned_state_desc: "Dieser Staat ist bekannt dafür, dass er von rebellischen Militärzellen durchsetzt ist. Wenn wir zulassen, dass diese wachsen, wird das Risiko eines Putsches größer."
  ARG_sanction_the_generals: "Die Generäle sanktionieren"
  ARG_sanction_the_generals_tt: "Verlängert die Zeit bis zum versuchten Staatsstreich, so dass die rebellierenden Militärführer weniger Vorbereitungen treffen können."
- ARG_consolidating_power_tt: "§GDies wird das Militär verärgern und die Zeit bis zum Beginn des Putschversuchs verkürzen. "
+ ARG_consolidating_power_tt: "§GDies wird das Militär verärgern und die Zeit bis zum Beginn des Putschversuchs verkürzen.§!"
  ARG_increase_military_salaries: "Erhöhung der Militärgehälter"
  ARG_federal_intervention_tt: "Die Intervention der Föderation in einem Staat verhindert, dass dieser im Falle eines Staatsstreichs und eines anschließenden Bürgerkriegs von der Militärfraktion absorbiert wird."
  ARG_south_american_unity_decisions_tt: "Schaltet die Entscheidung §YSouth American Unity§! frei, die es uns ermöglicht, eroberte Gebiete in unsere Nation zu integrieren."
@@ -468,7 +468,7 @@
  ARG_osmar_hellmuth_event_tt: "Ermöglicht die Veranstaltung '§YDie Frage von Osmar Hellmuth§!', bei der wir wählen können, ob wir ihn befreien und als §YOperative§! anstellen oder ihn im Gefängnis lassen sollen."
 
  GUAY_laissez_faire_cat: "Laissez Faire"
- GUAY_laissez_faire_stats: "Die Grundbesitzer haben bisher gebaut:§n-§YCivilian Factory:§! §G[?built_a_civ]§!\n-§YMilitärische Fabrik:§! §G[?built_a_mil]§!\n§Y-Dockyard:§! §G[?built_a_dockyard]§!\n-§YInfrastructure§!:"
+ GUAY_laissez_faire_stats: "Die Grundbesitzer haben bisher gebaut:\n-§YCivilian Factory:§! §G[?built_a_civ]§!\n-§YMilitärische Fabrik:§! §G[?built_a_mil]§!\n§Y-Dockyard:§! §G[?built_a_dockyard]§!\n-§YInfrastructure§!:"
  GUAY_land_owners_finding_funding: "Die Grundstückseigentümer finden Finanzmittel und investieren in die Wirtschaft."
  GUAY_meet_with_SOV: "Treffen mit [SOV.GetNameDef]"
  GUAY_meet_with_JAP: "Treffen Sie sich mit [JAP.GetNameDef]"

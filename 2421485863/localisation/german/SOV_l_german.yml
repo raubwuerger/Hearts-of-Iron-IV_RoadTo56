@@ -92,7 +92,7 @@
  SOV_sing_katyusha_sing:0 "Sing Katjuscha Sing!"
  SOV_sing_katyusha_sing_focus:0 "Sing Katjuscha Sing!"
  SOV_sing_katyusha_sing_focus_desc:0 "Die Feinde von [ROOT.GetNameDef] werden bald ein Lied hören, das sie nie vergessen werden."
- manufacturer_applies_bonus_instantly_tooltip:0 "§CDieser Hersteller wirkt auch dann, wenn du die verstärkte(n) Einheit(en) bereits freigeschaltet hast."
+ manufacturer_applies_bonus_instantly_tooltip:0 "§CDieser Hersteller wirkt auch dann, wenn du die verstärkte(n) Einheit(en) bereits freigeschaltet hast.§!"
  SOV_mass_firearms_production:0 "Massenproduktion von Feuerwaffen"
  SOV_mass_firearms_production_desc:0 "Der Krieg erfordert ein Gewehr in der Hand eines jeden Soldaten. Unsere Industrie muss mobilisiert werden, um dieses Ziel zu erreichen."
  SOV_shocktroops:0 "Shocktroops"

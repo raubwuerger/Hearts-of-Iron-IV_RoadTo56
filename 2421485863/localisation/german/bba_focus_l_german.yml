@@ -1525,7 +1525,7 @@
  ITA_cooperatives_for_intensive_exploitation_tt:0 "§YCompliance Wachstum§!, §YLokale Versorgung§! und §YLokale Ressourcen§! werden in §Yjedem eigenen und kontrollierten Staat in Afrika, der Ressourcen erzeugt§!, erhöht."
  ITA_condemn_colonialism_tt:0 "§YJedes nicht-verbündete Land mit Kolonien in Afrika§! wird ein Ereignis erhalten, um seine Kolonien freizugeben oder die Konsequenzen lokaler Revolten zu erleiden."
  ITA_planned_economy_subjects_ns_tt:0 "§YJedes unterworfene Land§!:"
- ITA_the_italian_confederation_effects_tt:0 "Füge §G1§! Gebäude-Slot und §Y1 zivile Fabrik§! in seiner Hauptstadt hinzu. §nLand schließt sich §Y[ROOT.GetFlag][ROOT.GetAdjective] Faction§!."
+ ITA_the_italian_confederation_effects_tt:0 "Füge §G1§! Gebäude-Slot und §Y1 zivile Fabrik§! in seiner Hauptstadt hinzu. Land schließt sich §Y[ROOT.GetFlag][ROOT.GetAdjective] Faction§!."
  ITA_the_fight_overseas_re_tt:0 "$ITA_modify_regio_esercito_dynamic_modifier_ns_intro$ \n$MODIFIER_HEAT_ATTRITION_FACTOR$: §G-10.00%§! \n$MODIFIER_SUPPLY_CONSUMPTION_FACTOR$: §G-5.0%§! \n$MODIFIER_ACCLIMATIZATION_HOT_CLIMATE_GAIN_FACTOR$: §G+15.0%§! \n\n"
  ITA_the_fight_overseas_rm_tt:0 "$ITA_modify_regia_marina_dynamic_modifier_ns_intro$ \n$MODIFIER_NAVAL_INVASION_CAPACITY$: §G+10§! \n$MODIFIER_NAVAL_INVASION_PREPARATION_SPEED$: §G+15.0%§! \n\n"
  ITA_the_fight_overseas_bunkers_tt:0 "Füge §Y2 Landforts§! und §Y2 Küstenforts§! in jeder Provinz mit einer $naval_base$ oder $supply_node$ in einem vollständig kontrollierten afrikanischen Staat hinzu."

@@ -594,7 +594,7 @@
  EGY_darfur_region:0 "Darfur-Region"
  EGY_upper_nile_region:0 "Region Oberer Nil"
  EGY_sudanese_agitation:0 "[SUD.getAdjective] Aufruhr"
- EGY_sudanese_agitation_desc:0 "Die wachsende [SUD.GetAdjective]-Unzufriedenheit hat dazu geführt, dass immer mehr Menschen den Besatzern offen feindlich gegenüberstehen und bereit sind, gewaltsamere Schritte zu unternehmen, um die Unabhängigkeit von [SUD.GetAdjective] zu erlangen.§YVerwenden Sie Entscheidungen und Schwerpunkte, um gegen [SUD.GetAdjective]-Separatismus vorzugehen."
+ EGY_sudanese_agitation_desc:0 "Die wachsende [SUD.GetAdjective]-Unzufriedenheit hat dazu geführt, dass immer mehr Menschen den Besatzern offen feindlich gegenüberstehen und bereit sind, gewaltsamere Schritte zu unternehmen, um die Unabhängigkeit von [SUD.GetAdjective] zu erlangen.§YVerwenden Sie Entscheidungen und Schwerpunkte, um gegen [SUD.GetAdjective]-Separatismus vorzugehen.§!"
  EGY_decision_cost_command_power:0 "£command_power §Y15§!"
  EGY_decision_cost_command_power_blocked:0 "£command_power §R15§!"
  EGY_decision_cost_command_power_2:0 "£command_power §Y20§!"

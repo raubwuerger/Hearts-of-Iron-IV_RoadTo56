@@ -537,7 +537,7 @@
  CZE_doctrine_bonus_2_desc:0 "Waffen allein machen eine Armee nicht schlagkräftig, es bedarf auch einer wirksamen Doktrin. Das Militärtechnische Institut ist sich dessen wohl bewusst und hat mehrere Vorschläge unterbreitet."
  CZE_war_college:0 "Kriegsakademie"
  CZE_war_college_desc:0 "Die Kriegsschule gibt unserer Armee die gut ausgebildeten Führungskräfte, die sie zum Sieg führen können."
- CZE_war_college_effect_tt:0 "§YWenn Sie bereits über 5 Forschungsplätze verfügen, erhalten Sie keinen zusätzlichen Platz."
+ CZE_war_college_effect_tt:0 "§YWenn Sie bereits über 5 Forschungsplätze verfügen, erhalten Sie keinen zusätzlichen Platz.§!"
  CZE_military_aeronautical_institute:0 "Militär-Aeronautisches Institut"
  CZE_military_aeronautical_institute_desc:0 "Das Militärische Luftfahrtinstitut versorgt die tschechoslowakische Luftwaffe mit Forschungs- und Konstruktionsvorschlägen."
  CZE_import_foreign_fighters:0 "Import ausländischer Kampfflugzeuge"

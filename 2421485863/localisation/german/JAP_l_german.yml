@@ -421,7 +421,7 @@
  sfl.24.t:0 "[CHI.GetNameDefCap] Erklären Sie uns den Krieg!"
  sfl.24.d:0 "Die Chinesen haben ihren Waffenstillstand aufgekündigt und uns den Krieg erklärt!"
  sfl.24.a:0 "Hinterhältiger Abschaum!"
- sfl_cant_peace_with_axis_later:0 "§R Sie werden in Zukunft keinen separaten Frieden mit der Achse schließen können."
+ sfl_cant_peace_with_axis_later:0 "§R Sie werden in Zukunft keinen separaten Frieden mit der Achse schließen können.§!"
 
  sfl.25.t:0 "Besitz von Indochina"
  sfl.25.d:0 "Wie sollten wir in der Indochina-Frage handeln?"

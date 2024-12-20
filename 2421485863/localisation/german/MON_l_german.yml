@@ -551,7 +551,7 @@ MON_leftist_civil_war_tt:0 "Wenn §Rdie Stabilität niedriger als 40%§! ist ode
 MON_leftist_civil_war_tt_2:0 "[SOV.getAdjective] Einfluss ist geringer als 60"
 
 MON_great_terror_tt:0 "Die Troika wird beginnen, sich mit §YIntelligenzia§!, §YParteimitgliedern§! und §YLamas§! auseinanderzusetzen. §RJede Säuberung hat ihre eigene §RStrafe§! und die Anzahl der Säuberungen beeinflusst das Ausmaß der Wirkung der §Gkonsolidierten Macht§!."
-MON_great_terror_tt_2:0 "Wenn keine Säuberungen durchgeführt werden, wird Choilbalsan §Rseinen Einfluss in der Regierung und seine Loyalität in den Augen von [SOV.GetLeader] verlieren:"
+MON_great_terror_tt_2:0 "Wenn keine Säuberungen durchgeführt werden, wird Choilbalsan §Rseinen Einfluss§! in der Regierung und seine Loyalität in den Augen von [SOV.GetLeader] verlieren:"
 mongol.50_tt:0 "Er wird durch die Säuberung eine §RStrafe§! erhalten:"
 
 MON_rearmament_depending_on_choibalsan_status:0 "Wenn der Fokus §HErnennung eines sowjetischen Protegés§! abgeschlossen ist, erhält er §H3 Offmap-Militärfabriken§!, ansonsten §H1 Offmap-Militärfabrik§! und §H1 Offmap-Zivilfabrik§!! "

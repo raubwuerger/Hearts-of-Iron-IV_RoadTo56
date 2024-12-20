@@ -409,7 +409,7 @@
  advanced_radio: "Fortgeschrittenes Funkgerät"
  advanced_radio_desc: "Die Fortschritte in der Funktechnologie haben die Reichweite von Funkgeräten vergrößert und einige von ihnen sogar so klein gemacht, dass sie mitgeführt werden können. Manche nennen es das Walkie-Talkie"
  radio_detection:0 "Funkortung"
- radio_detection_sp_2_tt: "$coordination_bonus$: §G+2%§!\n$MODIFIER_STATIC_ANTI_AIR_HIT_CHANCE_FACTOR$: §G+20%§! 
+ radio_detection_sp_2_tt: "$coordination_bonus$: §G+2%§!\n$MODIFIER_STATIC_ANTI_AIR_HIT_CHANCE_FACTOR$: §G+20%§!"
  radio_detection_desc:0 "Die Entwicklung von RADAR (Radio Detection and Ranging) ermöglicht die Nutzung von Funkwellen zur Erkennung physischer Objekte. In Anbetracht der Auswirkungen, die diese Erfindungen auf die Ortung von Einheiten haben könnten, ist die Forschung sehr geheimnisvoll."
  radio_detection_unlock_tt: "Wird freigeschaltet durch den Abschluss der experimentellen Forschung §Y$sp_air_radar$§! in der §Y$land_facility$§!"
  cavity_magnatron: "Hohlraum-Magnatron"

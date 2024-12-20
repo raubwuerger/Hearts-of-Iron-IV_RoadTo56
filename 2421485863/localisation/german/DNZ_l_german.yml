@@ -17,7 +17,7 @@
  DNZ_sean_lester:0 "Sean Lester - Hoher Kommissar"
  DNZ_sean_lester_desc:0 "Sean Lester ist der Hochkommissar von Danzig. Er wurde 1934 vom Völkerbund in dieses Amt berufen. Er gerät immer wieder in Konflikt mit der lokalen Danziger Regierung und ihrer Politik. Der Versuch, ihn abzusetzen und durch einen neuen Hohen Kommissar zu ersetzen, der flexibler ist und im Einklang mit der Regierung von Danzig steht, sollte oberste Priorität haben."
  DNZ_reliance_on_militia:0 "Abhängigkeit von der Miliz"
- DNZ_reliance_on_militia_desc:0 "Der Status der Freien Stadt, die unter dem Schutz des Völkerbundes steht, verbietet es uns, irgendeine Form von Streitkräften zu haben. Die Ordnung innerhalb der Stadtgrenzen wird derzeit von der örtlichen Polizei aufrechterhalten, die auch als Schutzpolizei bekannt ist. \nDie Paramilitarisierung§Ydes Korps wird die Sicherheit der Stadt angesichts der Bedrohung durch [POL.getAdjective] oder [GER.getAdjective] gewährleisten."
+ DNZ_reliance_on_militia_desc:0 "Der Status der Freien Stadt, die unter dem Schutz des Völkerbundes steht, verbietet es uns, irgendeine Form von Streitkräften zu haben. Die Ordnung innerhalb der Stadtgrenzen wird derzeit von der örtlichen Polizei aufrechterhalten, die auch als Schutzpolizei bekannt ist. \nDie Paramilitarisierung§Ydes Korps wird die Sicherheit der Stadt angesichts der Bedrohung durch [POL.getAdjective] oder [GER.getAdjective] gewährleisten.§!"
  DNZ_maintain_infrastructure_idea:0 "Aufrechterhaltung unserer Infrastruktur"
  DNZ_carl_jacob_burckhardt:0 "Carl Burckhardt - Hoher Kommissar"
  DNZ_carl_jacob_burckhardt_desc:0 "Burkckhardt wird den Bedürfnissen Danzigs sehr viel entgegenkommender sein."
@@ -143,7 +143,7 @@
 
  DNZ_commissioner_removed:0 "Danzigs Kommissar ersetzt"
 
- POL_unlock_pressure_tt:0 "§Y Eine Voraussetzung für den Schwerpunkt 'Druck auf Danzig' wurde erfüllt"
+ POL_unlock_pressure_tt:0 "§Y Eine Voraussetzung für den Schwerpunkt 'Druck auf Danzig' wurde erfüllt§!"
 
  DNZ_GER_betrayal:0 "Deutscher Verrat"
 
