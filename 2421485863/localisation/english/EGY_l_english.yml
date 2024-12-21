@@ -1070,8 +1070,8 @@
  EGY_moderate_sudanese_separatism:0 "Moderate Sudanese Separatism"
  EGY_fierce_sudanese_separatism:0 "Fierce Sudanese Separatism"
 
- EGY_lower_sudanese_separatism_tt:0"§Glowers§! the §Y[SUD.GetAdjective] Separatism§! in the state"
- EGY_raise_sudanese_separatism_tt:0"§Rraises§! the §Y[SUD.GetAdjective] Separatism§! in the state"
+ EGY_lower_sudanese_separatism_tt:0	"§Glowers§! the §Y[SUD.GetAdjective] Separatism§! in the state"
+ EGY_raise_sudanese_separatism_tt:0	"§Rraises§! the §Y[SUD.GetAdjective] Separatism§! in the state"
  EGY_remove_sudanese_separatism_tt:0 "§GRemoves§! the §Y[SUD.GetAdjective] Separatism§! in the state"
 
  #custom
@@ -1202,7 +1202,7 @@
  EGY_RULE_OPTION_GOV_GENERAL:0 "Empower the Governor General"
  EGY_RULE_OPTION_GOV_GENERAL_AI_DESC:0 "Britain will be favoured in the Anglo-Egyptian conference, and the governor general will be empowered, potentially leading to a civil war in the nation."
  EGY_RULE_OPTION_NASSERIST:0 "Free Officer's Coup"
- EGY_RULE_OPTION_NASSERIST_AI_DESC:0" "Egypt will be favoured in the Anglo-Egyptian conference, and after gaining independence and the death of Faud I, the new king Farouk will be couped by the Free Officers led by Gamal Abdel Nasser."
+ EGY_RULE_OPTION_NASSERIST_AI_DESC:0	" "Egypt will be favoured in the Anglo-Egyptian conference, and after gaining independence and the death of Faud I, the new king Farouk will be couped by the Free Officers led by Gamal Abdel Nasser."
  EGY_RULE_OPTION_DEMOCRATIC:0 "The Mansoura Agreement"
  EGY_RULE_OPTION_DEMOCRATIC_AI_DESC:0 "Egypt will be favoured in the Anglo-Egyptian conference, and after gaining independence democratic and monarchist factions will compromise and establish a constitutional monarchy."
  EGY_RULE_OPTION_KHEDIVE:0 "Restoration of the Khedive"

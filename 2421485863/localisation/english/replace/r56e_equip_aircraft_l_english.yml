@@ -1181,7 +1181,7 @@ l_english:
 #-> Heavy maritime bomber <><>
  CZE_strat_maritime_equipment_1:0 "Aero Vodochody C-301.N"
  CZE_strat_maritime_equipment_1_short:0 "C-301.N"
- CZE_strat_maritime_equipment_2:0"Aero Vodochody C-508.N"
+ CZE_strat_maritime_equipment_2:0	"Aero Vodochody C-508.N"
  CZE_strat_maritime_equipment_2_short:0 "C-508.N"
  CZE_strat_maritime_equipment_3:0 "Aero Vodochody A-711.N"
  CZE_strat_maritime_equipment_3_short:0 "A-711.N"
@@ -1323,7 +1323,7 @@ l_english:
 #-> Heavy maritime bomber <><>
  SLO_strat_maritime_equipment_1:0 "Aero Vodochody C-301.N"
  SLO_strat_maritime_equipment_1_short:0 "C-301.N"
- SLO_strat_maritime_equipment_2:0"Aero Vodochody C-508.N"
+ SLO_strat_maritime_equipment_2:0	"Aero Vodochody C-508.N"
  SLO_strat_maritime_equipment_2_short:0 "C-508.N"
  SLO_strat_maritime_equipment_3:0 "Aero Vodochody A-711.N"
  SLO_strat_maritime_equipment_3_short:0 "A-711.N"
@@ -1464,7 +1464,7 @@ l_english:
 #-> Heavy maritime bomber <><>
  DOU_strat_maritime_equipment_1:0 "Aero Vodochody C-301.N"
  DOU_strat_maritime_equipment_1_short:0 "C-301.N"
- DOU_strat_maritime_equipment_2:0"Aero Vodochody C-508.N"
+ DOU_strat_maritime_equipment_2:0	"Aero Vodochody C-508.N"
  DOU_strat_maritime_equipment_2_short:0 "C-508.N"
  DOU_strat_maritime_equipment_3:0 "Aero Vodochody A-711.N"
  DOU_strat_maritime_equipment_3_short:0 "A-711.N"
@@ -1606,7 +1606,7 @@ l_english:
 #-> Heavy maritime bomber <><>
  RUT_strat_maritime_equipment_1:0 "Aero Vodochody C-301.N"
  RUT_strat_maritime_equipment_1_short:0 "C-301.N"
- RUT_strat_maritime_equipment_2:0"Aero Vodochody C-508.N"
+ RUT_strat_maritime_equipment_2:0	"Aero Vodochody C-508.N"
  RUT_strat_maritime_equipment_2_short:0 "C-508.N"
  RUT_strat_maritime_equipment_3:0 "Aero Vodochody A-711.N"
  RUT_strat_maritime_equipment_3_short:0 "A-711.N"

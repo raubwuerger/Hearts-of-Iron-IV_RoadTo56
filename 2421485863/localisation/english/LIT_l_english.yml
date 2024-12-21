@@ -620,7 +620,7 @@ LIT_mikas_gedgaudas:0 "Mikas Gedgaudas"
 LIT_nachmanas_dusanskis:0 "Nachmanas Dusanskis"
 lit_german_mercedes_mot:0 "Mercedes Benz"
 lit_german_engines_factory:0 "Daimler Benz Tank Division"
-LIT_local_militia:0"Local Militia"
+LIT_local_militia:0	"Local Militia"
 
 #Decisions
 LIT_mobilization_plans:0 "Mobilization Plans"
