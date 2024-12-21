@@ -295,8 +295,8 @@
  r56_AFG_bop_right:0 "Ambitious Modernization Program"
  r56_AFG_bop_left:0 "Gradual Reforms"
 
- AFG_decision_cost_army_experience:0 "£army_experience  §Y15§!"
- AFG_decision_cost_army_experience_blocked:0 "£army_experience  §R15§!"
+ AFG_decision_cost_army_experience:0 "£army_experience §Y15§!"
+ AFG_decision_cost_army_experience_blocked:0 "£army_experience §R15§!"
  AFG_decision_cost_army_experience_tooltip:0 "It costs £army_experience §H15§! to take the decision"
 
  AFG_reactivates_in_30_days:0 "\n§YReactivates in 30 days§!."

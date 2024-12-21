@@ -26,7 +26,7 @@
  AUS_viktor_seebauer:0 "Viktor Seebauer"
  AUS_lothar_rendulic:0 "Dr. Lothar Rendulic"
  AUS_ernst_kaltenbrunner:0 "Ernst Kaltenbrunner"
- AUS_alfred_jansa:0 "Alfred Jansa"  
+ AUS_alfred_jansa:0 "Alfred Jansa"
  AUS_eduard_freiherr:0 "Eduard Freiherr"
  AUS_franz_bohme:0 "Franz Böhme"
  AUS_eugen_beyer:0 "Eugen Beyer"
@@ -34,7 +34,7 @@
  AUS_leopold_figl:0 "Leopold Figl"
  AUS_wilhelm_miklas:0 "Wilhelm Miklas"
  AUS_gunther_adolf_burstyn:0 "Gunther Adolf Burstyn"
- 
+
  AUS_ernst_rudiger_starhemberg:0 "Ernst Rüdiger Starhemberg"
  AUS_ernst_rudiger_starhemberg_desc:0 "§LA commander of the Heimwehr and Schuschnigg's contender to be Dolfuss' successor, Ernst Rüdiger Starhemberg has been a bitter enemy of Schuschnigg ever since the formation of the Fatherland Front, doing his best to block any efforts Schuschnigg makes.§!"
  AUS_richard_steidle:0 "Richard Steidle"
@@ -299,7 +299,7 @@ AUS_establish_the_austrian_airforce_academy_desc:0 "Our fledgling airforce is de
 
  AUS_rearm_the_bundesheer:0 "Rearm the Bundesheer"
  AUS_rearm_the_bundesheer_desc:0 "The Austrian armed forces were hit hard by the treaty of Saint-Germain-en-Laye. But with [GER.GetLeader] preparing his forces, there has never been a better time to rearm whether we stand with or against him."
- 
+
  AUS_cement_the_jansa_plan:0 "Cement the Jansa Plan"
  AUS_cement_the_jansa_plan_desc:0 "Field Marshal Alfred Jansa has put forward a genius plan to defend against a German invasion. We must give him all the resources he needs to prepare."
 
@@ -308,16 +308,16 @@ AUS_establish_the_austrian_airforce_academy_desc:0 "Our fledgling airforce is de
 
  AUS_defence_focus:0 "Defensive Focus"
  AUS_defence_focus_desc:0 "Our nation is small. We must worry about holding the line before we think about attacking."
- 
+
  AUS_continue_choke_fortifications:0 "Continue Choke Point Fortifications"
  AUS_continue_choke_fortifications_desc:0 "Our nation has many choke points we can use while defending. We should fortify them to make them impenetrable."
- 
+
  AUS_home_defense:0 "[AUS.GetCapital.GetCapitalVictoryPointName] Air Defenses"
  AUS_home_defense_desc:0 "One must see that we cannot contest the enemy's air force in the skies. As such, we must build anti-air defenses on the ground to protect our city."
 
  AUS_artillery_modernization:0 "Artillery Modernization"
  AUS_artillery_modernization_desc:0 "Artillery has proven itself to be the king of modern warfare. We must make sure we do not lack behind in it's improvements."
- 
+
  AUS_artillery_supremacy:0 "The King of Battle"
  AUS_artillery_supremacy_desc:0 "Only by having superior artillery over the enemy can we rain down hell on their soldiers and come out victorious."
 
@@ -711,7 +711,7 @@ AUS_establish_the_austrian_airforce_academy_desc:0 "Our fledgling airforce is de
 
  AUS_bolster_defences:0 "Bolster National Defences"
  AUS_bolster_defences_desc:0 "Even with Italy protecting us, a German invasion is still not out of the question, and as such we must bolster our military to make sure we can hold our own."
-  
+
  AUS_crackdown_on_socialists:0 "Crack Down on Socialists"
  AUS_crackdown_on_socialists_desc:0 "We cannot allow socialist elements like the SDAPÖ to use this crisis to gain influence. They must be cracked down apon at once."
 
@@ -802,7 +802,7 @@ AUS_establish_the_austrian_airforce_academy_desc:0 "Our fledgling airforce is de
  AUS_forced_german_command_desc:0 "The question of the language is simple - High command will be exclusively be made up of German speakers, and the lower level units must be led by a commander that can speak both German and the language of the unit."
  AUS_split_army:0 "Linguistic Army Division"
  AUS_split_army_desc:0 "Our army should be divided in such a way that every division will be comprised of speakers of a certain language. That way, only the high level officers need to be able to speak German, greatly increasing our recruitment possibilities."
- 
+
  AUS_avenge_yugoslav_humiliation:0 "Avenge the Humiliation"
  AUS_avenge_yugoslav_humiliation_desc:0 "Serbia, the nation which assasinated our Archduke and caused the Great War to occur, was the one to take so much of our land away. We must avenge this humiliation!"
  AUS_transylvania_or_war:0 "Transylvania or War"
@@ -1026,11 +1026,11 @@ AUS_establish_the_austrian_airforce_academy_desc:0 "Our fledgling airforce is de
  AUS_heimwehr_remnants:0 "Heimwehr Remnants"
  AUS_heimwehr_remnants_desc:0 "Choosing not to integrate the Heimwehr before the civil war has destabilized our nation."
 
- 
+
 
  AUS_austria_is_german:0 "Austria is German"
  AUS_austria_is_german_desc:0 "No one can refute the undeniable fact that Austria is and always has been a German nation! Only together does our destiny lie!"
- 
+
  AUS_imperial_naval_academy:0 "Rijeka Naval Academy"
  AUS_imperial_naval_academy_desc:0 "The Rijeka Naval Academy will field the brightest and finest of naval officers."
  AUS_farmer_payments:0 "Farming Payments"
@@ -1764,7 +1764,7 @@ AUS_establish_the_austrian_airforce_academy_desc:0 "Our fledgling airforce is de
  austria.1127.t:0 "[YUG.GetNameDefCap] Refused Our Demands"
  austria.1127.d:0 "The upstart false-nation of [YUG.GetNameDef] seems to want to fight back against us. What other explanation could we have for so rude a refusal? We will have to take back what is ours."
  austria.1127.a:0 "Then it seems we have no choice."
- 
+
  austria.5006.t:0 "[AUS.GetNameDefCap] Proposes Liechtenstein Treaty"
  austria.5006.d:0 "Diplomats from [AUS.GetNameDef] have arrived with a proposal for a treaty. Its aim is clearly to expand its list of allies in the event of an armed conflict. With [GER.GetAdjective] expansionism on the rise and Europe seemingly moving towards another war, it may be wise to heed their words and seriously consider their offer."
  austria.5006.a:0 "Yes, we must seek allies in the event of another war in Europe."
