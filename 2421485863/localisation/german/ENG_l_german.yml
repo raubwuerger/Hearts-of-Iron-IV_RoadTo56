@@ -351,7 +351,8 @@
   r56_eng.17.b:0 "Leider war ihre Annahme richtig."
 
   r56_eng.18.t:0 "Zusammenbruch des britischen Empire" 
-  r56_eng.18.d:0 "Mit dem Fall Londons und der unvermeidlichen Kapitulation des britischen Festlandes haben die Regierung, das Militär und die königliche Familie des Vereinigten Königreichs beschlossen, das Festland zu verlassen. Obwohl der König in [ENG_commonwealth_successor.Capital.GetCapitalVictoryPointName] erklärt hat, dass das Empire bis zur Befreiung des Festlandes weiterkämpfen wird, sehen viele dies als das Ende des britischen Empire, wie wir es kennen." r56_eng.18.a:0 "Die Sonne ist endlich untergegangen."
+  r56_eng.18.d:0 "Mit dem Fall Londons und der unvermeidlichen Kapitulation des britischen Festlandes haben die Regierung, das Militär und die königliche Familie des Vereinigten Königreichs beschlossen, das Festland zu verlassen. Obwohl der König in [ENG_commonwealth_successor.Capital.GetCapitalVictoryPointName] erklärt hat, dass das Empire bis zur Befreiung des Festlandes weiterkämpfen wird, sehen viele dies als das Ende des britischen Empire, wie wir es kennen." 
+  r56_eng.18.a:0 "Die Sonne ist endlich untergegangen."
  
   ENG_collapse_of_the_empire_tt:0 "§YDie Regierung und die königliche Familie werden sich auf unser größtes Herrschaftsgebiet zurückziehen, wobei unsere überseeischen Gebiete und ein Teil unserer Armee und Marine von anderen Nationen unseres Imperiums übernommen werden, die die Unabhängigkeit erlangen werden§!" 
   ENG_got_territories_from_collapse:0 "§YWir werden die Kontrolle über benachbarte Gebiete des Imperiums übernehmen§!"
@@ -454,7 +455,8 @@
  newsmod.3.a:0 "Ein echter Wendepunkt in unserer Geschichte!"
  newsmod.3.b:0 "Wir heißen unsere britischen Freunde willkommen!"
  newsmod.3.c:0 "Wir sind damit nicht einverstanden!"
- newsmod.3.e:0 "Besorgniserregend." englandmod.1.t:0 "England Asks To Join Axis"
+ newsmod.3.e:0 "Besorgniserregend."
+ englandmod.1.t:0 "England Asks To Join Axis"
  englandmod.1.d:0 "Ein Vertreter von [ENG.GetName] ist soeben eingetroffen. [ENG.GetName] hat kürzlich eine starke ultranationalistische Bewegung erlebt und möchte sich dem Reich und der Achse anschließen, um die Zukunft der Welt zu lenken."
  englandmod.1.a:0 "Annehmen"
  englandmod.1.b:0 "Ablehnen."
