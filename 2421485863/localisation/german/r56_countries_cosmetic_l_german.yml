@@ -694,6 +694,8 @@
  CRO_YUG_neutrality_autonomy_colony_DEF:0 "die Banovina von Kroatien"
  CRO_YUG_neutrality_autonomy_puppet_DEF:1 "die Banovina von Kroatien"
  CRO_YUG_neutrality_autonomy_integrated_puppet_DEF:0 "die Banovina von Kroatien"
+ CRO_KINGDOM_democratic:0 "Königreich Kroatien"
+ CRO_KINGDOM_democratic_DEF:0 "das Königreich Kroatien"
 
  #CZE ""
  #Vlajka ""
@@ -1822,7 +1824,7 @@
  MAN_marshal_of_china:0 "Liga der chinesischen Provinzen"
  MAN_marshal_of_china_DEF:0 "der Bund der chinesischen Provinzen"
  MAN_empire_of_china:0 "Kaiserreich China"
- MAn_empire_of_china_DEF:0 "das Kaiserreich China"
+ MAN_empire_of_china_DEF:0 "das Kaiserreich China"
 
  #MEX ""
  #British Puppet ""

@@ -145,7 +145,13 @@
  RULE_OPTION_AUS_BAUER_AI_DESC:0 "In einem verzweifelten Versuch, Österreich vor dem drohenden Anschluss zu bewahren, sucht Kurt Schuschnigg bei den westlichen Verbündeten Schutz und hält eine Wahl ab, um sie zu beschwichtigen. Sein Komplott, die Wahlen zu manipulieren, wird jedoch aufgedeckt, was dazu führt, dass die SDAPÖ die Wahlen erdrutschartig gewinnt, während Otto Bauers linke Fraktion für eine gesamtdeutsche Vereinigung eintritt und eine konkurrierende Regierung mit dem letztendlichen Ziel der Vereinigung Deutschlands unter einer sozialistischen Regierung proklamiert." 
  
  
-  
+ RULE_OPTION_DEMOCRATIC_ARG:0 "Demokratisch"
+ RULE_OPTION_DEMOCRATIC_ARG_AI_DESC:0 "Das Land wird Verfassungsreformen durchführen und versuchen, sich langfristig einer demokratischen Fraktion anzuschließen."
+ RULE_OPTION_FASCIST_ARG_AI_DESC:0 "Die Faschisten werden den Staat reformieren und wahrscheinlich in Nachbarländer einmarschieren."
+ RULE_OPTION_COMMUNIST_ARG_AI_DESC:0 "Das Land wird die Kontakte zur UdSSR aufrechterhalten und sich in Richtung Kommunismus weiterentwickeln."
+ RULE_OPTION_NON_ALIGNED_HISTORICAL_ARG:0 "Historisch - Blockfrei"
+ RULE_OPTION_NON_ALIGNED_HISTORICAL_ARG_AI_DESC:0 "Die Junta hält sich an der Macht."
+
  
 
 

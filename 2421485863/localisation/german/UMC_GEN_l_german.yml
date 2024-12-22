@@ -30,6 +30,8 @@
  ABC_doctrine_effort:0 "Doktrin Anstrengung"
  ABC_equipment_effort:0 "Ausrüstung"
  ABC_equipment_effort_desc:0 "Die Grenzen der Ausrüstung, die die Infanterie tragen kann, werden ständig verschoben. Wir werden uns darauf konzentrieren, unseren Truppen die bestmögliche Ausrüstung zur Verfügung zu stellen."
+ ABC_infantry_camouflage:0 "Infanterie-Tarnung"
+ ABC_infantry_camouflage_desc:0 "Durch eine sorgfältige Auswahl des Uniformmaterials, das unsere Infanterieverbände verwenden, können wir ein höheres Maß an Unauffälligkeit erreichen. Diese Technik wird sich sicherlich in flachem und offenem Gelände als nützlich erweisen."
  ABC_equipment_effort_2:0 "Modernisierung unserer Kleinwaffen"
  ABC_equipment_effort_2_desc:0 "Wir werden unsere Bemühungen fortsetzen, um sicherzustellen, dass unsere Infanterie- und Unterstützungstruppen mit der bestmöglichen Ausrüstung unserer Zeit ausgestattet sind."
  ABC_mechanization_effort:0 "Mechanisierungsanstrengungen"

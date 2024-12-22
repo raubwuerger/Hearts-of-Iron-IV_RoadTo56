@@ -1,7 +1,11 @@
-﻿
- developed_rural:0 "Entwickelte ländliche Region #wusste nicht, wohin damit, also ist es erst einmal hier - Fantom"
+﻿#####---------------------------------------------------------------------> Mod by Sig "GreatExperiment" Altre
+
+l_german:
+ 
+ developed_rural:0 "Entwickelte ländliche Region"
 
  neutrality_acceptance:0 "Akzeptanz der autoritären Diplomatie"
+ steel_tech_research:0 "Stahltechnische Forschung"
  construction_tech_research:0 "Geschwindigkeit der Bauforschung"
  naval_armor_tech_research:0 "Marinepanzerung Forschungsgeschwindigkeit"
  naval_gunnery_tech_research:0 "Marinegeschütz Forschungsgeschwindigkeit"
@@ -110,6 +114,8 @@
  # BUILDINGS Repair #
  modifier_repair_speed_bunker_factor:0 "Reparaturgeschwindigkeit für Landforts"
  modifier_repair_speed_supply_node_factor:0 "Reparaturgeschwindigkeit des Versorgungszentrums"
+ modifier_repair_speed_air_base_factor:0 "$air_base$ Reparatur-Geschwindigkeit"
+ modifier_state_repair_speed_arms_factory_factor:0 "§Y$arms_factory$§! Reparaturgeschwindigkeit in Provinz"
 
  # Hidden Ideas #
  r56_idea_small_nation_buildup_nerf:0 "Kleine Wirtschaft #lokalisiert für den Fall, dass ein Spieler den Modifikator sieht"
