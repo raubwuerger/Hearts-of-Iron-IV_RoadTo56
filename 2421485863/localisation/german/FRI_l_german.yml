@@ -5,7 +5,7 @@
  r56_FRI_nationist_uprising_2_desc:0 "Seit der Meuterei von Yen Bai sind die vietnamesischen Unabhängigkeitsbewegungen militanter und kämpferischer geworden. Es scheint, dass ein zweiter Aufstand nur noch eine Frage des "Wann" und nicht des "Ob" ist."
  r56_FRI_strikes:0 "Drohende Arbeiterstreiks"
  r56_FRI_strikes_happened:0 "§WDie §! §Y'1936 Streiks'§! §Whaben stattgefunden.§!"
- FRI_the_second_yen_bai_mutiny_2_tt:0 "§WEntferne §Ydie verbleibenden§!§W Tage aus der Mission§! §YVietnamesischer Aufstand§!"
+ FRI_the_second_yen_bai_mutiny_2_tt:0 "§WEntferne§! §Ydie verbleibenden§!§W Tage aus der Mission§! §YVietnamesischer Aufstand§!"
 
 
  FRI_fascism_party:0 "Cuong De's Faction"
@@ -50,7 +50,7 @@
  FRI_tran_trong_kim:0 "Tran Trong Kim"
 
  FRI_colonial_army:0 "Koloniale Armee"
- FRI_growing_vietnamese_nationalism_tt:0 "\nDie Angst vor Aufständen unter den Kolonialbeamten hält uns davon ab, unsere Anfangsarmee aufzulösen§!"
+ FRI_growing_vietnamese_nationalism_tt:0 "\nDie Angst vor Aufständen unter den Kolonialbeamten hält uns davon ab, unsere Anfangsarmee §Yaufzulösen§!"
  FRI_colonial_army_desc:0 "Trotz der Rekrutierung einiger Einheimischer, insbesondere bei den Indochinesischen Plänklern, bleibt [FRI.GetNameDef] für seine Verteidigung weitgehend abhängig von [FRA.GetNameDef]. Die lokale Wehrpflicht ist aufgrund des kolonialen Charakters der Verwaltung sowie des geringen Mobilisierungspotenzials relativ gering, da ein Großteil der Bevölkerung aus Bauern besteht."
  FRI_illiteracy:0 "Analphabetismus"
  FRI_illiteracy_desc:0 "Seit dem Beginn der französischen Präsenz in Indochina wurden erhebliche Anstrengungen unternommen, um den Zugang zur Bildung zu verbessern. Im Jahr 1907 wurde die Universität von Hanoi gegründet, und ab 1917 wurde in allen französischsprachigen Schulen Französisch unterrichtet. Trotz alledem sind nach wie vor mehr als 80 % der Bevölkerung Analphabeten, vor allem in Laos und Kambodscha, wo die Bildungsanstrengungen viel geringer waren und es keine weiterführenden Schulen gibt."
@@ -126,7 +126,7 @@
 
  arm_caodaists_militias:0 "Caodaistische Milizen bewaffnen"
  arm_caodaists_militias_desc:0 "Der Caodaismus ist eine 1926 in Cochinchina entstandene Religion, die westliche und asiatische Glaubensvorstellungen vermischt und in ganz Vietnam mehrere hunderttausend Anhänger hat. Sie konzentrierte sich schnell auf die Unabhängigkeit und den Kampf gegen [FRA.GetNameDef], was die Behörden dazu veranlasste, sie zu unterdrücken. Durch die Mobilisierung der fanatischsten caodaistischen Bataillone konnten wir unsere Reihen mit Soldaten füllen, deren Hingabe an die Sache der Unabhängigkeit nicht mehr in Frage steht."
- arm_caodaists_militias_tt:0 "\nZwei Milizdivisionen werden sich in der Nähe von Saigon formieren§!."
+ arm_caodaists_militias_tt:0 "\nZwei Milizdivisionen werden sich in der Nähe von §YSaigon formieren§!."
 
  form_the_vnqdd_youth_league:0 "Bildung der VNQDD-Jugendliga"
 

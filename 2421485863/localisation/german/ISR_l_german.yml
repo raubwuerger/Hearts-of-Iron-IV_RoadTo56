@@ -96,15 +96,15 @@
 
  ISR_lehi_crushed:0 "Der Lehi-Aufstand wurde niedergeschlagen."
 
- ISR_preparedness_up_5:0 "Die Putschbereitschaft wird §Gum §G5%§! erhöht§!."
- ISR_preparedness_up_10:0 "Die Putschbereitschaft wird §Gum §G10%§! steigen."
- ISR_preparedness_up_15:0 "Coup-Bereitschaft wird §Gum §G15%§! steigen."
- ISR_preparedness_up_20:0 "Coup-Bereitschaft wird §Gum §G20%§! steigen§!."
+ ISR_preparedness_up_5:0 "Die Putschbereitschaft wird um §G5%§! steigen."
+ ISR_preparedness_up_10:0 "Die Putschbereitschaft wird um §G10%§! steigen."
+ ISR_preparedness_up_15:0 "Die Putschbereitschaft um §G15%§! steigen."
+ ISR_preparedness_up_20:0 "Die Putschbereitschaft um §G20%§! steigen."
 
- ISR_preparedness_down_5:0 "Die Putschbereitschaft wird §Rum §R5%§! sinken§!."
- ISR_preparedness_down_10:0 "Coup-Bereitschaft wird §Rum §R10%§! abnehmen."
- ISR_preparedness_down_15:0 "Coup-Bereitschaft wird §Rum §R15%§! verringert§!."
- ISR_preparedness_down_20:0 "Coup-Bereitschaft wird §Rum §R20%§! sinken§!."
+ ISR_preparedness_down_5:0 "Die Putschbereitschaft wird um §R5%§! sinken."
+ ISR_preparedness_down_10:0 "Die Putschbereitschaft wird um §R10%§! sinken."
+ ISR_preparedness_down_15:0 "Die Putschbereitschaft wird um §R15%§! sinken."
+ ISR_preparedness_down_20:0 "Die Putschbereitschaft wird um §R20%§! sinken."
 
  ISR_preparedness_above_90:0 "Die Putschbereitschaft liegt über §Y90%§!."
 
@@ -1490,7 +1490,7 @@
  ISR_we_nominate_klausner:0 "Wir werden §3Joseph Klausner§! für das Amt des Präsidenten nominieren."
 
 
- ISR_nominated_einstein:0 "Wir haben §RAlbert Einstein§! für das Amt des Präsidenten nominiert§."
+ ISR_nominated_einstein:0 "Wir haben §RAlbert Einstein§! für das Amt des Präsidenten nominiert."
  ISR_nominated_benzvi:0 "Wir haben §OYitshak Ben-Zvi§! für das Amt des Präsidenten nominiert."
  ISR_nominated_weizmann:0 "Wir haben §gChaim Weizmann§! für das Amt des Präsidenten nominiert."
  ISR_nominated_klausner:0 "Wir haben §3Joseph Klausner§! für das Amt des Präsidenten nominiert."

@@ -1919,12 +1919,12 @@ AUS_establish_the_austrian_airforce_academy_desc:0 "Unsere junge Luftwaffe entwi
  AUS_moderate_habsburg_accepted:0 "Die Alliierten haben eine moderate Restauration der Habsburger akzeptiert."
  AUS_strabag_nationalized_tt:0 "Die STRABAG wird zu einem nationalen Geist, der den Platz des §YIndustriekonzerns§! frei macht."
  AUS_german_resistance_armed:0 "Österreichisch-finanzierte Rebellen"
- AUS_sdapo_victory_tt:0 "§RDieser Schwerpunkt wird umgangen, wenn die §RSDAPÖ§! die Wahlen gewinnt."
+ AUS_sdapo_victory_tt:0 "§RDieser Schwerpunkt§! wird umgangen, wenn die §RSDAPÖ§! die Wahlen gewinnt."
  AUS_sdapo_won:0 "Die §RSDAPÖ§! hat die Wahlen gewonnen"
  AUS_chose_bauer:0 "§ROtto Bauer§! wurde zum SDAPÖ-Ministerpräsidenten gewählt"
  AUS_chose_renner:0 "§OKarl Renner§! ist zum SDAPÖ-Bundespräsidenten gewählt worden"
  AUS_cs_won:0 "Die §3CSP§! hat die Wahlen gewonnen"
- AUS_election_campaigns_tt:0 "Unmittelbare Auswirkung beim Start des Fokus: Bestimmte Ereignisse, die für die Kampagnen der Parteien relevant sind, werden regelmäßig ausgelöst§!.\n\nAuswirkungen beim Abschluss des Fokus:"
+ AUS_election_campaigns_tt:0 "Unmittelbare Auswirkung beim Start des Fokus: §YBestimmte Ereignisse, die für die Kampagnen der Parteien relevant sind, werden regelmäßig ausgelöst§!.\n\nAuswirkungen beim Abschluss des Fokus:"
  AUS_nazi_crackdown_tt:0 "Die Nazis im aktuell ausgewählten Staat werden daraufhin §Geknackt§!.\n"
  AUS_bauer_died:0 "Otto Bauer ist verstorben"
  AUS_bauer_wont_die:0 "§GBauer wird medizinisch behandelt werden, um Komplikationen durch seine Krankheit zu vermeiden§!"
@@ -1985,7 +1985,7 @@ AUS_establish_the_austrian_airforce_academy_desc:0 "Unsere junge Luftwaffe entwi
  AUS_decrease_infiltration_tt:0 "§t[AUS.GetAdjective] Vorbereitung der Infiltration§! in §Y[FROM.GetName]§! wird um einen Punkt verringert."
 
  AUS_invest_in_cisleithania_tt:0 "§YJe mehr von Cisleithanien von uns oder unseren Verbündeten kontrolliert wird, desto mehr Wirkung wird dieser Fokus haben§!. "
- AUS_higher_chance_accept_anschluss:0 "§Y[AUS.GetNameDefCap]§! wird eine höhere Chance haben, den Anschluss§! friedlich zu akzeptieren."
+ AUS_higher_chance_accept_anschluss:0 "§Y[AUS.GetNameDefCap]§! wird eine höhere Chance haben, den §YAnschluss§! friedlich zu akzeptieren."
  AUS_embargoed_by_germany:0 "§RDie von [GER.GetNameDef] gegen uns verhängten Sanktionen verhindern, dass wir mit ihnen Handel treiben§!"
 
  AUS_decision_cost_guns_500:0 "£infantry_equipment_text_icon §Y500§!"

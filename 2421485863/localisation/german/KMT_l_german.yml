@@ -397,7 +397,7 @@ GXC_generic_industrial_concern:0 "Guangxi Unternehmensgesellschaft"
  taiwan_returned_desc:0 "Mit der Rückgabe Taiwans an die Chinesen haben wir viele nationalistische Politiker und Offiziere erzürnt. Unsere Bevölkerung verlangt Antworten und sieht uns als Verräter."
 
  KMT_united_front:0 "Vereinigte Front"
- KMT_united_front_desc:0 "Die Zweite Vereinigte Front wird das chinesische Volk vor den eindringenden Kräften von [JAP.GetNameDef] verteidigen. Wenn du einer der Kriegsherren bist, wirst du automatisch von [CHI.GetNameDef] oder [PRC.GetNameDef] annektiert, wenn du kapitulierst.§!"
+ KMT_united_front_desc:0 "Die Zweite Vereinigte Front wird das chinesische Volk vor den eindringenden Kräften von [JAP.GetNameDef] verteidigen. Wenn du einer der Kriegsherren bist, wirst du automatisch von [CHI.GetNameDef] oder [PRC.GetNameDef] annektiert, wenn du §Ykapitulierst.§!"
 
  KMT_rear:0 "Big Rear Plan"
  KMT_rear_desc:0 "Unsere Industrie ist an einem sicheren Ort, und [JAP.GetAdjective] Invasoren werden sie niemals erreichen!\n\n§RDieser Nationalgeist wird erlöschen, sobald der Krieg mit Japan vorbei ist.§!"

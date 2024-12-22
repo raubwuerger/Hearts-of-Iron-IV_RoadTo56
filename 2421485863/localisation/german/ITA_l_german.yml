@@ -40,7 +40,7 @@
 
  ITA_temporarly_occupy_the_baleares:0 "Besetzen Sie vorübergehend die Balearen"
  ITA_temporarly_occupy_the_baleares_desc:0 "Die Balearen sind strategisch viel zu wichtig, als dass wir sie in den Händen eines potenziell kommunistischen Regimes lassen könnten. Wir werden Truppen entsenden, um die Inseln zu besetzen, und gleichzeitig den Nationalisten versprechen, dass wir sie ihnen zurückgeben werden, sobald der Bürgerkrieg vorbei ist. Wenn sie nicht mehr da sind, haben wir natürlich keinen Grund, sie zurückzugeben."
- ITA_temporarly_occupy_the_baleares_tt:0 "Sie versprechen, die Inseln an die §GNationalisten§! zurückzugeben, sobald der Bürgerkrieg vorbei ist§!. Wenn die §YRepublikaner§! gewonnen haben, können Sie die Inseln behalten, aber wenn Sie sich weigern, sie an die §GNationalisten§! zurückzugeben, werden Sie mit §Rschweren Strafen§! belegt."
+ ITA_temporarly_occupy_the_baleares_tt:0 "Sie versprechen, die Inseln an die §GNationalisten§! zurückzugeben, sobald der Bürgerkrieg vorbei ist. Wenn die §YRepublikaner§! gewonnen haben, können Sie die Inseln behalten, aber wenn Sie sich weigern, sie an die §GNationalisten§! zurückzugeben, werden Sie mit §Rschweren Strafen§! belegt."
 
  ITA_cede_884_to_HUN:0 "Tritt Prekmurje an [HUN.GetNameDef] ab"
 
@@ -629,7 +629,7 @@ ITA_giuseppe_rosini:0 "Giuseppe Rosini"
 
 #Ideas
  vittoria_mutilata:0 "Vittoria Mutilata"
- vittoria_mutilata_desc:0 "\nUnsere Verbündeten haben Italien verraten und sind uns in den Rücken gefallen, als sie den Pakt von London brachen. Wir haben am Isonzo so viel Blut für ihren Sieg geopfert, und sie haben uns im Gegenzug verweigert, was uns rechtmäßig zusteht. Nun wird Italien sein Schicksal selbst in die Hand nehmen, um dieses Unrecht zu korrigieren.§!"
+ vittoria_mutilata_desc:0 "\nUnsere Verbündeten haben Italien verraten und sind uns in den Rücken gefallen, als sie den Pakt von London brachen. Wir haben am Isonzo so viel Blut für ihren Sieg geopfert, und sie haben uns im Gegenzug verweigert, was uns rechtmäßig zusteht. §YNun wird Italien sein Schicksal selbst in die Hand nehmen, um dieses Unrecht zu korrigieren.§!"
  ITA_giovanni_marinelli:0 "Giovanni Marinelli"
  ITA_gian_galeazzo_ciano:0 "Gian Galeazzo Ciano"
  ITA_roberto_farinacci:0 "Roberto Farinacci"

@@ -551,7 +551,7 @@ MON_civil_militia_tt:0 "§RWenn der Bürgerkrieg ausbricht§!, stellt §H8 Zivil
 MON_leftist_civil_war_tt:0 "Wenn §Rdie Stabilität niedriger als 40%§! ist oder §R[SOV.getAdjective] Einfluss höher als 60§! ist, wird der §HBürgerkrieg§! beginnen!"
 MON_leftist_civil_war_tt_2:0 "[SOV.getAdjective] Einfluss ist geringer als 60"
 
-MON_great_terror_tt:0 "Die Troika wird beginnen, sich mit §YIntelligenzia§!, §YParteimitgliedern§! und §YLamas§! auseinanderzusetzen. §RJede Säuberung hat ihre eigene §RStrafe§! und die Anzahl der Säuberungen beeinflusst das Ausmaß der Wirkung der §Gkonsolidierten Macht§!."
+MON_great_terror_tt:0 "Die Troika wird beginnen, sich mit §YIntelligenzia§!, §YParteimitgliedern§! und §YLamas§! auseinanderzusetzen. §RJede Säuberung§! hat ihre eigene §RStrafe§! und die Anzahl der Säuberungen beeinflusst das Ausmaß der Wirkung der §Gkonsolidierten Macht§!."
 MON_great_terror_tt_2:0 "Wenn keine Säuberungen durchgeführt werden, wird Choilbalsan §Rseinen Einfluss§! in der Regierung und seine Loyalität in den Augen von [SOV.GetLeader] verlieren:"
 mongol.50_tt:0 "Er wird durch die Säuberung eine §RStrafe§! erhalten:"
 
@@ -612,7 +612,7 @@ MON_pro_get_rich_helping_tt:0 "Die Politik zielt darauf ab, das §HWachstum priv
 
 MON_rp_advisor_tt:0 "§REine experimentelle Funktion, die später je nach Feedback der Community erweitert werden könnte!§!"
 
-MON_warning_action_irreversible_and_buggy_tt:0 "§RWARNUNG! Sie werden jetzt zum sowjetischen Fokusbaum wechseln! §RVerschiedene Spielfunktionen könnten falsch und/oder schlecht funktionieren, dies geschieht auf eigene Gefahr!§!"
+MON_warning_action_irreversible_and_buggy_tt:0 "§RWARNUNG§! Sie werden jetzt zum sowjetischen Fokusbaum wechseln! §RVerschiedene Spielfunktionen könnten falsch und/oder schlecht funktionieren, dies geschieht auf eigene Gefahr!§!"
 #autonomy# ""
 MON_soviet_cooperation_name:0 "Sowjetische Zusammenarbeit"
 MON_supporting_revolutionary_cause:0 "Unterstützung der revolutionären Sache"
@@ -651,14 +651,14 @@ MON_kill_genden_for_future_leftist_takeover:0 "Genden wurde als Teil des §HVert
 MON_demid_killed:0 "Starb unter verdächtigen Umständen"
 MON_soviet_advisors_allowed_flag:0 "[SOV.getAdjective]s leisteten militärische Unterstützung"
 
-mon_1935_defence_soviet_yes_assistance:0 "Die Sowjets sagten der Mongolei während der Konferenz vom §HJanuar 1936§! militärische Unterstützung zu§G."
+mon_1935_defence_soviet_yes_assistance:0 "Die Sowjets sagten der Mongolei während der Konferenz vom §HJanuar 1936§! militärische Unterstützung zu."
 mon_1935_defence_soviet_yes_self_reliance:0 "Die mongolische §HSelbstständigkeit§! resultierte aus der §HKonferenz§!."
 mon_1935_defence_soviet_abandoned_mongolia:0 "Die UdSSR §Rverließ§! die Mongolei während der §HKonferenz§!."
 mon_1935_defence_soviet_imprison_genden_or_empty_train:0 "Genden wurde §Rin Moskau inhaftiert§!, nachdem er §HStalin provoziert§! hatte ODER die §RDelegation kehrte nicht nach Ulaanbaatar§! zurück."
 
 MON_choibalsan_revolted:0 "Choibalsan §Rrevoltierte§! gegen die Regierung."
 
-mon_purged_intellectuals_flag:0 "Intellektuelle §Rwurden von Choibalsan §! gereinigt§!"
+mon_purged_intellectuals_flag:0 "Intellektuelle §Rwurden von Choibalsan §! gereinigt."
 mon_purged_party_flag:0 "Parteimitglieder §RGesäubert§! von Choibalsan"
 mon_purged_lamas_flag:0 "Lamas §RGefegt§! von Choibalsan"
 

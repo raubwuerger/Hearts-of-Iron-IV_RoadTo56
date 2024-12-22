@@ -72,7 +72,7 @@
 
  PRC_restart_CHI_war:0 "Entweder die VR China oder die Republik China haben sich gegenseitig den Krieg erklärt."
 
- PRC_no_wargoal_to_chi_when_ok_tt:0 "§RWird kein Kriegsziel gegen [CHI.GetName] mit dem Fokus §YEnforce Our Goal§! erreichen."
+ PRC_no_wargoal_to_chi_when_ok_tt:0 "§RWird kein Kriegsziel§! gegen [CHI.GetName] mit dem Fokus §YUnser Ziel durchsetzen§! erreichen."
 
  PRC_random_amount_of_partisan_tt:0 "§Y2 - 6 Guerillaeinheiten werden unsere Bestechung annehmen und sich unserer Armee anschließen§!\n"
 

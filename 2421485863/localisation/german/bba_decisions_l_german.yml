@@ -543,7 +543,7 @@
  ITA_train_irregulars_libya_tt:0 "Erstelle §Y1 $Kavallerie$ Divisionen§! und §Y1 $Schmuck$ Division§!."
  ITA_train_irregulars_somalia_tt:0 "Erstelle §Y1 $irregular_infantry$ Divisionen§! und §Y1 $cavalry$ Division§!."
  ITA_train_irregulars_ethiopia_tt:0 "Erstellen Sie §Y1 $irregular_infantry$ Division§! und §Y1 $camelry$ Division§!."
- ITA_train_irregulars_cd_tt:0 "§YDiese Entscheidung wird in §Y[?ITA_colonial_management_cd] Tagen§! wieder verfügbar sein.\n"
+ ITA_train_irregulars_cd_tt:0 "§YDiese Entscheidung§! wird in §Y[?ITA_colonial_management_cd] Tagen§! wieder verfügbar sein.\n"
  ITA_reorganize_irregulars:0 "Irreguläre Truppen reorganisieren"
  ITA_reorganize_irregulars_desc:1 "Durch die Reorganisation unserer irregulären Truppen könnten wir sie stärken und zu einer schlagkräftigeren Truppe machen."
  ITA_reorganize_irregulars_tt:1 "Fügt §Y2 $irregular_infantry$ Bataillone§! und §Y1 $recon$ Bataillon§! zu allen Irregular Infantry Division Templates hinzu. \nFügt §Y2 $Kavallerie$-Bataillone§! und §Y1 $Aufklärungs$-Bataillon§! zu allen irregulären Kavallerie-Divisionsvorlagen hinzu. \nFügt §Y2 $Kavallerie$-Bataillone§! und §Y1 $Aufklärungs$-Bataillon§! zu allen irregulären Kavallerie-Divisionsvorlagen hinzu."

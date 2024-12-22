@@ -568,7 +568,7 @@
  #Focus Tooltips ""
  SIA_buy_ships_tooltip:0 "§YSchaltet frei§! £decision_icon_small Entscheidungen, Boote von unseren Verbündeten zu kaufen"
  SIA_closer_to_the_west_tooltip:0 "§YSchaltet frei§! £decision_icon_kleine Entscheidungen, demokratischen Fraktionen beizutreten"
- SIA_finding_allies_tooltip:0 "§YSchaltet§! £decision_icon_kleine Entscheidungen zu Verbündeten kommunistischer Länder§!"
+ SIA_finding_allies_tooltip:0 "§YSchaltet§! £decision_icon_kleine Entscheidungen zu Verbündeten kommunistischer Länder"
  SIA_second_siamese_revolution_tooltip:0 "§REine neue Revolution wird stattfinden...§!\n"
  SIA_negotiations_with_france_tooltip:0 "§YSchaltet§! £decision_icon_kleine Entscheidungen zur Förderung des Pan-Thaiismus in Laos und Kambodscha frei, um Frankreich dazu zu bewegen, sie uns zurückzugeben"
  SIA_choosing_a_side_tooltip:0 "§YEntriegelt§!£decision_icon_small Entscheidungen, um Deutschland, Italien oder Japan zu verbünden"

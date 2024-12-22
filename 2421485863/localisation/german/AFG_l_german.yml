@@ -1675,7 +1675,7 @@
  AFG_civil_war_category_map_area:0 "Wir beginnen mit §Y2 Paschtunen-Rebelleneinheit§! in §Y[FROM.GetName]§!, sobald der Krieg beginnt."
  AFG_persian_socialism_map_area:0 "Wir beginnen mit §Y3 Paschtunen-Rebelleneinheit§! in §Y[FROM.GetName]§!, sobald der Krieg beginnt."
  AFG_get_zmarak_zadran_tt:0 ""
- AFG_get_haji_mirzali_tt:0 "Hat 3 §t[AFG.GetAdjektiv] Infiltrationsvorbereitungs-Punkte in §Y[442.GetName]§!."
+ AFG_get_haji_mirzali_tt:0 "Hat 3 §t[AFG.GetAdjektiv]§! Infiltrationsvorbereitungs-Punkte in §Y[442.GetName]§!."
 
  AFG_approached_khasadars_tt:0 "Hat 3 §t[AFG.GetAdjektiv] Infiltrationsvorbereitungs-§!-Punkte in §Y[445.GetName]§!."
  AFG_approached_khudais_tt:0 "Wähle aus, wo die Infiltration vorbereitet werden soll."
@@ -1915,7 +1915,7 @@
  AFG_counter_for_visit_to_europe_days_tt:0 "§RSchließt sich [FROM.GetName] in all ihren Kriegen an.§!"
 
  AFG_tajik_intro:0 "Diese Entscheidungen werden es uns ermöglichen, §Yislamische§! Staaten zu integrieren und eine §Ypanislamische Einheit§! zu erreichen."
- AFG_tajik_integration_tt:0 "Diese Entscheidungen werden es uns ermöglichen, die [SOV.GetAdjektiv]s§! zu untergraben und eine §YRevolution§! gegen sie zu starten."
+ AFG_tajik_integration_tt:0 "Diese Entscheidungen werden es uns ermöglichen, die [SOV.GetAdjektiv]s zu untergraben und eine §YRevolution§! gegen sie zu starten."
 
  #Durand Focuses "Panislamistische Doktrin"
  AFG_crisis_over_the_durand:0 ""

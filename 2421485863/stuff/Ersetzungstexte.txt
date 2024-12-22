@@ -30,3 +30,10 @@ https://community.notepad-plus-plus.org/topic/19572/i-need-to-find-the-lines-whi
 ^([^§\r\n]*)(§(?1)){5}$
 ^([^§\r\n]*)(§(?1)){7}$
 ^([^§\r\n]*)(§(?1)){9}$
+
+§!
+
+Light Gun Attack
+Capital Ships
+Screen Ships -> Sicherungsschiffe
+Civilian Factory

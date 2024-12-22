@@ -123,7 +123,7 @@
  JOR_remove_howitat_tt:0 "§YHowitat §Wwird §Rfeindlich\n§W Verringere §YStammesunterstützung §Wum §Y5% §W\n\n$JOR_modify_tribal_councils_army_intro$ \nAngriffsabteilung: §R-5.00%§!"
  JOR_utaybah_war_tt:0 "Wir werden §Y3 12 Einheiten §WBreite bei Nicht-Aufstandskriegen gewinnen\nErhöhen Sie die §YUnterstützung der Stämme §Wum §Y5 %§W\n§YUtaybah §Wwird die Feindseligkeiten einstellen\n\n$JOR_modify_tribal_councils_army_intro$ \nForschungsgeschwindigkeit: §G+5.00%§!\nWöchentliche Stabilität: §R-0.20%§! §W"
  JOR_banisakhr_war_tt:0 "Wir gewinnen §Y3 10 Breite §WDivisionen bei Nicht-Revolten-Krieg\nErhöhen §YStammesunterstützung §Wum §Y5%§W\n\n$JOR_modify_tribal_councils_army_intro$ \nPolitischer Machtzuwachs: §G+0.35%§!"
- JOR_howitat_war_tt:0 "Wir werden einen §Ygroßen Zustrom an Arbeitskräften §Wnach einem nicht-rebellischen Krieg erhalten\nErhöhen Sie die §YUnterstützung des Stammes §Wum §Y5 %§W\n§YHowitat §Wwird §Gunterstützend werden"
+ JOR_howitat_war_tt:0 "Wir werden einen §Ygroßen Zustrom an Arbeitskräften§! §Wnach einem nicht-rebellischen Krieg erhalten\nErhöhen Sie die §YUnterstützung des Stammes §Wum §Y5 %§W\n§YHowitat §Wwird §Gunterstützend werden"
  JOR_antitribe_war_tt:0 "Wir werden §Y3 14 Bergbewohner gewinnen §Wnach einem Nicht-Revolten-Krieg\n§Y-10 % weniger §YStammesunterstützung §W\n§YHowitat §Wwird §Rfeindlich\n\n§W$JOR_modify_tribal_councils_army_intro$ \nRekrutierbare Bevölkerung: §Y-0,50%§! §W"
  JOR_appease_tribes_tt:0 "§YUnterstützung durch Stämme §Wum §Y5%§W\n$JOR_modify_tribal_councils_army_intro$ \nRekrutierbare Bevölkerung: §G+1,00%§! §W"
 

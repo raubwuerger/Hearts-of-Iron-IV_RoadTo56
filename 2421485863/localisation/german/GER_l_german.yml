@@ -505,7 +505,7 @@
  GER_establishing_the_reichskommissar:0 "Einsetzung des Reichskommissars"
 
  GER_eastern_campaign:0 "Ost-Kampagne"
- GER_eastern_campaign_desc:0 "Staatlich finanzierte Propagandakampagnen haben selbst den stärksten Kriegsgegnern im Osten versichert, dass die Siegesbedingungen zu [GER.getAdjective]-Bedingungen diktiert werden und keine Verhandlungen die Erfolge der Wehrmacht behindern werden. \nDieser Nationale Geist wird entfernt, wenn [SOV.getAdjective]-verursachte [GER.getAdjective]-Verluste eine Schwelle von 4 Millionen erreichen oder ein eigener [SOV.getAdjective]-Kernstaat mehr als 50% Zustimmung hat.§!"
+ GER_eastern_campaign_desc:0 "Staatlich finanzierte Propagandakampagnen haben selbst den stärksten Kriegsgegnern im Osten versichert, dass die Siegesbedingungen zu [GER.getAdjective]-Bedingungen diktiert werden und keine Verhandlungen die Erfolge der Wehrmacht behindern werden. \nDieser Nationale Geist wird entfernt, wenn [SOV.getAdjective]-verursachte [GER.getAdjective]-Verluste eine Schwelle von 4 Millionen erreichen oder ein eigener [SOV.getAdjective]-Kernstaat §Ymehr als 50% Zustimmung hat.§!"
 
  erwache.1.t:0 "Ernennung von Wirtschaftspositionen"
  erwache.1.desc:0 "Für die Ämter des Reichsbankpräsidenten und des Wirtschaftsministers gibt es zwei Ernennungsmöglichkeiten. Einer der möglichen Kandidaten, Hjalmar Schacht, ist sehr gut darin, mit den Unternehmen von [GER.GetNameDef] zusammenzuarbeiten und die zivile Infrastruktur zu entwickeln. Seine mangelnde Loyalität gegenüber der NSDAP und seine Verachtung für Militärausgaben machen ihn jedoch zu einer bedenklichen Wahl. Unser zweiter möglicher Kandidat, Walther Funk, ist der NSDAP gegenüber sehr loyal und ein großer Befürworter von Militärausgaben. Wenn wir beim Aufschwung vernünftig vorankommen wollen, müssen wir einen dieser beiden Männer an die Spitze unserer Wirtschaft stellen."
@@ -590,7 +590,7 @@
  GER_a_world_in_flames_2_tt:0 "Fügt bis zu §G5§! §YLandforts§! entlang der Oder in kontrollierten Provinzen in den Staaten hinzu."
  GER_a_world_in_flames_3_tt:0 "Fügt bis zu §G5§! §YLandforts§! entlang des Rheins in den kontrollierten Provinzen der Staaten hinzu."
  GER_a_world_in_flames_4_tt:0 "Fügt bis zu §G5§! §YLandforts§! in und um Berlin in kontrollierten Provinzen im Staat hinzu."
- GER_a_world_in_flames_5_tt:0 "§Y4 §YVolkssturm-Divisionen§! aufstellt."
+ GER_a_world_in_flames_5_tt:0 "§YEs werden 4 Volkssturm-Divisionen§! aufstellt."
  r56_a_world_in_flames_idea:0 "Welt in Flammen"
 
 

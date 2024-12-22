@@ -39,7 +39,7 @@
  CHI_join_the_chinese_soviet:0 "Beitritt zum chinesischen Sowjet"
  CHI_join_the_chinese_soviet_desc:1 "Die Revolution kann nur gelingen, wenn die Kommunisten zusammenstehen. Natürlich müssen wir sicherstellen, dass keine gegenreaktionären Elemente innerhalb der Partei versuchen, die Revolution zum Entgleisen zu bringen, bevor sie überhaupt begonnen hat."
  CHI_the_yanan_incident:0 "Der Yan'an-Zwischenfall"
- CHI_the_yanan_incident_effect_tt:0 "Bitten Sie §H[SOV.GetNameDef]§! um Unterstützung, um §H[WTT_communist_china.GetNameDef]§! als kommunistischen Führer abzulösen. GetNameDef]§! führen, wenn sie sich weigern.\nDieser Deal mit §H[SOV.GetNameDef]§! wird uns für Forderungen von [SOV.GetLeader]\n öffnen."
+ CHI_the_yanan_incident_effect_tt:0 "Bitten Sie §H[SOV.GetNameDef]§! um Unterstützung, um §H[WTT_communist_china.GetNameDef]§! als kommunistischen Führer abzulösen. §H[WTT_communist_china.GetNameDef] führen, wenn sie sich weigern.\nDieser Deal mit §H[SOV.GetNameDef]§! wird uns für Forderungen von [SOV.GetLeader]\n öffnen."
  CHI_the_yanan_incident_desc:1 "Der derzeitige Parteivorsitzende hat den sozialistischen Brüdern in der Sowjetunion den Rücken gekehrt. Wir sollten uns an die Sowjets wenden, um ihre Unterstützung bei der Durchsetzung der Revolution in ganz China zu gewinnen."
  CHI_opposition:0 "Opposition"
  CHI_opposition_effect_tooltip:0 "§H[WTT_current_china_leader.GetNameDef]§! kann als Antwort darauf einen Grenzkrieg mit uns beginnen."

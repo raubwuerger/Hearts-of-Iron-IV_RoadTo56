@@ -670,7 +670,7 @@
  TIB_begin_dalai_lama_search:0 "Wir werden in der Lage sein, die §YSuche§! nach dem §YDalai Lama§! zu beginnen."
  TIB_tawang_border_war:0 "§REin Grenzkrieg wird für [434.GetName] beginnen.§!"
  TIB_dalai_lama_discovery:0 "§RDie lokale Verwaltung nicht über unsere Suche nach dem Dalai Lama zu informieren, könnte sich als katastrophal erweisen.§!"
- TIB_getting_permission:0 "Wir werden in der Lage sein, §Ynach dem §YDalai Lama§! zu suchen, ohne vom §Y[754.Controller.GetAdjective]§! Militär belästigt oder beunruhigt zu werden."
+ TIB_getting_permission:0 "Wir werden in der Lage sein, §Ynach dem Dalai Lama§! zu suchen, ohne vom §Y[754.Controller.GetAdjective]§! Militär belästigt oder beunruhigt zu werden."
  TIB_create_independent_unit:0 "Erstelle eine §YUnabhängige tibetische Division§! Einheit in §Y[THIS.GetName]§! bei Beginn des §YBürgerkriegs§!."
  TIB_create_workers_unit:0 "Erstelle §Y2 tibetische Arbeitereinheiten§! in §Y[THIS.GetName]§! bei Beginn des §YBürgerkriegs§!."
  TIB_communist_civil_war:0 "Die §YTibetische Revolution§! wird beginnen."
