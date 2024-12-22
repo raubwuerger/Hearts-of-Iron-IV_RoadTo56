@@ -33,6 +33,7 @@
  catalonia_ceded_to_france:0 "Katalonien wurde an [FRA.GetNameDef] abgetreten"
  FRA_GER_sphere_of_influence_agreement:0 "[GER.GetNameDefCap] akzeptierte die Aufteilung der Einflusssphären."
  lar_germany_refused_spheres:0 "Es wurde keine Vereinbarung über die Aufteilung der Einflusssphären getroffen."
+ FRA_1936_election:0 "Die Wahlen vom §YMai 1936§! sind abgeschlossen."
 
  #tooltips# ""
  FRA_is_on_iberian_peninsula_tt:0 "Liegt auf der Iberischen Halbinsel"

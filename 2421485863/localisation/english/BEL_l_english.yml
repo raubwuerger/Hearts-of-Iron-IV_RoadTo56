@@ -1485,8 +1485,8 @@
  frc_tanks_tooltip:0 "Unlock the §YFonderie Royale de Canons§  §Was a tank designer§.\n"
  S47_tooltip:0 "This event should grant a variant of the licensed plane to [BEL.GetNameDef], but it doesn't seem to be possible at the moment. Air XP has been granted to compensate slightly. If [BEL.GetNameDef] has the CAS1 tech, the S47 is available."
  S47_focus_tooltip:0 "§RThe plane technology: "Close Air Support 1 (Fairey Battle)" is recommended to benefit fully from this focus due to the impossibility to create the desired effect through the code of the game.§!"
- BEL_neutrality_debate_over_tooltip:"Improves the effect of the "[ENG.GetAdjective] Ship Designs" focus, grants a bonus if [BEL.GetNameDef] joins the French Entente."
- BEL_congo_rifle_delivery_tooltip:"Receive 200 infantry equipment from [BEL.GetNameDef]"
+ BEL_neutrality_debate_over_tooltip:	"Improves the effect of the "[ENG.GetAdjective] Ship Designs" focus, grants a bonus if [BEL.GetNameDef] joins the French Entente."
+ BEL_congo_rifle_delivery_tooltip:	"Receive 200 infantry equipment from [BEL.GetNameDef]"
  recruit_dutch_generals_tooltip:0 "While the decision is active, up to 3 generals will be offered to join our cause."
 
  COG_support_african_diplomacy:0 "[COG.GetAdjective] African Diplomacy"

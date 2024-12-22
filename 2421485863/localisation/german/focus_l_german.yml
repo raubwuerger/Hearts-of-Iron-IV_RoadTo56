@@ -315,6 +315,8 @@
  GER_integrate_war_economies_tt2:2 "Wenn §Y[ROM.GetName]§! in einer Fraktion mit §Y[Root.GetName]§! ist, füge §Y4 Militärische Fabrik§! jeweils zu §Y[Root. GetName]§! und §Y[ROM.GetName]§!, und §Y[ROM.GetName]§! wird Marionette von §Y[Root.GetName]§!.\n"
  GER_integrate_war_economies_tt3:0 "§R[HUN.GetName] muss der Vereinbarung zustimmen, damit die Boni wirksam werden.§!\n"
  GER_integrate_war_economies_tt4:0 "§R[ROM.GetName] muss dem Abkommen zustimmen, damit die Prämien wirksam werden.§!\n"
+ GER_uplift_the_rosenberg_office: "Uplift the Rosenberg Office"
+ GER_uplift_the_rosenberg_office_desc: "There are many things that need to be properly coordinated within the Reich, including governance and control of occupied territories, as well as internal surveillance and the entire intellectual and ideological education of the Nazi Party. All of these things should be centrally decided upon and controlled from the Rosenberg Office, seeing as Rosenberg is an important party theorist and ideologue."
  GER_form_the_reichskommissariats:0 "Das Büro Rosenberg aufwerten"
  GER_form_the_reichskommissariats_desc:0 "Es gibt viele Dinge, die innerhalb des Reiches richtig koordiniert werden müssen, einschließlich der Verwaltung und Kontrolle der besetzten Gebiete, sowie der internen Überwachung und der gesamten intellektuellen und ideologischen Erziehung der NSDAP. All diese Dinge sollten vom Büro Rosenberg aus zentral entschieden und kontrolliert werden, da Rosenberg ein wichtiger Theoretiker und Ideologe der Partei ist."
  GER_reichskommissariats_tt:0 "Erlaubt die Bildung von Untertanenstaaten in eroberten Gebieten.\n"

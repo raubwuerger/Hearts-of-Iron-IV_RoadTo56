@@ -1766,7 +1766,7 @@ PRU_america_imperial_desc:0 "Our destiny is to lead America into an era of imper
  PRU_our_industry:0 "Our Industry"
  PRU_BCR:0 "BCR"
  PRU_external_debt:0 "External Debt"
- PRU_forced_industria:"Forced Industria"
+ PRU_forced_industria:	"Forced Industria"
 
  PRU_inca_army:0 "Inca Army"
 

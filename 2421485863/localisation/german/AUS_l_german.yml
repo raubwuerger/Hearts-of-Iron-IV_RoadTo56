@@ -31,7 +31,8 @@
  AUS_julius_raab:0 "Julius Raab"
  AUS_leopold_figl:0 "Leopold Figl"
  AUS_wilhelm_miklas:0 "Wilhelm Miklas"
-  
+ AUS_gunther_adolf_burstyn:0 "Gunther Adolf Burstyn"
+
  AUS_ernst_rudiger_starhemberg:0 "Ernst Rüdiger Starhemberg"
  AUS_ernst_rudiger_starhemberg_desc:0 "§RErnst Rüdiger Starhemberg, Kommandant der Heimwehr und Schuschniggs Anwärter auf die Nachfolge von Dolfuss, ist seit der Gründung der Vaterländischen Front ein erbitterter Feind Schuschniggs und tut sein Bestes, um alle Bemühungen Schuschniggs zu blockieren.§!"
  AUS_richard_steidle:0 "Richard Steidle"
@@ -374,6 +375,8 @@ AUS_establish_the_austrian_airforce_academy_desc:0 "Unsere junge Luftwaffe entwi
 
  AUS_liechtenstein_treaty:0 "Liechtensteiner Vertrag"
  AUS_liechtenstein_treaty_desc:0 "[GER.GetNameDefCap] hat aufgehört, eine verantwortungsvolle Weltmacht zu sein, die von einem ruhigen und mächtigen Kaiser regiert wird. Stattdessen bedroht der Wahnsinnige [GER.GetLeader] ganz Europa mit seiner Expansionspolitik. [AUS.GetNameDefCap] muss sich auf alle möglichen Verbündeten stützen, um zu überleben - auch auf [SWI.GetNameDef]."
+ AUS_intervention:0 "Kontinentale Intervention"
+ AUS_intervention_desc:0 "Der Kontinent steht auf Messers Schneide, und wir müssen gemeinsam gegen die Fluten des Nazismus und des Bolschewismus kämpfen, damit wir nicht von ihnen verschlungen werden."
  #ECONOMY
  AUS_end_the_depression:0 "Beenden Sie die Depression"
  AUS_end_the_depression_desc:0 "Das Schlimmste der Depression liegt hinter uns. Wir sollten den letzten Schritt tun, um die Auswirkungen der Depression rückgängig zu machen."
@@ -1976,6 +1979,7 @@ AUS_establish_the_austrian_airforce_academy_desc:0 "Unsere junge Luftwaffe entwi
  AUS_fully_infiltrated_109:0 "Hat [109.GetName] vollständig infiltriert"
  AUS_fully_infiltrated_958:0 "Wurde vollständig infiltriert [958.GetName]"
  AUS_fully_infiltrated_103:0 "Wurde vollständig infiltriert [103.GetName]"
+ AUS_proposed_past_week:0 "Hat in der letzten Woche die Integration des Sektors vorgeschlagen"
 
  AUS_increase_infiltration_tt:0 "§t[AUS.GetAdjective] Vorbereitung der Infiltration§! in §Y[FROM.GetName]§! wird um einen Punkt erhöht."
  AUS_decrease_infiltration_tt:0 "§t[AUS.GetAdjective] Vorbereitung der Infiltration§! in §Y[FROM.GetName]§! wird um einen Punkt verringert."
