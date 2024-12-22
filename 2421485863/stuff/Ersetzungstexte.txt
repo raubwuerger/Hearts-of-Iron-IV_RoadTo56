@@ -34,6 +34,18 @@ https://community.notepad-plus-plus.org/topic/19572/i-need-to-find-the-lines-whi
 §!
 
 Light Gun Attack
+Light Ships
+Light Battery
+Light Medium Battery
+Medium Battery
+Heavy Battery
+Heavy Gun Attack
+Heavy Ship
+
+Capital Ships -> Großkampfschiffe
+
+Cruisers
 Capital Ships
 Screen Ships -> Sicherungsschiffe
 Civilian Factory
+Rich Stratas

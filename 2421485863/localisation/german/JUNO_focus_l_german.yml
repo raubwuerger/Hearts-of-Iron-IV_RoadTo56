@@ -1891,7 +1891,7 @@ GUAY_tag_the_economic_miracle: "Das südamerikanische Wirtschaftswunder"
 GUAY_beef_and_hide_industry: "Rindfleisch und Häute Industrie"
 GUAY_beef_and_hide_industry_desc: "Der Kern der Wirtschaft unseres Landes dreht sich um Rindfleisch und Felle, es macht also nur Sinn, sie auszubauen."
 GUAY_protect_domestic_industries_beef: "Die Fertigstellung von $GUAY_Rindfleisch_und_Hautindustrie$ fügt \n1§G1§! §YZivilfabrik§!\n! Gebäude-Slots hinzu."
-GUAY_protect_domestic_industries_agricultural: "Die Vervollständigung von $GUAY_agricultural_colonization$ wird \nhinzufügen: §G1§! §YCivilian Factory.§!\nhinzufügen: §G1§! Gebäude-Slots."
+GUAY_protect_domestic_industries_agricultural: "Die Vervollständigung von $GUAY_agricultural_colonization$ wird \nhinzufügen: §G1§! §YZivilfabrik.§!\nhinzufügen: §G1§! Gebäude-Slots."
 GUAY_protect_domestic_industries_cash_crop: "Der Abschluss von $GUAY_cash_crop_exports$ wird \nhinzufügen: §G1§! §YZivile Fabrik.§!\nhinzufügen: §G1§! Gebäude-Slots."
 GUAY_protect_domestic_industries_wool_makers: "Die Fertigstellung von $GUAY_wool_makers$ wird \nhinzufügen: §G1§! §YZivile Fabrik.§!\nhinzufügen: §G1§! Gebäude-Slots."
 

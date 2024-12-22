@@ -468,7 +468,7 @@
  ARG_osmar_hellmuth_event_tt: "Ermöglicht die Veranstaltung '§YDie Frage von Osmar Hellmuth§!', bei der wir wählen können, ob wir ihn befreien und als §YOperative§! anstellen oder ihn im Gefängnis lassen sollen."
 
  GUAY_laissez_faire_cat: "Laissez Faire"
- GUAY_laissez_faire_stats: "Die Grundbesitzer haben bisher gebaut:\n-§YCivilian Factory:§! §G[?built_a_civ]§!\n-§YMilitärische Fabrik:§! §G[?built_a_mil]§!\n§Y-Dockyard:§! §G[?built_a_dockyard]§!\n-§YInfrastructure§!:"
+ GUAY_laissez_faire_stats: "Die Grundbesitzer haben bisher gebaut:\n-§YZivilfabrik:§! §G[?built_a_civ]§!\n-§YMilitärische Fabrik:§! §G[?built_a_mil]§!\n§Y-Dockyard:§! §G[?built_a_dockyard]§!\n-§YInfrastructure§!:"
  GUAY_land_owners_finding_funding: "Die Grundstückseigentümer finden Finanzmittel und investieren in die Wirtschaft."
  GUAY_meet_with_SOV: "Treffen mit [SOV.GetNameDef]"
  GUAY_meet_with_JAP: "Treffen Sie sich mit [JAP.GetNameDef]"
