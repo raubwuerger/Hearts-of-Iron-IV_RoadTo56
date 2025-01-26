@@ -1,0 +1,1 @@
+for %f in (*.sub) do type "%f" >> RoadTo56.sub
