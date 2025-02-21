@@ -1,6 +1,6 @@
 ﻿l_german:
 
- # WAF_l_english is already taken, here is the loc for West Africa ""
+ # WAF_l_german: is already taken, here is the loc for West Africa ""
 
  west_africa_focus:0 "[ROOT.GetAdjective] Nationaler Fokus"
 

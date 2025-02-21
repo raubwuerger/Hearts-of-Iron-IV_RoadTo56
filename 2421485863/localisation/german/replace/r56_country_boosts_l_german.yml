@@ -370,4 +370,9 @@
  custom_diff_strong_asia_east:0 "Ostasien stärken"
  custom_diff_strong_asia_central:0 "Zentralasien stärken"
 
+custom_diff_strong_als:0				"@ALS Strengthen Alsace-Lorraine"
+custom_diff_strong_dar:0				"@DAR Strengthen Darfur"
+custom_diff_strong_als:0			"@ALS Strengthen Alsace-Lorraine"
+custom_diff_strong_dar:0			"@DAR Strengthen Darfur"
+
 #####-----> End of File <><> <><> <><> <><> <><> ""

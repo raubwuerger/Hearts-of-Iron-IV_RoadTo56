@@ -732,3 +732,7 @@
  RULE_OPTION_R56_LOOTBOX_OFF_DESC:0 "Alfie's Lootboxen-Emporium bleibt geschlossen."
  RULE_OPTION_R56_LOOTBOX_ON:0 "Lootboxen einschalten"
  RULE_OPTION_R56_LOOTBOX_ON_DESC:0 "Alfie's Lootbox Emporium wird geöffnet und bietet Lootboxen an, mit verschiedenen Vorteilen, die man ernten kann! Bitte beachte, dass die KI dieses System nicht nutzen wird. \nDas Road to 56 Team verherrlicht oder befürwortet weder das Glücksspiel noch das Ausgeben hoher Beträge für digitale Güter. §YDiese Funktion ist nur als Parodie gedacht.§!\n\n"
+RULE_OPTION_FASCISM_BEL_ALTERNATE:0				"Fascist - Alternate"
+RULE_OPTION_FASCISM_BEL_ALTERNATE_AI_DESC:0				"§YR56§!: Embrace fascism and set Joris Van Severen as leader.\n§YDLC§!: The AI will go with the Flemish Nationalist Fascists, and aggressively try to unite the low countries then turn on France."
+RULE_OPTION_FASCISM_BEL_ALTERNATE:0			"Fascist - Alternate"
+RULE_OPTION_FASCISM_BEL_ALTERNATE_AI_DESC:0			"§YR56§!: Embrace fascism and set Joris Van Severen as leader.\n§YDLC§!: The AI will go with the Flemish Nationalist Fascists, and aggressively try to unite the low countries then turn on France."
