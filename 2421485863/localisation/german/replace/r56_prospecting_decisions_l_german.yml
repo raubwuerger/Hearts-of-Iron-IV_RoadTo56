@@ -390,8 +390,8 @@
 
  #Flags ""
  kelham_hills_oil_field_developed:0 "The Kelham Hills oil field is exploited"
- exploit_pembina_oil:0				"Exploit the Pembina Oil Field"
- exploit_pembina_oil:0			"Exploit the Pembina Oil Field"
+ exploit_pembina_oil:0	"Exploit the Pembina Oil Field"
+ exploit_pembina_oil:0	"Exploit the Pembina Oil Field"
 
 
  #North West  EnglandThe Formby Oilfield was discovered by D’Arcy Exploration in 1939. ""

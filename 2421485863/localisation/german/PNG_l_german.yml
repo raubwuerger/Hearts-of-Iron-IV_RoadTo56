@@ -1,5 +1,13 @@
 ﻿l_german:
 
 # UNITE PAPUA
- PNG_assimilate_west_papua:0 "Westpapua integrieren"
- PNG_assimilate_west_papua_desc:0 "Die Insel Papua war noch nie vollständig unter einem Regime vereint, aber jetzt, da wir die gesamte Insel kontrollieren, könnten wir sie ein für alle Mal vereinen."
+PNG_assimilate_west_papua:0	"Westpapua integrieren"
+PNG_assimilate_west_papua_desc:0	"Die Insel Papua war noch nie vollständig unter einem Regime vereint, aber jetzt, da wir die gesamte Insel kontrollieren, könnten wir sie ein für alle Mal vereinen."
+r56.news_event.1121.t:0	"Eruption auf Rabaul"
+r56.news_event.1121.desc:0	"'Der Vulkan Rabaul ist einer der aktivsten und gefährlichsten Vulkane in Papua-Neuguinea' - dieses berühmte Zitat vieler Vulkanologen hat sich nun bewahrheitet, denn sowohl der Vulkan als auch der Tavurvur brachen gleichzeitig aus, töteten 507 Menschen und zerstörten die gesamte Stadt Rabaul. Der Himmel war mit dem Rauch des Vulkans gefüllt, der stundenlang den Himmel verdunkelte, und Rabaul lag in Trümmern. Die Mandatsregierung wurde in die sicherere Hafenstadt Lae verlegt, die weit von einem vulkanisch aktiven Vulkan entfernt ist. Bisher gibt es keine Berichte darüber, welche nächsten Schritte die australische Regierung zu unternehmen bereit ist, aber es scheint wahrscheinlich, dass sich Rabaul von diesem gigantischen und katastrophalen Ereignis kaum erholen wird."
+r56.news_event.1121.a:0	"Eine totale Katastrophe. Friede sei mit ihnen."
+r56.news_event.1121.b:0	"Eine Katastrophe."
+r56.news_event.1121.t:0	"Eruption auf Rabaul"
+r56.news_event.1121.desc:0	"'Der Vulkan Rabaul ist einer der aktivsten und gefährlichsten Vulkane in Papua-Neuguinea' - dieses berühmte Zitat vieler Vulkanologen hat sich nun bewahrheitet, denn sowohl der Vulkan als auch der Tavurvur brachen gleichzeitig aus, töteten 507 Menschen und zerstörten die gesamte Stadt Rabaul. Der Himmel war mit dem Rauch des Vulkans gefüllt, der stundenlang den Himmel verdunkelte, und Rabaul lag in Trümmern. Die Mandatsregierung wurde in die sicherere Hafenstadt Lae verlegt, die weit von einem vulkanisch aktiven Vulkan entfernt ist. Bisher gibt es keine Berichte darüber, welche nächsten Schritte die australische Regierung zu unternehmen bereit ist, aber es scheint wahrscheinlich, dass sich Rabaul von diesem gigantischen und katastrophalen Ereignis kaum erholen wird."
+r56.news_event.1121.a:0	"Eine totale Katastrophe. Friede sei mit ihnen."
+r56.news_event.1121.b:0	"Eine Katastrophe."
