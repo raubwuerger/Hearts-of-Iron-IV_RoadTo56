@@ -57,13 +57,13 @@
  battle_cruiser_3_desc:0 "Fast alles, von den Kanonen bis zu den Motoren, wurde verbessert. Jetzt brauchen wir nur noch eine Spüle."
 
 
-#-<><><> Battlecruiser Flavor  ""
+#-<><><> Battlecruiser Flavor
  GER_battle_cruiser_3:0 "Schlachtkreuzer 48"
  GER_battle_cruiser_3_short:0 "Schlachtkreuzer 48"
  SOV_battle_cruiser_3:0 "Moskwa-Klasse"
  SOV_battle_cruiser_3_short:0 "Moskwa-Klasse"
 
-#-<><><> Heavy Battleships  ""
+#-<><><> Heavy Battleships
  SH_battleship_3:0 "Modernes schweres Schlachtschiff"
  SH_battleship_3_short:0 "Modernes schweres Schlachtschiff"
  SH_battleship_3_desc:0 "Fast alles, von den Kanonen bis zu den Motoren, wurde verbessert. Jetzt brauchen wir nur noch eine Eismaschine."
@@ -80,12 +80,12 @@
  destroyer_5_short:0 "Halbmoderner Zerstörer"
  destroyer_5_desc:0 "Fast alles, von den Kanonen bis zu den Motoren, ist verbessert worden. Jetzt brauchen wir nur noch eine Spüle."
 
-#-<><><>  ""
+#-<><><>
  destroyer_6:0 "Moderner Zerstörer"
  destroyer_6_short:0 "Moderner Zerstörer"
  destroyer_6_desc:0 "Fast alles, von den Kanonen bis zu den Motoren, wurde verbessert. Jetzt brauchen wir nur noch eine Eismaschine."
 
-#-<><><>  ""
+#-<><><>
  destroyer_7:0 "1956 Zerstörer"
  destroyer_7_short:0 "1956er Zerstörer"
  destroyer_7_desc:0 "Fast alles, von den Kanonen bis zu den Motoren, wurde verbessert."
@@ -111,17 +111,17 @@
  submarine_5_short:0 "Halbmodernes U-Boot"
  submarine_5_desc:0 "Nahezu alles, von den Kanonen bis zu den Motoren, wurde verbessert."
 
-#-<><><>  ""
+#-<><><>
  submarine_6:0 "Modernes U-Boot"
  submarine_6_short:0 "Modernes U-Boot"
  submarine_6_desc:0 "Fast alles, von den Kanonen bis zu den Motoren, wurde verbessert."
 
-#-<><><>  ""
+#-<><><>
  submarine_7:0 "1956er U-Boot"
  submarine_7_short:0 "1956er U-Boot"
  submarine_7_desc:0 "Von den Kanonen bis zu den Motoren wurde fast alles verbessert."
 
-#-<><><>  ""
+#-<><><>
  submarine_nuc:0 "Nukleares U-Boot"
  submarine_nuc_short:0 "Kerntechnisches U-Boot"
  submarine_nuc_desc:0 "Die Kraft! Das Glühen! Der sofort fertige Toast!"
@@ -150,18 +150,18 @@
  light_cruiser_5_short:0 "Halbmoderner Leichter Kreuzer"
  light_cruiser_5_desc:0 "Nahezu alles, von den Kanonen bis zu den Motoren, wurde verbessert."
 
-#-<><><>  ""
+#-<><><>
  light_cruiser_6:0 "Moderner Leichter Kreuzer"
  light_cruiser_6_short:0 "Moderner Leichter Kreuzer"
  light_cruiser_6_desc:0 "Fast alles, von den Kanonen bis zu den Motoren, wurde verbessert."
 
-#-<><><>  ""
+#-<><><>
  light_cruiser_7:0 "Leichter Kreuzer 1956"
  light_cruiser_7_short:0 "Leichter Kreuzer 1956"
  light_cruiser_7_desc:0 "Von der Bewaffnung bis zu den Motoren wurde fast alles verbessert."
 
 
-#-<><><> Light Cruiser Flavor <><> <><> <><> <><> <><>  ""
+#-<><><> Light Cruiser Flavor <><> <><> <><> <><> <><>
  GER_light_cruiser_5:0 "Hagen-Klasse"
  GER_light_cruiser_5_short:0 "Hagener Klasse"
  GER_light_cruiser_6:0 "Wuppertal-Klasse "
@@ -180,12 +180,12 @@
  heavy_cruiser_5_short:0 "Halbmoderner Schwerer Kreuzer"
  heavy_cruiser_5_desc:0 "Nahezu alles, von den Kanonen bis zu den Motoren, wurde verbessert."
 
-#-<><><>  ""
+#-<><><>
  heavy_cruiser_6:0 "Moderner Schwerer Kreuzer"
  heavy_cruiser_6_short:0 "Moderner Schwerer Kreuzer"
  heavy_cruiser_6_desc:0 "Fast alles, von den Kanonen bis zu den Motoren, wurde verbessert."
 
-#-<><><>  ""
+#-<><><>
  heavy_cruiser_7:0 "Schwerer Kreuzer 1956"
  heavy_cruiser_7_short:0 "Schwerer Kreuzer 1956"
  heavy_cruiser_7_desc:0 "Fast alles, von der Bewaffnung bis zu den Motoren, wurde verbessert."
@@ -210,23 +210,23 @@
  battleship_5_short:0 "Halbmodernes Schlachtschiff"
  battleship_5_desc:0 "Fast alles, von den Kanonen bis zu den Motoren, wurde verbessert."
 
-#-<><><>  ""
+#-<><><>
  battleship_6:0 "Modernes Schlachtschiff"
  battleship_6_short:0 "Modernes Schlachtschiff"
  battleship_6_desc:0 "Fast alles, von den Kanonen bis zu den Motoren, wurde verbessert."
 
-#-<><><>  ""
+#-<><><>
  battleship_7:0 "Schlachtschiff 1956"
  battleship_7_short:0 "Schlachtschiff 1956"
  battleship_7_desc:0 "Von der Bewaffnung bis zu den Motoren wurde fast alles verbessert."
 
-#-<><><>  ""
+#-<><><>
  battleship_nuc:0 "Nukleares Schlachtschiff"
  battleship_nuc_short:0 "Nuklear-Schlachtschiff"
  battleship_nuc_desc:0 "Die Kraft! Das Glühen! Der sofort fertige Toast!"
 
 
-#-<><><> Battleship Flavor <><> <><> <><> <><> <><>  ""
+#-<><><> Battleship Flavor <><> <><> <><> <><> <><>
  GER_battleship_5:0 "Zeitzler-Klasse"
  GER_battleship_5_short:0 "Zeitzler-Klasse"
  GER_battleship_6:0 "Heusinger Klasse"
@@ -244,28 +244,28 @@
  SOV_battleship_nuc:0 "Sovetskaya Rossiya Klasse"
  SOV_battleship_nuc_short:0 "Sovetskaya-Rossiya-Klasse"
 
-#-<><><> Carriers <><> <><> <><> <><> <><>  ""
+#-<><><> Carriers <><> <><> <><> <><> <><>
  carrier_5:0 "Semi-Modern Carrier"
  carrier_5_short:0 "Halbmoderner Flugzeugträger"
  carrier_5_desc:0 "Nahezu alles, von den Kanonen bis zu den Motoren, wurde verbessert."
 
-#-<><><>  ""
+#-<><><>
  carrier_6:0 "Moderner Flugzeugträger"
  carrier_6_short:0 "Moderner Träger"
  carrier_6_desc:0 "Fast alles, von den Kanonen bis zu den Motoren, wurde verbessert."
 
-#-<><><>  ""
+#-<><><>
  carrier_7:0 "Flugzeugträger 1956"
  carrier_7_short:0 "Flugzeugträger 1956"
  carrier_7_desc:0 "Von der Bewaffnung bis zu den Triebwerken wurde fast alles verbessert."
 
-#-<><><>  ""
+#-<><><>
  carrier_nuc:0 "Nuklearer Flugzeugträger"
  carrier_nuc_short:0 "Nuklearer Flugzeugträger"
  carrier_nuc_desc:0 "Die Kraft! Das Glühen! Der augenblicklich fertiggestellte Toast!"
 
 
-#-<><><> Carrier Flavor <><> <><> <><> <><> <><>  ""
+#-<><><> Carrier Flavor <><> <><> <><> <><> <><>
  GER_carrier_5:0 "Solingen-Klasse"
  GER_carrier_5_short:0 "Solingen-Klasse"
  GER_carrier_6:0 "Klasse Leverkusen"

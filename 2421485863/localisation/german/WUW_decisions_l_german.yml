@@ -369,7 +369,7 @@ COG_utilize_volcanic_soils_to_cultivate_coffee:	"Nutzen Sie die reichen vulkanis
 COG_improve_ruandan_civil_adminsitration:	"Verbessern Sie die ruandische Zivilverwaltung"
 COG_improve_urundian_civil_adminsitration:	"Verbessern Sie die urundische Zivilverwaltung"
 COG_ruanda_urundi_conscription_centers:	"Wehrpflichtige Zentren errichten"
-   ""
+ 
 COG_the_empain_group_decisions:	"Die Empain Gruppe"
 COG_the_empain_group_decisions_desc:	"Indem wir die Empain-Gruppe beauftragen, uns bei der Investition in und der Entwicklung unserer Industrien und natürlichen Ressourcen zu helfen, können wir sicherstellen, dass unsere Nation noch viele Jahre lang gedeihen kann."
 COG_invest_in_cfl:	"Investieren Sie in die Compagnie du Chemin de fer du Congo Supérieur aux Grands Lacs Africains"
@@ -642,7 +642,7 @@ decision_cost_CP_20_ArmXP_15:	"£command_power §Y20§! £army_experience §Y15�
 decision_cost_CP_20_ArmXP_15_blocked:	"£command_power §R20§! £army_experience §R15§!"
 decision_cost_CP_20_ArmXP_15_tooltip:	"Es kostet £command_power §Y20§! £army_experience §Y15§!, die Entscheidung zu treffen"
 GER_reorganize_african_schutztruppe:	"Reorganisieren Sie die Afrikanische Schutztruppe"
-GER_reorganize_african_schutztruppe_tt:	"Fügt §Y1 $militia$ battalion§!, §Y1 $engineer$ battalion§! und §Y1 $recon$ battalion§! zur Afrikanischen Schutztruppe Vorlage hinzu. \Fügt §Y1 $militia$ Bataillon§! zur Vorlage Askari Schutztruppe hinzu."
+GER_reorganize_african_schutztruppe_tt:	"Fügt §Y1 $militia$ battalion§!, §Y1 $engineer$ battalion§! und §Y1 $recon$ battalion§! zur Afrikanischen Schutztruppe Vorlage hinzu. \nFügt §Y1 $militia$ Bataillon§! zur Vorlage Askari Schutztruppe hinzu."
 GER_reorganize_asian_schutztruppe:	"Reorganisieren Sie die Asiatische Schutztruppe"
 decision_cost_CP_15_ArmXP_15:	"£command_power §Y15§! £army_experience §Y15§!"
 decision_cost_CP_15_ArmXP_15_blocked:	"£command_power §R15§! £army_experience §R15§!"
@@ -735,7 +735,7 @@ GER_annex_integrated_puppet_decision:	"Integrieren Sie die [FROM.GetAdjective] z
 GER_install_franz_anton_bach_in_hungary:	"Installieren Sie eine loyale Marionettenregierung in [HUN.GetNameDef]"
 GER_install_franz_anton_bach_in_hungary_tt:	"§YFranz Anton Bach§! wird zum Führer der [HUN.GetAdjective] Regierung"
 GER_enforced_german_leadership:	"Deutschland erzwingt die deutsche Führung in Ungarn"
-  ""
+
 GER_the_fading_eagle_category:	"Der verblassende Adler"
 GER_the_fading_eagle_category_desc:	"Unsere italienischen Verbündeten haben uns ihr wahres Gesicht gezeigt, denn ihr Volk hat sich gegen uns gewandt. Das bringt unsere südliche Flanke in große Gefahr, und wir müssen alles in unserer Macht Stehende tun, um die Trümmer aufzusammeln und die Situation unter Kontrolle zu bringen."
 GER_occupy_albania_decision:	"Besetzen Sie Albanien"

@@ -1852,7 +1852,7 @@ BAY_modern_tank_equipment_x_5_short:0 "Leopard"
  AST_super_heavy_tank_equipment_1_short:0 "Schildkröte"
 
 
-###--->  CAN  <><> <><> <><>  ""
+###--->  CAN  <><> <><> <><>
  CAN_amphibious_tank_equipment_1:0 "Vickers A4E3 L1E3"
  CAN_amphibious_tank_equipment_2:0 "Valentine DD"
  CAN_amphibious_tank_equipment_3:0 "Cromwell DD"
@@ -1941,7 +1941,7 @@ BAY_modern_tank_equipment_x_5_short:0 "Leopard"
  CAN_super_heavy_tank_equipment_1_short:0 "Schildkröte"
 
 
-###--->  NZL  <><> <><> <><>  ""
+###--->  NZL  <><> <><> <><>
  NZL_amphibious_tank_equipment_1:0 "Vickers A4E3 L1E3"
  NZL_amphibious_tank_equipment_2:0 "Valentine DD"
  NZL_amphibious_tank_equipment_3:0 "Cromwell DD"
@@ -2119,7 +2119,7 @@ BAY_modern_tank_equipment_x_5_short:0 "Leopard"
  RAJ_super_heavy_tank_equipment_1_short:0 "Schildkröte"
 
 
-###--->  IND  <><> <><> <><>  ""
+###--->  IND  <><> <><> <><>
  IND_amphibious_tank_equipment_1:0 "Vickers A4E3 L1E3"
  IND_amphibious_tank_equipment_2:0 "Valentine DD"
  IND_amphibious_tank_equipment_3:0 "Cromwell DD"
@@ -2208,7 +2208,7 @@ BAY_modern_tank_equipment_x_5_short:0 "Leopard"
  IND_super_heavy_tank_equipment_1_short:0 "Schildkröte"
 
 
-###--->  SAF  <><> <><> <><>  ""
+###--->  SAF  <><> <><> <><>
  SAF_amphibious_tank_equipment_1:0 "Vickers A4E3 L1E3"
  SAF_amphibious_tank_equipment_2:0 "Valentine DD"
  SAF_amphibious_tank_equipment_3:0 "Cromwell DD"
@@ -2297,7 +2297,7 @@ BAY_modern_tank_equipment_x_5_short:0 "Leopard"
  SAF_super_heavy_tank_equipment_1_short:0 "Schildkröte"
 
 
-###--->  FRA  <><> <><> <><>  ""
+###--->  FRA  <><> <><> <><>
  FRA_amphibious_tank_equipment_1:0 "Batignolles-Châtillon DP 2"
  FRA_amphibious_tank_equipment_1_short:0 "DP 2"
  FRA_amphibious_tank_equipment_2:0 "Batignolles-Châtillon DP 3"
@@ -2364,7 +2364,7 @@ BAY_modern_tank_equipment_x_5_short:0 "Leopard"
  FRA_super_heavy_tank_equipment_1_short:0 "FCM-F1"
 
 
-###--->  BRI  <><> <><> <><>  ""
+###--->  BRI  <><> <><> <><>
  BRI_amphibious_tank_equipment_1:0 "Batignolles-Châtillon DP 2"
  BRI_amphibious_tank_equipment_1_short:0 "DP 2"
  BRI_amphibious_tank_equipment_2:0 "Batignolles-Châtillon DP 3"
@@ -2431,7 +2431,7 @@ BAY_modern_tank_equipment_x_5_short:0 "Leopard"
  BRI_super_heavy_tank_equipment_1_short:0 "FCM-F1"
 
 
-###--->  EFR  <><> <><> <><>  ""
+###--->  EFR  <><> <><> <><>
  EFR_amphibious_tank_equipment_1:0 "Batignolles-Châtillon DP 2"
  EFR_amphibious_tank_equipment_1_short:0 "DP 2"
  EFR_amphibious_tank_equipment_2:0 "Batignolles-Châtillon DP 3"
@@ -2498,7 +2498,7 @@ BAY_modern_tank_equipment_x_5_short:0 "Leopard"
  EFR_super_heavy_tank_equipment_1_short:0 "FCM-F1"
 
 
-###--->  FRI  <><> <><> <><>  ""
+###--->  FRI  <><> <><> <><>
  FRI_amphibious_tank_equipment_1:0 "Batignolles-Châtillon DP 2"
  FRI_amphibious_tank_equipment_1_short:0 "DP 2"
  FRI_amphibious_tank_equipment_2:0 "Batignolles-Châtillon DP 3"

@@ -52,7 +52,7 @@ transport_plane_equipment_3:0	"Modernes Transportflugzeug"
 transport_plane_equipment_3_short:0	"Transport III"
 transport_plane_equipment_3_desc:0	"§LFlugzeuge, die für den Transport von Truppen bei Luftlandemissionen verwendet werden.§!"
 
-#-> Scout planes <><>  ""
+#-> Scout planes <><>
 scout_plane:0	"Aufklärungsflugzeug"
 scout_plane_equipment_desc:0	"Ein speziell für die Fotoaufklärung entwickeltes Flugzeug. Verlässt sich in erster Linie auf Geschwindigkeit und Tarnung, um zu überleben, und wird in jedem Nahkampf verlieren."
 scout_plane_equipment:0	"Spähflugzeuge"
@@ -98,7 +98,7 @@ cv_CAS_equipment_3:0	"Luftnahunterstützung für Flugzeugträger '44"
 cv_CAS_equipment_3_short:0	"CAS CV '44"
 cv_CAS_equipment_3_desc:0	"Ein verbessertes Luftnahunterstützungsflugzeug, das für den Start von und die Landung auf Flugzeugträgern modifiziert wurde."
 
-#-> Light fighters <><>  ""
+#-> Light fighters <><>
 fighter:0	"Jagdflugzeug"
 fighter_equipment:0	"Jagdflugzeug"
 fighter_equipment_desc:0	"Jagdflugzeuge sind schnell und wendig und können viele Aufgaben erfüllen. Vom Kampf um die Luftüberlegenheit über den Schutz der eigenen Bomber bis hin zum Abfangen der gegnerischen Bomber."
@@ -239,7 +239,7 @@ med_maritime_equipment_3:0	"Mittlerer Marinebomber '44"
 med_maritime_equipment_3_short:0	"Mittlere Seestreitkräfte '44"
 med_maritime_equipment_3_desc:0	"Mittlerer Bomber, der für Seeaufklärung, Überwachung, Schiffsabwehr und U-Boot-Abwehr modifiziert wurde."
 
-#-> Heavy bomber <><>  ""
+#-> Heavy bomber <><>
 strat_bomber:0	"Schwerer Bomber"
 strat_bomber_equipment:0	"Schwerer Bomber"
 strat_bomber_equipment_desc:0	"Schwere Bomber greifen feindliche Gebäude und Infrastrukturen an und rauben ihnen wertvolle Industrie."
@@ -253,7 +253,7 @@ strat_bomber_equipment_3:0	"Schwerer Bomber '44"
 strat_bomber_equipment_3_short:0	"Schwerer Bomber '44"
 strat_bomber_equipment_3_desc:0	"Unser nächster Entwurf wird in großer Höhe fliegen, um Verluste durch feindliche Jäger und Bodenfeuer zu vermeiden. Er wird größer sein, um eine enorme Nutzlast und mehr Treibstoff für eine größere Reichweite mitzuführen."
 
-#-> Heavy maritime bomber <><>  ""
+#-> Heavy maritime bomber <><>
 strat_maritime:0	"Schwerer Marinebomber"
 strat_maritime_equipment_desc:0	"Schwere Marinebomber für Patrouillenflüge, Aufklärungsflüge, Schiffsabwehr und U-Boot-Bekämpfung."
 strat_maritime_equipment:0	"Schwere Seeflugzeuge"
@@ -267,7 +267,7 @@ strat_maritime_equipment_3:0	"Schwere Seeflugzeuge '44"
 strat_maritime_equipment_3_short:0	"Schwere Seeflugzeuge '44"
 strat_maritime_equipment_3_desc:0	"Schwerer Bomber, modifiziert für Seeaufklärung, Überwachung, Schiffsabwehr und U-Boot-Bekämpfung."
 
-#-> Maritime patrol <><>  ""
+#-> Maritime patrol <><>
 flying_boat:0	"Seepatrouille"
 flying_boat_equipment:0	"Seepatrouille"
 flying_boat_equipment_desc:0	"Maritime Patrol-Flugzeuge führen Überwachungs-, Antischiffs- und U-Boot-Einsätze über große Entfernungen durch und schützen nationale Seegebiete, Handelsrouten und alliierte Marineoperationen."
@@ -339,7 +339,7 @@ jet_tac_bomber_equipment_x:0	"Taktischer Jet-Bomber '55"
 jet_tac_bomber_equipment_x_short:0	"Taktischer Düsenbomber '55"
 jet_tac_bomber_equipment_x_desc:0	"Ein fortschrittlicher taktischer Düsenbomber, der mit der neuesten Technologie ausgestattet ist."
 
-#-> Jet heavy bomber <><>  ""
+#-> Jet heavy bomber <><>
 jet_strat_bomber:0	"Schwerer Jet-Bomber"
 jet_strat_bomber_equipment:0	"Schwerer Jet-Bomber"
 jet_strat_bomber_equipment_desc:0	"Schwere Bomber greifen feindliche Gebäude und Infrastrukturen an und rauben ihnen wertvolle Industrie."
@@ -390,7 +390,7 @@ BEL_cv_CAS_equipment_2_short:0	"S.47N"
 BEL_cv_CAS_equipment_3:0	"Renard R.37 Marineschiff"
 BEL_cv_CAS_equipment_3_short:0	"R.37N"
 
-#-> Light fighters <><>  ""
+#-> Light fighters <><>
 BEL_fighter_equipment_0:0	"Fairey Fuchs"
 BEL_fighter_equipment_0_short:0	"Fox"
 BEL_fighter_equipment_1:0	"Renard R.36"
@@ -536,7 +536,7 @@ COG_cv_CAS_equipment_2_short:0	"S.47N"
 COG_cv_CAS_equipment_3:0	"Renard R.37 Marineschiff"
 COG_cv_CAS_equipment_3_short:0	"R.37N"
 
-#-> Light fighters <><>  ""
+#-> Light fighters <><>
 COG_fighter_equipment_0:0	"Fairey Fuchs"
 COG_fighter_equipment_0_short:0	"Fox"
 COG_fighter_equipment_1:0	"Renard R.36"
@@ -682,7 +682,7 @@ FLA_cv_CAS_equipment_2_short:0	"S.47N"
 FLA_cv_CAS_equipment_3:0	"Renard R.37 Marineschiff"
 FLA_cv_CAS_equipment_3_short:0	"R.37N"
 
-#-> Light fighters <><>  ""
+#-> Light fighters <><>
 FLA_fighter_equipment_0:0	"Fairey Fuchs"
 FLA_fighter_equipment_0_short:0	"Fox"
 FLA_fighter_equipment_1:0	"Renard R.36"
@@ -828,7 +828,7 @@ WLL_cv_CAS_equipment_2_short:0	"S.47N"
 WLL_cv_CAS_equipment_3:0	"Renard R.37 Marineschiff"
 WLL_cv_CAS_equipment_3_short:0	"R.37N"
 
-#-> Light fighters <><>  ""
+#-> Light fighters <><>
 WLL_fighter_equipment_0:0	"Fairey Fuchs"
 WLL_fighter_equipment_0_short:0	"Fox"
 WLL_fighter_equipment_1:0	"Renard R.36"
@@ -970,7 +970,7 @@ BUL_cv_CAS_equipment_2_short:0	"KB-11M"
 BUL_cv_CAS_equipment_3:0	"DAR-10 Bekas Morski"
 BUL_cv_CAS_equipment_3_short:0	"DAR-10M"
 
-#-> Light fighters <><>  ""
+#-> Light fighters <><>
 BUL_fighter_equipment_0:0	"DAR-3 Garvan"
 BUL_fighter_equipment_0_short:0	"DAR-3"
 BUL_fighter_equipment_1:0	"Avia B.534"
@@ -1088,7 +1088,7 @@ CZE_cv_CAS_equipment_2_short:0	"B-158L"
 CZE_cv_CAS_equipment_3:0	"Letow Š-615L"
 CZE_cv_CAS_equipment_3_short:0	"Š-615L"
 
-#-> Light fighters <><>  ""
+#-> Light fighters <><>
 CZE_fighter_equipment_0:0	"Avia B-34"
 CZE_fighter_equipment_0_short:0	"B-34"
 CZE_fighter_equipment_1:0	"Avia B-534"
@@ -1218,7 +1218,7 @@ SLO_scout_plane_equipment_2_short:0	"Ae 50"
 SLO_transport_plane_equipment_1:0	"Avia 51"
 SLO_transport_plane_equipment_1_short:0	"Avia 51 "
 
-#-> Dive bombers <><>  ""
+#-> Dive bombers <><>
 SLO_CAS_equipment_1:0	"Aero Wodotschody A-104"
 SLO_CAS_equipment_1_short:0	"A-104"
 SLO_CAS_equipment_2:0	"Avia B-158"
@@ -1234,7 +1234,7 @@ SLO_cv_CAS_equipment_2_short:0	"B-158L"
 SLO_cv_CAS_equipment_3:0	"Letow Š-615L"
 SLO_cv_CAS_equipment_3_short:0	"Š-615L"
 
-#-> Light fighters <><>  ""
+#-> Light fighters <><>
 SLO_fighter_equipment_0:0	"Avia B-34"
 SLO_fighter_equipment_0_short:0	"B-34"
 SLO_fighter_equipment_1:0	"Avia B-534"
@@ -1359,7 +1359,7 @@ DOU_scout_plane_equipment_2_short:0	"Ae 50"
 DOU_transport_plane_equipment_1:0	"Avia 51"
 DOU_transport_plane_equipment_1_short:0	"Avia 51 "
 
-#-> Dive bombers <><>  ""
+#-> Dive bombers <><>
 DOU_CAS_equipment_1:0	"Aero Wodotschody A-104"
 DOU_CAS_equipment_1_short:0	"A-104"
 DOU_CAS_equipment_2:0	"Avia B-158"
@@ -1375,7 +1375,7 @@ DOU_cv_CAS_equipment_2_short:0	"B-158L"
 DOU_cv_CAS_equipment_3:0	"Letow Š-615L"
 DOU_cv_CAS_equipment_3_short:0	"Š-615L"
 
-#-> Light fighters <><>  ""
+#-> Light fighters <><>
 DOU_fighter_equipment_0:0	"Avia B-34"
 DOU_fighter_equipment_0_short:0	"B-34"
 DOU_fighter_equipment_1:0	"Avia B-534"
@@ -1501,7 +1501,7 @@ RUT_scout_plane_equipment_2_short:0	"Ae 50"
 RUT_transport_plane_equipment_1:0	"Avia 51"
 RUT_transport_plane_equipment_1_short:0	"Avia 51 "
 
-#-> Dive bombers <><>  ""
+#-> Dive bombers <><>
 RUT_CAS_equipment_1:0	"Aero Wodotschody A-104"
 RUT_CAS_equipment_1_short:0	"A-104"
 RUT_CAS_equipment_2:0	"Avia B-158"
@@ -1517,7 +1517,7 @@ RUT_cv_CAS_equipment_2_short:0	"B-158L"
 RUT_cv_CAS_equipment_3:0	"Letow Š-615L"
 RUT_cv_CAS_equipment_3_short:0	"Š-615L"
 
-#-> Light fighters <><>  ""
+#-> Light fighters <><>
 RUT_fighter_equipment_0:0	"Avia B-34"
 RUT_fighter_equipment_0_short:0	"B-34"
 RUT_fighter_equipment_1:0	"Avia B-534"
@@ -1663,7 +1663,7 @@ CHI_cv_CAS_equipment_2_short:0	"XA-0H"
 CHI_cv_CAS_equipment_3:0	"CAMCO XA-1 Hängen"
 CHI_cv_CAS_equipment_3_short:0	"XA-1H"
 
-#-> Light fighters <><>  ""
+#-> Light fighters <><>
 CHI_fighter_equipment_0:0	"CAMCO Hawk III"
 CHI_fighter_equipment_0_short:0	"Falke III"
 CHI_fighter_equipment_1:0	"CAMCO Zhong 28 Jia"
@@ -1803,7 +1803,7 @@ GXC_cv_CAS_equipment_2_short:0	"XA-0H"
 GXC_cv_CAS_equipment_3:0	"CAMCO XA-1 Hängen"
 GXC_cv_CAS_equipment_3_short:0	"XA-1H"
 
-#-> Light fighters <><>  ""
+#-> Light fighters <><>
 GXC_fighter_equipment_0:0	"CAMCO Hawk III"
 GXC_fighter_equipment_0_short:0	"Falke III"
 GXC_fighter_equipment_1:0	"CAMCO Zhong 28 Jia"
@@ -1943,7 +1943,7 @@ SHX_cv_CAS_equipment_2_short:0	"XA-0H"
 SHX_cv_CAS_equipment_3:0	"CAMCO XA-1 Hängen"
 SHX_cv_CAS_equipment_3_short:0	"XA-1H"
 
-#-> Light fighters <><>  ""
+#-> Light fighters <><>
 SHX_fighter_equipment_0:0	"CAMCO Hawk III"
 SHX_fighter_equipment_0_short:0	"Falke III"
 SHX_fighter_equipment_1:0	"CAMCO Zhong 28 Jia"
@@ -2083,7 +2083,7 @@ XSM_cv_CAS_equipment_2_short:0	"XA-0H"
 XSM_cv_CAS_equipment_3:0	"CAMCO XA-1 Hängen"
 XSM_cv_CAS_equipment_3_short:0	"XA-1H"
 
-#-> Light fighters <><>  ""
+#-> Light fighters <><>
 XSM_fighter_equipment_0:0	"CAMCO Hawk III"
 XSM_fighter_equipment_0_short:0	"Falke III"
 XSM_fighter_equipment_1:0	"CAMCO Zhong 28 Jia"
@@ -2223,7 +2223,7 @@ YUN_cv_CAS_equipment_2_short:0	"XA-0H"
 YUN_cv_CAS_equipment_3:0	"CAMCO XA-1 Hängen"
 YUN_cv_CAS_equipment_3_short:0	"XA-1H"
 
-#-> Light fighters <><>  ""
+#-> Light fighters <><>
 YUN_fighter_equipment_0:0	"CAMCO Hawk III"
 YUN_fighter_equipment_0_short:0	"Falke III"
 YUN_fighter_equipment_1:0	"CAMCO Zhong 28 Jia"
@@ -2363,7 +2363,7 @@ TNG_cv_CAS_equipment_2_short:0	"XA-0H"
 TNG_cv_CAS_equipment_3:0	"CAMCO XA-1 Hängen"
 TNG_cv_CAS_equipment_3_short:0	"XA-1H"
 
-#-> Light fighters <><>  ""
+#-> Light fighters <><>
 TNG_fighter_equipment_0:0	"CAMCO Hawk III"
 TNG_fighter_equipment_0_short:0	"Falke III"
 TNG_fighter_equipment_1:0	"CAMCO Zhong 28 Jia"
@@ -2615,7 +2615,7 @@ ENG_cv_CAS_equipment_2_short:0	"Firefly"
 ENG_cv_CAS_equipment_3:0	"de Havilland Seemoskito"
 ENG_cv_CAS_equipment_3_short:0	"Seemoskito"
 
-#-> Light fighters <><>  ""
+#-> Light fighters <><>
 ENG_fighter_equipment_0:0	"Gloster Gladiator"
 ENG_fighter_equipment_0_short:0	"Gladiator"
 ENG_fighter_equipment_1:0	"Hawker Hurricane"
@@ -2761,7 +2761,7 @@ NIR_cv_CAS_equipment_2_short:0	"Firefly"
 NIR_cv_CAS_equipment_3:0	"de Havilland Seemoskito"
 NIR_cv_CAS_equipment_3_short:0	"Seemoskito"
 
-#-> Light fighters <><>  ""
+#-> Light fighters <><>
 NIR_fighter_equipment_0:0	"Gloster Gladiator"
 NIR_fighter_equipment_0_short:0	"Gladiator"
 NIR_fighter_equipment_1:0	"Hawker Hurricane"
@@ -2907,7 +2907,7 @@ SCO_cv_CAS_equipment_2_short:0	"Firefly"
 SCO_cv_CAS_equipment_3:0	"de Havilland Seemoskito"
 SCO_cv_CAS_equipment_3_short:0	"Seemoskito"
 
-#-> Light fighters <><>  ""
+#-> Light fighters <><>
 SCO_fighter_equipment_0:0	"Gloster Gladiator"
 SCO_fighter_equipment_0_short:0	"Gladiator"
 SCO_fighter_equipment_1:0	"Hawker Hurricane"
@@ -3053,7 +3053,7 @@ WLS_cv_CAS_equipment_2_short:0	"Firefly"
 WLS_cv_CAS_equipment_3:0	"de Havilland Seemoskito"
 WLS_cv_CAS_equipment_3_short:0	"Seemoskito"
 
-#-> Light fighters <><>  ""
+#-> Light fighters <><>
 WLS_fighter_equipment_0:0	"Gloster Gladiator"
 WLS_fighter_equipment_0_short:0	"Gladiator"
 WLS_fighter_equipment_1:0	"Hawker Hurricane"
@@ -3199,7 +3199,7 @@ AST_cv_CAS_equipment_2_short:0	"Firefly"
 AST_cv_CAS_equipment_3:0	"de Havilland Seemoskito"
 AST_cv_CAS_equipment_3_short:0	"Seemoskito"
 
-#-> Light fighters <><>  ""
+#-> Light fighters <><>
 AST_fighter_equipment_0:0	"Hawker Dämon"
 AST_fighter_equipment_0_short:0	"Demon"
 AST_fighter_equipment_1:0	"CAC CA-12 Boomerang"
@@ -3323,7 +3323,7 @@ AST_jet_tac_bomber_equipment_1_short:0	"Venom"
 AST_jet_tac_bomber_equipment_2:0	"English Electric Canberra"
 AST_jet_tac_bomber_equipment_2_short:0	"Canberra"
 
-#-> Jet heavy bomber <><>  ""
+#-> Jet heavy bomber <><>
 AST_jet_strat_bomber_equipment_1:0	"Vickers Valiant"
 AST_jet_strat_bomber_equipment_1_short:0	"Valiant"
 AST_jet_strat_bomber_equipment_1:0	"Vickers Valiant B.2"
@@ -3347,7 +3347,7 @@ CAN_cv_CAS_equipment_2_short:0	"Skua"
 CAN_cv_CAS_equipment_3:0	"Fairey Firefly"
 CAN_cv_CAS_equipment_3_short:0	"Leuchtkäfer"
 
-#-> Light fighters <><>  ""
+#-> Light fighters <><>
 CAN_fighter_equipment_0:0	"Hawker Dämon"
 CAN_fighter_equipment_0_short:0	"Dämon"
 CAN_fighter_equipment_1:0	"Hawker Hurricane"
@@ -3471,7 +3471,7 @@ CAN_jet_tac_bomber_equipment_1_short:0	"Venom"
 CAN_jet_tac_bomber_equipment_2:0	"English Electric Canberra"
 CAN_jet_tac_bomber_equipment_2_short:0	"Canberra"
 
-#-> Jet heavy bomber <><>  ""
+#-> Jet heavy bomber <><>
 CAN_jet_strat_bomber_equipment_1:0	"Vickers Valiant"
 CAN_jet_strat_bomber_equipment_1_short:0	"Valiant"
 CAN_jet_strat_bomber_equipment_2:0	"Vickers Valiant B.2"
@@ -3495,7 +3495,7 @@ NZL_cv_CAS_equipment_2_short:0	"Skua"
 NZL_cv_CAS_equipment_3:0	"Hawker Sea Fury"
 NZL_cv_CAS_equipment_3_short:0	"Sea Fury"
 
-#-> Light fighters <><>  ""
+#-> Light fighters <><>
 NZL_fighter_equipment_0:0	"Gloster Gladiator"
 NZL_fighter_equipment_0_short:0	"Gladiator"
 NZL_fighter_equipment_1:0	"Hawker Hurricane"
@@ -3643,7 +3643,7 @@ RAJ_cv_CAS_equipment_2_short:0	"Skua"
 RAJ_cv_CAS_equipment_3:0	"Hawker Sea Fury"
 RAJ_cv_CAS_equipment_3_short:0	"See-Wildschwein"
 
-#-> Light fighters <><>  ""
+#-> Light fighters <><>
 RAJ_fighter_equipment_0:0	"Falkenjäger Nimrod"
 RAJ_fighter_equipment_0_short:0	"Nimrod"
 RAJ_fighter_equipment_1:0	"Hawker Hurricane"
@@ -3791,7 +3791,7 @@ IND_cv_CAS_equipment_2_short:0	"Skua"
 IND_cv_CAS_equipment_3:0	"Hawker Sea Fury"
 IND_cv_CAS_equipment_3_short:0	"See-Wildschwein"
 
-#-> Light fighters <><>  ""
+#-> Light fighters <><>
 IND_fighter_equipment_0:0	"Falkenjäger Nimrod"
 IND_fighter_equipment_0_short:0	"Nimrod"
 IND_fighter_equipment_1:0	"Hawker Hurricane"
@@ -3939,7 +3939,7 @@ SAF_cv_CAS_equipment_2_short:0	"Skua"
 SAF_cv_CAS_equipment_3:0	"Hawker Sea Fury"
 SAF_cv_CAS_equipment_3_short:0	"Sea Fury"
 
-#-> Light fighters <><>  ""
+#-> Light fighters <><>
 SAF_fighter_equipment_0:0	"Gloster Gladiator"
 SAF_fighter_equipment_0_short:0	"Gladiator"
 SAF_fighter_equipment_1:0	"Hawker Hurricane"
@@ -4088,7 +4088,7 @@ FIN_CAS_equipment_2_short:0	"F.K.52"
 FIN_CAS_equipment_3:0	"VL Pyry II"
 FIN_CAS_equipment_3_short:0	"Pyry II"
 
-#-> Carrier-based dive bombers <><>  ""
+#-> Carrier-based dive bombers <><>
 FIN_cv_CAS_equipment_1:0	"Fokker-VL C.X"
 FIN_cv_CAS_equipment_1_short:0	"C.X M"
 FIN_cv_CAS_equipment_2:0	"Koolhoven F.K.52M"
@@ -4149,7 +4149,7 @@ FRA_cv_CAS_equipment_2_short:0	"LN.401"
 FRA_cv_CAS_equipment_3:0	"SNCASO SO.8000 Narval"
 FRA_cv_CAS_equipment_3_short:0	"SO.8000 Narval"
 
-#-> Light fighters <><>  ""
+#-> Light fighters <><>
 FRA_fighter_equipment_0:0	"Nieuport-Delage NiD 62"
 FRA_fighter_equipment_0_short:0	"NiD 62"
 FRA_fighter_equipment_1:0	"Morane-Saulnier M.S.406"
@@ -4310,7 +4310,7 @@ BRI_cv_CAS_equipment_2_short:0	"LN.401"
 BRI_cv_CAS_equipment_3:0	"SNCASO SO.8000 Narval"
 BRI_cv_CAS_equipment_3_short:0	"SO.8000 Narval"
 
-#-> Light fighters <><>  ""
+#-> Light fighters <><>
 BRI_fighter_equipment_0:0	"Nieuport-Delage NiD 62"
 BRI_fighter_equipment_0_short:0	"NiD 62"
 BRI_fighter_equipment_1:0	"Morane-Saulnier M.S.406"
@@ -4471,7 +4471,7 @@ EFR_cv_CAS_equipment_2_short:0	"LN.401"
 EFR_cv_CAS_equipment_3:0	"SNCASO SO.8000 Narval"
 EFR_cv_CAS_equipment_3_short:0	"SO.8000 Narval"
 
-#-> Light fighters <><>  ""
+#-> Light fighters <><>
 EFR_fighter_equipment_0:0	"Nieuport-Delage NiD 62"
 EFR_fighter_equipment_0_short:0	"NiD 62"
 EFR_fighter_equipment_1:0	"Morane-Saulnier M.S.406"
@@ -4633,7 +4633,7 @@ FRI_cv_CAS_equipment_2_short:0	"LN.401"
 FRI_cv_CAS_equipment_3:0	"SNCASO SO.8000 Narval"
 FRI_cv_CAS_equipment_3_short:0	"SO.8000 Narval"
 
-#-> Light fighters <><>  ""
+#-> Light fighters <><>
 FRI_fighter_equipment_0:0	"Nieuport-Delage NiD 62"
 FRI_fighter_equipment_0_short:0	"NiD 62"
 FRI_fighter_equipment_1:0	"Morane-Saulnier M.S.406"
@@ -4768,7 +4768,7 @@ FRI_jet_strat_bomber_equipment_1:0	"SNCASO SO.4000 Vautour"
 FRI_jet_strat_bomber_equipment_1_short:0	"Vautour"
 
 ###--->  PRU  <><> <><> <><> ""
-#-> Light fighters <><>  ""
+#-> Light fighters <><>
 PRU_fighter_equipment_0:0	"Caproni ca 114"
 PRU_fighter_equipment_0_short:0	"ca 114"
 PRU_fighter_equipment_1:0	"Torito NA-50A"
@@ -4826,7 +4826,7 @@ GER_cv_CAS_equipment_2_short:0	"Ju 87 D-4"
 GER_cv_CAS_equipment_3:0	"Junkers Ju 187 C"
 GER_cv_CAS_equipment_3_short:0	"Ju 187 C"
 
-#-> Light fighters <><>  ""
+#-> Light fighters <><>
 GER_fighter_equipment_0:0	"Heinkel He 51"
 GER_fighter_equipment_0_short:0	"He 51"
 GER_fighter_equipment_1:0	"Messerschmitt Bf 109"
@@ -5001,7 +5001,7 @@ WGR_cv_CAS_equipment_2_short:0	"Ju 87 D-4"
 WGR_cv_CAS_equipment_3:0	"Junkers Ju 187 C"
 WGR_cv_CAS_equipment_3_short:0	"Ju 187 C"
 
-#-> Light fighters <><>  ""
+#-> Light fighters <><>
 WGR_fighter_equipment_0:0	"Heinkel He 51"
 WGR_fighter_equipment_0_short:0	"He 51"
 WGR_fighter_equipment_1:0	"Messerschmitt Bf 109"
@@ -5175,7 +5175,7 @@ BAY_cv_CAS_equipment_2_short:0	"Ju 87 D-4"
 BAY_cv_CAS_equipment_3:0	"Junkers Ju 187 C"
 BAY_cv_CAS_equipment_3_short:0	"Ju 187 C"
 
-#-> Light fighters <><>  ""
+#-> Light fighters <><>
 BAY_fighter_equipment_0:0	"Heinkel He 51"
 BAY_fighter_equipment_0_short:0	"He 51"
 BAY_fighter_equipment_1:0	"Messerschmitt Bf 109"
@@ -5350,7 +5350,7 @@ BAD_cv_CAS_equipment_2_short:0	"Ju 87 D-4"
 BAD_cv_CAS_equipment_3:0	"Junkers Ju 187 C"
 BAD_cv_CAS_equipment_3_short:0	"Ju 187 C"
 
-#-> Light fighters <><>  ""
+#-> Light fighters <><>
 BAD_fighter_equipment_0:0	"Heinkel He 51"
 BAD_fighter_equipment_0_short:0	"He 51"
 BAD_fighter_equipment_1:0	"Messerschmitt Bf 109"
@@ -5525,7 +5525,7 @@ HAN_cv_CAS_equipment_2_short:0	"Ju 87 D-4"
 HAN_cv_CAS_equipment_3:0	"Junkers Ju 187 C"
 HAN_cv_CAS_equipment_3_short:0	"Ju 187 C"
 
-#-> Light fighters <><>  ""
+#-> Light fighters <><>
 HAN_fighter_equipment_0:0	"Heinkel He 51"
 HAN_fighter_equipment_0_short:0	"He 51"
 HAN_fighter_equipment_1:0	"Messerschmitt Bf 109"
@@ -5699,7 +5699,7 @@ PRE_cv_CAS_equipment_2_short:0	"Ju 87 D-4"
 PRE_cv_CAS_equipment_3:0	"Junkers Ju 187 C"
 PRE_cv_CAS_equipment_3_short:0	"Ju 187 C"
 
-#-> Light fighters <><>  ""
+#-> Light fighters <><>
 PRE_fighter_equipment_0:0	"Heinkel He 51"
 PRE_fighter_equipment_0_short:0	"He 51"
 PRE_fighter_equipment_1:0	"Messerschmitt Bf 109"
@@ -5873,7 +5873,7 @@ SAX_cv_CAS_equipment_2_short:0	"Ju 87 D-4"
 SAX_cv_CAS_equipment_3:0	"Junkers Ju 187 C"
 SAX_cv_CAS_equipment_3_short:0	"Ju 187 C"
 
-#-> Light fighters <><>  ""
+#-> Light fighters <><>
 SAX_fighter_equipment_0:0	"Heinkel He 51"
 SAX_fighter_equipment_0_short:0	"He 51"
 SAX_fighter_equipment_1:0	"Messerschmitt Bf 109"
@@ -6047,7 +6047,7 @@ WUR_cv_CAS_equipment_2_short:0	"Ju 87 D-4"
 WUR_cv_CAS_equipment_3:0	"Junkers Ju 187 C"
 WUR_cv_CAS_equipment_3_short:0	"Ju 187 C"
 
-#-> Light fighters <><>  ""
+#-> Light fighters <><>
 WUR_fighter_equipment_0:0	"Heinkel He 51"
 WUR_fighter_equipment_0_short:0	"He 51"
 WUR_fighter_equipment_1:0	"Messerschmitt Bf 109"
@@ -6221,7 +6221,7 @@ AUS_cv_CAS_equipment_2_short:0	"Ju 87 D-4"
 AUS_cv_CAS_equipment_3:0	"Junkers Ju 187 C"
 AUS_cv_CAS_equipment_3_short:0	"Ju 187 C"
 
-#-> Light fighters <><>  ""
+#-> Light fighters <><>
 AUS_fighter_equipment_0:0	"Heinkel He 51"
 AUS_fighter_equipment_0_short:0	"He 51"
 AUS_fighter_equipment_1:0	"Messerschmitt Bf 109"
@@ -6385,7 +6385,7 @@ HOL_cv_CAS_equipment_2_short:0	"C.XVc"
 HOL_cv_CAS_equipment_3:0	"C.XVIIc"
 HOL_cv_CAS_equipment_3_short:0	"C.XVIIc"
 
-#-> Light fighters <><>  ""
+#-> Light fighters <><>
 HOL_fighter_equipment_0:0	"Fokker D.XVII"
 HOL_fighter_equipment_0_short:0	"D.XVII"
 HOL_fighter_equipment_1:0	"Fokker D.XXI"
@@ -6535,7 +6535,7 @@ INS_cv_CAS_equipment_2_short:0	"C.XVc"
 INS_cv_CAS_equipment_3:0	"C.XVIIc"
 INS_cv_CAS_equipment_3_short:0	"C.XVIIc"
 
-#-> Light fighters <><>  ""
+#-> Light fighters <><>
 INS_fighter_equipment_0:0	"Fokker D.XVII"
 INS_fighter_equipment_0_short:0	"D.XVII"
 INS_fighter_equipment_1:0	"Fokker D.XXI"
@@ -6685,7 +6685,7 @@ HUN_cv_CAS_equipment_2_short:0	"RMI-3"
 HUN_cv_CAS_equipment_3:0	"Varga RMI-11 Z/H"
 HUN_cv_CAS_equipment_3_short:0	"RMI-11"
 
-#-> Light fighters <><>  ""
+#-> Light fighters <><>
 HUN_fighter_equipment_0:0	"AVIS III"
 HUN_fighter_equipment_0_short:0	"AVIS III"
 HUN_fighter_equipment_1:0	"Weiss WM-23 Ezustnyil"
@@ -7920,7 +7920,7 @@ JAP_cv_CAS_equipment_2_short:0	"D3A"
 JAP_cv_CAS_equipment_3:0	"Yokosuka D4Y Suisei"
 JAP_cv_CAS_equipment_3_short:0	"D4Y Suisei"
 
-#-> Light fighters <><>  ""
+#-> Light fighters <><>
 JAP_fighter_equipment_0:0	"Nakajima Typ-91"
 JAP_fighter_equipment_0_short:0	"Typ-91"
 JAP_fighter_equipment_1:0	"Nakajima Ki-27"
@@ -8083,7 +8083,7 @@ MAN_cv_CAS_equipment_2_short:0	"D3A"
 MAN_cv_CAS_equipment_3:0	"Yokosuka D4Y Suisei"
 MAN_cv_CAS_equipment_3_short:0	"D4Y Suisei"
 
-#-> Light fighters <><>  ""
+#-> Light fighters <><>
 MAN_fighter_equipment_0:0	"Nakajima Typ-91"
 MAN_fighter_equipment_0_short:0	"Typ-91"
 MAN_fighter_equipment_1:0	"Nakajima Ki-27"
@@ -8241,7 +8241,7 @@ SIA_cv_CAS_equipment_2_short:0	"D3A"
 SIA_cv_CAS_equipment_3:0	"Yokosuka D4Y Suisei"
 SIA_cv_CAS_equipment_3_short:0	"D4Y Suisei"
 
-#-> Light fighters <><>  ""
+#-> Light fighters <><>
 SIA_fighter_equipment_0:0	"Nakajima Typ-91"
 SIA_fighter_equipment_0_short:0	"Typ-91"
 SIA_fighter_equipment_1:0	"Nakajima Ki-27"
@@ -8838,7 +8838,7 @@ ROM_cv_CAS_equipment_2_short:0	"IAR 47P"
 ROM_cv_CAS_equipment_3:0	"IAR 471P"
 ROM_cv_CAS_equipment_3_short:0	"IAR 471P"
 
-#-> Light fighters <><>  ""
+#-> Light fighters <><>
 ROM_fighter_equipment_0:0	"IAR 14"
 ROM_fighter_equipment_0_short:0	"IAR 14"
 ROM_fighter_equipment_1:0	"IAR 80"
@@ -9643,7 +9643,7 @@ SPR_cv_CAS_equipment_2_short:0	"HS RBLM-40"
 SPR_cv_CAS_equipment_3:0	"Hispano-Suiza HS RBLM-44"
 SPR_cv_CAS_equipment_3_short:0	"HS RBLM-44"
 
-#-> Light fighters <><>  ""
+#-> Light fighters <><>
 SPR_fighter_equipment_0:0	"Hispano-Suiza HS-132 L"
 SPR_fighter_equipment_0_short:0	"HS-132 L "
 SPR_fighter_equipment_1:0	"Hispano-Suiza HS C-36"
@@ -9746,7 +9746,7 @@ SPA_cv_CAS_equipment_2_short:0	"HS RBLM-40"
 SPA_cv_CAS_equipment_3:0	"Hispano-Suiza HS RBLM-44"
 SPA_cv_CAS_equipment_3_short:0	"HS RBLM-44"
 
-#-> Light fighters <><>  ""
+#-> Light fighters <><>
 SPA_fighter_equipment_0:0	"Hispano-Suiza HS-132 L"
 SPA_fighter_equipment_0_short:0	"HS-132 L "
 SPA_fighter_equipment_1:0	"Hispano-Suiza HS C-36"
@@ -9849,7 +9849,7 @@ SPB_cv_CAS_equipment_2_short:0	"HS RBLM-40"
 SPB_cv_CAS_equipment_3:0	"Hispano-Suiza HS RBLM-44"
 SPB_cv_CAS_equipment_3_short:0	"HS RBLM-44"
 
-#-> Light fighters <><>  ""
+#-> Light fighters <><>
 SPB_fighter_equipment_0:0	"Hispano-Suiza HS-132 L"
 SPB_fighter_equipment_0_short:0	"HS-132 L "
 SPB_fighter_equipment_1:0	"Hispano-Suiza HS C-36"
@@ -9952,7 +9952,7 @@ SPC_cv_CAS_equipment_2_short:0	"HS RBLM-40"
 SPC_cv_CAS_equipment_3:0	"Hispano-Suiza HS RBLM-44"
 SPC_cv_CAS_equipment_3_short:0	"HS RBLM-44"
 
-#-> Light fighters <><>  ""
+#-> Light fighters <><>
 SPC_fighter_equipment_0:0	"Hispano-Suiza HS-132 L"
 SPC_fighter_equipment_0_short:0	"HS-132 L "
 SPC_fighter_equipment_1:0	"Hispano-Suiza HS C-36"
@@ -10067,7 +10067,7 @@ SWE_cv_CAS_equipment_2_short:0	"S 19"
 SWE_cv_CAS_equipment_3:0	"SAAB S 21"
 SWE_cv_CAS_equipment_3_short:0	"S 21"
 
-#-> Light fighters <><>  ""
+#-> Light fighters <><>
 SWE_fighter_equipment_0:0	"ASJA J 6 Jaktfalken"
 SWE_fighter_equipment_0_short:0	"Jaktfalken "
 SWE_fighter_equipment_1:0	"Seversky J 9"
@@ -10188,7 +10188,7 @@ LIT_scout_plane_equipment_1_short:0	"ANBO VII"
 LIT_scout_plane_equipment_2:0	"ANBO VII"
 LIT_scout_plane_equipment_2_short:0	"ANBO VII"
 
- #-> Light fighters <><>  ""
+ #-> Light fighters <><>
 LIT_fighter_equipment_0:0	"ANBO III"
 LIT_fighter_equipment_0_short:0	"ANBO III"
 LIT_fighter_equipment_1:0	"ANBO 51"
@@ -10239,7 +10239,7 @@ USA_cv_CAS_equipment_2_short:0	"Dauntless"
 USA_cv_CAS_equipment_3:0	"Curtiss SB2C-1s Helldiver"
 USA_cv_CAS_equipment_3_short:0	"Helldiver"
 
-#-> Light fighters <><>  ""
+#-> Light fighters <><>
 USA_fighter_equipment_0:0	"Curtiss P-6 Hawk"
 USA_fighter_equipment_0_short:0	"Hawk"
 USA_fighter_equipment_1:0	"Curtiss P-36 Hawk"
@@ -10407,7 +10407,7 @@ YUG_cv_CAS_equipment_2_short:0	"Orkan N"
 YUG_cv_CAS_equipment_3:0	"Soko 522N"
 YUG_cv_CAS_equipment_3_short:0	"Soko 522N"
 
-#-> Light fighters <><>  ""
+#-> Light fighters <><>
 YUG_fighter_equipment_0:0	"Avia-Ikarus BH-33"
 YUG_fighter_equipment_0_short:0	"BH-33"
 YUG_fighter_equipment_1:0	"Ikarus IK-2"
@@ -10532,7 +10532,7 @@ BOS_cv_CAS_equipment_2_short:0	"Orkan N"
 BOS_cv_CAS_equipment_3:0	"Soko 522N"
 BOS_cv_CAS_equipment_3_short:0	"Soko 522N"
 
-#-> Light fighters <><>  ""
+#-> Light fighters <><>
 BOS_fighter_equipment_0:0	"Avia-Ikarus BH-33"
 BOS_fighter_equipment_0_short:0	"BH-33"
 BOS_fighter_equipment_1:0	"Ikarus IK-2"
@@ -10657,7 +10657,7 @@ CRO_cv_CAS_equipment_2_short:0	"Orkan N"
 CRO_cv_CAS_equipment_3:0	"Soko 522N"
 CRO_cv_CAS_equipment_3_short:0	"Soko 522N"
 
-#-> Light fighters <><>  ""
+#-> Light fighters <><>
 CRO_fighter_equipment_0:0	"Avia-Ikarus BH-33"
 CRO_fighter_equipment_0_short:0	"BH-33"
 CRO_fighter_equipment_1:0	"Ikarus IK-2"
@@ -10782,7 +10782,7 @@ SER_cv_CAS_equipment_2_short:0	"Orkan N"
 SER_cv_CAS_equipment_3:0	"Soko 522N"
 SER_cv_CAS_equipment_3_short:0	"Soko 522N"
 
-#-> Light fighters <><>  ""
+#-> Light fighters <><>
 SER_fighter_equipment_0:0	"Avia-Ikarus BH-33"
 SER_fighter_equipment_0_short:0	"BH-33"
 SER_fighter_equipment_1:0	"Ikarus IK-2"
@@ -10907,7 +10907,7 @@ SLV_cv_CAS_equipment_2_short:0	"Orkan N"
 SLV_cv_CAS_equipment_3:0	"Soko 522N"
 SLV_cv_CAS_equipment_3_short:0	"Soko 522N"
 
-#-> Light fighters <><>  ""
+#-> Light fighters <><>
 SLV_fighter_equipment_0:0	"Avia-Ikarus BH-33"
 SLV_fighter_equipment_0_short:0	"BH-33"
 SLV_fighter_equipment_1:0	"Ikarus IK-2"

@@ -1,4 +1,4 @@
-﻿l_german:
+﻿#l_german:
  Mengkukuo_focus:0 "Mengkukuo National Focus"
  MEN_GATHERING_STORM_DESC:0 "Als die Kriegstrommeln über den sanften Hügeln der Mandschurei verstummten, waren die imperialen Ambitionen Japans ein für alle Mal in Stein gemeißelt und bedrohten das zukünftige Überleben jedes chinesischen Staates. Jahrelange Konflikte und Kämpfe um Einfluss in der Inneren Mongolei haben Japans Griff nur noch fester werden lassen, wobei die Kwantung-Armee als Speerspitze des japanischen Einflusses fungierte.So herrschten jahrelang politische Anarchie und Unordnung in der Nation, was zu weitestgehend unpopulären Entscheidungen und politischer Unentschlossenheit führte ..."
 
@@ -48,7 +48,7 @@
  MEN_modernize_our_artillery_desc:0 ""
  MEN_masters_of_the_steppe:0 "Meister der Steppe"
  MEN_masters_of_the_steppe_desc:0 ""
-  ""
+
  MEN_embrace_horses_of_steel:0 "Anpassung an das moderne Schlachtfeld"
  MEN_embrace_horses_of_steel_desc:0 ""
  MEN_understanding_blitzkreig_doctine:0 "Achtung, Kavallerie?"
@@ -159,7 +159,7 @@
 
  MEN_compromise_with_nanjing:0 "Kompromiss mit [CHI.Capital.GetCapitalVictoryPointName]"
  MEN_compromise_with_nanjing_desc:0 ""
-  ""
+  
  MEN_root_out_japanese_loyality:0 "Bekämpfung des Einflusses der Kwantungarmee"
  MEN_root_out_japanese_loyality_desc:0 ""
 
@@ -242,7 +242,7 @@
 
  MEN_radicalize_the_peasants:0 "Die Bauern radikalisieren"
  MEN_radicalize_the_peasants_desc:0 ""
-  ""
+
  MEN_reach_out_to_the_soviets:0 "An die Sowjets herantreten"
  MEN_reach_out_to_the_soviets_desc:0 ""
 
@@ -263,7 +263,7 @@
 
  MEN_request_soviet_industrial_aid:0 "Industrielle Hilfe [SOV.GetAdjektiv] anfordern"
  MEN_request_soviet_industrial_aid_desc:0 ""
-  ""
+  
  MEN_stamp_out_fascist_sympathies:0 "Faschistische Sympathien ausmerzen"
  MEN_stamp_out_fascist_sympathies_desc:0 ""
 
@@ -278,7 +278,7 @@
 
  MEN_joint_invasion_of_shx:0 "Gemeinsame Invasion von [SHX.GetName]"
  MEN_joint_invasion_of_shx_desc:0 ""
-  ""
+  
  MEN_propose_mongol_unification:0 "Vorschlag zur mongolischen Vereinigung"
  MEN_propose_mongol_unification_desc:0 ""
 

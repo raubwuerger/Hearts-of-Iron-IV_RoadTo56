@@ -1534,7 +1534,6 @@ AFG_reestablish_the_khivan_khanate:0	"Wählen Sie aus, wo Sie den Basmachi-Wider
 AFG_KHI_create_2_cav_divs_tt:0	" Hat den Basmachi-Widerstand unterstützt! in [YState]."
 AFG_BUK_create_2_inf_divs_tt:0	"Mit Beginn des [SOV.GetAdjektiv]!-[AFG.GetAdjektiv]-Krieges werden wir eine [YBasmachi Resistance Brigade] in diesem Staat erhalten."
 
-  "Starten Sie die Basmachi-Rebellion"
 AFG_arm_local_resistance:0	"Stellt das Bucharische Emirat wieder her"
 AFG_launch_the_uprising:0	"Stellt das Chiwa-Khanat wieder her"
 AFG_approach_bacha_khan:0	"Erstellt eine "Chiwan-Kavalleriebrigade" in [831.GetName] und [832.GetName]!"

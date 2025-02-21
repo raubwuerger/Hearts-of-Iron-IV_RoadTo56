@@ -244,7 +244,7 @@ ARM_resettle_trabzon:0	"Trabzon umsiedeln"
 ARM_resettle_trabzon_desc:0	""
 ARM_nakhchivan_population_exchange:0	"[1044.GetName] Bevölkerungsaustausch"
 ARM_nakhchivan_population_exchange_desc:0	""
-  ""
+
  ### ECONOMY BRANCH ### ""
 
 ARM_start_the_rare_minerals_program:0	"Beginn der Untersuchung seltener Mineralien"

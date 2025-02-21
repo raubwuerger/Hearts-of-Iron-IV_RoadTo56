@@ -17,7 +17,7 @@
  anti_air_equipment_x_short:0 "Leichte Luftabwehr '48"
  anti_air_equipment_x_desc:0 "Ein überarbeitetes mobiles Flakgeschütz mit Autoloader und Aufrüstungsmöglichkeiten für die Zukunft."
 
-#-> Anti-tank gun <><>  ""
+#-> Anti-tank gun <><>
  anti_tank_equipment:0 "Panzerabwehr"
  anti_tank_equipment_short:0 "Panzerabwehr"
  anti_tank_equipment_desc:0 "Artillerie, die auf die Bekämpfung von gepanzerten Zielen wie Panzern spezialisiert ist. Sie feuert in der Regel panzerbrechende Geschosse ab."
@@ -70,7 +70,7 @@
  artillery_equipment_x_short:0 "Feldartillerie '45"
  artillery_equipment_x_desc:0 "Die Artillerie verfügt über eine beeindruckende Fähigkeit, trotz ihrer geringen Größe eine große Wirkung zu erzielen, und stellt ihre gewaltige Kraft auf dem Schlachtfeld unter Beweis."
 
-#-> Rocket artillery <><>   ""
+#-> Rocket artillery <><> 
  rocket_artillery_equipment:0 "Raketenartillerie"
  rocket_artillery_equipment_short:0 "Raketenartillerie"
  rocket_artillery_equipment_desc:0 "Die Raketenartillerie ist weniger genau und hat eine viel geringere Dauerfeuerrate als Batterien herkömmlicher Artilleriegeschütze. Allerdings können sie ein Ziel gleichzeitig mit mehreren Raketen treffen und so eine verheerende Wirkung erzielen."
@@ -167,7 +167,7 @@
  ARG_artillery_equipment_x:0 "Obús Kaliber 105mm L50 Modell 1945"
  ARG_artillery_equipment_x_short:0 "105mm L50 M1945"
 
-#-> Rocket artillery <><>  ""
+#-> Rocket artillery <><>
  ARG_rocket_artillery_equipment_1:0 "Lanzacohetes 127mm M1941"
  ARG_rocket_artillery_equipment_1_short:0 "127mm M1941"
  ARG_rocket_artillery_equipment_2:0 "Lanzacohetes 127mm M1942"
@@ -209,7 +209,7 @@
  AUS_artillery_equipment_x:0 "10,5 cm Feldhaubitze M45 Bofors"
  AUS_artillery_equipment_x_short:0 "10,5cm FHb M45"
 
-#-> Rocket artillery <><>  ""
+#-> Rocket artillery <><>
  AUS_rocket_artillery_equipment_1:0 "28cm Nebelwerfer M41"
  AUS_rocket_artillery_equipment_1_short:0 "28cm NbW M41"
  AUS_rocket_artillery_equipment_2:0 "21cm Nebelwerfer M42"
@@ -431,7 +431,7 @@
  BOL_artillery_equipment_x:0 "Obús Kaliber 105mm L50 Modell 1945"
  BOL_artillery_equipment_x_short:0 "105mm L50 M1945"
 
-#-> Rocket artillery <><>  ""
+#-> Rocket artillery <><>
  BOL_rocket_artillery_equipment_1:0 "Lanzacohetes 127mm M1941"
  BOL_rocket_artillery_equipment_1_short:0 "127mm M1941"
  BOL_rocket_artillery_equipment_2:0 "Lanzacohetes 127mm M1942"
@@ -473,7 +473,7 @@
  BRA_artillery_equipment_3:0 "Kutschenhaus Campanha Krupp 75 C34 M1945"
  BRA_artillery_equipment_3_short:0 "75 C34 M1945"
 
-#-> Rocket artillery <><>  ""
+#-> Rocket artillery <><>
  BRA_rocket_artillery_equipment_1:0 "Foguete de 127 M1941"
  BRA_rocket_artillery_equipment_1_short:0 "127 M1941"
  BRA_rocket_artillery_equipment_2:0 "Foguete de 127 M1942"
@@ -557,7 +557,7 @@
  CHI_artillery_equipment_x:0 "105mm Typ 34"
  CHI_artillery_equipment_x_short:0 "105mm Typ 34"
 
-#-> Rocket artillery <><>  ""
+#-> Rocket artillery <><>
  CHI_rocket_artillery_equipment_1:0 "114mm Rakete Typ 30"
  CHI_rocket_artillery_equipment_1_short:0 "114mm Typ 30"
  CHI_rocket_artillery_equipment_2:0 "114mm Rakete Typ 31"
@@ -599,7 +599,7 @@
  GXC_artillery_equipment_x:0 "105mm Typ 34"
  GXC_artillery_equipment_x_short:0 "105mm Typ 34"
 
-#-> Rocket artillery <><>  ""
+#-> Rocket artillery <><>
  GXC_rocket_artillery_equipment_1:0 "114mm Rakete Typ 30"
  GXC_rocket_artillery_equipment_1_short:0 "114mm Typ 30"
  GXC_rocket_artillery_equipment_2:0 "114mm Rakete Typ 31"
@@ -641,7 +641,7 @@
  MEN_artillery_equipment_x:0 "105mm Typ 34"
  MEN_artillery_equipment_x_short:0 "105mm Typ 34"
 
-#-> Rocket artillery <><>  ""
+#-> Rocket artillery <><>
  MEN_rocket_artillery_equipment_1:0 "114mm Rakete Typ 30"
  MEN_rocket_artillery_equipment_1_short:0 "114mm Typ 30"
  MEN_rocket_artillery_equipment_2:0 "114mm Rakete Typ 31"
@@ -683,7 +683,7 @@
  SHX_artillery_equipment_x:0 "105mm Typ 34"
  SHX_artillery_equipment_x_short:0 "105mm Typ 34"
 
-#-> Rocket artillery <><>  ""
+#-> Rocket artillery <><>
  SHX_rocket_artillery_equipment_1:0 "114mm Rakete Typ 30"
  SHX_rocket_artillery_equipment_1_short:0 "114mm Typ 30"
  SHX_rocket_artillery_equipment_2:0 "114mm Rakete Typ 31"
@@ -725,7 +725,7 @@
  XSM_artillery_equipment_x:0 "105mm Typ 34"
  XSM_artillery_equipment_x_short:0 "105mm Typ 34"
 
-#-> Rocket artillery <><>  ""
+#-> Rocket artillery <><>
  XSM_rocket_artillery_equipment_1:0 "114mm Rakete Typ 30"
  XSM_rocket_artillery_equipment_1_short:0 "114mm Typ 30"
  XSM_rocket_artillery_equipment_2:0 "114mm Rakete Typ 31"
@@ -767,7 +767,7 @@
  YUN_artillery_equipment_x:0 "105mm Typ 34"
  YUN_artillery_equipment_x_short:0 "105mm Typ 34"
 
-#-> Rocket artillery <><>  ""
+#-> Rocket artillery <><>
  YUN_rocket_artillery_equipment_1:0 "114mm Rakete Typ 30"
  YUN_rocket_artillery_equipment_1_short:0 "114mm Typ 30"
  YUN_rocket_artillery_equipment_2:0 "114mm Rakete Typ 31"
@@ -811,7 +811,7 @@
  CZE_artillery_equipment_x:0 "10,5 cm Lehká Houfnice vz.43"
  CZE_artillery_equipment_x_short:0 "10,5 cm LH vz.43"
 
-#-> Rocket artillery <><>  ""
+#-> Rocket artillery <><>
  CZE_rocket_artillery_equipment_1:0 "13,2cm Raketa vz.41"
  CZE_rocket_artillery_equipment_1_short:0 "13,2cm Raketa vz.41"
  CZE_rocket_artillery_equipment_2:0 "30cm Raketa vz.42"
@@ -897,7 +897,7 @@
  DOU_artillery_equipment_x:0 "10,5 cm Lehká Houfnice vz.43"
  DOU_artillery_equipment_x_short:0 "10,5 cm LH vz.43"
 
-#-> Rocket artillery <><>  ""
+#-> Rocket artillery <><>
  DOU_rocket_artillery_equipment_1:0 "13,2cm Raketa vz.41"
  DOU_rocket_artillery_equipment_1_short:0 "13,2cm Raketa vz.41"
  DOU_rocket_artillery_equipment_2:0 "30cm Raketa vz.42"
@@ -941,7 +941,7 @@
  RUT_artillery_equipment_x:0 "10,5 cm Lehká Houfnice vz.43"
  RUT_artillery_equipment_x_short:0 "10,5 cm LH vz.43"
 
-#-> Rocket artillery <><>  ""
+#-> Rocket artillery <><>
  RUT_rocket_artillery_equipment_1:0 "13,2cm Raketa vz.41"
  RUT_rocket_artillery_equipment_1_short:0 "13,2cm Raketa vz.41"
  RUT_rocket_artillery_equipment_2:0 "30cm Raketa vz.42"

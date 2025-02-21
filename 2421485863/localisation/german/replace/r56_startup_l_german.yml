@@ -13,7 +13,7 @@
  r56.startup.event.02.option: "Ich werde das Spiel beenden und tun, was Sie mir gesagt haben."
  r56.startup.event.02.option_tt: "Das solltest du besser..."
 
- ###---> #3 >> ...AI get's idea in 1941 to debuff stuff that'll lag the game <><> <><> <><>  ""
+ ###---> #3 >> ...AI get's idea in 1941 to debuff stuff that'll lag the game <><> <><> <><>
  r56.startup.event.03.title: "Das sollst du nicht sehen"
  r56.startup.event.03.description: ""
  r56.startup.event.03.option: "Hören Sie auf, die Konsole zu benutzen"
