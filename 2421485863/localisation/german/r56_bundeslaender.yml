@@ -1,0 +1,16 @@
+﻿l_german:
+  
+r56_bundeslaender_category:0	"Der Bund und die Nation"
+
+r56_bundeslaender_bund_tooltip:0	"Bund"
+r56_bundeslaender_nation_tooltip:0	"Nation"
+r56_bundeslaender_burgenland_tooltip:0	"Der £GFX_AUS_burgenland_flag §YLand Burgenland§! ist derzeit [1.r56_bundeslaender_tooltip] "
+r56_bundeslaender_kaernten_tooltip:0	"Das £GFX_AUS_kaernten_flag §YLand Kärnten§! ist derzeit [2.r56_bundeslaender_tooltip]"
+r56_bundeslaender_niederoesterreich_tooltip:0	"Das £GFX_AUS_niederoesterreich_flag §YLand Niederösterreich§! ist derzeit [3.r56_bundeslaender_tooltip] "
+r56_bundeslaender_oberoesterreich_tooltip:0	"Das £GFX_AUS_oeberoesterreich_flag §YLand Oberösterreich§! ist derzeit [1.r56_bundeslaender_tooltip]"
+r56_bundeslaender_salzburg_tooltip:0	"Das £GFX_AUS_salzburg_flag §YLand Salzburg§! ist derzeit [1.r56_bundeslaender_tooltip]"
+r56_bundeslaender_steiermark_tooltip:0	"Das £GFX_AUS_steiermark_flag §YLand Steriermark§! ist derzeit [1.r56_bundeslaender_tooltip]"
+r56_bundeslaender_suedtirol_tooltip:0	"Das £GFX_AUS_suedtirol_flag §YLand Südtirol§! ist derzeit [1.r56_bundeslaender_tooltip]"
+r56_bundeslaender_tirol_tooltip:0	"Der £GFX_AUS_tirol_flag §YLand Tirol§! ist derzeit [1.r56_bundeslaender_tooltip]"
+r56_bundeslaender_vorarlberg_tooltip:0	"Das £GFX_AUS_vorarlberg_flag §YLand Vorarlberg§! ist derzeit [1.r56_bundeslaender_tooltip]"
+r56_bundeslaender_wien_tooltip:0	"Der £GFX_AUS_wien_flag §YStadt Wien§! ist derzeit [1.r56_bundeslaender_tooltip]"
