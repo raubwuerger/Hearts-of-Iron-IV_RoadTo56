@@ -443,7 +443,6 @@
  TRK_ethnic_collaboration_desc:0 "Wir müssen dafür sorgen, dass unsere gemeinsamen Bande unseren Zusammenschluss festigen und die [ROOT.GetAdjective]-Identität festigen, anstatt zu den alten ethnischen Rivalitäten zurückzukehren."
  TRK_trans_turkestan_railway:0 "Trans-[ROOT.GetAdjective] Eisenbahn"
  TRK_trans_turkestan_railway_desc:0 "Eine Eisenbahn, die durch das Land führt, würde unsere Einheit vollenden."
- TRK_ethnic_collaboration_desc:0 "Wir müssen sicherstellen, dass unsere gemeinsamen Bande unsere Einheit festigen und die [ROOT.GetAdjective]-Identität festigen, anstatt zu den alten ethnischen Rivalitäten zurückzukehren."
 
  GCO_UNIFIED_gran_colombian_unification:0 "Großkolumbianische Einigung"
  GCO_UNIFIED_gran_colombian_unification_desc:0 "Der Traum von einem Großkolumbien, der von Bolivar erdachten Großmacht, ist endlich Wirklichkeit geworden."
@@ -641,6 +640,5 @@ is_persian_empire_tt:0 "Hat §YPersische imperiale Ambitionen§! erreicht"
 form_country_mamluks_no_arabia_tt:0 "Hasn't formed §YThe Arab Federation§!."
 form_inuit_union:0 "Form the Inuit Union"
 form_country_inuit_required_coring_states_tt:0 "Cores §YGreenland, Alaska and the north of Canada§!"
-form_country_mamluks_no_arabia_tt:0 "Hasn't formed §YThe Arab Federation§!."
-form_inuit_union:0 "Form the Inuit Union"
-form_country_inuit_required_coring_states_tt:0 "Cores §YGreenland, Alaska and the north of Canada§!"
+
+orm_country_mamluks_no_arabia_tt:0 "Hasn't formed §YThe Arab Federation§!."

@@ -542,11 +542,8 @@
  MEN_the_joint_committee:0 ""
  MEN_the_joint_committee_desc:0 "Gemeinsames [ROOT.GetAdjektiv] Komitee für Industrie"
 
- MEN_an_independent_army:0 ""
 
- MEN_continue_the_ways_of_old:0 ""
 
- MEN_embrace_horses_of_steel:0 ""
 
  MEN_japanese_advisors_idea:0 ""
 
@@ -654,3 +651,4 @@
  r56_MEN_prioritize_industrialization_event_tt:0 "§RCannot join wars of [MEN.GetNonIdeologyName] due to them having a civil war§!"
  MEN_rapid_industrialization_refresh_190_days_tt:0 "§YCompleting§! Industrial §YNational Focuses§! while we have the '§Y$MEN_rapid_industrialization$§!§W'§! §YNational Spirit§! will grant additional §YEffects.§!"
  MEN_prioritize_industrialization_bonus_effect_tt:0 "'§Y$MEN_rapid_industrialization$§!§W'§! wird §Yerneuert§! für weitere §Y190§! Tage"
+t_tt:0 "'§Y$MEN_rapid_industrialization$§!§W'§! wird §Yerneuert§! für weitere §Y190§! Tage"

@@ -273,7 +273,6 @@
  QBC_mobilize_the_rivers_desc:0 "Unser Land verfügt über ein riesiges Potenzial an Wasserkraft, das es zu nutzen gilt, um den Bedarf unserer wachsenden Industrie zu decken."
  QBC_saguenay_aluminum_desc:0 "Mit Hilfe der Wasserkraft wurde die Stadt Saguenay zu einem wichtigen Zentrum der Aluminiumproduktion"
  QBC_saguenay_aluminum:0 "Saguenay-Aluminium"
- QBC_saguenay_aluminum_desc:0 "Durch die Nutzung der Wasserkraft wurde die Stadt Saguenay zu einem wichtigen Zentrum der Aluminiumproduktion"
  QBC_military_industrial_cooperation:0 "Militärisch-industrielle Zusammenarbeit"
  QBC_military_industrial_cooperation_desc:0 "Die Armee kann ohne Ingenieure und kleine Hände, die moderne Kriegswaffen entwickeln, nicht existieren."
  QBC_expanded_research_program:0 "Erweitertes Forschungsprogramm"
@@ -976,3 +975,4 @@
  QBC_fascism_party_LARP_long:0 "Ligue d'Action Française"
  QBC_recalled_norman:0 "§YNorman Bethume§! wurde §Yabberufen§!"
  QBC_lineskip:0 " \n "
+sm_party_LARP_long:0 "Ligue d'Action Française"

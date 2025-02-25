@@ -236,7 +236,6 @@
  SOV_civil_war_our_american_holding:0 "Unsere amerikanischen Besitztümer"
  SOV_civil_war_crush_our_eastern_rival:0 "Unsere östlichen Rivalen vernichten"
  SOV_civil_war_rule_over_the_mongols:0 "Herrschaft über die Mongolen"
- SOV_civil_war_imperial_legacy:0 "Kaiserliches Erbe"
  SOV_restore_the_triple_entente:0 "Wiederherstellung der Triple Entente"
  SOV_restore_the_triple_entente_desc:0 "Wir müssen uns an die Westmächte wenden, um gegenseitigen Schutz gegen Mächte in Mitteleuropa zu gewähren, die das Mutterland bedrohen könnten."
 
@@ -754,3 +753,4 @@
  #mio trait ""
 
  SOV_katyusha_rocket_production:0 "Katjuscha-Raketenproduktion"
+ha_rocket_production:0 "Katjuscha-Raketenproduktion"

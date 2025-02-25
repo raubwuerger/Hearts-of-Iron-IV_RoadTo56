@@ -189,8 +189,6 @@
  construction_concern:0 "Baukonzern"
  refinery_concern:0 "Raffinerie-Konzern"
 
- medium_aircraft_manufacturer_2:0 "Mittelgroßer Flugzeugkonstrukteur"
- heavy_aircraft_manufacturer_2:0 "Schwerer Flugzeugkonstrukteur"
 
  generic_train_equipment_manufacturer_r56:0 "[Root.Capital.GetName] Lokomotivwerk"
 
@@ -218,3 +216,4 @@
 
  generic_mio_trait_multi_task_mining_equipment:0 "Multitasking-Bergbauausrüstung"
  generic_mio_trait_radio_navigation_patrolling:0 "Funknavigation für Patrouillenfahrten #realistisch gesehen viel nützlicher als nur ein bisschen Anerkennung."
+navigation_patrolling:0 "Funknavigation für Patrouillenfahrten #realistisch gesehen viel nützlicher als nur ein bisschen Anerkennung."

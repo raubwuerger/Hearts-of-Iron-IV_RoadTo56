@@ -205,7 +205,6 @@ mal_trade_success:0 "Erfolgreiche Handelsmission"
 mal_trade_failure:0 "Erfolglose Handelsmissionen"
 
 mal_trade_decisions:0 "Koloniale Handelsmissionen"
-mal_trade_decisions_desc:0 "Aktuelle Offmap-Fabriken: §G[?mal_trade_factory_total]§!"
 
 mal_trade_decisions_external:0 "Finanzielle Entscheidungen"
 mal_trade_decisions_external_desc:0 ""
@@ -545,3 +544,4 @@ MAL_democratic_imp_long:0 "Parti Kemerdekaan Malaya"
 #tooltips ""
 MAL_status_quo_tooltip:0 "Nur zur Verwendung durch AI."
 MAL_singapore_tooltip:0 "Dies tut derzeit nichts"
+tip:0 "Nur zur Verwendung durch AI."

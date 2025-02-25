@@ -470,8 +470,6 @@
  BRA_artillery_equipment_2_short:0 "75 C26 M1937"
  BRA_artillery_equipment_3:0 "Kahn von Campanha Krupp 75 C34 M1939"
  BRA_artillery_equipment_3_short:0 "75 C34 M1939"
- BRA_artillery_equipment_3:0 "Kutschenhaus Campanha Krupp 75 C34 M1945"
- BRA_artillery_equipment_3_short:0 "75 C34 M1945"
 
 #-> Rocket artillery <><>
  BRA_rocket_artillery_equipment_1:0 "Foguete de 127 M1941"
@@ -2459,8 +2457,6 @@
  LAT_artillery_equipment_2_short:0 "105mm Bofors M36"
  LAT_artillery_equipment_3:0 "105mm Bofors M39"
  LAT_artillery_equipment_3_short:0 "105mm Bofors M39"
- LAT_artillery_equipment_3:0 "105mm Bofors M45"
- LAT_artillery_equipment_3_short:0 "105mm Bofors M45"
 
  #-> Rocket artillery <><> ""
  LAT_rocket_artillery_equipment_1:0 "280mm Raķete M41"
@@ -3242,8 +3238,6 @@
  SWE_artillery_equipment_2_short:0 "10,5 cm Haubits m/37"
  SWE_artillery_equipment_3:0 "Bofors 10,5 cm Haubits m/40"
  SWE_artillery_equipment_3_short:0 "10,5 cm Haubits m/40"
- SWE_artillery_equipment_3:0 "Bofors 10,5 cm Haubits m/45"
- SWE_artillery_equipment_3_short:0 "10,5 cm Haubits m/45"
 
 #-> Rocket artillery <><> ""
  SWE_rocket_artillery_equipment_1:0 "12,7cm Raket m/41"
@@ -3600,7 +3594,6 @@
  SER_rocket_artillery_equipment_2_short:0 "210mm Raketa M.42"
  SER_rocket_artillery_equipment_x:0 "300mm Raketa M.42"
  SER_rocket_artillery_equipment_x_short:0 "300mm Raketa M.46"
- SER_rocket_artillery_equipment_x_short:0 "300mm Raketa M.46"
 
 
 ###---> SLV <><> <><> <><> ""
@@ -3693,9 +3686,4 @@ LAT_artillery_equipment_x:0 "105mm Bofors M45"
 LAT_artillery_equipment_x_short:0 "105mm Bofors M45"
 SWE_artillery_equipment_x:0 "Bofors 10.5cm Haubits m/45"
 SWE_artillery_equipment_x_short:0 "10.5cm Haubits m/45"
-BRA_artillery_equipment_x:0 "Canhão de Campanha Krupp 75 C34 M1945"
-BRA_artillery_equipment_x_short:0 "75 C34 M1945"
-LAT_artillery_equipment_x:0 "105mm Bofors M45"
-LAT_artillery_equipment_x_short:0 "105mm Bofors M45"
-SWE_artillery_equipment_x:0 "Bofors 10.5cm Haubits m/45"
-SWE_artillery_equipment_x_short:0 "10.5cm Haubits m/45"
+m Modell 1946"

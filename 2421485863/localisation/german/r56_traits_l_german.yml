@@ -196,39 +196,15 @@ map_redrawer:0	"Kartenumzeichner"
 provincialist_warlord:0	"Provinzialistischer Kriegsherr"
 
 #Adviors
-head_of_the_fbi:0	"Leiter des FBI"
-intervention_advocate:0	"Intervention Advokat"
-law_enforcement_militarizer_3:0	"Polizeimilitarist\n(Genie)"
-reactionary_media_baron:0	"Reaktionärer Medienbaron"
-nationalist_diplomat:0	"Nationalistischer Diplomat"
-puppet_prime_minister_fascism:0	"Marionetten-Premierminister"
-religious_figure:0	"Religiöse Figur"
-industrious_innovator:0	"Fleißiger Innovator"
-centrist_intellectual:0	"Zentristischer Intellektueller"
-royal:0	"Königlicher Höfling"
-minister_of_everything:0	"Minister für alles"
-secretary_of_state:0	"Außenministerin"
-war_industry_miracle_worker:0	"Wunderwaffe der Rüstungsindustrie"
-fort_organization_2:0	"Festungsorganisator\n(Experte)"
-nationalist_intellectual:0	"Nationalistischer Intellektueller"
-precursor_of_social_medicine:0	"Vorläufer der Sozialmedizin"
-humanist_innovator:0	"Humanistischer Innovator"
-resolute_anarchist:0	"Resolute Anarchist"
-QBC_trade_unionist:0	"Gewerkschaftler"
-nationalist_journalist_alt_2:0	"Nationalistischer Journalist"
-QBC_author:0	"Autor"
-anti_fascist_academic:0	"Antifaschistischer Akademiker"
 
 
-guerilla_expert:0	"Guerilla-Experte"
-guerilla_expert_desc:0	"Wenn sie uns nicht erwischen, können wir überleben, an einem anderen Tag kämpfen und es wieder tun."
-submarine_captain:0	"U-Boot-Kapitän"
-submarine_captain_desc:0	"Ahoi, Kumpel! Bereit zum Tauchen yahahahaaaaaarr!"
 
-maronite_nationalist:0	"Maronitischer Nationalist"
-moderniser:0	"Moderniser"
-union_organizer:0	"Gewerkschaftsorganisator"
-map_redrawer:0	"Karte Redrawer"
-provincialist_warlord:0	"Provinzialistischer Kriegsherr"
 crafty_diplomat:0	"Raffinierter Diplomat"
-crafty_diplomat:0	"Raffinierter Diplomat"
+advocate:0	"Intervention Advokat"
+
+
+
+forcement_militarizer_3:0	"Polizeimilitarist\n(Genie)"
+
+
+

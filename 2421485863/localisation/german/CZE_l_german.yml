@@ -326,7 +326,6 @@
   czke.212.a:0 "Modernisieren Sie die Standardwaffen."
   czke.212.b:0 "Bestellen Sie schwere Maschinengewehre."
   CZKE_holek_brothers:0 "Neue Feuerwaffen entwerfen"
-  CZKE_holek_brothers_desc:0 "Die Gebrüder Holek entwarfen die fortschrittlichsten tschechischen Feuerwaffen, die während ihrer Tätigkeit bei der Firma Zbrojovka Brno weltweit zugelassen wurden."
   CZKE_holek_brothers_tooltip_reward:0 "\nSchusswaffenbezogener §YTheoretiker§!."
   firearms_designer:0 "Feuerwaffen-Designer"
   czke.213.t:0 "Gebrüder Holek"
@@ -972,3 +971,4 @@ CZE_subcarpathian_ruthenia_political_reforms_desc:0 "Die Folgen der Münchner Kr
 
 CZE_sdp_radicalization:0 "Radikalisierungskrise der SdP"
 CZE_sdp_radicalization_desc:0 "Die deutsche Minderheit im Sudetenland strebt aktiv eine engere Bindung an [GER.getNameDef] an. Sie fordert eine größere Autonomie innerhalb des Staates und droht, den Widerstand gegen die staatlichen Behörden in ihren Gebieten zu verstärken."
+iv eine engere Bindung an [GER.getNameDef] an. Sie fordert eine größere Autonomie innerhalb des Staates und droht, den Widerstand gegen die staatlichen Behörden in ihren Gebieten zu verstärken."

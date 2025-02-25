@@ -217,7 +217,6 @@
  exploit_norman_wells_wtt:0 "Ausbeutung des Pembina-Ölfeldes "
  exploit_leduc_woodbend_oil_wtt:0 "Erschließen Sie das Öl von Rolla"
  exploit_redwater_oil_wtt:0 "Virden-Öl ausbeuten"
- exploit_pembina_oil_wtt:0 "Ausbeutung der Budafapuszta-Ölentdeckung"
  exploit_rolla_oil_wtt:0 "Nagylengyel's Ölfund ausbeuten"
  exploit_virden_oil_wtt:0 "Nagykanizsa-Ölförderung"
  exploit_budafapuszta_oil_wtt:0 "Ausweitung der Ausbeutung des Ölfeldes von Nagykanizsa"
@@ -391,8 +390,9 @@
  #Flags ""
  kelham_hills_oil_field_developed:0 "The Kelham Hills oil field is exploited"
  exploit_pembina_oil:0 "Exploit the Pembina Oil Field"
- exploit_pembina_oil:0 "Exploit the Pembina Oil Field"
 
 
  #North West  EnglandThe Formby Oilfield was discovered by D’Arcy Exploration in 1939. ""
+ #Midland Valley of ScotlandIn 1937, Anglo American discovered the small Midlothian oilfield, ""
+Arcy Exploration in 1939. ""
  #Midland Valley of ScotlandIn 1937, Anglo American discovered the small Midlothian oilfield, ""

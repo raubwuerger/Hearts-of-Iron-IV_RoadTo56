@@ -165,8 +165,6 @@
  BEL_mechanized_equipment_3_short:0 "VBCP M39"
  BEL_mechanized_equipment_x:0 "Jalousie für tragbare Jäger M44"
  BEL_mechanized_equipment_x_short:0 "VBCP M44"
- BEL_mechanized_equipment_x:0 "Jalousie-Möbel für Jäger M44E2"
- BEL_mechanized_equipment_x_short:0 "VBCP M44E2 "
  BEL_amphibious_mechanized_equipment_1:0 "Landefahrzeug mit Kettenantrieb 2"
  BEL_amphibious_mechanized_equipment_1_short:0 "LVT-2"
  BEL_amphibious_mechanized_equipment_2:0 "Landefahrzeug Raupenfahrzeug 4"
@@ -893,7 +891,6 @@
  ITA_mechanized_equipment_x_2_short:0 "AP Kurz"
 
  JAP_motorized_rocket_equipment_1:0 "Typ 5 Shi-Sei 150mm Tarenso"
- JAP_motorized_rocket_equipment_1:0 "Typ 5 Tarenso"
  JAP_motorized_equipment_1:0 "Typ 94"
  JAP_mechanized_equipment_1:0 "Typ 98 Sōkōheishahoki So-Da"
  JAP_mechanized_equipment_1_short:0 "Typ 98 So-Da"
@@ -917,7 +914,6 @@
  JAP_amphibious_mechanized_equipment_2_desc:0 "Diese von Kommandant Hori Motoyoshi von der Marinewerft in Kure entworfenen Fahrzeuge wurden auf der Grundlage von Kriegserfahrungen bei der Versorgung der japanischen Streitkräfte auf den weit entfernten Pazifikinseln gebaut. Diese leicht gepanzerten und vollständig hermetisch abgedichteten Fahrzeuge, die von U-Booten aus gestartet werden können, kamen in keinem nennenswerten Kampf zum Einsatz."
 
  MAN_motorized_rocket_equipment_1:0 "Typ 5 Shi-Sei 150mm Tarenso"
- MAN_motorized_rocket_equipment_1:0 "Typ 5 Tarenso"
  MAN_motorized_equipment_1:0 "Typ 94"
  MAN_mechanized_equipment_1:0 "Typ 98 Sōkōheishahoki So-Da"
  MAN_mechanized_equipment_1_short:0 "Typ 98 So-Da"
@@ -937,7 +933,6 @@
  MAN_train_equipment_1_short:0 "SMR Mikako Klasse"
 
  KOR_motorized_rocket_equipment_1:0 "Typ 5 Shi-Sei 150mm Tarenso"
- KOR_motorized_rocket_equipment_1:0 "Typ 5 Tarenso"
  KOR_motorized_equipment_1:0 "Typ 94"
  KOR_mechanized_equipment_1:0 "Typ 98 Sōkōheishahoki So-Da"
  KOR_mechanized_equipment_1_short:0 "Typ 98 So-Da"
@@ -971,7 +966,6 @@
  SIA_train_equipment_1_short:0 "RSW G4-5"
 
  LAT_motorized_rocket_equipment_1:0 "150mm Raķete M42"
- LAT_motorized_rocket_equipment_1:0 "150-mm-Raķete M42"
  LAT_motorized_equipment_1:0 "EW Opel Blitz smagā mašīna"
  LAT_mechanized_equipment_1:0 "Bruņotā Transportlīdzeklī M39"
  LAT_mechanized_equipment_1_short:0 "BT M39"
@@ -986,7 +980,6 @@
  LAT_train_equipment_1:0 "LRC 0-4-0T"
  LAT_train_equipment_1_short:0 "RC 0-4-0T"
 
- LIT_motorized_rocket_equipment_1:0 "150mm Raketa 42m."
  LIT_motorized_rocket_equipment_1:0 "150mm Raketa 42m."
  LIT_motorized_equipment_1:0 "EW Opel Blitz sunkvežimis"
  LIT_mechanized_equipment_1:0 "Bruņotā Transportlīdzeklī 39m."
@@ -1353,7 +1346,6 @@
  BOS_mechanized_equipment_3_short:0 "OT M.44"
  BOS_mechanized_equipment_x:0 "Oklopni-Transporter M.49"
  BOS_mechanized_equipment_x_short:0 "OT M.49"
- BOS_mechanized_equipment_x:0 "Oklopni-Transporter M.53"
  BOS_mechanized_equipment_x_2_short:0 "OT M.53"
 
  CRO_motorized_rocket_equipment_1:0 "150mm Raketa M.42"
@@ -1367,7 +1359,6 @@
  CRO_mechanized_equipment_3_short:0 "OT M.44"
  CRO_mechanized_equipment_x:0 "Oklopni-Transporter M.49"
  CRO_mechanized_equipment_x_short:0 "OT M.49"
- CRO_mechanized_equipment_x:0 "Oklopni-Transporter M.53"
  CRO_mechanized_equipment_x_2_short:0 "OT M.53"
 
  SER_motorized_rocket_equipment_1:0 "150mm Raketa M.42"
@@ -1406,12 +1397,4 @@ LAT_motorized_rocket_equipment_1_short:0 "150mm Raķete M42"
 LIT_motorized_rocket_equipment_1_short:0 "150mm Raketa 42m."
 BOS_mechanized_equipment_x_2:0 "Oklopni Transporter M.53"
 CRO_mechanized_equipment_x_2:0 "Oklopni Transporter M.53"
-BEL_mechanized_equipment_x_2:0 "Voiture blindée de chasseurs portés M44E2"
-BEL_mechanized_equipment_x_2_short:0 "VBCP M44E2" 
-JAP_motorized_rocket_equipment_1_short:0 "Type 5 Tarenso"
-MAN_motorized_rocket_equipment_1_short:0 "Type 5 Tarenso"
-KOR_motorized_rocket_equipment_1_short:0 "Type 5 Tarenso"
-LAT_motorized_rocket_equipment_1_short:0 "150mm Raķete M42"
-LIT_motorized_rocket_equipment_1_short:0 "150mm Raketa 42m."
-BOS_mechanized_equipment_x_2:0 "Oklopni Transporter M.53"
-CRO_mechanized_equipment_x_2:0 "Oklopni Transporter M.53"
+lindée de chasseurs portés M44E2"

@@ -371,30 +371,15 @@
 ##Vichy France ""
 ## Copy of france text to match cosmetic tags so vichy will have correct ideas ""
 
- EFR_communism_party_long:0 "Parti Communiste Français"
- EFR_communism_party:0 "PCF"
- EFR_democratic_party_long:0 "Parti Démocrate Populaire"
- EFR_democratic_party:0 "PDP"
- EFR_fascism_party:0 "Mouvement Franciste"
- EFR_neutrality_party:0 "Action Française"
- FRA_fascism_party_long:0 "Parti Populaire Français"
- FRA_fascism_party:0 "PPF"
- FRA_neutrality_party_long:0 "Action Française"
- FRA_neutrality_party:0 "AF"
 
- FRA_FREE_army:0 "Französische Befreiungsarmee"
- FRA_FREE_henry_de_rancourt_de_mimerand:0 "Henry de Rancourt de Mimérand"
 
  VIC_gazogenes_and_michelin_tires:0 "Gazogenes"
  VIC_gazogenes_and_michelin_tires_desc:0 "Da das Öl immer knapper wird, müssen wir Ersatz finden. Der größte Teil der Zivilbevölkerung ist heute auf das Fahrrad angewiesen, aber auch unsere Autos können mit Ersatzbrennstoffen betrieben werden. Gazogenes ermöglicht es, die Energie aus der Verbrennung von Kohle und sogar Holz zu gewinnen."
- EFR_STO:0 "Umsetzung des S.T.O."
  VIC_STO_desc:0 "Der "Service du Travail Obligatoire" (obligatorischer Arbeitsdienst) ist ein System des Austauschs zwischen Arbeitern, die nach Deutschland geschickt wurden, da dem Reich die Arbeitskräfte fehlten, um sowohl seine Abteilungen als auch seine Fabriken zu füllen. Er führte zur Entlassung von Zehntausenden von Soldaten, von denen jedoch einige als freigestellte Arbeiter in Deutschland blieben."
  VIC_reinforce_the_STO:0 "Verstärken Sie die STO"
  VIC_reinforce_the_STO_desc:0 "Arbeiter! Indem Sie für Europa arbeiten, schützen Sie Ihr Land und Ihre Heimat. Sie werden auch zum Botschafter französischer Qualität und sichern Ihrer Familie finanzielle Stabilität."
  VIC_rationing:0 "Rationierung"
  VIC_rationing_desc:0 "Um die wenigen uns zur Verfügung stehenden Ressourcen zu schonen, muss ein Rationierungssystem eingeführt werden. Die Liste der eingeschränkten Produkte ist lang und umfasst Olivenöl, Brot, Butter, Fleisch, Milch und Eier. Süßigkeiten sind verboten, und die Presse muss Anleitungen veröffentlichen, wie man alle möglichen Gerichte mit Ersatzprodukten kochen kann, z. B. Steckrübensuppe, geriebener Distelsalat, Kaffee ohne Kaffee...."
- EFR_patrie_focus:0 "Patrie"
- EFR_patrie_focus_desc:0 "Wir müssen den Staat wieder aufbauen, um die jüngsten Wunden zu heilen. Erstens wird die Axt der Franken, die francisca, zum Emblem des neuen Regimes. Zweitens muss die Verwaltung von Feinden der nationalen Revolution gesäubert werden. Drittens muss die Polizei einen Treueeid auf Marschall Pétain ablegen. Es lebe Pétain, es lebe Frankreich!"
  VIC_armistice_army:0 "Organisiert die Waffenstillstandsarmee"
  VIC_armistice_army_desc:0 "Auch wenn wir mit den Überresten unserer Armee nur wenig anfangen können, müssen wir sie richtig organisieren und die Überarbeitung unserer Taktik vorbereiten, um für den Kampf gegen jeden Feind Frankreichs gerüstet zu sein."
  VIC_hide_military_equipment:0 "Militärische Ausrüstung ausblenden"
@@ -488,3 +473,13 @@
  EFR_cv_nav_bomber_equipment_2_short:0 "Laté 312C"
  EFR_cv_nav_bomber_equipment_3:0 "Dewoitine D.750P"
  EFR_cv_nav_bomber_equipment_3_short:0 "D.750P"
+t_x_short:0 "TT 12 CH 56"
+
+
+
+ ### FRA - FRANCE ### ""
+"Truppentransporter Chenillé modèle M75"
+
+
+
+ ### FRA - FRANCE ### ""

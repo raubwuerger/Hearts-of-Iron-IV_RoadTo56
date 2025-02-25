@@ -146,7 +146,6 @@
 
  COG_force_publique_conscription:0 "Die Grenzen der Force Publique"
  COG_force_publique_conscription2:0 "Die Rekrutierung der Force Publique"
- COG_masses_education:0 "Bildung der Massen"
  COG_colonial_security:0 "Koloniale Sicherheit"
  COG_belgo_congolese_research_cooperation:0 "Belgisch-kongolesische Forschungskooperation"
  COG_pleas_for_autonomy:0 "Plädoyer für Autonomie"
@@ -339,4 +338,6 @@
  
  COG_generic_industrial_concern:0 "CCCI"
  KAT_generic_industrial_concern:0 "Metalkat"
+
+AT_generic_industrial_concern:0 "Metalkat"
 

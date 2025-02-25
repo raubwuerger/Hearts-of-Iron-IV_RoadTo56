@@ -159,8 +159,6 @@
  ETH_rare_metals_desc:0 "Durch weitere Investitionen in den Bergbau können wir neue Metallvorkommen erschließen, die wir für eine fortschrittliche Industrie benötigen."
  ETH_oil_industry:0 "Ölindustrie"
  ETH_oil_industry_desc:0 "Eine moderne Marine benötigt eine ständige Ölquelle, die wir durch weitere Investitionen erschließen können."
- ETH_black_lions:0 "Gründung der Black Lions"
- ETH_black_lions_desc:0 "Eine antifaschistische Bewegung, die zum Widerstand gegen die italienische Besatzung Äthiopiens gegründet wurde. "
  ETH_modern_airforce:0 "Modernize Airforce"
  ETH_modern_airforce_desc:0 "Mit ein wenig Mühe können wir unsere Luftwaffe gründlich modernisieren."
  ETH_airbase_eritea:0 "Luftwaffenstützpunkt in Eritrea"
@@ -206,3 +204,7 @@
  ETH_tank_refurbishment_plant_desc:0 "Wenn wir Panzer brauchen, warum nicht mit dem anfangen, was die Italiener uns hinterlassen haben?"
 
  ETH_nissan:0 "Nissan"
+anzer-Reparaturwerkstatt"
+
+TH_tank_refurbishment_plant_desc:0 "Wenn wir Panzer brauchen, warum nicht mit dem anfangen, was die Italiener uns hinterlassen haben?"
+

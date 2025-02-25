@@ -852,7 +852,6 @@
  cv_suicide_craft_desc:0 "$suicide_craft_desc$"
  fleet_in_being_tree:0 "Flotte im Einsatz Doktrinen"
  electronics:0 "Elektronik"
- cat_fortification: "Festungsbau" 
  air_equipment_research:2 "Geschwindigkeit der Luftforschung"
  support_tech_research:1 "Geschwindigkeit der Forschung von Unterstützungseinheiten"
  synth_resources_research:2 "Forschungsgeschwindigkeit für synthetische Ressourcen"
@@ -1320,3 +1319,4 @@
  mothership: "Luftflugzeugträger"
 
 transport_planes_cat: "Transport Flugzeuge"
+_planes_cat: "Transport Flugzeuge"

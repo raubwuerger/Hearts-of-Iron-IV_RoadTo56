@@ -739,18 +739,13 @@
  GRE_motorized_effort_desc:0 "Unsere Armee hat neue Lastwagen und motorisierte Ausrüstung erhalten, mit der wir unsere Front schneller und einfacher verstärken und unsere Stellung halten können."
  GRE_infantry_weapons:0 "Gewehrproduktion"
  GRE_infantry_weapons_desc:0 "Ausländische Unternehmen haben uns bessere Konstruktionsmethoden für unsere Infanteriegewehre zur Verfügung gestellt, so dass wir in kürzerer Zeit mehr Waffen produzieren können."
- GRE_divided_nation:0 "Geteilte Nation"
- GRE_divided_nation_desc:0 "Das Land ist in viele ideologische Fraktionen gespalten! Wir müssen schnell handeln!"
  GRE_autarky_focus:0 "Abschaffung der Demokratie"
  GRE_autarky_focus_desc:0 "Das Land ist fast kollabiert. Wir müssen sofort die Ordnung wiederherstellen!"
  GRE_recruitment_effort:0 "Rekrutierungsagenturen"
  GRE_recruitment_effort_desc:0 "Jeder Mann muss für den Ruhm unseres Landes kämpfen. Wir können diese Nation nur durch Eroberung und militärische Aktionen dazu bringen, ihren vergangenen Ruhm zu erreichen."
  GRE_national_youth_organisation:0 "Nationale Jugendorganisation"
  GRE_IKA:0 "Wirtschaftliche Maßnahmen"
- GRE_dominant_ideology:0 "Dominante Partei"
  GRE_national_split:0 "Nationales Schisma"
- GRE_different_approach:0 "Andere Herangehensweise"
- GRE_different_approach_desc:0 "Wir haben beschlossen, dass die Autarkie nicht länger der Weg unserer Nation ist und dass Reformen für einen gleichberechtigteren und freieren Staat notwendig sind."
  GRE_democratic_support:0 "Demokratische Unterstützung"
  GRE_foreign_investments:0 "Ausländische Investitionen"
  GRE_foreign_investments_desc:0 "Die Regierung des Landes hat beschlossen, mehr ausländischen Unternehmen die Möglichkeit zu geben, im Land zu investieren, um die Wirtschaft zu fördern."
@@ -873,3 +868,12 @@ Archigos:0 "Archigos"
 unifier_of_the_balkans:0 "Einiger des Balkans"
 
 GRE_north_epirus:0 "Wiedereingliederung von Nordepirus"
+yard:0 "Königliche Hellenische Marinewerft"
+
+
+#Misc ""
+
+
+
+#Misc ""
+

@@ -137,13 +137,11 @@
  AMX_nat:0 "AMX verstaatlicht"
  mas_nat:0 "MAS verstaatlicht"
  schneider_nat:0 "Schneider verstaatlicht"
- darne_nat:0 "Darne verstaatlicht"
  somua_nat:0 "Somua verstaatlicht"
  morane_saulnier_nat:0 "Morane Saulnier verstaatlicht"
  bloch_nat:0 "Bloch verstaatlicht"
  amiot_nat:0 "Amiot verstaatlicht"
  levasseur_nat:0 "Levasseur verstaatlicht"
- fcm_nat:0 "FCM verstaatlicht"
  famh_nat:0 "FAMH verstaatlicht"
  bouton_nat:0 "De Dion-Bouton verstaatlicht"
 
@@ -395,7 +393,6 @@
 
 
 
- FRA_colonial_investments:0 "Koloniale Investitionen"
  FRA_colonial_investments_desc:0 "Europa steht vor gefährlichen Zeiten. Wir sollten uns auf die Verbesserung unserer Ländereien im Süden und in der Kolonie konzentrieren, um das Festland kontinuierlich zu unterstützen."
  FRA_colonial_investments_tooltip:0 "Alle [FRA.getAdjective]-Kolonien außerhalb Europas gewinnen:"
  FRA_continue_mandat:0 "Fortführung des Mandats für den Nahen Osten"
@@ -1155,3 +1152,4 @@
  absolute_monarch:0 "Absoluter Monarch"
  count_of_paris:0 "Graf von Paris"
  frederic_gaston:0 "Fréderic Gaston"
+## ""

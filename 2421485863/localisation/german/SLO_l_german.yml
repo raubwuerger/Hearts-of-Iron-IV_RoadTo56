@@ -47,7 +47,6 @@
  SLO_communist_influence_desc:0 "Freiheit, Gleichheit, Arbeit für alle, hinter einfachen Versprechen versammeln sich die Massen. Die Macht muss in den Händen der Arbeiter liegen, um die Ausrottung der Bourgeoisie und der Aristokraten zu gewährleisten, die die hilflosen Massen ausbeuten. Der Kommunismus ist die nächste Etappe in der Entwicklung der Gesellschaft, wehrt euch nicht gegen das Unvermeidliche!"
  SLO_state_security_ministry:0 "Ministerium für Staatssicherheit"
  SLO_state_security_ministry_desc:0 "Um die Revolution vor reaktionären bürgerlichen Verschwörungen zu schützen, müssen wir unsere Kontrolle über die Bevölkerung verstärken, um die Konterrevolutionäre aufzuspüren und mit ihnen fertig zu werden."
- SLO_purge_the_army:0 "Säuberung der Armee"
  SLO_purge_the_army_desc:0 "Die Armee ist ein Bereich, der traditionell Aristokraten und reaktionäre Karriereoffiziere angezogen hat. Sie sind jetzt ein potenzielles Hindernis, da sie die glorreiche proletarische Revolution bedrohen könnten. Deshalb müssen sie beseitigt werden, bevor sie Unruhe stiften."
  SLO_new_army:0 "Eine neue Armee"
  SLO_new_army_desc:0 "Mit der Reorganisation unserer Armee haben wir endlich eine ideologisch kohärente Truppe, die das Proletariat vor den faschistischen Plutokraten schützen wird."
@@ -257,3 +256,4 @@
  SLO_mechanized_corps:0 "[SLO.GetAdjectiveCap] Mechanisiertes Korps"
  SLO_transfer_german_tanks:0 "Deutsche Panzer transferieren"
  SLO_transfer_german_tanks_desc:0 "Unsere deutschen Beschützer könnten uns mit modernem Kriegsgerät und vielleicht sogar Lizenzen versorgen, um unsere eigene Kriegsmaschine zu bauen."
+, um unsere eigene Kriegsmaschine zu bauen."

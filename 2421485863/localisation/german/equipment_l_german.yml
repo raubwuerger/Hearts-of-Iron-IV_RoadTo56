@@ -572,12 +572,9 @@ UNIT_GENERIC_NAME_TAN:0 "$NR$ya $NAME$"
  HOL_EQUIPMENT_VERSION_15:1 "Nr. 15"
  HOL_EQUIPMENT_VERSION_16:1 "Nr. 16"
 
- tank_reliability_upgrade:0 "Verlässlichkeit"
  tank_reliability_upgrade_desc:1 "Eine höhere Zuverlässigkeit führt dazu, dass Sie weniger Geräte ersetzen müssen, die ausfallen."
  mech_cost_upgrade:0 "Produktionskosten"
  mech_cost_upgrade_desc:0 "Durch die Optimierung des Designs und die Substitution weniger wichtiger Materialien kann das Fahrzeug schneller gebaut werden, weist aber etwas mehr Mängel auf."
- plane_armor_upgrade:0 "Panzerung"
- plane_armor_upgrade_desc:0 "Selbstabdichtende Treibstofftanks und Panzerplatten verbessern die Überlebensfähigkeit."
  artillery_equipment_2:0 "Verbesserte Artillerie"
  artillery_equipment_2_desc:0 "Neue Haubitzenkonstruktionen, die die Vorteile neuer hydraulischer Rückstoßvorrichtungen und längerer Rohre nutzen."
  artillery_equipment_3:0 "Fortgeschrittene Artillerie"
@@ -592,12 +589,6 @@ UNIT_GENERIC_NAME_TAN:0 "$NR$ya $NAME$"
  anti_tank_equipment_2_desc:0 "Kanonen größeren Kalibers zur Bekämpfung schwerer Panzer mit schräger Panzerung."
  anti_tank_equipment_3:0 "Erweiterte Panzerabwehr"
  anti_tank_equipment_3_desc:0 "Durch die Kombination verschiedener neuer Munitionstechnologien mit Geschützen mit höherer Mündungsgeschwindigkeit sind diese Panzerabwehrkanonen auf jede neue Panzerung unserer Feinde vorbereitet."
- motorized_rocket_equipment:0 "Motorisierte Raketenartillerie"
- motorized_rocket_equipment_short:0 "Mot. R. Artillerie"
- motorized_rocket_equipment_desc:0 "Mehrfachraketenwerfer wie diese bringen Sprengstoff schneller in ein Zielgebiet als herkömmliche Artillerie, haben aber eine geringere Genauigkeit und benötigen eine längere Nachladezeit. Da diese Version auf Lastwagen montiert ist, kann sie Angriffe starten und die Position wechseln, bevor der Feind das Feuer erwidern kann."
- motorized_rocket_equipment_1:0 "Motorisierte Raketenartillerie"
- motorized_rocket_equipment_1_short:0 "Mot. R. Artillerie"
- motorized_rocket_equipment_1_desc:0 "Diese Mehrfachraketenwerfer bringen Sprengstoff schneller in ein Zielgebiet als herkömmliche Artillerie, haben aber eine geringere Treffsicherheit und benötigen eine längere Nachladezeit. Da diese Version auf Lastwagen montiert ist, kann sie Angriffe starten und die Position wechseln, bevor der Feind das Feuer erwidern kann."
  amphibious_mechanized_equipment:0 "Amphibische Landungsfahrzeuge"
  amphibious_mechanized_equipment_short:0 "Amtracs"
  amphibious_mechanized_equipment_desc:0 "Amphibische Traktoren, auch Amtracs genannt, ermöglichen es den Marines, unter gepanzertem Schutz an einem Strand zu landen. Dies geht jedoch auf Kosten einer schlechten Treibstoffeffizienz."
@@ -798,5 +789,13 @@ UNIT_GENERIC_NAME_TAN:0 "$NR$ya $NAME$"
  mothership_equipment_0:  "Mutterschiff-Flugzeug"
  mothership_equipment_0_short: "Mutterschiff-Flugzeug"
  mothership_equipment_0_desc: "Ein sehr großes Flugzeug, das mehrere Kampfflugzeuge in den Kampf mitnimmt und so eine größere Reichweite hat, als es normalerweise möglich wäre. Der Träger des Himmels."
+
+
+tinental_equipment_desc: "Ein riesiges Flugzeug, das speziell für Einsätze mit extrem großer Reichweite entwickelt wurde und strategische Bombenangriffe über Kontinente hinweg ermöglichen soll."
+
+
+
+_bomber_intercontinental_equipment_1: "Interkontinentalbomber"
+
 
 

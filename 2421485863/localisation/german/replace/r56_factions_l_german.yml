@@ -25,7 +25,6 @@
  umajid_pact:0 "Umajid-Pakt"
  west_pacific_alliance:0 "Westpazifischer Pakt"
  austria_fascist_faction:0 "Donauvertrag"
- austria_communist_faction:0 "Sozialistische Staaten von Europa"
  austria_neutrality_faction:0 "Venetien-Pakt"
  austro_hungarian_faction:0 "Schönbrunner Vertrag"
 
@@ -42,6 +41,10 @@
  #R56_FACTION_NAME_FASCIST_1:0 "$KAPITAL$ Pakt"
  #R56_FACTION_NAME_DEMOCRATIC_1:0 "$CAPITAL$ Verteidigungsliga"
  #R56_FACTION_NAME_DEMOCRATIC_2:0 "$CAPITAL$ Vertragsorganisation"
+# ""
+#GetRulingParty ""
+#GetRulingIdeology ""
+gsorganisation"
 # ""
 #GetRulingParty ""
 #GetRulingIdeology ""
