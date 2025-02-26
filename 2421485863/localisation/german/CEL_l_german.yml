@@ -1,259 +1,262 @@
 ﻿l_german:
-r56_celtic_focus:0	"Keltisch Nationaler Fokus"
+r56_celtic_focus:0		"Keltisch Nationaler Fokus"
 
  # IDEAS # 
 
-CEL_pro_union_movement:0	"Pro-Union-Bewegung"
-CEL_pro_union_movement_desc:0	"Die Bevölkerung von [ROOT.GetNonIdeologyName] ist in der Frage der Souveränität von [ROOT.GetAdjective] weiterhin tief gespalten. Obwohl die Unabhängigkeit von [ENG.GetAdjective] erreicht wurde, befürwortet eine bedeutende Fraktion, eine Mehrheit der [ROOT.GetAdjective]-Wählerschaft, immer noch eine erneute Vereinigung und enge Zusammenarbeit mit unseren Nachbarn jenseits der Grenze. Dieses Gefühl hat zu einem Anstieg der politischen Spannungen geführt, da die Vision einer geeinten Zukunft mit [ENG.GetAdjective] mit den Bestrebungen der auf Unabhängigkeit bedachten Nationalisten kollidiert."
+CEL_pro_union_movement:0		"Pro-Union-Bewegung"
+CEL_pro_union_movement_desc:0		"Die Bevölkerung von [ROOT.GetNonIdeologyName] ist in der Frage der Souveränität von [ROOT.GetAdjective] weiterhin tief gespalten. Obwohl die Unabhängigkeit von [ENG.GetAdjective] erreicht wurde, befürwortet eine bedeutende Fraktion, eine Mehrheit der [ROOT.GetAdjective]-Wählerschaft, immer noch eine erneute Vereinigung und enge Zusammenarbeit mit unseren Nachbarn jenseits der Grenze. Dieses Gefühl hat zu einem Anstieg der politischen Spannungen geführt, da die Vision einer geeinten Zukunft mit [ENG.GetAdjective] mit den Bestrebungen der auf Unabhängigkeit bedachten Nationalisten kollidiert."
 
 
 
-CEL_pro_union_movement_remove:0	"Wird §GRemoved§! entweder wenn §Y[ROOT.GetNonIdeologyName]§! in §YFaction§! mit §Y[ENG.GetNameDef]§! steht, §Y[ROOT.GetNonIdeologyName]§! ein §YSubject§! von §Y[ENG.GetNameDef]§! ist oder §Y[ENG.GetNameDef]§! nicht §YExist§! ist."
+CEL_pro_union_movement_remove:0		"Wird §GRemoved§! entweder wenn §Y[ROOT.GetNonIdeologyName]§! in §YFaction§! mit §Y[ENG.GetNameDef]§! steht, §Y[ROOT.GetNonIdeologyName]§! ein §YSubject§! von §Y[ENG.GetNameDef]§! ist oder §Y[ENG.GetNameDef]§! nicht §YExist§! ist."
  
  ### DYNAMIC FOCUSES ###
 
-CEL_domestic_ammunition_production:0	"[GetAmmoFocusName]"
-CEL_domestic_ammunition_production_desc:0	"Um den Einfluss ausländischer Mächte auf unser Militär zu verringern, müssen wir unsere eigene Munition herstellen."
-CEL_domestic_artillery_production:0	"[GetArtiFocusName]"
-CEL_domestic_artillery_production_desc:0	"Wir müssen unsere eigene Feuerkraft sowie Artilleriegranaten entwickeln."
-CEL_domestic_tank_production:0	"[GetTankFocusName]"
-CEL_domestic_tank_production_desc:0	"Das neue Zeitalter der Kriegsführung ist angebrochen, und wenn wir nicht untergehen wollen, müssen wir uns darauf einstellen!"
-CEL_spirit_of_the_army:0	"[GetSpiritFocusName]"
-CEL_spirit_of_the_army_desc:0	"Unsere Soldaten müssen im Kampf leidenschaftlich und mutig sein, und es ist unsere Aufgabe, sie zu lehren und sie auf dieses Ziel hinzuführen."
-CEL_mechanical_computing:0	"[GetTechFocusName]"
-CEL_mechanical_computing_desc:0	"Dieser Hersteller elektronischer Geräte könnte von wesentlicher Bedeutung sein, wenn er Forschungszuschüsse erhält."
-CEL_naval_effort:0	"[GetNavyFocusName]"
-CEL_naval_effort_desc:0	"Um die Sicherheit von [ROOT.GetNonIdeologyName] und seiner Bevölkerung zu gewährleisten, müssen wir in unsere Marineprojekte investieren."
+CEL_domestic_ammunition_production:0		"[GetAmmoFocusName]"
+CEL_domestic_ammunition_production_desc:0		"Um den Einfluss ausländischer Mächte auf unser Militär zu verringern, müssen wir unsere eigene Munition herstellen."
+CEL_domestic_artillery_production:0		"[GetArtiFocusName]"
+CEL_domestic_artillery_production_desc:0		"Wir müssen unsere eigene Feuerkraft sowie Artilleriegranaten entwickeln."
+CEL_domestic_tank_production:0		"[GetTankFocusName]"
+CEL_domestic_tank_production_desc:0		"Das neue Zeitalter der Kriegsführung ist angebrochen, und wenn wir nicht untergehen wollen, müssen wir uns darauf einstellen!"
+CEL_spirit_of_the_army:0		"[GetSpiritFocusName]"
+CEL_spirit_of_the_army_desc:0		"Unsere Soldaten müssen im Kampf leidenschaftlich und mutig sein, und es ist unsere Aufgabe, sie zu lehren und sie auf dieses Ziel hinzuführen."
+CEL_mechanical_computing:0		"[GetTechFocusName]"
+CEL_mechanical_computing_desc:0		"Dieser Hersteller elektronischer Geräte könnte von wesentlicher Bedeutung sein, wenn er Forschungszuschüsse erhält."
+CEL_naval_effort:0		"[GetNavyFocusName]"
+CEL_naval_effort_desc:0		"Um die Sicherheit von [ROOT.GetNonIdeologyName] und seiner Bevölkerung zu gewährleisten, müssen wir in unsere Marineprojekte investieren."
 
  # ARMY & ECONOMY #
 
-CEL_establish_the_army:0	"Aufbau der Armee"
-CEL_establish_the_army_desc:0	"Mit unserem neuen politischen Status ist es an der Zeit, unsere eigenen Einheiten auf der Grundlage der ehemaligen britischen Regimenter zu organisieren."
-CEL_industrial_modernization:0	"Industrielle Modernisierung"
-CEL_industrial_modernization_desc:0	"[ROOT.GetNonIdeologyName] muss seinen Status als modernes Industrieland bewahren, um seine Stellung in der Welt zu bewerten."
-CEL_dingham_ammunition_factory:0	"Dingham-Munitionsfabrik"
-CEL_redesign_small_arms:0	"Umgestaltung Kleinwaffen"
-CEL_redesign_small_arms_desc:0	"Um die Effizienz unserer Infanterie zu gewährleisten, müssen die Handfeuerwaffen ständig verbessert werden."
-CEL_motorization_plan:0	"Motorisierungsplan"
-CEL_motorization_plan_desc:0	"Eine schnelle Ausnutzung eines Durchbruchs kann eine Front auflösen. Daran hat es im Ersten Weltkrieg gefehlt."
-CEL_convert_north_british_locomotive_factory:0	"Die nordbritische Lokomotivfabrik"
-CEL_convert_north_british_locomotive_factory_desc:0	"Diese Lokomotivfabrik kann für die Produktion von gepanzerten Fahrzeugen umfunktioniert werden."
-CEL_dalmuir_shells:0	"Dalmuir-Muscheln"
-CEL_dalmuir_shells_desc:0	"Unsere Artillerie wird mit in Dalmuir hergestellten Granaten versorgt."
-CEL_artillery_modernization:0	"Modernisierung der Artillerie"
-CEL_artillery_modernization_desc:0	"Artillerie tötet, Infanterie nimmt ein."
-CEL_new_tactics:0	"Neue Taktiken"
-CEL_new_tactics_desc:0	"Während der Frontwechsel der Highlanders in der Vergangenheit gut funktionierte, wurde er im Großen Krieg zum Verhängnis. Nur ein Verrückter würde heutzutage mit einer Claymore und einem Bogen in den Krieg ziehen."
-CEL_planning_staff:0	"Errichten Sie die [ROOT.Capital.GetCapitalVictoryPointName] Militärakademie"
-CEL_planning_staff_desc:0	"Ein vorbereiteter Plan ist wahrscheinlich ein besserer Plan."
-CEL_expand_the_construction_sector:0	"Den Bausektor ausbauen"
-CEL_expand_the_construction_sector_desc:0	"Um eine bessere Nation aufzubauen, braucht man starke Baukapazitäten."
-CEL_utilize_our_resources:0	"Nutzen Sie unsere Ressourcen"
-CEL_utilize_our_resources_desc:0	"[ROOT.GetNonIdeologyName]'s resources are largely underdeveloped, investing into these hidden gems shall boost our economy greatly."
-CEL_support_steel_sector:0	"Unterstützen Sie den Stahlsektor"
-CEL_support_steel_sector_desc:0	"Stahl! Stahl für Kanonen, für Panzer, für Schiffe, für alle Kriegswaffen!"
-CEL_support_light_industry:0	"Unterstütze die Leichtindustrie"
-CEL_support_light_industry_desc:0	"Die Leichtindustrie ist unerlässlich, um unserer Wirtschaft einen gesunden Mix zu geben."
-CEL_improve_national_infrastructure:0	"Nationale Infrastruktur verbessern"
-CEL_improve_national_infrastructure_desc:0	"Unsere Minen und Industrien sind ohne ein gutes Infrastrukturnetz ziemlich nutzlos, was den Export unserer Ressourcen erleichtert."
-CEL_industrial_research:0	"Industrielle Forschung"
-CEL_industrial_research_desc:0	"Unsere Industrie muss verbessert werden."
-CEL_project_taranis:0	"Projekt Taranis"
-CEL_project_taranis_desc:0	"In letzter Zeit sind Wissenschaftler auf der ganzen Welt zu dem Schluss gekommen, dass es theoretisch möglich ist, ein Atom zu spalten und dabei eine große Menge Energie zu erzeugen. Vielleicht sollten wir in die weitere Erforschung dieses Themas investieren..."
-CEL_develop_aluminium_industry:0	"Aluminium-Erz verarbeiten"
-CEL_develop_aluminium_industry_desc:0	"Unbehandeltes Aluminiumerz ist für die Kriegsanstrengungen nutzlos."
-CEL_substitution_technologies:0	"Substitutionstechnologien"
-CEL_substitution_technologies_desc:0	"Da Importe durch Kriege bedroht sein können, müssen Substitutionstechnologien wie die Kohleverflüssigung in Betracht gezogen werden."
-CEL_establish_special_forces:0	"Spezialkräfte aufstellen"
-CEL_establish_special_forces_desc:0	"Die Tapfersten oder Verrücktesten unter uns allen müssen handverlesen werden, um Eliteeinheiten zu bilden, die den Feind notfalls lautlos mit Bögen töten können."
-CEL_modern_logistics:0	"Moderne Logistik"
-CEL_modern_logistics_desc:0	"Ohne Nachschub kann eine Armee nicht kämpfen. Deshalb ist eine moderne Logistik für eine moderne Armee unerlässlich."
-CEL_signal_companies:0	"Signalkompanien"
-CEL_signal_companies_desc:0	"Kommunikation Kommunikation Kommunikation Kommunikation".
-CEL_field_hospitals:0	"Feldlazarette"
-CEL_field_hospitals_desc:0	"Ein geheilter Soldat kann der Gesellschaft noch nützlich sein. Ein toter Soldat kann das nicht."
-CEL_mechanization_effort:0	"Mechanisierung"
-CEL_mechanization_effort_desc:0	"Ein Kompromiss zwischen einem Panzer und einem Lastwagen könnte unsere Truppen schnell und effizient in die Schlacht führen."
+CEL_establish_the_army:0		"Aufbau der Armee"
+CEL_establish_the_army_desc:0		"Mit unserem neuen politischen Status ist es an der Zeit, unsere eigenen Einheiten auf der Grundlage der ehemaligen britischen Regimenter zu organisieren."
+CEL_industrial_modernization:0		"Industrielle Modernisierung"
+CEL_industrial_modernization_desc:0		"[ROOT.GetNonIdeologyName] muss seinen Status als modernes Industrieland bewahren, um seine Stellung in der Welt zu bewerten."
+CEL_dingham_ammunition_factory:0		"Dingham-Munitionsfabrik"
+CEL_redesign_small_arms:0		"Umgestaltung Kleinwaffen"
+CEL_redesign_small_arms_desc:0		"Um die Effizienz unserer Infanterie zu gewährleisten, müssen die Handfeuerwaffen ständig verbessert werden."
+CEL_motorization_plan:0		"Motorisierungsplan"
+CEL_motorization_plan_desc:0		"Eine schnelle Ausnutzung eines Durchbruchs kann eine Front auflösen. Daran hat es im Ersten Weltkrieg gefehlt."
+CEL_convert_north_british_locomotive_factory:0		"Die nordbritische Lokomotivfabrik"
+CEL_convert_north_british_locomotive_factory_desc:0		"Diese Lokomotivfabrik kann für die Produktion von gepanzerten Fahrzeugen umfunktioniert werden."
+CEL_dalmuir_shells:0		"Dalmuir-Muscheln"
+CEL_dalmuir_shells_desc:0		"Unsere Artillerie wird mit in Dalmuir hergestellten Granaten versorgt."
+CEL_artillery_modernization:0		"Modernisierung der Artillerie"
+CEL_artillery_modernization_desc:0		"Artillerie tötet, Infanterie nimmt ein."
+CEL_new_tactics:0		"Neue Taktiken"
+CEL_new_tactics_desc:0		"Während der Frontwechsel der Highlanders in der Vergangenheit gut funktionierte, wurde er im Großen Krieg zum Verhängnis. Nur ein Verrückter würde heutzutage mit einer Claymore und einem Bogen in den Krieg ziehen."
+CEL_planning_staff:0		"Errichten Sie die [ROOT.Capital.GetCapitalVictoryPointName] Militärakademie"
+CEL_planning_staff_desc:0		"Ein vorbereiteter Plan ist wahrscheinlich ein besserer Plan."
+CEL_expand_the_construction_sector:0		"Den Bausektor ausbauen"
+CEL_expand_the_construction_sector_desc:0		"Um eine bessere Nation aufzubauen, braucht man starke Baukapazitäten."
+CEL_utilize_our_resources:0		"Nutzen Sie unsere Ressourcen"
+CEL_utilize_our_resources_desc:0		"[ROOT.GetNonIdeologyName]'s resources are largely underdeveloped, investing into these hidden gems shall boost our economy greatly."
+CEL_support_steel_sector:0		"Unterstützen Sie den Stahlsektor"
+CEL_support_steel_sector_desc:0		"Stahl! Stahl für Kanonen, für Panzer, für Schiffe, für alle Kriegswaffen!"
+CEL_support_light_industry:0		"Unterstütze die Leichtindustrie"
+CEL_support_light_industry_desc:0		"Die Leichtindustrie ist unerlässlich, um unserer Wirtschaft einen gesunden Mix zu geben."
+CEL_improve_national_infrastructure:0		"Nationale Infrastruktur verbessern"
+CEL_improve_national_infrastructure_desc:0		"Unsere Minen und Industrien sind ohne ein gutes Infrastrukturnetz ziemlich nutzlos, was den Export unserer Ressourcen erleichtert."
+CEL_industrial_research:0		"Industrielle Forschung"
+CEL_industrial_research_desc:0		"Unsere Industrie muss verbessert werden."
+CEL_project_taranis:0		"Projekt Taranis"
+CEL_project_taranis_desc:0		"In letzter Zeit sind Wissenschaftler auf der ganzen Welt zu dem Schluss gekommen, dass es theoretisch möglich ist, ein Atom zu spalten und dabei eine große Menge Energie zu erzeugen. Vielleicht sollten wir in die weitere Erforschung dieses Themas investieren..."
+CEL_develop_aluminium_industry:0		"Aluminium-Erz verarbeiten"
+CEL_develop_aluminium_industry_desc:0		"Unbehandeltes Aluminiumerz ist für die Kriegsanstrengungen nutzlos."
+CEL_substitution_technologies:0		"Substitutionstechnologien"
+CEL_substitution_technologies_desc:0		"Da Importe durch Kriege bedroht sein können, müssen Substitutionstechnologien wie die Kohleverflüssigung in Betracht gezogen werden."
+CEL_establish_special_forces:0		"Spezialkräfte aufstellen"
+CEL_establish_special_forces_desc:0		"Die Tapfersten oder Verrücktesten unter uns allen müssen handverlesen werden, um Eliteeinheiten zu bilden, die den Feind notfalls lautlos mit Bögen töten können."
+CEL_modern_logistics:0		"Moderne Logistik"
+CEL_modern_logistics_desc:0		"Ohne Nachschub kann eine Armee nicht kämpfen. Deshalb ist eine moderne Logistik für eine moderne Armee unerlässlich."
+CEL_signal_companies:0		"Signalkompanien"
+CEL_signal_companies_desc:0		"Kommunikation Kommunikation Kommunikation Kommunikation".
+CEL_field_hospitals:0		"Feldlazarette"
+CEL_field_hospitals_desc:0		"Ein geheilter Soldat kann der Gesellschaft noch nützlich sein. Ein toter Soldat kann das nicht."
+CEL_mechanization_effort:0		"Mechanisierung"
+CEL_mechanization_effort_desc:0		"Ein Kompromiss zwischen einem Panzer und einem Lastwagen könnte unsere Truppen schnell und effizient in die Schlacht führen."
 
  # AIR #
 
-CEL_aviation_air_academy:0	"[ROOT.GetAdjective] Aviation Air Academy"
-CEL_aviation_air_academy_desc:0	"[ROOT.GetAdjective] Die Luftfahrt muss der Ausgangspunkt für die Infrastruktur unserer Luftwaffe sein."
-CEL_build_trainer_aircrafts:0	"Trainer-Flugzeuge bauen"
-CEL_build_trainer_aircrafts_desc:0	"Bevor man ein richtiges Kampfflugzeug konstruiert, wäre es wahrscheinlich klüger, mit einem Trainer-Prototyp zu beginnen."
-CEL_bimotor_aircrafts:0	"Zweimotorige Flugzeuge"
-CEL_bimotor_aircrafts_desc:0	"Massive Flugzeuge sind die Zukunft. Hat man nicht immer gesagt, dass der Bomber sich immer durchsetzen wird?"
-CEL_train_pilots:0	"Zugpiloten"
-CEL_train_pilots_desc:0	"Wie könnten wir ohne Piloten eine funktionierende Luftwaffe haben?"
-CEL_train_mechanics:0	"Mechaniker ausbilden"
-CEL_train_mechanics_desc:0	"Wie sollen wir ohne Mechaniker eine funktionierende Luftwaffe haben?"
-CEL_support_designers_innovations:0	"Unterstützung der Innovationen von Konstrukteuren"
-CEL_support_designers_innovations_desc:0	"Experimentelle Prototypen können manchmal zu wunderbaren Verbesserungen führen."
-CEL_naval_aviation:0	"Luftfahrt der Marine"
-CEL_naval_aviation_desc:0	"Im Zeitalter der Flugzeugträger werden an die Seekriegsführung angepasste Flugzeuge zu einer Notwendigkeit."
-CEL_refine_air_doctrine:0	"Luftdoktrin verfeinern"
-CEL_refine_air_doctrine_desc:0	"Die Erfahrung gibt uns ein besseres Verständnis der Luftkriegsführung."
-CEL_radar_network:0	"Radarnetz"
-CEL_radar_network_desc:0	"Wenn wir den Feind frühzeitig erkennen, können wir Bedrohungen viel effizienter bekämpfen."
+CEL_aviation_air_academy:0		"[ROOT.GetAdjective] Aviation Air Academy"
+CEL_aviation_air_academy_desc:0		"[ROOT.GetAdjective] Die Luftfahrt muss der Ausgangspunkt für die Infrastruktur unserer Luftwaffe sein."
+CEL_build_trainer_aircrafts:0		"Trainer-Flugzeuge bauen"
+CEL_build_trainer_aircrafts_desc:0		"Bevor man ein richtiges Kampfflugzeug konstruiert, wäre es wahrscheinlich klüger, mit einem Trainer-Prototyp zu beginnen."
+CEL_bimotor_aircrafts:0		"Zweimotorige Flugzeuge"
+CEL_bimotor_aircrafts_desc:0		"Massive Flugzeuge sind die Zukunft. Hat man nicht immer gesagt, dass der Bomber sich immer durchsetzen wird?"
+CEL_train_pilots:0		"Zugpiloten"
+CEL_train_pilots_desc:0		"Wie könnten wir ohne Piloten eine funktionierende Luftwaffe haben?"
+CEL_train_mechanics:0		"Mechaniker ausbilden"
+CEL_train_mechanics_desc:0		"Wie sollen wir ohne Mechaniker eine funktionierende Luftwaffe haben?"
+CEL_support_designers_innovations:0		"Unterstützung der Innovationen von Konstrukteuren"
+CEL_support_designers_innovations_desc:0		"Experimentelle Prototypen können manchmal zu wunderbaren Verbesserungen führen."
+CEL_naval_aviation:0		"Luftfahrt der Marine"
+CEL_naval_aviation_desc:0		"Im Zeitalter der Flugzeugträger werden an die Seekriegsführung angepasste Flugzeuge zu einer Notwendigkeit."
+CEL_refine_air_doctrine:0		"Luftdoktrin verfeinern"
+CEL_refine_air_doctrine_desc:0		"Die Erfahrung gibt uns ein besseres Verständnis der Luftkriegsführung."
+CEL_radar_network:0		"Radarnetz"
+CEL_radar_network_desc:0		"Wenn wir den Feind frühzeitig erkennen, können wir Bedrohungen viel effizienter bekämpfen."
 
  # NAVY #
 
-CEL_the_shipyard_of_the_world:0	"Die Werft der Welt"
-CEL_the_shipyard_of_the_world_desc:0	"Mit all seinen riesigen Werften, die in der Lage sind, Handels- und Kriegsschiffe auf der ganzen Welt zu bauen, ist [ROOT.GetNonIdeologyName] wahrlich die Werft der Welt."
-CEL_shipbuilding_contacts:0	"Schiffbaukontakte"
-CEL_shipbuilding_contacts_desc:0	"Die Unterstützung der Werften ist unerlässlich, wenn wir für unsere Kriegsanstrengungen arbeiten wollen."
-CEL_national_admiralty:0	"Nationale Admiralität"
-CEL_national_admiralty_desc:0	"Unsere Marine braucht ein Äquivalent zu unserem Militärstab."
-CEL_the_fleet_of_old:0	"Die Flotte von einst"
-CEL_the_fleet_of_old_desc:0	"Schlachtschiffe werden das Zentrum unserer Marine sein."
-CEL_battleship_focus:0	"Schlachtschiff-Fokus"
-CEL_battleship_focus_desc:0	"Große Kanonen für große Schiffe. Mit vier Dreifachtürmen, zwei vorne und zwei achtern."
-CEL_the_biggest_battleship:0	"Das größte Schlachtschiff"
-CEL_the_biggest_battleship_desc:0	"Warum die Schlachtschiffe der anderen Mächte imitieren, wenn wir ein noch größeres bauen können?"
-CEL_the_blocade_doctrine:0	"Die Blockade-Doktrin"
-CEL_the_blocade_doctrine_desc:0	"Wenn wir genug feindliche Konvois versenken können, können wir ihre Wirtschaft lahmlegen."
-CEL_silent_service:0	"Stiller Dienst"
-CEL_silent_service_desc:0	"Moderne U-Boote sind für den Erfolg des ausgearbeiteten Plans erforderlich."
-CEL_domestic_torpedo_production:0	"Inländische Torpedoproduktion"
-CEL_domestic_torpedo_production_desc:0	"Damit unsere U-Boote und Zerstörer effektiv arbeiten können, müssen sie etwas zum Abfeuern haben."
-CEL_stealth_upgrades:0	"Tarnkappenaufrüstungen"
-CEL_stealth_upgrades_desc:0	"Tarnkappen-U-Boote werden effizienter sein, wenn sie sich hilflosen feindlichen Konvois nähern."
-CEL_carrier_strikes:0	"Flugzeugträgerangriffe"
-CEL_carrier_strikes_desc:0	"Das neue Zeitalter der Seekriegsführung erfordert eine Überlegenheit auf dem Schlachtfeld sowohl auf See als auch in der Luft, weshalb wir Träger entwickeln müssen, um unsere Schiffe zu schützen und den Feind härter denn je zu treffen."
-CEL_naval_air_groups:0	"Marinefliegergruppen"
-CEL_naval_air_groups_desc:0	"Damit unsere Flugzeugträger effektiv sein können, müssen wir auch etwas haben, das wir auf ihnen platzieren können."
-CEL_lessons_for_the_air_force:0	"Lektionen für die Luftwaffe"
-CEL_lessons_for_the_air_force_desc:0	"Unsere Experimente mit der Marinefliegerei könnten sich auch für die Luftwaffe als nützlich erweisen."
-CEL_cruiser_focus:0	"Moderne Kreuzer"
-CEL_cruiser_focus_desc:0	"Mit dem neuen Zeitalter kommen moderne Bewaffnung, moderne Panzerung und alles, was unsere Kreuzer verbessern wird."
-CEL_destroyer_focus:0	"Moderne Zerstörer"
-CEL_destroyer_focus_desc:0	"Mit dem neuen Zeitalter kommen moderne Motoren, moderne Hydrophone, Minen und all das, was unsere Zerstörer verbessern wird."
-CEL_increase_naval_production:0	"Erhöhung der Marineproduktion"
-CEL_increase_naval_production_desc:0	"Unsere Marineproduktion braucht eine leichte Effizienzsteigerung, um mit den Großmächten mithalten zu können, deshalb müssen wir ihr genau das geben."
-CEL_a_s_warfare:0	"A/S Warfare"
-CEL_a_s_warfare_desc:0	"Das moderne Seeschlachtfeld hat die Verwundbarkeit von Konvois und leichten Schiffen durch U-Boote gezeigt, die in Woflpacks jagen. Wir müssen dieser neu entdeckten Schwäche begegnen und unsere Fähigkeiten zur U-Boot-Bekämpfung ausbauen."
-CEL_naval_mine_warfare:0	"Minenkriegsführung der Marine"
-CEL_naval_mine_warfare_desc:0	"Um dem Feind die Vorherrschaft über die Meere zu nehmen, ist es klug, Minenkrieg zu führen."
+CEL_the_shipyard_of_the_world:0		"Die Werft der Welt"
+CEL_the_shipyard_of_the_world_desc:0		"Mit all seinen riesigen Werften, die in der Lage sind, Handels- und Kriegsschiffe auf der ganzen Welt zu bauen, ist [ROOT.GetNonIdeologyName] wahrlich die Werft der Welt."
+CEL_shipbuilding_contacts:0		"Schiffbaukontakte"
+CEL_shipbuilding_contacts_desc:0		"Die Unterstützung der Werften ist unerlässlich, wenn wir für unsere Kriegsanstrengungen arbeiten wollen."
+CEL_national_admiralty:0		"Nationale Admiralität"
+CEL_national_admiralty_desc:0		"Unsere Marine braucht ein Äquivalent zu unserem Militärstab."
+CEL_the_fleet_of_old:0		"Die Flotte von einst"
+CEL_the_fleet_of_old_desc:0		"Schlachtschiffe werden das Zentrum unserer Marine sein."
+CEL_battleship_focus:0		"Schlachtschiff-Fokus"
+CEL_battleship_focus_desc:0		"Große Kanonen für große Schiffe. Mit vier Dreifachtürmen, zwei vorne und zwei achtern."
+CEL_the_biggest_battleship:0		"Das größte Schlachtschiff"
+CEL_the_biggest_battleship_desc:0		"Warum die Schlachtschiffe der anderen Mächte imitieren, wenn wir ein noch größeres bauen können?"
+CEL_the_blocade_doctrine:0		"Die Blockade-Doktrin"
+CEL_the_blocade_doctrine_desc:0		"Wenn wir genug feindliche Konvois versenken können, können wir ihre Wirtschaft lahmlegen."
+CEL_silent_service:0		"Stiller Dienst"
+CEL_silent_service_desc:0		"Moderne U-Boote sind für den Erfolg des ausgearbeiteten Plans erforderlich."
+CEL_domestic_torpedo_production:0		"Inländische Torpedoproduktion"
+CEL_domestic_torpedo_production_desc:0		"Damit unsere U-Boote und Zerstörer effektiv arbeiten können, müssen sie etwas zum Abfeuern haben."
+CEL_stealth_upgrades:0		"Tarnkappenaufrüstungen"
+CEL_stealth_upgrades_desc:0		"Tarnkappen-U-Boote werden effizienter sein, wenn sie sich hilflosen feindlichen Konvois nähern."
+CEL_carrier_strikes:0		"Flugzeugträgerangriffe"
+CEL_carrier_strikes_desc:0		"Das neue Zeitalter der Seekriegsführung erfordert eine Überlegenheit auf dem Schlachtfeld sowohl auf See als auch in der Luft, weshalb wir Träger entwickeln müssen, um unsere Schiffe zu schützen und den Feind härter denn je zu treffen."
+CEL_naval_air_groups:0		"Marinefliegergruppen"
+CEL_naval_air_groups_desc:0		"Damit unsere Flugzeugträger effektiv sein können, müssen wir auch etwas haben, das wir auf ihnen platzieren können."
+CEL_lessons_for_the_air_force:0		"Lektionen für die Luftwaffe"
+CEL_lessons_for_the_air_force_desc:0		"Unsere Experimente mit der Marinefliegerei könnten sich auch für die Luftwaffe als nützlich erweisen."
+CEL_cruiser_focus:0		"Moderne Kreuzer"
+CEL_cruiser_focus_desc:0		"Mit dem neuen Zeitalter kommen moderne Bewaffnung, moderne Panzerung und alles, was unsere Kreuzer verbessern wird."
+CEL_destroyer_focus:0		"Moderne Zerstörer"
+CEL_destroyer_focus_desc:0		"Mit dem neuen Zeitalter kommen moderne Motoren, moderne Hydrophone, Minen und all das, was unsere Zerstörer verbessern wird."
+CEL_increase_naval_production:0		"Erhöhung der Marineproduktion"
+CEL_increase_naval_production_desc:0		"Unsere Marineproduktion braucht eine leichte Effizienzsteigerung, um mit den Großmächten mithalten zu können, deshalb müssen wir ihr genau das geben."
+CEL_a_s_warfare:0		"A/S Warfare"
+CEL_a_s_warfare_desc:0		"Das moderne Seeschlachtfeld hat die Verwundbarkeit von Konvois und leichten Schiffen durch U-Boote gezeigt, die in Woflpacks jagen. Wir müssen dieser neu entdeckten Schwäche begegnen und unsere Fähigkeiten zur U-Boot-Bekämpfung ausbauen."
+CEL_naval_mine_warfare:0		"Minenkriegsführung der Marine"
+CEL_naval_mine_warfare_desc:0		"Um dem Feind die Vorherrschaft über die Meere zu nehmen, ist es klug, Minenkrieg zu führen."
 
  # SHARED FORMABLE FOCUSES #
 
-CEL_francois_recruited:0	"Du hast dich den Bardischen Kreisen genähert...was auch immer das bedeutet."
-is_cel_tt:0	"Hat alle §YCeltic§! Länder vereinigt"
-CEL_celtic_unification:0	"Keltische Einigung"
-CEL_celtic_unification_desc:0	"Nach Jahrhunderten unter englischer und französischer Herrschaft sind die keltischen Völker endlich vereint!"
-CEL_strengthen_shipping_routes:0	"Schifffahrtsrouten stärken"
-CEL_strengthen_shipping_routes_desc:0	"Wir haben jetzt die Kontrolle über einige der wichtigsten Schifffahrtsrouten der Welt. Das können wir zu unserem Vorteil nutzen."
-CEL_naval_buildup:0	"Ausbau der Seestreitkräfte"
-CEL_naval_buildup_desc:0	"Da wir so viel Land besitzen, ist eine starke Marinepräsenz erforderlich, um uns gegen ausländische Bedrohungen zu verteidigen. Es ist nur logisch, mit einem Ausbau zu beginnen!"
-CEL_celtic_carriers:0	"Keltische Transportschiffe"
-CEL_celtic_carriers_desc:0	"Wir müssen das keltische Volk um jeden Preis verteidigen! Es sollen Träger gebaut werden, die es uns ermöglichen, im Falle eines Angriffs Verstärkung in unsere Gebiete zu bringen."
-CEL_defend_union:0	"Verteidigen Sie die Union"
-CEL_defend_union_desc:0	"Nach der kürzlichen Gründung der keltischen Armee müssen wir unsere Moral in den Griff bekommen. Wir werden unser Land bis zum Ende verteidigen!"
-CEL_rule_the_air:0	"Der Himmel regiert die Meere"
-CEL_rule_the_air_desc:0	"Da unsere Gebiete von allen Seiten von Wasser bedeckt sind, braucht die keltische Marine zusätzliche Unterstützung aus der Luft! Dies kann das Blatt in jeder künftigen Seeschlacht wenden."
-CEL_go_for_galicia:0	"Für Galizien gehen"
-CEL_go_for_galicia_desc:0	"Galicien ist schon viel zu lange in den falschen Händen. Es ist an der Zeit, es zu erobern und in die Union zu integrieren!"
-CEL_celtic_unity:0	"Von den Highlands nach Iberien"
-CEL_celtic_unity_desc:0	"Wir sind die Keltische Union! Wir sind stärker und geeinter als je zuvor! Wir werden für die Länder kämpfen, die uns rechtmäßig gehören!"
-CEL_integrate_areas:0	"Keltische Integration"
-CEL_integrate_areas_desc:0	"Nach der Vereinigung aller keltischen Länder ist der nächste logische Schritt die vollständige Integration aller Gebiete und ihrer jeweiligen Ressourcen in die Union."
-CEL_scottish_steel_sector:0	"Schottische Stahlwerke"
-CEL_scottish_steel_sector_desc:0	"Der schottische Stahlsektor ist für unsere industrielle Entwicklung von entscheidender Bedeutung."
-CEL_dingham_munition_factory:0	"Dingham Munitionsfabrik"
-CEL_develop_ireland:0	"Irland entwickeln"
-CEL_develop_ireland_desc:0	"Irland, die Smaragdinsel, verfügt über viele wertvolle Industriekomplexe und Ressourcen, die zu vernachlässigen unklug wäre! "
-CEL_appropriate_harland_and_wolff:0	"Aneignung von Harland und Wolff"
-CEL_appropriate_harland_and_wolff_desc:0	"Die Werften und Fabriken von Harland und Wolff könnten sich als wertvolle Investition zur Stärkung unserer Seestreitkräfte erweisen."
-CEL_brittany_industry:0	"Die Bretagne entwickeln"
-CEL_brittany_industry_desc:0	"Alle Teile unserer keltischen Union sollten gleichermaßen entwickelt werden. Dazu gehören Irland Prior, Schottland, Wales und die Bretagne, die nun wieder mit dem Mutterland vereint ist."
-CEL_morgan_line:0	"Schafft die Morgan-Linie"
-CEL_morgan_line_desc:0	"Die neu errichtete Morgan-Linie wird unsere Bürger vor jeder kontinentalen Gefahr schützen."
-CEL_Brest_Oil_Industry:0	"Brester Ölindustrie"
-CEL_Brest_Oil_Industry_desc:0	"Die größte bretonische Stadt Brest ist auch ein wichtiger Handelshafen und Marinestützpunkt, der den Golf von Biskaya und La Manche bewacht. Das neueste Hafenausbauprogramm umfasst den Bau mehrerer Ölterminals."
-CEL_coal_mining:0	"Walisischer Steinkohlenbergbau"
-CEL_coal_mining_desc:0	"Wales verfügt über eines der größten Steinkohlenreviere der Welt. Wir müssen dafür sorgen, dass es an der Spitze bleibt."
-CEL_newport_artillery:0	"Newport Artillerie"
-CEL_newport_artillery_desc:0	"Wir werden in Newport eine Fabrik bauen, die sich auf die Entwicklung von Luft- und Panzerabwehrwaffen spezialisiert. Dies wird unseren Artilleriebemühungen erheblich zugute kommen."
+CEL_francois_recruited:0		"Du hast dich den Bardischen Kreisen genähert...was auch immer das bedeutet."
+is_cel_tt:0		"Hat alle §YCeltic§! Länder vereinigt"
+CEL_celtic_unification:0		"Keltische Einigung"
+CEL_celtic_unification_desc:0		"Nach Jahrhunderten unter englischer und französischer Herrschaft sind die keltischen Völker endlich vereint!"
+CEL_strengthen_shipping_routes:0		"Schifffahrtsrouten stärken"
+CEL_strengthen_shipping_routes_desc:0		"Wir haben jetzt die Kontrolle über einige der wichtigsten Schifffahrtsrouten der Welt. Das können wir zu unserem Vorteil nutzen."
+CEL_naval_buildup:0		"Ausbau der Seestreitkräfte"
+CEL_naval_buildup_desc:0		"Da wir so viel Land besitzen, ist eine starke Marinepräsenz erforderlich, um uns gegen ausländische Bedrohungen zu verteidigen. Es ist nur logisch, mit einem Ausbau zu beginnen!"
+CEL_celtic_carriers:0		"Keltische Transportschiffe"
+CEL_celtic_carriers_desc:0		"Wir müssen das keltische Volk um jeden Preis verteidigen! Es sollen Träger gebaut werden, die es uns ermöglichen, im Falle eines Angriffs Verstärkung in unsere Gebiete zu bringen."
+CEL_defend_union:0		"Verteidigen Sie die Union"
+CEL_defend_union_desc:0		"Nach der kürzlichen Gründung der keltischen Armee müssen wir unsere Moral in den Griff bekommen. Wir werden unser Land bis zum Ende verteidigen!"
+CEL_rule_the_air:0		"Der Himmel regiert die Meere"
+CEL_rule_the_air_desc:0		"Da unsere Gebiete von allen Seiten von Wasser bedeckt sind, braucht die keltische Marine zusätzliche Unterstützung aus der Luft! Dies kann das Blatt in jeder künftigen Seeschlacht wenden."
+CEL_go_for_galicia:0		"Für Galizien gehen"
+CEL_go_for_galicia_desc:0		"Galicien ist schon viel zu lange in den falschen Händen. Es ist an der Zeit, es zu erobern und in die Union zu integrieren!"
+CEL_celtic_unity:0		"Von den Highlands nach Iberien"
+CEL_celtic_unity_desc:0		"Wir sind die Keltische Union! Wir sind stärker und geeinter als je zuvor! Wir werden für die Länder kämpfen, die uns rechtmäßig gehören!"
+CEL_integrate_areas:0		"Keltische Integration"
+CEL_integrate_areas_desc:0		"Nach der Vereinigung aller keltischen Länder ist der nächste logische Schritt die vollständige Integration aller Gebiete und ihrer jeweiligen Ressourcen in die Union."
+CEL_scottish_steel_sector:0		"Schottische Stahlwerke"
+CEL_scottish_steel_sector_desc:0		"Der schottische Stahlsektor ist für unsere industrielle Entwicklung von entscheidender Bedeutung."
+CEL_dingham_munition_factory:0		"Dingham Munitionsfabrik"
+CEL_develop_ireland:0		"Irland entwickeln"
+CEL_develop_ireland_desc:0		"Irland, die Smaragdinsel, verfügt über viele wertvolle Industriekomplexe und Ressourcen, die zu vernachlässigen unklug wäre! "
+CEL_appropriate_harland_and_wolff:0		"Aneignung von Harland und Wolff"
+CEL_appropriate_harland_and_wolff_desc:0		"Die Werften und Fabriken von Harland und Wolff könnten sich als wertvolle Investition zur Stärkung unserer Seestreitkräfte erweisen."
+CEL_brittany_industry:0		"Die Bretagne entwickeln"
+CEL_brittany_industry_desc:0		"Alle Teile unserer keltischen Union sollten gleichermaßen entwickelt werden. Dazu gehören Irland Prior, Schottland, Wales und die Bretagne, die nun wieder mit dem Mutterland vereint ist."
+CEL_morgan_line:0		"Schafft die Morgan-Linie"
+CEL_morgan_line_desc:0		"Die neu errichtete Morgan-Linie wird unsere Bürger vor jeder kontinentalen Gefahr schützen."
+CEL_Brest_Oil_Industry:0		"Brester Ölindustrie"
+CEL_Brest_Oil_Industry_desc:0		"Die größte bretonische Stadt Brest ist auch ein wichtiger Handelshafen und Marinestützpunkt, der den Golf von Biskaya und La Manche bewacht. Das neueste Hafenausbauprogramm umfasst den Bau mehrerer Ölterminals."
+CEL_coal_mining:0		"Walisischer Steinkohlenbergbau"
+CEL_coal_mining_desc:0		"Wales verfügt über eines der größten Steinkohlenreviere der Welt. Wir müssen dafür sorgen, dass es an der Spitze bleibt."
+CEL_newport_artillery:0		"Newport Artillerie"
+CEL_newport_artillery_desc:0		"Wir werden in Newport eine Fabrik bauen, die sich auf die Entwicklung von Luft- und Panzerabwehrwaffen spezialisiert. Dies wird unseren Artilleriebemühungen erheblich zugute kommen."
 
  # WLS - Wales
 
-WLS_steel_company_of_wales:0	"Stahlunternehmen von Wales"
-WLS_generic_industrial_concern:0	"Richard Thomas & Co Ltd"
-WLS_generic_electronics_concern:0	"Smiths Instruments"
-WLS_generic_artillery_manufacturer:0	"ROF Newport"
-WLS_generic_infantry_equipment_manufacturer:0	"ROF Hirwaun"
-WLS_generic_tank_manufacturer:0	"ROF Cardiff"
-WLS_generic_heavy_aircraft_manufacturer:0	"ROF Glascoed" #was: mittlere Flugzeuge
-WLS_generic_light_aircraft_manufacturer:0	"Accles & Pollock"
-WLS_generic_medium_aircraft_manufacturer:0	"Vickers Hawarden Factory" #wurde: schweres Flugzeug
-WLS_generic_naval_manufacturer:0	"Marine-Treibstoff-Fabrik, Caerwent"
+WLS_steel_company_of_wales:0		"Stahlunternehmen von Wales"
+WLS_generic_industrial_concern:0		"Richard Thomas & Co Ltd"
+WLS_generic_electronics_concern:0		"Smiths Instruments"
+WLS_generic_artillery_manufacturer:0		"ROF Newport"
+WLS_generic_infantry_equipment_manufacturer:0		"ROF Hirwaun"
+WLS_generic_tank_manufacturer:0		"ROF Cardiff"
+WLS_generic_heavy_aircraft_manufacturer:0		"ROF Glascoed" #was: mittlere Flugzeuge
+WLS_generic_light_aircraft_manufacturer:0		"Accles & Pollock"
+WLS_generic_medium_aircraft_manufacturer:0		"Vickers Hawarden Factory" #wurde: schweres Flugzeug
+WLS_generic_naval_manufacturer:0		"Marine-Treibstoff-Fabrik, Caerwent"
 
-WLS_generic_infantry_equipment_organization:0	"ROF Hirwaun"
-WLS_generic_artillery_organization:0	"ROF Newport"
+WLS_generic_infantry_equipment_organization:0		"ROF Hirwaun"
+WLS_generic_artillery_organization:0		"ROF Newport"
 
  # Characters
 
-WLS_david_john_williams:0	"David John Williams"
-WLS_david_john_williams_desc:0	"David John Williams wurde 1885 geboren und wuchs auf einem kleinen Bauernhof in Abernant in der Nähe von Rhydcymerau auf. Im Jahr 1902 verließ er sein Elternhaus und arbeitete vier Jahre lang im südwalisischen Kohlenrevier. Schließlich nahm er sein Studium wieder auf und half 1925 bei der Gründung der Welsh National Party (besser bekannt als Plaid Cymru). Williams war auch ein berühmter Kurzgeschichtenautor, dessen Werke von seiner Vision einer eng verbundenen Gemeinschaft inspiriert sind, in der gemeinsame Werte allen einen Wert geben."
-WLS_saunders_lewis:0	"Saunders Lewis"
-WLS_lewis_valentine:0	"Lewis Valentine"
+WLS_david_john_williams:0		"David John Williams"
+WLS_david_john_williams_desc:0		"David John Williams wurde 1885 geboren und wuchs auf einem kleinen Bauernhof in Abernant in der Nähe von Rhydcymerau auf. Im Jahr 1902 verließ er sein Elternhaus und arbeitete vier Jahre lang im südwalisischen Kohlenrevier. Schließlich nahm er sein Studium wieder auf und half 1925 bei der Gründung der Welsh National Party (besser bekannt als Plaid Cymru). Williams war auch ein berühmter Kurzgeschichtenautor, dessen Werke von seiner Vision einer eng verbundenen Gemeinschaft inspiriert sind, in der gemeinsame Werte allen einen Wert geben."
+WLS_saunders_lewis:0		"Saunders Lewis"
+WLS_lewis_valentine:0		"Lewis Valentine"
 
  # NIR - Northern Ireland
 
-NIR_sirocco_works:0	"Sirocco-Werke"
-NIR_frazer_and_haughton_factory:0	"Frazer & Haughton Fabrik"
-NIR_nicholson_and_bass_factory:0	"Nicholson & Bass Fabrik"
-NIR_stanley_motor_works:0	"Stanley Motorenwerke"
-NIR_miles_aircraft_company:0	"Miles Aircraft Gesellschaft"
-NIR_antrim_torpedo_factory:0	"Antrim Torpedo Fabrik"
-NIR_antrim_torpedo_factory_aviation:0	"Antrim Torpedo Factory" (Torpedofabrik Antrim)
+NIR_sirocco_works:0		"Sirocco-Werke"
+NIR_frazer_and_haughton_factory:0		"Frazer & Haughton Fabrik"
+NIR_nicholson_and_bass_factory:0		"Nicholson & Bass Fabrik"
+NIR_stanley_motor_works:0		"Stanley Motorenwerke"
+NIR_miles_aircraft_company:0		"Miles Aircraft Gesellschaft"
+NIR_antrim_torpedo_factory:0		"Antrim Torpedo Fabrik"
+NIR_antrim_torpedo_factory_aviation:0		"Antrim Torpedo Factory" (Torpedofabrik Antrim)
 
  # BRI - Brittany
 
-compagnie_bretonne_du_poisson:0	"Compagnie Bretonne du Poisson"
-redon_aircraft_factory:0	"Redon-Flugzeugfabrik"
-BRI_arsenal_de_brest_battlefleet:0	"Brest Arsenal Werften"
-BRI_arsenal_de_brest_submarine_base:0	"U-Boot-Stützpunkt Brest Arsenal"
-BRI_arsenal_de_lorient:0	"Arsenal Lorient"
-BRI_generic_naval_aircraft_manufacturer:0	"Marineflugzeugbasis von Lann-Bihoué"
-BRI_generic_tank_manufacturer:0	"Brissonneau et Lotz"
-BRI_modernized_agriculture:0	"Modernisierte Landwirtschaft"
-BRI_infantry_equipment_manufacturer:0	"Manufacture d'Armes de Bretagne"
-BRI_artillery_manufacturer:0	"Fonderies de Quimper"
-BRI_motorized_equipment_manufacturer:0	"Usine de Montage de Pimpol"
+compagnie_bretonne_du_poisson:0		"Compagnie Bretonne du Poisson"
+redon_aircraft_factory:0		"Redon-Flugzeugfabrik"
+BRI_arsenal_de_brest_battlefleet:0		"Brest Arsenal Werften"
+BRI_arsenal_de_brest_submarine_base:0		"U-Boot-Stützpunkt Brest Arsenal"
+BRI_arsenal_de_lorient:0		"Arsenal Lorient"
+BRI_generic_naval_aircraft_manufacturer:0		"Marineflugzeugbasis von Lann-Bihoué"
+BRI_generic_tank_manufacturer:0		"Brissonneau et Lotz"
+BRI_modernized_agriculture:0		"Modernisierte Landwirtschaft"
+BRI_infantry_equipment_manufacturer:0		"Manufacture d'Armes de Bretagne"
+BRI_artillery_manufacturer:0		"Fonderies de Quimper"
+BRI_motorized_equipment_manufacturer:0		"Usine de Montage de Pimpol"
 
  # Characters
 
-BRI_maurice_duhamel:0	"Maurice Duhamel".
-BRI_morvan_marchal:0	"Morvan Marchal".
-BRI_marcel_cachin:0	"Marcel Cachin".
-BRI_remon_ar_porzh:0	"Remon Ar Porzh"
-BRI_francois_taldir_jaffrennou:0	"François Taldir-Jaffrennou".
-BRI_ael_peresse:0	"Ael Péresse".
-BRI_alan_heusaff:0	"Alan Heusaff".
-BRI_andre_roux:0	"André Roux".
-BRI_georges_thierry_d_argenlieu:0	"Georges Thierry d'Argenlieu".
-BRI_louis_le_bastard:0	"Louis le Bastard".
-BRI_herve_budes_de_guebriant:0	"Hervé Budes de Guébriant".
-BRI_rene_pleven:0	"René Pleven".
-BRI_pierre_henri_teitgen:0	"Pierre-Henri Teitgen".
-BRI_francis_bayer:0	"Francis Bayer".
-BRI_goulven_mazeas:0	"Goulven Mazéas".
-BRI_morvan_lebesque:0	"Morvan Lebesque".
-BRI_theophile_jeusset:0	"Théophile Jeusset".
-BRI_fransez_debeauvais:0	"Fransez Debeauvais".
-BRI_rafig_tullou:0	"Rafig Tullou".
-BRI_loeiz_andouard:0	"Loeiz Andouard".
-BRI_joseph_pouliquen:0	"Joseph Pouliquen".
-BRI_jacques_paris_de_bollardiere:0	"Jacques Pâris de la Bollardière".
-BRI_jean_simon:0	"Jean Simon".
-BRI_olier_mordrel:0	"Olier Mordrel".
-BRI_henri_bourgeois:0	"Henri Bourgeois".
-BRI_paul_vibert:0	"Paul Vibert".
-BRI_abeozen:0	"Abeozen".
-BRI_yann_goulet:0	"Yann Goulet".
-BRI_pierre_de_maismont:0	"Pierre de Maismont".
-BRI_jean_chanteau:0	"Jean Chanteau".
+BRI_maurice_duhamel:0		"Maurice Duhamel".
+BRI_morvan_marchal:0		"Morvan Marchal".
+BRI_marcel_cachin:0		"Marcel Cachin".
+BRI_remon_ar_porzh:0		"Remon Ar Porzh"
+BRI_francois_taldir_jaffrennou:0		"François Taldir-Jaffrennou".
+BRI_ael_peresse:0		"Ael Péresse".
+BRI_alan_heusaff:0		"Alan Heusaff".
+BRI_andre_roux:0		"André Roux".
+BRI_georges_thierry_d_argenlieu:0		"Georges Thierry d'Argenlieu".
+BRI_louis_le_bastard:0		"Louis le Bastard".
+BRI_herve_budes_de_guebriant:0		"Hervé Budes de Guébriant".
+BRI_rene_pleven:0		"René Pleven".
+BRI_pierre_henri_teitgen:0		"Pierre-Henri Teitgen".
+BRI_francis_bayer:0		"Francis Bayer".
+BRI_goulven_mazeas:0		"Goulven Mazéas".
+BRI_morvan_lebesque:0		"Morvan Lebesque".
+BRI_theophile_jeusset:0		"Théophile Jeusset".
+BRI_fransez_debeauvais:0		"Fransez Debeauvais".
+BRI_rafig_tullou:0		"Rafig Tullou".
+BRI_loeiz_andouard:0		"Loeiz Andouard".
+BRI_joseph_pouliquen:0		"Joseph Pouliquen".
+BRI_jacques_paris_de_bollardiere:0		"Jacques Pâris de la Bollardière".
+BRI_jean_simon:0		"Jean Simon".
+BRI_olier_mordrel:0		"Olier Mordrel".
+BRI_henri_bourgeois:0		"Henri Bourgeois".
+BRI_paul_vibert:0		"Paul Vibert".
+BRI_abeozen:0		"Abeozen".
+BRI_yann_goulet:0		"Yann Goulet".
+BRI_pierre_de_maismont:0		"Pierre de Maismont".
+BRI_jean_chanteau:0		"Jean Chanteau".
+CEL_develop_the_shale_oil_sector:0			"Entwicklung des Schieferölsektors"
+CEL_develop_the_shale_oil_sector_desc:0			"Der schottische Schieferölsektor kann unsere energetische Unabhängigkeit unterstützen."
+CEL_dingham_ammunition_factory_desc:0			"Die Fabrik in Dingham hat das Potenzial, das Zentrum unserer Rüstungsproduktion in Schottland zu werden."
 CEL_develop_the_shale_oil_sector:0		"Entwicklung des Schieferölsektors"
-CEL_develop_the_shale_oil_sector_desc:0		"Der schottische Schieferölsektor kann unsere energetische Unabhängigkeit unterstützen."
+CEL_develop_the_shale_oil_sector_desc:0		"Der schottische Schieferölsektor kann zu unserer energetischen Unabhängigkeit beitragen."
 CEL_dingham_ammunition_factory_desc:0		"Die Fabrik in Dingham hat das Potenzial, das Zentrum unserer Rüstungsproduktion in Schottland zu werden."
