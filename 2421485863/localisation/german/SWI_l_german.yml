@@ -332,8 +332,6 @@
  SWI_flexible_foreign_policy_2:0 "Flexible Außenpolitik"
  SWI_internalism:0 "Interner Fokus"
  SWI_internalism_desc:0 "Dieses Land hat sich entschieden, sich auf interne Angelegenheiten zu konzentrieren und nicht auf externe."
- SWI_heer_und_haus:0 "Heer und Haus"
- SWI_heer_und_haus_desc:0 "Frei von quälenden Zweifeln und Entmutigung bewahren die Soldaten dieses Landes Gleichmut und Zuversicht."
  SWI_standing_army:0 "Auf dem Weg zu einer ständigen Armee"
  SWI_standing_army_desc:0 "Dieses Land hat damit begonnen, sich von einem Milizsystem zu einem stehenden Heer zu entwickeln.--------------- \n §WVervollständigen§! Sie die §YEinberufung§!, um mit den ersten großen Einberufungen zu beginnen §Gund das Arbeitskräftepotenzial zu erhöhen§!."
  SWI_standing_army_2:0 "Hin zu einer ständigen Armee"
@@ -601,8 +599,6 @@
 
  SWI_transport_plane_equipment_1:0 "Bayerische Flugzeugwerke M 18"
 
- SWI_fighter_equipment_0:0 "Dewoitine D.27"
- SWI_fighter_equipment_0_short:0 "D.27"
  SWI_fighter_equipment_1:0 "Messerschmitt Bf 109"
  SWI_fighter_equipment_1_short:0 "Bf 109"
  SWI_fighter_equipment_2:0 "K+W Thun Morane-Saulnier M.S.406"
@@ -642,8 +638,6 @@
  SWI_nav_bomber_equipment_3:0 "K+W Thun Fairey Barracuda"
  SWI_nav_bomber_equipment_3_short:0 "K+W Barracuda"
 
- SWI_tac_bomber_equipment_0:0 "K+W Thun Fokker C.V.-E"
- SWI_tac_bomber_equipment_0_short:0 "K+W C.V.-E"
  SWI_tac_bomber_equipment_1:0 "Potez 630"
  SWI_tac_bomber_equipment_1_short:0 "Potez 630"
  SWI_tac_bomber_equipment_2:0 "K+W Thun Heinkel He 111"
@@ -714,7 +708,12 @@
 
 #BBA fix ""
 
- SWI_spirit_of_saint_bernard_idea_tooltip:1 "Feldlazarett Trickleback: §G+10%§!\nExp. Verlustfaktor: §G-10%§!"
+
+zweiflung erfüllt, auch unsere Offiziere. General Guisan hat ein Treffen aller Schweizer Offiziere auf dem Rütli, dem Gründungsort unserer Nation, beantragt. Vielleicht kann er erklären, wie wichtig es ist, weiterzukämpfen."
+
+#BBA fix ""
+
 
  SWI_ortswehren:0 "Ortswehren"
  SWI_ortswehren_desc:0 "Der totale Krieg bedeutet, dass jeder [ROOT.GetAdjective] Bürger bereit sein muss, seine Region zu verteidigen, aber nicht jeder ist in der Lage, sich unseren Milizen anzuschließen. Wir können lokale Wachen aufstellen, die den Milizen als Rückgrat dienen und sie in ihren Bemühungen zur Verteidigung von [ROOT.GetNameDef] unterstützen."
+ aber nicht jeder ist in der Lage, sich unseren Milizen anzuschließen. Wir können lokale Wachen aufstellen, die den Milizen als Rückgrat dienen und sie in ihren Bemühungen zur Verteidigung von [ROOT.GetNameDef] unterstützen."

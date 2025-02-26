@@ -76,7 +76,6 @@ BUL_economic_stabilizer:0 "Wirtschaftlicher Stabilisator"
 BUL_aggressive_revisionist:0 "Aggressiver Revisionist"
 BUL_empowered_fascists:0 "Ermächtigte Faschisten"
 BUL_feeble_grip:0 "Feeble Grip"
-BUL_brannik:0 "Brannik Faschistische Jugendorganisation"
 BUL_stable_grip:0 "Stärkerer Griff"
 BUL_fascist_volunteers:0 "Expeditionslegionäre"
 BUL_fascist_militarism:0 "Faschistischer Militarismus"
@@ -459,48 +458,17 @@ BUL_socdem_party:0 "BRSP"
 BUL_socdem_party_long:0 "Balgarska rabotnicheska sotsialdemokraticheska partia"
 
 #Technology ""
-BUL_motorized_equipment_1:0 "Fiat 626"
 BUL_motorized_equipment_1_short:0 "Fiat 626"
 BUL_motorized_equipment_1_desc:0 "Der Fiat 626 war ein mittelgroßer Lkw, der von der bulgarischen Armee für militärische Transporte eingesetzt wurde."
-BUL_light_tank_equipment_1:0 "Carro Veloce L3/33"
-BUL_light_tank_equipment_1_short:0 "CV33"
 BUL_light_tank_equipment_1_desc:0 "Der italienische CV33 war ein in Italien entwickelter Panzerwagen. Mehrere dieser Fahrzeuge wurden vor dem Zweiten Weltkrieg von Italien nach Bulgarien importiert."
-BUL_light_tank_equipment_2:0 "T-11-Panzer"
-BUL_light_tank_equipment_2_short:0 "T-11"
 BUL_light_tank_equipment_2_desc:0 "Der Panzer T-11 war ein Panzer, der vor dem Zweiten Weltkrieg von Bulgarien erworben wurde. Der T-11 war ein selbst modifizierter Škoda CKD Lt vz.35, der über eine bessere Bewaffnung, höhere Geschwindigkeit und bessere Handhabung verfügte."
-BUL_light_tank_equipment_3:0 "T-12-Panzer"
-BUL_light_tank_equipment_3_short:0 "T-12"
 BUL_light_tank_equipment_3_desc:0 "Der T-12 war ein von den Bulgaren modifizierter Panzer. Er basierte auf dem tschechoslowakischen LT vz. 38. Diese wurden später von Deutschland an Bulgarien übergeben."
-BUL_medium_tank_equipment_1:0 "Panzerkampfwagen III"
-BUL_medium_tank_equipment_1_short:0 "T3G"
 BUL_medium_tank_equipment_1_desc:0 "Der Ram Mark I war ein von Bulgarien hergestellter Panzer für den Einsatz in der bulgarischen Armee. Der Ram Mark I war ein leistungsfähiger Panzer mit einer Pfunderkanone."
-BUL_medium_tank_equipment_2:0 "Maybach T4G Ausf. F2/G"
-BUL_medium_tank_equipment_2_short:0 "T4G"
 BUL_medium_tank_equipment_2_desc:0 "Der Panzer IV Maybach T4G war die bulgarische Variante des Panzer IV. Der Maybach war mit einer anderen Kanone bewaffnet als seine Gegenstücke, blieb aber ansonsten unverändert."
-BUL_medium_tank_equipment_3:0 "Panzerkampfwagen IV Ausf. H"
-BUL_medium_tank_equipment_3_short:0 "T-4"
 BUL_medium_tank_equipment_3_desc:0 "Der T-4 war die bulgarische Variante des Panzer IV. Der T-4 hatte standardmäßig Seitenschürzen, blieb aber ansonsten unverändert."
-BUL_CAS_equipment_1:0 "DAR 3 Garian I"
-BUL_CAS_equipment_1_short:0 " DAR 3"
-BUL_cv_CAS_equipment_1:0 "DAR 3 Trägervariante"
-BUL_cv_CAS_equipment_1_short:0 " DAR 3 CV"
-BUL_CAS_equipment_2:0 "DAR 10"
-BUL_CAS_equipment_2_short:0 "DAR 10"
 BUL_CAS_equipment_2_desc:0 "DAR 10"
-BUL_cv_CAS_equipment_2:0 "DAR 10 Trägervariante"
-BUL_cv_CAS_equipment_2_short:0 "DAR 10 CV"
-BUL_CAS_equipment_3:0 "DAR 10F"
-BUL_CAS_equipment_3_short:0 "DAR 10F"
 BUL_CAS_equipment_3_desc:0 "DAR 10F"
-BUL_cv_CAS_equipment_3:0 "DAR 10F Trägervariante"
-BUL_cv_CAS_equipment_3_short:0 "DAR 10F CV"
-BUL_fighter_equipment_2:0 "DAR 11"
-BUL_fighter_equipment_2_short:0 "DAR 11"
 BUL_fighter_equipment_2_desc:0 "Da das bulgarische Militär an der tschechischen "Avia B-135" interessiert war, verhandelte es über deren Produktion im eigenen Land unter der Bezeichnung "DAR 11". Leider war der bulgarische Hersteller nicht in der Lage, das Flugzeug zu produzieren, und die in Tschechien hergestellten Prototypen wurden schließlich als Schulflugzeuge eingesetzt. Das bulgarische Militär beschaffte stattdessen die "BF-109"."
-BUL_fighter_equipment_3:0 "LAZ 12"
-BUL_fighter_equipment_3_short:0 "LAZ 12"
-BUL_fighter_equipment_0:0 "DAR 1"
-BUL_fighter_equipment_0_short:0 "DAR 1"
 BUL_jet_fighter_equipment_1:0 "LAZ 14"
 BUL_jet_fighter_equipment_1_short:0 "LAZ 14"
 
@@ -701,18 +669,46 @@ axis_minors_bulgaria.69.a:0 "Ist das eine Art Groll?"
 
 axis_minors_bulgaria.70.t:0 "Makedonische Autonomie"
 axis_minors_bulgaria.70.d:0 "[BUL.GetNameDefCap] hat darum gebeten, dass wir den Mazedoniern eine gewisse Autonomie gewähren, damit sie sich entwickeln und Beziehungen zu den [BUL.GetAdjective]s aufbauen können."
-axis_minors_bulgaria.70.a:0 "Wenn wir ihnen Autonomie gewähren, wird das auch bei unseren internen Problemen helfen."
-axis_minors_bulgaria.70.b:0 "Sie entscheiden nicht, was wir mit unseren Regionen machen."
+
+
+
+
+
+
+
+
+ht, was wir mit unseren Regionen machen."
+
+
+
+
+
+
+
+
+a.71.d:0 "[YUG.GetNameDefCap] hat unsere Bitte angenommen und den Mazedoniern eine gewisse Autonomie gewährt. Jetzt können wir mit ihnen diplomatische Beziehungen aufnehmen."
+
+
+
+
+
+
+
+ohne besondere Autonomie zu integrieren."
+
+
+
+
+
+
+r?"
+
+
+en, dass wir den Mazedoniern eine gewisse Autonomie gewähren, damit sie sich entwickeln und Beziehungen zu den [BUL.GetAdjective]s aufbauen können."
 
 axis_minors_bulgaria.71.t:0 "Makedonische Autonomie"
 axis_minors_bulgaria.71.d:0 "[YUG.GetNameDefCap] hat unsere Bitte angenommen und den Mazedoniern eine gewisse Autonomie gewährt. Jetzt können wir mit ihnen diplomatische Beziehungen aufnehmen."
-axis_minors_bulgaria.71.a:0 "Großartig"
 
-axis_minors_bulgaria.72.t:0 "Makedonische Autonomie"
-axis_minors_bulgaria.72.d:0 "[YUG.GetNameDefCap] hat unsere Bitte abgelehnt und beschlossen, die Mazedonier ohne besondere Autonomie zu integrieren."
 axis_minors_bulgaria.72.a:0 "Haben sie denn kein Verständnis dafür?"
 
 
-BUL_georgii_isserson:0 "Georgii Isserson"
-BUL_bulgarian_administration_of_the_balkans_cores1_tt:1 "Gewährt Kerne in §Y[106.GetName]§!, §Y[803.GetName]§!, §Y[950.GetName]§! und §Y[77.GetName]§!, wenn er von [ROOT.GetNameDef] kontrolliert wird.\nAktuelle Effekte:"
-BUL_bulgarian_administration_of_the_balkans_decisions1_tt:1 "Schaltet §YBulgarische Wiedereingliederungskampagne§! Entscheidungen frei, die es erlauben, die Balkanstaaten zu entkernen."

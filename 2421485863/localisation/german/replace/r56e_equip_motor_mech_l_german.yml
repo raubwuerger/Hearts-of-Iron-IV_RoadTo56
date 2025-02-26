@@ -5,16 +5,6 @@
  tech_trucks_desc:0 "Vroom Vroom"
  ############# ""
 
- motorized_rocket_equipment:0 "Motorisierte Raketenartillerie"
- motorized_rocket_equipment_short:0 "Motorisierte Rakete"
- motorized_rocket_equipment_desc:0 "Mehrfachraketenwerfer bringen Sprengstoff schneller in ein Zielgebiet als herkömmliche Artillerie, haben aber eine geringere Zielgenauigkeit und benötigen eine längere Zeit zum Nachladen. Da diese Version auf Lastwagen montiert ist, kann sie Angriffe starten und die Position wechseln, bevor der Feind das Feuer erwidern kann."
- motorized_rocket_equipment_1:0 "Motorisierte Raketenartillerie"
- motorized_rocket_equipment_1_short:0 "Motorisierte Rakete"
- motorized_rocket_equipment_1_desc:0 "Mehrere Raketenwerfer bringen Sprengstoff schneller in ein Zielgebiet als konventionelle Artillerie, sind jedoch weniger genau und benötigen eine längere Nachladezeit. Da diese Version auf Lastwagen montiert ist, kann sie Angriffe starten und die Position wechseln, bevor der Feind das Feuer erwidern kann."
- motorized_equipment:0 "Motorisiert"
- motorized_equipment_desc:0 "Lastkraftwagen und andere Fahrzeuge, die für den Transport von Truppen zum und im Einsatzgebiet verwendet werden."
- motorized_equipment_1:0 "Motorisierte"
- motorized_equipment_1_desc:0 "Die Motorisierung der Infanterie ist der erste Schritt zur Mechanisierung einer Armee. Zivile Lastkraftwagen lassen sich leicht für militärische Zwecke wie den Transport von Soldaten, das Ziehen von Geschützen und den Transport von Ausrüstung und Nachschub umrüsten. Dadurch wird die strategische Mobilität von Infanterieeinheiten, die ansonsten auf den Marsch angewiesen wären, erheblich gesteigert."
  mechanized_equipment:0 "Mechanisiert"
  mechanized_equipment_short:0 "Mechanisierte"
  mechanized_equipment_desc:0 "Mechanisierte Infanterie ist eine Infanterie, die mit gepanzerten Mannschaftstransportwagen (APCs) oder Schützenpanzern (IFVs) für Transport und Kampf ausgerüstet ist. Die mechanisierte Infanterie unterscheidet sich von der motorisierten Infanterie dadurch, dass ihre Fahrzeuge einen gewissen Schutz vor feindlichem Beschuss bieten, im Gegensatz zu den weich gepanzerten Radfahrzeugen (LKW oder Jeep) der motorisierten Infanterie."
@@ -33,15 +23,6 @@
  mechanized_equipment_x_2:0 "Gepanzerter Mannschaftstransportwagen '53"
  mechanized_equipment_x_2_short:0 "APC '53"
  mechanized_equipment_x_2_desc:0 "Mechanisierte Infanterie ist eine Infanterie, die mit gepanzerten Mannschaftstransportwagen (APCs) oder Schützenpanzern (IFVs) für Transport und Kampf ausgerüstet ist. Die mechanisierte Infanterie unterscheidet sich von der motorisierten Infanterie dadurch, dass ihre Fahrzeuge einen gewissen Schutz vor feindlichem Beschuss bieten, während die motorisierte Infanterie über weich gepanzerte Radfahrzeuge (LKW oder Jeep) verfügt."
- amphibious_mechanized_equipment:0 "Amphibische Landungsfahrzeuge"
- amphibious_mechanized_equipment_short:0 "Amtracs"
- amphibious_mechanized_equipment_desc:0 "Amphibische Zugmaschinen (Amtracs) ermöglichen die Anlandung von Marineinfanteristen an einem Strand unter gepanzertem Schutz. Dies geht jedoch auf Kosten einer schlechten Treibstoffeffizienz."
- amphibious_mechanized_equipment_1:0 "Amphibischer Traktor '41"
- amphibious_mechanized_equipment_1_short:0 "Amtrac '41"
- amphibious_mechanized_equipment_1_desc:0 "Amphibische Traktoren, auch Amtracs genannt, ermöglichen es den Marines, unter gepanzertem Schutz an einem Strand anzulanden. Dies geht jedoch auf Kosten einer schlechten Treibstoffeffizienz."
- amphibious_mechanized_equipment_2:0 "Amphibischer Traktor '43"
- amphibious_mechanized_equipment_2_short:0 "Amtrac '43"
- amphibious_mechanized_equipment_2_desc:0 "Diese Amtracs weisen einige Verbesserungen gegenüber der Basisversion auf, wie z. B. eine hintere Laderampe zum leichteren Entladen am Strand."
 
  #New Train R56 Techs ""
  r56_gw_railway_gun_equipment:0 "Eisenbahngeschütz aus dem Großen Krieg"
@@ -58,7 +39,6 @@
  train_equipment_5_desc:0 "Dank der Entwicklung von Dieselverbrennungsmotoren sind Diesellokomotiven viel spezieller und einfacher zu produzieren als ihre Dampflokomotiv-Gegenstücke. Die für die Herstellung benötigten Teile kannibalisieren einige Ressourcen, die wir besser für die Produktion anderer Kriegsgüter verwenden könnten."
  train_equipment_side_tanks:0 "Kriegssparmodus Abstellgleis"
  train_equipment_side_tanks_desc:0 "Kleiner und billiger in der Herstellung als die anderen War Austerity Trains. Diese 'Sidetanks' können die Aufgaben ihrer größeren Gegenstücke gut genug erledigen, angesichts ihrer geringeren Zugkraft."
- armored_train:0 "Gepanzerter Zug"
 
  #New Railway and Logistics tech ""
  supply_node_tech:0 "Technologien für Nachschubknoten"
@@ -84,7 +64,6 @@
 
 
  #Railway gun ""
- railway_gun:0 "Eisenbahngeschütz"
 
  AFG_motorized_rocket_equipment_1:0 "Mutaharik Rakat Weshtoonki 42"
  AFG_motorized_rocket_equipment_1_short:0 "MRW. 42"
@@ -156,7 +135,6 @@
 
  BEL_motorized_rocket_equipment_1:0 "Fusée 110 modèle 1942"
  BEL_motorized_rocket_equipment_1_short:0 "110 mle. 1942"
- BEL_motorized_equipment_1:0 "Chevrolet mle. 35"
  BEL_mechanized_equipment_1:0 "FN-Kégresse P104"
  BEL_mechanized_equipment_1_short:0 "FN-Kégresse P104"
  BEL_mechanized_equipment_2:0 "Jagdwagen M5 (blind)"
@@ -269,7 +247,6 @@
 
  BUL_motorized_rocket_equipment_1:0 "150-mm-Raketa M42"
  BUL_motorized_rocket_equipment_1_short:0 "150-mm M42"
- BUL_motorized_equipment_1:0 "Ursus A"
  BUL_mechanized_equipment_1:0 "Broniran Transportor M39"
  BUL_mechanized_equipment_1_short:0 "BTR M39"
  BUL_mechanized_equipment_2:0 "Broniranischer Transporter M42"
@@ -1343,58 +1320,39 @@
  BOS_mechanized_equipment_2:0 "Oklopni Transporter M.42"
  BOS_mechanized_equipment_2_short:0 "OT M.42"
  BOS_mechanized_equipment_3:0 "Oklopni Transporter M.44"
- BOS_mechanized_equipment_3_short:0 "OT M.44"
+
+
+
+
+
+
+
+
+
+
+
+
+t_x:0 "Oklopni-Transporter M.49"
+
+
+
+
+
+
+"
+
+
+
+
+
+
+_2_short:0 "OT M.53"
+
+
+
+i Transporter M.44"
  BOS_mechanized_equipment_x:0 "Oklopni-Transporter M.49"
- BOS_mechanized_equipment_x_short:0 "OT M.49"
  BOS_mechanized_equipment_x_2_short:0 "OT M.53"
 
- CRO_motorized_rocket_equipment_1:0 "150mm Raketa M.42"
- CRO_motorized_rocket_equipment_1_short:0 "150mm Raketa M.42"
- CRO_motorized_equipment_1:0 "Praga RV"
- CRO_mechanized_equipment_1:0 "Oklopni Transporter M.39"
- CRO_mechanized_equipment_1_short:0 "OT M.39"
- CRO_mechanized_equipment_2:0 "Oklopni Transporter M.42"
- CRO_mechanized_equipment_2_short:0 "OT M.42"
- CRO_mechanized_equipment_3:0 "Oklopni Transporter M.44"
- CRO_mechanized_equipment_3_short:0 "OT M.44"
- CRO_mechanized_equipment_x:0 "Oklopni-Transporter M.49"
- CRO_mechanized_equipment_x_short:0 "OT M.49"
- CRO_mechanized_equipment_x_2_short:0 "OT M.53"
 
- SER_motorized_rocket_equipment_1:0 "150mm Raketa M.42"
- SER_motorized_rocket_equipment_1_short:0 "150mm Raketa M.42"
- SER_motorized_equipment_1:0 "Praga RV"
- SER_mechanized_equipment_1:0 "Oklopni Transporter M.39"
- SER_mechanized_equipment_1_short:0 "OT M.39"
- SER_mechanized_equipment_2:0 "Oklopni Transporter M.42"
- SER_mechanized_equipment_2_short:0 "OT M.42"
- SER_mechanized_equipment_3:0 "Oklopni Transporter M.44"
- SER_mechanized_equipment_3_short:0 "OT M.44"
- SER_mechanized_equipment_x:0 "Oklopni-Transporter M.49"
- SER_mechanized_equipment_x_short:0 "OT M.49"
- SER_mechanized_equipment_x_2:0 "Oklopni-Transporter M.53"
- SER_mechanized_equipment_x_2_short:0 "OT M.53"
 
- SLV_motorized_rocket_equipment_1:0 "150mm Raketa M.42"
- SLV_motorized_rocket_equipment_1_short:0 "150mm Raketa M.42"
- SLV_motorized_equipment_1:0 "Praga RV"
- SLV_mechanized_equipment_1:0 "Oklopni Transporter M.39"
- SLV_mechanized_equipment_1_short:0 "OT M.39"
- SLV_mechanized_equipment_2:0 "Oklopni Transporter M.42"
- SLV_mechanized_equipment_2_short:0 "OT M.42"
- SLV_mechanized_equipment_3:0 "Oklopni Transporter M.44"
- SLV_mechanized_equipment_3_short:0 "OT M.44"
- SLV_mechanized_equipment_x:0 "Oklopni-Transporter M.49"
- SLV_mechanized_equipment_x_short:0 "OT M.49"
- SLV_mechanized_equipment_x_2:0 "Oklopni-Transporter M.53"
- SLV_mechanized_equipment_x_2_short:0 "OT M.53"
-BEL_mechanized_equipment_x_2:0 "Voiture blindée de chasseurs portés M44E2"
-BEL_mechanized_equipment_x_2_short:0 "VBCP M44E2" 
-JAP_motorized_rocket_equipment_1_short:0 "Type 5 Tarenso"
-MAN_motorized_rocket_equipment_1_short:0 "Type 5 Tarenso"
-KOR_motorized_rocket_equipment_1_short:0 "Type 5 Tarenso"
-LAT_motorized_rocket_equipment_1_short:0 "150mm Raķete M42"
-LIT_motorized_rocket_equipment_1_short:0 "150mm Raketa 42m."
-BOS_mechanized_equipment_x_2:0 "Oklopni Transporter M.53"
-CRO_mechanized_equipment_x_2:0 "Oklopni Transporter M.53"
-lindée de chasseurs portés M44E2"

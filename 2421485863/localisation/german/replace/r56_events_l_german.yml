@@ -1,6 +1,5 @@
 ﻿l_german:
  wtt_germany.641.t:0 "[GER.GetNameDefCap] Reintegriert Eupen-Malmedy"
- wtt_germany.63.desc:0 "Die [GER.GetAdjective]-Regierung hat ein Gesetz erlassen, das die Wiedereingliederung von Elsass-Lothringen, Luxemburg und Eupen-Malmedy in [GER.GetNameDef] vorsieht. Die Masseneinberufung unserer Bevölkerung hat bereits begonnen."
  CHL_political_events.4.t: "[CHL.GetName] Bewegt sich zur Besetzung von [1065.GetName]"
  CHL_political_events.4.desc: "Truppen des [CHL.GetAdjective]-Staates haben begonnen, die zuvor festgelegten Grenzen in [1065.GetName] zu überschreiten, und ihre Luftwaffe und Marine sind bereits mobilisiert. Es scheint, dass sie es ernst meinen, die Kontrolle über die umstrittene Insel zu übernehmen, und es ist nicht klar, ob wir dies zum jetzigen Zeitpunkt durch Schlichtung verhindern können. Wie sollten wir vorgehen?"
  CHL_political_events.5.t: "[ARG.GetName] Zieht sich von [1065.GetName] zurück."
@@ -32,3 +31,4 @@
 
  WW_hungary.86.t: "[FROM.GetNameDefCap] Inszeniert einen Aufstand in [1086.GetName]"
  WW_hungary.86.desc: "Rebellen, die den paramilitärischen Organisationen von [FROM.GetAdjective] angehören, haben die Kontrolle über wichtige Gebäude in der Region [1086.GetName] übernommen und in aller Eile ein Referendum über den Wiedereintritt in die [FROM.GetNameDef] abgehalten, wobei das Ergebnis eindeutig gefälscht war. Unsere Truppen sind in der Nähe in Bereitschaft, warten aber auf Befehle, um zu sehen, ob ein Eingreifen die richtige Wahl ist oder nicht."
+ferendum über den Wiedereintritt in die [FROM.GetNameDef] abgehalten, wobei das Ergebnis eindeutig gefälscht war. Unsere Truppen sind in der Nähe in Bereitschaft, warten aber auf Befehle, um zu sehen, ob ein Eingreifen die richtige Wahl ist oder nicht."

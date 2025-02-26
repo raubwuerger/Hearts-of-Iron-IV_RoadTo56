@@ -21,7 +21,6 @@
  CHI_join_the_republican_government_desc:1 "Nachdem unser Gebiet gestärkt und unsere Regierung reformiert wurde, ist es an der Zeit, sich an die Zentralregierung zu wenden und einen Platz am Tisch zu verlangen. Sobald wir eine anerkannte Partei in der Regierung sind, können wir diese neu gewonnene Legitimität nutzen, um Unterstützung in anderen Staaten zu gewinnen und unsere Machtbasis auszubauen."
  CHI_power_struggle:0 "Machtkampf"
  CHI_power_struggle_desc:1 "Unser politischer Einfluss auf staatliche Angelegenheiten ist erheblich gewachsen. Wir können nun versuchen, anderen Ländern auf Augenhöhe zu begegnen."
- china_nationalist_focus:0 "der Fokusbaum des nationalistischen Chinas"
  china_communist_focus:0 "der Fokusbaum des kommunistischen Chinas"
  CHI_cooperation_with_the_communists:0 "Zusammenarbeit mit den Kommunisten"
  CHI_cooperation_with_the_communists_desc:1 "Die KMT hat versucht, eine moderne Nation aufzubauen, und ist gescheitert. Das Land ist gespaltener denn je, die Bauern leben in Angst vor der Regierung, die Korruption ist auf allen Ebenen der Regierung weit verbreitet, und die japanischen Imperialisten sitzen direkt hinter den Grenzen. Vielleicht ist der Kommunismus die bessere Vision für die Zukunft."
@@ -726,3 +725,4 @@
 
  CHI_expand_the_taiyuan_arsenal:0 "Das Taiyuan-Arsenal ausbauen"
  CHI_expand_the_taiyuan_arsenal_desc:0 "Die Shanxi Military Technology Practice Factory, besser bekannt als Taiyuan Arsenal, ist ein riesiger Komplex für die Militärproduktion, der von Yan Xishan gegründet wurde, als er noch provisorischer Gouverneur von Shanxi war."
+egründet wurde, als er noch provisorischer Gouverneur von Shanxi war."

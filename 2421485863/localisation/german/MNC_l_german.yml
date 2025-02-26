@@ -59,7 +59,6 @@
 
  #traits ""
 
- MNC_louis_ii_of_monaco:0 "Ludwig II., Fürst von Monaco"
  MNC_louis_ii_of_monaco_idea:0 "Ludwig II., Fürst von Monaco"
  MNC_Louis_II:0 "Ludwig II."
  MNC_Rainier_III:0 "Rainier III"
@@ -131,3 +130,4 @@
  MNC_republic_neutrality_DEF:0 "die Monegassische Republik"
  MNC_neutrality_party_republic:0 "Compagnie des Carabiniers"
  MNC_neutrality_party_republic_long:0 "Junta der Compagnie des Carabiniers"
+rty_republic_long:0 "Junta der Compagnie des Carabiniers"

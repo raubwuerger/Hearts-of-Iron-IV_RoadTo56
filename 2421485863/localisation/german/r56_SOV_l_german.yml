@@ -156,7 +156,6 @@
  new_vozhd:0 "Die neue Vozhd"
  SOV_bypass_tt:0 "Dieser Schwerpunkt wird nach Kerenskis Sieg im Machtkampf abgeschlossen"
  SOV_czar_flag:0 "Der Zar hat den Machtkampf gewonnen"
- SOV_demo:0 "Die Russische Föderation"
 
 
 
@@ -732,7 +731,6 @@
  #decisions ""
 
  SOV_move_capital_back:0 "Verlegung der Hauptstadt zurück nach Moskau"
- SOV_restore_the_union:0 "Wiederherstellung der Union"
  SOV_restore_order_in_the_caucasus:0 "Wiederherstellung der Ordnung im Kaukasus"
  SOV_restore_order_in_belarus:0 "Wiederherstellung der Ordnung in Weißrussland"
  SOV_restore_order_in_ukraine:0 "Wiederherstellung der Ordnung in der Ukraine"
@@ -753,4 +751,8 @@
  #mio trait ""
 
  SOV_katyusha_rocket_production:0 "Katjuscha-Raketenproduktion"
+oduktion"
+ "Katjuscha-Raketenproduktion"
+a-Raketenproduktion"
+ "Katjuscha-Raketenproduktion"
 ha_rocket_production:0 "Katjuscha-Raketenproduktion"

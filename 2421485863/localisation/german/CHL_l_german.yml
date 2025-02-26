@@ -89,14 +89,8 @@
 
  chile_communist_faction:0 "Union der Kommunistischen Staaten Lateinamerikas"
  CHL_neutrality_party:0 "Liberale Partei"
- CHL_fascism_party:0 "MNSCh"
- CHL_fascism_party_long:0 "Movimiento Nacional Socialista De Chile"
  CHL_fascism_partyv2:0 "VPS"
  CHL_fascism_partyv2_long:0 "Vanguardia Popular Socialista"
- CHL_democratic_party:0 "Radikale Partei"
- CHL_democratic_party_long:0 "Radikale Partei"
- CHL_communism_party:0 "PCCh"
- CHL_communism_party_long:0 "Partido Comunista de Chile"
  CHL_isi:0 "ISI"
  CHL_isi_desc:0 "Die Politik der importsubstituierenden Industrialisierung wurde eingeführt, um die Selbständigkeit unserer Industrie zu fördern."
  CHL_corfo:0 "CORFO"
@@ -440,8 +434,18 @@
 
 
  CHL_generic_tank_organization:0 "FAMAE"
- CHL_generic_infantry_equipment_organization:0 "FAMAE"
+
+
+ment_organization:0 "FAMAE"
+
+
+ "FAMAE-Geschützgießerei"
+
+
+ization:0 "Subsecretaria de Aviación"
+
+"LAN-Chile"
+rganization:0 "FAMAE"
  CHL_generic_artillery_organization:0 "FAMAE-Geschützgießerei"
 
- CHL_generic_general_aircraft_organization:0 "Subsecretaria de Aviación"
  CHL_generic_medium_aircraft_organization:0 "LAN-Chile"

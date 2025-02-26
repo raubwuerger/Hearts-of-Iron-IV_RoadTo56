@@ -13,8 +13,6 @@
  # Parties Names ""
   SIA_fascism_party:0 "Khana Ratsadon (M-R)"
   SIA_fascism_party_long:0 "Khana Ratsadon (Militärische Radikale)"
-  SIA_neutrality_party:0 "Khana Ratsadon (M)"
-  SIA_neutrality_party_long:0 "Khana Ratsadon (Militär)"
   SIA_democratic_party:0 "Khana Ratsadon (C)"
   SIA_democratic_party_long:0 "Khana Ratsadon (Zivilisten)"
   SIA_communism_party:0 "CPS"
@@ -632,4 +630,4 @@
 
   SIA_revolutionnary_women:0 "Revolutionäre Frauen"
   SIA_revolutionnary_women_desc:0 "Das Ende des Kapitalismus muss auch das Ende der Marginalisierung der Frauen bedeuten. Sie müssen mit den Männern gleichgestellt werden, sei es im Haushalt, in den Fabriken oder in der Armee."
- im Haushalt, in den Fabriken oder in der Armee."
+i es im Haushalt, in den Fabriken oder in der Armee."

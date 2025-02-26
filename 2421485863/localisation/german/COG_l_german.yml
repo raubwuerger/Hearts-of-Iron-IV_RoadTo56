@@ -1,8 +1,6 @@
 ﻿l_german:
  #Congo content separated from Belgium and is moved here! -Fantom ""
 
- COG_neutrality_party:0 "Allgemeines Gouvernorat"
- COG_neutrality_party_long:0 "Generalgouverneurat des Kongo"
  COG_democratic_party:0 "ABAKO"
  COG_democratic_party_long:0 "Allianz der Bakongo"
 
@@ -98,18 +96,8 @@
  COG_heavy_tank_artillery_equipment_3_short:0 "T92 HMC"
  COG_super_heavy_tank_equipment_1:0 "Schildkröte"
  COG_super_heavy_tank_equipment_1_short:0 "Schildkröte"
- COG_anti_tank_equipment_1:0 "Kanonenabwehrwagen 47 mm Modell 1931"
- COG_anti_tank_equipment_1_short:0 "C.47 F.R.C. Mle31"
  COG_anti_tank_equipment_1_desc:0 "Die 47-mm-Kanone von 1931 wurde von der "Fonderie Royale de Canons" hergestellt und genoss einen ausgezeichneten Ruf; sie diente als Basis für den Panzerzerstörer T-13."
- COG_anti_tank_equipment_2:0 "Kanone Anti-Char de 60mm"
- COG_anti_tank_equipment_2_short:0 "C.60"
  COG_anti_tank_equipment_2_desc:0 "Die belgische 60-mm-Panzerabwehrkanone war leistungsstark, aber selten. Sie wurde nie im Feld eingesetzt, da ihre Herstellung als zu kostspielig angesehen wurde. Alle produzierten Geschütze wurden in Festungen eingesetzt, vor allem in der Umgebung von Lüttich."
- COG_artillery_equipment_2:0 "Canon 120 mm Modèle 1931"
- COG_artillery_equipment_2_short:0 "Kanone 120 L Mle 1931"
- COG_anti_air_equipment_1:0 "Bofors 40 mm"
- COG_anti_air_equipment_1_short:0 "Bofors 40 mm"
- COG_anti_air_equipment_2:0 "75 mm Bourges/FRC Mle 1936"
- COG_anti_air_equipment_2_short:0 "75 mm FRC Mle 1936"
 
  #Focuses ""
  COG_colonial_autonomy:0 "Koloniale Autonomie"
@@ -332,12 +320,37 @@
  COG_cruiser_effort:0 "Experimente mit größeren Schiffen"
  COG_cruiser_effort_desc:0 "Bevor wir in die Forschung an fortgeschrittenen Kriegsschiffen einsteigen, müssen die kleineren Kreuzer ersetzt werden."
  COG_destroyer_effort:0 "Fortgeschrittene Zerstörer"
- COG_destroyer_effort_desc:0 "Durch das Studium der Konstruktion und des strategischen Einsatzes von U-Booten haben wir auch gelernt, wie wir diesen Strategien begegnen können. Zerstörer werden dafür entscheidend sein."
+ 
+
+
+ 
+
+
+ "Durch das Studium der Konstruktion und des strategischen Einsatzes von U-Booten haben wir auch gelernt, wie wir diesen Strategien begegnen können. Zerstörer werden dafür entscheidend sein."
+ 
+
+
+ 
+
+
+n die alte und die neue Überlegenheit der Seestreitkräfte."
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+l_concern:0 "Metalkat"
+
+ Zerstörer"
  COG_capital_ships_effort:0 "Bemühungen um Großkampfschiffe"
  COG_capital_ships_effort_desc:0 "Die Nation mit den meisten Schlachtschiffen wird die Weltmeere beherrschen. Schlachtschiffe und Flugzeugträger repräsentieren die alte und die neue Überlegenheit der Seestreitkräfte."
  
- COG_generic_industrial_concern:0 "CCCI"
- KAT_generic_industrial_concern:0 "Metalkat"
 
 AT_generic_industrial_concern:0 "Metalkat"
 

@@ -43,7 +43,6 @@
  CHI_chan_chak:0 "Chan Chak"
  CHI_li_fu_lee:0 "Li Fu Lee"
 
- china_nationalist_focus:0 "Republik China nationaler Fokus"
  CHI_HK:0 "Stadt Hongkong"
  CHI_HK_UK:0 "Stadt Hongkong"
  CHI_MAC:0 "Stadt Macau"
@@ -121,7 +120,6 @@ GXC_generic_industrial_concern:0 "Guangxi Unternehmensgesellschaft"
  CHI_prepare_provisional_capital:0 "Provisorische Hauptstadt vorbereiten"
  CHI_prepare_provisional_capital_desc:0 "Der Feind rückt rasch auf Nanjing vor! Der Feind kann unsere Führung nicht erobern. Wir müssen eine Basis für eine provisorische Hauptstadt tief im Landesinneren schaffen, um unsere Nation in diesen harten Zeiten zu regieren; dies wäre jedoch nicht einfach."
 
- CHI_join_united_front:0 "Schließen Sie sich der Vereinigten Front an"
  CHI_join_united_front_desc:0 "[JAP.getNameDefCap] hat sich entschlossen, die chinesische Nation vom Angesicht der Erde zu tilgen. Wir sollten die Vereinte Front mit allen Mitteln unterstützen, um die Sicherheit von China Proper zu gewährleisten!"
 
  CHI_strife_for_survival:0 "Strebt nach dem Überleben!"
@@ -2551,3 +2549,4 @@ GXC_generic_industrial_concern:0 "Guangxi Unternehmensgesellschaft"
  #KMT_own_central_gov_capital_tt:0 "Besitze die aktuelle Hauptstadt der Zentralregierung: §Y[KMT_central_gov_tag.Capital.GetName]§!\n"
 ommen!"
  #KMT_own_central_gov_capital_tt:0 "Besitze die aktuelle Hauptstadt der Zentralregierung: §Y[KMT_central_gov_tag.Capital.GetName]§!\n"
+MT_own_central_gov_capital_tt:0 "Besitze die aktuelle Hauptstadt der Zentralregierung: §Y[KMT_central_gov_tag.Capital.GetName]§!\n"

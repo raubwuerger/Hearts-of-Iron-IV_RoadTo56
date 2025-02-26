@@ -70,43 +70,8 @@ agrarian_socialism_desc:0 "Als sich die Werke von Marx und Engels über das indu
  #FIXES 
 anarchism:0 "Anarchismus"
 anarchism_desc:0 "§YAnarchismus§! ist die Ablehnung von Autorität an sich und fördert die Aufteilung der Gesellschaft in selbstverwaltende und selbstverwaltete Kollektive anstelle eines singulären, zentralisierten Staates."
-neutrality:0 "Autoritär"
-neutrality_noun:0 "Autoritarismus"
-neutrality_desc:0 "Autoritäres Regime"
-despotism:0 "Zivile Diktatur"
-despotism_desc:0 "§LAls die alte monarchistische Ordnung Europas der neuen Ära des Republikanismus Platz machte, nahm sie die Autokratie nicht mit, und in einigen Nationen wurden die alten monarchistisch-absolutistischen Regime lediglich durch neue §Yzivile Diktaturen§! ersetzt. §YZivile Diktaturen§! sind von Land zu Land verschieden, die meisten zeichnen sich jedoch dadurch aus, dass der Diktator seine Macht nicht auf den Einsatz des Militärs stützt, sondern mit §gdurch eine Verfassung§! verliehenen Befugnissen regiert.§!"
-oligarchism:0 "Oligarchismus"
-oligarchism_desc:0 "§LDa derjenige, der die Nahrung kontrolliert, auch das Volk kontrolliert, gibt es §YOligarchismus§! als Regierungsform schon seit den ersten menschlichen Zivilisationen. §YOligarchismus ist keine definierte Ideologie, so dass die Art und Weise, wie er ausgeübt wird, von Land zu Land variiert, aber er ist in der Regel dadurch gekennzeichnet, dass eine §gGruppe einflussreicher Persönlichkeiten die Nation mit nahezu diktatorischen Befugnissen§! führt.\n"
-conservatism:0 "Demokratischer Konservatismus"
-conservatism_desc:0 "§LAls die Ereignisse der Amerikanischen und Französischen Revolution eine Schockwelle durch die westliche Welt schickten, gab es viele, die sich immer noch gegen eine radikale Veränderung der gesellschaftlichen Ordnung wehrten, und die Werke von Persönlichkeiten wie Edmund Burke und Joseph de Maistre, die sich der neuen liberalen Ordnung entgegenstellten, sollten sich später zur Ideologie des §YKonservatismus§! Als §9reaktionäre§! Ideologie unterscheiden sich die Besonderheiten der konservativen Bewegungen von Land zu Land, jedoch drehen sich die Hauptprinzipien des Konservatismus in der Regel um die §3Erhaltung zahlreicher Institutionen§! wie §2organisierter Religion§!, dem §2Nationalstaat§! und der §2Kernfamilie§!.§!"
-liberalism:0 "Liberalismus"
-liberalism_desc:0 "§LAls die Aufklärung im Westen immer mehr an Popularität gewann, endeten auch die alten Normen von Erbprivilegien, Staatsreligion und göttlichen Monarchen. Die neue Ideologie des §YLiberalismus§!, die aus dem Chaos der Amerikanischen und der Französischen Revolution hervorging, breitete sich in ganz Europa aus, als die alten Monarchien eine nach der anderen gestürzt wurden.\n\nIn der Überzeugung, dass der Zweck des Staates nicht darin bestand, als verlängerter Arm des Monarchen zu dienen, sondern vielmehr die Freiheiten der Bevölkerung zu schützen§!, würde der Liberalismus die alte konservative und autoritäre Ordnung der Welt in Frage stellen, indem er feststellte, dass jeder Mensch §Ynatürliche Rechte§! auf §3Leben§!, §3Freiheit§! und §3Wohlstand§! hat."
-socialism:0 "Sozialdemokratie"
-socialism_desc:0 "§LAls die radikale Politik des Marxismus bei vielen europäischen Sozialisten in Ungnade fiel, lösten sich einige führende sozialistische Persönlichkeiten wie Moses Hess und Eduard Bernstein von der aggressiven revolutionären Haltung von Marx und konsolidierten ihre Auffassung vom Sozialismus in einer neuen Ideologie, die sie §YSozialdemokratie§! Im Gegensatz zum Marxismus glaubten die Befürworter der Sozialdemokratie, dass ein §Rsozialistisches System§! durch eine §3allmähliche Reform§! der maroden europäischen Monarchien erreicht werden könnte. In ihren Augen konnte jede inhärent revolutionäre Ideologie nicht von Dauer sein, da sie nur weitere Revolutionen anheizte, und daher konnte wahre Gleichheit nur durch ein funktionierendes demokratisches System überleben.§!\n"
-marxism:0 "Marxismus"
-marxism_desc:0 "§LWährend die Flammen des Völkerfrühlings in ganz Europa loderten, veröffentlichte ein an der Revolution beteiligter deutscher Sozialist namens Karl Marx inmitten des Chaos das Kommunistische Manifest. In diesem Werk, das zu einem der einflussreichsten Bücher des Jahrhunderts werden sollte, schrieb Marx die Grundlage der Ideologie nieder, die später den Namen §YMarxismus§! tragen sollte. \nAls radikaler Perspektivwechsel gegenüber der populären liberalen Bewegung, die Europa seit der Französischen Revolution beherrscht hatte, tritt der Marxismus dafür ein, die Geschichte durch die Brille des §RKlassenkampfes§! zu betrachten und glaubt, dass die vielen Konflikte in der europäischen Geschichte als Kampf zwischen den unteren und oberen Klassen der Gesellschaft erklärt werden können. Als solcher tritt der Marxismus für die §Rrevolutionäre Umwandlung der Gesellschaft§! in ein §RGemeineigentum an den Produktionsmitteln§! ein.§!"
-leninism:0 "Leninismus"
-leninism_desc:0 "§LAls die Trommeln an der Ostfront des Großen Krieges verstummten, begannen die inneren Konflikte im besiegten Russland erst. Nach einem Putsch gegen die kaiserliche Regierung im Februar 1917 sollten Wahlen abgehalten werden. Die Bolschewiki von Wladimir Lenin verloren jedoch die Wahl gegen die agrarsozialistische Sozialrevolutionäre Partei von Viktor Tschernow. Unzufrieden mit dem Ergebnis putschten die Bolschewiki die Regierung und versuchten, die neue Sowjetunion als Einparteienstaat zu regieren, womit sie die Transformation der Revolution vom Marxismus zum §YLeninismus§! vollendeten. [Im Unterschied zu den älteren sozialistischen Ideologien tritt der Leninismus dafür ein, dass der §Rrevolutionäre Staat§! von einer §RAvantgardepartei§! regiert wird, die eine §RDiktatur des Proletariats§! bildet.§!"
-stalinism:0 "Stalinismus"
-stalinism_desc:0 "§LMit dem Ende des Regimes von Lenin nach dessen Tod war die Zukunft der neuen Sowjetunion ungewiss. Als Generalsekretär der Union nutzte der georgische Bolschewik Joseph Stalin seine Macht, um seine Gefolgsleute in Machtpositionen zu bringen und seine Herrschaft durch eine neue totalitäre Ideologie zu festigen, die später §YStalinismus§! genannt wurde. \nAls eine noch autoritärere Form des Leninismus fördert der Stalinismus, der von Stalins extremer Paranoia geprägt ist, die gewaltsame §8Säuberung der Gesellschaft von Bedrohungen, die der Staat§! als "revisionistisch" ansieht, durch Massenverhaftungen und Scheinprozesse. Sie befürwortet auch die §Rrasche Industrialisierung§! der Nation und den §Rmilitanten Atheismus§!.§!\n"
-anti_revisionism:0 "Anti-Revisionismus"
-anti_revisionism_desc:0 "Als Reaktion auf die vielen Ideologien, die behaupten, Nachfolger des Marxismus zu sein, tritt der §YAnti-Revisionismus§! für die Beibehaltung von Schlüsselelementen der ursprünglichen revolutionären Theorie ein. Die Ideologie, die sich hauptsächlich gegen die Einbeziehung kapitalistischer Wirtschaftselemente in sozialistische Staaten wendet, definiert sich ebenso sehr durch das, was sie nicht ist, wie durch das, was sie ist."
-anarchist_communism:0 "Anarchistischer Kommunismus"
-anarchist_communism_desc:0 "Eine Ideologie, die die Idee des Kommunismus als §Rstaatenlose Gesellschaft§! vertritt. Der §YAnarcho-Kommunismus§! lehnt das Konzept eines sozialistischen Übergangsstaates ab und bevorzugt eine Gemeinschaft, die auf §Yfreiwilligen Vereinigungen§! und §Rgegenseitiger Hilfe§! beruht."
-nazism:0 "Nationaler Sozialismus"
-nazism_desc:0 "§YPreußen und später Deutschland§! als Ganzes waren lange Zeit stolz auf ihre militärische Überlegenheit und ihre Tradition, und diese Werte wurden zu einem festen Bestandteil der Kultur des Deutschen Reiches. Als die alliierten Armeen nach der Niederlage im Ersten Weltkrieg in ein geschlagenes und zerschlagenes Deutschland einmarschierten, konnten viele Nationalisten einfach nicht akzeptieren, dass das einst große Deutschland verloren hatte. Die Wut und der Hass, die im deutschen Volk verankert waren, wurden von einem ehemaligen Soldaten namens Adolf Hitler genutzt, der sie in eine der extremsten Ideologien verwandelte, die es je gab - den Nationalsozialismus. Der Nationalsozialismus wurzelt im extremen Nationalismus und wird von der Idee der rassischen Vorherrschaft angetrieben. Er fördert §8aggressiven Expansionismus§!, §8Pan-Germanismus§! und einen §Rtotalitären Staat§!, in dem das Volk unter einem Führer mit absoluter Macht, dem §WFührer§!, vereinigt ist.\n"
 gen_nazism:0 "Nationalsozialismus"
 gen_nazism_desc:0 "Verwurzelt im §8extremen Nationalismus§!, wird der §Yaggressiver Expansionismus§! von Ideen der §8rassischen Vorherrschaft§! angetrieben. Er fördert §Yaggressiven Expansionismus§! und einen §Rtotalitären Staat§!, in dem das Volk unter einem Führer mit absoluter Macht, dem §WFührer§!, vereint ist."
-fascism_ideology:0 "Faschismus"
-fascism_ideology_desc:0 "\nAls die Waffen an der italienischen Front des Ersten Weltkriegs schwiegen, warfen viele Nationalisten den westlichen Alliierten vor, Italien in den Rücken zu fallen, da die Nation viele der Gebiete, für die sie gekämpft hatte, nicht erhalten hatte. Dies führte dazu, dass ein ehemaliger Sozialist namens Benito Mussolini an Bedeutung gewann, der eine neue rechtsextreme Ideologie vertrat, die er §YFaschismus§! nannte. Als Ideologie lehnt der Faschismus die Globalisierung der Welt ab und betrachtet stattdessen Imperialismus und Krieg als Mittel zur §8nationalen Verjüngung§!. Infolge dieser extremen Förderung des §8Autoritarismus und Nationalismus§! befürworten viele Splitter des Faschismus auch die Diskriminierung und Gewalt gegen bestimmte ethnische Gruppen, die als "Andere" angesehen werden."
-falangism:0 "Falangismus"
-falangism_desc:0 "Eine autoritäre Ideologie mit faschistischen und konservativen Zügen. Der §YFalangismus§! legt Wert auf nationale und §Rkatholische Identität§!."
-rexism:0 "Rexismus"
-rexism_desc:0 "Der §YRexismus§! ist eine entschieden §Ykonservative nationalistische§! Bewegung, die eine §Gkorporatistische§! Wirtschaftspolitik befürwortet und sowohl liberale als auch kommunistische Ideale ablehnt. Mit einer zunehmend populistischen und autoritären Rhetorik nähern sich ihre Ideale anderen faschistischen Bewegungen an."
-moderatism:1 "Nationaler Liberalismus"
-moderatism_desc:1 "§LAls die Aufklärung im Westen immer mehr an Popularität gewann, endeten auch die alten Normen des Erbprivilegs, der Staatsreligion und der göttlichen Monarchen. Die neue Ideologie des §YLiberalismus§!, die aus dem Chaos der Amerikanischen und der Französischen Revolution hervorging, breitete sich in ganz Europa aus, als die alten Monarchien eine nach der anderen gestürzt wurden.\n\nIn dem Glauben, dass der Zweck des Staates nicht darin bestand, als verlängerter Arm des Monarchen zu dienen, sondern vielmehr die Freiheiten der Bevölkerung zu schützen§! Der Liberalismus würde die alte konservative und autoritäre Weltordnung in Frage stellen, indem er festlegt, dass jeder Mensch §YNatürliche Rechte§! auf §3Leben§!, §3Freiheit§! und §3Wohlstand§! hat.\n\n§Nationaler Liberalismus§!, eine Erweiterung der liberalen Ideologie, teilt die meisten seiner Werte mit dem Mainstream-Liberalismus, fördert jedoch auch den §8Nationalismus§! und ist militaristischer als sein Gegenstück.§!"
-centrism:1 "Zentrismus"
-centrism_desc:1 "§YZentrismus§! ist eine Regierungsform, die §YLösungen mit gesundem Menschenverstand§! anstrebt, die aktuelle und zukünftige Bedürfnisse angemessen berücksichtigen, das §Höffentliche Vertrauen§! unterstützen und dem §HGemeinwohl§! dienen, wobei Risiken und Kapazitäten im Zusammenhang mit diesen Bedürfnissen berücksichtigt werden."
 social_nationalism:0 "Sozialer Nationalismus"
 social_nationalism_desc:0 "\nAls die republikanischen Revolutionen des 19. Jahrhunderts eine nach der anderen die alten Monarchien stürzten, begannen einige nationale Bewegungen, die Werke von Marx und anderen Sozialisten in ihre Ideologie zu integrieren. Marx' Ablehnung des ethnischen Nationalismus wurde jedoch aus dieser neuen Ideologie ausgeklammert, die später als §YSozialer Nationalismus§! bezeichnet wurde.\n\nAls eine Verschmelzung vieler linker und rechter Ideologien tritt der Soziale Nationalismus für ein §Rsozialistisches Wirtschaftssystem§! und eine §Ostarke Förderung der nationalen Identität ein.§!"
 the_peoples_tutelage:0 "Volkstümliche Vormundschaft"
@@ -142,93 +107,50 @@ AFG_communism_party_long:0 "Wochenblatt Zalmiān"
 AFG_khalq_party:0 "Hezb-e Khalq"
 AFG_khalq_party_long:0 "Hisb-e Khalq"
 AFG_democratic_party:0 "Hezb-e Watan"
-AFG_democratic_party_long:0 "Hezb-e Watan"
-AFG_neutrality_party:0 "Da Bārakzai Kor"
-AFG_neutrality_party_long:0 "Da Bārakzai Kor"
 AFG_fascism_party:0 "Da Islāmī Tajdīd Gwand"
 AFG_fascism_party_long:0 "Da Islāmī Tajdīd Gwand"
 
  #ALB
-ALB_neutrality_party:0 "PLL"
-ALB_neutrality_party_long:0 "Partia Lëvizja e Legalitetit"
-ALB_communism_party:0 "KK"
-ALB_communism_party_long:0 "Komunistët e Kelmendit"
-ALB_democratic_party:0 "KCK"
-ALB_democratic_party_long:0 "Komiteti i Çlirimit Kombëtar"
-ALB_fascism_party:0 "PFSh"
-ALB_fascism_party_long:0 "Partia Fashiste e Shqipërisë"
 
  #ALS
 ALS_neutrality_party:0 "Haus Lothringen"
 ALS_democratic_party:0 "Radicaux-socialistes d'Alsace-Lorraine"
 
  #ARG
-ARG_democratic_party:0 "UCR"
-ARG_democratic_party_long:0 "Unión Cívica Radical (Radikale Vereinigung)"
-ARG_fascism_party:0 "UNF"
-ARG_fascism_party_long:0 "Union Nacional Fascista"
-ARG_communism_party:0 "PC"
-ARG_communism_party_long:0 "Partido Comunista de la Argentina"
-ARG_neutrality_party:0 "Konkordanz"
-ARG_neutrality_party_long:0 "Konkordanz"
 
  #ARM
-ARM_democratic_party:0 "HHD"
 ARM_democratic_party_long:0 "Hay Heghap'okh'akan Dashnakts'ut'yun"
-ARM_fascism_party:0 "HL"
 ARM_fascism_party_long:0 "Haykakan Legion"
-ARM_communism_party:0 "HKK"
 ARM_communism_party_long:0 "Hayastani Kom'unistakan Kusakts'ut'yun"
-ARM_neutrality_party:0 "Haus von Bagratuni"
 ARM_neutrality_party_long:0 "Haus von Bagratuni"
 
  #AST
-AST_neutrality_party:0 "Büro des Generalgouverneurs"
-AST_neutrality_party_long:0 "Büro des Generalgouverneurs"
 AST_labor_party:0 "ALP"
 AST_labor_party_long:0 "Australische Arbeiterpartei"
 AST_country_party:0 "ACP"
 AST_country_party_long:0 "Australische Landpartei"
-AST_democratic_party:0 "UAP"
-AST_democratic_party_long:0 "United Australia Party"
 AST_liberal_party:0 "LPA"
 AST_liberal_party_long:0 "Liberale Partei Australiens"
-AST_fascism_party:0 "Zentrumspartei"
-AST_fascism_party_long:0 "Zentrumspartei"
 AST_australia_first_party:0 "Australien Zuerst"
 AST_australia_first_party_long:0 "Australia-First-Bewegung"
-AST_communism_party:0 "CPA"
-AST_communism_party_long:0 "Kommunistische Partei Australiens"
 
  #AUS ""
-AUS_communism_party:0 "SDAPÖ-L"
-AUS_communism_party_long:0 "Sozialdemokratische Arbeiterpartei Österreichs - Links"
 AUS_democratic_party:3 "SDAPÖ-R"
 AUS_democratic_party_long:3 "Sozialdemokratische Arbeiterpartei Österreichs - Rechts"
-AUS_fascism_party:1 "VF"
 AUS_fascism_party_long:1 "Vaterländische Front"
-AUS_neutrality_party:1 "Habsburg"
 AUS_neutrality_party_long:1 "Haus Habsburg"
 
  #BAD ""
 BAD_neutrality_party:0 "Haus Baden"
 
  #BAY ""
-BAY_neutrality_party:0 "Haus Wittelsbach"
 
  #BEL ""
-BEL_communism_party:0 "KPB-PCB"
-BEL_communism_party_long:0 "Kommunistische Partij van België/Parti Communiste de Belgique"
-BEL_democratic_party:0 "PCS/KVV - PL/LP - POB/BWP"
-BEL_democratic_party_long:0 "Parti Catholique Social/Katholieke Vlaamse Volkspartij - Parti Libéral/Liberale Partij - Parti Ouvrier Belge/Belgische Werkliedenpartij"
 BEL_neutrality_party:0 "Léopoldistes/Leopoldisten"
-BEL_fascism_party:0 "Rex - Verdinaso"
-BEL_fascism_party_long:0 "Parti Rexiste - Verbond der Dietsche Nationaal-Solidaristen"
 BELverdinaso_party:0 "Verdinaso - Rex"
 BELverdinaso_party_long:0 "Verbond der Dietsche Nationaal-Solidaristen - Parti Rexiste"
 
  #BHR ""
-BHR_neutrality_party:0 "Āl Khalīfah"
 
  #BHU ""
 BHU_communism_party:0 "KPB"
@@ -238,12 +160,6 @@ BHU_fascism_party:0 "BNP"
 BHU_fascism_party_long:0 "Bhutanische Nationale Partei"
 
  #BOL ""
-BOL_democratic_party:0 "PL"
-BOL_democratic_party_long:0 "Liberale Partei"
-BOL_fascism_party:0 "FSB"
-BOL_fascism_party_long:0 "Falange Socialista Boliviana"
-BOL_neutrality_party:0 "Junta Militar"
-BOL_neutrality_party_long:0 "Junta Militar de Gobierno"
 BOL_communism_party:0 "POR"
 BOL_communism_party_long:0 "Partido Obrero Revolucionario"
 
@@ -277,11 +193,8 @@ BRN_fascism_party:0 "Haus von Bolkiah"
 BRN_communism:0 "Parti Rakyat Brunei"
 
  #BUL ""
-BUL_neutrality_party:0 "Rezhim na vlastite"
 
  #CAN ""
-CAN_fascism_party:0 "PNSC"
-CAN_fascism_party_long:0 "Parti National Social Chrétien"
 CAN_fascism_nup_party:0 "NUP"
 CAN_fascism_nup_party_long:0 "Nationale Einheitspartei"
 CAN_fascism_cuof_party:0 "CUF"
@@ -304,26 +217,13 @@ CAT_communism_party:0 "POUM"
 CAT_communism_party_long:0 "Partit Obrer d'Unificació Marxista"
 
  #CHL
-CHL_fascism_party:0 "VPS"
-CHL_fascism_party_long:0 "Vanguardia Popular Socialista"
-CHL_democratic_party:0 "PR"
-CHL_democratic_party_long:0 "Radikale Partei"
-CHL_communism_party:0 "PCCh"
-CHL_communism_party_long:0 "Partido Comunista de Chile"
 
  # CHI
-CHI_democratic_party:0 "KMT (C)"
 CHI_democratic_party_long:0 "Kuomintang (Zivilisten)"
 
  #COG
-COG_neutrality_party:0 "Gouvernorat Général"
-COG_neutrality_party_long:0 "Gouvernorat Général du Congo"
 
  #COL
-COL_communism_party:0 "PCC"
-COL_communism_party_long:0 "Partido Comunista Colombiano"
-COL_democratic_party:0 "PLC"
-COL_democratic_party_long:0 "Partido Liberal Colombiano"
 
  #COS
 COS_democratic_party:0 "PRN"
@@ -338,12 +238,6 @@ COS_partido_nacional_party:0 "PN"
 COS_partido_nacional_party_long:0 "Nationale Partei"
 
  #CZE
-CZE_communism_party:0 "KSČ"
-CZE_communism_party_long:0 "Komunistická strana Československa"
-CZE_democratic_party:0 "RSZML - ČSDSD - ČSNS"
-CZE_democratic_party_long:0 "Republikanische Partei des Landvolkes und der Kleinbauern - Tschechoslowakische Sozialdemokratische Arbeiterpartei - Tschechoslowakische Nationalsozialistische Partei"
-CZE_fascism_party:0 "NOF"
-CZE_fascism_party_long:0 "Národní obec fašistická"
 CZE_national_unity_party:0 "SNJ"
 CZE_national_unity_party_long:0 "Strana národní jednoty"
 
@@ -353,8 +247,6 @@ DAR_neutrality_party:0 "Sulalat Kayra"
  #DOM
 DOM_neutrality_party:0 "PD"
 DOM_neutrality_party_long:0 "Partido Dominicano"
-DOM_fascism_party:0 "D Military Junta"
-DOM_fascism_party_long:0 "Partido Dominicano Militärjunta"
 DOM_democratic_party:0 "PRD"
 DOM_democratic_party_long:0 "Partido Revolucionario Dominicano"
 DOM_communism_party:0 "SPD"
@@ -383,8 +275,6 @@ DNZ_communism_party_long:1 "Kommunistische Partei Deutschlands"
  #ELS
 ELS_neutrality_party:0 "PNPP"
 ELS_neutrality_party_long:0 "Nationale Pro-Patria-Partei"
-ELS_fascism_party:0 "PNPP-F"
-ELS_fascism_party_long:0 "Nationale Pro-Patria-Partei - Faschisten"
 ELS_democratic_party:0 "PL"
 ELS_democratic_party_long:0 "Arbeiterpartei"
 ELS_communism_party:0 "PCS"
@@ -395,10 +285,6 @@ ECU_neutrality_party:0 "PLRE"
 ECU_neutrality_party_long:0 "Radikale Liberale Partei Ecuadors"
 ECU_fascism_party:0 "PCE-F"
 ECU_fascism_party_long:0 "Konservative Partei Ecuadors - Faschisten"
-ECU_democratic_party:0 "PLRE-S"
-ECU_democratic_party_long:0 "Radikale Liberale Partei Ecuadors - Sozialisten"
-ECU_communism_party:0 "PCE"
-ECU_communism_party_long:0 "Kommunistische Partei Ecuadors"
 
  #FAR ""
 FAR_democratic_party:0 "Sambandsflokkurin"
@@ -409,8 +295,6 @@ FIN_neutrality_party:0 "ML"
 FIN_neutrality_party_long:0 "Maalaisliitto"
 FIN_kokoomusparty:0 "KOK"
 FIN_kokoomusparty_long:0 "Kansallinen Kokoomus"
-FIN_democratic_party:0 "KOK"
-FIN_democratic_party_long:0 "Kansallinen Kokoomus"
 FIN_edistyspuolue:0 "KE"
 FIN_edistyspuolue_long:0 "Kansallinen Edistyspuolue"
 FIN_independent:0 "Itsenäinen"
@@ -419,14 +303,7 @@ FIN_monarchy:0 "Monarkia"
 FIN_monarchy_long:0 "Monarkia"
 
  #FRA ""
-FRA_communism_party:0 "PCF"
-FRA_communism_party_long:0 "Parti Communiste Français"
-FRA_democratic_party:0 "PR"
 FRA_democratic_party_long:0 "Radikale Partei"
-FRA_fascism_party:0 "Ligen"
-FRA_fascism_party_long:0 "Ligues d'extrême droite"
-FRA_neutrality_party:0 "AF"
-FRA_neutrality_party_long:0 "Action Française"
 FRA_orleanist_party_long:0 "Parti orléaniste"
 FRA_orleanist_party:0 "Orléanistische Partei"
 FRA_legitimist_party_long:0 "Légitimistische Partei"
@@ -437,9 +314,6 @@ FRA_bonepartist_party:0 "Bonapartistische Partei"
  #FRI ""
 FRI_communism_party:0 "CPV"
 FRI_communism_party_long:0 "Kommunistische Partei Vietnams"
-FRI_neutrality_party:0 "Gouvernorat Général"
-FRI_fascism_party:0 "Cuong De's Fraktion"
-FRI_democratic_party:0 "VNQDD"
 FRI_democratic_party_long:0 "Việt Nam Quốc Dân Đảng"
 
  #FSM ""
@@ -475,7 +349,6 @@ GNB_democratic_party:0 "PAIGC (TD)"
 GNB_democratic_party_long:0 "Partido Africano para a Independência da Guiné e Cabo Verde (Transição Democrática) (Afrikanische Partei für die Unabhängigkeit von Guinea und Cabo Verde)"
 
  #GRE ""
-GRE_democratic_party:0 "Demertzi"
 GRE_democratic_party_long:0 "Kyvernisi Demertzi"
 GRE_democratic_metaxas:0 "Metaxá"
  #GRE_neutrality_party:0 "klýxmpournk"
@@ -483,12 +356,8 @@ GRE_democratic_metaxas:0 "Metaxá"
 GRE_democratic_metaxas_long:0 "Kyvernisi Metaxá"
 GRE_neutrality_party_metaxa:0 "Metaxá"
 GRE_neutrality_party_metaxa_long:0 "Kathestós Metaxá"
-GRE_communism_party:0 "KKE"
-GRE_communism_party_long:0 "Kommounistikó Kómma Elládas"
 GRE_laikon_komma:0 "LK"
 GRE_laikon_komma_long:0 "Laïkòn Kómma"
-GRE_fascism_party:0 "EESK"
-GRE_fascism_party_long:0 "Elliniko Ethniko Sosialistiko Komma"
 GRE_neutrality_party_koryzi:0 "Koryzi"
 GRE_neutrality_party_koryzi_long:0 "Kathestós Koryzi"
 GRE_democratic_party_liberal:0 "KF"
@@ -499,8 +368,6 @@ GRE_democratic_party_venizelos:0 "Fileleftheron"
 GRE_democratic_party_venizelos_long:0 "Koma Filelefthéron"
 
  #GRL ""
-GRL_democratic_party:0 "Grønlands Styrelse"
-GRL_democratic_party_long:0 "Grønlands Styrelse (Grønlands Styrelse)"
 GRL_puppet_n_party_name:0 "Grønlands Koloniforvaltning"
 GRL_puppet_n_party_l_name:0 "Sydgrønlands kolonialforvaltning"
 
@@ -512,8 +379,6 @@ GUA_neutrality_party_long:0 "Partido Liberal Progresista"
 
 GUA_fascism_party:0 "PLP-F"
 GUA_fascism_party_long:0 "Partido Liberal Progresista - Faschisten"
-GUA_democratic_party:0 "PL"
-GUA_democratic_party_long:0 "Liberale Partei"
 GUA_communism_party:0 "PCG"
 GUA_communism_party_long:0 "Kommunistische Partei Guatemalas"
 
@@ -526,7 +391,6 @@ GUM_communism_party:0 "MLP"
 GUM_communism_party_long:0 "Marianische Lenninistische Partei"
 
  #GXC ""
-GXC_neutrality_party:0 "Neue Guangxi-Clique"
 
  #HAI ""
 HAI_neutrality_party:0 "Dinasti Duvalier"
@@ -563,17 +427,13 @@ HES_communism_party_long:0 "Kommunistische Partei Deutschlands"
  #HON ""
 HON_neutrality_party:0 "PNH"
 HON_neutrality_party_long:0 "Nationale Partei von Honduras"
-HON_democratic_party:0 "PLH"
 HON_democratic_party_long:0 "Liberale Partei von Honduras"
-HON_communism_party:0 "PCH"
-HON_communism_party_long:0 "Kommunistische Partei von Honduras"
 HON_fascism_party:0 "UFCo"
 HON_fascism_party_long:0 "United Fruit Company"
 
  #ICE ""
 ICE_democratic_party:0 "Alþýðuflokkurinn"
 ICE_communism_party:0 "KFI"
-ICE_communism_party_long:0 "Kommúnistaflokkur Íslands"
 ICE_fascism_party:0 "Flokkur Þjóðernissinna"
 ICE_neutrality_party:0 "Sjálfstæðisflokkurinn"
 
@@ -629,133 +489,1239 @@ LUX_neutrality_party:0 "D'Lëtzebuerger Haus"
 LUX_absolutists:0 "Absolutisten"
 
  #IRQ ""
-IRQ_neutrality_party:0 "Al-Hāshimīyūn"
 IRQ_neutrality_party_long:0 "Al-Hāshimīyūn"
 
  #IVO ""
-IVO_democratic_party:0 "PDCI-RDA"
-IVO_democratic_party_long:0 "Parti Démocratique de la Côte d'Ivoire - Rassemblement Démocratique Africain"
 
  #MAN ""
-MAN_fascism_party:0 "Concordia-Vereinigung"
-MAN_fascism_party_long:0 "Concordia-Vereinigung von Mandschukuo"
-MAN_communism_party:0 "KPCH"
-MAN_communism_party_long:0 "Kommunistische Partei von China"
-MAN_democratic_party:0 "Verwaltung. Ausschuss"
-MAN_democratic_party_long:0 "Nordost-Verwaltungsausschuss"
-MAN_neutrality_party:0 "Haus von Aisin-Gioro"
-MAN_neutrality_party_long:0 "Haus von Aisin-Gioro"
 
  #MAU ""
-MAU_democratic_party:0 "Ralliement Mauricien"
 
  #MEK ""
-MEK_neutrality_party:0 "Haus Mecklenburg-Schwerin"
 
  #MEN ""
  
-MEN_communism_party:0 "DMAKN"
-MEN_communism_party_long:0 "Dotood Mongolyn Ardyn Khuvsgalyn Nam"
-MEN_fascism_party:0 "ÖMAK"
-MEN_fascism_party_long:0 "Övör Mongolyn Autonomit Khödölgön"
-MEN_democratic_party:0 "ÖMAN-K"
-MEN_democratic_party_long:0 "Övör Mongolyn Ardchilsan Nam - Kuomintang"
-MEN_neutrality_party:0 "Junge Mongolen"
-MEN_neutrality_party_long:0 "Junge Mongolen"
 
  #MNC ""
-MNC_neutrality_party:0 "Maison de Grimaldi"
-MNC_democratic_party:0 "Unabhängige Aktion"
-MNC_fascism_party:0 "Parti National Monégasque"
 
  #MON ""
  #fictious ""
-MON_fascism_party:0 "PMNP"
-MON_fascism_party_long:0 "Panmongolische Nationalistische Partei"
 
 
  #MOR ""
-MOR_neutrality_party:0 "Sulālat al-'Alawiyyīn al-Fīlālīyn"
-MOR_democratic_party:0 "HI"
-MOR_democratic_party_long:0 "Ḥizb Al-Istiqlāl"
-MOR_communism_party:0 "HSM"
-MOR_communism_party_long:0 "Al-Hizb al-Schuyueiu al-Maghribiu"
-MOR_fascism_party:0 "HFM"
-MOR_fascism_party_long:0 "Al-Hizb al-Fashiu al-Maghribiu"
 
  #MPL ""
-MPL_neutrality_party:0 "Britische Verwaltung"
-MPL_neutrality_party_long:0 "Völkerbund Mandat für Palästina"
-MPL_democratic_party:0 "Demokratische Gruppen"
-MPL_democratic_party_long:0 "Demokratische Gruppen"
-MPL_communism_party:0 "Kommunistische Gruppen"
-MPL_communism_party_long:0 "Kommunistische Gruppen"
-MPL_fascism_party:0 "Nationalistische Gruppen"
-MPL_fascism_party_long:0 "Nationalistische Gruppen"
 
  #NAV ""
-NAV_fascism_party:0 "AN"
-NAV_fascism_party_long:0 "Alderdi Nazional"
-NAV_neutrality_party:0 "EAJ-PNV"
-NAV_neutrality_party_long:0 "Euzko Alderdi Jeltzalea"
-NAV_democratic_party:0 "EAE-ANV"
-NAV_democratic_party_long:0 "Eusko Abertzale Ekintza"
-NAV_communism_party:0 "EPK-PCE"
-NAV_communism_party_long:0 "Euskadiko Partidu Komunista"
 
  #NEP ""
-NEP_fascism_party:0 "NRGP"
-NEP_fascism_party_long:0 "Nepal Rashtrabadi Gorkha Parishad"
 
  #NFC ""
-FengClique_party:0 "Neue Fengtian-Clique"
 
  #NGA ""
-NGA_neutrality_party:0 "Nationale Demokratische Partei"
-NGA_democratic_party:0 "Northern People's Congress"
 
-NIC_neutrality_party:0 "PLN-GN"
-NIC_neutrality_party_long:0 "Nationalistische Liberale Partei - Nationalgarde"
-NIC_democratic_party:0 "PL"
-NIC_democratic_party_long:0 "Liberale Partei"
-NIC_communism_party:0 "PSN"
-NIC_communism_party_long:0 "Sozialistische Partei Nicaraguas"
-NIC_fascism_party:0 "PLN-F"
-NIC_fascism_party_long:0 "Liberale Nationalistische Partei - Faschisten"
 
  #NIR
-NIR_neutrality_party:0 "UUP"
-NIR_neutrality_party_long:0 "Ulster Unionist Party"
-NIR_democratic_party:0 "PN"
-NIR_democratic_party_long:0 "An Páirtí Náisiúnach"
-NIR_communism_party:0 "PCÉ"
-NIR_communism_party_long:0 "Páirtí Cumannach na hÉireann"
-NIR_fascism_party:0 "ÓÉ"
-NIR_fascism_party_long:0 "Óglaigh na hÉireann"
 
  #NRU ""
-NRU_democratic_party:0 "Rat der Häuptlinge"
-NRU_neutrality_party:0 "Die nauruische Monarchie"
 
  #OMA ""
 
-OMA_neutrality_party:0 "Āl Bū-Sa'īd"
-OMA_democratic_party:0 "Majlis al-Shūra"
-OMA_communism_party:0 "JSTU"
-OMA_communism_party_long:0 "Al-Jabha aš-Ša'biyya li-Tahrīr 'Umān"
-OMA_fascism_party:0 "Hizb al-Tarmim"
 
  #PAR ""
-PAR_communism_party:0 "PCP"
-PAR_communism_party_long:0 "Partido Comunista Paraguayo"
-PAR_democratic_party:0 "PL"
-PAR_democratic_party_long:0 "Liberale Partei"
 
  #PER ""
-PER_democratic_party:1 "JMI"
-PER_democratic_party_long:0 "Jebhe-ye Melli-ye Irān"
-PER_fascism_party:0 "SUMKA"
-PER_fascism_party_long:0 "Ḥezb-e Sosīālīst-e Mellī-e Kārgarān-e Īrān"
+
+ #POL ""
+
+ #PGR ""
+
+ #PRU ""
+
+ #PRE ""
+
+ #RAJ ""
+
+ #SAF ""
+
+ #SAO ""
+
+ #SAN ""
+
+ #SAU ""
+
+ #SAR ""
+
+ #SAX ""
+
+ #SCA ""
+
+ #SCO ""
+
+ #SHL ""
+
+ #SKM ""
+
+ #SOL ""
+
+
+
+ #SPR ""
+
+ #SWI ""
+
+ #POR ""
+
+ #QAT ""
+
+ #TAN ""
+
+ #TAH ""
+
+ #TON ""
+
+ #TNG ""
+
+ #TMS ""
+
+ #TXS ""
+
+ #TUR ""
+
+ #TZN ""
+
+ #UAE ""
+
+ #UGA ""
+
+ #URG ""
+
+ #USA ""
+
+ #SUD ""
+
+ #SSU ""
+
+
+ #VEN ""
+
+ #VLA ""
+
+
+
+
+
+
+ #WAF ""
+
+ #WLL ""
+
+ #WLS
+
+ #WUR ""
+
+ #YHM ""
+
+ #YUT ""
+
+
+ #ZAN ""
+
+ #SAM ""
+ 
+
+
+ #WLS
+
+ #WUR ""
+
+ #YHM ""
+
+ #YUT ""
+
+
+ #ZAN ""
+
+ #SAM ""
+ 
+
+
+ #WUR ""
+
+ #YHM ""
+
+ #YUT ""
+
+
+ #ZAN ""
+
+ #SAM ""
+ 
+
+
+ #IVO ""
+
+ #MAN ""
+
+ #MAU ""
+
+ #MEK ""
+
+ #MEN ""
+ 
+
+ #MNC ""
+
+ #MON ""
+ #fictious ""
+
+
+ #MOR ""
+
+ #MPL ""
+
+ #NAV ""
+
+ #NEP ""
+
+ #NFC ""
+
+ #NGA ""
+
+
+ #NIR
+
+ #NRU ""
+
+ #OMA ""
+
+
+ #PAR ""
+
+ #PER ""
+
+ #POL ""
+
+ #PGR ""
+
+ #PRU ""
+
+ #PRE ""
+
+ #RAJ ""
+
+ #SAF ""
+
+ #SAO ""
+
+ #SAN ""
+
+ #SAU ""
+
+ #SAR ""
+
+ #SAX ""
+
+ #SCA ""
+
+ #SCO ""
+
+ #SHL ""
+
+ #SKM ""
+
+ #SOL ""
+
+
+
+ #SPR ""
+
+ #SWI ""
+
+ #POR ""
+
+ #QAT ""
+
+ #TAN ""
+
+ #TAH ""
+
+ #TON ""
+
+ #TNG ""
+
+ #TMS ""
+
+ #TXS ""
+
+ #TUR ""
+
+ #TZN ""
+
+ #UAE ""
+
+ #UGA ""
+
+ #URG ""
+
+ #USA ""
+
+ #SUD ""
+
+ #SSU ""
+
+
+ #VEN ""
+
+ #VLA ""
+
+
+
+
+
+
+ #WAF ""
+
+ #WLL ""
+
+ #WLS
+
+ #WUR ""
+
+ #YHM ""
+
+ #YUT ""
+
+
+ #ZAN ""
+
+ #SAM ""
+ 
+
+
+ #WLS
+
+ #WUR ""
+
+ #YHM ""
+
+ #YUT ""
+
+
+ #ZAN ""
+
+ #SAM ""
+ 
+
+
+ #WUR ""
+
+ #YHM ""
+
+ #YUT ""
+
+
+ #ZAN ""
+
+ #SAM ""
+ 
+
+e Īrān"
+
+ #POL ""
+
+ #PGR ""
+
+ #PRU ""
+
+ #PRE ""
+
+ #RAJ ""
+
+ #SAF ""
+
+ #SAO ""
+
+ #SAN ""
+
+ #SAU ""
+
+ #SAR ""
+
+ #SAX ""
+
+ #SCA ""
+
+ #SCO ""
+
+ #SHL ""
+
+ #SKM ""
+
+ #SOL ""
+
+
+
+ #SPR ""
+
+ #SWI ""
+
+ #POR ""
+
+ #QAT ""
+
+ #TAN ""
+
+ #TAH ""
+
+ #TON ""
+
+ #TNG ""
+
+ #TMS ""
+
+ #TXS ""
+
+ #TUR ""
+
+ #TZN ""
+
+ #UAE ""
+
+ #UGA ""
+
+ #URG ""
+
+ #USA ""
+
+ #SUD ""
+
+ #SSU ""
+
+
+ #VEN ""
+
+ #VLA ""
+
+
+
+
+
+
+ #WAF ""
+
+ #WLL ""
+
+ #WLS
+
+ #WUR ""
+
+ #YHM ""
+
+ #YUT ""
+
+
+ #ZAN ""
+
+ #SAM ""
+ 
+
+
+ #WLS
+
+ #WUR ""
+
+ #YHM ""
+
+ #YUT ""
+
+
+ #ZAN ""
+
+ #SAM ""
+ 
+
+
+ #WUR ""
+
+ #YHM ""
+
+ #YUT ""
+
+
+ #ZAN ""
+
+ #SAM ""
+ 
+
+
+ #IVO ""
+
+ #MAN ""
+
+ #MAU ""
+
+ #MEK ""
+
+ #MEN ""
+ 
+
+ #MNC ""
+
+ #MON ""
+ #fictious ""
+
+
+ #MOR ""
+
+ #MPL ""
+
+ #NAV ""
+
+ #NEP ""
+
+ #NFC ""
+
+ #NGA ""
+
+
+ #NIR
+
+ #NRU ""
+
+ #OMA ""
+
+
+ #PAR ""
+
+ #PER ""
+
+ #POL ""
+
+ #PGR ""
+
+ #PRU ""
+
+ #PRE ""
+
+ #RAJ ""
+
+ #SAF ""
+
+ #SAO ""
+
+ #SAN ""
+
+ #SAU ""
+
+ #SAR ""
+
+ #SAX ""
+
+ #SCA ""
+
+ #SCO ""
+
+ #SHL ""
+
+ #SKM ""
+
+ #SOL ""
+
+
+
+ #SPR ""
+
+ #SWI ""
+
+ #POR ""
+
+ #QAT ""
+
+ #TAN ""
+
+ #TAH ""
+
+ #TON ""
+
+ #TNG ""
+
+ #TMS ""
+
+ #TXS ""
+
+ #TUR ""
+
+ #TZN ""
+
+ #UAE ""
+
+ #UGA ""
+
+ #URG ""
+
+ #USA ""
+
+ #SUD ""
+
+ #SSU ""
+
+
+ #VEN ""
+
+ #VLA ""
+
+
+
+
+
+
+ #WAF ""
+
+ #WLL ""
+
+ #WLS
+
+ #WUR ""
+
+ #YHM ""
+
+ #YUT ""
+
+
+ #ZAN ""
+
+ #SAM ""
+ 
+
+
+ #WLS
+
+ #WUR ""
+
+ #YHM ""
+
+ #YUT ""
+
+
+ #ZAN ""
+
+ #SAM ""
+ 
+
+
+ #WUR ""
+
+ #YHM ""
+
+ #YUT ""
+
+
+ #ZAN ""
+
+ #SAM ""
+ 
+
+
+ #SCO ""
+
+ #SHL ""
+
+ #SKM ""
+
+ #SOL ""
+
+
+
+ #SPR ""
+
+ #SWI ""
+
+ #POR ""
+
+ #QAT ""
+
+ #TAN ""
+
+ #TAH ""
+
+ #TON ""
+
+ #TNG ""
+
+ #TMS ""
+
+ #TXS ""
+
+ #TUR ""
+
+ #TZN ""
+
+ #UAE ""
+
+ #UGA ""
+
+ #URG ""
+
+ #USA ""
+
+ #SUD ""
+
+ #SSU ""
+
+
+ #VEN ""
+
+ #VLA ""
+
+
+
+
+
+
+ #WAF ""
+
+ #WLL ""
+
+ #WLS
+
+ #WUR ""
+
+ #YHM ""
+
+ #YUT ""
+
+
+ #ZAN ""
+
+ #SAM ""
+ 
+
+
+ #WLS
+
+ #WUR ""
+
+ #YHM ""
+
+ #YUT ""
+
+
+ #ZAN ""
+
+ #SAM ""
+ 
+
+
+ #WUR ""
+
+ #YHM ""
+
+ #YUT ""
+
+
+ #ZAN ""
+
+ #SAM ""
+ 
+
+
+ #IVO ""
+
+ #MAN ""
+
+ #MAU ""
+
+ #MEK ""
+
+ #MEN ""
+ 
+
+ #MNC ""
+
+ #MON ""
+ #fictious ""
+
+
+ #MOR ""
+
+ #MPL ""
+
+ #NAV ""
+
+ #NEP ""
+
+ #NFC ""
+
+ #NGA ""
+
+
+ #NIR
+
+ #NRU ""
+
+ #OMA ""
+
+
+ #PAR ""
+
+ #PER ""
+
+ #POL ""
+
+ #PGR ""
+
+ #PRU ""
+
+ #PRE ""
+
+ #RAJ ""
+
+ #SAF ""
+
+ #SAO ""
+
+ #SAN ""
+
+ #SAU ""
+
+ #SAR ""
+
+ #SAX ""
+
+ #SCA ""
+
+ #SCO ""
+
+ #SHL ""
+
+ #SKM ""
+
+ #SOL ""
+
+
+
+ #SPR ""
+
+ #SWI ""
+
+ #POR ""
+
+ #QAT ""
+
+ #TAN ""
+
+ #TAH ""
+
+ #TON ""
+
+ #TNG ""
+
+ #TMS ""
+
+ #TXS ""
+
+ #TUR ""
+
+ #TZN ""
+
+ #UAE ""
+
+ #UGA ""
+
+ #URG ""
+
+ #USA ""
+
+ #SUD ""
+
+ #SSU ""
+
+
+ #VEN ""
+
+ #VLA ""
+
+
+
+
+
+
+ #WAF ""
+
+ #WLL ""
+
+ #WLS
+
+ #WUR ""
+
+ #YHM ""
+
+ #YUT ""
+
+
+ #ZAN ""
+
+ #SAM ""
+ 
+
+
+ #WLS
+
+ #WUR ""
+
+ #YHM ""
+
+ #YUT ""
+
+
+ #ZAN ""
+
+ #SAM ""
+ 
+
+
+ #WUR ""
+
+ #YHM ""
+
+ #YUT ""
+
+
+ #ZAN ""
+
+ #SAM ""
+ 
+
+""
+
+ #TZN ""
+
+ #UAE ""
+
+ #UGA ""
+
+ #URG ""
+
+ #USA ""
+
+ #SUD ""
+
+ #SSU ""
+
+
+ #VEN ""
+
+ #VLA ""
+
+
+
+
+
+
+ #WAF ""
+
+ #WLL ""
+
+ #WLS
+
+ #WUR ""
+
+ #YHM ""
+
+ #YUT ""
+
+
+ #ZAN ""
+
+ #SAM ""
+ 
+
+
+ #WLS
+
+ #WUR ""
+
+ #YHM ""
+
+ #YUT ""
+
+
+ #ZAN ""
+
+ #SAM ""
+ 
+
+
+ #WUR ""
+
+ #YHM ""
+
+ #YUT ""
+
+
+ #ZAN ""
+
+ #SAM ""
+ 
+
+
+ #IVO ""
+
+ #MAN ""
+
+ #MAU ""
+
+ #MEK ""
+
+ #MEN ""
+ 
+
+ #MNC ""
+
+ #MON ""
+ #fictious ""
+
+
+ #MOR ""
+
+ #MPL ""
+
+ #NAV ""
+
+ #NEP ""
+
+ #NFC ""
+
+ #NGA ""
+
+
+ #NIR
+
+ #NRU ""
+
+ #OMA ""
+
+
+ #PAR ""
+
+ #PER ""
+
+ #POL ""
+
+ #PGR ""
+
+ #PRU ""
+
+ #PRE ""
+
+ #RAJ ""
+
+ #SAF ""
+
+ #SAO ""
+
+ #SAN ""
+
+ #SAU ""
+
+ #SAR ""
+
+ #SAX ""
+
+ #SCA ""
+
+ #SCO ""
+
+ #SHL ""
+
+ #SKM ""
+
+ #SOL ""
+
+
+
+ #SPR ""
+
+ #SWI ""
+
+ #POR ""
+
+ #QAT ""
+
+ #TAN ""
+
+ #TAH ""
+
+ #TON ""
+
+ #TNG ""
+
+ #TMS ""
+
+ #TXS ""
+
+ #TUR ""
+
+ #TZN ""
+
+ #UAE ""
+
+ #UGA ""
+
+ #URG ""
+
+ #USA ""
+
+ #SUD ""
+
+ #SSU ""
+
+
+ #VEN ""
+
+ #VLA ""
+
+
+
+
+
+
+ #WAF ""
+
+ #WLL ""
+
+ #WLS
+
+ #WUR ""
+
+ #YHM ""
+
+ #YUT ""
+
+
+ #ZAN ""
+
+ #SAM ""
+ 
+
+
+ #WLS
+
+ #WUR ""
+
+ #YHM ""
+
+ #YUT ""
+
+
+ #ZAN ""
+
+ #SAM ""
+ 
+
+
+ #WUR ""
+
+ #YHM ""
+
+ #YUT ""
+
+
+ #ZAN ""
+
+ #SAM ""
+ 
+
+m_party:0 "Katmmunist"
+
+ #WLL ""
+
+ #WLS
+
+ #WUR ""
+
+ #YHM ""
+
+ #YUT ""
+
+
+ #ZAN ""
+
+ #SAM ""
+ 
+
+
+ #WLS
+
+ #WUR ""
+
+ #YHM ""
+
+ #YUT ""
+
+
+ #ZAN ""
+
+ #SAM ""
+ 
+
+
+ #WUR ""
+
+ #YHM ""
+
+ #YUT ""
+
+
+ #ZAN ""
+
+ #SAM ""
+ 
+
+Al-Hāshimīyūn"
+
+ #IVO ""
+
+ #MAN ""
+
+ #MAU ""
+
+ #MEK ""
+
+ #MEN ""
+ 
+
+ #MNC ""
+
+ #MON ""
+ #fictious ""
+
+
+ #MOR ""
+
+ #MPL ""
+
+ #NAV ""
+
+ #NEP ""
+
+ #NFC ""
+
+ #NGA ""
+
+NIC_democratic_party:0 "PL"
+
+ #NIR
+
+ #NRU ""
+
+ #OMA ""
+
+
+ #PAR ""
+
+ #PER ""
 PER_communism_party:0 "HTI"
 PER_communism_party_long:0 "Ḥezb-e Tūde-ye Īrān"
 PER_neutrality_party:0 "Pahlavi"
@@ -799,8 +1765,6 @@ POL_GL_party_long:0 "Gwardia Ludowa"
 PGR_neutrality_party:0 "Xin Beiyang"
 
  #PRU ""
-PRU_communism_party:0 "PCP"
-PRU_communism_party_long:0 "Partido Comunista Peruano"
 
  #PRE ""
 PRE_neutrality_party:0 "Haus Hohenzollern"
@@ -844,8 +1808,6 @@ SAN_neutrality_party_long:0 "Großer und Allgemeiner Rat (Consiglio Grande e Gen
 SAN_communism_party_long:0 "Partito Comunista Sammarinese"
 
  #SAU ""
-SAU_communism_party:0 "OSC"
-SAU_communism_party_long:0 "Organisation der saudischen Kommunisten"
 
  #SAR ""
 SAR_democratic_party:0 "CVPS"
@@ -868,40 +1830,18 @@ SCA_neutrality_party:0 "NR"
 SCA_neutrality_party_long:0 "Nordisk Råd"
 
  #SCO ""
-SCO_fascism_party:0 "SDFP"
-SCO_fascism_party_long:0 "Schottische Demokratische Faschistische Partei"
-SCO_neutrality_party:0 "UP - NLP - NLO - NG"
-SCO_neutrality_party_long:0 "Unionistische Partei - Nationalliberale Partei - Nationale Arbeitsorganisation - Nationale Regierung"
-SCO_democratic_party:0 "SNP - SLP - LP"
-SCO_democratic_party_long:0 "Schottische Nationalpartei - Schottische Liberale Partei - Labour Party"
-SCO_communism_party:0 "CPS - ILP"
-SCO_communism_party_long:0 "Communist Party of Scotland - Unabhängige Arbeiterpartei"
 
  #SHL ""
-SHL_neutrality_party:0 "Haus Oldenburg"
 
  #SKM ""
-SKM_neutrality_party:0 "Namgyal-Dynastie"
 
  #SOL ""
-SOL_fascism_party:0 "SCP"
-SOL_fascism_party_long:0 "Salomonische Christliche Partei"
-SOL_neutrality_party:0 "SNP"
-SOL_neutrality_party_long:0 "Salomonische Neutralitätspartei"
-SOL_democratic_party:0 "SILP"
-SOL_democratic_party_long:0 "Liberale Partei der Salomonen"
-SOL_communism_party:0 "PAP"
-SOL_communism_party_long:0 "People's Alliance Partei"
 
-SOM_democratic_party:0 "SNL"
-SOM_democratic_party_long:0 "Somalische Nationale Liga"
 
 
  #SPR ""
 SPR_fascism_party:1 "CEDA"
 SPR_fascism_party_long:0 "Confederación Española de Derechas Autónomas"
-SPR_democratic_party:1 "PSOE"
-SPR_democratic_party_long:1 "Partido Socialista Obrero Español"
 SPR_neutrality_party:1 "CT"
 SPR_neutrality_party_long:1 "Comunión Tradicionalista"
 SPR_fascism_falange_party:0 "FE de las JONS"
@@ -926,61 +1866,22 @@ SWI_communism_party:0 "KPS"
 SWI_communism_party_long:0 "Kommunistische Partei der Schweiz"
 
  #POR ""
-POR_neutrality_party:0 "UNO"
-POR_neutrality_party_long:0 "União Nacional"
-POR_monarchy_party:0 "CM"
-POR_monarchy_party_long:0 "Causa Monárquica"
-POR_communism2_party:0 "FP"
-POR_communism2_party_long:0 "Frente Popular"
 POR_democratic_party:0 "ARS"
 POR_democratic_party_long:0 "Aliança Republicana e Socialista"
 
  #QAT ""
-QAT_neutrality_party:0 "Al Thani"
 
  #TAN ""
-TAN_neutrality_party:0 "Lama-Fraktion"
-TAN_neutrality_party_long:0 "Lama-Fraktion"
 
  #TAH ""
-TAH_fascism_party:0 "Pupu Hier Aia"
-TAH_fascism_party_long:0 "Pupu hier Aia"
-TAH_neutrality_party:0 "Haus von Pōmare"
-TAH_neutrality_party_long:0 "Haus Pōmare"
-TAH_democratic_party:0 "UFD"
-TAH_democratic_party_long:0 "Union für Demokratie"
-TAH_communism_party:0 "PSA"
-TAH_communism_party_long:0 "Polynesische Sozialversammlung"
 
  #TON ""
-TON_fascism_party:0 "RPT-R"
-TON_fascism_party_long:0 "Reaktionäre Partei von Tonga - Rechts"
-TON_neutrality_party:0 "Api 'o Tupou"
-TON_neutrality_party_long:0 "Api 'o Tupou"
-TON_democratic_party:0 "RPT-C"
-TON_democratic_party_long:0 "Reaktionäre Partei von Tonga - Zentrum"
-TON_communism_party:0 "WUT"
-TON_communism_party_long:0 "Arbeitergewerkschaft von Tonga"
 
  #TNG ""
-TNG_fascism_party:0 "Militärregierung"
-TNG_fascism_party_long:0 "Provisorische Militärregierung von Tunganistan"
-TNG_neutrality_party:0 "KMT"
-TNG_neutrality_party_long:0 "Kuomintang"
-TNG_democratic_party:0 "STPNLC"
-TNG_democratic_party_long:0 "Komitee zur Befreiung des Türkischen Volkes von Sinkiang"
-TNG_communism_party:0 "VKP (B)"
-TNG_communism_party_long:0 "Wsesojusnaja kommunisticheskaja partija (Bolschewikow)"
 
  #TMS ""
-TMS_communism_party:0 "KPT"
-TMS_communism_party_long:0 "Kommunisticheskaya partiya Turkmenistana"
 
  #TXS ""
-TXS_democratic_party:0 "Provisorische Regierung Texas"
-TXS_neutrality_party_long:0 "Texanische Nationale Union"
-TXS_communism_party:0 "CPT"
-TXS_communism_party_long:0 "Kommunistische Partei von Texas"
 
  #TUR ""
 TUR_fascism_party:0 "MP"
@@ -1006,10 +1907,6 @@ UGA_neutrality_party:0 "Abalasangeye-Dynastie"
  #URG ""
 URG_neutrality_party:0 "PC-M"
 URG_neutrality_party_long:0 "Colorado-Partei - Marzistas"
-URG_democratic_party:0 "PC-R"
-URG_democratic_party_long:0 "Colorado Party - Republikaner"
-URG_communism_party:0 "PCU"
-URG_communism_party_long:0 "Kommunistische Partei Uruguays"
 
  #USA ""
 USA_neutrality_party:0 "Provisorische Regierung"
@@ -1030,14 +1927,6 @@ SUD_communism_party_long:0 "Al-Hizb al-Shuyui al-Sudani (Al-Hizb al-Shuyui al-Su
 SWA_neutrality_party:0 "Dlamini"
 
  #VEN ""
-VEN_fascism_party:0 "GRVPN"
-VEN_fascism_party_long:0 "Grupo Regional de Venezuela del Partido Nazi"
-VEN_neutrality_party:0 "Ministerrat (Consejo de Ministros)"
-VEN_neutrality_party_long:0 "Ministrantenrat (Consejo de Ministros)"
-VEN_democratic_party:0 "Demokratische Vereinigung (Acción Democrática)"
-VEN_democratic_party_long:0 "Demokratische Vereinigung (Acción Democrática)"
-VEN_communism_party:0 "PCV"
-VEN_communism_party_long:0 "Partido Comunista de Venezuela"
 
  #VLA ""
 VLA_neutrality_party:0 "Niet Uitgelijnd"
@@ -1077,90 +1966,8 @@ DDR_communism_party_long:0 "Sozialistische Einheitspartei Deutschlands"
 WAF_fascism_party:0 "Pawp"
 WAF_democratic_party:0 "Pawter"
 WAF_communism_party:0 "Katmmunist"
-WAF_neutrality_party:0 "Eh?"
 
  #WLL ""
-WLL_neutrality_party:0 "Restaurationisten"
-WLL_neutrality_party_long:0 "Mouvement restaurationiste"
-WLL_communism_party:0 "PCW"
-WLL_communism_party_long:0 "Parti communiste wallon"
-WLL_democratic_party:0 "PS-PSC"
-WLL_democratic_party_long:0 "Parti Socialiste - Parti Social Chrétien"
-WLL_coalition_conservative_socialist_party:0 "PSC-PS"
-WLL_coalition_conservative_socialist_party_long:0 "Parti Social Chrétien - Parti Socialiste"
-WLL_fascism_party:0 "Rex"
-WLL_fascism_party_long:0 "Parti Rexiste"
-
- #WLS
-WLS_neutrality_party:0 "PCC"
-WLS_neutrality_party_long:0 "Plaid Ceidwadwyr Cymreig"
-WLS_communism_party:0 "PSC"
-WLS_communism_party_long:0 "Plaid Sosialaidd Cymru"
-WLS_democratic_party:0 "PGC"
-WLS_democratic_party_long:0 "Plaid Genedlaethol Cymru"
-WLS_fascism_party:0 "PAC" # made up
-WLS_fascism_party_long:0 "Plaid Annibyniaeth Cymru" # made up
-
- #WUR ""
-WUR_neutrality_party:0 "Haus Württemberg"
-
- #YHM ""
-YHM_neutrality_party:0 "Yu-Hanmou-Clique"
-
- #YUT ""
-YUT_neutrality_party:0 "Yue-Clique"
-
-YEM_communism_party:0 "HIY"
-YEM_communism_party_long:0 "Al-Hizb al-Ishtiraki al-Yamani"
-YEM_democratic_party:0 "HYH"
-YEM_democratic_party_long:0 "Al-Harakat al-Yamaniat al-Hura"
-YEM_fascism_party:0 "MZI"
-YEM_fascism_party_long:0 "Al-Mualin li-Zaydiiyn li'Iitalia"
-
- #ZAN ""
-ZAN_democratic_party:0 "Afro-Schirazi-Partei"
-ZAN_communism_party:0 "Ummah-Partei"
-ZAN_neutrality_party:0 "Haus von Busaid"
-
- #SAM ""
-SAM_democratic_party:0 "Samoa mo Samoa"
-SAM_communism_party:0 "Pati Komunisi Samoa"
-SAM_neutrality_party:0 "Haus von Sā Mālietoa"
-SAM_fascism_party:0 "Pati Samoa Tele"
- 
-AUS_democratic_party_long:0 "Sozialdemokratische Arbeiterpartei Österreichs - Right"
-BLR_communism_party_long:0 "Communist Party of Byelorussia"
-BLR_democratic_party_long:0 "Belarusian Christian Democracy"
-BLR_neutrality_party_long:0 "Belarusian National Rada"
-BLR_fascism_party_long:0 "Belarussian Central Rada"
-TXS_neutrality_party:0 "TNU"
-KEN_fascism_party:0 "YKA"
-KEN_fascism_party_long:0 "Young Kikuyu Association"
-KUW_neutrality_party:0 "Āl-Sabāh"
-SSU_democratic_party:0 "SPLM"
-SSU_democratic_party_long:0 "Al-Ḥarakat ash-Shaʿbiyyat liTaḥrīr as-Sūdān"
-SAM_colonial_administration:0 "Colonial Administration"
-
-FSM_neutrality_party:0 "Pohnpeianische Nahnmwarkis"
-HOL_arp_party:0 "ARP"
-HOL_arp_party_long:0 "Anti-Revolutionäre Partij"
-HOL_sdap_party_name:0 "SDAP"
-HOL_sdap_party_long:0 "Sociaal-Democratische Arbeiderspartij"
-HOL_vdb_party:0 "VDB"
-HOL_vdb_party_long:0 "Vrijzinnig-Demokratische Anleihe"
-LUX_neutrality_party_long:0 "Haus Nassau-Weilburg"
-LUX_democratic_party_long:0 "Rietspartei/Parti de la droite/Rechtspartei - Radikal-Liberale Partei/Parti Radical Libéral/Radikalliberale Partei"
-LUX_commumism_party:0 "KPL - PCL"
-LUX_lnp_party:0 "LNP"
-LUX_lnp_party_long:0 "Luxemburgische Nationale Partei"
-LUX_vdb_party:0 "VdB"
-LUX_vdb_party_long:0 "Volksdeutsche Bewegung"
-FIJ_neutrality_party:0 "Tu'i Nayau"
-MRS_neutrality_party:0 "Kabua-Dynastie"
-NIU_democratic_party:0 "NPP"
-NIU_democratic_party_long:0 "Niue People's Party"
-NIU_neutrality_party:0 "Patu-Iki"
-_party_long:0 "Parti Rexiste"
 
  #WLS
 
@@ -1176,7 +1983,21 @@ _party_long:0 "Parti Rexiste"
  #SAM ""
  
 
-idwadwyr Cymreig"
+
+ #WLS
+
+ #WUR ""
+
+ #YHM ""
+
+ #YUT ""
+
+
+ #ZAN ""
+
+ #SAM ""
+ 
+
 
  #WUR ""
 

@@ -52,8 +52,6 @@ converted_train_manufacturer:0 "Umgewandelter Zughersteller"
 efficient_bomber_manufacturer:0 "Hersteller effizienter Bomber"
 infantry_tank_manufacturer:0 "Hersteller von Infanteriepanzern"
 nuclear_physics_concern:0 "Nuklearphysik-Konzerne"
-flying_ship_manufacturer:0 "Hersteller von fliegenden Schiffen"
-jet_aircraft_manufacturer:0 "Jet-Flugzeug Hersteller"
 cheap_fighter_manufacturer:0 "Hersteller billiger Kampfflugzeuge"
 glider_manufacturer:0 "Hersteller von Segelflugzeugen"
 naval_industrial_concern:0 "Marine-Industriekonzern"
@@ -200,7 +198,50 @@ provincialist_warlord:0 "Provinzialistischer Kriegsherr"
 
 
 crafty_diplomat:0 "Raffinierter Diplomat"
-advocate:0 "Intervention Advokat"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+litarist\n(Genie)"
+
+
+
+erter Diplomat"
+
+
+
+
+
+
+
+
+
+
+
+
+
+r_3:0 "Polizeimilitarist\n(Genie)"
+
+
+
+
 
 
 

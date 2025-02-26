@@ -10,8 +10,6 @@
 
  FRA_liberalism_desc:0 "Der §YRadikalismus§! §Wist in Frankreich eine politische Position, die sich auf das Erbe von 1789 beruft und insbesondere durch den §! §BAntiklerikalismus§! §Wund die Verteidigung des §!§Hallgemeinen Wahlrechts§!§W gekennzeichnet ist.§!"
 
- FRA_communism_party:0 "PCF"
- FRA_communism_party_long:0 "Parti Communiste Français"
  FRA_fascism_party2:0 "PPF"
  FRA_fascism_party2_long:0 "Parti Populaire Français"
  FRA_fascism_party3:0 "CSAR"
@@ -217,8 +215,6 @@
  FRA_protected_by_the_maginot_line_defense_desc:0 "Eine befestigte Grenze ermöglicht [FRA.GetNameDef] eine sorgfältige Planung und Vorbereitung, büßt aber im Falle eines unerwarteten Ereignisses etwas Flexibilität ein."
 
  #### FACTIONS #### ""
- latin_union:0 "Lateinische Union"
- humanite_unie:0 "Humanité Unie"
  montreux_convention:0 "Montreux-Konvention"
  french_union:0 "Französische Union"
 
@@ -371,9 +367,7 @@
 
 
 
- free_france:0 "Freies Frankreich"
 
- french_focus:0 "[ROOT.getAdjective] Fokus Baum"
 
  FRA_tools_modernisation:0 "Werkzeuge Modernisierung"
  FRA_tools_modernisation_desc:0 "Der [FRA.GetAdjective]-Industriepark ist veraltet und vor allem alt. Wir müssen unsere Werkzeuge modernisieren, indem wir neuere, moderne Maschinen anschaffen."
@@ -477,14 +471,8 @@
  FRA_support_daladier_desc:0 "Blum hat uns gezeigt, dass er ein Land in einer Krise nicht führen kann. Er muss zurücktreten und das Amt an Edouard Daladier abtreten, den Führer der Parti Radical und die Nummer zwei der Volksfront."
  FRA_status_quo:0 "Bilden Sie die Volksfront"
  FRA_status_quo_desc:0 "[FRA.GetNameDefCap] ist die Wiege und der Beschützer der Freiheit und sollte dies auch bleiben. Wenn wir jemals wieder eine Einheit erreichen wollen, müssen wir unsere Demokratie stabilisieren, bevor sie schwindet."
- FRA_little_entente:0 "Kleine Entente"
- FRA_little_entente_desc:0 "Die Kleine Entente, ein Bündnis, das nach dem Ersten Weltkrieg geschlossen wurde, um eine Aggression Österreichs und Ungarns gegen ihre Nachbarn zu verhindern, wurde von Frankreich unterstützt, ist aber nun ins Wanken geraten. Anstatt sich mit [ENG.GetNameDef] zu verbünden, sollten wir die Initiative ergreifen, um diese Fraktion wiederherzustellen und zu konsolidieren, angefangen bei ihren Gründern in [CZE.GetNameDef]."
- FRA_go_with_britain:0 "Gehen Sie mit [ENG.GetNameDef]"
- FRA_go_with_britain_desc:0 "Nur [ROOT.GetNameDef] und die [ENG.GetNameDef] sind von der alten Triple Entente mit Russland für immer verändert übrig geblieben. Wenn die Geschichte dazu verdammt ist, sich zu wiederholen, müssen wir sicherstellen, dass diese beiden Nationen, die Bastionen der Demokratie und Freiheit in Europa, Verbündete bleiben."
  FRA_popular_front_united:0 "Volksfront vereint"
  FRA_popular_front_united_desc:0 "Wir müssen jetzt aufhören, uns untereinander zu bekämpfen, und mit den durchgeführten Reformen vereint bleiben. Die Front wird nicht zusammenbrechen, und wir werden für [FRA.GetNameDef] und "Liberté, Egalité, Fraternité" kämpfen!"
- FRA_invite_yugoslavia:0 "Laden Sie [YUG.GetNameDef]"
- FRA_invite_yugoslavia_desc:0 "[YUG.GetNameDefCap] hat genug Sorgen, ohne sich um expansionistische Nachbarn kümmern zu müssen. Sie zurück in die Kleine Entente zu holen, wäre ein ausgezeichneter Dienst für sie und uns."
  FRA_invite_romania:0 "Laden Sie [ROM.getNameDef] ein"
  FRA_invite_romania_desc:0 "Die [ROM.GetAdjective]-Demokratie ist zerbrechlich, gefangen zwischen ihren internen faschistischen Fraktionen und dem [SOV.GetAdjective]-Kommunismus. Wenn wir sie in die Kleine Entente aufnehmen, wird ihre Stabilität mit unserer Unterstützung erhalten bleiben."
  FRA_invite_poland:0 "Laden Sie [POL.GetNameDef]"
@@ -612,7 +600,6 @@
  FRA_union_latins_desc:0 "Ein Bündnis auf der Grundlage der gemeinsamen lateinischen Zivilisation und Kultur in Europa ([ITA.GetNameDef], [FRA.GetNameDef], Spanien, [POR.GetNameDef] und [ROM.GetNameDef]) wird das Kräfteverhältnis zwischen uns und Deutschland ausgleichen. Beginnen wir mit [ROM.GetNameDef]; sie können mit unserer Unterstützung die Stabilität bewahren."
  FRA_restoration:0 "Wiederherstellung"
  FRA_restoration_desc:0 "Es ist an der Zeit, die Republik zu beenden und Frankreich zu seinem natürlichen Erben zurückzuführen. Die neue Monarchie wird das Volk hinter einem starken Führer vereinen."
- FRA_invite_portugal:0 "Laden Sie [POR.GetNameDef] ein."
  FRA_invite_portugal_desc:0 "Als lateinisches Land ist [POR.GetNameDef] ein natürlicher Verbündeter des [FRA.GetAdjective] Volkes. Wir müssen diese Freundschaftsbande stärken."
  FRA_retake_haiti:0 "Haiti zurückerobern"
  FRA_retake_haiti_desc:0 "Haiti wurde nach der Revolution durch einen Sklavenaufstand verloren. Wenn wir unsere Position in der Karibik stärken und unser Prestige zurückgewinnen wollen, müssen wir es mit allen Mitteln zurückerobern."
@@ -719,8 +706,6 @@
 
  FRA_giraud_plan:0 "Giraud-Plan"
  FRA_giraud_plan_desc:0 "In Zeiten wie diesen ist es am besten, unsere Verteidigung zu stärken. Wenn es Bedrohungen gibt, sollen sie zu uns kommen, damit wir sie in unserem Land bekämpfen können. Wir haben den perfekten Kandidaten für die Führung unserer Armee; wir brauchen nur noch das Wort dazu."
- FRA_fortification_focus:0 "Schwerpunkt Festungsbau"
- FRA_fortification_focus_desc:0 "So entscheidend unsere Festungen auch waren, wir müssen Wege finden, sie effizienter zu bauen. Die Maginot-Linie hat sich als wirksame Abschreckung für feindliche Streitkräfte erwiesen; wir könnten die Sicherheit weiterer Verteidigungsanlagen dieser Art gebrauchen."
  FRA_alpine_forts:0 "Alpenfestungen"
  FRA_alpine_forts_desc:0 "Die [ITA.GetAdjective]s werden die Grenze nicht mehr so schnell überschreiten, wenn wir die Alpen mit unserer neu geplanten Verteidigungslinie abdecken. Wir werden Zeit haben, zu reagieren und unsere Position zu verstärken."
  FRA_commission_fortified_regions:0 "CORF-Mission"
@@ -729,8 +714,6 @@
  FRA_extend_the_maginot_line_desc:0 "Wir können uns nicht darauf verlassen, dass die [BEL.GetNameDef] ihre Stellung halten; wenn sie feindliche Armeen durchlassen, könnten wir in Schwierigkeiten geraten. Der Ausbau der Maginot-Linie ist entscheidend, um unerwünschte Truppen von [FRA.GetNameDef] fernzuhalten!"
  FRA_de_gaulle_strategy:0 "De Gaulle-Strategie"
  FRA_de_gaulle_strategy_desc:0 "Wir können nicht tatenlos zusehen, wie Feinde an unsere Grenzen heranrücken. Und wir können unsere Verbündeten in einem Kriegsszenario nicht sich selbst überlassen. Bereiten Sie unsere Armee vor! Gamelin ist der richtige Mann für diese Aufgabe."
- FRA_motorized_focus:0 "Motorisierter Schwerpunkt"
- FRA_motorized_focus_desc:0 "Bessere Wege zum Bau unserer Infanteriefahrzeuge werden uns helfen, die Frontlinien zu unterstützen und zu verstärken."
  FRA_mechanized_focus:0 "Mechanisierter Fokus"
  FRA_mechanized_focus_desc:0 "Panzer sind der Weg in die Zukunft der Militärindustrie. Wir wollen das Schlachtfeld kontrollieren, und dafür brauchen wir neue, leistungsfähige Panzer!"
  FRA_tank_modernisation:0 "Doktrinale Modernisierung"
@@ -741,8 +724,6 @@
  FRA_infantry_focus_desc:0 "Alle Männer und Frauen, die kämpfen können, werden es tun. Wir sollten staatliche Mittel in die Produktion und Verbesserung von Infanteriewaffen stecken."
  FRA_artillery_focus:0 "Grande Batterie"
  FRA_artillery_focus_desc:0 "Unsere Artillerie wird eine einzige starke Einheit bilden, um das Feuer auf bestimmte Punkte zu konzentrieren. Wir werden die feindliche Linie schwächen und uns mit einer Salve nach der anderen durchschlagen, wenn es sein muss!"
- FRA_army_reform:0 "Heeresreform"
- FRA_army_reform_desc:0 "Weder eine Infanterieeinheit noch ein High-Tech-Panzer allein werden uns den Krieg gewinnen lassen. Wir müssen unsere Anstrengungen darauf richten, sowohl unsere taktischen als auch unsere strategischen Fähigkeiten auszubauen. Mit den richtigen Leuten an der Spitze können wir uns als Armee weiterentwickeln."
  FRA_general_mobilisation_order:0 "Allgemeiner Mobilisierungsbefehl"
  FRA_general_mobilisation_order_desc:0 "Wir müssen das Landheer, die Luftwaffe und die Marineinfanterie in Kriegsbereitschaft versetzen und alle verfügbaren [FRA.GetAdjective] mobilisieren."
  FRA_africa_army:0 "Armee von Afrika"
@@ -1100,7 +1081,126 @@
  france.aat.2.d:0 "Direkte Finanzierung an Somua"
  r56.news_event.1000.t:0 "Pariser Weltausstellung"
  r56.news_event.1000.d:0 "Frankreich ist stolz darauf, mit großem Tamtam die Weltausstellung von 1937 zu eröffnen. In Paris werden auf einer Fläche von 101 Hektar und in 44 Ländern vierundzwanzig Pavillons zu sehen sein, die sich mit den Künsten und Techniken des modernen Lebens befassen. Fast 32 Millionen Besucher werden erwartet. In Paris bleiben der Chaillot-Palast, der Palast der Entdeckungen und das Palais de Tokyo erhalten. Der Geist und die neue Kunst triumphieren überall. Die Welt will einen Moment lang glauben, dass die Ausstellung endlich alles zusammenbringt, was die Menschen verbindet. Was die Gemüter erregt, sind die monumentalen russischen und deutschen Pavillons, die sich gegenüberstehen und sich gegenseitig herausfordern: eine fünfundzwanzig Meter hohe Statue der Arbeiter- und Kolchosfrau, die eine Sichel und einen Hammer schwingt, steht einer riesigen Skulptur eines Adlers gegenüber, der ein Hakenkreuz in seinen Krallen hält."
- r56.news_event.1000.a:0 "Ein riesiger globaler Erfolg"
+ ############################ ""
+ #### DECISIONS #### ""
+
+
+
+
+
+
+
+
+ ############################"
+ #### EVENTS #### ""
+
+
+
+
+ #### IDEEN ####"
+
+
+
+ ############################ ""
+ #### MISC #### ""
+ ############################ ""
+## ""
+ ############################ ""
+ #### DECISIONS #### ""
+
+
+
+
+
+
+
+
+ ############################"
+ #### EVENTS #### ""
+
+
+
+
+ #### IDEEN ####"
+
+
+
+ ############################ ""
+ #### MISC #### ""
+ ############################ ""
+## ""
+
+
+
+ ############################"
+ #### EVENTS #### ""
+
+
+
+
+ #### IDEEN ####"
+
+
+
+ ############################ ""
+ #### MISC #### ""
+ ############################ ""
+## ""
+ ############################ ""
+ #### DECISIONS #### ""
+
+
+
+
+
+
+
+
+ ############################"
+ #### EVENTS #### ""
+
+
+
+
+ #### IDEEN ####"
+
+
+
+ ############################ ""
+ #### MISC #### ""
+ ############################ ""
+## ""
+
+ ############################ ""
+ #### MISC #### ""
+ ############################ ""
+## ""
+t, sind die monumentalen russischen und deutschen Pavillons, die sich gegenüberstehen und sich gegenseitig herausfordern: eine fünfundzwanzig Meter hohe Statue der Arbeiter- und Kolchosfrau, die eine Sichel und einen Hammer schwingt, steht einer riesigen Skulptur eines Adlers gegenüber, der ein Hakenkreuz in seinen Krallen hält."
+ ############################ ""
+ #### DECISIONS #### ""
+
+
+
+
+
+
+
+
+ ############################"
+ #### EVENTS #### ""
+
+
+
+
+ #### IDEEN ####"
+
+
+
+ ############################ ""
+ #### MISC #### ""
+ ############################ ""
+## ""
+000.a:0 "Ein riesiger globaler Erfolg"
  ############################ ""
  #### DECISIONS #### ""
 
@@ -1109,12 +1209,26 @@
 
  FRA_weapons_purchases_category:1 "Kauf von [USA.GetAdjective] Waffen"
  FRA_weapons_purchases_category_desc:0 "Da unsere Industrie immer noch Nachholbedarf hat, könnte die Suche nach modernen Waffen im Ausland die einzige Möglichkeit sein, unsere Streitkräfte auf den neuesten Stand zu bringen."
- FRA_order_weapons_in_USA:0 "Kleinwaffen bestellen"
- FRA_order_support_equipment_in_USA:0 "Unterstützungsausrüstung bestellen"
- FRA_order_artillery_in_USA:0 "Artillerie bestellen"
- FRA_order_tanks_in_USA:0 "Panzer bestellen"
- FRA_order_fighters_in_USA:0 "Bestellung Kampfflugzeuge"
- FRA_order_bombers_in_USA:0 "Bomber bestellen"
+
+
+
+
+
+ ############################"
+ #### EVENTS #### ""
+
+
+
+
+ #### IDEEN ####"
+
+
+
+ ############################ ""
+ #### MISC #### ""
+ ############################ ""
+## ""
+bringen."
 
 
 
@@ -1141,15 +1255,8 @@
  FRI_lai_thao:0 "Lai Thao"
  FRI_ngo_dinh_nhu:0 "Ngo Dinh Nhu"
  FRI_ton_duc_thang:0 "Ton Duc Thang"
- FRI_cuong_de:0 "Cuong De"
- FRI_georges_catroux:0 "Georges Catroux"
- FRI_jean_decoux:0 "Jean Decoux"
- FRI_jules_brevie:0 "Jules Brévié"
 
  ############################ ""
  #### MISC #### ""
  ############################ ""
- absolute_monarch:0 "Absoluter Monarch"
- count_of_paris:0 "Graf von Paris"
- frederic_gaston:0 "Fréderic Gaston"
 ## ""

@@ -14,7 +14,6 @@ AIR_TITLE_TRANSPORT:0 "Transport"
 modern_ship_hull_light:0 "1948 Zerstörer-Rumpf"
 
 ## trying to fix base game decimetric radar tech
-decimetric_radar:0 "Dezimetrisches Radar"
 
 ### Extra tech categories
 torpedo_equipment:0 "Torpedo-Technologien  "
@@ -534,19 +533,6 @@ fabric_desc:0 "Stoff, der für Kleidung verwendet wird."
 PRODUCTION_MATERIALS_FABRIC:0 "Stoff"
 PRODUCTION_MATERIALS_FABRIC_desc:0 "Stoff, der für Kleidung verwendet wird."
 
-plate_skirt:0 "Panzerschürzen"
-plate_skirt_desc:0 "Das Hinzufügen von Plattenschürzen zu unseren Panzern und Halbkettenfahrzeugen bietet einen gewissen Schutz gegen die neuen AT-Infanteriewaffen, allerdings auf Kosten von zusätzlichem Gewicht für unsere Einheiten."
-bed_spring_skirt:0 "Lamellenpanzerschürzen"
-bed_spring_skirt_desc:0 "Wir werden die Panzerung verbessern, indem wir die Metallplatten durch eine Panzerung mit Drahtgeflecht ersetzen, wodurch das zusätzliche Gewicht der vorherigen Aufrüstung wegfällt."
-bed_spring_skirt_2:0 "Verbesserte Panzerschürzen"
-bed_spring_skirt_2_short:0 "Imp. Panzerschürzen"
-bed_spring_skirt_2_desc:0 "Wir werden die Panzerung verbessern, indem wir die Metallplatten durch noch leichtere Materialien ersetzen und so das zusätzliche Gewicht der vorherigen Aufrüstung beseitigen."
-bed_spring_skirt_3:0 "Semi-Moderne Panzerschürzen"
-bed_spring_skirt_3_short:0 "SM. Panzerschürzen"
-bed_spring_skirt_3_desc:0 "Wir verbessern die Panzerung, indem wir die Metallplatten durch noch leichtere Materialien ersetzen und das zusätzliche Gewicht des vorherigen Upgrades entfernen."
-bed_spring_skirt_4:0 "Moderne Panzerschürzen"
-bed_spring_skirt_4_short:0 "Mod. Panzerschürzen"
-bed_spring_skirt_4_desc:0 "Wir verbessern die Panzerung, indem wir die Metallplatten durch noch leichtere Materialien ersetzen und das zusätzliche Gewicht des vorherigen Upgrades entfernen."
 oscillating_turret_tech: "Oszillierender Geschützturm"
 oscillating_turret_tech_desc: "Der schwenkbare Turm ermöglicht es, den gesamten Turm zusammen mit dem Geschütz zu heben und zu senken. Dadurch kann das Geschütz höher montiert werden, da sich die angeschlossenen Maschinen mitbewegen, wodurch die Möglichkeit geschaffen wird, größere Geschütze zu montieren und auf einen größeren Neigungsbereich zu zielen."
 modern_light_tank_chassis: "1944 Leicht"
@@ -625,7 +611,6 @@ elite_forces_02_desc:0 "Nur die Besten der Besten werden zu Spezialkräften. Die
 elite_forces_03:0 "Elitetruppen III"
 elite_forces_03_desc:0 "Nur die Besten der Besten werden zu Spezialkräften. Die Soldaten, die die Ausbildung überstehen, sind stärker, schneller und kämpfen härter als alle anderen."
 
-TITLE_EXP_ROCKETS_SUBTITLE:0 "Raketentechnik"
 
 icbm_missile_equipment_1:0 "Nukleare ICBM"
 icbm_missile_equipment_1_desc:0 "Diese interkontinentalen ballistischen Raketen sind der Gipfel der Nuklearwissenschaft und der Raketentechnik. Sie vereinen die unvorstellbare Reichweite einer Rakete mit der Fähigkeit, jederzeit und überall einen nuklearen Sprengkopf abzufeuern. Die Zerstörung eines Ziels ist mit einer dieser Raketen mehr oder weniger sicher."
@@ -663,14 +648,17 @@ modern_torpedoes_03_desc:0 ""
 
 BEL_chasseurs_ardennais_tt: "§Y$jaeger$§!:\n§YWald§!:\n Angriffseffekivitätänderung: §G+5%§!\n Verteidigungseffekivitätänderung: §G+10%§!"
 
-transport_plane2:0 "Transportflugzeug II"
+
+II"
+
+ntification_friend_or_foe:0 "Freund-Feind-Identifikationssystem"
+
+önnen wir ein funktionierendes Freund-Feind-Identifikationssystem für unsere Flugzeuge entwickeln."
+
+f_partisan_desc:0 "Mit Hilfe von Hochfrequenz-Peiltechnik für bekannte Partisanen-Funksprüche können wir uns einen Überblick über die Gebiete verschaffen, in denen die Partisanen operieren. Wir können dann Anstrengungen unternehmen, um das Gebiet zu räumen oder Boden aufzugeben, wenn wir Aktivitäten feststellen und Angriffe bevorstehen, die nicht abgewehrt werden können. Beides spart Arbeitskräfte und das Leben der Garnisonstruppen."
+effekivitätänderung: §G+10%§!"
+
 basic_identification_friend_or_foe:0 "Freund-Feind-Identifikationssystem"
-basic_identification_friend_or_foe_desc:0 "Mit Hilfe der Peiltechnik können wir ein funktionierendes Freund-Feind-Identifikationssystem für unsere Flugzeuge entwickeln."
 ENG_basic_identification_friend_or_foe:0 "Pip-Quietsch-System"
 rdf_partisan:0 "Partisanen-Funkpeilung"
 rdf_partisan_desc:0 "Mit Hilfe von Hochfrequenz-Peiltechnik für bekannte Partisanen-Funksprüche können wir uns einen Überblick über die Gebiete verschaffen, in denen die Partisanen operieren. Wir können dann Anstrengungen unternehmen, um das Gebiet zu räumen oder Boden aufzugeben, wenn wir Aktivitäten feststellen und Angriffe bevorstehen, die nicht abgewehrt werden können. Beides spart Arbeitskräfte und das Leben der Garnisonstruppen."
-semi_modern_radio:0 "Halbmoderne Funkgeräte"
-semi_modern_radio_desc:0 "Funkgeräte mit mehreren Kanälen, in der kleinen Form von Walkie-Talkies, ermöglichen es jüngeren Offizieren, besser mit den einzelnen Feuer- und Unterstützungsteams zu kommunizieren. Das verbessert die Koordination erheblich."
-modern_radio:0 "Modernes Funkgerät"
-modern_radio_desc:0 "Funkkommunikation auf Truppenebene wird die Kommunikation mit den Offizieren verbessern und der Führung helfen, den Nebel des Krieges zu durchdringen."
-r mit den einzelnen Feuer- und Unterstützungsteams zu kommunizieren. Das verbessert die Koordination erheblich."

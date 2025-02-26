@@ -15,7 +15,6 @@
  BEL_FOCUS_TREE_SELECTION:0 "@BEL @COG Belgien & Kongo"
 
  belgium_focus:0 "Belgischer Fokusbaum"
- scw_over:0 "Der Spanische Bürgerkrieg ist vorbei"
  BEL_neutrality_path_tt:0 "§YUm diesen Fokus freizuschalten, wähle den faschistischen oder kommunistischen Weg und unterdrücke ihre Aktionen§!"
  van_den_bergen_promotion_tt:0 "Der §YGeneral Van den Bergen§! wird ein §YArmee-Drill (Genie)§! Chef der Armee und erhält die Eigenschaften §YMedienpersönlichkeit§! und §YOrganisatorischer Führer§!."
 
@@ -1104,7 +1103,6 @@
  BEL_economic_cooperation_within_benelux3:0 "Wirtschaftsinitiative - [LUX.GetNameDef]"
  BEL_economic_cooperation_within_benelux4:0 "Wirtschaftsinitiative - Benelux"
 
- benelux_faction:0 "Benelux"
  fn_herstol:0 "Fabrique Nationale d'Armes de Guerre"
  fn_trucks:0 "FN Brossel Miesse"
  frc_BEL:0 "Königliche Stiftung der Kanoniker"
@@ -1132,7 +1130,6 @@
 
  BEL_GER_attack_eben_emael:0 "Angriff auf das Fort von Eben-Emael"
 
- BEL_motorized_equipment_1:0 "Brossel TAL"
 
 
 #Belgian tanks ""
@@ -1201,18 +1198,8 @@
  BEL_heavy_tank_artillery_equipment_3_short:0 "T92 HMC"
  BEL_super_heavy_tank_equipment_1:0 "Schildkröte"
  BEL_super_heavy_tank_equipment_1_short:0 "Schildkröte"
- BEL_anti_tank_equipment_1:0 "Kanonenabwehrwagen 47 mm, Modell 1931"
- BEL_anti_tank_equipment_1_short:0 "C.47 F.R.C. Mod.31"
  BEL_anti_tank_equipment_1_desc:0 "Die 47-mm-Kanone von 1931 wurde von der 'Fonderie Royale de Canons' hergestellt und genoss einen ausgezeichneten Ruf; sie diente als Basis für den Panzerzerstörer T-13."
- BEL_anti_tank_equipment_2:0 "Kanone Anti-Char de 60mm"
- BEL_anti_tank_equipment_2_short:0 "C.60"
  BEL_anti_tank_equipment_2_desc:0 "Die belgische 60-mm-Panzerabwehrkanone war leistungsstark, aber selten. Sie wurde nie im Feld eingesetzt, da ihre Herstellung als zu kostspielig angesehen wurde. Alle produzierten Geschütze wurden in Festungen eingesetzt, vor allem in der Umgebung von Lüttich."
- BEL_artillery_equipment_2:0 "Kanone 12 cm L modèle 1931"
- BEL_artillery_equipment_2_short:0 "Kanone 12 cm L mle 1931"
- BEL_anti_air_equipment_1:0 "Bofors 40 mm"
- BEL_anti_air_equipment_1_short:0 "Bofors 40 mm"
- BEL_anti_air_equipment_2:0 "75 mm Bourges/FRC Mle 1936"
- BEL_anti_air_equipment_2_short:0 "75 mm FRC Mle 1936"
 
  #Flemish tanks ""
  FLA_gw_tank_equipment:0 "Renault FT"
@@ -1282,20 +1269,8 @@
  FLA_super_heavy_tank_equipment_1_short:0 "Schildkröte"
 
 
- FLA_anti_tank_equipment_1:0 "47mm Pantserafweerkanon"
- FLA_anti_tank_equipment_1_short:0 "PaK.47 F.R.C. Mod.31"
  FLA_anti_tank_equipment_1_desc:0 "Die 47-mm-Kanone von 1931 wurde von der 'Fonderie Royale de Canons' hergestellt und genoss einen ausgezeichneten Ruf; sie diente als Basis für den Panzerzerstörer T-13."
- FLA_anti_tank_equipment_2:0 "60mm Pantserafweerkanone"
- FLA_anti_tank_equipment_2_short:0 "C.60"
  FLA_anti_tank_equipment_2_desc:0 "Die belgische 60-mm-Panzerabwehrkanone war leistungsstark, aber selten. Sie wurde nie im Feld eingesetzt, da ihre Herstellung als zu kostspielig angesehen wurde. Alle produzierten Geschütze wurden in Festungen eingesetzt, vor allem in der Umgebung von Lüttich."
- FLA_artillery_equipment_1:0 "75-mm-Kanon mel TR"
- FLA_artillery_equipment_1_short:0 "75mm Kanon"
- FLA_artillery_equipment_2:0 "12cm Kanon L Modell 1931"
- FLA_artillery_equipment_2_short:0 "12cm Kanon L Mel 1931"
- FLA_anti_air_equipment_1:0 "Bofors 40 mm"
- FLA_anti_air_equipment_1_short:0 "Bofors 40 mm"
- FLA_anti_air_equipment_2:0 "75 mm Bourges/FRC Mel 1936"
- FLA_anti_air_equipment_2_short:0 "75 mm FRC Mel 1936"
 
  #walloon tanks ""
  WLL_gw_tank_equipment:0 "Renault FT"
@@ -1365,20 +1340,8 @@
  WLL_super_heavy_tank_equipment_1_short:0 "Schildkröte"
 
 
- WLL_anti_tank_equipment_1:0 "Kanonenabwehrwagen 47 mm Modell 1931"
- WLL_anti_tank_equipment_1_short:0 "C.47 F.R.C. Mle31"
  WLL_anti_tank_equipment_1_desc:0 "Die 47-mm-Kanone von 1931 wurde von der "Fonderie Royale de Canons" hergestellt und genoss einen ausgezeichneten Ruf; sie diente als Basis für den Panzerzerstörer T-13."
- WLL_anti_tank_equipment_2:0 "Kanone Anti-Char de 60mm"
- WLL_anti_tank_equipment_2_short:0 "C.60"
  WLL_anti_tank_equipment_2_desc:0 "Die belgische 60-mm-Panzerabwehrkanone war leistungsstark, aber selten. Sie wurde nie im Feld eingesetzt, da ihre Herstellung als zu kostspielig angesehen wurde. Alle produzierten Geschütze wurden in Festungen eingesetzt, vor allem in der Umgebung von Lüttich."
- WLL_artillery_equipment_1:0 "Kanone 75 mle TR"
- WLL_artillery_equipment_1_short:0 "Kanone 75 mm"
- WLL_artillery_equipment_2:0 "Canon 120 mm Modèle 1931"
- WLL_artillery_equipment_2_short:0 "Kanone 120 L Mle 1931"
- WLL_anti_air_equipment_1:0 "Bofors 40 mm"
- WLL_anti_air_equipment_1_short:0 "Bofors 40 mm"
- WLL_anti_air_equipment_2:0 "75 mm Bourges/FRC Mle 1936"
- WLL_anti_air_equipment_2_short:0 "75 mm FRC Mle 1936"
 
  FLA_neutrality_party:0 "VOP"
  FLA_neutrality_party_long:0 "Vlaamsch Onafhankelijke Partij"
@@ -1786,32 +1749,48 @@
  benelux_trade_deal:0 "Benelux-Zollunion"
  COG_exports:0 "Kongolesische Exporte"
 
- BEL_support_weapons:0 "Mitrailleuses Hotchkiss 1914|Maxim '08/15'"
  BEL_support_weapons_desc:0 "Automatische Waffen werden immer tragbarer. Die Maschinenpistolen haben sich bereits bewährt, und die Entwicklung handgeführter Unterstützungswaffen muss fortgesetzt werden."
- BEL_support_weapons2:0 "Mortier FRC 76mm|Lanzengranaten 50mm DBT"
  BEL_infantry_weapons2:0 "Mauser 1936"
  FLA_support_weapons:0 "Maschinengewehre Hotchkiss 1914|Maxim '08/15'"
  FLA_support_weapons_desc:0 "Automatische Waffen werden immer tragbarer. Maschinenpistolen haben sich bereits bewährt, und die Entwicklung handgeführter Unterstützungswaffen muss fortgesetzt werden."
  FLA_support_weapons2:0 "Mortier Stokes-Brandt 81 mm|50mm DBT Granaatwerper"
  FLA_infantry_weapons2:0 "Mauser 1936"
  WLL_support_weapons:0 "Mitrailleuses Hotchkiss 1914|Maxim '08/15'"
- WLL_support_weapons_desc:0 "Automatische Waffen werden immer tragbarer. Maschinenpistolen haben sich bereits bewährt, und die Entwicklung handgeführter Unterstützungswaffen muss fortgesetzt werden."
+
+
+
+
+
+
+ffen werden immer tragbarer. Maschinenpistolen haben sich bereits bewährt, und die Entwicklung handgeführter Unterstützungswaffen muss fortgesetzt werden."
+
+
+
+
+
+
+_netherlands_category2_desc:0 "Abgesehen vom kurzlebigen Vereinigten Königreich der Niederlande zwischen 1815 und 1830 sind die Niederungen seit der Abspaltung der sieben nördlichen Provinzen mit der Utrechter Union Ende des 16. Jahrhunderts geteilt. Es ist an der Zeit, sie wieder zu vereinen und die Fehler der Vergangenheit zu vermeiden."
+
+
+
+
+
+ls bereit sind, die gesamten Niederungen zu vereinen. Dies könnte sich in dem sich abzeichnenden Konflikt als großer Vorteil erweisen."
+
+
+
+
+
+e"
+
+
+ Hotchkiss 1914|Maxim '08/15'"
  WLL_support_weapons2:0 "Mortier FRC 76mm|Lanzengranaten 50mm DBT"
  WLL_infantry_weapons2:0 "Mauser 1936"
 
  form_united_netherlands_category2:0 "Das Tiefland vereinen"
  form_united_netherlands_category2_desc:0 "Abgesehen vom kurzlebigen Vereinigten Königreich der Niederlande zwischen 1815 und 1830 sind die Niederungen seit der Abspaltung der sieben nördlichen Provinzen mit der Utrechter Union Ende des 16. Jahrhunderts geteilt. Es ist an der Zeit, sie wieder zu vereinen und die Fehler der Vergangenheit zu vermeiden."
- form_united_netherlands2:0 "Das Tiefland vereinigen"
- form_united_netherlands2_BEL:0 "Vereinigt die Niederungen"
- form_united_netherlands2_HOL:0 "Vereinigt die Niederungen"
- HOL_arm_flemish_fascists_category:0 "Flämische Faschisten bewaffnen"
- HOL_arm_flemish_fascists_category_desc:0 "Wir müssen flämische Faschisten organisieren und bewaffnen, die ebenfalls bereit sind, die gesamten Niederungen zu vereinen. Dies könnte sich in dem sich abzeichnenden Konflikt als großer Vorteil erweisen."
  HOL_arm_flemish_fascists:0 "Flämische Faschisten bewaffnen"
  BEL_try_to_recruit_dutch_generals:0 "Versuchen Sie, [HOL.GetAdjective] zu rekrutieren. Generäle"
- HOL_try_to_recruit_flemish_generals:0 "Versuchen Sie, flämische Generäle zu rekrutieren."
- BEL_recall_jules_pire:0 "Jules Pire zurückrufen"
- BEL_recall_jules_pire_desc:0 "Der frühere Kommandant der Chasseurs Ardennais, Jules Pire, hat sich vor einigen Jahren zur Ruhe gesetzt. Da die Anforderungen des Krieges jedoch zunehmen, könnte es sinnvoll sein, ihn in den aktiven Dienst zurückzuholen und von seiner früheren Erfahrung als Kommandant zu profitieren."
 
- POLITICS_HUBERT_PIERLOT_DESC:0 "Als belgischer Premierminister hat er in den letzten Jahren seine Fähigkeit unter Beweis gestellt, mit den europäischen Großmächten zu verhandeln."
- Vorteil erweisen."
 

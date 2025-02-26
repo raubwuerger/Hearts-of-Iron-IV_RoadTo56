@@ -92,8 +92,6 @@ TUR_undo_armenian_policies:0 "[ARM.GetAdjektiv]-Politik rückgängig machen"
 
 ARM_generic_infantry_equipment_organization:0 "Avtomatika Jerewan"
 
-open_kajaran_mine:0 "Öffnen der Kajaran-Mine #change-Effekt, wenn Kupfer hinzugefügt wird"
-extract_northern_armenia_deposits:0 "Ausbeutung des Aluminiumvorkommens in Nordarmenien"
 
 ARM_ararat_cement:0 "Ararat-Zement"
 ARM_yerevan_oil_and_gas_factory:0 "Öl- und Gasfabrik Jerewan"
@@ -338,5 +336,10 @@ ARM_event.3.a:0 "Wir haben uns selbst befreit!"
 
 ARM_event.4.t:0 "Die große militärische Säuberung"
 ARM_event.4.desc:0 "Iosif Stalin, der Führer der Sowjetunion, hat kürzlich Streiks und Verhaftungen vieler Politiker, Militärs und des Generalstabs der bolschewistischen Partei angeordnet. Daraufhin wurden auch die Armenier nicht verschont, da einige armenische Beamte, insbesondere Movses Silikyan und Christopher Araratyan, die in den 1920er Jahren für die Armenische Revolutionäre Föderation gekämpft hatten, ebenfalls verhaftet wurden, und zwar wegen antirevolutionärer Aktivitäten. Sie warten derzeit auf ihr Urteil, das wahrscheinlich die Todesstrafe sein wird, wenn man sich die anderen Fälle ansieht ..."
+ein, dies sind wirklich gefährliche Zeiten ..."
+
+an sich die anderen Fälle ansieht ..."
+ sich die anderen Fälle ansieht ..."
 ARM_event.4.a:0 "Wir müssen vorsichtig sein, dies sind wirklich gefährliche Zeiten ..."
+ sein, dies sind wirklich gefährliche Zeiten ..."
 ARM_scars_of_the_past:0 "Narben der Vergangenheit"

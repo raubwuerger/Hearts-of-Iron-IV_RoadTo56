@@ -76,7 +76,6 @@ HUN_diosgyor_iron_and_steelworks:0 "Diósgyőr Eisen- und Stahlwerk"
 HUN_generic_naval_aircraft_manufacturer:0 "AVIS"
 HUN_ikarus:0 "Uhri Brothers Karosserie- und Fahrzeugfabrik"
 
-HUN_amphibious_tank_equipment_1:0 "Straussler V-4"
  # ""
 formed_austria_hungary:0 "Hat Österreich-Ungarn gebildet"
 SZK_become_hungary:0 "Wird Ungarn"
@@ -167,4 +166,7 @@ r56_hungary_7.desc:0 "Mit seinem traditionellen diplomatischen Draufgängertum h
 r56_hungary_7.a:0 "Ich denke, es ist besser, als von Feinden umgeben zu sein."
 
 ROM_agrarian_reform:0 "Agrarreform" #used only in DLC HUN tree despite idea name
+ame
+ngary.90.c:0 "Pal Esterhazy Das ist es!"
+ame
 WW_hungary.90.c:0 "Pal Esterhazy Das ist es!"

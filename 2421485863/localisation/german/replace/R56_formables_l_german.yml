@@ -80,7 +80,6 @@
  byz_integrate_yugoslavia:0 "Integrieren Jugoslawien"
  byz_yugoslavia_integrated:0 "Jugoslawien Integriert"
  byz_integrate_turkey:0 "Integrieren Türkei"
- byz_turkey_integrated:0 "Türkei Integriert"
 
  #Improved EU# ""
  EUR_spanish_membership:0 "Spanische Mitgliedschaft"
@@ -88,7 +87,6 @@
  form_eu_spain_coring_states_tt:0 "Gewinnung von Kernen in ganz Spanien"
  EUR_portuguese_membership:0 "Portugiesische Mitgliedschaft"
  form_country_portugal_required_states_tt:0 "Kontrolliert alle portugiesischen Kerne"
- form_eu_portugal_coring_states_tt:0 "Gewinnung von Kernen in ganz Portugal"
  EUR_danish_membership:0 "Dänische Mitgliedschaft"
  EUR_swedish_membership:0 "Schwedische Mitgliedschaft"
  EUR_norwegian_membership:0 "Norwegische Mitgliedschaft"
@@ -144,9 +142,6 @@
  form_country_foreign_azerbaijan_coring_states_tt:0 "Gewinnen Sie Kerne in allen §YAserbaidschanischen§! Staaten.\n"
 
  #Turkestan# ""
- form_turkestan_category:0 "Die zentralasiatische Einheit verwirklichen"
- form_turkestan_category_desc:0 "Seit langem streben wir nach einem vereinten Zentralasien. Schon einmal wurde ein vereinigter turkestanischer Staat aufgelöst, aber diesmal wollen wir vereint bleiben, also sollten wir den zweiten Staat Turkestan wiederherstellen."
- form_turkestan:0 "Turkestan bilden"
  TRK_UNITED_fascism:0 "Reich von Turkestan"
  TRK_UNITED_fascism_def:0 "das Kaiserreich Turkestan"
  TRK_UNITED_communism:0 "Volksrepublik Turkestan"
@@ -161,12 +156,9 @@
  form_country_turkmenistan_required_states_tt:0 "Kontrolliert alle §Yturkmenischen§! Staaten."
  form_country_tajikistan_required_states_tt:0 "Kontrolliert alle §Ytadschikischen§! Staaten."
  form_country_kyrgyzstan_required_states_tt:0 "Kontrolliert alle §Ykirgisischen§! Staaten."
- form_country_kazakhstan_coring_states_tt:0 "Gewinnt Kerne in allen §YKasachischen§! Staaten."
- form_country_uzbekistan_coring_states_tt:0 "Gewinnen Sie Kerne in allen §Yusbekischen§! Staaten.\n"
  form_country_turkmenistan_coring_states_tt:0 "Gewinnen Sie Kerne in allen §Yturkmenischen§! Staaten.\n"
  form_country_tajikistan_coring_states_tt:0 "Gewinnen Sie Kerne in allen §Ytadschikischen§! Staaten.\n"
  form_country_kyrgyzstan_coring_states_tt:0 "Erhalte Kerne in allen §YKirgisischen§! Staaten.\n"
- form_country_sinkiang_coring_states_tt:0 "Gewinnen Sie Kerne in allen Staaten von §YSinkiang§!.\n"
 
  #Celtic Union# ""
  form_celtic_union:0 "Bilde eine Keltische Union"
@@ -408,7 +400,6 @@
 
  #arabia ""
 
- form_arabia_britain_required_states_tt:0 "Kontrolliert alle §Ybritischen§! Staaten in Ägypten, Sudan, dem Nahen Osten und Arabien."
 
  is_baltic_union_tt:0 "Ist die §YBaltische Union§!"
  BAL_UNIFIED_baltic_unification:0 "Die baltische Einigung"
@@ -631,14 +622,22 @@ is_persian_empire_tt:0 "Hat §YPersische imperiale Ambitionen§! erreicht"
  MAR_connect_the_cities_desc:0 "Unser Territorium ist riesig, und unsere Straßen sind nur wenige und weit voneinander entfernt. Das müssen wir ändern."
  MAR_ethnic_collaboration:0 "Ethnische Zusammenarbeit"
  MAR_ethnic_collaboration_desc:0 "Wir müssen dafür sorgen, dass unsere gemeinsamen Bande unsere Union festigen und die [ROOT.GetAdjective]-Identität festigen, anstatt zu den alten ethnischen Rivalitäten zurückzukehren."
- MAR_state-funded_projects:0 "Staatlich geförderte Projekte"
- MAR_state-funded_projects_desc:0 "Unser wirtschaftliches Potenzial muss für unser Gemeinwohl mobilisiert werden."
+
+
+cts_desc:0 "Unser wirtschaftliches Potenzial muss für unser Gemeinwohl mobilisiert werden."
+
+
+[ROOT.GetLeader] muss mit einem Titel benannt werden, der seinem Ruhm gerecht wird."
+
+
+urcen sind unser größtes Kapital. Lasst uns die Schätze unter unseren Füßen freilegen."
+
+
+rm the Inuit Union"
+
+ntität festigen, anstatt zu den alten ethnischen Rivalitäten zurückzukehren."
  MAR_claim_a_fitting_title:0 "Anspruch auf einen passenden Titel"
  MAR_claim_a_fitting_title_desc:0 "[ROOT.GetLeader] muss mit einem Titel benannt werden, der seinem Ruhm gerecht wird."
- MAR_develop_mining:0 "Unsere Ressourcen entwickeln"
- MAR_develop_mining_desc:0 "Unsere Ressourcen sind unser größtes Kapital. Lasst uns die Schätze unter unseren Füßen freilegen."
 form_country_mamluks_no_arabia_tt:0 "Hasn't formed §YThe Arab Federation§!."
 form_inuit_union:0 "Form the Inuit Union"
-form_country_inuit_required_coring_states_tt:0 "Cores §YGreenland, Alaska and the north of Canada§!"
 
-orm_country_mamluks_no_arabia_tt:0 "Hasn't formed §YThe Arab Federation§!."
