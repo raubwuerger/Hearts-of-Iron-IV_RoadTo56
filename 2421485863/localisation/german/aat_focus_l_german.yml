@@ -408,7 +408,7 @@ FIN_preserve_sapmi_cores_tt: "\n§YJeder samische Kernstaat§!, der von [ROOT.Ge
 FIN_secure_the_baltic_sea_forts_tt: "\n§YFüge§! §G2 Stufen§! von §Y$Bunker$§! und §Y$Küstenbunker$§! zu jedem vollständig kontrollierten Staat in der Ostsee mit mindestens 2 Stufen von §Y$Naval_base$§! hinzu. \nAktuelle Auswirkungen:"
 FIN_secure_the_baltic_sea_dockyards_tt: "\n§YAdd§! §G2§! §YDockyards§! zu bis zu §Y2§! vollständig kontrollierten Staaten in der Ostsee. \nAktuelle Effekte:"
 FIN_control_the_flux_of_iron_ore_tt: "Fordert Kontrolle über die Zustände von §Y[666.GetName]§!, §Y[1029.GetName]§!, §Y[144.GetName]§!, §Y[1034.GetName]§! und §Y[1035.GetName]§!. \n[ROOT.GetFlag]§Y[ROOT.GetNameDefCap]§! gewinnt §Y$take_state_focus$§! Kriegsziel gegen jedes Land, das die [ROOT.GetAdjective] Forderungen ablehnt."
-FIN_proclaim_greater_finland_compliance_tt: "\nFügt §G70.0%§! Compliance zu jedem geforderten Staat hinzu, der von [ROOT.GetFlag][ROOT.GetNameDef] kontrolliert wird.\n\n"
+FIN_proclaim_greater_finland_compliance_tt: "\nFügt §G70.0%§! Zustimmung zu jedem geforderten Staat hinzu, der von [ROOT.GetFlag][ROOT.GetNameDef] kontrolliert wird.\n\n"
 FIN_integrate_kola_and_karelia_tt: "Fordert die Kontrolle über die Zustände von §Y[213.GetName]§!, §Y[215.GetName]§! und §Y[216.GetName]§!. \n[ROOT.GetFlag]§Y[ROOT.GetNameDefCap]§! gewinnt §Y$take_state_focus$§! Kriegsziel gegen jedes Land, das die [ROOT.GetAdjective] Forderungen ablehnt."
 FIN_keepers_of_the_baltic_countries_tt: "[ROOT.GetFlag]§Y[ROOT.GetNameDefCap]§! fordert die Annexion aller baltischen Untertanen der [ROOT.GetAdjective]-Fraktion. \n[ROOT.GetFlag]§Y[ROOT.GetNameDefCap]§! fordert jeden baltischen Staat, der von einem Verbündeten kontrolliert wird. \n[ROOT.GetFlag]§Y[ROOT.GetNameDefCap]§! fordert jeden baltischen Staat, der von einem neutralen oder feindlichen Land kontrolliert wird. \n§YJeder baltische Staat, der bereits von [ROOT.GetFlag][ROOT.GetNameDefCap]§! kontrolliert wird: Hinzufügen von §G+30.0%§! Einhaltung."
 FIN_red_finland_resistance_tt: "\nFügt §G-15.0%§! Widerstandsziel zu jedem kontrollierten Zustand mit aktivem Widerstand hinzu.\n\n"
@@ -2308,7 +2308,7 @@ DEN_advanced_flight_modifier_tt: "$DEN_modify_flyvevabnet_dynamic_modifier$: \n$
 
 #CONTINUOUS FOCUSES ""
 DEN_undermine_overlord_continuous_focus: "Overlord-Einfluss untergraben"
-FIN_socialist_welfare_compliance_tt: "Fügt §G+15.0%§! Compliance zu §Yedem kontrollierten Staat mit aktivem Widerstand§! hinzu."
+FIN_socialist_welfare_compliance_tt: "Fügt §G+15.0%§! Zustimmung zu §Yedem kontrollierten Staat mit aktivem Widerstand§! hinzu."
 difier_tt: "$DEN_modify_flyvevabnet_dynamic_modifier$: \n$MODIFIER_NAVAL_STRIKE_TARGETTING_FACTOR$: §G+10.%§! \n$MODIFIER_AIR_AGILITY_FACTOR$: §G+5%§!\n\n"
 
 #CONTINUOUS FOCUSES ""

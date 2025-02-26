@@ -559,7 +559,7 @@ EGY_suppress_sudanese_separatists_in_darfur_region:0 "Unterdrückung der Separat
 EGY_suppress_sudanese_separatists_in_darfur_region_desc:0 "$EGY_standard_suppression_description$"
 EGY_suppress_sudanese_separatists_in_upper_nile_region:0 "Unterdrückung der Separatisten in der Region Oberer Nil"
 EGY_suppress_sudanese_separatists_in_upper_nile_region_desc:0 "$EGY_standard_suppression_description$"
-EGY_high_compliance_reminder:0 "§Asollte die Compliance hoch genug werden, wird eine Entscheidung zur Integration dieses Staates in einen Kern zur Verfügung stehen.§!"
+EGY_high_compliance_reminder:0 "§Asollte die Zustimmung hoch genug werden, wird eine Entscheidung zur Integration dieses Staates in einen Kern zur Verfügung stehen.§!"
 EGY_exert_royal_influence_description:0 "Da der königliche Einfluss in den letzten Jahren in [SUD.GetAdjective] Staaten geschwunden ist, werden wir Propagandakampagnen durchführen, um die Menschen in dieser Region daran zu erinnern, wem gegenüber sie loyal sind."
 EGY_exert_royal_influence_in_khartoum_region:0 "Königlichen Einfluss in der Region Khartum ausüben"
 EGY_exert_royal_influence_in_khartoum_region_desc:0 "$EGY_exert_royal_influence_description$\n\n$EGY_high_compliance_reminder$"

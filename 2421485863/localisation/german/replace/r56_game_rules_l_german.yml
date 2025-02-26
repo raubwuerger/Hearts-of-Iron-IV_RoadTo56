@@ -662,13 +662,13 @@ idea_game_rule_resistance_increase_25:0 "Widerstandsspiel-Regel"
 idea_game_rule_resistance_decrease_25:0 "Widerstandsspiel-Regel"
 
 
-RULE_COMPLIANCE:0 "Compliance-Wachstum"
+RULE_COMPLIANCE:0 "Zustimmung-Wachstum"
 RULE_OPTION_DEFAULT_COMPLIANCE_DESC:0 "Wie im Basisspiel, was haben Sie erwartet?"
 RULE_OPTION_COMPLIANCE_25_MORE:0 "+0,25%/Tag"
 RULE_OPTION_COMPLIANCE_25_MORE_DESC:0 "Jedes Land gewinnt +0,25% Konformität/Tag in besetzten Staaten. "
 RULE_OPTION_COMPLIANCE_25_LESS:0 "-0,25%/Tag"
 RULE_OPTION_COMPLIANCE_25_LESS_DESC:0 "Jedes Land erhält -0,25% Konformität/Tag in besetzten Staaten."
-idea_game_rule_compliance_increase_25:0 "Compliance-Spielregel"
+idea_game_rule_compliance_increase_25:0 "Zustimmung-Spielregel"
 idea_game_rule_compliance_decrease_25:0 "Konformitätsspielregel"
 
 RULE_STARTING_AGENCIES:0 "Start-Agenturen"

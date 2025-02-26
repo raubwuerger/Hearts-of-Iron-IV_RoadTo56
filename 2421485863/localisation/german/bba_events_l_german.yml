@@ -555,7 +555,7 @@
  BBA_ethiopia_imperial_events.21.t:0 "Widerstand in [ETH.GetName]"
  BBA_ethiopia_imperial_events.21.desc:0 "Unsere Truppen durchbrechen weiterhin die [ETH.GetAdjective]-Kräfte und machen den Weg für unsere überlegene Herrschaft frei. Allerdings beobachten wir eine Zunahme der Widerstandsaktivitäten in unserem neuen Herrschaftsgebiet. Die Nachricht, dass der frühere Herrscher $ETH_haile_selassie$ vor dem Völkerbund gesprochen hat, scheint viele unserer neuen Untertanen in Aufruhr zu versetzen. Solange ihr Herrscher lebt, wird der Widerstand unserer Kolonialverwaltung ein Dorn im Auge sein."
  BBA_ethiopia_imperial_events.21.a:0 "Sie werden sich unserer Herrschaft auf die eine oder andere Weise unterwerfen."
- ETH_imperial_event_21_tt:0 "Alle kontrollierten §Y[ETH.GetFlag][ETH.GetAdjective]§! Staaten gewinnen:\nCompliance: §R-10%§!"
+ ETH_imperial_event_21_tt:0 "Alle kontrollierten §Y[ETH.GetFlag][ETH.GetAdjective]§! Staaten gewinnen:\nZustimmung: §R-10%§!"
 
 # Military and technology events ""
  BBA_ethiopia_military_and_tech_events.1.t:0 "Erste Klasse der [GetEthiopianMilitaryAcademyName]"

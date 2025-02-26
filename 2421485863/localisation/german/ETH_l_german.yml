@@ -33,7 +33,7 @@ ETH_hold_the_juba_confluence_mission_desc:0 "Einer unserer wenigen Siege in dies
 ETH_promote_infrastructure_development_in_from:0 "Förderung der Infrastrukturentwicklung in [FROM.GetName]"
 ETH_promote_construction_development_in_from:0 "Förderung der Bauentwicklung in [FROM.GetName]"
 ETH_state_development_production_speed_tt:0 "§YMax Fabriken im Staat§! §G+10%§!"
-ETH_state_development_local_building_tt:0 "Y§Lokale Baugeschwindigkeit§! §G+10%§!"
+ETH_state_development_local_building_tt:0 "§YLokale Baugeschwindigkeit§! §G+10%§!"
 
 
 italo_ethiopian_war:0 "Italien unterzeichnete den Frieden unter Androhung der diplomatischen Isolation."

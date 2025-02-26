@@ -1610,7 +1610,7 @@ AUS_alpine_infantry_tt:0 "\nErmöglicht §HAlpine Infantry§!\n§HAll Infantry &
 anti_moscow_comm:0 "Ungehorsam gegenüber der sowjetischen Internationalen Linie"
 AUS_sov_relations:0 "§YDas wird die Beziehungen zu Moskau erheblich verbessern und ihre Unterstützung bei unserem Versuch, die Regierung zu stürzen, garantieren, aber diese Hilfe gibt es nicht umsonst!§!\n"
 AUS_desertion:0 "§YMit den Soldaten, die aus dem Bundesheer desertieren, ist die Zahl unserer Mitglieder, die bereit sind, für ihre Freiheit zu kämpfen, gestiegen.§!\n"
-AUS_desertion2:0 "§Bei Ausbruch des Bürgerkriegs werden wir§! §G3§! §Yextra Einheiten erhalten!§!\n"
+AUS_desertion2:0 "§YBei Ausbruch des Bürgerkriegs werden wir§! §G3§! §Yextra Einheiten erhalten!§!\n"
 AUS_purged_minister:0 "§RMinister gefegt§!\n"
 AUS_purged_ministers_tt:0 "§YWir werden alle rechten Agitatoren der vorherigen Regierung jagen und verhaften.§!\n"
 AUS_nazi_loyalties:0 "Nazi-Sympathien"

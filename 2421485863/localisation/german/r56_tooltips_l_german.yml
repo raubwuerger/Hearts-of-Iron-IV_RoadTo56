@@ -1,9 +1,9 @@
 ﻿l_german:
 r56_enable_deep_battle_tt:0 "§WEnable Tactics:§! §YMasterful Backhand Blow§!"
 r56_enable_motti_tactics:0 "§WEnables Tactic:§! §YMasterful Sudden Envelopment§! >Eigene finnische Taktik. Ersetzt Plötzliche Umhüllung nach Fokus."
-is_core_or_compliance_30_tt:0 "ist ein Kern seines §YController§! oder hat §Y30 Compliance§!\n"
-is_core_or_compliance_30_tt_NOT:0 "ist NICHT ein Kern seines §YController§! oder hat §Y30 Compliance§!\n"
-state_has_compliance_30_tt:0 "hat §Y30 Compliance§!\n"
+is_core_or_compliance_30_tt:0 "ist ein Kern seines §YController§! oder hat §Y30 Zustimmung§!\n"
+is_core_or_compliance_30_tt_NOT:0 "ist NICHT ein Kern seines §YController§! oder hat §Y30 Zustimmung§!\n"
+state_has_compliance_30_tt:0 "hat §Y30 Zustimmung§!\n"
 available_materiel_manufacturer:0 "§GAvailable§! as §HMateriel Manufacturer§!:"
 available_tank_designer:0 "§GAvailable§! as §HTank Designer§!:"
 available_ship_designer:0 "§GAvailable§! as §HShip Designer§!:"
