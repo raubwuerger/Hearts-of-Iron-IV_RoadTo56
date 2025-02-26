@@ -111,8 +111,10 @@
  nav_cas_producer_mass_1:0 "Masse leichte bomber Hersteller"
  nav_cas_producer_mass_2:0 "Leichter Massenbomber Hersteller"
 
+ flying_ship_manufacturer:0 "Maritime Patrouille Hersteller"
 
  jet_concern:0 "Strahltriebwerke Hersteller"
+ jet_aircraft_manufacturer:0 "Düsenjäger Hersteller"
  medium_aircraft_manufacturer_2:0 "Hersteller mittlerer Flugzeuge"
  heavy_aircraft_manufacturer_2:0 "Hersteller schwerer Flugzeuge"
 
@@ -187,6 +189,8 @@
  construction_concern:0 "Baukonzern"
  refinery_concern:0 "Raffinerie-Konzern"
 
+ medium_aircraft_manufacturer_2:0 "Mittelgroßer Flugzeugkonstrukteur"
+ heavy_aircraft_manufacturer_2:0 "Schwerer Flugzeugkonstrukteur"
 
  generic_train_equipment_manufacturer_r56:0 "[Root.Capital.GetName] Lokomotivwerk"
 
@@ -214,5 +218,3 @@
 
  generic_mio_trait_multi_task_mining_equipment:0 "Multitasking-Bergbauausrüstung"
  generic_mio_trait_radio_navigation_patrolling:0 "Funknavigation für Patrouillenfahrten #realistisch gesehen viel nützlicher als nur ein bisschen Anerkennung."
-navigation_patrolling:0 "Funknavigation für Patrouillenfahrten #realistisch gesehen viel nützlicher als nur ein bisschen Anerkennung."
-g:0 "Funknavigation für Patrouillenfahrten #realistisch gesehen viel nützlicher als nur ein bisschen Anerkennung."

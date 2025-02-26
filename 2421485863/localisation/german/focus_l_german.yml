@@ -550,6 +550,7 @@
  ITA_spanish_italian_faction_desc:0 "Franco und die spanischen Nationalisten sind unsere natürlichen Verbündeten, geeint durch Religion, Kultur und Ideologie. Gemeinsam könnten wir Gibraltar einnehmen und der Royal Navy das Leben sehr schwer machen..."
  ITA_italian_highways:0 "Italienische Autobahnen"
  ITA_italian_highways_desc:0 "Wir müssen unsere Infrastruktur ausbauen, um die Mobilität unserer Truppen in unserem Reich zu gewährleisten. Angesichts von Feinden an jeder Ecke der Welt ist dies ein entscheidender Faktor für die Verteidigung des gesamten italienischen Bodens."
+ ITA_libyan_refineries:0 "Libysche Raffinerien"
  ITA_libyan_refineries_desc:0 "Benhasi ist ein idealer Ort für den Bau von Raffinerien. Er liegt in der Nähe der Ölquellen und der Produktion im Heimatland."
  ITA_libyan_infrastructure:0 "Libysche Infrastruktur"
  ITA_libyan_infrastructure_desc:0 "Unsere ausgedehnten Ländereien in Nordafrika sind in Bezug auf die Infrastruktur immer noch im Rückstand gegenüber dem Rest unseres Reiches. Wir sollten unsere Anstrengungen darauf konzentrieren, sie auf den gleichen Stand zu bringen."
@@ -908,6 +909,7 @@
  USA_issue_war_bonds:0 "Ausgabe von Kriegsanleihen"
  USA_issue_war_bonds_desc:0 "Mit Kriegsanleihen setzen wir auf die Unterstützung der Kriegsanstrengungen und den Patriotismus der Bevölkerung, um die Militärausgaben zu finanzieren."
  USA_office_of_strategic_services:0 "Büro für strategische Dienste"
+ USA_office_of_strategic_services_desc:0 "Die Einrichtung eines eigenen Nachrichtendienstes wird nicht nur den Krieg, sondern auch künftige Operationen im Ausland unterstützen. Die britischen Nachrichtendienste können als Modell dienen."
  USA_wartime_industry:0 "Industrie in Kriegszeiten"
  USA_wartime_industry_desc:0 "Wir haben eine starke Industrie, aber nicht alle sind für die Produktion von Kriegsmaterial geeignet. Effiziente Verfahren zur Erleichterung dieses Wandels zu finden, wird der Schlüssel zur Nutzung unserer Ressourcen sein."
  USA_first_special_service_force:0 "Erste Sondereinsatztruppe"
@@ -1106,10 +1108,16 @@
  FRA_defensive_focus_desc:0 "In Zeiten wie diesen ist es am besten, unsere Abwehrkräfte zu stärken. Wenn es Bedrohungen gibt, sollen sie zu uns kommen, damit wir sie in unserem eigenen Land bekämpfen können. Wir haben den perfekten Kandidaten für die Führung unserer Armee, wir brauchen nur Ihr Wort."
  FRA_aggressive_focus:0 "Aggressiver Fokus"
  FRA_aggressive_focus_desc:0 "Wir können nicht tatenlos zusehen, wie Feinde an unsere Grenzen heranrücken. Und wir können unsere Verbündeten in einem Kriegsszenario nicht sich selbst überlassen. Bereiten Sie unsere Armee vor! Gamelin ist der richtige Mann für diese Aufgabe."
+ FRA_fortification_focus:0 "Schwerpunkt Festungsbau"
+ FRA_fortification_focus_desc:0 "So wichtig unsere Festungen auch waren, wir müssen Wege finden, sie effizienter zu bauen. Die Maginot-Linie war eine starke Abschreckung für die feindlichen Streitkräfte, und wir könnten noch mehr solcher Verteidigungsanlagen gebrauchen."
  FRA_heavy_armor_focus:0 "Char de Bataille"
  FRA_heavy_armor_focus_desc:0 "Kampfpanzer sind der Weg in die Zukunft für die französische Armee. Wir wollen das Schlachtfeld kontrollieren, und dafür brauchen wir neue, leistungsfähige Panzer!"
+ FRA_motorized_focus:0 "Motorisierter Schwerpunkt"
+ FRA_motorized_focus_desc:0 "Wenn wir bessere Wege finden, unsere Infanteriefahrzeuge zu bauen, werden wir besser in der Lage sein, die Frontlinien zu unterstützen und zu verstärken."
  FRA_light_medium_armor:0 "Automitrailleuses"
  FRA_light_medium_armor_desc:0 "Laut Gesetz kontrolliert die Infanterie alle Panzertruppen. Die leichteren, schnelleren Kavallerie-'Fahrzeuge' oder Automitrailleuses sind besser für Reisen geeignet und können mit ihren montierten Waffen immer noch etwas Schaden anrichten."
+ FRA_army_reform:0 "Heeresreform"
+ FRA_army_reform_desc:0 "Weder eine Infanterieeinheit noch ein High-Tech-Panzer allein werden den Krieg für uns gewinnen. Wir müssen unsere Anstrengungen darauf richten, sowohl unsere taktischen als auch unsere strategischen Fähigkeiten auszubauen. Mit den richtigen Leuten an der Spitze können wir uns als Armee weiterentwickeln."
  FRA_navy_focus:0 "Schwerpunkt Marine"
  FRA_navy_focus_tt:0 "Nicht genügend Gebäudeslots für §YMarinestützpunkt§!"
  FRA_navy_focus_desc:0 "Wenn wir unsere Marine ausbauen wollen, ist der erste Schritt die Verbesserung und Erweiterung unserer Marinestützpunkte. Unsere einzigartigen Schiffe erfordern ständige Aufmerksamkeit, um jederzeit kampfbereit zu sein."
@@ -1133,10 +1141,16 @@
  FRA_join_comintern_desc:0 "Da wir überall Feinde haben, müssen wir unsere Position mit einigen mächtigen Verbündeten stärken. Unsere Verbindungen zur Komintern sind stärker geworden, und es ist an der Zeit, uns ganz ihrer Sache zu widmen."
  FRA_support_status_quo:0 "Unterstützt den Status Quo"
  FRA_support_status_quo_desc:0 "Frankreich ist die Wiege und der Beschützer der Freiheit und sollte dies auch bleiben. Wenn wir jemals wieder Einheit erreichen wollen, dann müssen wir unsere Demokratie stabilisieren, bevor sie schwindet."
+ FRA_little_entente:0 "Kleine Entente"
+ FRA_little_entente_desc:0 "Die Kleine Entente, ein Bündnis, das nach dem Ersten Weltkrieg geschlossen wurde, um eine Aggression Österreichs und Ungarns gegen ihre Nachbarn zu verhindern, wurde von Frankreich unterstützt, beginnt nun aber zu zerfallen. Anstatt sich an Großbritannien zu binden, sollten wir die Initiative zur Wiederherstellung und Konsolidierung dieser Fraktion ergreifen, angefangen bei ihren Gründern in der Tschechoslowakei."
+ FRA_go_with_britain:0 "Mit Großbritannien gehen"
+ FRA_go_with_britain_desc:0 "Da sich Russland für immer verändert hat, sind von der alten Triple Entente nur noch Frankreich und Großbritannien übrig. Wenn sich die Geschichte nicht wiederholen soll, müssen wir dafür sorgen, dass diese beiden Nationen, Bastionen der Demokratie und Freiheit in Europa, Verbündete bleiben."
  FRA_strengthen_government_support:0 "Die Regierung stärken"
  FRA_strengthen_government_support_desc:0 "Wir haben für das kommende Jahr Pläne gemacht, die den Wünschen der Menschen in allen Teilen Frankreichs entsprechen. Zeigen Sie ihnen, dass wir handlungsfähig und würdig sind, Frankreich zu regieren, damit wir wieder geeint dastehen."
  FRA_defensive_strategems:0 "Defensive Strategeme"
  FRA_defensive_strategems_desc:0 "Wenn wir wollen, dass die Menschen in Frankreich einen Krieg für uns führen, ist es wichtiger denn je, dass wir eine klare Richtung haben. Wir müssen aufhören, uns untereinander zu bekämpfen und stattdessen für Frankreich und "Liberté, égalité, fraternité" kämpfen."
+ FRA_invite_yugoslavia:0 "Jugoslawien einladen"
+ FRA_invite_yugoslavia_desc:0 "Jugoslawien hat schon genug Sorgen, ohne sich um expansionistische Nachbarn kümmern zu müssen. Es in die Kleine Entente zurückzubringen, wäre ein großer Dienst für sie und für uns."
  FRA_polish_guarantee:0 "Polnische Bürgschaft"
  FRA_polish_guarantee_desc:0 "Polnische Diplomaten haben sich besorgt über die Spannungen an ihren Grenzen geäußert. Eine Garantie unserer mächtigen Nation sollte jeden abschrecken, der eine Invasion plant."
  FRA_czech_guarantee:0 "Tschechische Garantie"
@@ -1651,32 +1665,31 @@
  USA_naval_radar_desc:1 "Radar bietet verlockende Möglichkeiten, unseren Feinden den Schutz der Nacht zu nehmen und sie auch bei schlechtem Wetter aufzuspüren."
  USA_fleet_submarines:1 "Flotte U-Boote"
  USA_fleet_submarines_desc:1 "Unsere wahrscheinlichsten Gegner im Seekrieg sind beide auf den Außenhandel angewiesen, der sich als sehr anfällig für U-Boote erwiesen hat. Diese U-Boote müssten eine sehr große Reichweite haben, damit sie die Ozeane überqueren und nahe an der gegnerischen Küste operieren können."
- 
-
- 
-
-zur Kontrolle der U-Boot-Kriegsführung das Papier nicht wert ist, auf dem er geschrieben steht. Wir sollten uns nicht an etwas gebunden fühlen, das unsere Feinde ohnehin ignorieren werden."
- 
-
- 
-
-wird es §Y230 Tage§! dauern, bis weitere New-Deal-Gesetze ausgearbeitet und unterschriftsreif sind.\n\n"
- 
-
- 
-
-ft zu mobilisieren.\n\n"
- 
-
- 
-
-en hat unsere Loyalität erzwungen."
- 
-
-fällig für U-Boote erwiesen hat. Diese U-Boote müssten eine sehr große Reichweite haben, damit sie die Ozeane überqueren und nahe an der gegnerischen Küste operieren können."
+ USA_unrestricted_submarine_warfare:1 "Uneingeschränkte U-Boot-Kriegsführung"
+ USA_unrestricted_submarine_warfare_desc:1 "Die Geschichte hat gezeigt, dass jeder noch so gut gemeinte Vertrag zur Kontrolle der U-Boot-Kriegsführung das Papier nicht wert ist, auf dem er geschrieben steht. Wir sollten uns nicht an etwas gebunden fühlen, das unsere Feinde ohnehin ignorieren werden."
  can_degaussing_tech:0 "Erlangung der Degaussing-Technologie"
  USA_great_depression_cooldown:0 "Neue Gesetzgebung ist noch in Arbeit"
  USA_great_depression_cooldown_tt:0 "Nach der Verabschiedung dieses Gesetzes wird es §Y230 Tage§! dauern, bis weitere New-Deal-Gesetze ausgearbeitet und unterschriftsreif sind.\n\n"
+ USA_limited_intervention_tt:0 "\n\nDie Verabschiedung dieses Gesetzes wird es §Rerheblich schwieriger§! machen, Ihre Wirtschaft zu mobilisieren.\n\n"
  britain_enforced_our_loyalty:0 "Großbritannien hat unsere Loyalität erzwungen."
+ sirte_oil_developed:0 "Sirte-Ölfelder erschlossen"
+ benghazi_oil_developed:0 "Benghazi-Ölfelder erschlossen"
+ TREE_FILTER_TOGGLE:0 "§GKlicken Sie auf§!, um weitere Filter einzublenden"
+ confirm_cancel_national_focus:0 "Nationalen Fokus aufheben"
+ confirm_cancel_national_focus_progress_loss_singular:0 "Du verlierst §R$LOST_DAYS$§! Tag an Fortschritt."
+ confirm_cancel_national_focus_progress_loss_plural:0 "Sie verlieren §R$LOST_DAYS$§! Tage des Fortschritts."
+ confirm_cancel_national_focus_desc:0 "Sind Sie sicher, dass Sie den nationalen Fokus §H$FOCUS_NAME$§! aufheben wollen?"
+ SOV_THE_USSR_NAME_COMMUNIST:0 "die UdSSR"
+ SOV_THE_USSR_NAME_EXILES:0 "Russland"
+ SOV_RUSSIANS_DEMONYM_SOVIETS:0 "Sowjets"
+ SOV_RUSSIANS_DEMONYM_RUSSIANS:0 "Russen"
+ SWI_add_forts_bordering:0 "[ROOT.GetNameDef] gewinnt §H2 Landforts§! in jeder benachbarten Provinz.\n\n"
+ GER_historical_path_shortcut: "Politik: Historisches"
+ GER_economic_path_shortcut: "Wirtschaft"
+ GER_oppose_hitler_shortcut: "Politik: Opposition"
+ GER_military_doctrine_shortcut: "Die Armee"
+ GER_air_doctrine_shortcut: "Die Luftwaffe"
+ GER_naval_doctrine_shortcut: "Die Marine"
  
+ FOCUS_SHORTCUT_TOOLTIP: "§GLinksklick§! um den Pfad $PATH|H$ zu wechseln."
 

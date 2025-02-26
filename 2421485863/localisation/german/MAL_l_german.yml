@@ -205,6 +205,7 @@ mal_trade_success:0 "Erfolgreiche Handelsmission"
 mal_trade_failure:0 "Erfolglose Handelsmissionen"
 
 mal_trade_decisions:0 "Koloniale Handelsmissionen"
+mal_trade_decisions_desc:0 "Aktuelle Offmap-Fabriken: §G[?mal_trade_factory_total]§!"
 
 mal_trade_decisions_external:0 "Finanzielle Entscheidungen"
 mal_trade_decisions_external_desc:0 ""
@@ -520,14 +521,18 @@ mal_fascist_denied:0 "Verweigerte Freiheit"
 
 MAL_monarchy_party:0 "Royalisten"
  MAL_monarchy_party_long:0 "Malaiische Royalisten"
+MAL_fascism_party:0 "NM" #Junge Malaysische Union
   MAL_fascism_party_long:0 "Kesatuan Melayu Muda"
 MAL_fascism_party_puppet:0 "PETA"
   MAL_fascism_party_puppet_long:0 "Sembela Tanah Ayer" #Verteidiger des Mutterlandes
+MAL_democratic_party:0 "Kertubuhan Kebangsaan Melayu Bersatu oder UMNO oder PEKEMBAR"
   MAL_democratic_party_long:0 "EKEMBAR" #oder UMNO oder PEKEMBAR
 MAL_democratic_party_puppet:0 "KM"
   MAL_democratic_party_puppet_long:0 "Kesatuan Melayu"
+MAL_communism_party:0 "CP oder MCP"
   MAL_communism_party_long:0 "Parti Komunis Malaya oder MCP"
 MAL_neutrality_party_puppet:0 "Kerajaan Penjajah"
+MAL_neutrality_party:0 "AMCJA"
   MAL_neutrality_party_long:0 "All-Malaya Council of Joint Action"
 
 MAL_democratic_umno:0 "UMNO"
@@ -538,20 +543,5 @@ MAL_democratic_imp_long:0 "Parti Kemerdekaan Malaya"
 
 
 #tooltips ""
-
-
-#tooltips ""
-singapore_tooltip:0 "Dies tut derzeit nichts"
-
-
-#tooltips ""
-
-#tooltips ""
-"
-
-#tooltips ""
-erzeit nichts"
-
-#tooltips ""
+MAL_status_quo_tooltip:0 "Nur zur Verwendung durch AI."
 MAL_singapore_tooltip:0 "Dies tut derzeit nichts"
-tip:0 "Nur zur Verwendung durch AI."

@@ -159,8 +159,14 @@
  POL_nationwide_fascist_displays:0 "Landesweite faschistische Demonstrationen"
  POL_appoint_nationalist_ministers:0 "Nationalistische politische Kampagnen"
  POL_completing_miedzymorze_decision:0 "Bereits mit einem anderen Land verhandeln"
+ form_turkestan_category:0 "Die türkische Nation bilden"
+ form_turkestan_category_desc:0 "Im Laufe unserer Geschichte sind die Turkvölker unzählige Male geeint und geteilt worden. Wenn es uns gelingt, die gesamte zentralasiatische Region unter unsere Kontrolle zu bringen, werden wir in der Lage sein, das Erbe der großen türkischen Khane vor uns zurückzufordern und unsere Völker zu einer Nation zu vereinen!"
+ form_turkestan:0 "Vereint die Türken"
  form_country_kazakhstan_required_states:0 "Kontrolliert alle §Ykasachischen§! Staaten."
  form_country_uzbekistan_required_states:0 "Kontrolliere alle §YUsbekischen§! Staaten."
+ form_country_kazakhstan_coring_states_tt:0 "Gewinnen Sie Kerne in allen §YKasachischen§! Staaten."
+ form_country_uzbekistan_coring_states_tt:0 "Gewinnen Sie Kerne in allen §Yusbekischen§! Staaten."
+ form_country_sinkiang_coring_states_tt:0 "Gewinnen Sie Kerne in allen §YSinkiang§!-Staaten."
  POL_promote_falangism_decisions:0 "Fördere den Falangismus"
  POL_promote_falangism_decisions_desc:0 "Der Krieg mit den Deutschen steht vor der Tür, und obwohl wir waffentechnisch unterlegen sind, kann [GER.GetLeader] nicht darauf hoffen, alle [GER.GetLeader.GerHerHis] Feinde auf einmal zu eliminieren! Mit der richtigen falangistischen Unterstützung in der Bevölkerung können die guten katholischen Nationen der Welt sich uns in unserem Kampf gegen [GER.GetNameDef] anschließen."
  POL_promote_falangism:0 "Fördern Sie den Falangismus in [FROM.Owner.GetNameDef]"
@@ -990,18 +996,9 @@
  form_idel_ural_category:0 "Idel-Uralische Wiedervereinigung"
  form_idel_ural_category_desc:0 "Am 1. März 1918 versuchte der Milli Mejlis, auch bekannt als Nationalrat, die Gründung einer Idel-Uralischen Republik auszurufen, wurde jedoch von beiden Seiten des Bürgerkriegs vereitelt. Heute ist das Konzept einer einheitlichen Nation in der Region noch weitgehend unerforscht, aber wenn man sie ausrufen würde, um das Volk vor dem russischen Imperialismus zu schützen, wäre die Unterstützung des Volkes groß."
  form_idel_uralic_republic:0 "Verwirklichung der Träume der Milli Mejlis"
-
-
-m_baltic_federation_flag:0 "Die §YBaltische Föderation§! ist gegründet worden"
-
-
-ts ins Visier genommen"
-
-
-eorganisiert das Eisenbahnsystem"
-
-h die Umleitung von Baumaterialien und Eisenbahnarbeitern können wir schnell eine kleine Anzahl von behelfsmäßigen Versorgungsdepots entlang einiger unserer Eisenbahnstrecken schaffen. Dies ist jedoch keine nachhaltige Art, das System zu betreiben. \nDiese Entscheidung kann nur einmal getroffen werden. §YDer Bonus verschwindet, wenn du mehr als 3 zusätzliche Versorgungszentren errichtest.§!"
+ form_baltic_federation_flag:0 "Die §YBaltische Föderation§! ist gegründet worden"
  banned_fascism_flag:0 "Hat den Faschismus geächtet"
  already_targeted_flag:0 "Wurde bereits ins Visier genommen"
 
+ restructure_supply_system:0 "Reorganisiert das Eisenbahnsystem"
  restructure_supply_system_desc:0 "Durch die Umleitung von Baumaterialien und Eisenbahnarbeitern können wir schnell eine kleine Anzahl von behelfsmäßigen Versorgungsdepots entlang einiger unserer Eisenbahnstrecken schaffen. Dies ist jedoch keine nachhaltige Art, das System zu betreiben. \nDiese Entscheidung kann nur einmal getroffen werden. §YDer Bonus verschwindet, wenn du mehr als 3 zusätzliche Versorgungszentren errichtest.§!"

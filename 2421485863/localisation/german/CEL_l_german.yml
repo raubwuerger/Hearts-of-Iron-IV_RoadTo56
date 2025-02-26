@@ -162,7 +162,10 @@
  CEL_integrate_areas_desc:0 "Nach der Vereinigung aller keltischen Länder ist der nächste logische Schritt die vollständige Integration aller Gebiete und ihrer jeweiligen Ressourcen in die Union."
  CEL_scottish_steel_sector:0 "Schottische Stahlwerke"
  CEL_scottish_steel_sector_desc:0 "Der schottische Stahlsektor ist für unsere industrielle Entwicklung von entscheidender Bedeutung."
+ CEL_develop_the_shale_oil_sector:0 "Entwicklung des Schieferölsektors"
+ CEL_develop_the_shale_oil_sector_desc:0 "Der schottische Schieferölsektor kann zu unserer energetischen Unabhängigkeit beitragen."
  CEL_dingham_munition_factory:0 "Dingham Munitionsfabrik"
+ CEL_dingham_ammunition_factory_desc:0 "Die Fabrik in Dingham hat das Potenzial, das Zentrum unserer Rüstungsproduktion in Schottland zu werden."
  CEL_develop_ireland:0 "Irland entwickeln"
  CEL_develop_ireland_desc:0 "Irland, die Smaragdinsel, verfügt über viele wertvolle Industriekomplexe und Ressourcen, die zu vernachlässigen unklug wäre! "
  CEL_appropriate_harland_and_wolff:0 "Aneignung von Harland und Wolff"
@@ -257,4 +260,3 @@
  BRI_yann_goulet:0 "Yann Goulet".
  BRI_pierre_de_maismont:0 "Pierre de Maismont".
  BRI_jean_chanteau:0 "Jean Chanteau".
-s_de_bollardiere:0 "Jacques Pâris de la Bollardière".

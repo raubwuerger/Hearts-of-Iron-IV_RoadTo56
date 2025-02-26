@@ -12,6 +12,7 @@
  ITA_pietro_gazzera:0 "Pietro Gazzera"
  ITA_umberto_zanotti_bianco:0 "Umberto Zanotti Bianco"
  r56_ITA_vanquish_ethiopia_failed:0 "Italien kapituliert vor Äthiopien und unterzeichnet einen weißen Frieden."
+ ITA_defeat_in_ethiopia_flag:0 "Wird im Krieg von [ETH.getNameDef] besiegt."
 
  # Traits
  soldier_king:0 "Soldat König"
@@ -19,6 +20,7 @@
  #Tooltips
 
  ITA_royal_intervention_tt:0 "Monarchistische Loyalisten und königstreue Militärs beginnen einen §YBürgerkrieg§! gegen die Faschisten!"
+ aoi_founded_tt:0 "§Y[AOI.GETNAME]§! wird Äthiopien als §Yeigenständiger Staat§! §Yfreigelassen§!"
  r56_aoi_founded_warning_tt:0 "§Y[AOI.GETNAME]§! das Eigentum an den äthiopischen Staaten wird aufgrund unseres §RKrieges§! mit §Y[ETH.GETNAMEDEF]§! §Rangefochten werden§!."
 
 
@@ -284,6 +286,7 @@
  ITA_victory_in_ethiopia_desc:0 "Nach Jahrzehnten der Demütigung ist es uns endlich gelungen, unsere Niederlage gegen Äthiopien zu überwinden. Ein solcher Sieg kann das Vertrauen des Volkes in Mussolinis Regierung nur stärken."
  ITA_the_desillusion_of_fascism:0 "Die Zerschlagung des Faschismus"
  ITA_the_desillusion_of_fascism_desc:0 " #//WIP"
+ ITA_ratify_the_stresa_front:0 "Wiederbelebung der Stresa-Front"
  ITA_ratify_the_stresa_front_desc:0 "Die Stresa-Front war ein Abkommen zwischen Italien, Frankreich und dem Vereinigten Königreich, um die Unabhängigkeit Österreichs zu erhalten und den Versailler Vertrag zu bekräftigen. Die Ambitionen von [GER.GetNameDefCap] werden irgendwann auf unsere stoßen, also sollten wir uns gegen sie verbünden."
  ITA_ratify_the_stresa_front_tt:0 "Wir werden §Y[ENG.GetNameDef]§! und §Y[FRA.GetNameDef]§! bitten, die §YStresa Front§! gegen §Y[GER.GetNameDef]§! zu reformieren. Beide müssen das Angebot annehmen, andernfalls wird dieser Fokus §Raufgegeben§!.\n"
  ITA_stresa_front_refused_flag:0 "Die Reformation der Stresa-Front wurde abgelehnt."
@@ -325,6 +328,7 @@
  ITA_officialize_the_albanian_protectorate:0 "Das albanische Protektorat legitimieren"
  ITA_formalize_the_albanian_protectorate:0 "Formalisierung des albanischen Protektorats"
  ITA_formalize_the_albanian_protectorate_desc:0 "Ohne eine direkte Annexion wäre die Einrichtung einer stärkeren italienischen Aufsicht über die politischen Entscheidungen in Albanien ausreichend, um es zu einem offiziellen Protektorat zu machen, ohne den Zorn der Alliierten auf sich zu ziehen."
+ ITA_demand_dalmatia:0 "Forderung nach Dalmatien"
  ITA_demand_dalmatia_desc:0 "Eine Frage ist noch immer ungelöst, nämlich die nach Dalmatien, das Italien am Ende des Ersten Weltkriegs versprochen worden war. Mit der Unterstützung unserer Verbündeten sollten wir [YUG.GetNameDef] leicht überzeugen können, uns diese Provinz zu überlassen."
  ITA_preventive_intervention:0 "Vorbeugende Intervention"
  ITA_preventive_intervention_desc:0 "Kein Vertrag, keine Sanktionen und keine Warnungen werden [GER.GetNameDef] zurückdrängen. Für die allgemeine Sicherheit Europas ist eine Intervention gegen sie notwendig."
@@ -416,6 +420,8 @@
  ITA_alpini_desc:0 "Die Alpinis sind eine auf den Gebirgskampf spezialisierte Truppe, die sich in den Schlachten gegen Österreich-Ungarn bewährt hat. Es ist an der Zeit, sie zu modernisieren."
  ITA_modernise_the_fanti_dell_aria:0 "Modernisieren "
  ITA_modernize_the_fanti_dell_aria:0 "Modernisieren Sie die Fanti Dell'Aria"
+ ITA_fanti_dell_aria:0 "Fanti Dell'Aria"
+ ITA_fanti_dell_aria_desc:0 "Die Fanti Dell'Aria, die insbesondere auf Anregung des libyschen Gouverneurs Italo Balbo entstanden sind, sind Fallschirmtruppen, die vor allem zur Verteidigung der Kolonien eingesetzt werden."
  ITA_nationalize_the_banking_sector:0 "Verstaatlichung des Bankensektors"
  ITA_nationalize_the_banking_sector_desc:0 "Die finanziellen Schwierigkeiten der Großen Depression, die brutale Deflation und die Kosten des Krieges in Äthiopien zeigen, dass der Finanzsektor nur unter strenger staatlicher Aufsicht angemessen funktionieren kann. Wir werden ein Dekret unterzeichnen, um den Bankensektor unter staatliche Kontrolle zu stellen."
  ITA_expand_the_iri_role:0 "Ausweitung der Rolle der IRI"
@@ -667,6 +673,8 @@ ferrari:0 "Auto Costruzioni Ferrari"
 societa_meridionale_elettricita:0 "Meridionale Elektrizitätsgesellschaft"
 societa_montecatini:0 "Gesellschaft Montecatini"
 ferrovie_meridionali_sarde:0 "Ferrovie Meridionali Sarde"
+scotti:0 "Scotti"
+pirelli:0 "Pirelli"
 ITA_finsider:0 "Finsider"
 ITA_aeronautica_lombarda:0 "Aeronautica Lombarda"
 
@@ -697,9 +705,6 @@ ITA_follow_pariani_plan_re_tt:0 "$ITA_modify_regio_esercito_dynamic_modifier_ns_
  ITA_ally_yugoslavia: "Jugoslawien auf Linie bringen"
  ITA_ally_yugoslavia_desc: ""
  ITA_pressure_country_government_YUG:0 "Druck [FROM.GetAdjective] Regierung"
-ntry_government_YUG_desc:0 "Wir werden die [FROM.GetAdjective]-Regierung unter Druck setzen, damit sie eine Politik verfolgt, die unseren Interessen besser entspricht."
-rden politische Kundgebungen in ganz [FROM.GetNameDef] durchführen, um [ROOT.GetIdeologyNameWithCaps] unter den [FROM.GetAdjective]-Massen zu fördern."
-ive] Regierung"
-UG_desc:0 "[ROOT.GetAdjective]-Agenten werden politische Kundgebungen in ganz [FROM.GetNameDef] durchführen, um [ROOT.GetIdeologyNameWithCaps] unter den [FROM.GetAdjective]-Massen zu fördern."
+ ITA_pressure_country_government_YUG_desc:0 "Wir werden die [FROM.GetAdjective]-Regierung unter Druck setzen, damit sie eine Politik verfolgt, die unseren Interessen besser entspricht."
  ITA_promote_ideology_rallies_YUG:0 "Förderung von Ideologie-Kundgebungen in [FROM.GetNameDef]"
  ITA_promote_ideology_rallies_YUG_desc:0 "[ROOT.GetAdjective]-Agenten werden politische Kundgebungen in ganz [FROM.GetNameDef] durchführen, um [ROOT.GetIdeologyNameWithCaps] unter den [FROM.GetAdjective]-Massen zu fördern."

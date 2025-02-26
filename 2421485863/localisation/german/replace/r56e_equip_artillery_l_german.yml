@@ -7,8 +7,12 @@
  anti_air_equipment_1:0 "Leichte Luftabwehr '36"
  anti_air_equipment_1_short:0 "Leichte Luftabwehr '36"
  anti_air_equipment_1_desc:0 "Die Luftabwehrartillerie ist in erster Linie auf den Abschuss feindlicher Flugzeuge ausgerichtet. Schnellfeuerkanonen können jedoch auch gegen Bodenziele wirksam sein."
+ anti_air_equipment_2:0 "Leichte Luftabwehr '40"
  anti_air_equipment_2_short:0 "Leichte Luftabwehr '40"
+ anti_air_equipment_2_desc:0 "Luftabwehrkanonen mit längeren Patronen und Läufen. Kann hoch fliegende Flugzeuge ins Visier nehmen."
+ anti_air_equipment_3:0 "Leichte Luftabwehr '43"
  anti_air_equipment_3_short:0 "Leichte Luftabwehr '43"
+ anti_air_equipment_3_desc:1 "Ein fortschrittliches mobiles Flakgeschütz mit größerer Reichweite und Feuerkapazität, das selbst die schnellsten und höchsten feindlichen Flugzeuge bekämpfen kann."
  anti_air_equipment_x:0 "Leichte Luftabwehr '48"
  anti_air_equipment_x_short:0 "Leichte Luftabwehr '48"
  anti_air_equipment_x_desc:0 "Ein überarbeitetes mobiles Flakgeschütz mit Autoloader und Aufrüstungsmöglichkeiten für die Zukunft."
@@ -20,8 +24,12 @@
  anti_tank_equipment_1:0 "Panzerabwehr '36"
  anti_tank_equipment_1_short:0 "Panzerabwehr '36"
  anti_tank_equipment_1_desc:0 "Artillerie, die auf die Bekämpfung von gepanzerten Zielen wie Panzern spezialisiert ist. Sie feuert in der Regel panzerbrechende Geschosse ab."
+ anti_tank_equipment_2:0 "Panzerabwehr '40"
  anti_tank_equipment_2_short:0 "Panzerabwehr '40"
+ anti_tank_equipment_2_desc:0 "Kanonen größeren Kalibers zur Bekämpfung schwerer Panzer mit schräger Panzerung."
+ anti_tank_equipment_3:0 "Panzerabwehr '43"
  anti_tank_equipment_3_short:0 "Panzerabwehr '43"
+ anti_tank_equipment_3_desc:0 "Durch die Kombination verschiedener neuer Munitionstechnologien mit Geschützen mit höherer Mündungsgeschwindigkeit sind diese Panzerabwehrkanonen auf die Entwicklung neuer Panzerungen durch unsere Feinde vorbereitet."
  anti_tank_equipment_x:0 "Panzerabwehr '48"
  anti_tank_equipment_x_short:0 "Panzerabwehr '48"
  anti_tank_equipment_x_desc:0 "Frühe Panzerabwehrwaffe, die jeden in Betrieb befindlichen Panzer zerstören kann."
@@ -30,6 +38,8 @@
  armored_cars_tech:0 "Gepanzerte Fahrzeuge Technologien"
  ARMOUR_TITLE_CAR:0 "GEPANZERTES FAHRZEUG"
  armored_car:0 "Gepanzerter Wagen"
+ armored_car_equipment:0 "Gepanzerter Wagen"
+ armored_car_equipment_desc:0 "Ein gepanzerter Wagen, der zur schnellen Aufklärung und Unterstützung der Infanterie eingesetzt wird."
  gw_armored_car_equipment:0 "Panzerwagen '30"
  gw_armored_car_equipment_short:0 "Panzerwagen '30"
  gw_armored_car_equipment_desc:0 "Der Panzerwagen war das erste gepanzerte Fahrzeug, das von vielen Nationen weltweit eingesetzt wurde. Er war der Vorgänger des Panzers, obwohl er noch während des Zweiten Weltkriegs und danach verwendet wurde."
@@ -50,8 +60,12 @@
  artillery_equipment_1:0 "G.W.-Ära Artillerie"
  artillery_equipment_1_short:0 "G.W.-Ära Artillerie"
  artillery_equipment_1_desc:0 "Artillerie bezieht sich auf großkalibrige Waffen wie Kanonen und Haubitzen, die von Besatzungen bedient werden und Munition weit über die effektive Reichweite von Personenwaffen hinaus verschießen können."
+ artillery_equipment_2:0 "Feldartillerie '39"
  artillery_equipment_2_short:0 "Feldartillerie '39"
+ artillery_equipment_2_desc:0 "Neue Haubitzenkonstruktionen, die die Vorteile neuer hydraulischer Rückstoßvorrichtungen und längerer Rohre nutzen."
+ artillery_equipment_3:0 "Feldartillerie '40"
  artillery_equipment_3_short:0 "Feldartillerie '40"
+ artillery_equipment_3_desc:0 "Leichte Artillerie, die für den Transport zerlegt werden kann, wodurch es möglich wird, Artillerieunterstützung in bisher schwer zugängliche Gebiete zu bringen."
  artillery_equipment_x:0 "Feldartillerie '45"
  artillery_equipment_x_short:0 "Feldartillerie '45"
  artillery_equipment_x_desc:0 "Die Artillerie verfügt über eine beeindruckende Fähigkeit, trotz ihrer geringen Größe eine große Wirkung zu erzielen, und stellt ihre gewaltige Kraft auf dem Schlachtfeld unter Beweis."
@@ -63,7 +77,9 @@
  rocket_artillery_equipment_1:0 "Raketenartillerie '40"
  rocket_artillery_equipment_1_short:0 "Raketenartillerie '40"
  rocket_artillery_equipment_1_desc:0 "Die Raketenartillerie ist weniger genau und hat eine viel geringere Dauerfeuerrate als Batterien herkömmlicher Artilleriegeschütze. Allerdings können sie ein Ziel gleichzeitig mit mehreren Raketen treffen und so eine verheerende Wirkung erzielen."
+ rocket_artillery_equipment_2:0 "Raketenartillerie '43"
  rocket_artillery_equipment_2_short:0 "Raketenartillerie '43"
+ rocket_artillery_equipment_2_desc:0 "Spin-stabilisierte Raketen, die die Reichweite leichterer Artilleriebatterien erhöhen."
  rocket_artillery_equipment_x:0 "Raketenartillerie '48"
  rocket_artillery_equipment_x_short:0 "Raketenartillerie '48"
  rocket_artillery_equipment_x_desc:0 "Verbesserte Reichweite und Leistung der Raketen verstärken die Effektivität der Artilleriebatterien und sorgen für eine beeindruckende Feuerkraft."
@@ -216,12 +232,20 @@
 
 ###---> BEL <><> <><> <><>
 #-> Anti-air <><>
+ BEL_anti_air_equipment_1:0 "Mitrailleuse de 20 contre-aéroplanes Madsen modèle 1933"
+ BEL_anti_air_equipment_1_short:0 "20 CA Madsen mle. 1938"
+ BEL_anti_air_equipment_2:0 "Mitrailleuse de 40 contre-aéroplanes FRC-Bofors modèle 1936"
+ BEL_anti_air_equipment_2_short:0 "40 CA FRC-Bofors mle. 1936"
  BEL_anti_air_equipment_3:0 "Mitrailleuse de 40 contre-aéroplanes FRC-Bofors modèle 1941"
  BEL_anti_air_equipment_3_short:0 "40 CA FRC-Bofors mle. 1941"
  BEL_anti_air_equipment_x:0 "Mitrailleuse de 40 contre-aéroplanes FRC-Bofors modèle 1946"
  BEL_anti_air_equipment_x_short:0 "40 CA FRC-Bofors mle. 1946 "
 
 #-> Anti-tank <><> ""
+ BEL_anti_tank_equipment_1:0 "Kanonen-Anti-Char de 47 Fonderie Royale de Canons modèle 1931"
+ BEL_anti_tank_equipment_1_short:0 "C.47 FRC mle. 1931"
+ BEL_anti_tank_equipment_2:0 "Canon de 75 halbautomatisch Modell 1942"
+ BEL_anti_tank_equipment_2_short:0 "C.75 SA mle. 1942"
  BEL_anti_tank_equipment_3:0 "Canon de 90 halbautomatisch modèle 1944"
  BEL_anti_tank_equipment_3_short:0 "C.90 SA mle. 1944"
  BEL_anti_tank_equipment_x:0 "Sol-Sol 10"
@@ -232,6 +256,8 @@
 #-> Towed artillery <><> ""
  BEL_artillery_equipment_1:0 "75er Kanone Modell GP III"
  BEL_artillery_equipment_1_short:0 "75 mle. GP III"
+ BEL_artillery_equipment_2:0 "Obusier de 105 modèle 1940"
+ BEL_artillery_equipment_2_short:0 "105 mle. 1940"
  BEL_artillery_equipment_3:0 "Obusier de 105 modèle 1942"
  BEL_artillery_equipment_3_short:0 "105 mle. 1942"
  BEL_artillery_equipment_x:0 "Obusier de 105 modèle 1945"
@@ -248,12 +274,20 @@
 
 ###---> COG <><> <><> <><> ""
 #-> Anti-air <><> ""
+ COG_anti_air_equipment_1:0 "Mitrailleuse de 20 contre-aéroplanes Madsen modèle 1933"
+ COG_anti_air_equipment_1_short:0 "20 CA Madsen mle. 1938"
+ COG_anti_air_equipment_2:0 "Mitrailleuse de 40 contre-aéroplanes FRC-Bofors modèle 1936"
+ COG_anti_air_equipment_2_short:0 "40 CA FRC-Bofors mle. 1936"
  COG_anti_air_equipment_3:0 "Mitrailleuse de 40 contre-aéroplanes FRC-Bofors modèle 1941"
  COG_anti_air_equipment_3_short:0 "40 CA FRC-Bofors mle. 1941"
  COG_anti_air_equipment_x:0 "Mitrailleuse de 40 contre-aéroplanes FRC-Bofors modèle 1946"
  COG_anti_air_equipment_x_short:0 "40 CA FRC-Bofors mle. 1946 "
 
 #-> Anti-tank <><> ""
+ COG_anti_tank_equipment_1:0 "Kanonen-Anti-Char de 47 Fonderie Royale de Canons modèle 1931"
+ COG_anti_tank_equipment_1_short:0 "C.47 FRC mle. 1931"
+ COG_anti_tank_equipment_2:0 "Canon de 75 halbautomatisch Modell 1942"
+ COG_anti_tank_equipment_2_short:0 "C.75 SA mle. 1942"
  COG_anti_tank_equipment_3:0 "Canon de 90 halbautomatisch modèle 1944"
  COG_anti_tank_equipment_3_short:0 "C.90 SA mle. 1944"
  COG_anti_tank_equipment_x:0 "Sol-Sol 10"
@@ -264,6 +298,8 @@
 #-> Towed artillery <><> ""
  COG_artillery_equipment_1:0 "75er Kanone Modell GP III"
  COG_artillery_equipment_1_short:0 "75 mle. GP III"
+ COG_artillery_equipment_2:0 "Obusier de 105 modèle 1940"
+ COG_artillery_equipment_2_short:0 "105 mle. 1940"
  COG_artillery_equipment_3:0 "Obusier de 105 modèle 1942"
  COG_artillery_equipment_3_short:0 "105 mle. 1942"
  COG_artillery_equipment_x:0 "Obusier de 105 modèle 1945"
@@ -280,12 +316,20 @@
 
 ###---> FLA <><> <><> <><> ""
 #-> Anti-air <><> ""
+ FLA_anti_air_equipment_1:0 "Mitrailleuse de 20 contre-aéroplanes Madsen modèle 1933"
+ FLA_anti_air_equipment_1_short:0 "20 CA Madsen mle. 1938"
+ FLA_anti_air_equipment_2:0 "Mitrailleuse de 40 contre-aéroplanes FRC-Bofors modèle 1936"
+ FLA_anti_air_equipment_2_short:0 "40 CA FRC-Bofors mle. 1936"
  FLA_anti_air_equipment_3:0 "Mitrailleuse de 40 contre-aéroplanes FRC-Bofors modèle 1941"
  FLA_anti_air_equipment_3_short:0 "40 CA FRC-Bofors mle. 1941"
  FLA_anti_air_equipment_x:0 "Mitrailleuse de 40 contre-aéroplanes FRC-Bofors modèle 1946"
  FLA_anti_air_equipment_x_short:0 "40 CA FRC-Bofors mle. 1946 "
 
 #-> Anti-tank <><> ""
+ FLA_anti_tank_equipment_1:0 "Kanonen-Anti-Char de 47 Fonderie Royale de Canons modèle 1931"
+ FLA_anti_tank_equipment_1_short:0 "C.47 FRC mle. 1931"
+ FLA_anti_tank_equipment_2:0 "Canon de 75 halbautomatisch Modell 1942"
+ FLA_anti_tank_equipment_2_short:0 "C.75 SA mle. 1942"
  FLA_anti_tank_equipment_3:0 "Canon de 90 halbautomatisch modèle 1944"
  FLA_anti_tank_equipment_3_short:0 "C.90 SA mle. 1944"
  FLA_anti_tank_equipment_x:0 "Sol-Sol 10"
@@ -294,6 +338,10 @@
 #-> Armored cars <><> ""
 
 #-> Towed artillery <><> ""
+ FLA_artillery_equipment_1:0 "75er Kanone Modell GP III"
+ FLA_artillery_equipment_1_short:0 "75 mle. GP III"
+ FLA_artillery_equipment_2:0 "Obusier de 105 modèle 1940"
+ FLA_artillery_equipment_2_short:0 "105 mle. 1940"
  FLA_artillery_equipment_3:0 "Obusier de 105 modèle 1942"
  FLA_artillery_equipment_3_short:0 "105 mle. 1942"
  FLA_artillery_equipment_x:0 "Obusier de 105 modèle 1945"
@@ -310,12 +358,20 @@
 
 ###---> WLL <><> <><> <><> ""
 #-> Anti-air <><> ""
+ WLL_anti_air_equipment_1:0 "Mitrailleuse de 20 contre-aéroplanes Madsen modèle 1933"
+ WLL_anti_air_equipment_1_short:0 "20 CA Madsen mle. 1938"
+ WLL_anti_air_equipment_2:0 "Mitrailleuse de 40 contre-aéroplanes FRC-Bofors modèle 1936"
+ WLL_anti_air_equipment_2_short:0 "40 CA FRC-Bofors mle. 1936"
  WLL_anti_air_equipment_3:0 "Mitrailleuse de 40 contre-aéroplanes FRC-Bofors modèle 1941"
  WLL_anti_air_equipment_3_short:0 "40 CA FRC-Bofors mle. 1941"
  WLL_anti_air_equipment_x:0 "Mitrailleuse de 40 contre-aéroplanes FRC-Bofors modèle 1946"
  WLL_anti_air_equipment_x_short:0 "40 CA FRC-Bofors mle. 1946 "
 
 #-> Anti-tank <><> ""
+ WLL_anti_tank_equipment_1:0 "Kanonen-Anti-Char de 47 Fonderie Royale de Canons modèle 1931"
+ WLL_anti_tank_equipment_1_short:0 "C.47 FRC mle. 1931"
+ WLL_anti_tank_equipment_2:0 "Canon de 75 halbautomatisch Modell 1942"
+ WLL_anti_tank_equipment_2_short:0 "C.75 SA mle. 1942"
  WLL_anti_tank_equipment_3:0 "Canon de 90 halbautomatisch modèle 1944"
  WLL_anti_tank_equipment_3_short:0 "C.90 SA mle. 1944"
  WLL_anti_tank_equipment_x:0 "Sol-Sol 10"
@@ -324,6 +380,10 @@
 #-> Armored cars <><> ""
 
 #-> Towed artillery <><> ""
+ WLL_artillery_equipment_1:0 "75er Kanone Modell GP III"
+ WLL_artillery_equipment_1_short:0 "75 mle. GP III"
+ WLL_artillery_equipment_2:0 "Obusier de 105 modèle 1940"
+ WLL_artillery_equipment_2_short:0 "105 mle. 1940"
  WLL_artillery_equipment_3:0 "Obusier de 105 modèle 1942"
  WLL_artillery_equipment_3_short:0 "105 mle. 1942"
  WLL_artillery_equipment_x:0 "Obusier de 105 modèle 1945"
@@ -410,6 +470,8 @@
  BRA_artillery_equipment_2_short:0 "75 C26 M1937"
  BRA_artillery_equipment_3:0 "Kahn von Campanha Krupp 75 C34 M1939"
  BRA_artillery_equipment_3_short:0 "75 C34 M1939"
+ BRA_artillery_equipment_3:0 "Kutschenhaus Campanha Krupp 75 C34 M1945"
+ BRA_artillery_equipment_3_short:0 "75 C34 M1945"
 
 #-> Rocket artillery <><>
  BRA_rocket_artillery_equipment_1:0 "Foguete de 127 M1941"
@@ -760,7 +822,11 @@
 
 ###---> SLO <><> <><> <><> ""
 #-> Anti-air <><> ""
+ SLO_anti_air_equipment_1:0 "2cm Velký Kulomet Proti Letadlum vz.36"
+ SLO_anti_air_equipment_1_short:0 "2cm VKPL vz.36"
+ SLO_anti_air_equipment_2:0 "4cm Velký Kulomet Proti Letadlum vz 36"
  SLO_anti_air_equipment_2_short:0 "4cm VKPL vz 36"
+ SLO_anti_air_equipment_3:0 "5,7cm Velký Kulomet Proti Letadlum vz 43"
  SLO_anti_air_equipment_3_short:0 "5,7 cm VKPL vz 43"
  SLO_anti_air_equipment_x:0 "5,7cm Velký Kulomet Proti Letadlum vz 47"
  SLO_anti_air_equipment_x_short:0 "5,7cm VKPL vz 47"
@@ -778,7 +844,11 @@
 #-> Armored cars <><> ""
 
 #-> Towed artillery <><> ""
+ SLO_artillery_equipment_1:0 "10cm Lehká Houfnice vz.30" 
+ SLO_artillery_equipment_1_short:0 "10cm LH vz.30"
+ SLO_artillery_equipment_2:0 "10cm Lehká Houfnice vz.34"
  SLO_artillery_equipment_2_short:0 "10cm LH vz.34"
+ SLO_artillery_equipment_3:0 "10,5cm Lehká Houfnice vz.40"
  SLO_artillery_equipment_3_short:0 "10,5 cm LH vz.40"
  SLO_artillery_equipment_x:0 "10,5 cm Lehká Houfnice vz.43"
  SLO_artillery_equipment_x_short:0 "10,5 cm LH vz.43"
@@ -1662,7 +1732,12 @@
  EFR_anti_air_equipment_x_short:0 "40 CA 47"
 
 #-> Anti-tank <><> ""
+ EFR_anti_tank_equipment_1:0 "Kanone für 25 Flugzeuge SA-L Modell 1934"
+ EFR_anti_tank_equipment_1_short:0 "25 SAL 34"
+ EFR_anti_tank_equipment_2:0 "Kanone von 75 TAZ Modell 1939"
  EFR_anti_tank_equipment_2_short:0 "75 TAZ 39"
+ EFR_anti_tank_equipment_3:0 "DEFA D921/GT-2"
+ EFR_anti_tank_equipment_3_short:0 "DEFA D921/GT-2"
  EFR_anti_tank_equipment_x:0 "Sol-Sol 10"
  EFR_anti_tank_equipment_x_short:0 "SS.10"
 
@@ -1677,7 +1752,11 @@
  EFR_armored_car_at_equipment_short:0 "SA 34"
 
 #-> Towed artillery <><> ""
+ EFR_artillery_equipment_1:0 "Canon de 75 modèle 1897 modifié 1938"
+ EFR_artillery_equipment_1_short:0 "75 97/38"
+ EFR_artillery_equipment_2:0 "Canon de 105 court modèle 1935 Bourges"
  EFR_artillery_equipment_2_short:0 "105 C 35"
+ EFR_artillery_equipment_3:0 "Obusier de 105 modèle 1942"
  EFR_artillery_equipment_3_short:0 "105 42"
  EFR_artillery_equipment_x:0 "Obusier de 105 modèle 1945"
  EFR_artillery_equipment_x_short:0 "105 45"
@@ -2380,6 +2459,8 @@
  LAT_artillery_equipment_2_short:0 "105mm Bofors M36"
  LAT_artillery_equipment_3:0 "105mm Bofors M39"
  LAT_artillery_equipment_3_short:0 "105mm Bofors M39"
+ LAT_artillery_equipment_3:0 "105mm Bofors M45"
+ LAT_artillery_equipment_3_short:0 "105mm Bofors M45"
 
  #-> Rocket artillery <><> ""
  LAT_rocket_artillery_equipment_1:0 "280mm Raķete M41"
@@ -2590,6 +2671,8 @@
  POL_armored_car_at_equipment_short:0 "wz.31"
 
 #-> Towed artillery <><> ""
+ POL_artillery_equipment_1:0 "Haubica 100mm wz.14/19A"
+ POL_artillery_equipment_1_short:0 "100mm wz.14/19A"
  POL_artillery_equipment_2:0 "Haubica 105mm wz.38"
  POL_artillery_equipment_2_short:0 "105mm wz.38"
  POL_artillery_equipment_3:0 "Haubica 105mm wz.42"
@@ -3159,6 +3242,8 @@
  SWE_artillery_equipment_2_short:0 "10,5 cm Haubits m/37"
  SWE_artillery_equipment_3:0 "Bofors 10,5 cm Haubits m/40"
  SWE_artillery_equipment_3_short:0 "10,5 cm Haubits m/40"
+ SWE_artillery_equipment_3:0 "Bofors 10,5 cm Haubits m/45"
+ SWE_artillery_equipment_3_short:0 "10,5 cm Haubits m/45"
 
 #-> Rocket artillery <><> ""
  SWE_rocket_artillery_equipment_1:0 "12,7cm Raket m/41"
@@ -3487,206 +3572,25 @@
  SER_anti_air_equipment_x_short:0 "40mm PVM M.45"
 
 #-> Anti-tank <><> ""
+ SER_anti_tank_equipment_1:0 "37mm Anti-Tenkovskih M.34 Škoda"
+ SER_anti_tank_equipment_1_short:0 "37mm M.34"
+ SER_anti_tank_equipment_2:0 "66mm Anti-Tenkovskih M.40 Škoda"
+ SER_anti_tank_equipment_2_short:0 "66mm AT M.40"
+ SER_anti_tank_equipment_3:0 "75mm Anti-Tenkovskih M.43 Škoda"
+ SER_anti_tank_equipment_3_short:0 "75mm AT M.43"
+ SER_anti_tank_equipment_x:0 "AGM-22"
+ SER_anti_tank_equipment_x_short:0 "AGM-22"
 
 #-> Armored cars <><> ""
 
 #-> Towed artillery <><> ""
-
-#-> Rocket artillery <><> ""
-
-
-###---> SLV <><> <><> <><> ""
-#-> Anti-air <><> ""
-
-#-> Anti-tank <><> ""
-
-#-> Armored cars <><> ""
-
-#-> Towed artillery <><> ""
-
-#-> Rocket artillery <><> ""
-
-###---> VEN <><> <><> <><> ""
-#-> Anti-air <><> ""
-
-#-> Anti-tank <><> ""
-
-#-> Armored cars <><> ""
-
-#-> Towed artillery <><> ""
-
-#-> Rocket artillery <><> ""
-
-#-> Armored cars <><> ""
-
-#-> Towed artillery <><> ""
-
-#-> Rocket artillery <><> ""
-
-
-###---> SLV <><> <><> <><> ""
-#-> Anti-air <><> ""
-
-#-> Anti-tank <><> ""
-
-#-> Armored cars <><> ""
-
-#-> Towed artillery <><> ""
-
-#-> Rocket artillery <><> ""
-
-###---> VEN <><> <><> <><> ""
-#-> Anti-air <><> ""
-
-#-> Anti-tank <><> ""
-
-#-> Armored cars <><> ""
-
-#-> Towed artillery <><> ""
-
-#-> Rocket artillery <><> ""
-Škoda"
-
-#-> Rocket artillery <><> ""
-
-
-###---> SLV <><> <><> <><> ""
-#-> Anti-air <><> ""
-
-#-> Anti-tank <><> ""
-
-#-> Armored cars <><> ""
-
-#-> Towed artillery <><> ""
-
-#-> Rocket artillery <><> ""
-
-###---> VEN <><> <><> <><> ""
-#-> Anti-air <><> ""
-
-#-> Anti-tank <><> ""
-
-#-> Armored cars <><> ""
-
-#-> Towed artillery <><> ""
-
-#-> Rocket artillery <><> ""
-
-#-> Armored cars <><> ""
-
-#-> Towed artillery <><> ""
-
-#-> Rocket artillery <><> ""
-
-
-###---> SLV <><> <><> <><> ""
-#-> Anti-air <><> ""
-
-#-> Anti-tank <><> ""
-
-#-> Armored cars <><> ""
-
-#-> Towed artillery <><> ""
-
-#-> Rocket artillery <><> ""
-
-###---> VEN <><> <><> <><> ""
-#-> Anti-air <><> ""
-
-#-> Anti-tank <><> ""
-
-#-> Armored cars <><> ""
-
-#-> Towed artillery <><> ""
-
-#-> Rocket artillery <><> ""
-lery_equipment_2:0 "100mm Haubica M.34 Škoda"
-
-#-> Rocket artillery <><> ""
-
-###---> VEN <><> <><> <><> ""
-#-> Anti-air <><> ""
-
-#-> Anti-tank <><> ""
-
-#-> Armored cars <><> ""
-
-#-> Towed artillery <><> ""
-
-#-> Rocket artillery <><> ""
-
-#-> Armored cars <><> ""
-
-#-> Towed artillery <><> ""
-
-#-> Rocket artillery <><> ""
-
-
-###---> SLV <><> <><> <><> ""
-#-> Anti-air <><> ""
-
-#-> Anti-tank <><> ""
-
-#-> Armored cars <><> ""
-
-#-> Towed artillery <><> ""
-
-#-> Rocket artillery <><> ""
-
-###---> VEN <><> <><> <><> ""
-#-> Anti-air <><> ""
-
-#-> Anti-tank <><> ""
-
-#-> Armored cars <><> ""
-
-#-> Towed artillery <><> ""
-
-#-> Rocket artillery <><> ""
-anti_tank_equipment_2:0 "Gegenfeuerwaffe 57/46 Modell 1943"
-
-#-> Armored cars <><> ""
-
-#-> Towed artillery <><> ""
-
-#-> Rocket artillery <><> ""
-
-#-> Armored cars <><> ""
-
-#-> Towed artillery <><> ""
-
-#-> Rocket artillery <><> ""
-
-
-###---> SLV <><> <><> <><> ""
-#-> Anti-air <><> ""
-
-#-> Anti-tank <><> ""
-
-#-> Armored cars <><> ""
-
-#-> Towed artillery <><> ""
-
-#-> Rocket artillery <><> ""
-
-###---> VEN <><> <><> <><> ""
-#-> Anti-air <><> ""
-
-#-> Anti-tank <><> ""
-
-#-> Armored cars <><> ""
-
-#-> Towed artillery <><> ""
-
-#-> Rocket artillery <><> ""
-ort:0 "105/26 M1945"
-
-#-> Rocket artillery <><> ""
-nk <><> ""
-
-#-> Armored cars <><> ""
-
-#-> Towed artillery <><> ""
+ SER_artillery_equipment_1:0 "100mm Haubica M.28 Škoda"
+ SER_artillery_equipment_1_short:0 "100mm Haubica M.28"
+ SER_artillery_equipment_2:0 "100mm Haubica M.34 Škoda"
+ SER_artillery_equipment_2_short:0 "100mm Haubica M.34"
+ SER_artillery_equipment_3:0 "105mm Haubica M.39 Škoda"
+ SER_artillery_equipment_3_short:0 "105mm Haubica M.39"
+ SER_artillery_equipment_x:0 "105mm Haubica M.45 Škoda"
  SER_artillery_equipment_x_short:0 "105mm Haubica M.45"
 
 #-> Rocket artillery <><> ""
@@ -3695,6 +3599,7 @@ nk <><> ""
  SER_rocket_artillery_equipment_2:0 "210mm Raketa M.42"
  SER_rocket_artillery_equipment_2_short:0 "210mm Raketa M.42"
  SER_rocket_artillery_equipment_x:0 "300mm Raketa M.42"
+ SER_rocket_artillery_equipment_x_short:0 "300mm Raketa M.46"
  SER_rocket_artillery_equipment_x_short:0 "300mm Raketa M.46"
 
 
@@ -3725,13 +3630,34 @@ nk <><> ""
  SLV_artillery_equipment_1:0 "100mm Haubica M.28 Škoda"
  SLV_artillery_equipment_1_short:0 "100mm Haubica M.28"
  SLV_artillery_equipment_2:0 "100mm Haubica M.34 Škoda"
+ SLV_artillery_equipment_2_short:0 "100mm Haubica M.34"
+ SLV_artillery_equipment_3:0 "105mm Haubica M.39 Škoda"
+ SLV_artillery_equipment_3_short:0 "105mm Haubica M.39"
+ SLV_artillery_equipment_x:0 "105mm Haubica M.45 Škoda"
+ SLV_artillery_equipment_x_short:0 "105mm Haubica M.45"
 
 #-> Rocket artillery <><> ""
+ SLV_rocket_artillery_equipment_1:0 "280mm Raketa M.41"
+ SLV_rocket_artillery_equipment_1_short:0 "280mm Raketa M.41"
+ SLV_rocket_artillery_equipment_2:0 "210mm Raketa M.42"
+ SLV_rocket_artillery_equipment_2_short:0 "210mm Raketa M.42"
+ SLV_rocket_artillery_equipment_x:0 "300mm Raketa M.42"
 
 ###---> VEN <><> <><> <><> ""
 #-> Anti-air <><> ""
+ VEN_anti_air_equipment_1:0 "20/60 Cañón Antiaéreo modelo 1933 Madsen-Reinosa"
+ VEN_anti_air_equipment_1_short:0 "20/60 M1933"
+ VEN_anti_air_equipment_2:0 "Antireflexionskapsel 40/60 Modell 1936"
+ VEN_anti_air_equipment_2_short:0 "40/60 M1936"
+ VEN_anti_air_equipment_3:0 "Gegensprechanlage für 40/70 Modell 1943"
+ VEN_anti_air_equipment_3_short:0 "40/70 M1943"
+ VEN_anti_air_equipment_x:0 "Feuerlöschkreisel 40/70 Modell 1947"
+ VEN_anti_air_equipment_x_short:0 "40/70 M1947"
 
 #-> Anti-tank <><> ""
+ VEN_anti_tank_equipment_1:0 "Contracarro-Kanone 37/45 Modell 1936 Bofors-Reinosa"
+ VEN_anti_tank_equipment_1_short:0 "37/45 M1936"
+ VEN_anti_tank_equipment_2:0 "Gegenfeuerwaffe 57/46 Modell 1943"
  VEN_anti_tank_equipment_2_short:0 "57/46 M1943"
  VEN_anti_tank_equipment_3:0 "Schützenabwehrsystem 75/54 Modell 1944"
  VEN_anti_tank_equipment_3_short:0 "75/54 M1944"
@@ -3755,3 +3681,21 @@ nk <><> ""
  VEN_artillery_equipment_x_short:0 "105/26 M1945"
 
 #-> Rocket artillery <><> ""
+ VEN_rocket_artillery_equipment_1:0 "Lanzacohetes 127mm modelo 1941"
+ VEN_rocket_artillery_equipment_1_short:0 "127mm M1941"
+ VEN_rocket_artillery_equipment_2:0 "Lanzacohetes 127mm Modell 1942"
+ VEN_rocket_artillery_equipment_2_short:0 "127mm M1942"
+ VEN_rocket_artillery_equipment_x:0 "Lanzacohetes 127mm Modell 1946"
+ VEN_rocket_artillery_equipment_x_short:0 "127mm M1946"
+BRA_artillery_equipment_x:0	"Canhão de Campanha Krupp 75 C34 M1945"
+BRA_artillery_equipment_x_short:0	"75 C34 M1945"
+LAT_artillery_equipment_x:0	"105mm Bofors M45"
+LAT_artillery_equipment_x_short:0	"105mm Bofors M45"
+SWE_artillery_equipment_x:0	"Bofors 10.5cm Haubits m/45"
+SWE_artillery_equipment_x_short:0	"10.5cm Haubits m/45"
+BRA_artillery_equipment_x:0	"Canhão de Campanha Krupp 75 C34 M1945"
+BRA_artillery_equipment_x_short:0	"75 C34 M1945"
+LAT_artillery_equipment_x:0	"105mm Bofors M45"
+LAT_artillery_equipment_x_short:0	"105mm Bofors M45"
+SWE_artillery_equipment_x:0	"Bofors 10.5cm Haubits m/45"
+SWE_artillery_equipment_x_short:0	"10.5cm Haubits m/45"

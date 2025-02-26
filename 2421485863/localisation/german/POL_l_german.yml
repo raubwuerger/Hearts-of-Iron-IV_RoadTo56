@@ -1,6 +1,7 @@
 ﻿l_german:
 
 #Party names ""
+ POL_neutrality_party_long:0 "Überparteilicher Block für die Zusammenarbeit mit der Regierung"
  POL_PZPR_party:0 "PZPR"
  POL_PZPR_party_long:0 "Polnische Vereinigte Arbeiterpartei"
  POL_PPR_party:0 "PPR"
@@ -365,6 +366,8 @@
  POL_Land_Mine_Detectors_desc:0 "Die Fortschritte in der Elektronik könnten die Entwicklung eines tragbaren Geräts ermöglichen, das Metallobjekte unter der Erde aufspürt, seien es Artilleriegranaten oder vielleicht sogar feindliche Landminen."
  POL_High_Frequency_Radio_Detection:0 "Hochfrequenz-Funkdetektion"
  POL_High_Frequency_Radio_Detection_desc:0 "Unsere Wissenschaftler glauben, dass eine spezielle Form des RADAR entwickelt werden kann, um feindliche U-Boote unter der Meeresoberfläche aufzuspüren."
+ POL_artillery_equipment_1:0 " 75 mm wz. 1902/26"
+ POL_artillery_equipment_1_short:0 "75 mm wz. 1902/26"
 
  #no Lar-DLC Polish resistance focuses ""
  POL_Polish_Cipher_Bureau_no_lar:0 "Ausbau des polnischen Chiffrierbüros"
@@ -884,6 +887,8 @@
 
  POL_Baltic_Naval_Vanguard:0 "Vorhut der baltischen Seestreitkräfte"
  POL_Baltic_Naval_Vanguard_desc:0 "Polens vorgelagerte Position entlang der Ostseeküste ist ein hervorragender Marinevorposten für die Streitkräfte der Komintern. Wir sollten in einen umfangreichen Ausbau unserer Offensivkräfte in Übersee investieren."
+ POL_Naval_Officers_School:0 "Marineoffiziersschule"
+ POL_Naval_Officers_School_desc:0 "In dem Maße, wie unsere Marine wächst, wird es notwendig werden, unsere kleine, improvisierte Marineoffiziersschule zu einer richtigen Ausbildungsstätte für Seeoffiziere auszubauen."
  POL_Expand_the_Lucznik_State_Arms_Factory:0 "Ausbau der Staatlichen Waffenfabrik Łucznik"
  POL_Expand_the_Lucznik_State_Arms_Factory_desc:0 "Für unsere wachsende Militärexportwirtschaft und den Bedarf unserer eigenen Armee sind größere Waffenarsenale erforderlich."
  POL_Electrification_of_the_Countryside:0 "Elektrifizierung des ländlichen Raums"
@@ -2083,7 +2088,4 @@ poland.213.d:0 "Unsere jüngsten politischen Aktionen, die darauf abzielen, die 
 poland.213.a:0 "Besorgniserregend."
 poland.214.t:0 "Unruhen unter den Mitgliedern der Rechten Sanation"
 poland.214.d:0 "Unsere jüngsten politischen Aktionen mit dem Ziel, die Führung der Sanation-Regierung zu übernehmen, haben bei unseren Gegnern, der Sanation-Rechten, politischen Aufruhr ausgelöst."
-Führung der Sanation-Regierung zu übernehmen, haben bei unseren Gegnern, der Sanation-Rechten, politischen Aufruhr ausgelöst."
- unseren Gegnern, der Sanation-Rechten, politischen Aufruhr ausgelöst."
 poland.214.a:0 "Besorgniserregend."
-n Mitgliedern der Rechten Sanation"

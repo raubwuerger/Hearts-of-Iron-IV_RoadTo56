@@ -15,6 +15,7 @@
  ALG_communism_party:0 "PCA"
  ALG_fascism_party:0 "APNAF-Junta"
  ALG_democratic_party:0 "ENA"
+ AFG_democratic_party_long:0 "Étoile Nord-Africaine"
  ALG_neutrality_party:0 "JTW"
  ALG_neutrality_party_long:0 "Jabhatu l-Tahrīri l-Watanī"
 
@@ -243,4 +244,3 @@
  algeria.4.t:0 "Landesweite Unruhen"
  algeria.4.d:0 "Den Aufständischen in Algier ist es gelungen, sich weiter zu organisieren und die Stadt nun fast vollständig unter ihre Kontrolle zu bringen. Die Nationalgarde ist gezwungen, sich aus der Stadt und der Umgebung zurückzuziehen. Parallel dazu haben sich in vielen anderen Städten des Landes andere Organisationen unter dem Banner der PCA gebildet. Die Nationalgarde ist nun völlig desorganisiert, doch jüngsten Berichten zufolge ziehen sich die verbliebenen Soldaten in den Osten des Landes zurück, um dort weiterzukämpfen."
  algeria.4.a:0 "Endlich sind die [ALG.GetAdjective] Arbeiter frei."
- "Endlich sind die [ALG.GetAdjective] Arbeiter frei."

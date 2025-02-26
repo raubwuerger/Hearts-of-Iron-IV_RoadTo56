@@ -104,6 +104,7 @@
 
  COS_presidency_strengthened:0 "Präsidentschaft gestärkt"
  COS_camisas_marrones:0 "Camisas Marrones"
+ COS_banking_reforms:0 "Bankenreformen"
  COS_banking_reforms_idea:0 "Finanzreformen"
  COS_CCSS:0 "Caja Costarricense de Seguro Social"
  COS_codigo_de_trabajo:0 "Codigo de Trabajo"
@@ -111,10 +112,10 @@
  COS_trabajo_y_paz_idea:0 "Por el Trabajo y la Paz"
  COS_economic_turmoil:0 "Wirtschaftsturbulenzen"
  COS_credito_rural:0 "Ländlicher Kredit"
+ COS_comunismo_a_la_tica:0 "Kommunismus auf dem Lande"
  COS_comunismo_a_la_tica2:0 "Neutralität und Pazifismus"
  
  # Miscellaneous #
  COS_election_tt: "Die §YGeneralwahlen von 1936§! haben stattgefunden."
  COS_castro_won:0 "Die §tPartido Republicano Nacional§! hat die §Y1936 Parlamentswahlen gewonnen§!."
  COS_arguello_won:0 "Die §3Partido Nacional§! hat die §Y1936 Parlamentswahlen gewonnen§!."
-

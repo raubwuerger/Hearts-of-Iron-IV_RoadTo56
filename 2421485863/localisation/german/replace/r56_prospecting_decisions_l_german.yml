@@ -7,6 +7,8 @@
  prospect_volga_ural_basin:0 "Eröffne die Kajaran-Mine"
  budafapuszta_oil_exploited:0 "Ausbeutung von Nordarmeniens Aluminium"
 
+ open_kajaran_mine:0 "Erschließung des Sherwood Forest Ölfeldes"
+ extract_northern_armenia_deposits:0 "Erschließung des Kelham Hills Ölfeldes"
  develop_south_bolivian_oil_field:0 "Ausbeutung der Ölfelder in Bahrain"
  develop_sherwood_forest_oil_field:0 "Katar-Ölfelder ausbauen"
  develop_kelham_hills_oil_field:0 "Kuwait-Ölfelder ausbeuten"
@@ -215,6 +217,7 @@
  exploit_norman_wells_wtt:0 "Ausbeutung des Pembina-Ölfeldes "
  exploit_leduc_woodbend_oil_wtt:0 "Erschließen Sie das Öl von Rolla"
  exploit_redwater_oil_wtt:0 "Virden-Öl ausbeuten"
+ exploit_pembina_oil_wtt:0 "Ausbeutung der Budafapuszta-Ölentdeckung"
  exploit_rolla_oil_wtt:0 "Nagylengyel's Ölfund ausbeuten"
  exploit_virden_oil_wtt:0 "Nagykanizsa-Ölförderung"
  exploit_budafapuszta_oil_wtt:0 "Ausweitung der Ausbeutung des Ölfeldes von Nagykanizsa"
@@ -364,10 +367,13 @@
  r56_develop_benghazi_oil_fields:0 "Abbau von Bauxit aus Guinea "
  r56_develop_west_africa_aluminium_deposits:0 "Erhöhung der Gewinnung von Bauxit aus Guinea "
  r56_develop_west_africa_aluminium_deposits_2:0 "Ausbau der Kautschukplantagen auf Madagaskar "
+ develop_west_africa_aluminium_deposits:0 "Ausweitung der Kautschukplantagen in Madagaskar"
  develop_west_africa_aluminium_deposits_2:0 "Ausbau der Kautschukplantagen in Nigeria"
  r56_develop_madagascar_rubber_plantations:0 "Wiedereröffnung der Hemerdon-Mine"
  r56_develop_madagascar_rubber_plantations_2:0 "Erweiterung der Hemerdon-Mine "
  r56_develop_nigeria_rubber_plantations:0 "Wiedereröffnung der Hemerdon-Mine"
+ develop_cornwall_tungsten_deposits_1:0 "Erweiterung des Bergwerks Hemerdon"
+ develop_cornwall_tungsten_deposits_2:0 ""
  r56_develop_cornwall_tungsten_deposits_1:0 ""
  r56_develop_cornwall_tungsten_deposits_2:0 "Ausbau der baskischen Stahlwerke"
 
@@ -384,16 +390,9 @@
 
  #Flags ""
  kelham_hills_oil_field_developed:0 "The Kelham Hills oil field is exploited"
- exploit_pembina_oil:0 "Exploit the Pembina Oil Field"
+ exploit_pembina_oil:0	"Exploit the Pembina Oil Field"
+ exploit_pembina_oil:0	"Exploit the Pembina Oil Field"
 
 
  #North West  EnglandThe Formby Oilfield was discovered by D’Arcy Exploration in 1939. ""
  #Midland Valley of ScotlandIn 1937, Anglo American discovered the small Midlothian oilfield, ""
- #Midland Valley of ScotlandIn 1937, Anglo American discovered the small Midlothian oilfield, ""
-a_oil:0 "Exploit the Pembina Oil Field"
-
-
- #North West  EnglandThe Formby Oilfield was discovered by D’Arcy Exploration in 1939. ""
- #Midland Valley of ScotlandIn 1937, Anglo American discovered the small Midlothian oilfield, ""
- #Midland Valley of ScotlandIn 1937, Anglo American discovered the small Midlothian oilfield, ""
-nglo American discovered the small Midlothian oilfield, ""

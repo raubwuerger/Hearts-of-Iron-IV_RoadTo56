@@ -204,6 +204,24 @@
  peoples_army_desc:0 "Die Volksarmee glaubt an den Vorrang der Menschen vor den Waffen, wobei die überlegene Motivation die unterlegene Technologie ausgleicht, und erfreut sich einer breiten Unterstützung durch die Zivilbevölkerung \n\n."
  guerilla_warfare:0 "Guerilla-Kriegsführung"
  guerilla_warfare_desc:0 "Der Feind rückt vor, wir ziehen uns zurück; der Feind lagert, wir bedrängen; der Feind wird müde, wir greifen an; der Feind zieht sich zurück, wir verfolgen ihn."
+ infantry_weapons2:0 "Verbesserte Infanterieausrüstung I"
+ infantry_weapons2_desc:0 "Persönliche Waffen und Mannschaftswaffen für die Infanterie sowie die verschiedenen anderen Ausrüstungsgegenstände, die ein Soldat benötigt. Verbesserte Waffenmodelle und spezialisiertere Ausrüstung."
+ improved_infantry_weapons_2:0 "Verbesserte Infanterie-Ausrüstung II"
+ improved_infantry_weapons_2_desc:0 "Persönliche Waffen und Mannschaftswaffen für die Infanterie sowie die verschiedenen anderen Ausrüstungsgegenstände, die ein Soldat benötigt. Verbesserte Waffenmodelle und mehr Spezialausrüstung."
+ advanced_infantry_weapons2:0 "Verbesserte Infanterie-Ausrüstung III"
+ advanced_infantry_weapons2_desc:0 "Persönliche Waffen und Mannschaftswaffen für die Infanterie sowie die verschiedenen anderen Ausrüstungsgegenstände, die ein Soldat benötigt. Weiter modernisiert, um persönliche Sturmgewehre und Panzerabwehrraketen einzubeziehen. Verbesserte Verfügbarkeit von Waffen, die zuvor nur in begrenztem Umfang verteilt wurden."
+ infantry_at:0 "Infanterie-Panzerabwehr I"
+ infantry_at_desc:0 "Die Bewaffnung unserer Infanterieeinheiten mit Panzerabwehrgewehren ermöglicht es ihnen, leichter gepanzerte Fahrzeuge auszuschalten und dabei ihre Mobilität zu erhalten."
+ infantry_at2:0 "Panzerabwehr-Infanterie II"
+ infantry_at2_desc:0 "Damit die Infanterie wirksam gegen schwerere Panzereinheiten vorgehen kann, müssen die hochexplosiven Panzerabwehrwaffen kleiner und leichter werden."
+ support_weapons:0 "Unterstützungswaffen I"
+ support_weapons_desc:0 "Automatische Waffen werden immer tragbarer. Maschinenpistolen haben sich bereits bewährt, und die Entwicklung handgeführter Unterstützungswaffen muss fortgesetzt werden."
+ support_weapons2:0 "Unterstützungswaffen II"
+ support_weapons2_desc:0 "Die Entwicklung von automatischen Waffen, die die Aspekte von leichten und schweren Maschinengewehren kombinieren, ermöglicht eine vielseitige Verwendung der Ausrüstung durch die Infanterie."
+ support_weapons3:0 "Unterstützungswaffen III"
+ support_weapons3_desc:0 "Unter Beibehaltung und Verbesserung der Zuverlässigkeit von Maschinengewehren können wir auch mit höheren Feuerraten experimentieren, um die Tödlichkeit des konstanten Geschossstroms zu gewährleisten."
+ support_weapons4:0 "Unterstützungswaffen IV"
+ support_weapons4_desc:0 "Angesichts des zunehmenden Einsatzes von Sturmgewehren ist die Entwicklung zuverlässiger automatischer Waffen, die in jeder Umgebung von allen Soldaten verwendet werden können, eine Priorität für eine moderne Armee."
  paratroopers:0 "Fallschirmjäger I"
  paratroopers_desc:0 "Durch die Einbeziehung von Luftlandetruppen in unsere Armee können wir in bisher unzugängliche Gebiete eindringen und wichtige Truppen dort positionieren, was neue taktische Möglichkeiten eröffnet."
  paratroopers2:0 "Fallschirmjäger II"
@@ -398,6 +416,7 @@
  cavity_magnatron_desc: "Mit einer Röhre, die Mikrowellen erzeugt, einem so genannten Hohlraummagnatron, können wir die Fähigkeit bestehender Radarsysteme, Objekte zu erkennen, indem wir Wellen an ihnen abprallen lassen, drastisch verbessern."
  improved_cavity_magnatron:0 "Verbessertes dezimetrisches Radar"
  improved_cavity_magnatron_desc:0 "Der Einsatz von Radar hat sich bereits als entscheidend erwiesen, aber unsere dezimetrischen Radargeräte sind zu klein, um eine gute Abdeckung zu gewährleisten. Wenn wir mehr Einheiten mit Radar ausstatten, können wir unseren technologischen Vorsprung ausbauen."
+ decimetric_radar:0 "Dezimetrisches Radar"
  decimetric_radar_desc:0 "Viele Einheiten sind auf das Überraschungsmoment angewiesen, um ihre Effizienz zu steigern. Die Entwicklung des dezimetrischen Radars ermöglicht es uns, ihnen diesen Vorteil zu nehmen."
  improved_decimetric_radar:0 "Verbessertes dezimetrisches Radar"
  improved_decimetric_radar_desc:0 "Der Einsatz von Radar hat sich bereits als entscheidend erwiesen, aber unsere dezimetrischen Radargeräte sind zu wenig, um eine gute Abdeckung zu gewährleisten. Wenn wir mehr Einheiten mit Radar ausstatten, können wir unseren technologischen Vorsprung ausbauen."
@@ -817,6 +836,7 @@
  cat_anti_air:0 "Luftabwehr"
  submarine_doctrine:0 "U-Boot-Einsatz-Doktrinen"
  MUTUALLY_EXCLUSIVE_TREE:0 "§TDie Zweige schließen sich gegenseitig aus. Die Forschung kann nur in einem der Zweige vorankommen§!"
+ jet_technology:0 "Jet-Technologie"
  convoy_defense_tree:0 "Konvoi-Verteidigungsdoktrin"
  medium_air:0 "Mittlere Flugzeuge"
  light_air:0 "Leichte Flugzeuge"
@@ -832,11 +852,13 @@
  cv_suicide_craft_desc:0 "$suicide_craft_desc$"
  fleet_in_being_tree:0 "Flotte im Einsatz Doktrinen"
  electronics:0 "Elektronik"
+ cat_fortification: "Festungsbau" 
  air_equipment_research:2 "Geschwindigkeit der Luftforschung"
  support_tech_research:1 "Geschwindigkeit der Forschung von Unterstützungseinheiten"
  synth_resources_research:2 "Forschungsgeschwindigkeit für synthetische Ressourcen"
  TITLE_ELECTRONIC_SUBTITLE:0 "Elektronische Technik"
  TITLE_FORTIFICATION_SUBTITLE: "Festungsbau"
+ TITLE_EXP_ROCKETS_SUBTITLE:0 "Experimentelle Raketen"
  TITLE_ATOMIC_RESEARCH_SUBTITLE:0 "Atomare Forschung"
  cat_mobile_warfare_research:0 "Doktrin der mobilen Kriegsführung"
  cat_superior_firepower_research:0 "Doktrin der überlegenen Feuerkraft"
@@ -1111,6 +1133,8 @@
  advanced_dp_light_battery_desc:0 "Automatisierte Schnellfeuer-Lafetten erhöhen die Feuerkraft beträchtlich.§Y$EQUIPMENT_DESIGNER_LG_ATTACK_ICON_TOOLTIP$§! wird durch den Einbau dieses Moduls erhöht, was bei der Bekämpfung feindlicher §YAbschirmschiffe§! hilft. Diese Module erhöhen auch §Y$EQUIPMENT_DESIGNER_ANTI_AIR_ATTACK_ICON_TOOLTIP$§!. \nDurch den Einbau eines §YSekundärbatterie§!-Moduls erhält man ein §Y$Schiff_Rumpf_Kreuzer$§!, §Y$Schiff_Rumpf_Träger$§!, oder §Y$Schiff_Rumpf_schwer$§! eine kleine Menge §Y$EQUIPMENT_DESIGNER_LG_ATTACK_ICON_TOOLTIP$§! und erlaubt es ihm, ein zweites Ziel anzugreifen."
  basic_dp_medium_battery:0 "Fortgeschrittene Mittlere Mehrzweckbatterie Batterie"
  basic_dp_medium_battery_desc:0 "Automatisch ladende Schnellfeuer-Batterien für mittlere Geschütze erhöhen die Feuerkraft beträchtlich. Der Einbau einer §YLeichten Mittleren Batterie§! erhöht §Y$EQUIPMENT_DESIGNER_LG_ATTACK_ICON_TOOLTIP$§!, was bei der Bekämpfung feindlicher §YAbschirmschiffe§! hilft. Dieses Modul erhöht auch §Y$EQUIPMENT_DESIGNER_ANTI_AIR_ATTACK_ICON_TOOLTIP$§!."
+ armored_train:0 "$train_equipment_3$"
+ railway_gun:0 "$railway_gun_equipment_1$"
  basic_train:0 "$train_equipment_1$"
 
  #aat loc ""
@@ -1271,81 +1295,28 @@
  sp_shock_hardening_techniques_desc: "Durch den Einsatz verschiedener Schockhärtungstechniken und die Verwendung von Spannungsausgleichsmitteln für unsere Komponenten haben wir die Rate der vorzeitigen Detonationen gesenkt und unsere Geschosse zuverlässiger und effektiver gemacht."
  sp_variable_time_fuze_shells: "Variable Zeitzündermunition"
  sp_variable_time_fuze_shells_desc: "Mit der Anpassung der variablen Zeitzündergranaten haben wir unsere Feldartillerie für unsere Gegner verheerend gemacht. Die Granaten explodieren, bevor sie den Boden erreichen, und schaffen so eine viel größere Kill-Zone."
-
- 
-
- 
- 
-
-
-
- 
-
- 
- 
-
-
-sicht auf das Gelände transportieren. Das Feststecken im Schlamm gehört der Vergangenheit an!"
-
- 
-
- 
- 
-
-
-
- 
-
- 
- 
-
-
-htfeld unabhängig vom Gelände gut zu überblicken und eignen sich daher hervorragend als Aufklärer, die genaue Rückmeldungen für Artilleriegeschütze liefern."
-
- 
-
- 
- 
-
-
-
- 
-
- 
- 
-
-
- normale Krankenwagen."
-
- 
-
- 
- 
-
-
-
- 
-
- 
- 
-
-
-chamber_rocket_engine_1_desc: "Durch den Einbau einer zweiten Brennkammer in das Triebwerk können wir die Flugzeit und die Effizienz unserer Raketentriebwerke verbessern."
- 
-
- 
- 
-
-
-e_shells_desc: "Mit der Anpassung der variablen Zeitzündergranaten haben wir unsere Feldartillerie für unsere Gegner verheerend gemacht. Die Granaten explodieren, bevor sie den Boden erreichen, und schaffen so eine viel größere Kill-Zone."
+ sp_helicopter_transport_pods_tech: "Hubschrauber-Transportunternehmen"
+ sp_helicopter_transport_pods_tech_desc: "Hubschrauber, die mit Transportkapseln ausgestattet sind oder Güter an einer Leine unter sich herziehen, können Lieferungen und Ausrüstung schnell und ohne Rücksicht auf das Gelände transportieren. Das Feststecken im Schlamm gehört der Vergangenheit an!"
  sp_helicopter_artillery_observers_tech: "Hubschrauber-Aufklärungskompanie"
  sp_helicopter_artillery_observers_tech_desc: "Hubschrauber sind in der Lage, das Schlachtfeld unabhängig vom Gelände gut zu überblicken und eignen sich daher hervorragend als Aufklärer, die genaue Rückmeldungen für Artilleriegeschütze liefern."
+ sp_helicopter_med_evac_tech: "Sanitätshubschrauber Kompanie"
+ sp_helicopter_med_evac_tech_desc: "Verwundete im Anflug! Wir haben eintreffende Verwundete! Hubschrauber ermöglichen eine noch schnellere Evakuierung von Verletzten als normale Krankenwagen."
 
  sp_rockets_dual_chamber_rocket_engine_1: "Zweikammer-Raketentriebwerke"
  sp_rockets_dual_chamber_rocket_engine_1_desc: "Durch den Einbau einer zweiten Brennkammer in das Triebwerk können wir die Flugzeit und die Effizienz unserer Raketentriebwerke verbessern."
+ sp_rockets_dual_chamber_rocket_engine_2: "Fortschrittliche Zweikammer-Raketentriebwerke"
+ sp_rockets_dual_chamber_rocket_engine_2_desc: "Weitere Verfeinerungen des Doppelverbrennungsmotors können zu einer noch größeren Verbesserung der Effektivität der Konstruktion führen."
  
+ reinforced_wings_mothership: "Verstärktes Luftflugzeugträger Geschwader"
+ reinforced_wings_mothership_desc: "Ohne ihr Luftflugzeugträger sind die Kampfflugzeuge im Grunde genommen in der Luft gestrandet, was ihre operative Effizienz stark einschränkt. Die kosteneffizienteste Strategie zur Verbesserung der Überlebensfähigkeit des gesamten Geschwaders ist die Verstärkung der Luftflügel des Mutterschiffs."
 
  
+ miniature_fighters: "Miniatur-Kampfflugzeuge"
+ miniature_fighters_desc: "Mit kleineren Jägern können wir mehr von ihnen in die Schlacht mitnehmen, ohne viel Feuerkraft zu opfern, und das Gewicht der Luftflugzeugträger reduzieren."
  
+ aerial_hangars: "Luft Flugzeughangars"
+ aerial_hangars_desc: "Mit den am Luftflugzeugträger angebrachten Hangars können wir noch mehr Miniaturjäger auf der Oberseite des Flugzeugs anbringen, was eine höhere Feuerkraft und eine größere Reichweite ermöglicht."
 
+ mothership: "Luftflugzeugträger"
 
+transport_planes_cat: "Transport Flugzeuge"

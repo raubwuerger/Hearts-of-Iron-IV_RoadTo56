@@ -1018,6 +1018,8 @@ Die Kontrolle über strategisch wichtige Meerengen kann uns im Mittelmeerraum de
 
  # Events ""
 
+ bftb_turkey.23.t:0 "Der Saadabad-Pakt"
+ bftb_turkey.23.desc:0 "[FROM.GetLeader] hat sich an [ROOT.GetLeader] mit dem Vorschlag gewandt, einen gegenseitigen Nichtangriffspakt zu unterzeichnen, der die Aussicht auf eine weitere Zusammenarbeit in der Zukunft offen lässt. Die [FROM.GetAdjective]-Diplomaten haben hart an ihrem Vorschlag gearbeitet, indem sie detailliert auf die gemeinsame Geschichte und die Interessen unserer beiden Nationen eingingen, gefolgt von einem ernsthaften Appell zum Frieden zwischen brüderlichen Nationen. Das Hin und Her der Verhandlungen war angenehm, aber die Entscheidung, ob wir unterschreiben oder nicht, liegt letztendlich bei uns."
 
  turkey_hatay.1.t:0 "Die Hatay-Frage"
  turkey_hatay.1.d:0 "Nach dem großen Krieg besetzte Frankreich den Sanjak von Alexandretta und übertrug ihn dem Mandatsgebiet Syrien. Die Provinz, die heute als Hatay bekannt ist, hat einen bedeutenden türkischen Bevölkerungsanteil, wenn auch keine eindeutige Mehrheit. Die Debatte über den Status von Hatay ist in jüngster Zeit wieder aufgeflammt, wobei [TUR.GetLeader] die vollständige Rückkehr Hatays zur Türkei forderte. Große Gegenproteste der armenischen und alawitischen Bevölkerung der Provinz haben sich jedoch gegen die Annexion durch Ankara gerichtet. Es ist klar, dass die Türkei diese Situation ernst nimmt, und jede Ablehnung ihrer Forderungen könnte zu einem Krieg führen."
@@ -1179,6 +1181,7 @@ Die Kontrolle über strategisch wichtige Meerengen kann uns im Mittelmeerraum de
 TUR_a_city_of_spies_r56:0 "Eine Stadt voller Spione"
  TUR_a_city_of_spies_desc_r56:0 "An den Bars der Hotels, auf den Terrassen der Cafés, an den Ufern des Bosporus. Überall in der Stadt treffen sich Fremde, werden Dokumente und Gerüchte ausgetauscht. Zwielichtige Gestalten tauschen Dokumente aus. In manchen diplomatischen Aktenkoffern könnten sich sogar Bomben verbergen..."
 
+ TUR_fahrettin_altay:0 "Fahrettin Altay"
  TUR_tashin_yazici:0 "Tahsin Yazıcı"
  TUR_mehmet_sabit_noyan:0 "Mehmet Sabit Noyan"
  TUR_hulusi_gokdalay:0 "Hulusi Gökdalay"
@@ -1192,6 +1195,8 @@ TUR_koc:0 "Koç Ticaret A.Ş"
 TUR_denizbank:0 "Denizbank"
 TUR_sumerbank:0 "Sümerbank"
 
+TUR_nuri_demirag:0 "Nuri Demirağ"
+TUR_hilmi_uran:0 "Hilmi Uran"
 TUR_fuat_agrali:0 "Fuat Ağralı"
 
  TUR_reaffirm_balkan_hegemony:0 "Hegemonie auf dem Balkan bekräftigen"
@@ -1306,47 +1311,16 @@ TUR_fuat_agrali:0 "Fuat Ağralı"
 
  TUR_push_for_the_forceful_militarization:0 "Forcierte Militarisierung"
  TUR_push_for_the_forceful_militarization_desc:0 "Um den Sieg zu sichern, muss das Volk einbezogen werden, auch wenn einige sich unserer rechtmäßigen Sache widersetzen werden."
-
-
-
-
-
-
-
-
-tarismus"
-
-
-
-
-
-
-
-
-Griechenland"
-
-
-
-
-
-
-
-uns seit 1820 Probleme bereitet, jetzt nicht mehr."
-
-
-
-
-
-
-
-ify_the_iberian_flank_desc:0 "Al-Andalus wird sich endlich wieder dem Dar-al-Islam anschließen"
-
-
-en werden."
+ TUR_militarism_focus:0 "Militarismus"
 
  TUR_fate_of_greece:0 "Das Schicksal von Griechenland"
+ TUR_fate_of_greece_desc:0 "Yunanistan hat uns seit 1820 Probleme bereitet, jetzt nicht mehr."
 
  TUR_solidify_the_iberian_flank:0 "Festigung der iberischen Flanke"
  TUR_solidify_the_iberian_flank_desc:0 "Al-Andalus wird sich endlich wieder dem Dar-al-Islam anschließen"
 
+ TUR_engulf_the_akdeniz:0 "Verschlingt die Akdeniz"
+ TUR_engulf_the_akdeniz_desc:0 "Die westlichen Mächte werden endlich lernen, uns zu respektieren."
 
+ TUR_preempt_ideological_threat:0 "Ideologische Bedrohung abwehren"
+ TUR_preempt_ideological_threat_desc:0 "Die kommunistische Subversion ist ein entschiedener Gegner unserer Regierungsform. Man muss sich mit ihnen auseinandersetzen."

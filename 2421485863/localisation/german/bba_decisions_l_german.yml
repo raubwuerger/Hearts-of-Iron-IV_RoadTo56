@@ -472,6 +472,7 @@
  ITA_establish_the_regno_albania:0 "Errichtet das Regno d'Albania"
  ITA_establish_the_governato_del_montenegro:0 "Errichtet das Gouverneursamt von Montenegro"
  ITA_demand_recognition_of_the_bashkimi_kombetar:0 "Offizialisierung des Bashkimi Kombëtar"
+ ITA_demand_dalmatia:0 "Fordern Sie [103.GetName]"
  ITA_claim_the_montengrin_throne:0 "Anspruch auf den montenegrinischen Thron"
  ITA_support_the_hungarians:0 "Unterstützung des ungarischen Anspruchs auf [45.GetName]"
  ITA_recognized_our_claims:0 "Erkennen Sie unsere Ansprüche auf [45.GetName] an"
@@ -905,6 +906,7 @@
 
  aoi_required_ethiopian_states:0 "Italien oder ein Subjekt Italiens besitzt alle äthiopischen Kernstaaten"
 
+ aoi_founded_tt:0 "Freigabe der AOI als Subjekt"
 
  give_somaliland_to_the_aoi:0 "Übergabe von Somaliland an die AOI"
 
@@ -916,6 +918,7 @@
 
  send_more_weapons_to_the_AOI:0 "Schickt mehr Waffen an die AOI"
 
+ form_country_albania_required_states_tt:0 "Kontrolliert alle §Yalbanischen§! Staaten"
 
  form_country_mare_nostrum_required_states_tt:0 "Kontrolliert §YLjubljana§!, §YDalmatien§!, §YKvarner§! und §YMontenegro§!"
  form_country_mare_nostrum_turkey_required_states_tt:0 "Kontrolliert alle §YTürkischen§! Staaten, die an das §YMittelmeer§! grenzen"
@@ -957,24 +960,8 @@
 
  conquer_hibernia:0 "Eroberung Hiberniens"
 
-
-
-
-
-
- "Eroberung Kaledoniens"
-
-
-
-
-
-
-
-
-_the_bosporan_kingdom:0 "Wiedererrichtung des Bosporanischen Königreichs"
-
  conquer_caledonia:0 "Eroberung Kaledoniens"
 
+ avenge_teutoburg:0 "Rache an Teutoburg"
 
-n Teutoburg"
-
+ reestablish_the_bosporan_kingdom:0 "Wiedererrichtung des Bosporanischen Königreichs"

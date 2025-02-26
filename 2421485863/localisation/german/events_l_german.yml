@@ -602,6 +602,9 @@
  finland.8.d:0 "Der Krieg mit [From.GetNameDef] war eine kostspielige Angelegenheit, aber da es uns gelungen ist, die Armee von [From.GetAdjective] zurückzudrängen, haben sie uns ein verlockendes Angebot unterbreitet. Wir erhalten die Kontrolle über strategisch wichtige Gebiete, müssen aber unsere Truppen abziehen und weitere Feindseligkeiten einstellen. Damit beenden wir unsere Offensive auf [From.GetNameDef] ohne volle Kontrolle über die Region, können uns aber im Gegenzug auf die Ausweitung unseres Einflussbereichs in anderen Teilen der Welt konzentrieren."
  finland.8.a:0 "Unsere Soldaten werden anderswo gebraucht"
  finland.8.b:0 "Wir brauchen alle [From.GetNameDef]"
+ finland.9.t:0 "[From.GetNameDefCap] Verweigert"
+ finland.9.d:0 "Die mit [From.GetNameDef] begonnenen Verhandlungen sind gescheitert. Es war offensichtlich eine List, um unsere Zeit zu verschwenden, während die Armee von [From.GetAdjective] sich für einen weiteren Angriff auf das Gebiet von [Root.GetAdjective] positionierte. [Root.GetNameDef] wird aufrecht stehen und bis zum bitteren Ende kämpfen."
+ finland.9.a:0 "Sie werden für jeden Schritt bluten!"
  FIN_agree_peace:0 "Finnland stimmt den sowjetischen Forderungen zu und tritt §YKarjala und Salla§! ab."
  finland.10.t:0 "Der Winterkrieg"
  finland.10.d:0 "Schließlich haben die territorialen Ambitionen von [SOV.GetNameDef] ihren Höhepunkt in der Invasion unseres Landes durch diesen abscheulichen Feind erreicht. Wir müssen alle in unserer Macht stehenden Maßnahmen ergreifen, um eine solide Verteidigung gegen diesen rücksichtslosen Angriff aufzubauen. Sie sollen für jeden Schritt in unser Land bezahlen!"
@@ -1843,8 +1846,14 @@ news.171.d_ITA_BUL:1 "Die [GRE.GetAdjective]-Armee ist bereit, das Land gegen je
  news.288.a:0 "Eine Allianz der Verzweiflung."
  news.288.b:0 "Das ändert nichts!"
  news.288.c:0 "Ein instabiles Bündnis."
+ news.337.title:0 "Demütigung in Afrika"
+ news.337.desc:0 "Heute wurde ein Friedensvertrag zwischen [ETH.GetLeader] und [ITA.GetLeader] unterzeichnet, der die Feindseligkeiten zwischen den beiden Nationen beendet. Trotz des enormen Machtgefälles zwischen dem eingeschlossenen Königreich und dem weltumspannenden Imperium ging die äthiopische Regierung bei diesen Verhandlungen eindeutig als Sieger hervor. Italien muss nicht nur einen Waffenstillstand mit Äthiopien schließen, sondern die Gebiete Eritrea und Italienisch-Somaliland wurden offiziell an [ETH.GetNameDef] abgetreten. Mit dieser zweiten Niederlage der italienischen Streitkräfte in Äthiopien liegt die Regierung von [ITA.GetLeader] in Trümmern, und es wird wahrscheinlich viele Jahre dauern, bis sich der verletzte italienische Stolz von dieser Niederlage wirklich erholt."
  news.337.desc_some_states:0 "Heute wurde ein Friedensvertrag zwischen [ETH.GetLeader] und [ITA.GetLeader] unterzeichnet, der die Feindseligkeiten zwischen den beiden Nationen beendet. Trotz des massiven Machtgefälles zwischen dem Binnenkönigreich und dem weltumspannenden Imperium ging die äthiopische Regierung bei diesen Verhandlungen eindeutig als Sieger hervor. Italien muss nicht nur einen Waffenstillstand mit Äthiopien schließen, sondern einige der ehemaligen italienischen Gebiete in Ostafrika wurden offiziell an [ETH.GetNameDef] abgetreten. Mit dieser zweiten Niederlage der italienischen Streitkräfte in Äthiopien liegt die Regierung von [ITA.GetLeader] in Trümmern, und es wird wahrscheinlich viele Jahre dauern, bis sich der verletzte italienische Stolz von dieser Niederlage wirklich erholt hat."
  news.337.desc_no_states:0 "Heute wurde ein Friedensvertrag zwischen [ETH.GetLeader] und [ITA.GetLeader] unterzeichnet, der die Feindseligkeiten zwischen den beiden Nationen beendet. Trotz des massiven Machtgefälles zwischen dem Binnenkönigreich und dem weltumspannenden Imperium gelang es der äthiopischen Regierung, sich gegen die italienischen Streitkräfte zu behaupten. \nMit dieser zweiten Niederlage der italienischen Streitkräfte in Äthiopien liegt die Regierung von [ITA.GetLeader] in Trümmern, und es wird wahrscheinlich viele Jahre dauern, bis sich der verletzte italienische Stolz von dieser Niederlage erholt hat."
+ news.337.a:0 "Gut für Äthiopien!"
+ news.337.b:0 "Wir hoffen, dass [ITA.GetLeader] nicht für sein Versagen in Erinnerung bleiben wird."
+ news.337.c:0 "Davon werden wir uns nie wieder erholen."
+ news.337.d:0 "Ras Alulas Reich ist wiedergeboren!"
  news.350.t:0 "Friedliche Wiedervereinigung von [ROOT.GetNameDef]"
  news.350.desc:0 "\nDem Willen des [ROOT.GetAdjective]-Volkes folgend, ist es [ROOT.GetLeader] gelungen, eine friedliche Wiedervereinigung der [ROOT.GetRulingIdeology] zu erreichen. [ROOT.GetAdjective] Staaten zu erreichen. Es bleibt abzuwarten, welche Auswirkungen dies auf die Welt insgesamt haben wird, aber zumindest in [ROOT.Capital.GetCapitalVictoryPointName] feierten die Menschen dieses historische Ereignis."
  news.350.a:0 "Das könnte gefährlich sein"
@@ -3204,40 +3213,20 @@ news.171.d_ITA_BUL:1 "Die [GRE.GetAdjective]-Armee ist bereit, das Land gegen je
  germany.1041.b:0 "Die [FROM.GetAdjective]-Kriegsmaschine hält hier an."
  germany.1042.t:0 "[FROM.GetNameDefCap] Legt  vor."
  germany.1042.desc:0 "Die [ROOT.GetAdjective]-Macht kennt keine Grenzen - das Sudetenland ist uns vollständig übertragen worden. Die [FROM.GetAdjective]-Nation bleibt außerhalb unserer Sichtweite. Für den Moment."
-
-
-
-
-
-
-tNameDefCap] Weigert sich, Forderungen zu stellen"
-
-
-
-
-
-
-maten von [FROM.GetAdjective] unsere Forderungen nach der Abtretung des Sudetenlandes abgelehnt. Es ist sicher, dass ein Krieg folgen muss."
-
-
-
-
-
-
-n uns herangetreten, der angeblich beiden Volkswirtschaften zugute kommen wird. Sie brauchen unsere natürlichen Ressourcen für ihre Industrien und wir brauchen ihre Investitionen, um unsere zu erweitern. Ein lukratives Angebot, aber ein Geschäft auf Teufel komm raus?"
-
-
-
-
-
-resse sei. Sie betonen, dass sie uns nichts Böses wollen, aber dass sie bei dieser Bewegung andere Prioritäten haben."
-
-außerhalb unserer Sichtweite. Für den Moment."
+ germany.1042.a:0 "Hervorragend."
+ germany.1043.t:0 "[FROM.GetNameDefCap] Weigert sich, Forderungen zu stellen"
  germany.1043.desc:0 "Trotz des Ungleichgewichts der Kräfte haben die Diplomaten von [FROM.GetAdjective] unsere Forderungen nach der Abtretung des Sudetenlandes abgelehnt. Es ist sicher, dass ein Krieg folgen muss."
+ germany.1043.a:0 "Verflixt."
 
+ AAT_germany.1.t: "[FROM.GetNameDefCap] fordert Ressourcenrechte an"
+ AAT_germany.1.desc: "[FROM.GetNameDefCap] ist mit einem Deal an uns herangetreten, der angeblich beiden Volkswirtschaften zugute kommen wird. Sie brauchen unsere natürlichen Ressourcen für ihre Industrien und wir brauchen ihre Investitionen, um unsere zu erweitern. Ein lukratives Angebot, aber ein Geschäft auf Teufel komm raus?"
  AAT_germany.1.a: "Das ist nicht in unserem besten Interesse."
  AAT_germany.1.b: "Keiner verliert!"
 
  AAT_germany.2.t: "[FROM.GetName] lehnt unser Angebot ab"
  AAT_germany.2.desc: "[FROM.GetName] hat unser Angebot mit der Begründung abgelehnt, dass es im Moment nicht in ihrem besten Interesse sei. Sie betonen, dass sie uns nichts Böses wollen, aber dass sie bei dieser Bewegung andere Prioritäten haben."
+ AAT_germany.2.a: "Eine Schande"
 
+ AAT_germany.3.t: "[FROM.GetName] nimmt unser Angebot an"
+ AAT_germany.3.desc: "[FROM.GetName] hat unser Angebot angenommen, was sicherlich für uns beide von Vorteil sein wird. Hoffen wir, dass dieser profitablen Vereinbarung viele weitere folgen werden."
+ AAT_germany.3.a: "Großartig"

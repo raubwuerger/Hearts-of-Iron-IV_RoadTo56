@@ -5,6 +5,7 @@
 
  AUS_GATHERING_STORM_DESC:2 "Die Erste Republik ist vorbei. Am 20. Mai 1933 rief Bundeskanzler Engelbert Dolfuß in einem Ermächtigungsgesetz, das demjenigen, mit dem Adolf Hitler nur wenige Monate zuvor die Macht in Deutschland übernommen hatte, unheimlich ähnlich war, den Bundesstaat Österreich aus und verwandelte die einst freie und demokratische Republik in eine faschistische Diktatur.Im darauffolgenden Jahr kam es zu zwei Bürgerkriegen, einem mit den Sozialisten und einem mit den Nazis, der mit der Ermordung von Dolfuss endete. Nun steht Bundeskanzler Kurt Schuschnigg vor der Wahl, eine instabile Nation in einen sich zusammenbrauenden Sturm zu steuern und sich für einen Weg zu entscheiden oder dem sicheren Untergang entgegenzusehen."
 
+ GRE_GATHERING_STORM_DESC:0 "Für Griechenland war der Große Krieg 1918 noch nicht zu Ende. Der verheerende Krieg mit der Türkei und die schrecklichen Auswirkungen des Nationalen Schismas haben in der griechischen Nation viele Wunden offen gelassen. Die Weltwirtschaftskrise, die Arbeitslosigkeit, die soziale und politische Instabilität und das Aufkommen des Radikalismus haben das kleine Land Griechenland an einen Scheideweg gebracht, an dem es über seine Zukunft entscheiden, die vielen Probleme überwinden und den Blick nach vorne richten muss, wie es sein Vermächtnis verlangt."
 
  HOL_GATHERING_STORM_DESC:0 "Die Niederlande befinden sich derzeit mitten in einer tiefen Krise. Das Land wurde etwas später als andere von der Weltwirtschaftskrise getroffen und leidet daher derzeit unter deren schlimmsten Folgen. Die Arbeitslosigkeit ist so hoch wie nie zuvor, und die Regierung hat bisher nicht reagiert, sondern hält lieber an einer Politik des Haushaltsausgleichs und des Glaubens an den Goldstandard fest. Es ist zu hoffen, dass sich die Wirtschaftsdoktrin der Regierung aufgrund des Drucks der Straße derzeit ändert. Erschwerend kommt hinzu, dass Deutschland wieder aufrüstet, und die Regierung weiß, dass es diesmal äußerst schwierig sein wird, neutral zu bleiben, wenn Europa wieder einmal brennt."
 
@@ -64,32 +65,11 @@
  ITA_BLITZKRIEG_DESC:0 "Dieses Szenario wird von The Road to 56 nicht unterstützt. Stellen Sie sicher, dass Sie keine Mod-Konflikte haben; andernfalls melden Sie dies bitte in unserem Discord."
  SOV_BLITZKRIEG_DESC:0 "Dieses Szenario wird von The Road to 56 nicht unterstützt. Stellen Sie sicher, dass Sie keine Mod-Konflikte haben; andernfalls melden Sie dies bitte in unserem Discord."
  OTHER_BLITZKRIEG_DESC:0 "Dieses Szenario wird von The Road to 56 nicht unterstützt. Stellen Sie sicher, dass Sie keine Mod-Konflikte haben; andernfalls melden Sie dies bitte in unserem Discord."
- POR_GATHERING_STORM_DESC:0 "Following two decades of a republic defined by a ruinous Great War intervention, and armed revolts against many tried forms of government, esteemed general Óscar Carmona launched a 1926 military coup, forming a nationalist dictatorship of the right.\n\nYoung economist António de Oliveira Salazar, initially Carmona's humble but powerful finance minister, moved toward austerity, and against The Great Depression; uniting the right in his corporatist Estado Novo, where he serves as president of the Council of Ministers. Can his regime survive the Iberian peninsula's coming storm?"
+ POR_GATHERING_STORM_DESC:0	"Following two decades of a republic defined by a ruinous Great War intervention, and armed revolts against many tried forms of government, esteemed general Óscar Carmona launched a 1926 military coup, forming a nationalist dictatorship of the right.\n\nYoung economist António de Oliveira Salazar, initially Carmona's humble but powerful finance minister, moved toward austerity, and against The Great Depression; uniting the right in his corporatist Estado Novo, where he serves as president of the Council of Ministers. Can his regime survive the Iberian peninsula's coming storm?"
+ POR_GATHERING_STORM_DESC:0	"Following two decades of a republic defined by a ruinous Great War intervention, and armed revolts against many tried forms of government, esteemed general Óscar Carmona launched a 1926 military coup, forming a nationalist dictatorship of the right.\n\nYoung economist António de Oliveira Salazar, initially Carmona's humble but powerful finance minister, moved toward austerity, and against The Great Depression; uniting the right in his corporatist Estado Novo, where he serves as president of the Council of Ministers. Can his regime survive the Iberian peninsula's coming storm?"
 
  FE_HISTORICAL:0 "Historische KI-Priorisierung"
  FE_HISTORICAL_TOOLTIP:0 "Die KI wählt §YNationale Schwerpunkte§! in historischer Reihenfolge neben der Auswahl historischer Entscheidungen in §YEreignisse§! und §YEntscheidungen§!. Wählen Sie dies, wenn Sie möchten, dass andere Länder ihrem historischen Weg genauer folgen."
 
  ACHIEVEMENTS_NOT_OK:1 "§RThe Road to 56 unterstützt keine Erfolge§!."
- #####-----> End of File <><> <><> <><> <><> <><> ""
-
-
- #####-----> End of File <><> <><> <><> <><> <><> ""
-
- #####-----> End of File <><> <><> <><> <><> <><> ""
-###-----> End of File <><> <><> <><> <><> <><> ""
-
-
- #####-----> End of File <><> <><> <><> <><> <><> ""
-
- #####-----> End of File <><> <><> <><> <><> <><> ""
-her Reihenfolge neben der Auswahl historischer Entscheidungen in §YEreignisse§! und §YEntscheidungen§!. Wählen Sie dies, wenn Sie möchten, dass andere Länder ihrem historischen Weg genauer folgen."
-
- #####-----> End of File <><> <><> <><> <><> <><> ""
-###-----> End of File <><> <><> <><> <><> <><> ""
- corporatist Estado Novo, where he serves as president of the Council of Ministers. Can his regime survive the Iberian peninsula's coming storm?"
-
-
- #####-----> End of File <><> <><> <><> <><> <><> ""
-TORICAL_TOOLTIP:0 "Die KI wählt §YNationale Schwerpunkte§! in historischer Reihenfolge neben der Auswahl historischer Entscheidungen in §YEreignisse§! und §YEntscheidungen§!. Wählen Sie dies, wenn Sie möchten, dass andere Länder ihrem historischen Weg genauer folgen."
-
  #####-----> End of File <><> <><> <><> <><> <><> ""

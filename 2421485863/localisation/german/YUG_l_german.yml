@@ -18,6 +18,8 @@
  YUG_soviet_cooperation_desc:0 "Wir müssen weiter mit der Sowjetunion zusammenarbeiten, um unser Land weiter zu entwickeln und die Sache des Kommunismus zu verbreiten."
  YUG_yugoslavian_international_communism:0 "Europäischer Kommunistischer Pakt"
  YUG_yugoslavian_international_communism_desc:0 "Wir können uns nicht auf die Unterstützung der Sowjets verlassen und müssen uns nach anderen mächtigen Verbündeten umsehen, die unsere Sache unterstützen."
+ YUG_invite_greece:0 "Griechenland einladen"
+ YUG_invite_greece_desc:0 "Griechenland ist zwar kein slawisches Land, aber ein wichtiger Partner in der Region, und wir dürfen es nicht in die Arme der Sowjets treiben."
 
  YUG_kraljevo_state_airlines_factory:0 "Staatliche Fluglinienfabrik Kraljevo"
  YUG_kraljevo_state_airlines_factory_desc:0 "Ursprünglich für die Wartung der Flugzeuge der Fluggesellschaften konzipiert, spezialisierte sich das Werk aufgrund der ausländischen Herkunft der zu bauenden und zu wartenden Flugzeuge auf die Produktion in Lizenz."
@@ -65,6 +67,7 @@
  YUG_construct_rupnik_line_tt:0 "Platziere §YLandforts§! quer durch §YSlowenien§!."
  YUG_construct_rupnik_line_warning_tt:0 "§RNicht jede Provinz entlang der deutschen Grenze.§!"
  YUG_anti_german_coup:0 "§RWenn [YUG.GetNameDef] sich der Achse anschließt, wird das Militär wahrscheinlich die Regierung stürzen!§!"
+ YUG_local_self_management:0 "Lokale Selbstverwaltung"
 
  #YUG ""
  YUG_JRZ_neutrality_party:0 "JRZ"
@@ -173,11 +176,15 @@
 
  # Companies ""
 
+ chemical_concern:0 "Chemiekonzern"
+ engine_factory:0 "Motorenfabrik"
  cat_air_engine_research:0 "Forschung für Flugzeugtriebwerke Geschwindigkeit"
 
  YUG_tzv_gredelj_organization:0 "TŽV Gredelj"
  brodosplit:0 "Brodosplit"
  Kraljevica:0 "Kraljevica"
+ YUG_rogozarski:0 "Rogožarski"
+ YUG_zmaj:0 "Zmaj"
  zastava_arms:0 "Fabrika Oružja Zastava"
  taz:0 "Automobilski Zavod Trnava"
  ganz_kroatien_slawonien:0 "Ganz Kroatien-Slawonien"
@@ -190,10 +197,8 @@
  bor_mining_company:0 "Bergbauunternehmen Bor"
  YUG_krusik_organization:0 "Vistad"
  YUG_prva_tvornica_vagona_organization:0 "Prva Tvornica Vagona"
-zice:0 "Fabrika Munizije Užice"
-anization:0 "Jadransko Brodogradilište"
-te Kraljevica (Brodogradilište Kraljevica)"
-rus"
-Prva Tvornica Vagona"
+ YUG_fabrika_municije_uzice:0 "Fabrika Munizije Užice"
  YUG_jadransko_brodogradiliste_organization:0 "Jadransko Brodogradilište"
+ YUG_kraljevica_shipyard:0 "Brodogradilište Kraljevica (Brodogradilište Kraljevica)"
  YUG_lazarus_shipyard:0 "Brodogradilište Lazarus"
+ YUG_brodosplit:0 "Brodosplit"

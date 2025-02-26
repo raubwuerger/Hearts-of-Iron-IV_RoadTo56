@@ -260,6 +260,7 @@ KOR_generic_infantry_equipment_manufacturer:0 "Jinsen Arsenal"
 KOR_hyundai_construction:0 "Hyundai Maschinenbau und Bauwesen"
 KOR_west_pyongyang:0 "West Pyongyang Eisenbahnfabrik"
 KOR_hanjin_heavy_industries_company:0 "Hanjin Schwerindustrie"
+KOR_peoples_fleet:0 "Die Volksflotte"
 KOR_daelim_petrochemicals_concern:0 "Daelim Petrochemie"
 KOR_korea_aerospace_industries:0 "Korea Luft- und Raumfahrtindustrie"
 KOR_taechon:0 "Taechon Flugzeugfabrik"
@@ -297,8 +298,4 @@ KOR_tutelage_neutrality_def:0 "Republik Korea"
  KOR_1936:0 "Reformierte koreanische Armee"
 
 
-
-
-eformierte koreanische Armee"
-
-
+ KOR_adopt_maoism:0 "Übernahme des Maoismus"

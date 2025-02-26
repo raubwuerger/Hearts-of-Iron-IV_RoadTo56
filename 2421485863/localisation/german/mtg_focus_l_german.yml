@@ -225,6 +225,7 @@
  MEX_focus_spanish_civil_war_refugees:0 "Spanische Bürgerkriegsflüchtlinge"
  MEX_focus_spanish_civil_war_refugees_desc:0 "Die Feuersbrunst in Spanien treibt Zehntausende von spanischen Bürgern in die Flucht. Viele von ihnen gehören zur Crème de la Crème der spanischen Intelligenz oder sind hochqualifiziertes technisches Personal. Indem wir ihnen Zuflucht gewähren, erfüllen wir unsere humanitären Pflichten und kommen gleichzeitig Mexiko zugute."
  tooltip_spanish_civil_war_technical_knowledge:0 "Technisches Wissen aus dem Spanischen Bürgerkrieg"
+ scw_over:0 "Der Spanische Bürgerkrieg ist zu Ende"
  MEX_focus_falangist_veterans:0 "Falangisten-Veteranen"
  MEX_focus_falangist_veterans_desc:0 "Die Falangisten sind eine Organisation von faschistischen Paramilitärs in Spanien. Sie kämpfen für Gott und die Nation, obwohl viele von ihnen Monarchisten sind, was bedauerlich ist. Trotzdem sollten wir mit den Falangisten-Veteranen des Spanischen Bürgerkriegs Kontakt aufnehmen und aus ihren Erfahrungen lernen."
  tooltip_falangist_veterans_doctrine_knowledge:0 "Wissen über die Lehre der Falangisten-Veteranen"
@@ -766,4 +767,3 @@
  USA_intervention_mandate_tt:0 "§YInterventionsmandate§! erlauben es uns, den Kongress zu bitten, militärische Maßnahmen gegen ein anderes Land zu genehmigen."
  USA_honor_the_confederacy_tt:0 "Diese Beschlüsse ermöglichen es uns, im Falle eines Bürgerkriegs das Vertrauen der Bevölkerung in die Regierung wiederherzustellen, indem wir an die Vergangenheit anknüpfen."
  USA_foreign_support_tt:0 "Mit diesen Beschlüssen können wir uns an wichtige Länder wenden, um sie um materielle Unterstützung zu bitten."
-den, um sie um materielle Unterstützung zu bitten."

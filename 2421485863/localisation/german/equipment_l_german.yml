@@ -20,7 +20,27 @@
  convoy_desc:0 "Konvois werden für den internationalen Handel mit Waren und Ressourcen eingesetzt. Sie werden auch zur Beförderung von Truppen und zur Durchführung von Seeinvasionen eingesetzt."
  sh_battleship:0 "Überschwere Schlachtschiffe"
  sh_battleship_desc:0 "Das größte Kapitalschiff mit den größten Kanonen und der stärksten Panzerung, die man für Geld kaufen kann. Eine so teure Investition verdient eine angemessene Unterstützung durch kleinere Schutzschiffe."
+ light_airframe:0 "Leichte Flugzeuge"
+ light_airframe_desc:0 "Flugzeuge mit leichter Zelle"
+ medium_airframe:0 "Mittlere Flugzeugzelle"
+ medium_airframe_desc:0 "Flugzeuge auf Basis mittlerer Zelle"
+ heavy_airframe:0 "Schwere Zelle"
+ heavy_airframe_desc:0 "Flugzeuge mit schwerer Zelle"
+ jet_engines:0 "Strahltriebwerke"
+ JET_ENGINES_SPECIAL:0 "Die Entwicklung von Strahltriebwerken ist eine wesentliche Voraussetzung für die Entwicklung von strahlgetriebenen Flugzeugen. Sie muss erforscht werden, bevor man fortschrittliche Flugzeuge erforschen kann."
+ jet_engines_desc:0 "Das Strahltriebwerk ist ein Durchbruch in der Antriebstechnologie und wird die Entwicklung einer völlig neuen Generation von Flugzeugen ermöglichen."
  convoy_1:0 "Konvoi"
+ armored_car_equipment:0 "Gepanzertes Fahrzeug"
+ armored_car_equipment_desc:0 "Leichte gepanzerte Radfahrzeuge. Sie werden häufig zur Aufklärung und zur Unterdrückung von Widerstand eingesetzt, können aber auch mit schwereren Waffen ausgestattet werden."
+ motorized_equipment:0 "Motorisierte"
+ motorized_equipment_desc:0 "Lastkraftwagen und andere Fahrzeuge, die für den Transport von Truppen zu und im Feld verwendet werden."
+ motorized_equipment_1:0 "Motorisiert"
+ motorized_equipment_1_desc:0 "Die Motorisierung der Infanterie ist der erste Schritt zur Mechanisierung einer Armee. Zivile Lastkraftwagen lassen sich leicht für militärische Zwecke wie den Transport von Soldaten, das Ziehen von Geschützen und den Transport von Ausrüstung und Nachschub umrüsten. Dadurch wird die strategische Mobilität von Infanterieeinheiten, die ansonsten auf den Marsch angewiesen wären, erheblich gesteigert."
+ support_equipment_short:0 "Unterstützung Eq."
+ support_equipment:0 "Unterstützungsausrüstung"
+ support_equipment_desc:0 "Funkgeräte, Jeeps, Pontons und andere Ausrüstung zur Unterstützung der Truppen."
+ support_equipment_1:0 "Unterstützungsausrüstung"
+ support_equipment_1_desc:0 "Funkgeräte, Jeeps, Pontons und andere Ausrüstung zur Unterstützung der Truppen."
  tank_armor_upgrade:0 "Panzerung"
  tank_armor_upgrade_desc:0 "Eine bessere Panzerung als die, die deine Feinde durchdringen können, ist ein großer Vorteil für deine Divisionen, wird dich aber wahrscheinlich verlangsamen."
  tank_gun_upgrade:0 "Hauptgeschütz"
@@ -122,6 +142,12 @@
  guided_missile_equipment_3:0 "Fortgeschrittene Lenkwaffe"
  guided_missile_equipment_3_short:0 "Lenkflugkörper III"
  guided_missile_equipment_3_desc:0 "Beste unbemannte fliegende Bombe."
+ motorized_rocket_equipment:0 "Motorisierte Raketenartillerie"
+ motorized_rocket_equipment_short:0 "Mot. R. Artillerie"
+ motorized_rocket_equipment_desc:0 "Mehrfachraketenwerfer wie diese bringen Sprengstoff schneller in ein Zielgebiet als herkömmliche Artillerie, haben aber eine geringere Genauigkeit und benötigen eine längere Zeit zum Nachladen. Da diese Version auf Lastwagen montiert ist, kann sie Angriffe starten und die Position wechseln, bevor der Feind das Feuer erwidern kann."
+ motorized_rocket_equipment_1:0 "Motorisierte Raketenartillerie"
+ motorized_rocket_equipment_1_short:0 "Mot. R. Artillerie"
+ motorized_rocket_equipment_1_desc:0 "Diese Mehrfachraketenwerfer bringen Sprengstoff schneller in ein Zielgebiet als herkömmliche Artillerie, haben aber eine geringere Treffsicherheit und benötigen eine längere Nachladezeit. Da diese Version auf Lastwagen montiert ist, kann sie Angriffe starten und die Position wechseln, bevor der Feind das Feuer erwidern kann."
 
  ballistic_missile: "Ballistische Raketen"
  ballistic_missile_equipment: "Ballistische Raketen"
@@ -546,15 +572,54 @@ UNIT_GENERIC_NAME_TAN:0 "$NR$ya $NAME$"
  HOL_EQUIPMENT_VERSION_15:1 "Nr. 15"
  HOL_EQUIPMENT_VERSION_16:1 "Nr. 16"
 
+ tank_reliability_upgrade:0 "Verlässlichkeit"
  tank_reliability_upgrade_desc:1 "Eine höhere Zuverlässigkeit führt dazu, dass Sie weniger Geräte ersetzen müssen, die ausfallen."
  mech_cost_upgrade:0 "Produktionskosten"
  mech_cost_upgrade_desc:0 "Durch die Optimierung des Designs und die Substitution weniger wichtiger Materialien kann das Fahrzeug schneller gebaut werden, weist aber etwas mehr Mängel auf."
+ plane_armor_upgrade:0 "Panzerung"
+ plane_armor_upgrade_desc:0 "Selbstabdichtende Treibstofftanks und Panzerplatten verbessern die Überlebensfähigkeit."
+ artillery_equipment_2:0 "Verbesserte Artillerie"
+ artillery_equipment_2_desc:0 "Neue Haubitzenkonstruktionen, die die Vorteile neuer hydraulischer Rückstoßvorrichtungen und längerer Rohre nutzen."
+ artillery_equipment_3:0 "Fortgeschrittene Artillerie"
+ artillery_equipment_3_desc:0 "Leichte Artillerie, die für den Transport zerlegt werden kann, wodurch es möglich wird, Artillerieunterstützung in bisher schwer zugängliche Gebiete zu bringen."
+ anti_air_equipment_2:0 "Verbesserte Luftabwehr"
+ anti_air_equipment_2_desc:0 "Luftabwehrkanonen mit längeren Patronen und Läufen, die auf hoch fliegende Flugzeuge zielen können."
+ anti_air_equipment_3:0 "Erweiterte Luftabwehr"
+ anti_air_equipment_3_desc:1 "Ein fortschrittliches mobiles Flakgeschütz mit größerer Reichweite und Feuerkapazität, um auch die schnellsten und am höchsten fliegenden feindlichen Flugzeuge zu bekämpfen."
+ rocket_artillery_equipment_2:0 "Fortgeschrittene Raketenartillerie"
+ rocket_artillery_equipment_2_desc:0 "Drallstabilisierte Raketen, die die Reichweite leichterer Artilleriebatterien erhöhen."
+ anti_tank_equipment_2:0 "Verbesserte Panzerabwehr"
+ anti_tank_equipment_2_desc:0 "Kanonen größeren Kalibers zur Bekämpfung schwerer Panzer mit schräger Panzerung."
+ anti_tank_equipment_3:0 "Erweiterte Panzerabwehr"
+ anti_tank_equipment_3_desc:0 "Durch die Kombination verschiedener neuer Munitionstechnologien mit Geschützen mit höherer Mündungsgeschwindigkeit sind diese Panzerabwehrkanonen auf jede neue Panzerung unserer Feinde vorbereitet."
+ motorized_rocket_equipment:0 "Motorisierte Raketenartillerie"
+ motorized_rocket_equipment_short:0 "Mot. R. Artillerie"
+ motorized_rocket_equipment_desc:0 "Mehrfachraketenwerfer wie diese bringen Sprengstoff schneller in ein Zielgebiet als herkömmliche Artillerie, haben aber eine geringere Genauigkeit und benötigen eine längere Nachladezeit. Da diese Version auf Lastwagen montiert ist, kann sie Angriffe starten und die Position wechseln, bevor der Feind das Feuer erwidern kann."
+ motorized_rocket_equipment_1:0 "Motorisierte Raketenartillerie"
+ motorized_rocket_equipment_1_short:0 "Mot. R. Artillerie"
+ motorized_rocket_equipment_1_desc:0 "Diese Mehrfachraketenwerfer bringen Sprengstoff schneller in ein Zielgebiet als herkömmliche Artillerie, haben aber eine geringere Treffsicherheit und benötigen eine längere Nachladezeit. Da diese Version auf Lastwagen montiert ist, kann sie Angriffe starten und die Position wechseln, bevor der Feind das Feuer erwidern kann."
+ amphibious_mechanized_equipment:0 "Amphibische Landungsfahrzeuge"
+ amphibious_mechanized_equipment_short:0 "Amtracs"
+ amphibious_mechanized_equipment_desc:0 "Amphibische Traktoren, auch Amtracs genannt, ermöglichen es den Marines, unter gepanzertem Schutz an einem Strand zu landen. Dies geht jedoch auf Kosten einer schlechten Treibstoffeffizienz."
+ amphibious_mechanized_equipment_1:0 "Basis-Amphibienschlepper"
+ amphibious_mechanized_equipment_1_short:0 "Einfacher Amtrac"
+ amphibious_mechanized_equipment_1_desc:0 "Amphibische Traktoren oder Amtracs ermöglichen es Marines, unter gepanzertem Schutz an einem Strand zu landen. Dies geht jedoch auf Kosten einer schlechten Treibstoffeffizienz."
+ amphibious_mechanized_equipment_2:0 "Verbesserter amphibischer Traktor"
+ amphibious_mechanized_equipment_2_short:0 "Verbesserter Amtrac"
+ amphibious_mechanized_equipment_2_desc:0 "Diese Amtracs weisen einige Verbesserungen gegenüber der Basisversion auf, wie z. B. eine hintere Laderampe zum leichteren Entladen am Strand."
+ amphibious_tank_equipment:0 "Amphibische Panzer"
+ amphibious_tank_equipment_short:0 "Amphib. Panzer"
  light_tank_amphibious_chassis:0 "Leichte amphibische Panzer"
  light_tank_amphibious_chassis_short:0 "L. Amphib. Panzer"
  medium_tank_amphibious_chassis:0 "Mittlere Amphibische Panzer"
  medium_tank_amphibious_chassis_short:0 "M. Amphib. Panzer"
  heavy_tank_amphibious_chassis:0 "Schwere amphibische Panzer"
  heavy_tank_amphibious_chassis_short:0 "H. Amphib. Panzer"
+ amphibious_tank_equipment_1:0 "Amphibischer Grundpanzer"
+ amphibious_tank_equipment_2:0 "Verbesserter amphibischer Panzer"
+ amphibious_tank_equipment_desc:0 "Panzer, die so modifiziert wurden, dass sie sich durch Wasser bewegen können. Sie eignen sich viel besser für amphibische Landungen und Flussdurchquerungen als andere Panzer, benötigen aber mehr Treibstoff."
+ amphibious_tank_equipment_1_desc:0 "Dieses Fahrzeug ist im Wesentlichen ein leichter, schwimmfähiger Panzer, der den Einheiten, die einen Brückenkopf aufbauen, Feuerunterstützung bietet."
+ amphibious_tank_equipment_2_desc:0 "Ein mittlerer Panzer, der für die Fortbewegung im Wasser umgebaut wurde. Die zusätzliche Vielseitigkeit und Mobilität geht auf Kosten einer geringeren Treibstoffeffizienz."
 
  EQUIPMENT_MODULE_NOT_ALLOWED:0 "§RNicht verfügbar§!"
  tank_nsb_engine_upgrade:0 "$Panzer_Motor_Aufrüstung$"
@@ -662,193 +727,76 @@ UNIT_GENERIC_NAME_TAN:0 "$NR$ya $NAME$"
  ##SPECIAL PROJECTS - armopred engineers
  armored_support_vehicle: "Gepanzertes Unterstützungsfahrzeug"
  armored_support_vehicle_desc: "Diese vielseitigen Fahrzeuge bieten wichtige Unterstützung und Mobilität auf dem Schlachtfeld unter gepanzertem Schutz." 
+ armored_support_vehicle_1: "Gepanzertes Unterstützungsfahrzeug"
 
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-itenwagen und montierten Maschinengewehren ausgestattet und dienen als Aufklärungs-, Kommunikations- und Schnellreaktionseinheiten."
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-ed_super_heavy_howitzer_desc$"
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-ropelled_super_heavy_howitzer_desc$"
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-: "Diese vielseitigen Fahrzeuge bieten wichtige Unterstützung und Mobilität auf dem Schlachtfeld unter gepanzertem Schutz." 
-
+ motorbike_equipment: "Militär-Motorrad"
+ motorbike_equipment_desc: "Die schnellen und vielseitigen Militärmotorräder sind oft mit Seitenwagen und montierten Maschinengewehren ausgestattet und dienen als Aufklärungs-, Kommunikations- und Schnellreaktionseinheiten."
  motorbike_equipment_1: "Militär-Motorrad"
 
  light_tank_land_cruiser_equipment: "Leichter Land Kreutzer"
 
  super_heavy_artillery_equipment: "Superschwere Haubitze"
  super_heavy_artillery_equipment_short: "SS. Haubitze"
+ super_heavy_artillery_equipment_desc: "$sp_land_self_propelled_super_heavy_howitzer_desc$"
+ super_heavy_artillery_equipment_1: "Superschwere Haubitze"
+ super_heavy_artillery_equipment_1_short: "SS. Haubitze"
+ super_heavy_artillery_equipment_1_desc: "$sp_land_self_propelled_super_heavy_howitzer_desc$"
 
  self_propelled_super_heavy_artillery_equipment: "Selbstfahrende superschwere Haubitze"
  self_propelled_super_heavy_artillery_equipment_short: "SS. SF. Haubitze"
  self_propelled_super_heavy_artillery_equipment_desc: "$sp_land_super_heavy_howitzer_desc$"
+ self_propelled_super_heavy_artillery_equipment_1: "Selbstfahrende superschwere Haubitze"
+ self_propelled_super_heavy_artillery_equipment_1_short: "SS. SF. Haubitze"
+ self_propelled_super_heavy_artillery_equipment_1_desc: "$sp_land_super_heavy_howitzer_desc$"
 
+ super_heavy_railway_gun_equipment: "Superschweres Eisenbahngeschütz"
+ super_heavy_railway_gun_equipment_short: "SS. Eisenbahnkanone"
+ super_heavy_railway_gun_equipment_desc: "Eine kolossale Waffe von unübertroffener Kraft und Präzision, die ein Zeugnis für das unermüdliche Streben nach militärischer Überlegenheit unseres Landes sein wird."
+ super_heavy_railway_gun_equipment_1: "Superschweres Eisenbahngeschütz"
+ super_heavy_railway_gun_equipment_1_short: "SS. Eisenbahnkanone"
+ super_heavy_railway_gun_equipment_1_desc: "Eine kolossale Waffe von unübertroffener Kraft und Präzision, die als Zeugnis für das unermüdliche Streben unseres Landes nach militärischer Überlegenheit stehen wird."
+ GER_super_heavy_railway_gun_equipment_1: "Dora"
+ ITA_super_heavy_railway_gun_equipment_1: "Cannone da 381/40 AVS"
+ ENG_super_heavy_railway_gun_equipment_1: "BL 18 inch"
+ USA_super_heavy_railway_gun_equipment_1: "14 inch M1920"
+ FRA_super_heavy_railway_gun_equipment_1: "Obusier de 520"
 
+ explosive_ammo_equipment: "$mega_gun_emplacement$"
+ explosive_ammo_equipment_short: "$mega_gun_emplacement$"
+ explosive_ammo_equipment_desc: "Ein hochexplosives Projektil, das aus einer Großkaliber-Mehrladungswaffe abgefeuert werden kann und Ziele auf sehr große Entfernung erreichen kann."
+ explosive_ammo_equipment_1: "$mega_gun_emplacement$"
+ explosive_ammo_equipment_1_short: "$mega_gun_emplacement$"
+ explosive_ammo_equipment_1_desc: "Ein hochexplosives Projektil, das aus einer Großkaliber-Mehrladungswaffe abgefeuert werden kann und Ziele auf sehr große Entfernung erreichen kann."
 
+ land_cruiser_equipment: "Landkreuzer"
+ land_cruiser_equipment_desc: "$land_cruiser_chassis_desc$"
+ land_cruiser_equipment_1: "Landkreuzer"
+ land_cruiser_equipment_1_short: "Land Cruiser"
+ land_cruiser_equipment_1_desc: "$land_cruiser_chassis_desc$"
+ GER_land_cruiser_equipment_1: "Landkreuzer P.1000 Ratte"
+ GER_land_cruiser_equipment_1_short: "Ratte"
+ GER_land_cruiser_equipment_1_desc: "Der P.1000 Ratte war ein deutsches Konzept für einen superschweren Panzer, das während des Zweiten Weltkriegs entwickelt wurde. Der 1942 von Krupp vorgeschlagene Entwurf sah ein 1000 Tonnen schweres gepanzertes Ungetüm vor, das mit zwei 280-mm-Schiffskanonen, mehreren Sekundärwaffen und einer bis zu 360 mm dicken Panzerung ausgestattet war. Die Ratte sollte als mobile Festung dienen, die in der Lage war, jeden Gegner auf dem Schlachtfeld zu überwältigen. Aufgrund seiner immensen Größe, des hohen Treibstoffverbrauchs und der logistischen Unzulänglichkeiten wurde das Projekt jedoch als undurchführbar eingestuft und schließlich 1943 gestrichen."
 
+ helicopter_equipment: "Hubschrauber"
+ helicopter_equipment_short: "Hubschrauber"
+ helicopter_equipment_desc: "Ein Fluggerät, das sich auf schnell drehende Rotoren anstelle von Flügeln und Vorwärtsdynamik stützt. Das bedeutet, dass es an Ort und Stelle schweben kann und mehr Kontrolle über vertikale Höhenveränderungen hat."
+ helicopter_equipment_1: "Hubschrauber"
+ helicopter_equipment_1_short: "Hubschrauber"
+ helicopter_equipment_1_desc: "Ein Fluggerät, das sich auf schnell drehende Rotoren anstelle von Flügeln und Vorwärtsdynamik stützt. Das bedeutet, dass es an Ort und Stelle schweben kann und mehr Kontrolle über vertikale Höhenveränderungen hat."
 
  
+ strat_bomber_intercontinental_equipment: "Interkontinentalbomber"
+ strat_bomber_intercontinental_equipment_short: "ITC Bomber"
+ strat_bomber_intercontinental_equipment_desc: "Ein riesiges Flugzeug, das speziell für Einsätze mit extrem großer Reichweite entwickelt wurde und strategische Bombenangriffe über Kontinente hinweg ermöglichen soll."
+ strat_bomber_intercontinental_equipment_1: "Interkontinentalbomber"
+ strat_bomber_intercontinental_equipment_1_short: "ITC Bomber"
+ strat_bomber_intercontinental_equipment_1_desc: "Ein riesiges Flugzeug, das speziell für Einsätze mit extrem großer Reichweite entwickelt wurde und strategische Bombenangriffe über Kontinente hinweg ermöglichen soll."
 
-
-
-
-
-
-
+ mothership_equipment: "Mutterschiff-Flugzeug"
+ mothership_equipment_short: "Mutterschiff-Flugzeug"
+ mothership_equipment_desc: "Ein sehr großes Flugzeug, das mehrere Kampfflugzeuge in den Kampf mitnimmt und so eine größere Reichweite hat, als es normalerweise möglich wäre. Der Träger des Himmels."
+ mothership_equipment_0:  "Mutterschiff-Flugzeug"
+ mothership_equipment_0_short: "Mutterschiff-Flugzeug"
+ mothership_equipment_0_desc: "Ein sehr großes Flugzeug, das mehrere Kampfflugzeuge in den Kampf mitnimmt und so eine größere Reichweite hat, als es normalerweise möglich wäre. Der Träger des Himmels."
 
 
