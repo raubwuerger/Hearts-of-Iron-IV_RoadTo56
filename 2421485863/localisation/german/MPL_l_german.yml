@@ -1168,13 +1168,6 @@ r56_MPL_mandate_area:0		"Mandat des Völkerbundes"
 r56_MPL_mandate_area_desc:0		"Aufgrund der Ausweisung als Mandatsgebiet durch den Völkerbund hat die britische Verwaltung eine stärkere Kontrolle über die lokale Industrie in der Region."
 MPL_scientific_genius:0			"Wissenschaftliches Genie"
 rden.	"
-RULE_OPTION_PAL_FAWZI:0	"£GFX_gamerules_PAL_golani Der Putsch von Fawzi"
-RULE_OPTION_PAL_FAWZI_AI_DESC:0	"Während des Unabhängigkeitskrieges wird der Plan von Fawzi Al-Qawuqji gewählt, der die Macht der Zivilbevölkerung in der Regierung unterdrückt und einen Putsch der Opposition verhindert."
-RULE_OPTION_PAL_GOLANI:0	"£GFX_gamerules_PAL_golani Golani kämpft um die Macht"
-RULE_OPTION_PAL_GOLANI_AI_DESC:0	"Während des Unabhängigkeitskrieges wird der Plan von Fawzi Al-Qawuqji gewählt, aber er verliert die Macht an Abdulhalim Al-Golani, der ihn stürzt."
 
 
 #Modifers ""
-r56_MPL_mandate_area:0	"Mandat des Völkerbundes"
-r56_MPL_mandate_area_desc:0	"Aufgrund der Ausweisung als Mandatsgebiet durch den Völkerbund hat die britische Verwaltung eine stärkere Kontrolle über die lokale Industrie in der Region."
-MPL_scientific_genius:0		"Wissenschaftliches Genie"

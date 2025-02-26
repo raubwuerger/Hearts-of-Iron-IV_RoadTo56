@@ -1122,8 +1122,3 @@ wtt_germany.1006.desc:0		"Der Servizio Informatzione Militaire hat von verdächt
 wtt_germany.1006.a:0		"Banda Carità kann mit ihnen fertig werden"
 wtt_germany.63.desc:0			"Die [GER.GetAdjective] Regierung hat ein Gesetz erlassen, das die Wiedereingliederung von Elsass-Lothringen und Luxemburg in [GER.GetNameDef] vorsieht. Die Masseneinberufung unserer Bevölkerung hat bereits begonnen."
 Zeit wird zeigen, ob sie diese Aktion als Grund genug ansehen, um in den Krieg zu ziehen.	"
-wtt_prc.20.c:0	"Wir sollten uns ganz vom Kontinent zurückziehen."
-wtt_germany.1006.t:0	"Der Kaiser bereitet einen Putsch vor!"
-wtt_germany.1006.desc:0	"Der Servizio Informatzione Militaire hat von verdächtigen Aktivitäten in den inneren Kreisen der Monarchisten berichtet. Offenbar haben einige der Königstreuen in letzter Zeit Kontakt zu ausländischen Agenten gehabt, und zwar zu deutschen. Es scheint, dass die Monarchisten rekrutiert und gegen unseren großen Führer aufgehetzt werden, aber es ist noch nicht alles verloren. Wir können die Banden losschicken, um uns um sie zu kümmern und sie zurückzuschlagen, solange wir noch die Chance dazu haben. Wie sollen wir vorgehen?"
-wtt_germany.1006.a:0	"Banda Carità kann mit ihnen fertig werden"
-wtt_germany.63.desc:0		"Die Regierung [GER.GetAdjective] hat ein Gesetz erlassen, das die Wiedereingliederung von Elsaß-Lothringen und Luxemburg in [GER.GetNameDef] vorsieht. Die Masseneinberufung unserer Bevölkerung hat bereits begonnen."

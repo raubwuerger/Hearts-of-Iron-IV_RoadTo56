@@ -974,11 +974,4 @@ CZKE_holek_brothers_desc:0			"Die Gebrüder Holek entwarfen die fortschrittlichs
 orbereiten.	"
 
 #DECISIONS# ""
-CZE_the_second_czechoslovak_republic:0	"Die Zweite Tschechoslowakische Republik"
-CZE_the_second_czechoslovak_republic_desc:0	"[CZE.getNameDefCap] ist ein multiethnischer Staat, der 1918 aus dem zerfallenden österreichisch-ungarischen Reich als unabhängige Nation hervorging, die von vielen ethnischen Tschechen, Slowaken, Deutschen, Ungarn, Ruthenen, Polen und vielen anderen bevölkert wurde. \nDiese Vielfalt bringt verschiedene Vorteile und Hindernisse für die junge Republik mit sich. "
-CZE_subcarpathian_ruthenia_political_reforms:0	"Politische Reformen in [73.getName]"
-CZE_subcarpathian_ruthenia_political_reforms_desc:0	"Die Folgen der Münchner Krise verlangten eine größere Autonomie für die östlichen Regionen von [CZE.getNameDef].\n\n]Zwei Verfassungsgesetze vom 22. November 1938 (Verfassungsgesetz Nr. 299/1938 Slg. über die Autonomie der Slowakei und das Verfassungsgesetz Nr. 328/1938 Slg. über die Autonomie der Karpatenruthenie) ersetzten den bestehenden einheitlichen Charakter des tschechoslowakischen Staates durch ein asymmetrisches Modell der Autonomie der Slowakei und der Karpatenruthenie, nicht aber der historischen tschechischen Gebiete."
 
-CZE_sdp_radicalization:0	"Radikalisierungskrise der SdP"
-CZE_sdp_radicalization_desc:0	"Die deutsche Minderheit im Sudetenland strebt aktiv eine engere Bindung an [GER.getNameDef] an. Sie fordert eine größere Autonomie innerhalb des Staates und droht, den Widerstand gegen die staatlichen Behörden in ihren Gebieten zu verstärken."
-CZKE_holek_brothers_desc:0		"Die Gebrüder Holek entwarfen die fortschrittlichsten tschechischen Feuerwaffen, die weltweit lizenziert wurden, als sie bei der Firma Zbrojovka Brno beschäftigt waren."
