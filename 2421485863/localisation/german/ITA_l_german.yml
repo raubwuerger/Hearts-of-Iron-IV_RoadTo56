@@ -706,4 +706,3 @@ ITA_follow_pariani_plan_re_tt:0 "$ITA_modify_regio_esercito_dynamic_modifier_ns_
  ITA_pressure_country_government_YUG_desc:0 "Wir werden die [FROM.GetAdjective]-Regierung unter Druck setzen, damit sie eine Politik verfolgt, die unseren Interessen besser entspricht."
  ITA_promote_ideology_rallies_YUG:0 "Förderung von Ideologie-Kundgebungen in [FROM.GetNameDef]"
  ITA_promote_ideology_rallies_YUG_desc:0 "[ROOT.GetAdjective]-Agenten werden politische Kundgebungen in ganz [FROM.GetNameDef] durchführen, um [ROOT.GetIdeologyNameWithCaps] unter den [FROM.GetAdjective]-Massen zu fördern."
-ROM.GetAdjective]-Massen zu fördern."

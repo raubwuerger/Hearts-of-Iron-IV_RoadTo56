@@ -944,4 +944,4 @@ lithuania.124.t:0	"Deutschland weigert sich zu helfen"
 lithuania.124.desc:0	"[GER.GetNameDefCap] hat unsere Bitte um Unterstützung abgelehnt, falls der Konflikt um [784.GetName] in einen Krieg ausartet. Ihr Botschafter teilt uns mit, dass sie keinen Krieg mit [784.Owner.GetNameDefCap] riskieren können."
 lithuania.124.a:0	"Eine Änderung der Pläne also"
 LIT_political_path_decided:0	"Der politische Weg ist entschieden"
-	"Eine Änderung der Pläne also"
+

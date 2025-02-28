@@ -215,5 +215,5 @@
  JAP_mio_trait_simplified_amphibious_vehicles:0 "Vereinfachte Amphibienfahrzeuge"
 
  generic_mio_trait_multi_task_mining_equipment:0 "Multitasking-Bergbauausrüstung"
- generic_mio_trait_radio_navigation_patrolling:0 "Funknavigation für Patrouillenfahrten #realistisch gesehen viel nützlicher als nur ein bisschen Anerkennung."
-navigation_patrolling:0 "Funknavigation für Patrouillenfahrten #realistisch gesehen viel nützlicher als nur ein bisschen Anerkennung."
+ generic_mio_trait_radio_navigation_patrolling:0 "Funknavigation für Patrouillenfahrten."
+ navigation_patrolling:0 "Funknavigation für Patrouillenfahrten."

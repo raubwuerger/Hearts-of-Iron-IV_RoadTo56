@@ -508,10 +508,3 @@
 
  cityfall.105.t:0 "[new_controller.GetAdjective] Einheiten erobern Jerusalem"
  cityfall.105.desc:0 "Nach Berichten von [new_controller.GetAdjective]-Generälen haben Soldaten der [new_controller.GetAdjective]-Armee den größten Teil Jerusalems, einschließlich der historischen Altstadt, eingenommen. Die Kämpfe in der Nähe der heiligen Stätten in der Altstadt wurden von beiden Seiten auf ein Minimum beschränkt, aber als [new_controller. GetAdjective] Truppen durch das Damaskustor marschierten, haben die Generäle von [old_controller.GetAdjective] einen vollständigen Rückzug aus der Stadt gefordert.\n\n[old_controller.GetLeader] hat im nationalen Radio verkündet, dass der Kampf noch nicht vorbei ist und dass die strategisch wichtige Heilige Stadt wieder in ihrer Hand sein wird."
-
-
-#cityfall.12.t:0 "Der Fall von Stockholm"
-#cityfall.12.d:0 "."
-#cityfall.12.a:0 "."
-#cityfall.12.b:0 "Wir korrigieren nur das Unrecht der Vergangenheit."
-#cityfall.12.c:0 "Der Kampf in London mag vorbei sein, aber er wird niemals gewonnen werden."

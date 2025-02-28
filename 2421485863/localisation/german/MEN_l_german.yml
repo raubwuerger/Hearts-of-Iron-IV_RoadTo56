@@ -651,4 +651,3 @@
  r56_MEN_prioritize_industrialization_event_tt:0 "§RCannot join wars of [MEN.GetNonIdeologyName] due to them having a civil war§!"
  MEN_rapid_industrialization_refresh_190_days_tt:0 "§YCompleting§! Industrial §YNational Focuses§! while we have the '§Y$MEN_rapid_industrialization$§!§W'§! §YNational Spirit§! will grant additional §YEffects.§!"
  MEN_prioritize_industrialization_bonus_effect_tt:0 "'§Y$MEN_rapid_industrialization$§!§W'§! wird §Yerneuert§! für weitere §Y190§! Tage"
-t_tt:0 "'§Y$MEN_rapid_industrialization$§!§W'§! wird §Yerneuert§! für weitere §Y190§! Tage"

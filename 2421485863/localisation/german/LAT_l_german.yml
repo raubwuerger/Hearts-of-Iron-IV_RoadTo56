@@ -1,4 +1,5 @@
 ﻿l_german:
+ latvia_tree:0 "Lettischer Fokus-Baum"
  latvian_focus:0 "Lettland National Focus"
 #I can't believe that I have to put this in a localization file ""
 #Latvian Central Council boost legitimacy for democrats ""
@@ -373,4 +374,3 @@
  LAT_event.8.b:0 "Lacis Villis wird stattdessen als Staatsoberhaupt fungieren."
 
  LAT_suspend_the_constitution:0 "erfassung aussetzen"
- latvia_tree:0 "Lettischer Fokus-Baum"
