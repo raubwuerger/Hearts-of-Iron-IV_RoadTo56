@@ -189,7 +189,6 @@ tungsten_mine_reduction_1:0 "Kleiner Rückgang des Wolframbergbaus"
 tungsten_mine_reduction_2:0 "Zunehmender Rückgang des Wolframbergbaus"
 tungsten_mine_reduction_3:0 "Signifikanter Rückgang des Wolframabbaus"
 
-mal_trade_decisions_desc:0 "Aktuelle Offmap-Fabriken: §G[?mal_trade_factory_total]§!"
 
 mal_available_factories_tooltip_1:0 "Wir brauchen §G1§! Offmap-Fabrik, um diese Handelsmission zu beginnen."
 mal_available_factories_tooltip_2:0 "Wir brauchen §G2§! verfügbare Offmap-Fabriken, um diese Handelsmission zu beginnen."
@@ -519,20 +518,16 @@ mal_fascist_denied:0 "Verweigerte Freiheit"
  #MAL_neutrality_party:0 "esatuan Melayu Muda oder KMM"
 
 MAL_monarchy_party:0 "Royalisten"
- MAL_monarchy_party_long:0 "Malaiische Royalisten"
-MAL_fascism_party:0 "NM" #Junge Malaysische Union
-  MAL_fascism_party_long:0 "Kesatuan Melayu Muda"
+MAL_monarchy_party_long:0 "Malaiische Royalisten"
+MAL_fascism_party_long:0 "Kesatuan Melayu Muda"
 MAL_fascism_party_puppet:0 "PETA"
-  MAL_fascism_party_puppet_long:0 "Sembela Tanah Ayer" #Verteidiger des Mutterlandes
-MAL_democratic_party:0 "Kertubuhan Kebangsaan Melayu Bersatu oder UMNO oder PEKEMBAR"
-  MAL_democratic_party_long:0 "EKEMBAR" #oder UMNO oder PEKEMBAR
+MAL_fascism_party_puppet_long:0 "Sembela Tanah Ayer" #Verteidiger des Mutterlandes
+MAL_democratic_party_long:0 "EKEMBAR" #oder UMNO oder PEKEMBAR
 MAL_democratic_party_puppet:0 "KM"
-  MAL_democratic_party_puppet_long:0 "Kesatuan Melayu"
-MAL_communism_party:0 "CP oder MCP"
-  MAL_communism_party_long:0 "Parti Komunis Malaya oder MCP"
+MAL_democratic_party_puppet_long:0 "Kesatuan Melayu"
+MAL_communism_party_long:0 "Parti Komunis Malaya oder MCP"
 MAL_neutrality_party_puppet:0 "Kerajaan Penjajah"
-MAL_neutrality_party:0 "AMCJA"
-  MAL_neutrality_party_long:0 "All-Malaya Council of Joint Action"
+MAL_neutrality_party_long:0 "All-Malaya Council of Joint Action"
 
 MAL_democratic_umno:0 "UMNO"
 MAL_democratic_umno_long:0 "Pertubuhan Kebangsaan Melayu"
@@ -544,4 +539,4 @@ MAL_democratic_imp_long:0 "Parti Kemerdekaan Malaya"
 #tooltips ""
 MAL_status_quo_tooltip:0 "Nur zur Verwendung durch AI."
 MAL_singapore_tooltip:0 "Dies tut derzeit nichts"
-tip:0 "Nur zur Verwendung durch AI."
+mal_trade_decisions_desc:0 "Aktuelle Offmap-Fabriken: §G[?mal_trade_factory_total]§!"

@@ -1,6 +1,5 @@
 ﻿l_german:
  wtt_germany.641.t:0 "[GER.GetNameDefCap] Reintegriert Eupen-Malmedy"
- wtt_germany.63.desc:0 "Die [GER.GetAdjective]-Regierung hat ein Gesetz erlassen, das die Wiedereingliederung von Elsass-Lothringen, Luxemburg und Eupen-Malmedy in [GER.GetNameDef] vorsieht. Die Masseneinberufung unserer Bevölkerung hat bereits begonnen."
  CHL_political_events.4.t: "[CHL.GetName] Bewegt sich zur Besetzung von [1065.GetName]"
  CHL_political_events.4.desc: "Truppen des [CHL.GetAdjective]-Staates haben begonnen, die zuvor festgelegten Grenzen in [1065.GetName] zu überschreiten, und ihre Luftwaffe und Marine sind bereits mobilisiert. Es scheint, dass sie es ernst meinen, die Kontrolle über die umstrittene Insel zu übernehmen, und es ist nicht klar, ob wir dies zum jetzigen Zeitpunkt durch Schlichtung verhindern können. Wie sollten wir vorgehen?"
  CHL_political_events.5.t: "[ARG.GetName] Zieht sich von [1065.GetName] zurück."
