@@ -521,13 +521,12 @@ MAL_monarchy_party:0 "Royalisten"
 MAL_monarchy_party_long:0 "Malaiische Royalisten"
 MAL_fascism_party_long:0 "Kesatuan Melayu Muda"
 MAL_fascism_party_puppet:0 "PETA"
-MAL_fascism_party_puppet_long:0 "Sembela Tanah Ayer" #Verteidiger des Mutterlandes
-MAL_democratic_party_long:0 "EKEMBAR" #oder UMNO oder PEKEMBAR
+MAL_fascism_party_puppet_long:0 "Sembela Tanah Ayer" 
+MAL_democratic_party_long:0 "EKEMBAR" 
 MAL_democratic_party_puppet:0 "KM"
 MAL_democratic_party_puppet_long:0 "Kesatuan Melayu"
 MAL_communism_party_long:0 "Parti Komunis Malaya oder MCP"
 MAL_neutrality_party_puppet:0 "Kerajaan Penjajah"
-MAL_neutrality_party_long:0 "All-Malaya Council of Joint Action"
 
 MAL_democratic_umno:0 "UMNO"
 MAL_democratic_umno_long:0 "Pertubuhan Kebangsaan Melayu"

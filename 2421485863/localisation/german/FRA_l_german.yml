@@ -196,7 +196,6 @@
  FRA_industrial_support9:0 "Industrielle Unterstützung"
  FRA_wartime_focus:0 "Gesetz über die Kriegsorganisation"
  FRA_colonial_focus:0 "Koloniale Investitionen"
- FRA_colonial_investments:0 "Koloniale Investitionen"
  FRA_armament_program:0 "Rüstungsprogramm"
  FRA_commando_marine:0 "Kommandos Marine"
  FRA_desert_equipment:0 "Wüstenausrüstung"
@@ -227,7 +226,6 @@
  french_research_desc:0 "Verkürzte Forschungszeit für Technologien, die unter französischer Herrschaft erforscht wurden."
 
 
- fcm:0 "FCM"
  fcm_desc:0 "Forges et Chantiers de la Méditerranée"
  caer:0 "CAER"
  caer_desc:0 "Chantiers Aéronavals Étienne Romano"
@@ -286,8 +284,6 @@
  FRA_tulle_arsenal:0 "Waffenmanufaktur von Tulle"
 
 
- FRA_charles_tillon:0 "Charles Tillon"
- FRA_jacques_duclos:0 "Jacques Duclos"
  FRA_lucien_midol:0 "Lucien Midol"
 
 
@@ -307,7 +303,6 @@
  self_thaught_intellectual:0 "Autodidaktischer Intellektueller"
 
  FRA_georges_mandel:0 "Georges Mandel"
- FRA_georges_bonnet:0 "Georges Bonnet"
  FRA_guy_la_chambre:0 "Guy La Chambre"
 
  FRA_pierre_mendes_france:0 "Pierre Mendès Frankreich"
@@ -325,12 +320,10 @@
 
 
  FRA_henri_barbe:0 "Henri Barbé"
- FRA_pierre_pucheu:0 "Pierre Pucheu"
  FRA_abel_bonnard:0 "Abel Bonnard"
  FRA_paul_marion:0 "Paul Marion"
 
  FRA_xavier_vallat:0 "Xavier Vallat"
- FRA_philippe_henriot:0 "Philippe Henriot"
  FRA_joseph_darnaud:0 "Joseph Darnand"
  FRA_georges_loustaunau_lacau:0 "Georges Loustaunau-Lacau"
 
@@ -341,7 +334,6 @@
  connected_politician:0 "Verbundener Politiker"
 
  FRA_maurice_pujo:0 "Maurice Pujo"
- FRA_charles_maurras:0 "Charles Maurras"
  FRA_leon_daudet:0 "Léon Daudet"
  FRA_robert_brasillach:0 "Robert Brasillach"
  FRA_paul_granier_de_cassagnac:0 "Paul Granier de Cassagnac"
@@ -1108,13 +1100,7 @@
  FRA_reestablish_the_government_in_paris:0 "Wiedereinsetzung der Regierung in Paris"
 
  FRA_weapons_purchases_category:1 "Kauf von [USA.GetAdjective] Waffen"
- FRA_weapons_purchases_category_desc:0 "Da unsere Industrie immer noch Nachholbedarf hat, könnte die Suche nach modernen Waffen im Ausland die einzige Möglichkeit sein, unsere Streitkräfte auf den neuesten Stand zu bringen."
- FRA_order_weapons_in_USA:0 "Kleinwaffen bestellen"
  FRA_order_support_equipment_in_USA:0 "Unterstützungsausrüstung bestellen"
- FRA_order_artillery_in_USA:0 "Artillerie bestellen"
- FRA_order_tanks_in_USA:0 "Panzer bestellen"
- FRA_order_fighters_in_USA:0 "Bestellung Kampfflugzeuge"
- FRA_order_bombers_in_USA:0 "Bomber bestellen"
 
 
 
@@ -1150,5 +1136,4 @@
  #### MISC #### ""
  ############################ ""
  absolute_monarch:0 "Absoluter Monarch"
- count_of_paris:0 "Graf von Paris"
  frederic_gaston:0 "Fréderic Gaston"

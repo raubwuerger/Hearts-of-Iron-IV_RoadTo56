@@ -330,7 +330,7 @@
  #### Chile ##### ""
 
  CHL_expand_mining_prospection_tt: "Erhöht die Produktion von §Y4£Ressourcen_streifen|5 §Y$Staatsressource_Stahl$§!, £Ressourcen_streifen|6 §Y$Staatsressource_Chrom$§!, £Ressourcen_streifen|4 §Y$Staatsressource_Wolfram$§! oder £resources_strip|2 §Y$state_resource_aluminium$§! §!in jedem Kernstaat, der bereits einen dieser Bodenschätze bereitstellt. \nAktuelle Auswirkungen:"
- CHL_skip_one_line_tt: "" \n"  #Es gibt eine R56-Version, aber behalte dies einfach für nicht importiertes Vanilla-Material"
+ CHL_skip_one_line_tt: "" \n"  
  chilean_trade_deals_opinion_modifier: "Vorteilhafte Handelsgeschäfte"
 
  CHL_high_quality_nitrate: "Hochwertiges Nitrat"
@@ -339,8 +339,6 @@
  CHL_contract_efe: "Vertrag EFE"
  CHL_contract_efe_desc: "Empresa de los Ferrocarriles del Estado betreibt derzeit unsere Eisenbahnsysteme. Indem wir dafür sorgen, dass wir eine direktere Kontrolle über sie ausüben und sie in die Schranken weisen, können wir sicherstellen, dass ihre Ressourcen und Prioritäten dort eingesetzt werden, wo wir sie haben wollen."
 
- CHL_public_works: "Öffentliche Bauvorhaben"
- CHL_public_works_desc: "Seit dem großen Crash, der dadurch ausgelöst wurde, dass die USA ihre Grenzen geschlossen und ihre Exporte eingestellt haben, ist unsere Wirtschaft ruiniert und unsere Bevölkerung verstreut. Um sich von dieser Katastrophe so effizient wie möglich zu erholen, sollten wir groß angelegte öffentliche Arbeitsprogramme fördern, ähnlich dem amerikanischen New Deal, damit unsere Menschen wieder Arbeit finden und die Wirtschaft wieder in Gang kommt."
 
  CHL_dissolve_covensa: "COVENSA auflösen"
  CHL_dissolve_covensa_desc: "Die Gründung der internen Ressourcenverteilungsgesellschaft COVENSA war ein Fehler, und wir alle wissen das. Die einzige Möglichkeit, unsere wirtschaftlichen Probleme zu lösen, ist die Wiederaufnahme der Exporte in großem Maßstab. Um dies zu erreichen, müssen wir die Organisation auflösen und sie so reformieren, dass sie ihrer Vorgängerin COSACH ähnlicher wird."
@@ -419,7 +417,6 @@
  CHL_reapproach_america_tt: "Schaltet Entscheidungen zum §YWaffenkauf§! von §Yden Vereinigten Staaten von Amerika§! frei"
  CHL_mapuche_reconcilliation_campaigns_tt: "Schaltet Entscheidungen zur §GMilderung§! und §GLösung§! des §YMapuche-Konflikts§! frei"
  CHL_use_the_fascist_movement_tt: "Der Nacista-Aufstand wird zu einem kleinen §RBürgerkrieg§! führen!"
- CHL_suppress_the_nacistas_tt: "Der Nacista-Aufstand wird §Ggeschwächt werden§!"
 
  CHL_endorse_the_constitution: "Befürwortet die Verfassung von 1925"
  CHL_endorse_the_constitution_desc: "In den 1920er Jahren kam es zu einer schweren sozialen und wirtschaftlichen Krise, die zum Verlust des Ansehens der alten herrschenden Klasse und zum Aufstieg einer Regierung unter der Führung von Arturo Alessandri führte. Im Jahr 1924 wurde er durch einen Staatsstreich abgesetzt, aber 1925 zurückgerufen, und er nutzte seine Präsidentschaft, um eine neue Verfassung auszuarbeiten, die die Verfassung von 1833 ersetzen sollte. Wir sollten uns bemühen, seinen Worten als Gründervater des neuen Chile zu folgen."
@@ -446,14 +443,10 @@
  CHL_policies_of_arturo_alessandri: "Die Politik von Arturo Alessandri"
  CHL_policies_of_arturo_alessandri_desc: "Die Politik von Alessandri ist vielfältig, und seine letzte Amtszeit ist noch nicht einmal vorbei. Er hat der Nation sehr geholfen und hat immer noch die Macht, ihr weiter zu helfen. Er ist wahrlich der Vater der jüngsten Inkarnation Chiles."
 
- CHL_suppress_the_nacistas: "Unterdrückung der Nacistas"
- CHL_suppress_the_nacistas_desc: "Die Movimiento Nacional-Socialista ist in letzter Zeit auf dem Vormarsch, und es ist ganz klar, dass sie in naher Zukunft etwas versuchen werden. Wir müssen wachsam bleiben und gegen jede Dissidenz vorgehen, wo immer sie auftauchen mag."
 
  CHL_use_the_fascist_movement: "Nutzen Sie die faschistische Bewegung"
  CHL_use_the_fascist_movement_desc: "Obwohl es ziemlich klar ist, dass die Faschisten etwas planen, sollte man bedenken, dass sie viele hochrangige Mitglieder haben, die unserer Regierung von Nutzen sein könnten. Wir sollten uns daher einigen von ihnen im Geheimen nähern und hoffen, ihre Stärken nutzen zu können, zumindest bis sie sich entschließen, etwas zu unternehmen."
 
- CHL_reestablish_the_republican_guard: "Die Republikanische Garde wiederherstellen"
- CHL_reestablish_the_republican_guard_desc: "Jetzt, da wir erneut angegriffen werden, muss die Republikanische Garde wieder aufgestellt werden, um die hochrangige Bedrohung abzuwehren, die beschlossen hat, Jagd auf uns zu machen. An die Waffen, Männer, kämpft für eure Republik!"
 
  CHL_volunteers_to_the_republicans: "Freiwillige für die Republikaner"
  CHL_volunteers_to_the_republicans_desc: "Unsere Brüder in Spanien befinden sich derzeit im Kampf gegen das Militär, das ihr demokratisches Regime stürzen will. Auch wenn es in Chile vielleicht nicht unbedingt ein populärer Gedanke ist, einzugreifen, könnte es unsere Stärke und Bereitschaft zur Verteidigung der Demokratie demonstrieren."
@@ -470,8 +463,6 @@
  CHL_construct_the_estadio_nacional: "Bau des Estadio Nacional"
  CHL_construct_the_estadio_nacional_desc: "Alessandris größte Anstrengung, die Wirtschaft und das Vertrauen der Bevölkerung wiederherzustellen, bestand in öffentlichen Bauvorhaben, und sein Hauptwerk ist das Estadio Nacional, ein grandioses Nationalstadion für Sportspiele, das ein großartiges Beispiel für seine Fähigkeit zur Führung der Nation ist."
 
- CHL_establish_corfo: "CORFO gründen"
- CHL_establish_corfo_desc: "Wir sollten versuchen, eine Organisation zu gründen, die für die industrielle Entwicklung, die Verteilung der Ressourcen und den Wiederaufbau zuständig ist. Sie könnte den Namen Corporación de Fomento de la Producción de Chile tragen."
 
  CHL_work_towards_laissex_faire: "Auf Laissez-Faire hinarbeiten"
  CHL_work_towards_laissex_faire_desc: "Das ultimative Ziel der liberalen Regierung ist es, eine Laissez-Faire-Wirtschaft zu erreichen, und deshalb muss alles in unserer Macht Stehende getan werden, um dies zu erreichen."
@@ -1058,10 +1049,8 @@
  BRA_work_with_the_integralists: "Mit den Integralisten zusammenarbeiten"
  BRA_work_with_the_integralists_desc: "Die Ziele der Integralisten-Bewegung stimmen weitgehend mit unseren überein, daher könnte es klug sein, ihre Unterstützung zu gewinnen, um unser Regime gegen weitere kommunistische Aufstände zu stützen. Mit ihren paramilitärischen Kräften und ihrem tief verwurzelten Nationalismus werden sie die Vorhut der Konterrevolution sein."
  BRA_estado_moderno: "Estado Moderno"
- BRA_estado_novo_desc: "Nachdem wir jahrelang am Rande eines Bürgerkriegs gestanden haben, können wir endlich den jahrelangen politischen Stillstand durchbrechen und einen neuen Staat aufbauen, der auf Frieden, Gerechtigkeit und Arbeit basiert. In der Zwischenzeit werden wir weiterhin diejenigen ausrotten, die sich der neuen Ordnung widersetzen, bevor sie weiteren Unfrieden säen."
  BRA_estado_moderno_tt: "§Y$BRA_getulio_vargas$§! wird Führer der §Y$BRA_fascism_party_long$§!"
  BRA_estado_moderno_tt_desc: ""
- BRA_estado_novo: "Estado Novo"
  BRA_estado_moderno_desc: "Nachdem unsere inneren Feinde verstreut und besiegt sind, ist es an der Zeit, die alte politische Ordnung zu beseitigen und einen modernen Staat auszurufen, der in der Lage ist, dem Volk von [BRA.GetName] auf lange Sicht Frieden und Stabilität zu sichern."
  BRA_cohen_plan: "Der Cohen-Plan"
  BRA_cohen_plan_desc: "Angesichts der bevorstehenden Wahlen und der schwindenden Unterstützung durch die Wählerschaft müssen wir den Fortbestand unseres Regimes mit anderen Mitteln sichern. Indem wir Pläne für einen weiteren kommunistischen Staatsstreich schmieden, können wir die Unterstützung für uns wieder stärken und gleichzeitig die Wahlen im Interesse der nationalen Sicherheit aussetzen."
@@ -1492,7 +1481,6 @@
 argentine_focus_tree:0 "Nationaler Fokus Argentinien"
 ARG_preparation_for_the_elections: "Vorbereitung auf die Wahlen"
 ARG_preparation_for_the_elections_desc: "Die Amtszeit von Agustín Pedro Justo neigt sich dem Ende zu und [ARG.GetName] ist bereit für einen neuen Präsidenten. Während der offizielle Regierungskandidat Roberto María Ortiz ist, hat die Oppositionspartei unter der Führung von Marcelo T. de Alvear noch eine Chance, für ein demokratischeres [ARG.GetName] zu kämpfen. Der Präzedenzfall für die Wahl ist geschaffen, und nun bleibt nur noch abzuwarten, wie er sich entwickelt."
-ARG_roberto_maria_ortiz: "Roberto María Ortiz"
 ARG_roberto_maria_ortiz_desc: "Roberto María Ortiz hat die Wahl mit deutlicher Mehrheit gewonnen, was bedeutet, dass die Concordancia-Koalition weiterhin [ARG.GetName] regiert. In seiner Dankesrede betonte er sein Vertrauen in die Demokratie und versprach, die Freiheit und die in der Verfassung verankerten Garantien für das [ARG.GetAdjective] Volk zu respektieren."
 ARG_roberto_maria_ortiz_tt: "§Y$ARG_roberto_maria_ortiz$§! wird Führer der §Y$ARG_neutrality_party_long$§!"
 ARG_coup_imminent_tt: "§RDie Einnahme dieses Fokus startet die zeitlich begrenzten Missionen des Militärischen Ungehorsams.§!"
@@ -1659,8 +1647,6 @@ ARG_war_division: "Kriegsabteilung"
 ARG_war_division_desc: "Alle Kriege beruhen auf guter Vorbereitung. Während wir unser Kabinett aufbauen und unsere Kriegsmaschinerie herstellen, kommen wir unseren Expansionszielen jeden Tag näher und näher."
 ARG_argentina_first: "Argentinien zuerst"
 ARG_argentina_first_desc: "Nach reiflicher Überlegung haben wir beschlossen, dass es für die Zukunft von [ARG.GetNameDef] am besten ist, sich aus dem wachsenden Konflikt in Europa herauszuhalten und sich stattdessen auf das Bedürfnis von [ARG.GetNameDef] nach Wachstum und Stabilität zu konzentrieren. Lasst uns unsere eigene Fraktion gründen und uns allein gegen die Welt stellen."
-ARG_join_the_axis: "Schließen Sie sich der Achse an"
-ARG_join_the_axis_desc: "Wir haben den Achsenmächten viel zu verdanken, dass wir [ARG.GetNameDef] unter eine starke und stabile Führung stellen konnten. Daher sollten wir ihnen die Hand reichen und sie bitten, sich ihrem Krieg anzuschließen und dabei zu helfen, den Faschismus über die Welt zu verbreiten!"
 ARG_dominate_the_south: "Beherrsche den Süden"
 ARG_dominate_the_south_desc: "Bei so vielen Gegnern, die uns auf dem Kontinent umgeben, ist es von entscheidender Bedeutung, dass wir mit eiserner Faust durchgreifen und alle potenziellen Bedrohungen zerstören, bevor sie entstehen. Zeigen wir ihnen, wer die stärkste Macht in Südamerika ist."
 ARG_preparations_for_war: "Kriegsvorbereitungen"
@@ -1800,8 +1786,6 @@ ARG_american_defense_investments: "Amerikanische Verteidigungsinvestitionen"
 ARG_american_defense_investments_desc: "Es ist zwar gut, ein starkes Militär mit gut ausgebildeten Truppen zu haben, aber es wird oft gesagt, dass eine standhafte Verteidigung genauso gut ist wie eine schlagkräftige Offensive. Unsere Zusammenarbeit mit [USA.GetNameDef] hat dazu geführt, dass wir unsere Verteidigungskapazitäten in unseren verwundbarsten Regionen verbessert haben, um insbesondere Angriffen aus der Luft standhalten zu können. Die Dschungel und Berge schützen uns am Boden, und diese Geschütztürme werden unseren Himmel verteidigen."
 ARG_joint_military_exercises: "Gemeinsame Militärübungen"
 ARG_joint_military_exercises_desc: "Als Zeichen des guten Willens gegenüber den [USA.GetAdjective]s sollten wir ein Angebot für gemeinsame Militärübungen innerhalb der [ARG.GetNameDef] unterbreiten. Gemeinsam können wir die Ausbildung und die Fähigkeiten unserer Marine und Luftwaffe verbessern."
-ARG_join_the_allies: "Schließen Sie sich den Verbündeten an"
-ARG_join_the_allies_desc: "Die Zeit ist gekommen, dass wir uns in diesem Konflikt für eine Seite entscheiden müssen. Als eine Nation, die sich für den Schutz der Demokratie einsetzt, ist es unerlässlich, dass wir uns den Alliierten anschließen und unseren Platz in der Fraktion sichern. Wir müssen helfen, die Welt vor denen zu schützen, die sie unterjochen wollen."
 ARG_bastion_of_democracy: "Bollwerk des Friedens"
 ARG_bastion_of_democracy_desc: "Wir haben große Fortschritte bei der Wahrung der Ideen einer demokratischen Nation gemacht und sind seit unseren gefährlich korrupten Wahlen weit vorangekommen. Während sich überall auf der Welt Kriege zusammenbrauen, müssen wir uns als Bollwerk des Friedens behaupten und uns verpflichten, die kleineren Nationen dieses Kontinents zu schützen."
 ARG_regulated_national_salaries: "Regulierte nationale Gehälter"
@@ -2252,7 +2236,6 @@ URG_rapid_industrialization: "Rasche Industrialisierung"
 URG_rapid_industrialization_desc: "Alles ist bereit, um unser Land in ein neues Zeitalter zu führen. Wir werden uns auf eine Reise der schnellen Industrialisierung begeben und unser Land in das 20."
 
 URG_pluna: "Pluna"
-URG_pluna_desc: "Pluna ist eine aufstrebende Fluggesellschaft, die sowohl Fracht- als auch Charterdienste anbietet. Eine Investition in dieses Unternehmen kann unsere Luftfahrtindustrie in das moderne Zeitalter führen."
 
 URG_mercado_modelo: "Mercado Modelo"
 URG_mercado_modelo_desc: "Es ist an der Zeit, den alten Agrarmarkt hinter sich zu lassen und den Mercado Modelo, den größten Agrarmarkt des Landes, einzuweihen."
@@ -2289,13 +2272,9 @@ URG_merge_falangist_movements_desc: "Mit Ausnahme des uruguayischen Revisionismu
  URG_food_for_the_warmachine: "Nahrung für die Kriegsmaschinerie"
  URG_food_for_the_warmachine_desc: "Da wir einen Großteil der landwirtschaftlichen Flächen unter unserer Kontrolle haben, können wir damit beginnen, Lebensmittel an unsere Verbündeten zu liefern und so unsere Macht auszubauen."
 
- URG_colorado_victory: "Colorado sichert sich die Wiederwahl"
- URG_colorado_victory_desc: "Es bestand nie ein Zweifel daran, dass die Colorados weiterhin [URG.GetName] regieren würden."
 
  URG_terra_election: "Die Wahl von 1938 hat stattgefunden"
 
- URG_blanco_victory: "Blancos Wahlsieg"
- URG_blanco_victory_desc: "Ein Aufruhr, wahrscheinlich verursacht durch Gabriel Terras Diktatur, hat die Wählerschaft von den Colorados entfremdet und die Blanco's an die Macht gebracht"
 
 URG_declare_neutrality: "Erklären Sie die Neutralität"
 URG_declare_neutrality_desc: "Wir haben kein Recht, uns in europäische Angelegenheiten einzumischen."
@@ -2306,8 +2285,6 @@ URG_legalize_the_pool_desc: "Die Legalisierung des Billardspiels wird die Einnah
 URG_break_diplomatic_relations_with_the_axis: "Abbrechen der diplomatischen Beziehungen mit der Achse"
 URG_break_diplomatic_relations_with_the_axis_desc: "Trotz der Erklärung der Neutralität ist klar geworden, dass die Achse des Bösen nicht länger toleriert werden kann. Die Winde des Krieges sind eindeutig zugunsten der Alliierten, und es ist nicht ratsam, auf der Verliererseite zu stehen."
 
-URG_join_the_allies: "Schließen Sie sich den Alliierten an"
-URG_join_the_allies_desc: "Nach dem Druck der [USA.GetName] ist es klar, dass wir uns nicht länger aus dem Krieg heraushalten können. Das Wenige, was wir tun können, werden wir nun in den Kampf einbringen."
 
 URG_a_new_constitution: "Eine neue Verfassung"
 URG_a_new_constitution_desc: "Die derzeitige Verfassung ist unbrauchbar. Wir brauchen eine neue, um das Land in eine neue Ära zu führen."
@@ -2333,8 +2310,6 @@ URG_law_no_9943_desc: "Obwohl wir neutral sind, ist es klar, dass die Welt schne
 URG_herrerismo: "Herrerismo"
 URG_herrerismo_desc: "Unser Führer hat den Begriff Herrerismo geprägt, eine Mischung aus Nationalismus, Konservatismus und Populismus. Damit hofft er, eine starke politische Basis aufzubauen."
 
-URG_traditionalism: "Traditionalismus"
-URG_traditionalism_desc: "Die Rückkehr zur Tradition ist der Weg in die Zukunft. Was früher funktioniert hat, wird auch jetzt funktionieren."
 
 URG_ruralism: "Ländlichkeit"
 URG_ruralism_desc: "Unsere Wählerbasis befindet sich in den ländlichen Gebieten des Landes, und es ist unerlässlich, dass wir stark in sie investieren."

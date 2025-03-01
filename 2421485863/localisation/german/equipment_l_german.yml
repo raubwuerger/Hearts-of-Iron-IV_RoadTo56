@@ -572,7 +572,6 @@ UNIT_GENERIC_NAME_TAN:0 "$NR$ya $NAME$"
  HOL_EQUIPMENT_VERSION_15:1 "Nr. 15"
  HOL_EQUIPMENT_VERSION_16:1 "Nr. 16"
 
- tank_reliability_upgrade_desc:1 "Eine höhere Zuverlässigkeit führt dazu, dass Sie weniger Geräte ersetzen müssen, die ausfallen."
  mech_cost_upgrade:0 "Produktionskosten"
  mech_cost_upgrade_desc:0 "Durch die Optimierung des Designs und die Substitution weniger wichtiger Materialien kann das Fahrzeug schneller gebaut werden, weist aber etwas mehr Mängel auf."
  artillery_equipment_2:0 "Verbesserte Artillerie"
@@ -791,7 +790,6 @@ UNIT_GENERIC_NAME_TAN:0 "$NR$ya $NAME$"
  mothership_equipment_0_desc: "Ein sehr großes Flugzeug, das mehrere Kampfflugzeuge in den Kampf mitnimmt und so eine größere Reichweite hat, als es normalerweise möglich wäre. Der Träger des Himmels."
 
 
-tinental_equipment_desc: "Ein riesiges Flugzeug, das speziell für Einsätze mit extrem großer Reichweite entwickelt wurde und strategische Bombenangriffe über Kontinente hinweg ermöglichen soll."
 
 
 

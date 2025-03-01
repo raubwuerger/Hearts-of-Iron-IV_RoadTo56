@@ -3,8 +3,6 @@
 
  COG_neutrality_party:0 "Allgemeines Gouvernorat"
  COG_neutrality_party_long:0 "Generalgouverneurat des Kongo"
- COG_democratic_party:0 "ABAKO"
- COG_democratic_party_long:0 "Allianz der Bakongo"
 
  #decisions ""
  COG_embrace_new_identity:0 "Eine neue Identität annehmen"
@@ -339,5 +337,4 @@
  COG_generic_industrial_concern:0 "CCCI"
  KAT_generic_industrial_concern:0 "Metalkat"
 
- AT_generic_industrial_concern:0 "Metalkat"
 

@@ -358,10 +358,6 @@ threaten_member_state_tt:0 "\nDie Führung des eingeschüchterten Landes wird in
 
 BBA_purchase_old_ships_category:0 "Beschaffung von Seestreitkräften"
 BBA_purchase_old_ships_category_desc:0 "Da die Welt immer instabiler wird, müssen wir unsere Fähigkeiten zur Machtprojektion durch die Marine ausbauen. Zu unserem Glück sind einige der großen Seestreitkräfte möglicherweise bereit, sich von ihren älteren Schiffen zu trennen."
-purchase_ships_eng:0 "[ENG.GetFlag] Kaufen Sie alte [ENG.GetAdjective] Zerstörer"
-purchase_ships_sov:0 "[SOV.GetFlag] Kaufe alte [SOV.GetAdjective] Schlachtschiffe"
-purchase_ships_ger:0 "[GER.GetFlag] Kaufe alte [GER.GetAdjective] U-Boote"
-purchase_ships_usa:0 "[USA.GetFlag] Kaufe alte [USA.GetAdjective] Zerstörer"
 
 ############################ ""
 ########## ITALY ########### ""

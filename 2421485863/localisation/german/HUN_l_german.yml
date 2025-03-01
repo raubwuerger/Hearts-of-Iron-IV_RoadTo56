@@ -51,16 +51,11 @@ HUN_experiment_with_torpedoes_desc:0 "Wir müssen mit unseren Torpedo-Modellen z
 HUN_invest_in_north_transylvanian_mining:0 "Investieren Sie in den nord-siebenbürgischen Bergbau"
 HUN_invest_in_north_transylvanian_mining_desc:0 "Transsilvanien hat eine jahrhundertealte Bergbaugeschichte. Selbst wenn sie keine direkt für die Kriegsfabriken nützlichen Ressourcen bringen, werden die ausgebeuteten Mineralien dennoch einen wichtigen Beitrag zur Wirtschaft leisten."
 
-HUN_henrik_werth:0 "Henrik Werth"
-HUN_kalman_hardy:0 "Kálmán Hardy"
 HUN_odon_trunkwalter:0 "Ődőn Trunkwalter"
-HUN_andras_littay:0 "András Littay"
-HUN_elemer_gorondy_novak:0 "Elemér Gorondy-Novák"
 HUN_dezso_winkler:0 "Dezső Winkler"
 
 HUN_john_von_neumann:0 "János Lajos Neumann"
 HUN_paul_erdos:0 "Paul Erdős"
-HUN_miklos_horthy:0 "Miklós Horthy"
 horthy_died:0 "Horthy ist verstorben"
 HUN_carrier:0 "Flugzeugträger-Forschung"
 HUN_carrier_desc:0 "Marineflugzeuge sind der nächste Schritt in der Seekriegsführung."
@@ -165,6 +160,6 @@ r56_hungary_7.t:0 "[ITA.GetLeader] [YUG.GetNameDef] zur [HUN.Getfactionname] ein
 r56_hungary_7.desc:0 "Mit seinem traditionellen diplomatischen Draufgängertum hat [ITA.GetLeader] beschlossen, auf eigene Faust zu handeln und [YUG.GetLeader] zur Unterzeichnung eines Bündnisvertrags einzuladen, der sie an die [HUN.getfactionname] bindet. Es ist zwar schön, neue Verbündete zu haben, aber es könnte der Reformation des historischen Ungarn im Wege stehen."
 r56_hungary_7.a:0 "Ich denke, es ist besser, als von Feinden umgeben zu sein."
 
-ROM_agrarian_reform:0 "Agrarreform" #used only in DLC HUN tree despite idea name
+ROM_agrarian_reform:0 "Agrarreform" 
 HUN_amphibious_tank_equipment_1:0 "Straussler V-4"
 WW_hungary.90.c:0 "Pal Esterhazy Das ist es!"

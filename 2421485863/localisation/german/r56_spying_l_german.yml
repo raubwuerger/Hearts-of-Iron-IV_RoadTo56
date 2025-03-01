@@ -114,7 +114,6 @@ upgrade_economy_civilian_flag:0 "§WHat Agency Upgrade§!§Y abgeschlossen Zivil
 upgrade_economy_civilian:0 "Zivile Abteilung"
 branch_defense:0 "Spionageabwehr"
 upgrade_passive_defense:0 "Abteilung Spionageabwehr"
-upgrade_passive_defense_desc:0 "§LDie inländischen Strafverfolgungsbehörden sind einsatzbereite Beamte der Spionageabwehr. Indem wir sie und unsere Garnisonstruppen in den Methoden der Spionage und der Spionageabwehr ausbilden, stellen wir sicher, dass wir zu Hause immer eine defensive Präsenz haben, selbst wenn unsere Agenten anderweitig beschäftigt sind.\n \n 'Lose Lippen versenken Schiffe'§!"
 
 #Localizing modifers that PDX did not use but didn't cut ""
 operation_infiltrate_armed_forces_army_risk:0 "Infiltration der Armee Risiko"

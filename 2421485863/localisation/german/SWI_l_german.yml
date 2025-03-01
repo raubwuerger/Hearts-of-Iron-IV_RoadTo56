@@ -1,7 +1,6 @@
 ﻿l_german:
 
  #Generic ""
-is_controlled_by_ROOT_or_subject:0 "Wird von §Y[Root.GetName]§! oder einem der Subjekte von §Y[Root.GetName]§! kontrolliert."
 EYE_enough_production_tt:0 "Genug Gebäudeslots für §YMilitärfabrik§!."
 EYE_construction_effort_tt:0 "Genug Gebäudeslots für §YZivile Fabrik§!."
 EYE_overlord_neutral_tt:0 "Overlord ist bündnisfrei"
@@ -259,7 +258,6 @@ SWI_mountain_artillery_desc:0 "Piou piou peak go boom."
 
 
 SWI_dr_max:0 "Dr. Max Leo Keller"
-SWI_hans_oprecht:0 "Hans Oprecht"
 SWI_edgar_woog:0 "Edgar Woog"
 SWI_claude_pasquier:0 "Claude du Pasquier "
 SWI_henry_pillichody:0 "Henry Pillichody"
@@ -271,8 +269,6 @@ SWI_hans_bandi:0 "Hans Bandi"
 SWI_august_haefeli:0 "August Haefeli"
 SWI_edouard_petitpierre:0 "Edouard Petitpierre"
 SWI_alfred_struby:0 "Alfred Strüby"
-SWI_jakob_huber:0 "Jakob Huber"
-SWI_roger_masson:0 "Roger Masson"
 SWI_paul_scherrer:0 "Paul Scherrer"
 SWI_generic_head_of_intelligence:0 "Roger Masson"
 
@@ -362,7 +358,6 @@ SWI_mobilize_1:0 "Miliz mobilisieren"
 neutrality_advocate:0 "Befürworter der Neutralität"
 neutrality_advocate_desc:0 "Dieser Politiker ist der festen Überzeugung, dass Bündnisse nur dann eingegangen werden sollten, wenn es unbedingt notwendig ist."
 
-likes_germany:0 "Mag Deutschland "
 strongman:0 "Starker Mann"
 great_council:0 "Großer Rat"
 

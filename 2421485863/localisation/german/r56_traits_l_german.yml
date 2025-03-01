@@ -64,7 +64,6 @@ licensed_fighter_aircraft_manufacturer:0	"Lizenzierter Hersteller von Kampfflugz
 licensed_medium_aircraft_manufacturer:0	"Lizenzierter Med. Flugzeughersteller"
 licensed_cas_aircraft_manufacturer:0	"Zugelassener CAS-Hersteller"
 mining_concern:0	"Bergbaukonzern"
-railway_company:0	"Eisenbahngesellschaft"
 landing_craft_manufacturer:0	"Hersteller von Landungsbooten"
 
 ##Leaders ""
@@ -197,6 +196,4 @@ provincialist_warlord:0	"Provinzialistischer Kriegsherr"
 #Adviors
 
 crafty_diplomat:0	"Raffinierter Diplomat"
-advocate:0	"Intervention Advokat"
 
-forcement_militarizer_3:0	"Polizeimilitarist\n(Genie)"

@@ -76,7 +76,6 @@
  heavy_tank_producer_mass_1:0 "Masse schwere Rüstung Hersteller"
  heavy_tank_producer_mass_2:0 "Masse schwere Rüstung Hersteller"
 
- assault_gun_manufacturer:0 "Sturmgeschütz Hersteller"
  blank_tank_manufacturer:0 "Rüstung Hersteller"
  tank_producer_mass:0 "Masse Rüstung Hersteller"
  tank_producer_quality:0 "Hersteller von Qualitätspanzern"
@@ -151,25 +150,6 @@
 
  ship_producer_mass:0 "Masse Naval Hersteller"
 
- light_aircraft_manufacturer:1 "Hersteller von Leichtflugzeugen"
- light_aircraft_manufacturer_2:1 "Hersteller von Flugzeugen mit Fokus auf Beweglichkeit"
- fuel_efficient_aircraft_manufacturer:1 "Hersteller von Flugzeugen mit Schwerpunkt auf Reichweite"
- medium_aircraft_manufacturer:1 "Hersteller mittlerer Flugzeuge"
- heavy_aircraft_manufacturer:1 "Hersteller von schweren Flugzeugen"
- naval_aircraft_manufacturer:1 "Hersteller von Marineflugzeugen"
- fast_tank_manufacturer:1 "Designer für mobile Panzerung"
- medium_tank_manufacturer:1 "Designer für Allroundpanzer"
- heavy_tank_manufacturer:1 "Konstrukteur für schwere Panzer"
- infantry_tank_manufacturer:1 "Designer von Infanteriepanzern"
- armored_car_manufacturer:1 "Hersteller gepanzerter Fahrzeuge"
- pacific_fleet_naval_manufacturer:1 "Pazifikflotte Hersteller"
- atlantic_fleet_naval_manufacturer:1 "Atlantikflotte Hersteller"
- raiding_fleet_naval_manufacturer:1 "Raiding Flotte Hersteller"
- convoy_escort_naval_manufacturer:1 "Hersteller Geleitflotte"
- coastal_defence_naval_manufacturer:1 "Küstenverteidigungsflotte Hersteller"
- mediterranean_naval_manufacturer:1 "Mittelmeerflotte Hersteller"
- battlefleet_designer:1 "Schlachtflotte Hersteller"
- refinery_concern:1 "Veredelungskonzern"
 
  generic_arms_company:0 "Inländisches Rüstungsunternehmen"
  generic_tank_company:0 "Inländisches Rüstungsunternehmen"
@@ -187,7 +167,6 @@
  oil_concern:0 "Erdölgesellschaft"
 
  construction_concern:0 "Baukonzern"
- refinery_concern:0 "Raffinerie-Konzern"
 
 
  generic_train_equipment_manufacturer_r56:0 "[Root.Capital.GetName] Lokomotivwerk"
@@ -216,4 +195,3 @@
 
  generic_mio_trait_multi_task_mining_equipment:0 "Multitasking-Bergbauausrüstung"
  generic_mio_trait_radio_navigation_patrolling:0 "Funknavigation für Patrouillenfahrten."
- navigation_patrolling:0 "Funknavigation für Patrouillenfahrten."

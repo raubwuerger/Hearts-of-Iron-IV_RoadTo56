@@ -289,7 +289,6 @@ JAP_reignite_the_chinese_civil_war_desc:0	"Zu lange haben die Nationalisten und 
 
  ############################## IDEAS #######################3 ""
 
-JAP_hirohito:0	"Hirohito"
 JAP_hirohito_desc:0	"Der Kaiser Shōwa symbolisiert für das [JAP.GetAdjective]-Volk dessen Siege und Wohlstand und fungiert gleichzeitig als starker Einiger innerhalb von [JAP.GetNameDef]."
 
 sino_jap_war_fail_naisen:0	"Naisen"
@@ -442,7 +441,6 @@ sfl.28.t:0	"Ryukyu"
 sfl.28.d:0	"Die Japaner haben den Namen unserer Heimat in Okinawa geändert, nachdem sie unser Königreich vor langer Zeit annektiert hatten. Jetzt, wo wir frei sind, sollten wir unsere Städte wieder so benennen, wie sie ursprünglich hießen."
 sfl.28.a:0	"Schafft die japanischen Namen ab!"
 sfl.28.b:0	"Das würde zu viel Aufwand bedeuten."
-r56_japan.11.d:0	"Wir könnten japanischen Ingenieuren erlauben, unsere Fabriken zu inspizieren und von unseren Produktionsmethoden zu lernen. Obwohl dies normalerweise eine vergebliche Bitte wäre; jetzt, da [JAP.GetAdjective] eine demokratische Nation geworden ist, können wir darauf vertrauen, dass das keine Probleme verursachen wird."
 #####DEMO TREE ""
 JAP_rikken_minseito:0	"Rikken Minseito"
 JAP_rikken_minseito_desc:0	"Rikken Minseito; die Mitte-Links-Partei Japans."

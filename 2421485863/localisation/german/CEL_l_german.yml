@@ -162,7 +162,6 @@
  CEL_integrate_areas_desc:0 "Nach der Vereinigung aller keltischen Länder ist der nächste logische Schritt die vollständige Integration aller Gebiete und ihrer jeweiligen Ressourcen in die Union."
  CEL_scottish_steel_sector:0 "Schottische Stahlwerke"
  CEL_scottish_steel_sector_desc:0 "Der schottische Stahlsektor ist für unsere industrielle Entwicklung von entscheidender Bedeutung."
- CEL_dingham_munition_factory:0 "Dingham Munitionsfabrik"
  CEL_develop_ireland:0 "Irland entwickeln"
  CEL_develop_ireland_desc:0 "Irland, die Smaragdinsel, verfügt über viele wertvolle Industriekomplexe und Ressourcen, die zu vernachlässigen unklug wäre! "
  CEL_appropriate_harland_and_wolff:0 "Aneignung von Harland und Wolff"
@@ -186,9 +185,9 @@
  WLS_generic_artillery_manufacturer:0 "ROF Newport"
  WLS_generic_infantry_equipment_manufacturer:0 "ROF Hirwaun"
  WLS_generic_tank_manufacturer:0 "ROF Cardiff"
- WLS_generic_heavy_aircraft_manufacturer:0 "ROF Glascoed" #was: mittlere Flugzeuge
+ WLS_generic_heavy_aircraft_manufacturer:0 "ROF Glascoed" 
  WLS_generic_light_aircraft_manufacturer:0 "Accles & Pollock"
- WLS_generic_medium_aircraft_manufacturer:0 "Vickers Hawarden Factory" #wurde: schweres Flugzeug
+ WLS_generic_medium_aircraft_manufacturer:0 "Vickers Hawarden Factory" 
  WLS_generic_naval_manufacturer:0 "Marine-Treibstoff-Fabrik, Caerwent"
 
  WLS_generic_infantry_equipment_organization:0 "ROF Hirwaun"

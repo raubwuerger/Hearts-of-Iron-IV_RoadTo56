@@ -56,7 +56,6 @@
  ETH_lion_roar_focus_desc:0 "Eifer und Entschlossenheit erfüllen die Herzen der Äthiopier"
  ETH_defensive_imperialism:0 "Antikoloniales Dogma"
  ETH_defensive_imperialism_desc:0 "Äthiopien hat die Nase voll vom so genannten Völkerbund und muss sich für die Menschen einsetzen, die nicht für sich selbst einstehen können."
- ETH_wehib_pasha:0 "Wehib Pascha"
  ETH_georges_deffontaine:0 "Oscar Michiels"
  ETH_lion_roar_focus_lesser:0 "Siegreiche Löwen"
  ETH_lion_roar_focus_lesser_desc:0 "Wir haben uns erhoben und Italien besiegt! Tod den Kolonialisten und den Usurpatoren!"
@@ -177,7 +176,6 @@
 
  ETH_japanese_navy:0 "Japanische Marine-Berater"
  ETH_leopold_reul:0 "Léopold Reul"
- ETH_feodor_konovalov:0 "Fjodor Konowalow"
  ETH_the_long_lance:0 "Die lange Lanze"
 
  ethiopia.1.t:0 "Italienische Invasion vereitelt"
@@ -203,5 +201,4 @@
  ETH_tank_refurbishment_plant:0 "Panzer-Reparaturwerkstatt"
  ETH_tank_refurbishment_plant_desc:0 "Wenn wir Panzer brauchen, warum nicht mit dem anfangen, was die Italiener uns hinterlassen haben?"
 
- ETH_nissan:0 "Nissan"
 

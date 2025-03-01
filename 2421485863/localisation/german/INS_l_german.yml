@@ -64,7 +64,6 @@ INS_jan_hilgers:0 "Jan Hilgers"
 INS_jan_verboom:0 "Jan Verboom"
 INS_johann_logemann:0 "Johann Heinrich Logemann"
 INS_john_lie:0 "Johann Lie"
-INS_ki_hajar_dewantara:0 "Ki Hadjar Dewantara"
 INS_kusumo_utoyo:0 "Koesoemo Oetoyo"
 INS_laurens_becking:0 "Laurens Theodorus Becking"
 INS_laurens_walraven:0 "Laurens Walraven"
@@ -371,20 +370,20 @@ INS_pelni:0 "Pelayaran Nasional Indonesien"
 INS_pelni_desc:0 "Gegründet 1952, gelang es dem Unternehmen 1957, die KPM zu besiegen"
 
 #mios ""
-INS_acf_organization:0 "American Car and Foundry Company - East Indies Division #Medium Armor"
-INS_soerabaja_dm_organization:0 "Soerabaja Droogdok Maatschappij #Raiding Fleet"
-INS_pal_soerabaja_organization:0 "Penataran Angkatan Laoet - Soerabaja #Raiding Fleet"
+INS_acf_organization:0 "American Car and Foundry Company - East Indies Division 
+INS_soerabaja_dm_organization:0 "Soerabaja Droogdok Maatschappij 
+INS_pal_soerabaja_organization:0 "Penataran Angkatan Laoet - Soerabaja 
 INS_govmarine_organization:0 "Gouvernementsmarine"
 INS_pelni_organization:0 "Pelayaran Nasional Indonesien"
-INS_fokker_organization:0 "Fokker - East Indies Division #General Aircraft"
-INS_koolhoven_organization:0 "Koolhoven - Ostindien-Division #Medium Aircraft"
-INS_nakajima_organization:0 "Nakajima Hikouki Kaisha #Schwere Flugzeuge"
-INS_ptdi_organization:0 "Aeronautica Planning and Construction Bureau #General Aircraft"
-INS_pabrik_sendjata_mesioe_organization:0 "Pabrik Sendjata dan Mesioe #Artillerie"
-INS_daf_organization:0 "Doorne's Aanhangwagen Fabriek - Ostindien Division #Motorisiert"
-INS_gm_java_organization:0 "General Motors - Java Handelsgesellschaft #Motorisiert"
-INS_toyota_organization:0 "Toyota #Motorisiert"
-INS_artilerie_inrichtingen_organization:0 "Artilerie Inrichtingen Bandoeng #Artillerie"
+INS_fokker_organization:0 "Fokker - East Indies Division 
+INS_koolhoven_organization:0 "Koolhoven - Ostindien-Division 
+INS_nakajima_organization:0 "Nakajima Hikouki Kaisha 
+INS_ptdi_organization:0 "Aeronautica Planning and Construction Bureau 
+INS_pabrik_sendjata_mesioe_organization:0 "Pabrik Sendjata dan Mesioe 
+INS_daf_organization:0 "Doorne's Aanhangwagen Fabriek - Ostindien Division 
+INS_gm_java_organization:0 "General Motors - Java Handelsgesellschaft 
+INS_toyota_organization:0 "Toyota 
+INS_artilerie_inrichtingen_organization:0 "Artilerie Inrichtingen Bandoeng 
 
 #focus ideas ""
 INS_volunteers_idea:0 "Interventionismus"

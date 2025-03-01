@@ -311,10 +311,6 @@ news.710.d:0 "Anstatt [SPR.GetName] wegen der italienischen Bevölkerung an der 
 news.710.a:0 "Unsere Nationen stehen als Freunde zusammen."
 news.710.b:0 "Es wird Frieden in Iberien herrschen."
 news.710.c:0 "Es wird interessant sein, zu sehen, wo das endet."
-rangers:0 "Caçadores Especiais"
-rangers_desc:0 "Elite-Support-Unternehmen mit starken Boni."
-cacadores:0 "Caçadores Especiais"
-cacadores_desc:0 "Elite-Unterstützungskompanie mit starken Boni."
 
 portugal.t1.t:0 "[POR.getAdjective] territoriale Forderungen."
 POR_remember_olivenca:0 "Rache für Olivença"

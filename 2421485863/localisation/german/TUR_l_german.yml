@@ -200,7 +200,6 @@ TUR_renew_the_soviet_non_aggression_pact_focus_days_tt:0 "Es sind 105 oder mehr 
 TUR_renew_the_soviet_non_aggression_pact_current_days_tt:0 "Die aktuellen Tage sind: [?TUR_erneuern_den_sowjetischen_Nichtangriffspakt_flagge:days|Y0]"
 turkey.117.t:0 "Änderung des Übereinkommens von Montreux?"
 turkey.117.d:0 "[FROM.getAdjective] sind mit einem Versöhnungsangebot bezüglich des vor einigen Jahren unterzeichneten Montreux-Abkommens an uns herangetreten. Sie bieten an, unseren Truppen freien Zugang zum Land zu gewähren, während von uns erwartet wird, dass wir sie vor Feinden des Volkes schützen. 
-Die Kontrolle über strategisch wichtige Meerengen kann uns im Mittelmeerraum den fehlenden Vorteil verschaffen, um die imperialistischen Ambitionen der Großmächte in der Region zu bekämpfen. Wie sollte die endgültige Entscheidung aussehen? "
 turkey.117.a:0 "Diese Initiative gefällt uns, wir sind einverstanden!"
 turkey.117.b:0 "Glauben die Türken, dass dies ihre Rettung ist?"
 turkey.118.t:0 "Die Sowjets stimmen zu"
@@ -223,7 +222,6 @@ turkey.122.t:0 "Die Sowjets haben abgelehnt"
 turkey.122.d:0 "Die Sowjets haben unser Angebot abgelehnt. Wie enttäuschend für unsere gegenseitigen Beziehungen."
 turkey.122.a:0 "Enttäuschend."
 
-TUR_clodius_agreement:0 "Clodius-Abkommen"
 TUR_clodius_agreement_desc:0 "Die deutsche Kriegswirtschaft ist auf eine kontinuierliche Versorgung mit Chrom angewiesen, eine Ressource, die in Anatolien reichlich vorhanden ist. Vielleicht können wir diese Tatsache nutzen, um die Industrialisierung unserer Nation voranzutreiben."
 turkey.147.t:0 "Das Clodius-Abkommen"
 turkey.147.d:0 "In den letzten Wochen hat einer unserer Diplomaten, Karl Clodius, ein Abkommen mit den Türken ausgehandelt. Als Gegenleistung für einen kleinen Beitrag zu ihrer Industrialisierung und eine Fortsetzung der freundschaftlichen Beziehungen haben die Türken uns einen billigen Zugang zu einem großen Teil ihrer Chromexporte angeboten, an denen es uns besonders mangelt."
@@ -481,27 +479,9 @@ TUR_the_montreux_convention_r56_desc:0 "Das Gebiet der Meerenge ist seit dem Ers
 TUR_invite_to_faction_tooltip:0 "wird in die Fraktion von [Root.GetFlag]§Y[Root.GetName]§! eingeladen.\n"
 
  ### TUR - TURKEY ### ""
-TUR_submarine_1:0 "Birinci İnönü Klasse"
-TUR_submarine_1_desc:0 "Bei der Birinci İnönü-Klasse handelte es sich um zwei Küsten-U-Boote, die Mitte der 1920er Jahre in den Niederlanden für die Türkei gebaut wurden. Sie waren die ersten Schiffe, die nach dem Ersten Weltkrieg für die türkische Marine gebaut wurden. Sie verdrängten 520 Tonnen und waren mit sechs 450-mm-Torpedorohren bewaffnet. Sie waren etwas langsam, hatten aber eine gute Reichweite."
  #TUR_submarine_1b: "Dumlupınar-Klasse"
-TUR_submarine_2:0 "Saldiray-Klasse"
-TUR_submarine_2_desc:0 "Die drei U-Boote der Saldiray-Klasse liefen in den späten 1930er Jahren vom Stapel. Ihr Design war stark von Deutschland beeinflusst, wobei das erste Schiff der Klasse in Deutschland und die beiden anderen in Istanbul in Lizenz gebaut wurden. Es handelte sich um große, hochseetaugliche U-Boote mit einer Verdrängung von über 930 Tonnen und einer hervorragenden Reichweite. Sie waren mit sechs 533-mm-Torpedoro-Rohren bewaffnet."
-TUR_submarine_3:0 "Oruç-Reis-Klasse"
-TUR_submarine_3_desc:0 "Die U-Boote der Oruç-Reis-Klasse wurden in Großbritannien als modifizierter Entwurf der britischen S-Klasse gebaut. Die Schiffe liefen 1940 vom Stapel, wobei einige vorübergehend von der Royal Navy interniert wurden. Alle bis auf eines wurden schließlich an die Türkei zurückgegeben. Die Schiffe verdrängten 625 Tonnen und waren mit fünf 533-mm-Torpedoro-Rohren bewaffnet. Sie waren in ihrer Geschwindigkeit und Reichweite etwas eingeschränkt."
-TUR_submarine_4:0 "Sakarya-Klasse"
-TUR_submarine_4_desc:0 "Die U-Boote der Sakarya-Klasse waren eine Reihe von U-Booten der US-Balao-Klasse, die nach dem Krieg an die Türkei verkauft wurden. Mit einer Verdrängung von über 1.520 Tonnen waren sie für ihre Zeit sehr große U-Boote. Sie verfügten über eine ausgezeichnete Reichweite und Geschwindigkeit und waren mit zehn 533-mm-Torpedoro-Rohren bewaffnet."
-TUR_destroyer_1:0 "Peyk-Klasse"
-TUR_destroyer_1_desc:0 "Bei der Peyk-Klasse handelte es sich um zwei große, schnelle Torpedoboote, die 1907 für die osmanische Marine in Auftrag gegeben wurden. Die Schiffe wurden in Deutschland gebaut und überlebten den Ersten Weltkrieg, waren aber im Zweiten Weltkrieg veraltet. Die Schiffe verdrängten 775 Tonnen und waren mit zwei 105 mm/37 SK L/40-Geschützen sowie drei 450 mm-Torpedoro-Rohren bewaffnet. Sie hatten eine ordentliche Reichweite, waren aber für einen Zerstörer ziemlich langsam."
 TUR_destroyer_2:0 "Kocatepe-Klasse"
 TUR_destroyer_2_desc:0 "Die beiden Zerstörer der Kocatepe-Klasse wurden 1931 in Italien für die türkische Marine gebaut. Sie basierten auf dem italienischen Entwurf von Folgore. Die Schiffe verdrängten 1.250 Tonnen und waren mit vier 120mm/50 Ansaldo 1926 Kanonen und sechs 533mm Torpedoro-Rohren bewaffnet. Sie hatten eine gute Geschwindigkeit und Reichweite."
-TUR_destroyer_3:0 "Demirhisar-Klasse"
-TUR_destroyer_3_desc:0 "Die vier Zerstörer der Demirhisar-Klasse wurden in Großbritannien gebaut und 1942 fertiggestellt. Zwei der Schiffe wurden von der Royal Navy interniert, von denen eines nach dem Krieg zurückgegeben wurde. Die Schiffe basierten auf der britischen I-Klasse. Sie verdrängten 1.370 Tonnen und hatten vier 120mm/45 QF Mk IX Kanonen als Hauptbewaffnung. Sie hatten eine angemessene Geschwindigkeit und eine gute Reichweite und verfügten über eine starke Ergänzung von Flakgeschützen und ASW-Ausrüstung."
-TUR_light_cruiser_1:0 "Mecidiye-Klasse"
-TUR_light_cruiser_1_desc:0 "Das türkische Schiff Mecidiye war ein geschützter Kreuzer, der um die Jahrhundertwende in den USA für die osmanische Marine gebaut wurde. Sie wurde während des Zweiten Weltkriegs in seichtem Wasser versenkt, aber wieder aufgerichtet und nach einem kurzen Einsatz in der kaiserlich-russischen Marine an die Türkei zurückgegeben. Sie verdrängte knapp 3.500 Tonnen und war mit zwei 152mm/44 Bethlehem No. 2 und acht 120mm/45 Armstrong Y Kanonen bewaffnet. Sie hatten eine ordentliche Reichweite, waren aber relativ langsam und nur leicht gepanzert."
-TUR_battle_cruiser_1:0 "Yavuz-Klasse"
-TUR_battle_cruiser_1_desc:0 "Die Yavuz war ursprünglich als deutscher Schlachtkreuzer Goeben in Auftrag gegeben worden, wurde aber an die Osmanen verkauft und 1914 wieder in Dienst gestellt, um eine Internierung zu vermeiden. Sie verdrängte knapp 23.000 Tonnen und hatte eine ordentliche Geschwindigkeit und Reichweite. Sie war gut gepanzert und mit zehn 283mm/47 SK L/50 Kanonen sowie einer starken Sekundärbewaffnung bewaffnet."
-TUR_battleship_1:0 "Reşadiye-Klasse"
-TUR_battleship_1_desc:0 "Bei der Reşadiye-Klasse handelt es sich um drei Dreadnought-Schlachtschiffe, die kurz vor dem Ersten Weltkrieg bei Großbritannien für die türkische Marine in Auftrag gegeben worden waren. Allerdings wurde nur eines der Schiffe fertiggestellt, das dann zu Beginn des Ersten Weltkriegs von den Briten interniert wurde. Ihre Hauptbewaffnung hätte aus zehn 343 mm/45 Vickers-Kanonen bestanden."
 
 turkey.10.t:0 "[From.GetName] Tritt der [Root.GetFactionName] bei!"
 turkey.10.d:0 "In Anerkennung der Notwendigkeit der Einigkeit gegen die Bedrohungen, die unsere Länder von allen Seiten umgeben, hat [From.GetLeader] heute der Welt bekannt gegeben, dass [From.GetName] mit [Root.GetName] einen Vertrag zum Wohle unserer gegenseitigen Sicherheit geschlossen hat."
@@ -1199,19 +1179,7 @@ TUR_reaffirm_balkan_hegemony_desc:0 "Die Menschen auf dem Balkan haben Angst vor
 TUR_revanchism_focus:0 "Revanchismus"
 
 ### TO REMOVE WHEN 1.10.2 is out of beta ""
-TUR_decision_cost_kurd_rebels: "£command_power §Y15§!"
-TUR_decision_cost_kurd_rebels_blocked: "£command_power §R15§!"
 
-TUR_reinstate_the_darulfununu_sahane: "Wiedereinführung der Darülfünûn-u Şahâne"
-TUR_reinstate_the_darulfununu_sahane_desc: "Wir zögern nicht zu sagen, dass viele unserer Institutionen... nicht gerade modern sind. Dennoch leben wir im Zeitalter der modernen Kriegsführung. Es ist eine gute Sache, dass unsere Nation so industrialisiert und modern ist, wie sie ist - dank der harten Arbeit der osmanischen Bürokratie! Zu diesem Zweck werden wir an der Universität Istanbul eine Schule einrichten, die die technische und wissenschaftliche Zusammenarbeit zwischen uns und gleichgesinnten Nationen fördert."
-TUR_imperial_factories:0 "Kaiserliche Fabriken"
-TUR_imperial_factories_desc:0 "Die Kemalisten hatten eine interessante Idee, die sie "Etatismus" nannten, und obwohl wir niemals offen eine kemalistische ideologische Säule unterstützen würden, können wir uns des Eindrucks nicht erwehren, dass es... zweckmäßig sein könnte, die Produktionsmittel des Staates zentral zu organisieren und zu kontrollieren. Ziehen Sie keine Vergleiche zum Kommunismus oder Faschismus: Die Fabriken werden alle dem Sultan gehören - wir werden diese Fabriken nur in seinem Namen verwalten!"
-TUR_refining_our_strategies:0 "Verfeinerung unserer Strategien"
-TUR_refining_our_strategies_desc:0 "Seit unserem Untergang im Ersten Weltkrieg haben wir viel über die Kriegsführung gelernt, und wir dürfen uns nicht mehr auf verrückte Pläne einlassen, von denen wir uns keinen Sieg versprechen. Wir müssen klug und konservativ kämpfen, damit wir, wenn alle Kämpfe vorüber sind und sich der Staub gelegt hat, als Sieger dastehen."
-TUR_the_red_apples_of_sevres: "Die roten Äpfel von Sèvres"
-TUR_the_red_apples_of_sevres_desc: "Paris, Rom, London: das sind die kızıl elma des wiederhergestellten Osmanischen Reiches. Wir werden vor nichts zurückschrecken, um sicherzustellen, dass unsere alten Feinde - die uns gerne demontiert, gedemütigt und vernichtet hätten - gedemütigt, gebeugt und dann für ihre heimtückischen Pläne gegen unser Reich gebrochen werden. Wir werden die alte Weltordnung in Flammen aufgehen lassen und auf den Trümmern ihrer gefallenen Reiche einen neuen Status quo errichten."
-TUR_realize_the_nightmare_of_meiji: "Verwirklichen Sie den Albtraum von Meiji"
-TUR_realize_the_nightmare_of_meiji_desc: "Sultan Abdul Hamid II. befürchtete einst, der japanische Kaiser würde zum Islam konvertieren und sich selbst zum Kalifen anstelle des türkischen Monarchen ausrufen. Dazu kam es jedoch nie. Leider hat Japan den Vertrag von Sèvres ebenso unterzeichnet wie den von Lausanne - obwohl wir die Japaner lange Zeit bewundert haben, sind sie genauso schuldig wie die anderen alten Mächte. Wir werden sie demütigen, indem wir die Khedivate von Nihon direkt von Kostantiniye aus regieren."
 
  #BftB edits ""
 
@@ -1224,7 +1192,6 @@ TUR_streamline_communication_methods_effect_tt:0 "Modifiziere §Y$TUR_disorganiz
 TUR_air_safety_regulations_effect_tt:0 "Modifizieren Sie §Y$TUR_disorganized_armed_forces_dynamic_modifier$§! um: \n$MODIFIER_AIR_ACCIDENTS_FACTOR$: §G-15.0%§!\n\n"
 
 r56_tur_invest_reward_tt:0 "§YUnsere Investitionen in [TUR.GetnameDEF] werden uns gewähren: §!§WEinen zeitlich begrenzten Nationalgeist, der entweder§! §GVorteile§! §Woder§! §RNachteile§! §Wenthält, je nachdem, wie gut die Investition gelaufen ist.§!"
-TUR_investment_pursued:0 "Derzeit verfolgte Investitionen"
 TUR_the_italo_turkish_friendship_treaty:0 "Der italienisch-türkische Freundschaftsvertrag"
 TUR_the_italo_turkish_friendship_treaty_desc:0 "Die Italiener mögen in unserer Sphäre konkurrieren und sogar einige unserer rechtmäßigen Ländereien besitzen, aber eine Zusammenarbeit mit ihnen ist unvermeidlich, um die türkische Nation und insbesondere ihre Marine zu stärken."
 
@@ -1320,5 +1287,4 @@ TUR_engulf_the_akdeniz_desc:0 "Die westlichen Mächte werden endlich lernen, uns
 TUR_preempt_ideological_threat:0 "Ideologische Bedrohung abwehren"
 TUR_preempt_ideological_threat_desc:0 "Die kommunistische Subversion ist ein entschiedener Gegner unserer Regierungsform. Man muss sich mit ihnen auseinandersetzen."
 bftb_turkey.23.desc:0 "[FROM.GetLeader] ist an [ROOT.GetLeader] mit dem Vorschlag herangetreten, einen gegenseitigen Nichtangriffspakt zu unterzeichnen, der die Aussicht auf eine weitere Zusammenarbeit in der Zukunft offen lässt. Die Diplomaten von [FROM.GetAdjective] haben hart an ihrem Vorschlag gearbeitet. Sie gingen ausführlich auf die gemeinsame Geschichte und die Interessen unserer beiden Nationen ein, gefolgt von einem ernsten Appell zum Frieden zwischen brüderlichen Nationen. Das Hin und Her der Verhandlungen war angenehm, aber die Entscheidung, ob wir unterschreiben oder nicht, liegt letztendlich bei uns."
-eniz:0 "Verschlingt die Akdeniz"
 
