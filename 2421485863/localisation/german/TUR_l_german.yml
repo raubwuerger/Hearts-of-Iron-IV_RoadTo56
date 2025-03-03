@@ -199,7 +199,7 @@ TUR_amend_the_montreux_convention_desc:0 "Die Sowjets haben ihr Interesse an den
 TUR_renew_the_soviet_non_aggression_pact_focus_days_tt:0 "Es sind 105 oder mehr Tage vergangen, seit der Fokus §YErneuerung des sowjetischen Nichtangriffspakts§! abgeschlossen wurde."
 TUR_renew_the_soviet_non_aggression_pact_current_days_tt:0 "Die aktuellen Tage sind: [?TUR_erneuern_den_sowjetischen_Nichtangriffspakt_flagge:days|Y0]"
 turkey.117.t:0 "Änderung des Übereinkommens von Montreux?"
-turkey.117.d:0 "[FROM.getAdjective] sind mit einem Versöhnungsangebot bezüglich des vor einigen Jahren unterzeichneten Montreux-Abkommens an uns herangetreten. Sie bieten an, unseren Truppen freien Zugang zum Land zu gewähren, während von uns erwartet wird, dass wir sie vor Feinden des Volkes schützen. 
+turkey.117.d:0 "[FROM.getAdjective] sind mit einem Versöhnungsangebot bezüglich des vor einigen Jahren unterzeichneten Montreux-Abkommens an uns herangetreten. Sie bieten an, unseren Truppen freien Zugang zum Land zu gewähren, während von uns erwartet wird, dass wir sie vor Feinden des Volkes schützen."
 turkey.117.a:0 "Diese Initiative gefällt uns, wir sind einverstanden!"
 turkey.117.b:0 "Glauben die Türken, dass dies ihre Rettung ist?"
 turkey.118.t:0 "Die Sowjets stimmen zu"

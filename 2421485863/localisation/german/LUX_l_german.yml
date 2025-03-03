@@ -1174,7 +1174,7 @@ LUX_minister_economics_button_LSAP_tt:0	"§HLSAP Wirtschaftsminister§!\n§HMili
 LUX_minister_economics_button_KPL_tt:0	"§HKPL Wirtschaftsminister§!\nKonsumgüterfabriken Faktor: §H5.0%§!\nProduktionseffizienz Wachstum: §G+14.00%§!\n\n§HVoraussetzungen:§!\n[GetMinistryLSAPKPLPrerequisiteTT]\n\n[GetMinistryKPLTT]"
 LUX_minister_interior_replace_tt:0	"§GKlicken Sie zum Ändern von §HMinister of the Interior§!."
 LUX_minister_interior_button_PD_tt:0	"§HPD Innenminister§!\nDaily Democracy Support: §G+0.03§!\nMonatliche Einwohnerzahl: §G+5.0%§!\n\n§HVoraussetzungen:§!\n[GetMinistryPDPRLPrerequisiteTT]\n\n[GetMinistryPDTT]"
-LUX_minister_interior_button_PRL_tt:0	"§HPRL Innenminister§!\nDaily Communism Support: §R-0.03§!\nWirtschaftsgesetz Kosten: §G-33%§!\n\n§HVoraussetzungen:§!\n[GetMinistryPDPRLPrerequisiteTT]\n\n[GetMinistryPRLTT]"
+LUX_minister_interior_button_PRL_tt:0	"§HPRL Innenminister§!\nTägliche Unterstützung des Kommunismus: §R-0.03§!\nWirtschaftsgesetz Kosten: §G-33%§!\n\n§HVoraussetzungen:§!\n[GetMinistryPDPRLPrerequisiteTT]\n\n[GetMinistryPRLTT]"
 LUX_minister_interior_button_LSAP_tt:0	"§HLSAP Innenminister§!\nPartei Popularität Stabilitätsfaktor: §G+8.00%§!\nPolitische Beraterkosten: §R+10%§!\n\n§HVoraussetzungen:§!\n[GetMinistryLSAPKPLPrerequisiteTT]\n\n[GetMinistryLSAPTT]"
 LUX_minister_interior_button_KPL_tt:0	"§HKPL Minister des Innern§!\nStabilität: §R-6.00%§!\nTägliche Unterstützung des Kommunismus: §G+0.01§!\n\n§HVoraussetzungen:§!\n[GetMinistryLSAPKPLPrerequisiteTT]\n\n[GetMinistryKPLTT]"
 LUX_minister_foreign_replace_tt:0	"§GKlick zum Ändern §HMinister für Auswärtige Angelegenheiten§!"

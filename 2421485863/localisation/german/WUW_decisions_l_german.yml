@@ -440,7 +440,7 @@ GER_modify_economy_of_conquest_modifier_russian_states_tt: "Verwendet §Y[FROM.G
 GER_economy_of_conquest_modifier_consumer_goods_tt: "§Y$GER_economy_of_conquest_modifier$§! hat §Y$MODIFIER_CONSUMER_GOODS_FACTOR$§! höher als §Y0.0%§!"
 GER_price_controls_cat: "Maßnahmen zur Preiskontrolle"
 GER_price_controls_cat_desc: "Die Einführung von Preiskontrollen wird die Wirtschaft stabilisieren und Inflation verhindern. Durch die Regulierung der Preise bleiben wichtige Güter erschwinglich."
-GER_guns_before_butter: "Start der Kampagne „Waffen vor Butter"
+GER_guns_before_butter: "Start der Kampagne Waffen anstatt Butter"
 GER_arbeit_und_brot: "Starten Sie die Arbeit und Brot-Kampagne"
 GER_collect_scrap_metal: "Sammeln Sie Metallschrott"
 GER_ersatz_material: "Entwickeln Sie Ersatzmaterial"

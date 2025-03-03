@@ -45,7 +45,7 @@ TRK_nuclear:0 "[ROOT.GetAdjective] Uran-Gewinnung"
 TRK_nuclear_desc:0 ""
 TRK_soviet_secret_weapons:0 "Kooperieren Sie mit den [SOV.GetAdjective]s"
 TRK_soviet_secret_weapons_desc:0 ""
-TRK_kun_project:0 "„Das KUN Projekt“ #idk was der Name des Fokus bedeutet"
+TRK_kun_project:0 "Das KUN Projekt"
 TRK_kun_project_desc:0 ""
 TRK_semipalatinsk_nuclear_site:0 "Semipalatinsk Atomtestgelände"
 TRK_semipalatinsk_nuclear_site_desc:0 ""
@@ -92,7 +92,7 @@ TRK_provide_autonomy_to_settlers_desc:0 ""
 
  # Tooltips - Misc ""
 TRK_wargoals_formable:0 "§YDieser Fokus gibt Kriegsziele an die Inhaber jedes nicht verbündeten turkestanischen Staates vor.§!"
-SOV_TRK_weapon_cooperation:0 "„Die §Y[SOV.GetAdjective]s§! haben §Ygenehmigt§! Waffe §YKooperation§!.“ #Flagge"
+SOV_TRK_weapon_cooperation:0 "Die §Y[SOV.GetAdjective]s§! haben §Ygenehmigt§! Waffe §YKooperation§!."
 
 TRK_fascist_party:0 "Turkiston Milliy Birligi"
 

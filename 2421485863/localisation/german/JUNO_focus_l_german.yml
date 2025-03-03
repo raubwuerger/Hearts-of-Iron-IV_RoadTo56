@@ -330,7 +330,7 @@
  #### Chile ##### ""
 
  CHL_expand_mining_prospection_tt: "Erhöht die Produktion von §Y4£Ressourcen_streifen|5 §Y$Staatsressource_Stahl$§!, £Ressourcen_streifen|6 §Y$Staatsressource_Chrom$§!, £Ressourcen_streifen|4 §Y$Staatsressource_Wolfram$§! oder £resources_strip|2 §Y$state_resource_aluminium$§! §!in jedem Kernstaat, der bereits einen dieser Bodenschätze bereitstellt. \nAktuelle Auswirkungen:"
- CHL_skip_one_line_tt: "" \n"  
+ CHL_skip_one_line_tt: " \n"  
  chilean_trade_deals_opinion_modifier: "Vorteilhafte Handelsgeschäfte"
 
  CHL_high_quality_nitrate: "Hochwertiges Nitrat"
