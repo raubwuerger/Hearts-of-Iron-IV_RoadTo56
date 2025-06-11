@@ -1,3 +1,6 @@
 ﻿l_german:
  #please do not fully override the vanilla file as it is expanded quite often, put R56-exclusive loc here, and put overrides in a seperate file ""
-ENG_vulcan_foundry: "Vulcan Gießerei"
+ENG_vulcan_foundry:	"Vulcan Gießerei"
+mio_cat_eq_all_artillery:0	"Alle Artillerieausrüstungen"
+mio_cat_eq_railway_gun:0	"Alle Eisenbahngeschütze"
+mio_cat_eq_heavy_howitzer:0	"Alle superschweren Haubitzen"
