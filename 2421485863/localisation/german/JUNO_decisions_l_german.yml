@@ -406,7 +406,7 @@
  ARG_3_fedint_decision_done: "3 Föderale Interventionsmaßnahmen ergriffen"
  ARG_international_loan_decisions: "Internationale Darlehen"
  ARG_international_loan_decisions_desc: "Um die Wirtschaft von [ROOT.GetAdjective] wieder in Gang zu bringen, wäre es klug, die Großmächte der Welt um einen Kredit zu bitten, um unseren Verjüngungsprozess in Gang zu bringen. Wir sollten jedoch darauf achten, dass wir uns nicht zu sehr verschulden."
- ARG_international_loan_decisions_tt: "Schaltet §YInternationales Darlehen§! frei. Wenn die Zielnationen akzeptieren, gewinnt [ROOT.GetNonIdeologyName]:"
+ ARG_international_loan_decisions_tt: "Schaltet §YInternationales Darlehen§! frei. Wenn die Zielnationen akzeptieren, gewinnt [ROOT.GetNonIdeologyName]: \n$ARG_international_loan_tt$"
  ARG_international_loan_tt: "Fügen Sie §Y$ARG_international_loan_modifier$§! hinzu, der Folgendes gewährt:\nTägliche politische Machtkosten: §R-20.0%§!\nRessourcengewinnungs-Effizienz: §G+5.0%§!\nBaugeschwindigkeit: §G+4.0%§!\nFabrikproduktion: §G+6.0%§!\nWerftproduktion: §G+6.0%§!\n"
  ARG_loan_from_britain: "Nehmen Sie ein Darlehen von [ENG.GetFlag]§Y[ENG.GetName]§! auf."
  ARG_pay_back_britain: "Kredit zurückzahlen an [ENG.GetFlag]§Y[ENG.GetName]§!."

@@ -541,10 +541,10 @@ ITA_train_irregulars_ethiopia_tt:0 "Erstellen Sie §Y1 $irregular_infantry$ Divi
 ITA_train_irregulars_cd_tt:0 "§YDiese Entscheidung§! wird in §Y[?ITA_colonial_management_cd] Tagen§! wieder verfügbar sein.\n"
 ITA_reorganize_irregulars:0 "Irreguläre Truppen reorganisieren"
 ITA_reorganize_irregulars_desc:1 "Durch die Reorganisation unserer irregulären Truppen könnten wir sie stärken und zu einer schlagkräftigeren Truppe machen."
-ITA_reorganize_irregulars_tt:1 "Fügt §Y2 $irregular_infantry$ Bataillone§! und §Y1 $recon$ Bataillon§! zu allen Irregular Infantry Division Templates hinzu. \nFügt §Y2 $Kavallerie$-Bataillone§! und §Y1 $Aufklärungs$-Bataillon§! zu allen irregulären Kavallerie-Divisionsvorlagen hinzu. \nFügt §Y2 $Kavallerie$-Bataillone§! und §Y1 $Aufklärungs$-Bataillon§! zu allen irregulären Kavallerie-Divisionsvorlagen hinzu."
+ITA_reorganize_irregulars_tt:1 "Fügt §Y2 $irregular_infantry$ Bataillone§! und §Y1 $recon$ Bataillon§! zu allen Irregular Infantry Division Templates hinzu. \nFügt §Y2 $camelry$-Bataillone§! und §Y1 $recon$-Bataillon§! zu allen irregulären Kavallerie-Divisionsvorlagen hinzu. \nFügt §Y2 $cavalry$-Bataillone§! und §Y1 $recon$-Bataillon§! zu allen irregulären Kavallerie-Divisionsvorlagen hinzu."
 ITA_reorganize_ascari:0 "Ascari reorganisieren"
 ITA_reorganize_ascari_desc:1 "Durch die Reorganisation der Ascari-Truppen können wir sie stärken und zu einer schlagkräftigeren Truppe machen."
-ITA_reorganize_ascari_tt:1 "Fügt §Y1 $armored_car_recon$ battalion§! und §Y1 $artillery_brigade$ battalion§! zu allen Colonial Infantry Division Templates hinzu. \nFügt §Y2 $Kavallerie$-Bataillone§! und §Y1 $Aufklärungs$-Bataillon§! zu allen Kolonialen Kavallerie-Divisionsvorlagen hinzu. \nFügt §Y2 $Kavallerie$-Bataillone§! und §Y1 $Aufklärungs$-Bataillon§! zu allen kolonialen Kavallerie-Divisionsvorlagen hinzu."
+ITA_reorganize_ascari_tt:1 "Fügt §Y1 $armored_car_recon$ battalion§! und §Y1 $artillery_brigade$ battalion§! zu allen Colonial Infantry Division Templates hinzu. \nFügt §Y2 $camelry$-Bataillone§! und §Y1 $recon$-Bataillon§! zu allen Kolonialen Kavallerie-Divisionsvorlagen hinzu. \nFügt §Y2 $cavalry$-Bataillone§! und §Y1 $recon$-Bataillon§! zu allen kolonialen Kavallerie-Divisionsvorlagen hinzu."
 ITA_regional_development_in_state:0 "Regionale Entwicklung in [FROM.GetName]"
 ITA_regional_development_in_state_desc:1 "Die Entwicklung unserer kolonialen Besitzungen wird sie bewohnbarer und wohlhabender machen."
 
