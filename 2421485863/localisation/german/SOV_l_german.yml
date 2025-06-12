@@ -413,7 +413,7 @@ SOV_counter_attack_through_manchuria:0	"Gegenangriff durch die Mandschurei"
 
 r56_operation_countenance_tooltip:0	"§Y[PER.GetName]§!: Hat kapituliert"
 
-r56_SOV_development_of_tankograd_tt:0	"Wenn es keine anderen §YExperimentelle Einrichtungen§! in §Y[572.GetName]§! gibt, erhalten wir §G1§! §Y$Land_facility$§! in§Y[572.GetName]§!."
+r56_SOV_development_of_tankograd_tt:0	"Wenn es keine anderen §YExperimentelle Einrichtungen§! in §Y[572.GetName]§! gibt, erhalten wir §G1§! §Y$land_facility$§! in§Y[572.GetName]§!."
 SOV_rubin_design_bureau:0	"Rubin Design-Büro"
 SOV_restore_the_union:0	"Wiederherstellung der Union"
 

@@ -72,7 +72,7 @@ modifier_experience_gain_heavy_armor_training_factor:0 "§YSchwerer Panzer§! Au
 modifier_experience_gain_heavy_armor_combat_factor:0 "§YSchwerer Panzer§! Kampferfahrung sammeln"
 modifier_experience_gain_anti_tank_combat_factor:0 "§YPanzerabwehrbrigade§! Kampferfahrung sammeln"
 modifier_experience_gain_shocktroop_combat_factor:0 "§YSchocktruppen§! Kampferfahrung sammeln"
-modifier_experience_gain_artillery_combat_factor:0 "§YArtillerie-Brigade§! Kampferfahrung gewinnen #Vanilla override"
+modifier_experience_gain_artillery_combat_factor:0 "§YArtillerie-Brigade§! Kampferfahrung gewinnen 
 modifier_experience_gain_militia_combat_factor:0 "Erfahrungsgewinn der Miliz im Kampf"
 
 modifier_experience_gain_cas_training_factor:0 "§YLuftnahunterstützung§! Ausbildungserfahrung gewinnen"
@@ -118,9 +118,9 @@ modifier_repair_speed_air_base_factor:0 "$air_base$ Reparatur-Geschwindigkeit"
 modifier_state_repair_speed_arms_factory_factor:0 "§Y$arms_factory$§! Reparaturgeschwindigkeit in Provinz"
 
  # Hidden Ideas #
-r56_idea_small_nation_buildup_nerf:0 "Kleine Wirtschaft #lokalisiert für den Fall, dass ein Spieler den Modifikator sieht"
+r56_idea_small_nation_buildup_nerf:0 "Kleine Wirtschaft 
 r56_idea_i_am_player_stockpile_capture:0 "Im Kampf erbeutete Ausrüstung"
-r56_idea_1941_ai_debuff:0 "Beanspruchte Nation #lokalisiert nur für den Fall, dass ein Spieler den Modifikator sieht"
+r56_idea_1941_ai_debuff:0 "Beanspruchte Nation 
 
 SWE_vattenfall_upgrade_tt: "\nVerbessert dieses Anliegen automatisch, wenn die Gesamtsumme von §YInfrastruktur§! in §Y[666.GetName]§!, §Y[1029.GetName]§! und §Y[38.GetName]§! ist mehr als §Y11 Infrastruktur§!\nWelche Zuschüsse:\n$Industrieforschung$: §G+15%§!\n$Elektronikforschung$: §G+15%§!"
 BLOCKADE_RUNNER_TRIGGER_TT:0 "Haben Sie einen Einsatzverband im Gefecht, bei dem jedes Schiff eine Geschwindigkeit von mehr als 37 Knoten hat, oder befinden Sie sich im Verteidigungskampf gegen einen feindlichen Einsatzverband, der zu 80% aus U-Booten besteht, während mindestens ein Konvoi im Gefecht ist. "

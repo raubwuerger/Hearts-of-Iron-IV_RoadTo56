@@ -191,7 +191,7 @@
  COG_amphibious_mechanized_equipment_1_short:0 "LVT-2"
  COG_amphibious_mechanized_equipment_2:0 "Landefahrzeug Raupenfahrzeug 4"
  COG_amphibious_mechanized_equipment_2_short:0 "LVT-4"
- COG_train_equipment_1:0 "NCFB Typ 1 #Gleich wie BEL"
+ COG_train_equipment_1:0 "NCFB Typ 1 
  COG_train_equipment_1_short:0 "SNCFB-Typ 1"
 
  FLA_motorized_rocket_equipment_1:0 "Fusée 110 modèle 1942"

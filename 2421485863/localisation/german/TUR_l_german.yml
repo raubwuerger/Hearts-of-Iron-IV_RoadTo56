@@ -1185,7 +1185,7 @@ TUR_revanchism_focus:0 "Revanchismus"
 
  ### Armed forces dynamic modifier ""
 TUR_disorganized_armed_forces_dynamic_modifier:0 "Desorganisierte Streitkräfte"
-TUR_modernize_our_tactics_effect_tt:0 "Modifiziere §Y$TUR_desorganisierte_bewaffnete_Kräfte_dynamischer_Modifikator$§! um:\n$MODIFIER_ARMY_ORG_FACTOR$: §G+10.0%§!\n\n"
+TUR_modernize_our_tactics_effect_tt:0 "Modifiziere §Y$TUR_disorganized_armed_forces_dynamic_modifier$§! um:\n$MODIFIER_ARMY_ORG_FACTOR$: §G+10.0%§!\n\n"
 TUR_use_modern_infrastructure_effect_tt:0 "Ändere §Y$TUR_disorganized_armed_forces_dynamic_modifier$§! um:\n$MODIFIER_ARMY_SPEED_FACTOR$: §G+10.00%§!\n\n"
 TUR_overhaul_training_methods_effect_tt:0 "Modifiziere §Y$TUR_disorganized_armed_forces_dynamic_modifier$§! um: \n$MODIFIER_TRAINING_TIME_FACTOR$: §G-25. 00%§!\n$MODIFIER_MINIMUM_TRAINING_LEVEL$: §R+10%§!\n\n"
 TUR_streamline_communication_methods_effect_tt:0 "Modifiziere §Y$TUR_disorganized_armed_forces_dynamic_modifier$§! um: \n$MODIFIER_NAVAL_COORDINATION$: §G+15%§!\n\n"

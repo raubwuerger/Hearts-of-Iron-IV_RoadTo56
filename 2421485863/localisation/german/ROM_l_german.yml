@@ -704,9 +704,9 @@ ROM_invite_german_military_advisors_tt:0	"$ROM_modify_the_romanian_armed_forces$
 
 ROM_romanian_armed_forces_tt:0	"$ROM_modify_the_romanian_armed_forces$ \n$mobilization_laws_cost_factor$: §G-10%§!\n\n"
 
-ROM_the_higher_war_school_tt:0	"$ROM_modify_the_romanian_armed_forces$ \n$MODIFIER_TRAINING_TIME_ARMY$: §G-10%§!\n$Mobilisierungsgesetz_Kostenfaktor$: §G-10%§!\n$MODIFIERS_ARMY_INFANTRY_DEFENCE_FACTOR$: §G+10%§!\n\n"
+ROM_the_higher_war_school_tt:0	"$mobilization_laws_cost_factor$ \n$MODIFIER_TRAINING_TIME_ARMY$: §G-10%§!\n$ROM_modify_the_romanian_armed_forces$: §G-10%§!\n$MODIFIERS_ARMY_INFANTRY_DEFENCE_FACTOR$: §G+10%§!\n\n"
 
-ROM_the_nicolae_balcescu_academy_tt:0	"$ROM_modify_the_romanian_armed_forces$ \n$MODIFIER_XP_GAIN_ARMY_FACTOR$: §G+10%§!\n$Mobilisierungsgesetze_Kostenfaktor$: §G-10%§!\n$MODIFIERS_ARMY_INFANTRY_ATTACK_FACTOR$: §G+10%§!\n\n"
+ROM_the_nicolae_balcescu_academy_tt:0	"$mobilization_laws_cost_factor$ \n$MODIFIER_XP_GAIN_ARMY_FACTOR$: §G+10%§!\n$ROM_modify_the_romanian_armed_forces$: §G-10%§!\n$MODIFIERS_ARMY_INFANTRY_ATTACK_FACTOR$: §G+10%§!\n\n"
 
 ROM_the_army_profession_tt:0	"$ROM_modify_the_romanian_armed_forces$ \n$MODIFIER_ARMY_ORG$: §G+15%§!\n$MODIFIER_STABILITY_FACTOR$: §G+5%§!\n\n"
 

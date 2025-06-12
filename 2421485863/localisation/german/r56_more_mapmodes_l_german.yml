@@ -6,7 +6,7 @@
 
  # Map Modes: ""
  more_mapmodes_core_map_mode: "Heimatprovinzen"
- MAPMODE_MORE_MAPMODES_CORE_MAP_MODE: "§Y$mehr_mapmodes_kern_map_mode$§! $MAPMODE_CONSTANT$"
+ MAPMODE_MORE_MAPMODES_CORE_MAP_MODE: "§Y$more_mapmodes_core_map_mode$§! $MAPMODE_CONSTANT$"
  MAPMODE_MORE_MAPMODES_CORE_MAP_MODE_NAME: "$more_mapmodes_core_map_mode$"
  MAPMODE_MORE_MAPMODES_CORE_MAP_MODE_DESCRIPTION: "Zeigt unsere Heimatprovinzen, Okkupierte Provinzen und besetzte Provinzen in verschiedenen Farben an."
  more_mapmodes_core_map_mode_tooltip: "\nDie MapModesCoreMapModeTooltip$ zeigt unsere Heimatprovinzen an."

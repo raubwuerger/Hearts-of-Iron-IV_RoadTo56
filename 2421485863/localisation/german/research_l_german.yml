@@ -21,7 +21,7 @@
  RESEARCH_IDEA_PENALTY_ENTRY:0 "$IDEE$: $FAKTOR|R=0%$"
  RESEARCH_REPLACE_TITLE:0 "Ersetzen Forschung"
  RESEARCH_REPLACE_DESC:0 "Sind Sie sicher, dass Sie §Y$NEUE_TECH$§! anstelle von §Y$ALTE_TECH$§! mit §Y$FORTSCHRITT|%0$§! erforschen wollen?"
- RESEARCH_REPLACE_TRANSFER:0 "§Y$FORSCHUNG|%0$§! wird/werden der/die Tag(e) der zuvor gespeicherten Forschung auf die neue Technologie übertragen."
+ RESEARCH_REPLACE_TRANSFER:0 "§Y$SAVED|H0$§! wird/werden der/die Tag(e) der zuvor gespeicherten Forschung auf die neue Technologie übertragen."
  RESEARCH_REPLACE_EXCLUSIVE_TITLE:0 "Wechselseitig exklusive Forschung ersetzen"
  RESEARCH_REPLACE_EXCLUSIVE_DESC:0 "Sind Sie sicher, dass Sie §Y$NEUE_TECH$§! anstelle von §Y$ALTE_TECH$§! und all ihren Untertechnologien erforschen wollen?"
  RESEARCH_EXCLUSIVE_INFO_TITLE_TOOLTIP:0 "§RDie Technologie schließt sich gegenseitig aus mit:§!"
@@ -32,13 +32,13 @@
  RESEARCH_YEAR_AHEAD_PENALTY:1 "§RDie Technologie ist $JAHRE|2$ Jahre der Zeit voraus (+$WERT|%0$). Die Strafe wird mit der Zeit abnehmen.§!"
  RESEARCH_YEAR_AHEAD_PENALTY_RED:2 "§RDie Technologie ist $JAHRE|2$ Jahre voraus (+$WERT|%0$), aber die Vorlaufstrafe wurde aufgrund nationaler Schwerpunkte um $REDUCED_YEARS|.1$ Jahre (+$RED|%0$) reduziert. Die Strafe wird mit der Zeit abnehmen.§!"
  RESEARCH_TECH_UNUSED:1 "§GZum Forschen anklicken§!\nInnerhalb von 56 Tagen kannst du ein neues Gebiet zum Forschen wählen, ohne Forschungszeit zu verlieren."
- RESEARCH_NO_LONGER_AVAILABLE:0 "$FORSCHUNG|H$\n§RNicht mehr verfügbar - Wird am nächsten Tag entfernt§!"
+ RESEARCH_NO_LONGER_AVAILABLE:0 "$RESEARCH|H$\n§RNicht mehr verfügbar - Wird am nächsten Tag entfernt§!"
  RESEARCH_EQUIPMENT_HEADER:0 "Ausrüstung"
  RESEARCH_UPGRADES_HEADER:0 "Verbessert"
  RESEARCH_UNLOCKS_HEADER:0 "Schaltet  frei."
  RESEARCH_UNLOCKS_EQUIPMENT_HEADER:0 "§TSchaltet $EQUIPMENTS$§!"
  RESEARCH_UNLOCKS_EQUIPMENT_MODULES_HEADER:0 "§TSchaltet $MODULES$§!"
- RESEARCH_UNLOCKS_BUILDINGS_HEADER:0 "§TErmöglicht Gebäude: $GEBÄUDE$§!"
+ RESEARCH_UNLOCKS_BUILDINGS_HEADER:0 "§TErmöglicht Gebäude: $BUILDINGS$§!"
  RESEARCH_UNLOCKS_SUBUNITS_HEADER:0 "§TAktiviert $SUBUNITS$§!"
  RESEARCH_UNLOCKS_TACTICS_HEADER:0 "§TAktiviert Taktik: $TACTICS$§!"
  RESEARCH_MODIFIERS_HEADER:0 "Globale Statistiken"
@@ -696,8 +696,8 @@
  carrier_battlegroups_desc:0 "Flugzeugträger sind in der Lage, den Feind aus größerer Entfernung anzugreifen als jede Marinekanone, und da wir den Himmel im Blick haben, können wir nie unvorbereitet getroffen werden. Flugzeugträger in Massen sind eine Macht, mit der man rechnen muss."
  escort_patrols:0 "Geleitschutzpatrouillen"
  escort_patrols_desc:0 "Dank der verbesserten Erkennung sind unsere Konvoi-Eskorten für U-Boote weitaus tödlicher. Da sie sich nirgendwo verstecken können, stellen sie keine wirkliche Bedrohung dar."
- RESEARCH_PROGRESS_DONE:0 "§TErforschte Zeit: $WOCHEN|H$§!"
- RESEARCH_PROGRESS_COMPACT:0 "§T$Tage|H$ Tag(e)§!"
+ RESEARCH_PROGRESS_DONE:0 "§TErforschte Zeit: $WEEKS|H$§!"
+ RESEARCH_PROGRESS_COMPACT:0 "§T$DAYS|H$ Tag(e)§!"
  RESEARCH_PROGRESS_COMPACT_WITH_XP:0 "§T$DAYS|H$ Tag(e) ($XP_TEXT$)§!"
  RESEARCH_PROGRESS_DAYS: "$NUM|H$"
  RESEARCH_PROGRESS_DAYS_GOOD: "$NUM|G$ £increase_reversed_texticon "
@@ -773,7 +773,7 @@
  RESEARCH_DOCTRINE_REQUIREMENTS_SINGLE:0 "§RBenötigt Doktrin ($TECH$)§!"
  UNUSED_SLOT:0 "Wählen Sie eine Technologie zur Erforschung"
  ETA_SHORT_D:0 "§T$DAYS|H$ Tag(e)§!"
- ETA_SHORT_W:0 "§T$WOCHEN|H$ Wochen§!"
+ ETA_SHORT_W:0 "§T$WEEKS|H$ Wochen§!"
  ETA_DAYS_WEEKS:0 "§T$DAYS|H$ Tag(e) und $WEEKS|H$ Woche(n) aus $COST|H$ Tag(e) übrig§!"
  ETA_WEEKS:0 "§T$WEEKS|H$ Wochen aus $COST|H$ Tag(en) verbleibend.§!"
  ETA_DAYS:0 "§T$DAYS|H$ Tag(e) aus $COST|H$ verbleibende(r) Tag(e).§!"
@@ -950,7 +950,7 @@
  airdrop_mines:0 "Minenverlegung aus der Luft"
  airdrop_mines_desc:0 "Durch die Ausstattung der Minen mit einem kleinen Fallschirm können sie sicher aus Flugzeugen abgeworfen werden, was eine schnelle und effiziente Einrichtung von Minenfeldern ermöglicht."
  airdrop_mines_bba:0 "$airdrop_mines$"
- airdrop_mines_bba_desc:0 "$Abwurf_Minen_desc$"
+ airdrop_mines_bba_desc:0 "$airdrop_mines_desc$"
  airsweep_mines:0 "Minenräumung aus der Luft"
  airsweep_mines_desc:0 "Flugzeuge können mit spezieller Ausrüstung ausgestattet werden, um Seeminen aus der Luft aufzuspüren und sicher zur Explosion zu bringen."
  airsweep_mines_bba:0 "$airsweep_mines$"
@@ -1212,22 +1212,22 @@
  naval_artillery: "Marineartillerie"
 
  mio_cat_tech_all_armor_and_modules: "Alle Panzertechnologien"
- mio_cat_tech_light_armor_and_modules: "Alle leichten Panzertechnologien" #Cannot talk about modules because of DLC lock tack
- mio_cat_tech_medium_armor_and_modules: "Alle mittleren Panzertechnologien" #Cannot talk about modules because of DLC lock tack
- mio_cat_tech_heavy_armor_and_modules: "Alle schweren Panzertechnologien" #Cannot talk about modules because of DLC lock tack
+ mio_cat_tech_light_armor_and_modules: "Alle leichten Panzertechnologien" 
+ mio_cat_tech_medium_armor_and_modules: "Alle mittleren Panzertechnologien" 
+ mio_cat_tech_heavy_armor_and_modules: "Alle schweren Panzertechnologien" 
  mio_cat_all_artillery_equipment: "Alle Artillerietechnologien"
- mio_cat_all_light_fighter_and_modules: "Alle Kampfflugzeug Technologien" #Cannot talk about modules because of DLC lock tack
- mio_cat_all_cas_and_modules: "Alle CAS-Technologien" #Cannot talk about modules because of DLC lock tack
- mio_cat_all_naval_bomber_and_modules: "Alle Marinebomber Technologien" #Cannot talk about modules because of DLC lock tack
- mio_cat_all_light_aircraft_and_modules: "Alle Leichtflugzeug Technologien" #Cannot talk about modules because of DLC lock tack
- mio_cat_all_medium_aircraft_and_modules: "Alle Technologien für mittelgroße Flugzeuge" #Cannot talk about modules because of DLC lock tack
- mio_cat_all_heavy_aircraft_and_modules: "Alle Technologien für schwere Flugzeuge" #Cannot talk about modules because of DLC lock tack
- mio_cat_tech_all_capital_ship_and_modules: "Alle Technologies für Großkampfschiffe" #Cannot talk about modules because of DLC lock tack
- mio_cat_tech_all_screen_ship_and_modules: "Alle Technologies für Sicherungsschiffe" #Cannot talk about modules because of DLC lock tack
- mio_cat_tech_all_submarine_and_modules: "Alle Technologies für U-Boote" #Cannot talk about modules because of DLC lock tack
- mio_cat_tech_all_carrier_and_modules: "AllAlle Technologies für Flugzeugträger" #Cannot talk about modules because of DLC lock tack
- mio_cat_tech_all_cruiser_and_modules: "Alle Technologies für Kreuzer" #Cannot talk about modules because of DLC lock tack
- mio_cat_tech_all_destroyer_and_modules: "Alle Technologies für Zerstörer" #Cannot talk about modules because of DLC lock tack
+ mio_cat_all_light_fighter_and_modules: "Alle Kampfflugzeug Technologien" 
+ mio_cat_all_cas_and_modules: "Alle CAS-Technologien" 
+ mio_cat_all_naval_bomber_and_modules: "Alle Marinebomber Technologien" 
+ mio_cat_all_light_aircraft_and_modules: "Alle Leichtflugzeug Technologien" 
+ mio_cat_all_medium_aircraft_and_modules: "Alle Technologien für mittelgroße Flugzeuge" 
+ mio_cat_all_heavy_aircraft_and_modules: "Alle Technologien für schwere Flugzeuge" 
+ mio_cat_tech_all_capital_ship_and_modules: "Alle Technologies für Großkampfschiffe" 
+ mio_cat_tech_all_screen_ship_and_modules: "Alle Technologies für Sicherungsschiffe" 
+ mio_cat_tech_all_submarine_and_modules: "Alle Technologies für U-Boote" 
+ mio_cat_tech_all_carrier_and_modules: "AllAlle Technologies für Flugzeugträger" 
+ mio_cat_tech_all_cruiser_and_modules: "Alle Technologies für Kreuzer" 
+ mio_cat_tech_all_destroyer_and_modules: "Alle Technologies für Zerstörer" 
  mio_cat_tech_all_motorized_mechanized: "Alle motorisierten und mechanisierten Technologien"
  militia_tech: "Militias"
  TOA_jungle_pioneers_support_tech: "Dschungel-Pioniere"
