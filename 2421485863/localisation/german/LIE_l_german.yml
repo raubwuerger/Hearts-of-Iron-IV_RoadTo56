@@ -264,7 +264,7 @@ LIE_soviet_tank_factories_desc:0	""
 
  #military/industry ""
 LIE_spirit_of_the_liechtenstein_army_modifier:0	"Geist der [ROOT.GetAdjective] Armee"
-LIE_modify_army_spirit_intro:0	"Modify §YThe Spirit of the [ROOT.GetAdjective] Armee§! durch"
+LIE_modify_army_spirit_intro:0	"Ändern §YDer Geist der [ROOT.GetAdjective] Armee§! durch"
 
 LIE_on_the_back_tt:0	"$LIE_modify_army_spirit_intro$ \nDivision Defence: §G+10.0%§!\n\n"
 LIE_liechtenstein_on_the_offensive_tt:0	"$LIE_modify_army_spirit_intro$ \nDivision Angriff: §G+10.0%§!\n\n"

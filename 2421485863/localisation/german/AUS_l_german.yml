@@ -137,7 +137,7 @@ AUS_state_nazi_up_niederoesterreich:0	"Die Naziunterstützung in §YNiederöster
 AUS_state_nazi_up_steiermark:0	"Die Unterstützung der Nazis in §YSteiermark§! wird auf §Rraised§! erhöht."
 AUS_state_nazi_up_wien:0	"Die Unterstützung der Nazis in §YWien§! wird §Rraised§!."
 AUS_state_nazi_up_kaernten:0	"Die Unterstützung der Nazis in §YKärnten§! wird §Erhöht§! sein."
-AUS_bundeslaender_nazis_down_random:0	"Die Unterstützung der Nazis in einem §YRandom State§! wird §Glowered§! sein."
+AUS_bundeslaender_nazis_down_random:0	"Die Unterstützung der Nazis in einer §YZufälligen Provinz§! wird §Gverringert§! werden."
 AUS_germany_unwilling_to_negotiate:0	"§Die Deutschen werden weniger bereit sein, mit uns über den Anschluss§! zu verhandeln."
 AUS_more_anschluss_chance:0	"Die Chance, dass Österreich sich dem Anschluss widersetzt, hängt vom Umfang der Unterstützung durch die Nazis ab."
 AUS_crush_nazis_tt_80:0	"Wir kontrollieren §Y80%§! aller Divisionen (Aktuell: [?r56_bundeslaender_balance_rounded]%)"

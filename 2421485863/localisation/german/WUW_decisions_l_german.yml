@@ -618,7 +618,7 @@ GER_currently_relocating_industry_flag:	" Derzeitige Verlagerung von Fabriken"
 GER_industrial_relocation_oil_decision:	"Verlegen Sie die Industrie nach [FROM.CONTROLLER.GetNameDef] für Öl von [FROM.GetName]"
 GER_industrial_relocation_tungsten_decision:	"Verlegen Sie die Industrie nach [FROM.CONTROLLER.GetNameDef] für Wolfram von [FROM.GetName]"
 GER_industrial_relocation_chromium_decision:	"Verlegen Sie die Industrie nach [FROM.CONTROLLER.GetNameDef] für Chrom von [FROM.GetName]"
-GER_industrial_relocation_descision_tt:	"5 der ausgewählten Ressourcen werden §Y[ROOT.GetNameWithFlag]§! gewährt, im Gegenzug wird §Y1§! Civilian Factory abgebaut und §Y[SOV.GetNameWithFlag]§! gewährt."
+GER_industrial_relocation_descision_tt:	"5 der ausgewählten Ressourcen werden §Y[ROOT.GetNameWithFlag]§! gewährt, im Gegenzug wird §Y1§! Zivilfabrik abgebaut und §Y[SOV.GetNameWithFlag]§! gewährt."
 
 GER_anti_colonialism_category:	"Antikolonialismus"
 GER_anti_colonialism_category_desc:	"Wir werden alles in unserer Macht stehende tun, um die Widerstandsbewegungen in Afrika und Asien zu unterstützen, bis die Plage des Imperialismus endlich beseitigt ist und sich die Arbeiter auf der ganzen Welt vereinigen."
