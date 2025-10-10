@@ -236,3 +236,7 @@ asian_war:0	"§Gegen alle Nationen, die zuvor entkernte Gebiete besitzen, wird d
 MAN_vassal_tt:0	"Besitzt alle Staaten in der folgenden Region:\n §YManchurien (außer der Auserwählten Halbinsel)§!\n §YNordchina§!\n §YOstchina§!\n §YWestchina§!\n §YSüdchina (außer Guangzhouwan, Macau und Hong Kong)§!"
 helped_to_arrest_konstantin:0	"Half bei der Verhaftung von Konstantin"
 Mukden_armory:0	"Mukden Arsenal"
+MAN_fully_coopt_concordian_ideals:	"Die konkordianischen Ideale vollständig kooptieren"
+MAN_fully_coopt_concordian_ideals_desc:	"Das Königshaus wird die konkordianischen Ideale vollständig übernehmen und sich einen Staat aller Ethnien in der Region sichern, der Expansion, Imperialismus und Legitimität ermöglicht und die Dominanz der Han-Chinesen blockiert."
+MAN_the_union_victorious:	"Die Union siegt"
+MAN_the_union_victorious_desc:	"Es ist vollbracht! Wir haben unsere Ziele erreicht und einen großen Staat geschaffen! Hoch lebe die Union und ihr großer Kaiser!"

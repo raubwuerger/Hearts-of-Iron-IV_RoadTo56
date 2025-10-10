@@ -37,8 +37,6 @@ TAN_lapshyn_oyun:0				"Lapshyn Oyun"
 TAN_seren_kuzhuget:0				"Seren Kuzhuget"
 
 
-GEN_tuva_annex_ussr:0				"Sowjetisch Was?"
-GEN_tuva_annex_ussr_desc:0				"Herzlichen Glückwunsch! Du hast den geheimen Fokus gefunden, der von jemandem im rt56-Diskord vorgeschlagen wurde. Er dachte, dass seine Bitte ignoriert wurde, aber entgegen aller Wahrscheinlichkeit wurde sein Ruf erhört. Ein gnädiger Waffle erhörte sein Gebet und ließ sein Gelübde unter einem mondlosen Himmel Wirklichkeit werden. Viel Spaß bei eurer leichten tuwinischen Welteroberung."
 
 EFFECT_CHANGE_LAW_r56i_gender_social:0				"Ändert den rechtlichen Status der Frau in:"
 EFFECT_CHANGE_LAW_r56i_social_order:0				"Ändert die soziale Ordnung in:"

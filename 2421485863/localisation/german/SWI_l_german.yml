@@ -705,13 +705,10 @@ SWI_give_speech_desc:0					"Die Rede von Marcel Pilet-Golaz hat die Nation mit D
 
 SWI_spirit_of_saint_bernard_idea_tooltip:1					"Feldlazarett Trickleback: §G+10%§!\nExp. Verlustfaktor: §G-10%§!"
 
-SWI_heer_und_haus:0					"Heer und Haus"
-SWI_heer_und_haus_desc:0					"Frei von quälenden Zweifeln und Entmutigung bewahren die Soldaten dieses Landes Gleichmut und Zuversicht."
 SWI_fighter_equipment_0:0					"Dewoitine D.27"
 SWI_fighter_equipment_0_short:0					"D.27"
 SWI_tac_bomber_equipment_0:0					"K+W Thun Fokker C.V.-E"
 SWI_tac_bomber_equipment_0_short:0					"K+W C.V.-E"
-SWI_ortswehren:0					"Ortswehren"
 SWI_ortswehren_desc:0					"Der totale Krieg bedeutet, dass jeder [ROOT.GetAdjective] Bürger bereit sein muss, seine Region zu verteidigen, aber nicht jeder ist in der Lage, sich unseren Milizen anzuschließen. Wir können lokale Wachen aufstellen, die den Milizen als Rückgrat dienen und sie in ihren Bemühungen zur Verteidigung von [ROOT.GetNameDef] unterstützen."
 r56_SWI_swiss_fortifications:0					"Schweizer Festungen"
 SWI_back_the_national_front:0					"Unterstützen Sie die Nationale Front"

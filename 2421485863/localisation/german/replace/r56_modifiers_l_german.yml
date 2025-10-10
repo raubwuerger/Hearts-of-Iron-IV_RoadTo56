@@ -160,3 +160,4 @@ modifier_unit_mech_shocktroop_design_cost_factor:0		"Mechanisierte Stoßtrupps E
 modifier_experience_gain_mot_shocktroop_combat_factor:0		"Motorisierte Schocktruppen Erfahrungsgewinn durch Kampf"
 modifier_experience_gain_mech_shocktroop_combat_factor:0		"Mechanisierte Schocktruppen Erfahrungsgewinn aus dem Kampf "
 unit_marine_commando_design_cost_factor:0		"Entwurfskosten für Marinekommando-Einheiten"
+r56_special_research_division_research:0	"Sonderforschungsbereich Forschung Speed"

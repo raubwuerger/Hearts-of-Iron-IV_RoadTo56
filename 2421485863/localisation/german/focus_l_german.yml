@@ -133,7 +133,6 @@ naval_air_effort_desc:0					"Die Wirksamkeit von Luftangriffen auf Seeziele wurd
 german_focus:0					"Deutscher Nationaler Schwerpunkt"
 GER_autobahn:0					"Reichsautobahn"
 GER_autobahn_tt:0					"Maximale §YInfrastruktur§! in §YBrandenburg§!, §YHannover§!, §YThüringen§! und §YFranken§!"
-GER_autobahn_desc:1					"Das Projekt Reichsautobahn ist seit seinem Beginn im Jahr 1933 ein glorreicher Erfolg. Die Bauarbeiten haben die Arbeitslosigkeit verringert, und die breiten Straßen sind ein Denkmal für den wirtschaftlichen Aufschwung Deutschlands. Es bleibt jedoch noch viel zu tun."
 GER_west_wall:0					"Westwall"
 GER_west_wall_desc:0					"Der Westwall verläuft parallel zu Frankreichs gepriesener Maginot-Linie und nimmt einen Großteil des Geländes ein, das die Siegfried-Linie im letzten Weltkrieg eingenommen hat. Die Verstärkung seiner Verteidigung wird es uns ermöglichen, die Grenze mit weniger Männern zu halten und Divisionen freizusetzen, die an möglichen Ostkampagnen teilnehmen können."
 GER_west_wall_tt:0					"§RWenn das Rheinland remilitarisiert wird, erhalten Sie außerdem:§!\n"
@@ -541,7 +540,6 @@ ITA_spanish_italian_faction:0					"Spanisch-italienische Allianz"
 ITA_spanish_italian_faction_desc:0					"Franco und die spanischen Nationalisten sind unsere natürlichen Verbündeten, geeint durch Religion, Kultur und Ideologie. Gemeinsam könnten wir Gibraltar einnehmen und der Royal Navy das Leben sehr schwer machen..."
 ITA_italian_highways:0					"Italienische Autobahnen"
 ITA_italian_highways_desc:0					"Wir müssen unsere Infrastruktur ausbauen, um die Mobilität unserer Truppen in unserem Reich zu gewährleisten. Angesichts von Feinden an jeder Ecke der Welt ist dies ein entscheidender Faktor für die Verteidigung des gesamten italienischen Bodens."
-ITA_libyan_refineries_desc:0					"Benhasi ist ein idealer Ort für den Bau von Raffinerien. Er liegt in der Nähe der Ölquellen und der Produktion im Heimatland."
 ITA_libyan_infrastructure:0					"Libysche Infrastruktur"
 ITA_libyan_infrastructure_desc:0					"Unsere ausgedehnten Ländereien in Nordafrika sind in Bezug auf die Infrastruktur immer noch im Rückstand gegenüber dem Rest unseres Reiches. Wir sollten unsere Anstrengungen darauf konzentrieren, sie auf den gleichen Stand zu bringen."
 ITA_greece_war_goal:0					"Krieg mit Griechenland"
@@ -1664,7 +1662,6 @@ GER_naval_doctrine_shortcut:					"Die Marine"
  
 FOCUS_SHORTCUT_TOOLTIP:					"§GLinksklick§! um den Pfad $PATH|H$ zu wechseln."
 
-ITA_libyan_refineries:0					"Libysche Raffinerien"
 FRA_fortification_focus:0					"Schwerpunkt Festung"
 FRA_fortification_focus_desc:0					"So entscheidend unsere Festungen auch waren, wir müssen Wege finden, sie effizienter zu bauen. Die Maginot-Linie war eine starke Abschreckung für die feindlichen Streitkräfte, wir könnten die Sicherheit von mehr Verteidigungsanlagen wie dieser brauchen."
  
