@@ -2,7 +2,6 @@
 GRN_eske_brun:0	"Eske Brun"
 GRN_aksel_svane:0	"Aksel Svane"
 GRN_greenland_worker_councils:0	"Grönländische Arbeiterräte"
-r56_greenland.1:0	"Das Hull-Kauffmann-Abkommen"
 r56_greenland.1.t:0	"Das Hull-Kauffmann-Abkommen"
 r56_greenland.1.d:0	"Die [DEN.GetADjective] Regierung ist vor kurzem von faschistischen Armeen besiegt worden, aber das Kolonialgebiet Grönland bleibt frei von faschistischer Einmischung. Passenderweise hat sich ein [DEN.GetADjective] Diplomat namens Henrik Kauffmann vor kurzem an uns gewandt, was die Situation in Grönland angeht. Er handelt ‚im Namen des Königs‘ und der Autorität der kürzlich ins Exil gegangenen [DEN.GetADjective]-Regierung.\n\nNuuk-Beamte haben sich mit dieser Bitte an Kauffmann gewandt, da sie eine [USA.GetADjective]-Besetzung einer möglichen Besetzung durch [ENG.GetNameDef] oder [CAN.GetNameDef] vorziehen würden. Oder noch schlimmer, eine faschistische Macht. Dieses Abkommen mag völkerrechtlich zweifelhaft sein... Aber wir haben die Verantwortung, alles Land und die Menschen in der Neuen Welt vor faschistischen Bedrohungen zu schützen; dazu gehört auch Grönland.\n\nWie sollen wir vorgehen?"
 r56_greenland.1.a:0	"Stelle Grönland sofort unter unsere direkte Kontrolle."

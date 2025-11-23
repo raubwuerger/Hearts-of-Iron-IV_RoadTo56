@@ -1195,7 +1195,6 @@ austria.97.d:0	"Die [AUS.GetAdjective]-Delegation hat einen Vorschlag unterbreit
 austria.97.a:0	"Ihre Bedingungen sind akzeptabel."
 austria.97.b:0	"Nein! Wir werden hier einen Schlussstrich ziehen!"
 austria.98.t:0	"[HUN.GetNameDefCap] Akzeptiert Ressourcenintegration"
-austria.98.b:0	"Die [HUN.GetAdjective] Delegation hat unsere Bitte um eine Integration der Ressourcenförderung zwischen unseren beiden Nationen akzeptiert, die es uns ermöglicht, mehr Einfluss auf ihren Handel auszuüben. "
 austria.98.a:0	"Sehr gut."
 austria.99.t:0	"[HUN.GetNameDefCap] lehnt Ressourcenintegration ab"
 austria.99.d:0	"Die [HUN.GetAdjective] Delegation hat unsere Bitte um eine Integration der Rohstoffgewinnung abgelehnt und erklärt, dass sie einen weiteren Einfluss Österreichs auf die Nation nicht akzeptieren wird."

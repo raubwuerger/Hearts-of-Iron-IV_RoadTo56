@@ -832,8 +832,6 @@ SAU_communism_party:0						"OSC"
 SAU_communism_party_long:0						"Organisation der saudischen Kommunisten"
 
  #SAR ""
-SAR_democratic_party:0						"CVPS"
-SAR_democratic_party_long:0						"Christliche Volkspartei des Saarlandes"
 
  #SAX ""
 SAX_neutrality_party:0						"Haus Wettin"
@@ -946,12 +944,6 @@ TON_communism_party:0						"WUT"
 TON_communism_party_long:0						"Arbeitergewerkschaft von Tonga"
 
  #TNG ""
-TNG_neutrality_party:0						"KMT"
-TNG_neutrality_party_long:0						"Kuomintang"
-TNG_democratic_party:0						"STPNLC"
-TNG_democratic_party_long:0						"Komitee zur Befreiung des Türkischen Volkes von Sinkiang"
-TNG_communism_party:0						"VKP (B)"
-TNG_communism_party_long:0						"Wsesojusnaja kommunisticheskaja partija (Bolschewikow)"
 
  #TMS ""
 TMS_communism_party:0						"KPT"

@@ -10,8 +10,6 @@
  SIK_caught_off_guard_desc:0 "Die 36. Division von [TNG.getleader] wurde von unseren jüngsten Forderungen und Eingriffen in ihre Angelegenheiten überrumpelt. Wir haben derzeit eine massive Oberhand bei der Auseinandersetzung mit ihren Streitkräften."
 
  #TNG ""
- SIK_TNG_defaction:0 "Defizite in der Führung"
- SIK_TNG_defaction_decs:0 "Einige unserer Armeeführer beginnen, zur anderen Seite überzulaufen. Das schwächt unsere Entschlossenheit, weiter zu kämpfen. Wir werden Zeit brauchen, um uns von diesem Verrat zu erholen."
 
  sik.1.t:0 "[SIK.getleader] verlangt die direkte Kontrolle über das Militär in Kashgar."
  sik.1.desc:0 "Es scheint, dass [SIK.getleader] durch seine jüngsten politischen Siege ermutigt wurde. Er glaubt, dass er das Recht und die Pflicht hat, über alle Regionen Xinjiangs zu herrschen. Dazu gehört auch das Militärgebiet Kashgar, das unter unserer Kontrolle steht. Obwohl eine solche Aktion nur ein Schachzug ist, um [TNG.GetLeader] zu untergraben und zu entmachten. Ein Mann, den [SIK.GetLeader] als Rivalen um seine Macht in der Region betrachtet. Wie sollten wir auf eine solch unangemessene Forderung reagieren?"
@@ -27,7 +25,6 @@
  sik.4.t:0 "[SIK.getleader] tritt zurück!"
  sik.4.desc:0 "Sie wollen sich nicht einem Kampf mit [TNG.getleader] stellen. Die Armeen unter [SIK.getleader] haben ihre Forderungen nach Kontrolle über die Kashgar Military distinct zurückgezogen. Dies ist ein großer Sieg für das Volk von Kashgar! Damit wird unsere Kontrolle über unser Land und die Region Kashgar weiter gefestigt."
  sik.4.a:0 "Ein großer Sieg!"
- SIK_TNG_REBELS_tt:0 "Türkische Rebellendivision erscheint in Kashgar"
 
  sik.6.t:0 "Das Xinjiang-Problem"
  sik.6.desc:0 "Vor einigen Stunden wurden wir von dem [FROM.GetAdjective] Gesandten in [ROOT.GetNameDef] angesprochen, der von einem "Xinjiang-Problem" sprach. Offenbar bietet uns die [FROM.GetAdjective]-Regierung wirtschaftliche Vorteile und verstärkte Unterstützung sowie politische Zugeständnisse im Gegenzug dafür, dass [ROOT.GetNameDef] den militärischen Schutz von [SIK.GetNameDef] aufgibt. Sollen wir unsere östlichen Verbündeten im Stich lassen oder soll unsere scheinbar bedingungslose Unterstützung für [SIK.GetNameDef] weitergehen, das ist die Frage..."
