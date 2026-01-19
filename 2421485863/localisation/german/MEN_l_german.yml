@@ -643,3 +643,6 @@ MEN_prioritize_industrialization_bonus_effect_tt:0	"§YZusätzliche '$MEN_rapid_
 MEN_suiyuan_campaign_category:	"$MEN_put_an_end_to_the_raids$"
 MEN_suiyuan_campaign:	"$MEN_put_an_end_to_the_raids$"
 MEN_cannot_call_to_suiyan_campaign:	"§RKann nicht an Kriegen teilnehmen [MEN.GetNonIdeologyName], da es sich bei der Suiyan-Kampagne um einen Grenzkrieg handelt§!"
+MEN_suiyuan_campaign_category:	"$MEN_put_an_end_to_the_raids$"
+MEN_suiyuan_campaign:	"$MEN_put_an_end_to_the_raids$"
+MEN_cannot_call_to_suiyan_campaign:	"§RKann nicht an Kriegen teilnehmen [MEN.GetNonIdeologyName], da es sich bei der Suiyan-Kampagne um einen Grenzkrieg handelt§!"
