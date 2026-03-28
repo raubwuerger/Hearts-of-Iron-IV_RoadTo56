@@ -487,7 +487,7 @@ demining_coil_desc:0 "Eine große, an der Flugzeugzelle angebrachte Spule ermög
 
  AIR_TITLE_AIRFRAME:0 "Flugzeugzellen"
  AIR_TITLE_WEAPONS:0 "Waffen"
- AIR_TITLE_ENGINES:0 cMotoren"
+ AIR_TITLE_ENGINES:0 "Motoren"
  small_plane_cas_airframe_design_cost_factor:0 "Kosten für die Konstruktion kleiner CAS-Flugzeugzellen"
  cv_small_plane_cas_airframe_design_cost_factor:0 "Kosten für die Konstruktion einer kleinen CAS-Trägerflugzeugzelle"
  medium_plane_airframe_design_cost_factor:0 "Mittlere Kosten für die Konstruktion des Flugzeugs"
