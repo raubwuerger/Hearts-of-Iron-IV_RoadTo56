@@ -1655,3 +1655,8 @@ AUS_minigame_disabled_tt:0	"§Das Minispiel Followed June wird deaktiviert sein.
 austria.133.b:0	"Österreich kann nicht so viel auf einmal bewältigen..."
 austria.98.d:0	"Die [HUN.GetAdjective] Delegation hat unserem Antrag zugestimmt, die Rohstoffgewinnung zwischen unseren beiden Nationen zu integrieren, wodurch wir mehr Einfluss auf ihren Handel erhalten werden."
 austria.98.d:0	"Die [HUN.GetAdjective] Delegation hat unserem Antrag zugestimmt, die Rohstoffgewinnung zwischen unseren beiden Nationen zu integrieren, wodurch wir mehr Einfluss auf ihren Handel erhalten werden."
+AUS_vaterlandische_front_party:0	"VF"
+AUS_vaterlandische_front_party_long:0	"Vaterländische Front"
+AUS_haus_habsburg_party:0	"Haus Habsburg"
+AUS_SDAPO_RIGHT_PARTY_LONG:0	"Sozialdemokratische Arbeiterpartei Österreichs – Rechts"
+AUS_SDAPO_RIGHT_PARTY:0	"SDAPÖ-R"

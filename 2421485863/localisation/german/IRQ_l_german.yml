@@ -540,3 +540,5 @@ r56_iraq_faction.11.d:0	"[IRQ.GetNameDefCap] würde gerne unserer Fraktion beitr
 r56_iraq_faction.11.a:0	"In diesen unsicheren Zeiten brauchen wir Verbündete."
 r56_iraq_faction.11.b:0	"[IRQ.GetNameDefCap] kann nichts zu unseren Kriegsanstrengungen beitragen"
 IRQ_Babil_def:	"das Reich von Babylon"
+IRQ_GOLDEN_SQUARE_PARTY:0	"Al-Murabba al-Dhahabī"
+IRQ_GOLDEN_SQUARE_PARTY_LONG:0	"Al-Murabba al-Dhahabī (Goldener Platz)"

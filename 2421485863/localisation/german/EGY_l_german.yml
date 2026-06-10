@@ -1040,3 +1040,4 @@ EGY_expand_the_aswan_hydroelectric_facility_desc:0	"Der Bau des Assuan-Staudamms
 EGY_rapid_weapon_production:0	"Schnelle Waffenproduktion"
 EGY_rapid_weapon_production_desc:0	""
 RULE_ALLOW_RELEASE_NATIONS_NOT_ISRAEL_TOOLTIP:0	"[ROOT.GetNameDef] soll [ISR.GetNameDef] nicht freilassen."
+EGY_the_egyptian_army_modifier_desc:0	"Jahrelange Vernachlässigung durch die Regierung und die Wirtschaft haben die Armee in einen schlechten Zustand versetzt; im Falle eines neuen Konflikts sind Modernisierung und Reformen erforderlich. "

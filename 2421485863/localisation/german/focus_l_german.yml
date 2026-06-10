@@ -1687,3 +1687,6 @@ GER_autobahn_desc:2		"Das Projekt [GetAutobahnName] war seit seinem Beginn im Ja
 GER_crossing_the_atlantic_trigger_tt:		"Nein: Ein feindliches Land: \n Gilt als großes Land \n Jeder kontrollierte Staat: \n Liegt in §YEurope§!"
 continuous_special_facility:		"Bau von Einrichtungen"
 continuous_special_facility_desc:		"Wir haben die Möglichkeit, unsere Forschungseinrichtungen zu verbessern, um mehr Wissenschaftlern die Möglichkeit zu geben, den neuen Durchbruch zu finden, der unsere zukünftige Kriegsführung verändern kann."
+RAJ_land_clearance_effect_tt:0	" §H$RAJ_population_decisions$§! Entscheidungen fügen nun §G1§! Bauplatz hinzu.\n$apply_integration_effects_retroactively$"
+HUN_protect_czechoslovakia_tt:	"\nSie werden sich eher unterwerfen, wenn:\n - §Hdie weltweite Spannung§! hoch ist\n - sie keiner §HFraktion§! angehören\n - sie eine §Hhohe Meinung§! von uns haben\n - Sie haben einen §HNichtangriffspakt§! mit uns\n - Ihr §HMilitär ist schwächer§! als unseres"
+HUN_unify_with_austria_tt:	"\nSie werden sich eher unterwerfen, wenn:\n - Sie weniger als §H50 % Kriegsunterstützung§!\n haben - sie keiner §HFraktion§! angehören\n - sie eine §Hhohe Meinung§! von uns haben\n - Ihr §HMilitär ist schwächer§! als unseres"

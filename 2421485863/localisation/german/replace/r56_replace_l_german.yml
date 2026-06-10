@@ -468,3 +468,6 @@ sp_air_supersonic_jet_desc:	"Fortschritte in der Strahltriebwerkstechnologie erf
 BYPASS_EFFECTS:	"\n§YBypass-Effekt§!:"
 naval_blockade_active:	"hat eine Seeblockade verhängt gegen"
 IRQ_political_events.21.t:0	"[FROM.GetNameDefCap] fordert die Kontrolle über Palästina"
+SF_MARINES_exfiltration_effect_tt:	"§HMarinekommandos§! können aus jeder §HKüstenprovinz§! entkommen."
+SF_marine_demoliton_effect_TT:	" §HMarinekommandos§! verursachen nach jeder erfolgreichen Seelandung §H1§! Stufe §HSchaden§! an allen strategischen §HProvinzgebäuden§! nach jeder erfolgreichen Seeinvasion. \n\n$PARA_EFFECT_TIMER$"
+NEP_royal_army:0	"[GetRoyalArmyFocusName]"
